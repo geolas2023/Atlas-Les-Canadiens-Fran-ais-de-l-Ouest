@@ -47,22 +47,7 @@ d = json.load(open(f'{AUBRY}/data/lieux.geojson'))
 copied = 0
 for f0 in d['features']:
     p = dict(f0['properties'])
-    imgs = []
-    for im in (p.get('images') or []):
-        if isinstance(im, str): im = {'src': im}
-        src = im.get('src','')
-        if src and not src.startswith('http'):
-            dst = 'images/aubry/' + src.split('/',1)[1] if src.startswith('images/') else 'images/aubry/'+os.path.basename(src)
-            os.makedirs(os.path.dirname(f'{OUT}/{dst}'), exist_ok=True)
-            if os.path.exists(f'{AUBRY}/{src}'):
-                if not os.path.exists(f'{OUT}/{dst}'): shutil.copy(f'{AUBRY}/{src}', f'{OUT}/{dst}'); copied += 1
-                im = dict(im, src=dst)
-            else: continue
-        imgs.append(im)
-    if p.get('image') and not p['image'].startswith('http') and os.path.exists(f"{AUBRY}/{p['image']}"):
-        dst = 'images/aubry/' + os.path.basename(p['image'])
-        if not os.path.exists(f'{OUT}/{dst}'): shutil.copy(f"{AUBRY}/{p['image']}", f'{OUT}/{dst}'); copied += 1
-        imgs.insert(0, {'src': dst, 'legende': ''})
+    imgs = []  # hub (nov. 2026) : les images restent dans l'Atlas Aubry ; scripts/hub.py réduit ces fiches à des renvois
     t = p.get('type')
     theme = {'evenement':'evenement','lieu':'etablissement','contexte':'evenement'}.get(t,'evenement')
     pers = [x for x in [p.get('acteur')] if x]
