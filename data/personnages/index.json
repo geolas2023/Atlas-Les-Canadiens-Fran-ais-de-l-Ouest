@@ -2,6 +2,28 @@
  "livre": "Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972)",
  "personnages": [
   {
+   "id": "beaubien",
+   "nom": "Charles (Alexis) Beaubien",
+   "couleur": "#b5402a",
+   "vie": "1800-1864",
+   "auteur": "Lawrence R. Murphy",
+   "pages": "29-41",
+   "etapes": 15,
+   "debut": 1800.75,
+   "fin": 1864.2
+  },
+  {
+   "id": "clamorgan",
+   "nom": "Jacques Clamorgan",
+   "couleur": "#4b5d8a",
+   "vie": "v. 1734-1814",
+   "auteur": "A. P. Nasatir",
+   "pages": "124-137",
+   "etapes": 17,
+   "debut": 1734.0,
+   "fin": 1814.87
+  },
+  {
    "id": "franchere",
    "nom": "Gabriel Franchère",
    "couleur": "#1f6f8b",
@@ -90,6 +112,28 @@
    "fin": 1892.06
   },
   {
+   "id": "pratte",
+   "nom": "Sylvestre S. Pratte",
+   "couleur": "#c0392b",
+   "vie": "1799-1827",
+   "auteur": "David J. Weber",
+   "pages": "258-269",
+   "etapes": 14,
+   "debut": 1799.72,
+   "fin": 1831.02
+  },
+  {
+   "id": "robidoux",
+   "nom": "Antoine Robidoux",
+   "couleur": "#d35400",
+   "vie": "1794-1860",
+   "auteur": "William S. Wallace",
+   "pages": "270-282",
+   "etapes": 22,
+   "debut": 1794.73,
+   "fin": 1860.66
+  },
+  {
    "id": "mstvrain",
    "nom": "Marcellin St. Vrain",
    "couleur": "#e6007e",
@@ -99,6 +143,17 @@
    "etapes": 16,
    "debut": 1815.79,
    "fin": 1871.18
+  },
+  {
+   "id": "vasquez",
+   "nom": "Antoine-François « Baronet » Vasquez",
+   "couleur": "#008080",
+   "vie": "1783-1828",
+   "auteur": "Janet Lecompte",
+   "pages": "302-314",
+   "etapes": 26,
+   "debut": 1738.0,
+   "fin": 1828.6
   }
  ]
 }

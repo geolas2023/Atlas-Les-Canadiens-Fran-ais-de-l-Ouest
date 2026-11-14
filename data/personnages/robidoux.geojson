@@ -1,0 +1,629 @@
+{
+ "type": "FeatureCollection",
+ "name": "robidoux",
+ "personnage": {
+  "id": "robidoux",
+  "nom": "Antoine Robidoux",
+  "auteur": "William S. Wallace",
+  "pages": "270-282",
+  "vie": "1794-1860",
+  "hafen": "Antoine Robidoux",
+  "chapeau": "Fils de Florissant devenu Don Antonio, président du conseil municipal de Santa Fe, fondateur des forts Uncompahgre et Uintah, premiers établissements permanents du corridor intermontagnard ; interprète de Kearny, blessé à San Pasqual.",
+  "couleur": "#d35400"
+ },
+ "bibliographie": [
+  "William S. Wallace, « Antoine Robidoux », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 270-282."
+ ],
+ "inedits": [
+  "Ritch Papers no 111 (naturalisation, 1823) et passeports signés par Clark (1824-1825), Huntington Library.",
+  "Archives du conseil municipal de Santa Fe, 1830 (présidence de Robidoux), Mexican Archives of New Mexico.",
+  "Licences de traite et listes de captifs utes vendus au Nouveau-Mexique (MANM, 1830-1844).",
+  "House Report no 226, 34e Congrès : dossier de pension et de remboursement de Robidoux.",
+  "Sites archéologiques des forts Uncompahgre (Delta, CO) et Uintah (Whiterocks, UT) : rapports de fouilles récents."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.322,
+     38.789
+    ]
+   },
+   "properties": {
+    "id": "robidoux-01",
+    "ordre": 1,
+    "nom": "Florissant : naissance (24 sept. 1794)",
+    "phase": "Missouri",
+    "debut": 1794.73,
+    "fin": 1809.99,
+    "date_edtf": "1794-09-24",
+    "certitude": "certaine",
+    "description": "Septième des dix enfants de Joseph Robidoux II (né au Canada en 1750, à Saint-Louis en 1770, marié en 1782 à Catherine Rollet de Cahokia), né dans la maison familiale de Florissant. À la mort du père en 1809, l'aîné Joseph III reprend l'entreprise.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 270 — note de l'auteur : W. S. Wallace, Antoine Robidoux, 1794-1860: A Biography of a Western Venturer (Los Angeles, 1953)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "robidoux-02",
+    "ordre": 2,
+    "nom": "Saint-Louis : un mois dans l'artillerie (avril-mai 1813)",
+    "phase": "Missouri",
+    "debut": 1813.3,
+    "fin": 1813.4,
+    "date_edtf": "1813-04-23",
+    "certitude": "certaine",
+    "description": "Il s'engage le 23 avril 1813 dans une compagnie d'artillerie et reçoit son congé honorable un mois plus tard.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 270",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "robidoux-03",
+    "ordre": 3,
+    "nom": "Santa Fe : demande de naturalisation d'Antonio et Luis (16 juillet 1823)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1823.54,
+    "fin": 1823.55,
+    "date_edtf": "1823-07-16",
+    "certitude": "certaine",
+    "description": "Une pétition de naturalisation d'Antonio et Luis Robidoux est datée de Santa Fe ; William Clark signe ensuite ses passeports pour le Mexique (29 févr. 1824, 29 juin 1825).",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 270 — note de l'auteur : Ritch Papers, no 111, Huntington Library ; passeports, Huntington Library",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.01,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "robidoux-04",
+    "ordre": 4,
+    "nom": "Fort Atkinson : les convois de Robidoux vers Taos (1824-1825)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1824.75,
+    "fin": 1825.71,
+    "date_edtf": "1824-09-30/1825-09-14",
+    "certitude": "certaine",
+    "description": "Le journal de James Kennerly note le départ du « parti Robidoux » pour Santa Fe le 30 septembre 1824, son retour de Taos le 30 août 1825 et un nouveau départ le 14 septembre.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 271 — note de l'auteur : E. B. Wesley (éd.), « Diary of James Kennerly, 1823-1826 », MHS Collections vi (1928), p. 75, 78, 80",
+    "note": "Le chef du convoi n'est pas nommé ; Antoine est le plus probable."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.06,
+     38.735
+    ]
+   },
+   "properties": {
+    "id": "robidoux-05",
+    "ordre": 5,
+    "nom": "Fort Uncompahgre (Fort Robidoux) sur la Gunnison (v. 1825-1844)",
+    "phase": "Forts",
+    "debut": 1826.0,
+    "fin": 1844.8,
+    "date_edtf": "1825~/1844",
+    "certitude": "approximative",
+    "description": "Petit fort sur une pente orientée au nord-ouest, à environ quarante chaînes au sud-ouest du confluent de l'Uncompahgre et de la Gunnison, sur la route des trappeurs du Nouveau-Mexique vers la Green, Brown's Hole et plus tard Fort Bridger. Les vestiges disparaissent dans les années 1880 sous la charrue des ranchers.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 272",
+    "note": "Date de fondation incertaine (milieu des années 1820 selon Wallace) ; aucune date exacte sans nouveau document."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.935,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "robidoux-06",
+    "ordre": 6,
+    "nom": "Santa Fe : mariage avec Carmel Benavides et présidence du conseil (1828-1830)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1828.0,
+    "fin": 1830.99,
+    "date_edtf": "1828/1830",
+    "certitude": "certaine",
+    "description": "Épris de Carmel Benavides, fille d'un capitaine espagnol, il l'épouse en 1828 et se fait naturaliser sous le nom de Don Antonio Robidoux, pour obtenir licences de trappe et de traite réservées aux Mexicains (son frère François avait perdu un stock faute de citoyenneté). En 1830, il prend la présidence de la junta del ayuntamiento de Santa Fe.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 271",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.93,
+     40.47
+    ]
+   },
+   "properties": {
+    "id": "robidoux-07",
+    "ordre": 7,
+    "nom": "Fort Uintah (Fort Robidoux), fourches de l'Uinta et du Whiterocks (début des années 1830-1844)",
+    "phase": "Forts",
+    "debut": 1832.0,
+    "fin": 1844.8,
+    "date_edtf": "1832~/1844",
+    "certitude": "approximative",
+    "description": "Second fort près du confluent de l'Uinta et du Whiterocks Creek. On y traite avec les trappeurs de la Bear, de la Green, de la Grand et du Colorado, et avec les Serpents et les Utes : chevaux, castors, loutres, peaux de cerf, de mouflon et de wapiti contre munitions, armes, couteaux, tabac, perles et alènes. Sage admire des peaux d'une blancheur de neige et douces comme le velours, achetées pour huit ou dix charges de poudre et revendues un ou deux dollars à Santa Fe.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 272 — note de l'auteur : Rufus B. Sage, Scenes in the Rocky Mountains (Philadelphia, 1846), p. 178, 182 (éd. Hafen 1956, v, p. 89-98)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.48,
+     37.73
+    ]
+   },
+   "properties": {
+    "id": "robidoux-08",
+    "ordre": 8,
+    "nom": "Robidoux Pass (col Mosca)",
+    "phase": "Forts",
+    "debut": 1840.0,
+    "fin": 1853.7,
+    "date_edtf": "1848 ; 1853",
+    "certitude": "approximative",
+    "description": "L'entrée orientale de la vallée de San Luis, aujourd'hui col Mosca, s'appelait « Roubideau's Pass » dans le journal de l'expédition Gunnison (1853) ; Frémont l'emprunte en 1848.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 280",
+    "note": "Toponyme francophone disparu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.926,
+     40.47
+    ]
+   },
+   "properties": {
+    "id": "robidoux-09",
+    "ordre": 9,
+    "nom": "Fort Uintah : dix-huit jours chez les « pécheurs » du révérend Williams (juillet 1842)",
+    "phase": "Forts",
+    "debut": 1842.5,
+    "fin": 1842.57,
+    "date_edtf": "1842-07",
+    "certitude": "certaine",
+    "description": "Le méthodiste Joseph Williams attend Robidoux dix-huit jours et s'indigne de la débauche : on achète et vend les femmes indiennes, deux s'enfuient une nuit ; Robidoux emmène des femmes et des enfants indiens pour les vendre au Nouveau-Mexique. Williams prêche en vain. Départ le 27 juillet ; à Sugar Creek, deux femmes de Robidoux s'enfuient et il en fait chercher une autre au fort.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 273 — note de l'auteur : Joseph Williams, A Narrative of a Tour from the State of Indiana to the Oregon Territory in the years 1841-42 (Cincinnati, 1843), p. 80-84",
+    "note": "Récit très coloré et hostile, mais l'un des deux seuls témoignages directs sur les forts Robidoux."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.6,
+     39.3
+    ]
+   },
+   "properties": {
+    "id": "robidoux-10",
+    "ordre": 10,
+    "nom": "Pictured Rock et la Grand River (2-3 août 1842)",
+    "phase": "Forts",
+    "debut": 1842.58,
+    "fin": 1842.59,
+    "date_edtf": "1842-08-02",
+    "certitude": "approximative",
+    "description": "La caravane dort sous le « Pictured Rock », à l'abri de la pluie, puis franchit la Grand River.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 274 — note de l'auteur : Joseph Williams, A Narrative of a Tour from the State of Indiana to the Oregon Territory in the years 1841-42 (Cincinnati, 1843), p. 80-84",
+    "note": "Position du Pictured Rock estimée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.056,
+     38.735
+    ]
+   },
+   "properties": {
+    "id": "robidoux-11",
+    "ordre": 11,
+    "nom": "Fort Uncompahgre : le sermon du 14 août 1842",
+    "phase": "Forts",
+    "debut": 1842.61,
+    "fin": 1842.62,
+    "date_edtf": "1842-08-14",
+    "certitude": "certaine",
+    "description": "Williams prêche à des Français, Espagnols, Indiens, Métis et Américains sur Proverbes 14, 32 (« le méchant est renversé par sa méchanceté »).",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 275 — note de l'auteur : Joseph Williams, A Narrative of a Tour from the State of Indiana to the Oregon Territory in the years 1841-42 (Cincinnati, 1843), p. 80-84",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.7,
+     38.16
+    ]
+   },
+   "properties": {
+    "id": "robidoux-12",
+    "ordre": 12,
+    "nom": "Col de Cochetopa : le chariot retrouvé et le gel (19-21 août 1842)",
+    "phase": "Forts",
+    "debut": 1842.63,
+    "fin": 1842.65,
+    "date_edtf": "1842-08-20",
+    "certitude": "approximative",
+    "description": "Par la Tomichi, la Cochetopa et le col du même nom vers la vallée du rio Grande. Robidoux attelle le chariot qu'il avait laissé là un an plus tôt ; mocassins et couvertures gèlent. Le chariot atteste l'usage de cette piste dès le début des années 1840.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 276 — note de l'auteur : Joseph Williams, A Narrative of a Tour from the State of Indiana to the Oregon Territory in the years 1841-42 (Cincinnati, 1843), p. 80-84",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "robidoux-13",
+    "ordre": 13,
+    "nom": "Taos : départ avec Rufus Sage (7 oct. 1842)",
+    "phase": "Forts",
+    "debut": 1842.66,
+    "fin": 1842.77,
+    "date_edtf": "1842-09/1842-10-07",
+    "certitude": "certaine",
+    "description": "Williams ne parvient pas à faire quitter Robidoux à ses compagnons, dont trois sont embauchés par lui. Le 7 octobre, Robidoux repart avec trois Français et cinq Espagnols, huit mulets chargés de 250 livres chacun ; Rufus Sage est du voyage.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 276 — note de l'auteur : Joseph Williams, A Narrative of a Tour from the State of Indiana to the Oregon Territory in the years 1841-42 (Cincinnati, 1843), p. 80-84 ; Rufus B. Sage, Scenes in the Rocky Mountains (Philadelphia, 1846), p. 178, 182 (éd. Hafen 1956, v, p. 89-98)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.0,
+     37.45
+    ]
+   },
+   "properties": {
+    "id": "robidoux-14",
+    "ordre": 14,
+    "nom": "Passage de la ligne de partage au sud des monts La Plata (13 oct. 1842)",
+    "phase": "Forts",
+    "debut": 1842.78,
+    "fin": 1842.79,
+    "date_edtf": "1842-10-13",
+    "certitude": "approximative",
+    "description": "La caravane franchit la ligne de partage par un col facile à l'extrémité sud de la « Sierra de Anahuac » et arrive au fort Uintah six jours plus tard. Wallace suppose une seconde piste par la Dolores, sans passer par le fort Uncompahgre.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 277 — note de l'auteur : Rufus B. Sage, Scenes in the Rocky Mountains (Philadelphia, 1846), p. 178, 182 (éd. Hafen 1956, v, p. 89-98)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.934,
+     40.47
+    ]
+   },
+   "properties": {
+    "id": "robidoux-15",
+    "ordre": 15,
+    "nom": "Fort Uintah : Marcus Whitman, Lovejoy et Miles Goodyear (v. 1er nov. 1842)",
+    "phase": "Forts",
+    "debut": 1842.83,
+    "fin": 1842.85,
+    "date_edtf": "1842-11",
+    "certitude": "certaine",
+    "description": "Parti de Waiilatpu le 3 octobre pour Boston, Marcus Whitman arrive avec Asa Lovejoy au fort Uintah, où se trouve aussi Miles Goodyear, puis un guide les mène vers le fort de la Gunnison.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 279",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.55,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "robidoux-16",
+    "ordre": 16,
+    "nom": "Grand Junction : Whitman traverse le Colorado à la nage",
+    "phase": "Forts",
+    "debut": 1842.85,
+    "fin": 1842.86,
+    "date_edtf": "1842-11",
+    "certitude": "certaine",
+    "description": "Le fleuve, large de 150 à 200 verges, bouillonne ; Whitman s'y jette le premier, disparaît sous l'eau avec son cheval, reparaît et gagne la glace de l'autre rive. Au-delà du fort de la Gunnison, le guide s'égare ; on mange les bêtes de somme et un chien avant de croiser un groupe venu de Taos.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 279 — note de l'auteur : W. H. Gray, History of Oregon (1870), p. 325 (récit de Lovejoy)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.93,
+     40.47
+    ]
+   },
+   "properties": {
+    "id": "robidoux-17",
+    "ordre": 17,
+    "nom": "Fort Uintah : le massacre par les Utes (automne 1844)",
+    "phase": "Forts",
+    "debut": 1844.7,
+    "fin": 1844.8,
+    "date_edtf": "1844-10",
+    "certitude": "certaine",
+    "description": "Les Utes, exaspérés par le « Taos Lightning » et la traite des captifs, attaquent le fort, tuent les hommes et emmènent les femmes. Andrew Sublette écrit de Taos, le 20 octobre 1844, qu'un trappeur espagnol rescapé a trouvé au fort cinq ou six Espagnols et un Américain tués, puis a marché quatorze jours sans souliers ni vivres.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 281 — note de l'auteur : A. W. Sublette à W. L. Sublette, Taos, 20 oct. 1844",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.846,
+     39.768
+    ]
+   },
+   "properties": {
+    "id": "robidoux-18",
+    "ordre": 18,
+    "nom": "Saint-Joseph (Missouri) : retour chez les Robidoux (1845)",
+    "phase": "Dernières années",
+    "debut": 1845.0,
+    "fin": 1846.4,
+    "date_edtf": "1844/1846",
+    "certitude": "certaine",
+    "description": "Fin 1844 ou début 1845, il abandonne le fort de la Gunnison et s'installe à Saint-Joseph, ville fondée par son frère Joseph. Sa fille adoptive Carmelette y épouse Isadore Barada et meurt peu après la naissance d'Amanda.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 281",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.95,
+     33.09
+    ]
+   },
+   "properties": {
+    "id": "robidoux-19",
+    "ordre": 19,
+    "nom": "San Pasqual : blessé d'un coup de lance (6 déc. 1846)",
+    "phase": "Dernières années",
+    "debut": 1846.93,
+    "fin": 1846.94,
+    "date_edtf": "1846-12-06",
+    "certitude": "certaine",
+    "description": "Interprète de Kearny dans la guerre du Mexique, il le suit du Nouveau-Mexique en Californie et reçoit un coup de lance dans le dos à la bataille de San Pasqual. Son frère Louis possède alors une partie des comtés de San Bernardino, Orange et Riverside.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 281",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.15,
+     -12.05
+    ]
+   },
+   "properties": {
+    "id": "robidoux-20",
+    "ordre": 20,
+    "nom": "Callao et la Jamaïque : le retour par mer (v. 1847-1848)",
+    "phase": "Dernières années",
+    "debut": 1847.2,
+    "fin": 1848.0,
+    "date_edtf": "1847/1848",
+    "certitude": "approximative",
+    "description": "Souffrant de ses blessures, il rentre par bateau « via le Pérou, la Jamaïque et d'autres lieux » jusqu'à La Nouvelle-Orléans et en réclame le remboursement au Congrès.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 282 — note de l'auteur : House Report no 226, 34e Congrès, 1re session",
+    "note": "Escale péruvienne placée au Callao."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.843,
+     39.768
+    ]
+   },
+   "properties": {
+    "id": "robidoux-21",
+    "ordre": 21,
+    "nom": "Saint-Joseph : mort (29 août 1860)",
+    "phase": "Dernières années",
+    "debut": 1855.0,
+    "fin": 1860.66,
+    "date_edtf": "1855/1860-08-29",
+    "certitude": "certaine",
+    "description": "Il passe ses cinq dernières années à Saint-Joseph et y meurt ; l'obituaire de la St. Joseph Gazette le croyait installé en Californie depuis des années. David Waldo l'avait aidé à réclamer une pension.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 282 — note de l'auteur : St. Joseph Gazette, nécrologie, 1860",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.88,
+     37.275
+    ]
+   },
+   "properties": {
+    "id": "robidoux-22",
+    "ordre": 22,
+    "nom": "Durango : mort de Carmel (1888)",
+    "phase": "Mémoire",
+    "debut": 1888.0,
+    "fin": 1888.99,
+    "date_edtf": "1888",
+    "certitude": "certaine",
+    "description": "Veuve, Carmel retourne à Santa Fe avec sa petite-fille Amanda, qui épouse un agent des Indiens ; elle meurt chez eux à Durango en 1888.",
+    "sources": "William S. Wallace, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 282",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -90.322,
+      38.789
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -96.01,
+      41.45
+     ],
+     [
+      -108.06,
+      38.735
+     ],
+     [
+      -105.935,
+      35.687
+     ],
+     [
+      -109.93,
+      40.47
+     ],
+     [
+      -105.48,
+      37.73
+     ],
+     [
+      -109.926,
+      40.47
+     ],
+     [
+      -108.6,
+      39.3
+     ],
+     [
+      -108.056,
+      38.735
+     ],
+     [
+      -106.7,
+      38.16
+     ],
+     [
+      -105.573,
+      36.407
+     ],
+     [
+      -108.0,
+      37.45
+     ],
+     [
+      -109.934,
+      40.47
+     ],
+     [
+      -108.55,
+      39.07
+     ],
+     [
+      -109.93,
+      40.47
+     ],
+     [
+      -94.846,
+      39.768
+     ],
+     [
+      -116.95,
+      33.09
+     ],
+     [
+      -77.15,
+      -12.05
+     ],
+     [
+      -94.843,
+      39.768
+     ]
+    ]
+   },
+   "properties": {
+    "id": "robidoux-parcours",
+    "nom": "Parcours de Antoine Robidoux"
+   }
+  }
+ ]
+}

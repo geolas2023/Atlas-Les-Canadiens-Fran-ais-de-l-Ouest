@@ -1,0 +1,416 @@
+{
+ "type": "FeatureCollection",
+ "name": "pratte",
+ "personnage": {
+  "id": "pratte",
+  "nom": "Sylvestre S. Pratte",
+  "auteur": "David J. Weber",
+  "pages": "258-269",
+  "vie": "1799-1827",
+  "hafen": "Sylvestre S. Pratte",
+  "chapeau": "Fils aîné du général Bernard Pratte, il domine deux ans la traite de Taos avec l'argent de la « French Company », finance les brigades du Gila et de l'Utah, puis meurt dans le North Park, peut-être de la rage.",
+  "couleur": "#c0392b"
+ },
+ "bibliographie": [
+  "David J. Weber, « Sylvestre S. Pratte », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 258-269."
+ ],
+ "inedits": [
+  "Mexican Archives of New Mexico (State Records Center, Santa Fe) : pièces de l'embargo des fourrures de S. S. Pratte (12 nov. 1826) ; lettres de Durán et Narbona (1826-1827) ; témoignage de Joaquín Leru (1828).",
+  "Chouteau Collections, Missouri Historical Society : lettres de Cabanné (1824-1828), inventaire de la succession Pratte, comptes de St. Vrain (livres D et M).",
+  "Hamilton R. Gamble Papers, MHS : procès Workman contre Pratte (1828-1829).",
+  "D. J. Weber, « The Taos Trappers », thèse, Univ. of New Mexico, 1967."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "pratte-01",
+    "ordre": 1,
+    "nom": "Saint-Louis : naissance (22 sept. 1799) et mariage avec Odile Delassus (5 juin 1822)",
+    "phase": "Saint-Louis",
+    "debut": 1799.72,
+    "fin": 1822.43,
+    "date_edtf": "1799-09-22/1822-06-05",
+    "certitude": "certaine",
+    "description": "Fils aîné du marchand Bernard Pratte et d'Émilie Sauveur Labbadie, il épouse en 1822 Odile Delassus, fille du major Camille Delassus, frère du dernier gouverneur espagnol de la Haute-Louisiane. Son père dirige « la French Company », devenue Bernard Pratte & Co. en 1823.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 258 — note de l'auteur : F. Billon, Annals of St. Louis… 1804 to 1820 (1888), p. 181 ; Missouri Republican, 12 juin 1822 ; Oglesby, Manuel Lisa, p. 168-171",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.15,
+     41.99
+    ]
+   },
+   "properties": {
+    "id": "pratte-02",
+    "ordre": 2,
+    "nom": "Missouri, sous le vieux village omaha : raid sauk contre le camp de Pratte et Vasquez (21 mai 1820)",
+    "phase": "Missouri",
+    "debut": 1820.38,
+    "fin": 1820.4,
+    "date_edtf": "1820-05-21",
+    "certitude": "approximative",
+    "description": "Traiteurs patentés avec Antoine Vasquez, ils sont attaqués avant l'aube par des Sauks qui tuent un engagé. Pratte, Vasquez et trois hommes fuient en bateau jusqu'au camp militaire de Council Bluffs ; revenus six jours plus tard avec la troupe, ils trouvent marchandises et fourrures détruites ou volées. Pertes : 1 098 $, remboursées 464 $ six ans plus tard.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 259 — note de l'auteur : « Relief to Citizens U.S. for Indian Depredations », H. Doc. 38, 22e Congrès, 1re session, p. 29-31 ; Missouri Intelligencer (Franklin), 28 avril 1826",
+    "note": "Camp situé, selon le dossier de réclamation, à deux ou trois milles sous le vieux village omaha (Blackbird Hill, en face d'Onawa)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "pratte-03",
+    "ordre": 3,
+    "nom": "James River (Dakota du Sud) : hivernage de traite (1824-1825)",
+    "phase": "Missouri",
+    "debut": 1824.75,
+    "fin": 1825.3,
+    "date_edtf": "1824/1825",
+    "certitude": "approximative",
+    "description": "À l'automne 1824, il conduit des traiteurs de la French Company hiverner sur la James River. En passant à Council Bluffs, il congédie des engagés en affirmant que les montagnes sont réservées à Robidoux ; Cabanné, privé d'hommes, doit acheter un tiers de l'expédition mexicaine de Joseph Robidoux.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 260 — note de l'auteur : B. Berthold à B. Pratte & Co., 14 nov. 1823 ; J. P. Cabanné à P. Chouteau Jr., 11 oct. 1824, Chouteau Collections, MHS ; Morgan, West of William H. Ashley (1964), p. 61-62, 155",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     41.4
+    ]
+   },
+   "properties": {
+    "id": "pratte-04",
+    "ordre": 4,
+    "nom": "Poste de Cabanné près de Council Bluffs : le départ tardif (26-30 juillet 1825)",
+    "phase": "Taos",
+    "debut": 1825.56,
+    "fin": 1825.58,
+    "date_edtf": "1825-07-26/1825-07-30",
+    "certitude": "certaine",
+    "description": "Choisi à 26 ans pour mener l'expédition du Nouveau-Mexique, Pratte n'arrive au poste que le 26 juillet. Cabanné fulmine : comment un jeune homme apparemment guidé par le bon sens peut-il réussir si peu ? Il plaint le général d'avoir des enfants si peu dignes de lui. Le retard permet au jeune James Ohio Pattie de se joindre au convoi (116 hommes selon lui).",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 261 — note de l'auteur : Cabanné à Chouteau, 5 et 12 juin, 27 juillet, 16 sept. 1825, Chouteau Collections ; « Diary of James Kennerly », MHS Collections vi (1928), p. 76 ; Pattie, Personal Narrative (1962), p. 11-38",
+    "note": "Pattie date ce départ de 1824 ; Morgan a montré qu'il s'agit de 1825."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "pratte-05",
+    "ordre": 5,
+    "nom": "Taos : arrivée et marchandises cachées hors du village (26 oct. 1825)",
+    "phase": "Taos",
+    "debut": 1825.81,
+    "fin": 1827.6,
+    "date_edtf": "1825-10-26/1827",
+    "certitude": "certaine",
+    "description": "Après une traite de robes avec les Pawnees de la Platte et de peaux de cerf avec les Utes de l'Arkansas, il atteint Taos et, connaissant les usages, cache une partie de ses marchandises avant d'entrer pour éviter la douane. Grâce au douanier Juan Bautista Vigil y Alarid, il obtient du gouverneur Narbona une licence de trappe interdite aux étrangers. Pegleg Smith le dira « un des gentilshommes de la nature ».",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 262 — note de l'auteur : Kate L. Gregg (éd.), The Road to Santa Fe: Journal and Diaries of George C. Sibley (1952), p. 114, 150 ; « Sketches from the Life of Peg-leg Smith », Hutchings' Illustrated California Magazine v (1861), p. 320, 336",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.8,
+     40.2
+    ]
+   },
+   "properties": {
+    "id": "pratte-06",
+    "ordre": 6,
+    "nom": "Lac Utah : la brigade de Céran St. Vrain (1825-1826)",
+    "phase": "Taos",
+    "debut": 1825.9,
+    "fin": 1826.4,
+    "date_edtf": "1825/1826",
+    "certitude": "approximative",
+    "description": "Pratte envoie une douzaine d'hommes aux sources du rio Grande et dix-huit à vingt avec Céran St. Vrain vers le lac Utah ; il a aussi des hommes dans le groupe de Pattie parti vers le Gila.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 262 — note de l'auteur : pièces de l'embargo des fourrures de S. S. Pratte, 12 nov. 1826, Mexican Archives of New Mexico, State Records Center, Santa Fe",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.3,
+     37.75
+    ]
+   },
+   "properties": {
+    "id": "pratte-07",
+    "ordre": 7,
+    "nom": "Sources du rio Grande : la brigade des douze (1825-1826)",
+    "phase": "Taos",
+    "debut": 1825.9,
+    "fin": 1826.4,
+    "date_edtf": "1825/1826",
+    "certitude": "approximative",
+    "description": "Une douzaine de trappeurs de Pratte chassent aux sources du rio Grande ; leurs fourrures arrivent sans encombre sur le marché.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 262",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "pratte-08",
+    "ordre": 8,
+    "nom": "Santa Fe : saisie des fourrures et plaidoyer devant Narbona (1826)",
+    "phase": "Taos",
+    "debut": 1826.1,
+    "fin": 1826.95,
+    "date_edtf": "1826-02/1826-11-12",
+    "certitude": "certaine",
+    "description": "L'alcalde de Taos saisit environ 630 livres de castor de Pratte et de François Robidoux ; à Santa Fe, ils obtiennent de Narbona la levée de la saisie malgré la révocation de leurs licences. En novembre 1826, nouvelle saisie : l'alcalde explique qu'il ne peut exécuter l'ordre faute de clé du bâtiment, que Pratte détient et emporte à Santa Fe pour protester. Le trésorier Agustín Durán prend son parti ; l'issue est inconnue.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 263 — note de l'auteur : Agustín Durán à l'alcalde de Santa Fe, 12 mai 1826 ; Narbona à Durán, 12 mai 1826 ; pièces de la saisie, 12 nov. 1826, MANM",
+    "note": "L'anecdote de la clé est un trésor d'archives mexicaines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.0,
+     33.15
+    ]
+   },
+   "properties": {
+    "id": "pratte-09",
+    "ordre": 9,
+    "nom": "Gila : le massacre du parti de Michel Robidoux (automne 1826)",
+    "phase": "Taos",
+    "debut": 1826.75,
+    "fin": 1826.9,
+    "date_edtf": "1826",
+    "certitude": "approximative",
+    "description": "Narbona signale un parti conduit par Michel Robidoux et Sylvestre Pratte ; Pratte, resté à Taos et Santa Fe, ne faisait sans doute que le financer. Seuls trois des vingt hommes survivent à une attaque indienne. Il équipe aussi les quinze hommes d'Ewing Young (avec Pegleg Smith) et peut-être la bande de St. Vrain.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 264 — note de l'auteur : Pattie, Personal Narrative, p. 75-80 ; « Sketches from the Life of Peg-leg Smith »",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.01,
+     40.705
+    ]
+   },
+   "properties": {
+    "id": "pratte-10",
+    "ordre": 10,
+    "nom": "New York : « ces traites inépuisables ! » (17 déc. 1826)",
+    "phase": "Taos",
+    "debut": 1826.96,
+    "fin": 1827.6,
+    "date_edtf": "1826-12-17/1827",
+    "certitude": "certaine",
+    "description": "Pierre Chouteau Jr. écrit au général Pratte qu'il n'ose penser à « la malheureuse affaire de Taos » et s'effraie des lettres de change tirées sans fin par Sylvestre. En 1827, les traites remises au marchand David Workman sont refusées et protestées. La firme est entre-temps devenue le Western Department de l'American Fur Company (Ramsay Crooks a épousé Émilie Pratte, sœur de Sylvestre, en 1825).",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 265 — note de l'auteur : P. Chouteau Jr. à B. Pratte & Co., New York, 17 déc. 1826, CC ; Abiel Leonard à H. R. Gamble, 1er oct. 1828, Hamilton R. Gamble Papers, MHS ; Lavender, The Fist in the Wilderness (1964), p. 356-378",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.569,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "pratte-11",
+    "ordre": 11,
+    "nom": "Taos : la brigade des vingt-deux Français (janvier 1827)",
+    "phase": "Taos",
+    "debut": 1827.0,
+    "fin": 1827.1,
+    "date_edtf": "1827-01",
+    "certitude": "certaine",
+    "description": "Il équipe vingt-deux trappeurs, tous d'ascendance française sauf deux (dont Céran St. Vrain et Charles Beaubien), partis selon l'alcalde « hors des frontières de la Fédération mexicaine ».",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 266 — note de l'auteur : D. J. Weber (éd. et trad.), The Extranjeros (1967), p. 37",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     40.7
+    ]
+   },
+   "properties": {
+    "id": "pratte-12",
+    "ordre": 12,
+    "nom": "North Park : mort de Pratte (1er octobre 1827)",
+    "phase": "Dernière expédition",
+    "debut": 1827.75,
+    "fin": 1827.76,
+    "date_edtf": "1827-10-01",
+    "certitude": "certaine",
+    "description": "À la tête de 36 hommes (St. Vrain commis, Pegleg Smith, Alexander Branch, Old Bill Williams, Milton Sublette, Joseph Bissonette) vers les Rocheuses du sud et la Green, terrain qu'Ashley voulait réservé, il tombe malade dans le North Park, aux sources de la North Platte, et meurt. St. Vrain parle d'une maladie brève ; Pegleg Smith d'un accès d'hydrophobie, des mois après la morsure d'un petit chien d'appartement.",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 267 — note de l'auteur : Ashley à P. Chouteau Jr., 2 févr. 1827 ; témoignage de Joaquín Leru, Santa Fe, 6 juin 1828, MANM ; déclaration des trappeurs, 1er sept. 1829, CC ; St. Vrain à B. Pratte, Taos, 28 sept. 1828, CC",
+    "note": "Deux causes de décès."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.577,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "pratte-13",
+    "ordre": 13,
+    "nom": "Taos : St. Vrain solde l'expédition (printemps 1828)",
+    "phase": "Dernière expédition",
+    "debut": 1828.3,
+    "fin": 1831.02,
+    "date_edtf": "1828/1831-01-06",
+    "certitude": "certaine",
+    "description": "Dépenses : 6 915,41½ $ ; fourrures : 5 780,50 $. St. Vrain vend chevaux, mules, fusil, pistolet, pièges et gants de Pratte et paie de sa poche le déficit de plus de 500 $. Seize débiteurs doivent 1 867 $ à la succession ; en 1831, St. Vrain n'en a « pas encore collecté le premier sou ».",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 268 — note de l'auteur : inventaire de la succession, 1828 ; St. Vrain à Pratte & Co., 6 janv. 1831, CC",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.195,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "pratte-14",
+    "ordre": 14,
+    "nom": "Saint-Louis : la nouvelle de la mort (30 sept. 1828)",
+    "phase": "Dernière expédition",
+    "debut": 1828.7,
+    "fin": 1828.9,
+    "date_edtf": "1828-09-30",
+    "certitude": "certaine",
+    "description": "La rumeur d'une attaque indienne précède la notice du Missouri Republican. Son frère Bernard Jr. administre la succession ; le général paie toutes les traites « par pur sentiment paternel ».",
+    "sources": "David J. Weber, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 267 — note de l'auteur : Missouri Republican, 30 sept. et 25 nov. 1828 ; Cabanné à Chouteau, 22 sept. 1828 ; Prewitt à Gamble, 5 juin 1829",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -96.15,
+      41.99
+     ],
+     [
+      -98.0,
+      43.6
+     ],
+     [
+      -95.95,
+      41.4
+     ],
+     [
+      -105.573,
+      36.407
+     ],
+     [
+      -111.8,
+      40.2
+     ],
+     [
+      -107.3,
+      37.75
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -110.0,
+      33.15
+     ],
+     [
+      -74.01,
+      40.705
+     ],
+     [
+      -105.569,
+      36.407
+     ],
+     [
+      -106.3,
+      40.7
+     ],
+     [
+      -105.577,
+      36.407
+     ],
+     [
+      -90.195,
+      38.627
+     ]
+    ]
+   },
+   "properties": {
+    "id": "pratte-parcours",
+    "nom": "Parcours de Sylvestre S. Pratte"
+   }
+  }
+ ]
+}

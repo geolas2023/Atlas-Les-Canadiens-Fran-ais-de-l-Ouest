@@ -1,0 +1,497 @@
+{
+ "type": "FeatureCollection",
+ "name": "clamorgan",
+ "personnage": {
+  "id": "clamorgan",
+  "nom": "Jacques Clamorgan",
+  "auteur": "A. P. Nasatir",
+  "pages": "124-137",
+  "vie": "v. 1734-1814",
+  "chapeau": "Créole des îles, négrier, marchand et spéculateur de Saint-Louis, directeur de la Compagnie de commerce pour la découverte des nations du haut Missouri ; précurseur de Lewis et Clark, il est le premier à faire le commerce de Santa Fe et à en revenir.",
+  "couleur": "#4b5d8a"
+ },
+ "bibliographie": [
+  "A. P. Nasatir, « Jacques Clamorgan », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 124-137."
+ ],
+ "inedits": [
+  "Archivo General de Indias, Papeles de Cuba (Séville) : correspondance de Cruzat, Trudeau, Carondelet ; projets de Clamorgan (leg. 9, 26, 49, 114, 208A-B, 215A, 2371). Une partie seulement est publiée par Nasatir.",
+  "Plan de peuplement de l'Illinois (4 oct. 1793), Bancroft Library.",
+  "Clamorgan Collection et Lisa Collection, Missouri Historical Society (dettes, accord avec Lisa, 1807-1810).",
+  "Testament de 1814 (P. Chouteau Collection) et dossier 168a de la Cour d'homologation de Saint-Louis : inventaire de sa bibliothèque et de ses cartes.",
+  "Archives de Chihuahua et de Santa Fe (1807-1808) : interrogatoire de Clamorgan et cartes rapportées."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.55,
+     16.25
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-01",
+    "ordre": 1,
+    "nom": "Guadeloupe : origines obscures",
+    "phase": "Îles",
+    "debut": 1734.0,
+    "fin": 1779.0,
+    "date_edtf": "17XX",
+    "certitude": "hypothetique",
+    "description": "Né ou élevé à la Guadeloupe et aux Antilles, d'origine sans doute mêlée (galloise, portugaise, française, peut-être africaine) ; son nom s'écrit Clamorgan, Glenmorgan, Clenmorgan, Morgan, Santiago Clamorgan.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 124",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.79,
+     17.97
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-02",
+    "ordre": 2,
+    "nom": "Kingston (Jamaïque) : associé de Thompson et Campbell (1780)",
+    "phase": "Îles",
+    "debut": 1780.0,
+    "fin": 1781.0,
+    "date_edtf": "1780",
+    "certitude": "certaine",
+    "description": "Il apparaît comme marchand associé à Thompson et Campbell de Kingston, sans doute dans la traite des esclaves entre la Jamaïque et La Nouvelle-Orléans, et à Marmillion et Cie.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 124",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-03",
+    "ordre": 3,
+    "nom": "La Nouvelle-Orléans : départ clandestin vers Saint-Louis (1781)",
+    "phase": "Haute-Louisiane",
+    "debut": 1781.0,
+    "fin": 1781.4,
+    "date_edtf": "1781",
+    "certitude": "certaine",
+    "description": "En pleine guerre, faute de permission, il quitte furtivement la ville avec ses marchandises et monte à bord du bateau de Duchêne Perro hors des murs.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 124",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.35,
+     34.02
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-04",
+    "ordre": 4,
+    "nom": "Poste des Arkansas : l'ordre désobéi (août 1781)",
+    "phase": "Haute-Louisiane",
+    "debut": 1781.62,
+    "fin": 1781.7,
+    "date_edtf": "1781-08",
+    "certitude": "certaine",
+    "description": "Cruzat, qui n'a entendu dire de lui que du mal, lui confie des dépêches à remettre au commandant Balthazar de Villiers au poste des Arkansas ; Clamorgan passe sans s'arrêter, et Cruzat demande qu'on le punisse.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 125 — note de l'auteur : Cruzat à Piernas, 24 déc. 1781, et à B. de Villiers, 27 août 1781, Archivo General de Indias, Papeles de Cuba, leg. 114 et 9",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.044,
+     37.978
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-05",
+    "ordre": 5,
+    "nom": "Sainte-Geneviève : marguillier et fondé de pouvoir de Gabriel Cerré",
+    "phase": "Haute-Louisiane",
+    "debut": 1783.0,
+    "fin": 1792.6,
+    "date_edtf": "1783/1792",
+    "certitude": "certaine",
+    "description": "Fondé de pouvoir de Gabriel Cerré dès 1783, donateur et marguillier de l'église de Sainte-Geneviève ; en 1792, il signe la pétition demandant l'abbé Didier pour curé.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 126 — note de l'auteur : L. Houck, Spanish Regime in Missouri (1909), II, p. 149 ; Archivo General de Indias, Papeles de Cuba 215A",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-06",
+    "ordre": 6,
+    "nom": "Saint-Louis : marchand et spéculateur (1783-1804)",
+    "phase": "Haute-Louisiane",
+    "debut": 1783.9,
+    "fin": 1804.2,
+    "date_edtf": "1783/1804",
+    "certitude": "certaine",
+    "description": "Installé avec François Marmillion fin 1783, il devient un marchand respecté mais tenu à l'écart par l'aristocratie créole, à cause de son « harem » de femmes de couleur ; jamais marié, il a quatre enfants naturels. Ses spéculations foncières dépassent le million d'arpents. Plume habile, langue facile, il obtient toujours ce qu'il veut des Espagnols. Syndic des marchands en 1793.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 126 — note de l'auteur : Clamorgan à Trudeau, 1er avril 1793, Archivo General de Indias, Papeles de Cuba 26 ; testament de Marmillion, 4 déc. 1784, St. Louis Archives no 2223, MHS ; A. P. Nasatir, Before Lewis and Clark (2 vol., St. Louis, 1952), I, p. 169-190",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-07",
+    "ordre": 7,
+    "nom": "Michillimakinac : procès contre Pierre La Coste (1789)",
+    "phase": "Haute-Louisiane",
+    "debut": 1789.0,
+    "fin": 1789.99,
+    "date_edtf": "1789",
+    "certitude": "certaine",
+    "description": "Il poursuit Pierre La Coste, de Michillimakinac, pour 15 947 livres 14 sous ; il cultive les marchands de Cahokia, Kaskaskia, Mackinac et Montréal.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 126",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.196,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-08",
+    "ordre": 8,
+    "nom": "Saint-Louis : la Compagnie des découvreurs du Missouri (1794)",
+    "phase": "Compagnie du Missouri",
+    "debut": 1794.3,
+    "fin": 1799.0,
+    "date_edtf": "1794/1799",
+    "certitude": "certaine",
+    "description": "Il suggère la Compagnie des découvreurs et explorateurs du Missouri, en devient directeur, réécrit les statuts pour s'approprier presque toutes les parts et obtient de Carondelet monopoles, 10 000 pesos pour cent miliciens et une commission de 2,5 % ; il s'allie le riche Britannique Andrew Todd, qui meurt de la fièvre jaune à La Nouvelle-Orléans en 1796, le laissant au bord de la faillite (25 000 pesos dus à la succession Todd, 74 000 à Daniel Clark).",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 129 — note de l'auteur : A. P. Nasatir, Before Lewis and Clark (2 vol., St. Louis, 1952) ; Nasatir, « Formation of the Missouri Company », MHR xxv (1930), p. 3-15",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.42,
+     40.38
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-09",
+    "ordre": 9,
+    "nom": "Embouchure de la Des Moines : projet de fort et de colonie (15 déc. 1795)",
+    "phase": "Compagnie du Missouri",
+    "debut": 1795.95,
+    "fin": 1796.0,
+    "date_edtf": "1795-12-15",
+    "certitude": "certaine",
+    "description": "Il propose de bâtir à ses frais un fort et une colonie à l'embouchure de la Des Moines pour en chasser les Britanniques, contre six ans de traite exclusive des rivières Des Moines, Skunk et Iowa. Il présente aussi un plan pour peupler l'Illinois de 6 000 familles allemandes et hollandaises.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 128 — note de l'auteur : projet de Clamorgan, 15 déc. 1795, Archivo General de Indias, Papeles de Cuba 2371 ; plan de peuplement, 4 oct. 1793, dans Kinnaird, Spain in the Mississippi Valley, III, p. 208-215",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.4,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-10",
+    "ordre": 10,
+    "nom": "Villages mandans : Mackay et Evans abattent le drapeau britannique (1796-1797)",
+    "phase": "Compagnie du Missouri",
+    "debut": 1796.8,
+    "fin": 1797.4,
+    "date_edtf": "1796/1797",
+    "certitude": "certaine",
+    "description": "La troisième expédition de la compagnie, menée par James Mackay et John Evans, amène le drapeau britannique d'un petit fort chez les Mandans ; une partie entreprend la marche vers le Pacifique, sans aboutir.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 129 — note de l'auteur : Nasatir, « John Evans: Explorer and Surveyor », MHR xxv (1931)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.062,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-11",
+    "ordre": 11,
+    "nom": "La Nouvelle-Orléans : accommodement avec Daniel Clark (1799) et nouveaux monopoles",
+    "phase": "Compagnie du Missouri",
+    "debut": 1799.0,
+    "fin": 1803.9,
+    "date_edtf": "1799/1803",
+    "certitude": "certaine",
+    "description": "Il descend à la capitale et règle sa dette avec Clark ; Clark et Chouteau, ses anciens adversaires, le soutiennent. Il obtient la traite des Otos, des Mahas, des Poncas et des Kansas, envoie Heney chercher la route du Pacifique, avance près de 38 000 pesos de marchandises à Jacques D'Église et prend un tiers de Loisel-Heney.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 133 — note de l'auteur : Trudeau à Gayoso, 20 juin 1798, Archivo General de Indias, Papeles de Cuba 49 ; Clamorgan Collection, MHS ; A. H. Abel, Tabeau's Narrative of Loisel's Expedition (1939)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.202,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-12",
+    "ordre": 12,
+    "nom": "Saint-Louis : juge des plaids communs ; sa maison sert de prison (1804)",
+    "phase": "Période américaine",
+    "debut": 1804.3,
+    "fin": 1807.5,
+    "date_edtf": "1804",
+    "certitude": "certaine",
+    "description": "Le gouverneur Harrison le nomme parmi les premiers juges de la Cour des plaids communs et des sessions trimestrielles ; il loue sa maison au gouvernement comme prison.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 135 — note de l'auteur : F. L. Billon, Annals of St. Louis… 1804 to 1821 (1888), p. 9-13 ; Houck, History of Missouri, II, p. 383 ; American State Papers, Public Lands, II, p. 629",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.32,
+     40.05
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-13",
+    "ordre": 13,
+    "nom": "Village pawnee de la République : licence de traite (1807)",
+    "phase": "Période américaine",
+    "debut": 1807.55,
+    "fin": 1807.75,
+    "date_edtf": "1807-07",
+    "certitude": "certaine",
+    "description": "Muni d'une licence américaine pour les Pawnees de la République, prétexte à son grand projet, il s'associe brièvement à Manuel Lisa, remonte la Platte et entre dans les villages pawnees.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 135 — note de l'auteur : T. M. Marshall, Life and Letters of Frederick Bates (1926), I, p. 202 ; Clamorgan à Lisa et H. Egliz, 21 juillet 1807, Lisa Collection, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-14",
+    "ordre": 14,
+    "nom": "Santa Fe : le premier commerce américain avec le Nouveau-Mexique (déc. 1807)",
+    "phase": "Période américaine",
+    "debut": 1807.9,
+    "fin": 1808.0,
+    "date_edtf": "1807-12",
+    "certitude": "certaine",
+    "description": "Plus que septuagénaire, il arrive à Santa Fe avec trois compagnons, un esclave et quatre charges de marchandises ; il est envoyé à Chihuahua.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 136 — note de l'auteur : J. J. Hill, « An Unknown Expedition to Santa Fe in 1807 », MVHR vi (1920), p. 560-562 ; Nasatir (éd.), Manuel Lisa (1964)",
+    "note": "Premier marchand à faire le voyage de Santa Fe et à en revenir avec ses profits."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.07,
+     28.635
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-15",
+    "ordre": 15,
+    "nom": "Chihuahua (1808)",
+    "phase": "Période américaine",
+    "debut": 1808.0,
+    "fin": 1808.3,
+    "date_edtf": "1808",
+    "certitude": "certaine",
+    "description": "Conduit à Chihuahua, il est relâché.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 136",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-16",
+    "ordre": 16,
+    "nom": "Texas : le retour avec des cartes (1808)",
+    "phase": "Période américaine",
+    "debut": 1808.3,
+    "fin": 1808.8,
+    "date_edtf": "1808",
+    "certitude": "hypothetique",
+    "description": "Il rentre au Missouri en traversant le Texas sans difficulté, rapportant cartes et documents, et offre ensuite au public ses renseignements sur le commerce néo-mexicain.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 136",
+    "note": "Itinéraire exact inconnu ; point placé à San Antonio."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.63
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-17",
+    "ordre": 17,
+    "nom": "Saint-Louis : testament et mort (oct.-nov. 1814)",
+    "phase": "Période américaine",
+    "debut": 1814.83,
+    "fin": 1814.87,
+    "date_edtf": "1814-10-30/1814-11-14",
+    "certitude": "certaine",
+    "description": "Malade, il teste le 30 octobre 1814 : payer ses dettes, 150 $ aux pauvres, le reste à ses quatre enfants naturels. Mort à plus de 80 ans ; succession estimée 837 piastres, biens vendus 1 140,37¾ $, dont des livres et des cartes. Les États-Unis rejettent la plupart de ses concessions ; ses héritiers plaident jusqu'à la Cour suprême.",
+    "sources": "A. P. Nasatir, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 136 — note de l'auteur : testament, P. Chouteau Collection, MHS (exécuteurs J. P. Cabanné et Antoine Soulard) ; Probate Court of St. Louis, dossier 168a ; J. F. McDermott, Private Libraries in Creole Saint Louis (1938), p. 79-83",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -61.55,
+      16.25
+     ],
+     [
+      -76.79,
+      17.97
+     ],
+     [
+      -90.065,
+      29.958
+     ],
+     [
+      -91.35,
+      34.02
+     ],
+     [
+      -90.044,
+      37.978
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -84.62,
+      45.85
+     ],
+     [
+      -90.196,
+      38.627
+     ],
+     [
+      -91.42,
+      40.38
+     ],
+     [
+      -101.4,
+      47.3
+     ],
+     [
+      -90.062,
+      29.958
+     ],
+     [
+      -90.202,
+      38.627
+     ],
+     [
+      -98.32,
+      40.05
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -106.07,
+      28.635
+     ],
+     [
+      -98.49,
+      29.42
+     ],
+     [
+      -90.199,
+      38.63
+     ]
+    ]
+   },
+   "properties": {
+    "id": "clamorgan-parcours",
+    "nom": "Parcours de Jacques Clamorgan"
+   }
+  }
+ ]
+}
