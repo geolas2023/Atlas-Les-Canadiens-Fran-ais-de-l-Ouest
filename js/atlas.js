@@ -19,6 +19,14 @@ const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633
                  'Nouvelle-Angleterre': { libelle: 'Nouvelle-Angleterre : filatures (Vermette, MacDonald, Belisle)', trait: '#7f8c8d' },
                  "Piste de l'Oregon": { libelle: "La piste de l'Oregon (Bergeron)", trait: '#8e44ad' },
                  'Atlas Iberville': { libelle: "Atlas Iberville (renvois)", trait: '#2a7f7a' } };
+// Arborescence du filtre « Corpus » : groupes repliables (un corpus absent de la liste va dans « Autres sources »)
+const GROUPES_CORPUS = [
+  ['Témoignages et recherches', ['Cragin', 'Recherches']],
+  ['Hafen et les montagnards', ['Hafen', 'Hafen MM']],
+  ['Ouvrages de synthèse', ['Tassé', 'Atlas historique du Québec', 'Franco-Amérique', 'Nouvelle-France']],
+  ['Régions', ['Illinois français', 'Nouvelle-Angleterre', "Piste de l'Oregon"]],
+  ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville']]
+];
 // Couleur réservée à Maurice LeDuc (salle de lecture)
 const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
@@ -96,13 +104,36 @@ function filtrer() {
 // ---------- Interface : filtres ----------
 function construireFiltres() {
   const nb = (cle, val) => TOUTES.filter(f => f.properties[cle] === val).length;
-  $('#f-corpus').innerHTML = Object.entries(CORPUS).map(([k, v]) =>
-    `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${({'Cragin':'#1d2633','Atlas Aubry':'#8b2e1f','Recherches':'#3f7f4f','Hafen':'#b8902e'}[k] || CORPUS[k].trait)}"></i>${esc(v.libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`).join('');
+  const puceCorpus = k => ({'Cragin':'#1d2633','Atlas Aubry':'#8b2e1f','Recherches':'#3f7f4f','Hafen':'#b8902e'}[k] || CORPUS[k].trait);
+  const ligneCorpus = k => `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${puceCorpus(k)}"></i>${esc(CORPUS[k].libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`;
+  const ranges = new Set(GROUPES_CORPUS.flatMap(g => g[1]));
+  const groupes = [...GROUPES_CORPUS, ['Autres sources', Object.keys(CORPUS).filter(k => !ranges.has(k))]]
+    .map(([titre, ks]) => [titre, ks.filter(k => CORPUS[k])]).filter(([, ks]) => ks.length);
+  $('#f-corpus').innerHTML = groupes.map(([titre, ks], g) =>
+    `<details class="groupe"><summary><input type="checkbox" data-groupe="${g}" checked title="Tout le groupe"> ${esc(titre)} <span class="mini">(${ks.reduce((s, k) => s + nb('corpus', k), 0)})</span></summary>
+      <div class="groupe-corps">${ks.map(ligneCorpus).join('')}</div></details>`).join('');
   $('#f-themes').innerHTML = Object.entries(COULEURS).map(([k, c]) =>
     `<label><input type="checkbox" data-theme="${k}" checked> <i class="puce" style="background:${c}"></i>${esc(LIBELLES[k] || k)} <span class="mini">(${nb('theme', k)})</span></label>`).join('');
   $('#f-certitude').innerHTML = Object.entries(CERTITUDES).map(([k, v]) =>
     `<label><input type="checkbox" data-cert="${k}" checked> ${v} <span class="mini">(${nb('certitude', k)})</span></label>`).join('');
-  document.querySelectorAll('[data-corpus]').forEach(c => c.onchange = () => { c.checked ? etat.corpus.add(c.dataset.corpus) : etat.corpus.delete(c.dataset.corpus); filtrer(); });
+  const majGroupes = () => {
+    document.querySelectorAll('[data-groupe]').forEach(cg => {
+      const cs = [...cg.closest('details').querySelectorAll('[data-corpus]')], n = cs.filter(c => c.checked).length;
+      cg.checked = n === cs.length; cg.indeterminate = n > 0 && n < cs.length;
+    });
+    const tous = document.querySelectorAll('[data-corpus]'), actifs = [...tous].filter(c => c.checked).length;
+    $('#corpus-resume').textContent = actifs === tous.length ? `(tous, ${tous.length})` : `(${actifs} sur ${tous.length})`;
+  };
+  const changerCorpus = (c, on) => { c.checked = on; on ? etat.corpus.add(c.dataset.corpus) : etat.corpus.delete(c.dataset.corpus); };
+  document.querySelectorAll('[data-corpus]').forEach(c => c.onchange = () => { changerCorpus(c, c.checked); majGroupes(); filtrer(); });
+  document.querySelectorAll('[data-groupe]').forEach(cg => {
+    cg.onclick = e => e.stopPropagation();  // cocher le groupe sans le déplier
+    cg.onchange = () => { cg.closest('details').querySelectorAll('[data-corpus]').forEach(c => changerCorpus(c, cg.checked)); majGroupes(); filtrer(); };
+  });
+  const tousCorpus = on => { document.querySelectorAll('[data-corpus]').forEach(c => changerCorpus(c, on)); majGroupes(); filtrer(); };
+  $('#corpus-tous').onclick = e => { e.preventDefault(); tousCorpus(true); };
+  $('#corpus-aucun').onclick = e => { e.preventDefault(); tousCorpus(false); };
+  majGroupes();
   document.querySelectorAll('[data-theme]').forEach(c => c.onchange = () => { c.checked ? etat.themes.add(c.dataset.theme) : etat.themes.delete(c.dataset.theme); filtrer(); });
   document.querySelectorAll('[data-cert]').forEach(c => c.onchange = () => { c.checked ? etat.certitudes.add(c.dataset.cert) : etat.certitudes.delete(c.dataset.cert); filtrer(); });
   const tousThemes = on => { document.querySelectorAll('[data-theme]').forEach(c => { c.checked = on; on ? etat.themes.add(c.dataset.theme) : etat.themes.delete(c.dataset.theme); }); filtrer(); };

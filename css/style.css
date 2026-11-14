@@ -113,3 +113,16 @@ dialog::backdrop { background: rgba(30, 30, 40, .45); }
 .atlas-carte .etiq { display: inline-block; font-size: .68rem; padding: 0 .4rem; border-radius: 2px; background: var(--c); color: #fff; vertical-align: middle; margin-left: .35rem; font-family: Georgia, serif; }
 .atlas-carte .etiq.prep { background: #c8903e; }
 .atlas-carte.prep { border-style: dashed; border-left-style: solid; }
+
+/* Filtres repliables : flèche sur les blocs et arborescence des corpus */
+.titre-bloc { list-style: none; }
+.titre-bloc::-webkit-details-marker, .groupe > summary::-webkit-details-marker { display: none; }
+summary.titre-bloc::before { content: "▸"; display: inline-block; width: 1em; color: #8b2e1f; transition: transform .15s; }
+details[open] > .titre-bloc::before { transform: rotate(90deg); }
+.groupe { margin: .1rem 0; }
+.groupe > summary { list-style: none; cursor: pointer; padding: .12rem 0; display: flex; align-items: center; gap: .3rem; }
+.groupe > summary::before { content: "▸"; color: #8b2e1f; font-size: .8em; width: .8em; transition: transform .15s; }
+.groupe[open] > summary::before { transform: rotate(90deg); }
+.groupe > summary input { margin: 0; }
+.groupe-corps { padding-left: 1.35rem; border-left: 1px dotted #c9bba3; margin-left: .35rem; }
+.groupe-corps label { font-size: .82rem; }
