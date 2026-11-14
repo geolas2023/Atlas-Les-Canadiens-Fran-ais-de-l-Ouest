@@ -9064,33 +9064,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -102.94,
-     42.81
-    ]
-   },
-   "properties": {
-    "id": "H009",
-    "nom": "Bordeaux Trading Post (Chadron, Nebraska)",
-    "corpus": "Hafen",
-    "theme": "poste",
-    "debut": 1837.0,
-    "fin": 1878.0,
-    "date_edtf": "1846/1872",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "James Bordeaux"
-    ],
-    "description": "Né à Saint-Louis en 1814, James Bordeaux est bourgeois au fort Laramie, puis tient son propre poste chez les Sioux brûlés. Le poste reconstitué près de Chadron (Museum of the Fur Trade) en conserve le nom.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. V, notice « James Bordeaux ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -95.89,
      41.135
     ]
@@ -9326,33 +9299,6 @@
     ],
     "description": "Notice de Hafen sur Lucien Maxwell, né à Kaskaskia (1818) d'Hugh Maxwell et d'Odile Ménard, gendre de Beaubien, maître de l'immense concession Maxwell ; il meurt au fort Sumner en 1875.",
     "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. VI, notice « Lucien Maxwell ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.51,
-     37.17
-    ]
-   },
-   "properties": {
-    "id": "H023",
-    "nom": "Taos / Trinidad : Jean-Baptiste Chalifoux (notice Hafen)",
-    "corpus": "Hafen",
-    "theme": "personnage",
-    "debut": 1820.0,
-    "fin": 1866.0,
-    "date_edtf": "1820/1860",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "Jean-Baptiste Chalifoux"
-    ],
-    "description": "Notice de Hafen sur Jean-Baptiste Chalifoux, trappeur canadien de Taos, chef de bandes de chasseurs et de voleurs de chevaux en Californie, puis colon dans le sud du Colorado.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. VII, notice « Jean-Baptiste Chalifoux ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
     "note": ""
    }
   },
@@ -10098,6 +10044,1266 @@
     "sources": "Lawrence R. Murphy, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 41 — note de l'auteur : Santa Fe New Mexican, 6 et 20 févr. 1864 ; « Inventario del Estado de Bienes de Charles Beaubien Finado », Taos County Clerk's Office, p. 76-79 ; J. J. Webb, Adventures in the Santa Fe Trade (1931), p. 67-68, 120",
     "note": "",
     "salle": "beaubien"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     38.78
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-01",
+    "nom": "Saint-Charles (Missouri) : naissance (22 août 1814)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1814.64,
+    "fin": 1826.7,
+    "date_edtf": "1814-08-22",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Fils de Pierre Bordeaux, Canadien passé par La Nouvelle-Orléans, et de Thérèse Petit, il grandit sur la grande plantation paternelle avec moulin, bon tireur dès l'enfance et peu porté sur l'école. Brouillé avec sa belle-mère, il quitte tôt la maison.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 42 — note de l'auteur : Baptismal Records of St. Charles County, 1792-1863, I, p. 10 ; manuscrit de Susan Bordeaux Bettelyoun, Nebraska State Historical Society ; V. C. Trenholm, « The Bordeaux Story », Annals of Wyoming xxvi (1954), p. 120-127 ; C. E. Hanson Jr., « James Bordeaux », Museum of the Fur Trade Quarterly ii (1966)",
+    "note": "Le manuscrit de sa fille (années 1930) contient beaucoup d'erreurs.",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.85,
+     37.85
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-02",
+    "nom": "Rivière Niangua : traite chez les Kickapous (automne 1826)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1826.7,
+    "fin": 1829.99,
+    "date_edtf": "1826/1829",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Un James Bordeaux part à 12 ans avec une expédition de l'AFC chez les Kickapous de la Niangua, et gagne bien en 1829 en traitant le castor avec les Sauks.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 43 — note de l'auteur : AFC Western Division Ledgers, MHS, vol. N, O, P, R",
+    "note": "Sa fille date ses débuts de 1830.",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-03",
+    "nom": "Fort Union : voyageur et chasseur (contrat du 29 avril 1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.33,
+    "fin": 1836.0,
+    "date_edtf": "1830-04-29/1836",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Contrat d'un an à 200 $ avec Pierre Chouteau Jr. ; il trappe et traite autour de Fort Union et de Fort Pierre, associé un temps à un nommé Raboin (1834). Il est probablement au rendez-vous de 1832 et sûrement à celui de 1833.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 43 — note de l'auteur : contrat, Chouteau-Maffitt Collection, MHS ; Fontenelle à Laidlaw, rendez-vous de la Green, 11 juillet 1833",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     44.47
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-04",
+    "nom": "Bear Butte : un parti de guerre arikara (1836)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1836.4,
+    "fin": 1836.8,
+    "date_edtf": "1836",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Courrier entre Fort Union et le Fort William de la Laramie racheté par l'AFC, il tombe avec un compagnon sur un parti arikara près de Bear Butte : il s'en tire, son compagnon est blessé à mort.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 44 — note de l'auteur : manuscrit de Susan Bordeaux Bettelyoun, Nebraska State Historical Society, « Early Fur Traders », p. 3-7",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.0,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-05",
+    "nom": "Grand Lac Salé : traite avec les Utes et les Shoshones (1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.4,
+    "date_edtf": "1837",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Selon sa fille, il visite le Grand Lac Salé au début de 1837 ; en 1838, il traite avec les Sioux pour Fraeb (contrat avec P. A. Sarpy, 15 avril 1838).",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 44 — note de l'auteur : manuscrit de Susan Bordeaux Bettelyoun, Nebraska State Historical Society ; contrat Sarpy-Bordeaux, 15 avril 1838, Chouteau-Maffitt Collection",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-06",
+    "nom": "Fort John (Fort Laramie) : maître de fait du poste (1840-1849)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1849.48,
+    "date_edtf": "1840/1849-06-26",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Sa femme arikara repart chez les siens ; il épouse Huntkalutawin (Marie), fille de Lone Dog des Brûlés de la Loge rouge et sœur du futur chef Swift Bear : au moins dix enfants. Pendant la guerre de l'alcool contre Fort Platte, il commande en l'absence des bourgeois ; les Sioux l'appellent Mato, l'Ours.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 44 — note de l'auteur : questionnaire de Susan Bordeaux, 1938 ; A. W. Hafen, « Lancaster P. Lupton », Mountain Men II ; Sage, Scenes in the Rocky Mountains, p. 224-227",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.554,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-07",
+    "nom": "Fort John : l'« efficace bonté » envers Frémont (juillet 1842)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.53,
+    "fin": 1842.56,
+    "date_edtf": "1842-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Frémont le trouve aux commandes ; il lui donne les dernières nouvelles des Indiens et Charles Preuss loue son « efficace bonté ».",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 45 — note de l'auteur : Frémont, Narrative of the Exploring Expedition (1849), p. 25 ; journal de Preuss, p. 23",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.206
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-08",
+    "nom": "Fort John : le Crow jeté du haut du mur (5 juillet 1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.51,
+    "fin": 1843.52,
+    "date_edtf": "1843-07-05",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Un guerrier crow ivre escalade la palissade avec une perche ; parvenu en haut, Bordeaux le saisit par la peau du cou et le précipite en bas.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 46 — note de l'auteur : Matthew C. Field, Prairie and Mountain Sketches (1957), p. 77-78",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.95,
+     42.81
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-09",
+    "nom": "Bordeaux Creek (près de Chadron) : la maison d'hiver",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1876.0,
+    "date_edtf": "184X/187X",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Il établit une maison d'hivernage sur un affluent de la White River, près de l'actuel Chadron (Nebraska), qu'il utilise jusque dans les années 1870.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 48 — note de l'auteur : Hanson ; Trenholm ; W. J. Bordeaux, Conquering the Mighty Sioux (1929), p. 14-15",
+    "note": "Aujourd'hui « Museum of the Fur Trade » et poste reconstitué.",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.56,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-10",
+    "nom": "Fort John : Parkman et l'affaire Perrault (15 juin 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.45,
+    "fin": 1846.6,
+    "date_edtf": "1846-06-15",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Parkman le décrit en « petit homme trapu et brusque », grisé d'autorité, puis le traite de lâche : frappé par le Canadien Perrault qu'il avait maltraité, Bordeaux refuse le duel au fusil malgré les invectives de sa femme. Il dissuade aussi le chef oglala Whirlwind d'une expédition contre les Serpents, privant Parkman du spectacle des « cérémonies de guerre ».",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 47 — note de l'auteur : Parkman, The Oregon Trail (1949), p. 94, 121-123 ; M. Wade (éd.), The Journal of Francis Parkman (1947), II, p. 449",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.2
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-11",
+    "nom": "Fort John : Brigham Young et les mormons (1er juin 1847)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1847.4,
+    "fin": 1847.45,
+    "date_edtf": "1847-06-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Il envoie six cents ballots de robes à Fort Pierre et accueille de son mieux Brigham Young et ses pionniers.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 47 — note de l'auteur : M. H. Anderson (éd.), The Journals of Appleton Milo Harmon (1946), p. 27 ; B. H. Roberts, Comprehensive History of the Church (1936), III, p. 192",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.42,
+     42.18
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-12",
+    "nom": "Poste Bordeaux sur la North Platte, huit milles en aval du fort (1849-1868)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1849.5,
+    "fin": 1868.4,
+    "date_edtf": "1849/1868",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Après la vente du fort à l'armée, il s'associe à Joseph Bissonette et Charles Primeau, peut-être sur le site de l'ancien Fort Bernard ; Stansbury y voit en 1850 « une maison de traite sans palissade ». En 1851, l'agent Fitzpatrick lui confisque une pinte d'alcool. Burton le trouve prospère en 1860 ; Eugene Ware décrit en 1864 un caravansérail de rondins et de mottes « errant et désordonné ».",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 48 — note de l'auteur : Claim no 619 (Bordeaux, Bissonette, Primeau), U.S. Court of Claims, RG 123, National Archives ; Stansbury, Exploration… of the Great Salt Lake (1852), p. 288 ; Burton, The Look of the West (1963), p. 109-110 ; Ware, The Indian War of 1864 (1960), p. 198",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.4,
+     43.45
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-13",
+    "nom": "Fourches de la White River : 72 chevaux volés par les Crows (automne 1849)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1849.75,
+    "fin": 1849.9,
+    "date_edtf": "1849",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "En route chez les Sioux, il se fait voler soixante-douze chevaux et mules par des Crows, et ses concurrents raflent les meilleures robes.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 48 — note de l'auteur : réclamation de Bordeaux, 23 nov. 1867, Claim no 619",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.27,
+     42.86
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-14",
+    "nom": "Pont à péage de la North Platte, près d'Evansville (1853)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1854.7,
+    "date_edtf": "1851/1854",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Associé de John Richard, il possède des ponts sur la Laramie et à Deer Creek, emportés par les crues, puis un solide pont de bois à douze arches : jusqu'à cinq dollars par chariot en hautes eaux, quarante mille dollars à la fin de juin selon un client jaloux. En 1852, il bat les traiteurs de Fort Pierre dans la course aux robes de la White River.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 49 — note de l'auteur : Mattes et Borresen, « The Historic Approaches to Fort Laramie », ms. (1947), p. 30 ; Missouri Republican, 22 mars 1851 ; Bissonette à Thomas Pim, 28 janv. 1853 ; Falbo (éd.), Overland Diaries of Count Leonetto Cipriani (1962), p. 89",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.39,
+     42.17
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-15",
+    "nom": "Massacre de Grattan, devant son magasin (19 août 1854)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1854.63,
+    "fin": 1854.65,
+    "date_edtf": "1854-08-19",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Le lieutenant Grattan, vingt-neuf hommes et un interprète viennent arrêter un Miniconjou qui a mangé une vache égarée d'un convoi mormon. Grattan refuse sa médiation ; prié par un chef oglala, Bordeaux part vers le village puis fait demi-tour, prétextant des étriers trop longs ; le combat éclate. Ses parents brûlés le protègent, il dissuade les guerriers d'attaquer Fort Laramie, mais perd presque tous ses biens (2 736 $ pour l'AFC) et enterre les soldats.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 50 — note de l'auteur : quatre récits de Bordeaux : Daily Missouri Republican, 13 sept. 1854 ; lettres à l'agent Whitefield (29 et 31 août 1854) et au col. Hoffman (nov. 1854), Upper Platte Agency, RG 75 ; L. E. McCann, « The Grattan Massacre », Nebraska History xxxvii (1956)",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.552,
+     42.205
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-16",
+    "nom": "Fort Laramie : naissance de sa fille Susan (15 mars 1857)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1856.7,
+    "fin": 1857.3,
+    "date_edtf": "1856-09/1857-03-15",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "L'armée l'oblige à vivre près du fort ; sa fille Susan, future auteure du manuscrit familial, y naît.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 52 — note de l'auteur : Hoffman à Bordeaux et al., 25 juillet 1856, Letters Sent, Fort Laramie, RG 98",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.75
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-17",
+    "nom": "Cherry Creek : l'or de Pike's Peak (1858)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1858.4,
+    "fin": 1858.6,
+    "date_edtf": "1858",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Informé par ses parents indiens, il visite les gisements avec d'autres traiteurs de la Laramie et rapporte des échantillons à Kansas City : il est parmi les premiers à répandre la nouvelle de la ruée.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 52 — note de l'auteur : Kansas City Journal of Commerce, 26 août ; Missouri Republican, 29 août ; Boston Journal, 30 août 1858",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-18",
+    "nom": "Raw Hide Butte : sous-poste (1862)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1863.99,
+    "date_edtf": "1862",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Il ouvre un sous-poste près de Raw Hide Butte pendant un an ou deux, puis se trouve mêlé aux fraudes de l'agent John Loree, contre lequel il témoigne le 24 octobre 1864.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 52 — note de l'auteur : témoignages devant le lt George H. Williams, 1864, Upper Platte Agency, RG 75",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.98,
+     41.95
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-19",
+    "nom": "Horse Creek : 106 bœufs et 47 chevaux emportés (juin 1865)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1865.4,
+    "fin": 1865.5,
+    "date_edtf": "1865-06",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Chef du convoi qui escorte les Brûlés vers Fort Kearney, il perd son bétail quand Spotted Tail, Little Thunder et Swift Bear fuient le capitaine Fouts.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 54 — note de l'auteur : « Claim of James Bordeaux and Clement Lamoureaux », H. Exec. Doc. 78, 41e Congrès, 2e session",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.88,
+     41.92
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-20",
+    "nom": "Chugwater : le magasin du carrefour (1867-1868)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1867.3,
+    "fin": 1868.8,
+    "date_edtf": "1867/1868",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Informé du tracé des routes de Fort D. A. Russell vers Laramie et Fetterman, il bâtit un magasin de trois pièces sur la Chugwater, confié à Hugh Whiteside, assassiné ensuite par le hors-la-loi Franklin. La localité porte encore le nom de Bordeaux.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 55 — note de l'auteur : John Hunton, « Pioneer Days of Bordeaux », Second Report of the Wyoming Historical Society (1900), p. 94-95",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.75,
+     43.15
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-21",
+    "nom": "Agence Whetstone, près de Fort Randall (1868-1871)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1868.45,
+    "fin": 1871.4,
+    "date_edtf": "1868/1871",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Le 7 juin 1868, il convoie les vivres de la nouvelle agence sioux ; il tient un magasin à Whetstone et cultive plus au sud.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 55 — note de l'auteur : W. G. Bullock à Gallagher et Megeath, 16 juillet 1868 ; Hyde, Spotted Tail's Folk (1961), p. 133, 149",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.85,
+     43.23
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-22",
+    "nom": "Agence Rosebud : mort (11 oct. 1878)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1878.4,
+    "fin": 1878.78,
+    "date_edtf": "1878-10-11",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Ruiné, vivant des rations, il meurt de pneumonie à 64 ans. Sa fille Susan fait réinhumer ses restes et ceux de sa femme (morte en 1884) à Saint-François.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 57 — note de l'auteur : Hanson, p. 10-11 ; Trenholm, p. 127",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.9,
+     43.14
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-23",
+    "nom": "Saint-François (Dakota du Sud) : la sépulture",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1884.0,
+    "fin": 1900.0,
+    "date_edtf": "1884~",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Restes de James et de Marie Bordeaux réinhumés à la mission Saint-François.",
+    "sources": "John Dishon McDermott, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 57",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.27,
+     46.86
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-01",
+    "nom": "Charlesbourg (près de Québec) : naissance (v. 1791-1792)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1791.5,
+    "fin": 1804.0,
+    "date_edtf": "1791~",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Né au Canada français vers 1791-1792 selon ses petits-enfants ; son frère Pierre, de vingt ans son aîné, est de Charlesbourg, fils de Pierre et de Marie Bertrand. Illettrés, les frères ne savent pas écrire leur nom ; les descendants signent Charlefou, Charilifou, Charlefoux.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 61 — note de l'auteur : lettres de Genovera C. Naranjo (1934) et de Luz Gonzales (1937), coll. Hafen ; U.S. Census 1860, comté de Taos, précinct de Culebra",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-02",
+    "nom": "Saint-Louis : contrat de mariage du frère Pierre (27 oct. 1792)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1792.82,
+    "fin": 1818.5,
+    "date_edtf": "1792-10-27",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Pierre « Chalifoure » épouse Victoire Coussot ; en 1818, il déclare connaître depuis vingt ans le confluent de l'Osage et du Missouri. Un Joseph et un Jean-Baptiste Challifoux vivent aussi près de Saint-Louis et Saint-Charles.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 62 — note de l'auteur : contrat de mariage, St. Louis Archives, MHS ; déposition de « Peter Charlevoo », 30 juin 1818, Carter, Territorial Papers xv, p. 338",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.21,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-03",
+    "nom": "Sources chaudes du Wyoming : la légende des deux cents Français (1812)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1822.0,
+    "date_edtf": "1812/1822",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Selon sa petite-fille Luz Gonzales, deux cents trappeurs partis de Québec en 1812 cherchent le Pacifique ; les deux tiers meurent avant des sources chaudes du Wyoming ; les survivants descendent par la vallée de San Luis jusqu'à Rio Colorado (Questa) et se marient au Nouveau-Mexique. Genovera Naranjo le fait partir à 13 ans en 1804 et vivre sept ans chez les Indiens près de Denver.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 63 — note de l'auteur : Luz Gonzales à Hafen, 10 mars 1941",
+    "note": "Lecompte rapproche ces récits familiaux des partis de Philibert (1814) ou de Chouteau-De Mun (1815-1816).",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.48,
+     31.74
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-04",
+    "nom": "El Paso del Norte : engagé par James Baird (oct. 1826)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1826.8,
+    "fin": 1826.9,
+    "date_edtf": "1826-10",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Fin octobre 1826, Baptiste et Pierre partent d'El Paso avec James Baird vers le Gila ; Baird tombe malade à 35 milles et meurt. Les deux frères poussent jusqu'à Tucson.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 64 — note de l'auteur : R. W. Strickland, « James Baird », Mountain Men III, p. 33-36",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.97,
+     32.22
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-05",
+    "nom": "Tucson (hiver 1826-1827)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1826.9,
+    "fin": 1827.0,
+    "date_edtf": "1826/1827",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Point extrême de la campagne des frères Chalifoux vers l'ouest.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 64",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.19,
+     30.89
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-06",
+    "nom": "Janos : en prison (janv. 1827)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1827.1,
+    "date_edtf": "1827-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Fin janvier, ils sont en prison à Janos, interrogés par les administrateurs de la succession Baird au sujet d'animaux ayant appartenu à Baird.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 64",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.85,
+     40.85
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-07",
+    "nom": "Brown's Hole : était-il « Baptiste Brown » ?",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1843.0,
+    "date_edtf": "1827~/1843",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "La vallée de la Green, refuge des Utes, des Shoshones et des trappeurs, porte le nom d'un trappeur Brown. Le colonel Inman (1897) en fait « Baptiste Brown », Canadien marié à l'Arapaho Unami, récit truffé d'emprunts ; Hafen et Burroughs l'ont identifié à Chalifoux. Lecompte reste sceptique.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 58 — note de l'auteur : Amos Cook (1839), dans Hafen, To the Rockies and Oregon (1955), p. 136-137 ; Sage, Scenes, II, p. 135 ; Powell, Chicago Tribune, 1869 ; H. Inman, The Old Santa Fe Trail (1897), p. 269-276 ; J. R. Burroughs, Where the Old West Stayed Young (1962), p. 7, 35",
+    "note": "Identification contestée.",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-08",
+    "nom": "Taos : départ avec François Robidoux vers le pays ute (mars 1827)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1827.2,
+    "fin": 1836.99,
+    "date_edtf": "1827-03/1836",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "« Bautista Chalifou » part avec François Robidoux, dans le même parti que Maurice LeDuc. En 1829, il signe une reconnaissance de 60 $ trouvée dans les papiers de Sylvestre Pratte. Son frère Pierre épouse María Dolores Apodaca à Taos le 29 décembre 1829. Baptiste épouse María Anita Lucero à Taos en 1836.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 64 — note de l'auteur : Manuel Martín, Taos, 7 avril 1827, MANM no 1348 ; Pratte Papers, MHS ; Chávez, El Palacio 64 (1957), p. 300",
+    "note": "Croise les salles LeDuc et Pratte.",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.6,
+     39.9
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-09",
+    "nom": "Willow Creek : « B. Chalifou » gravé sur la roche (1835)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1835.8,
+    "fin": 1835.9,
+    "date_edtf": "1835",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Sur la piste des trappeurs entre le Nouveau-Mexique et la Green, son nom est gravé près de Willow Creek, d'une écriture espagnole soignée, sans doute de la main de Juan Valdez, qui inscrit à côté « Paso 8 & 9 N 9 1835 ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 65",
+    "note": "Position de l'inscription estimée.",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.107,
+     34.097
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-10",
+    "nom": "Mission San Gabriel : « Monsier Shalifu » et ses trente Néo-Mexicains (janv. 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.05,
+    "date_edtf": "1837-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Les missions signalent des bandes d'Indiens et de Blancs venus du Nouveau-Mexique troquer des lainages et voler chevaux et mules. Ces « Chaguanosos » (Shawnees), Canadiens, Mexicains, Shawnees et Delawares, deviennent célèbres.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 66 — note de l'auteur : E. Lawrence, « Mexican Trade between Santa Fe and Los Angeles », CHSQ x (1931), p. 31 ; « Horse Thieves on the Spanish Trail », Touring Topics (1931), p. 23",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.461,
+     34.273
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-11",
+    "nom": "Mission San Fernando : mercenaires sans solde (21 janv. 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.05,
+    "fin": 1837.06,
+    "date_edtf": "1837-01-21",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Antonio María Osio les enrôle contre Alvarado, en échange du droit de trapper sans taxe et de rations. Armés de fusils, dagues, tomahawks et arcs, ils rejoignent les troupes à San Fernando ; à l'arrivée d'Alvarado, les soldats mexicains se rendent aussitôt.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 66 — note de l'auteur : A. M. Osio, « Historia de California », ms., p. 321-340, Bancroft Library",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.55,
+     33.82
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-12",
+    "nom": "Agua Caliente : Janssens dans le camp des Chaguanosos (mai 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.35,
+    "fin": 1837.4,
+    "date_edtf": "1837-05",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Le Belge Augustin Janssens, envoyé parce qu'il parle français, est mis en joue à l'orée de la forêt ; il prononce le nom de Chalifoux et l'on baisse les armes. Le capitaine, « un peu boiteux », accepte d'aider la contre-révolution pour la nourriture seulement.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 67 — note de l'auteur : Augustin Janssens, « Vida y Aventuras », ms., p. 90-121, Bancroft Library",
+    "note": "Boiterie peut-être liée aux jambes brisées dans une fuite devant les Pieds-Noirs (récit de Wootton). Emplacement d'Agua Caliente incertain.",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.87,
+     33.77
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-13",
+    "nom": "San Diego et Rancho Santa Ana : l'armée des ivrognes (juin 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.4,
+    "fin": 1837.6,
+    "date_edtf": "1837-06/1837-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "En route vers San Diego, la moitié des Chaguanosos s'enivrent d'aguardiente et sont jetés dans deux charrettes. Passé le Rancho Santa Ana, l'ennemi s'enfuit jusqu'à Los Angeles sans combattre. Démobilisés en août, ils menacent de faire leur propre révolution faute de solde ; Alvarado les paie et leur ordonne de partir.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 68 — note de l'auteur : Janssens ; G. Tays, « Captain Andres Castillero », CHSQ xiv (1935), p. 252",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.664,
+     35.28
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-14",
+    "nom": "Mission San Luis Obispo : 1 400 chevaux volés (oct.-nov. 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.75,
+    "fin": 1837.9,
+    "date_edtf": "1837-10/1837-11",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Au lieu de partir, ils volent des chevaux à Santa Inés et dans les ranchs, puis trois ou quatre cents bêtes à San Luis Obispo : 1 400 à 1 500 animaux hivernés dans la vallée des Tulares avant le Nouveau-Mexique.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 68 — note de l'auteur : Lawrence, « Horse Thieves », p. 23",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     37.3
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-15",
+    "nom": "Vallée de San Joaquin : le « fameux chef bandit Califa » capturé (1839-1840)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.85,
+    "fin": 1840.15,
+    "date_edtf": "1839-11/1840-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Les troupes de Vallejo, à la recherche de chevaux et de captives, prennent quatorze voleurs, dont le « fameux chef bandit Califa ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 69 — note de l'auteur : G. Tays, « Mariano Guadalupe Vallejo and Sonoma », CHSQ xvii (1938), p. 149",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.32,
+     35.63
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-16",
+    "nom": "Cajon Pass et Agua de Tomasa : la grande razzia (avril-mai 1840)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1840.3,
+    "fin": 1840.42,
+    "date_edtf": "1840-04-26/1840-05-23",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Renforcée de Bill Williams, Pegleg Smith, Dick Owens et d'autres, la bande enlève mille juments à San Luis Obispo et trois troupeaux à San Gabriel, bat trente et un volontaires et file par le col Cajon dans le désert de Mojave, soulevant la poussière de trois mille chevaux. À Agua de Tomasa (Salt Springs), les soldats laissent leurs bêtes ; Calvin Jones et Bill Williams les volent, puis les rendent contre l'abandon de la poursuite et la selle du commandant. Les Indiens volent ensuite tous les chevaux, et les hommes rentrent à pied à Santa Fe.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 69 — note de l'auteur : Departmental State Papers, Archivo de California, Bancroft Library, Angeles iv, p. 88-92 ; Cragin, entretien avec Albert W. Archibald, 25 déc. 1907 ; J. C. Van Tramp, Prairie and Rocky Mountain Adventures (1868), p. 183-184",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.96,
+     36.21
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-17",
+    "nom": "Embudo : le petit ranchero chez qui dîne Ruxton (déc. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1850.99,
+    "date_edtf": "1846/1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Ruxton dort chez un vieux trappeur canadien devenu paisible ranchero ; sa jolie fille sert six petits dés de porc gras flottant dans le chili rouge. Barclay (22 nov. 1848) et Kroenig (1849) y logent aussi. Il cultive aussi du maïs sur la Cucharas en 1845.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 72 — note de l'auteur : Ruxton, Adventures in Mexico and the Rocky Mountains (1848), p. 197 ; Barclay Diary, 22 nov. 1848 ; « William Kronig », NMHR xix (1944), p. 199",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.569,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-18",
+    "nom": "Taos : Ursula chez le padre Martínez et le juré endormi (1847)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1847.05,
+    "fin": 1847.3,
+    "date_edtf": "1847-01/1847-04",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Pendant la révolte, sa fille Ursula, 7 ans, est cachée par le padre Martínez ; selon la famille, il porte la nouvelle à San Juan d'où Autobees file prévenir Santa Fe. Juré au procès d'avril (« Baptiste Charleyfoe »), il réclame la pendaison : Garrard le dit sans deux idées au-delà du boire et du manger ; Wootton raconte qu'endormi pendant tout le procès, il répondit « pendez-le ; s'il n'est pas coupable maintenant, il le sera ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 73 — note de l'auteur : F. T. Cheetham, « The First Term of the American Court at Taos », NMHR i (1926), p. 29-34 ; Garrard, Wah-to-Yah (1938), p. 248-249 ; Conard, Wootton, p. 75-76",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.27,
+     38.2
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-19",
+    "nom": "Embouchure de la Huerfano : la grotte et la tombe creusée (1854-1855)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1855.1,
+    "date_edtf": "1854/1855-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Chez Charles Autobees, il vit dans une sorte de grotte creusée dans la berge. En décembre 1854, il aide à enterrer les victimes du massacre du Pueblo par les Utes ; en janvier 1855, un employé de Wootton creusant une tombe « pour le pauvre vieux Charlefoux » s'y cache au passage des Indiens.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 73 — note de l'auteur : Lecompte, « Charles Autobees », Colorado Magazine xxxv (1958), p. 51, 63 ; Conard, p. 303",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.45,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-20",
+    "nom": "Gray's Creek et la Purgatoire : maisons pour Felipe Baca (1859-1860)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1860.9,
+    "date_edtf": "1859/1860-11",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "En 1859, il bâtit une maison sur Gray's Creek, quatre milles sous l'actuel Trinidad, avec Joaquín Young et Juan Cristóbal Tafoya ; en novembre 1860, avec Auguste Clermont, deux maisons de rondins pour Felipe Baca, futur fondateur de Trinidad, laissées sans toit.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 74 — note de l'auteur : DeBusk Memorial, Colorado Historical Society ; Cragin, entretien avec A. W. Archibald, 26 déc. 1907 ; F. Hall, History of the State of Colorado (1895), iv, p. 191",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.42,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-21",
+    "nom": "San Luis (Culebra) : recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.9,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "« Batis Chalifoux », fermier, 60 ans, vit avec Mariana Lucero (41 ans) et leurs fils Leon et John B. ; 500 $ de terres et 500 $ de biens.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 74 — note de l'auteur : U.S. Census 1860, comté de Taos, précinct de Culebra",
+    "note": "",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.3,
+     38.18
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-22",
+    "nom": "Huerfano : mort chez Autobees (12 déc. 1860)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.94,
+    "fin": 1860.95,
+    "date_edtf": "1860-12-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Il meurt lors d'une dernière visite au ranch d'Autobees, dans le second établissement fondé deux milles en amont sur la Huerfano, et repose au petit cimetière sans stèle ; ses descendants savent quelle tombe est la sienne.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 75 — note de l'auteur : Luz Gonzales à Sterling Cawlfield, 27 avril 1937",
+    "note": "",
+    "salle": "chalifoux"
    }
   },
   {
