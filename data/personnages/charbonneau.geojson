@@ -1,0 +1,710 @@
+{
+ "type": "FeatureCollection",
+ "name": "charbonneau",
+ "personnage": {
+  "id": "charbonneau",
+  "nom": "Jean-Baptiste Charbonneau",
+  "auteur": "Ann W. Hafen",
+  "pages": "76-95",
+  "vie": "1805-1866",
+  "hafen": "Jean Baptiste Charbonneau",
+  "chapeau": "Fils de Toussaint Charbonneau et de Sacagawea, né à Fort Mandan, porté jusqu'au Pacifique par l'expédition Lewis et Clark, élevé par Clark, six ans en Europe avec le prince Paul de Wurtemberg, trappeur, guide du Bataillon mormon, alcade de San Luis Rey, mineur en Californie ; mort sur l'Owyhee.",
+  "couleur": "#2e8b57"
+ },
+ "bibliographie": [
+  "Ann W. Hafen, « Jean-Baptiste Charbonneau », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 76-95."
+ ],
+ "inedits": [
+  "Journal de voyage du prince Paul de Wurtemberg (Erste Reise, 1835) et journal de 1850 : traductions manuscrites de W. G. Beck et L. C. Butscher ; manuscrits allemands survivants à rechercher (Stuttgart).",
+  "Bandini Documents, San Diego Archives (Bancroft Library) : lettres de J. B. Charbonneau, avril 1848.",
+  "Records of the Bureau of Indian Affairs : passeport de Clark au prince Paul, déc. 1829.",
+  "Sublette Papers, MHS : billet du 17 août 1843 (vente de la terre héritée).",
+  "Site de l'Inskip Ranch à Danner (Oregon) : tombe inscrite au National Register."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-01",
+    "ordre": 1,
+    "nom": "Fort Mandan : naissance de « Pomp » (11 févr. 1805)",
+    "phase": "Lewis et Clark",
+    "debut": 1805.11,
+    "fin": 1805.27,
+    "date_edtf": "1805-02-11",
+    "certitude": "certaine",
+    "description": "Sacagawea, épouse shoshone du traiteur Toussaint Charbonneau, accouche d'un garçon après un travail long et douloureux ; René Jusseaume lui fait boire deux anneaux de crotale broyés dans l'eau, et Lewis, sceptique, note qu'elle accoucha dix minutes plus tard.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 76 — note de l'auteur : R. G. Thwaites (éd.), Original Journals of the Lewis and Clark Expedition (1904-1905), I, p. 257-258",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.3,
+     47.32
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-02",
+    "ordre": 2,
+    "nom": "Départ de Fort Mandan (7 avril 1805)",
+    "phase": "Lewis et Clark",
+    "debut": 1805.27,
+    "fin": 1805.45,
+    "date_edtf": "1805-04-07",
+    "certitude": "certaine",
+    "description": "« Shabonah et sa squaw » partent comme interprètes pour les Serpents. Le bébé dort sous la grande tente de peaux avec les capitaines et voyage sur le dos de sa mère qui cueille oignons sauvages et racines.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 77 — note de l'auteur : R. G. Thwaites (éd.), Original Journals of the Lewis and Clark Expedition (1904-1905), I, p. 284-285",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.2,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-03",
+    "ordre": 3,
+    "nom": "Grandes Chutes du Missouri (juin-juillet 1805)",
+    "phase": "Lewis et Clark",
+    "debut": 1805.45,
+    "fin": 1805.53,
+    "date_edtf": "1805-06/1805-07",
+    "certitude": "certaine",
+    "description": "Un mois pour contourner les chutes sur dix-huit milles ; Ferris rappellera plus tard que l'enfant et sa mère y furent sauvés d'une crue subite par Clark.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 78 — note de l'auteur : W. A. Ferris, Life in the Rocky Mountains (1940), p. 64",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.93,
+     44.97
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-04",
+    "ordre": 4,
+    "nom": "Chez les Shoshones : Sacagawea retrouve son frère (août 1805)",
+    "phase": "Lewis et Clark",
+    "debut": 1805.6,
+    "fin": 1805.67,
+    "date_edtf": "1805-08",
+    "certitude": "certaine",
+    "description": "Sacagawea court embrasser son frère, le chef ; les femmes shoshones posent le petit Baptiste sur une robe de bison avec un chien hirsute. Elle choisit pourtant de poursuivre avec les capitaines.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 78",
+    "note": "Point placé à Camp Fortunate (Beaverhead)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.88,
+     46.134
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-05",
+    "ordre": 5,
+    "nom": "Fort Clatsop : l'hiver au Pacifique (1805-1806)",
+    "phase": "Lewis et Clark",
+    "debut": 1805.92,
+    "fin": 1806.22,
+    "date_edtf": "1805-12/1806-03",
+    "certitude": "certaine",
+    "description": "Descente de la Columbia, l'enfant tendant les mains vers les goélands ; hivernage au fort Clatsop.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 78",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.35,
+     47.35
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-06",
+    "ordre": 6,
+    "nom": "Villages mandans : « mon petit garçon dansant » (août 1806)",
+    "phase": "Lewis et Clark",
+    "debut": 1806.6,
+    "fin": 1806.65,
+    "date_edtf": "1806-08-20",
+    "certitude": "certaine",
+    "description": "La famille reste chez les Mandans avec les outils de forge offerts par l'expédition. Clark, attaché à l'enfant, écrit le 20 août 1806 à Charbonneau qu'il veut élever « mon garçon Pomp » comme son propre fils et l'éduquer.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 79 — note de l'auteur : lettre de Clark, Century Magazine, oct. 1904",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-07",
+    "ordre": 7,
+    "nom": "Saint-Louis : élevé par Clark (v. 1809-1823)",
+    "phase": "Saint-Louis et l'Europe",
+    "debut": 1809.0,
+    "fin": 1823.8,
+    "date_edtf": "1809/1823",
+    "certitude": "certaine",
+    "description": "Confié avec sa mère au capitaine Clark, il étudie auprès de prêtres, religieuses et d'un pasteur baptiste ; il parle anglais, français et quelques langues indiennes. Vers 11 ans, Hugh Munroe le voit chez les Mandans perdre au jeu, par la faute de son père, le cheval qu'on lui avait donné.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 79 — note de l'auteur : J. W. Schultz, Bird Woman (1918), p. 111-114",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-08",
+    "ordre": 8,
+    "nom": "Embouchure de la Kansas : rencontre du prince Paul de Wurtemberg (1823)",
+    "phase": "Saint-Louis et l'Europe",
+    "debut": 1823.5,
+    "fin": 1823.84,
+    "date_edtf": "1823",
+    "certitude": "certaine",
+    "description": "À 18 ans, il séduit le prince Paul de Wurtemberg, savant voyageur de 25 ans, qui l'emmène en Europe avec l'accord de Clark.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 80 — note de l'auteur : Paul Wilhelm von Württemberg, Erste Reise nach dem nördlichen Amerika (Stuttgart, 1835), trad. ms. W. G. Beck",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-09",
+    "ordre": 9,
+    "nom": "La Nouvelle-Orléans : le brick Smyrna (déc. 1823)",
+    "phase": "Saint-Louis et l'Europe",
+    "debut": 1823.97,
+    "fin": 1824.0,
+    "date_edtf": "1823-12-19/1823-12-21",
+    "certitude": "certaine",
+    "description": "Partis de Saint-Louis le 3 novembre, ils arrivent le 19 décembre ; le prince adore la ville. L'annonce du Louisiana Gazette du 20 décembre offre un passage pour Le Havre sur le brick doublé de cuivre Smyrna ; deux semaines d'attente parmi moustiques et alligators.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 80 — note de l'auteur : Louisiana Gazette, 20 déc. 1823 (New Orleans Public Library)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.107,
+     49.494
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-10",
+    "ordre": 10,
+    "nom": "Le Havre : arrivée en France (14 févr. 1824)",
+    "phase": "Saint-Louis et l'Europe",
+    "debut": 1824.12,
+    "fin": 1824.13,
+    "date_edtf": "1824-02-14",
+    "certitude": "certaine",
+    "description": "Après Cuba (10 janvier), le froid des bancs de Terre-Neuve (-14°) et les orages, le Smyrna entre au Havre-de-Grâce.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 81",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.0,
+     48.9
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-11",
+    "ordre": 11,
+    "nom": "Wurtemberg : six ans au château du prince (1824-1829)",
+    "phase": "Saint-Louis et l'Europe",
+    "debut": 1824.2,
+    "fin": 1829.8,
+    "date_edtf": "1824/1829",
+    "certitude": "approximative",
+    "description": "Il vit dans un château à une trentaine de milles de Stuttgart, étudie les langues, chasse en Forêt-Noire (« mon chasseur extraordinaire »), et accompagne le prince en France, en Angleterre, en Allemagne et en Afrique du Nord. La plupart des écrits du prince ont été détruits par les bombardements de 1939-1945.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 81 — note de l'auteur : témoignage de Möllhausen, NMHR xvii (1942), p. 190 ; journal du prince à Sacramento, 1850, trad. L. C. Butscher",
+    "note": "Château non identifié ; point placé près de Stuttgart."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.35,
+     42.9
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-12",
+    "ordre": 12,
+    "nom": "Portneuf : perdu onze jours, une peau de castor pleine d'eau (automne 1830)",
+    "phase": "Trappeur",
+    "debut": 1830.7,
+    "fin": 1830.9,
+    "date_edtf": "1830",
+    "certitude": "certaine",
+    "description": "Rentré en décembre 1829 avec le prince, il trappe pour l'AFC. Séparé de la brigade près de la rivière Malade, il évite un village indien, remplit une peau de castor d'eau et erre onze jours affamé avant de rejoindre Dripps et Fontenelle sur la Portneuf.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 83 — note de l'auteur : Ferris, Life in the Rocky Mountains, p. 67",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.06,
+     42.86
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-13",
+    "ordre": 13,
+    "nom": "Rendez-vous de la Green River (1833)",
+    "phase": "Trappeur",
+    "debut": 1833.5,
+    "fin": 1834.6,
+    "date_edtf": "1833/1834",
+    "certitude": "certaine",
+    "description": "Avec Joe Meek (1831), Jim Bridger (1832), il fréquente les rendez-vous ; Wyeth le voit poursuivre à pied des voleurs de chevaux, son fusil mouillé ne faisant que claquer.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 84 — note de l'auteur : « Correspondence and Journals of Captain Nathaniel J. Wyeth », Sources of the History of Oregon, I, p. 207",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.817,
+     40.193
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-14",
+    "ordre": 14,
+    "nom": "Independence et Fort Vasquez : chasseur de Vasquez et Sublette (1839-1840)",
+    "phase": "Trappeur",
+    "debut": 1839.6,
+    "fin": 1840.4,
+    "date_edtf": "1839-08-06/1840",
+    "certitude": "certaine",
+    "description": "Le 6 août 1839, il part d'Independence avec Louis Vasquez et Andrew Sublette ; E. Willard Smith note qu'un des chasseurs est « fils du capitaine Clark », éduqué sept ans en Europe. Au printemps 1840, il descend la Platte dans un bateau de 36 pieds chargé de 700 robes et 400 langues de bison, jusqu'à Saint-Louis le 3 juillet.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 85 — note de l'auteur : journal d'E. Willard Smith, dans L. R. et A. W. Hafen, To the Rockies and Oregon (1955), p. 155-156, 192-193",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.8,
+     40.25
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-15",
+    "ordre": 15,
+    "nom": "Île « Sainte-Hélène » sur la South Platte : le julep de Frémont (juillet-août 1842)",
+    "phase": "Trappeur",
+    "debut": 1842.5,
+    "fin": 1842.67,
+    "date_edtf": "1842-07/1842-08-30",
+    "certitude": "certaine",
+    "description": "Échoué faute d'eau avec les robes de Bent et St. Vrain, il campe sur une île qu'il baptise Sainte-Hélène. Frémont y boit un julep à la menthe avec langue de bison et café sucré ; Rufus Sage admire un homme qui parle allemand, espagnol, français, anglais et plusieurs langues indiennes, à l'humour fin.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 86 — note de l'auteur : Frémont, Report (1845), p. 30-31 ; Sage, His Letters and Papers (1956), II, p. 52-54",
+    "note": "Point placé près de Fort Morgan."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.9,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-16",
+    "ordre": 16,
+    "nom": "Excursion de Sir William Drummond Stewart (1843)",
+    "phase": "Trappeur",
+    "debut": 1843.4,
+    "fin": 1843.75,
+    "date_edtf": "1843",
+    "certitude": "approximative",
+    "description": "Conducteur de charrette dans la caravane de plaisance de Stewart, il guide le neveu de Clark, William Clark Kennerly, sur les traces de 1805 ; lors d'un combat entre Walker et Smith, il fait cercle avec son fouet.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 87 — note de l'auteur : W. C. Kennerly et E. Russell, Persimmon Hill (1948), p. 144, 158",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-17",
+    "ordre": 17,
+    "nom": "Bent's Fort : « le meilleur homme à pied des plaines » (1844)",
+    "phase": "Trappeur",
+    "debut": 1844.0,
+    "fin": 1846.5,
+    "date_edtf": "1844/1846",
+    "certitude": "certaine",
+    "description": "Chasseur de Bent et St. Vrain, cheveux aux épaules ; William Boggs le dit le meilleur marcheur des plaines et des Rocheuses. Il capture vivants antilopes et mouflons, dont certains finissent au domaine écossais de Stewart ; Ruxton le montre jouant vingt heures à l'euchre.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 88 — note de l'auteur : « The W. M. Boggs Manuscript about Bent's Fort », Colorado Magazine vii (1930), p. 66-67 ; Solomon Sublette, 5 mai et 6 juin 1844, Sublette Collection, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.0,
+     35.6
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-18",
+    "ordre": 18,
+    "nom": "Rivière Canadienne : guide d'Abert (1845)",
+    "phase": "Trappeur",
+    "debut": 1845.6,
+    "fin": 1845.8,
+    "date_edtf": "1845",
+    "certitude": "approximative",
+    "description": "Guide de l'expédition du lieutenant J. W. Abert de Bent's Fort vers la Canadienne ; Fitzpatrick se félicite de « M. Chabonard ».",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 89 — note de l'auteur : « Journal of Lieut. J. W. Abert… 1845 », Sen. Exec. Doc. 438, 29e Congrès",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.97,
+     31.38
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-19",
+    "ordre": 19,
+    "nom": "Col de Guadalupe : la chasse à l'ours en chemise rouge (fin nov. 1846)",
+    "phase": "Bataillon mormon",
+    "debut": 1846.88,
+    "fin": 1846.92,
+    "date_edtf": "1846-11-22/1846-11",
+    "certitude": "certaine",
+    "description": "Guide du Bataillon mormon de Cooke de Santa Fe à San Diego. Le 22 novembre, sa mule rétive s'enfuit ; il l'abat pour récupérer selle et pistolets. Fin novembre, près du sommet, il attaque trois ours, crie en espagnol qu'on lui apporte des balles, et apparaît sur un rocher en chemise rouge.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 89 — note de l'auteur : P. St. George Cooke, Conquest of New Mexico and California (1878), p. 131, 134",
+    "note": "Point placé au col de Guadalupe."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.32,
+     33.232
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-20",
+    "ordre": 20,
+    "nom": "Mission San Luis Rey : l'alcade métis (nov. 1847-juillet 1848)",
+    "phase": "Californie",
+    "debut": 1847.85,
+    "fin": 1848.56,
+    "date_edtf": "1847-11/1848-07-24",
+    "certitude": "certaine",
+    "description": "Nommé alcade de San Luis Rey, il est accusé d'avoir préparé un soulèvement indien et dénonce un faux serment de l'Indien Paulino. Il démissionne : le colonel Stevenson note qu'il a fait son devoir, mais qu'on le juge, en « métis indien des États-Unis », trop favorable aux Indiens.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 90 — note de l'auteur : Bandini Documents, San Diego Archives, p. 328-333, Bancroft Library ; Bancroft, History of California, v, p. 568",
+    "note": "Seuls écrits connus de sa main : lettres des 6 et 7 avril 1848."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.98,
+     38.94
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-21",
+    "ordre": 21,
+    "nom": "Murderer's Bar (American River) : mineur avec Beckwourth (1848-1849)",
+    "phase": "Californie",
+    "debut": 1848.9,
+    "fin": 1852.0,
+    "date_edtf": "1848/1852",
+    "certitude": "certaine",
+    "description": "Jim Beckwourth le trouve « tenant maison » à Murderer's Bar, sur la fourche du milieu de l'American, et reste jusqu'aux pluies.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 91 — note de l'auteur : T. D. Bonner, Life and Adventures of James P. Beckwourth (1930), p. 353, 364 ; M. Angel, History of Placer County (1882), p. 71",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.471,
+     38.572
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-22",
+    "ordre": 22,
+    "nom": "Fort Sutter : le prince Paul se souvient (août 1850)",
+    "phase": "Californie",
+    "debut": 1850.6,
+    "fin": 1850.65,
+    "date_edtf": "1850-08",
+    "certitude": "certaine",
+    "description": "Visitant Sutter, le prince Paul voit un jeune Shoshone dont la ressemblance lui rappelle « le garçon de la même tribu » emmené en Europe en 1823. On ignore s'ils se revirent.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 92 — note de l'auteur : journal du prince Paul à Sacramento, 1850",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08,
+     38.897
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-23",
+    "ordre": 23,
+    "nom": "Auburn : commis à l'Orleans Hotel (1860-1866)",
+    "phase": "Californie",
+    "debut": 1860.0,
+    "fin": 1866.3,
+    "date_edtf": "1860/1866",
+    "certitude": "certaine",
+    "description": "Recensé en 1860 à Secret Ravine (57 ans, né au Missouri), il est commis à l'Orleans Hotel d'Auburn en 1861. Attiré par l'or du Montana, « pays de sa naissance », il part au printemps 1866.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 92 — note de l'auteur : U.S. Census 1860, Placer County ; Directory of Placer County (1861), p. 79",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.33,
+     42.94
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-24",
+    "ordre": 24,
+    "nom": "Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)",
+    "phase": "Californie",
+    "debut": 1866.37,
+    "fin": 1866.38,
+    "date_edtf": "1866-05-16",
+    "certitude": "certaine",
+    "description": "Pris de « fièvre des montagnes » ou de pneumonie, il meurt au ranch Inskip, à l'embouchure de Cow Creek ; trois vieilles tombes y sont visibles, l'une présumée la sienne. Le Placer Herald le dit homme aimable, cultivé, au courant de l'actualité.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 93 — note de l'auteur : Placer Herald (Auburn), 7 juillet 1866 ; Butte Record (Oroville), 14 juillet 1866 ; Owyhee Avalanche (Ruby City), 2 juin 1866 ; Merle Wells, Idaho Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.73,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-25",
+    "ordre": 25,
+    "nom": "Réserve de Wind River : l'autre « Baptiste » (1885)",
+    "phase": "Mémoire",
+    "debut": 1885.0,
+    "fin": 1933.0,
+    "date_edtf": "1885 ; 1933",
+    "certitude": "hypothetique",
+    "description": "Grace R. Hebard identifie un « Bat-tez » mort en 1885 sur la réserve de Wind River et lui élève un monument ; Ann Hafen conclut à une erreur d'identité.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 95 — note de l'auteur : G. R. Hebard, Sacajawea (1933)",
+    "note": "Identité contestée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -101.27,
+      47.3
+     ],
+     [
+      -101.3,
+      47.32
+     ],
+     [
+      -111.2,
+      47.55
+     ],
+     [
+      -112.93,
+      44.97
+     ],
+     [
+      -123.88,
+      46.134
+     ],
+     [
+      -101.35,
+      47.35
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -94.61,
+      39.115
+     ],
+     [
+      -90.065,
+      29.958
+     ],
+     [
+      0.107,
+      49.494
+     ],
+     [
+      9.0,
+      48.9
+     ],
+     [
+      -112.35,
+      42.9
+     ],
+     [
+      -110.06,
+      42.86
+     ],
+     [
+      -104.817,
+      40.193
+     ],
+     [
+      -103.8,
+      40.25
+     ],
+     [
+      -109.9,
+      43.2
+     ],
+     [
+      -103.43,
+      38.04
+     ],
+     [
+      -103.0,
+      35.6
+     ],
+     [
+      -108.97,
+      31.38
+     ],
+     [
+      -117.32,
+      33.232
+     ],
+     [
+      -120.98,
+      38.94
+     ],
+     [
+      -121.471,
+      38.572
+     ],
+     [
+      -121.08,
+      38.897
+     ],
+     [
+      -117.33,
+      42.94
+     ]
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-parcours",
+    "nom": "Parcours de Jean-Baptiste Charbonneau"
+   }
+  }
+ ]
+}

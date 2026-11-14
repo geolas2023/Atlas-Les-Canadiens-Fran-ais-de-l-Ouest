@@ -8957,33 +8957,6 @@
     "type": "Point",
     "coordinates": [
      -101.27,
-     47.3
-    ]
-   },
-   "properties": {
-    "id": "H001",
-    "nom": "Fort Mandan : naissance de Jean-Baptiste Charbonneau (1805)",
-    "corpus": "Hafen",
-    "theme": "personnage",
-    "debut": 1805.1,
-    "fin": 1866.4,
-    "date_edtf": "1805-02-11/1866-05",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "Jean Baptiste Charbonneau"
-    ],
-    "description": "Fils de Toussaint Charbonneau et de Sacagawea, né à l'hivernement de Lewis et Clark chez les Mandanes, il est élevé à Saint-Louis, voyage en Europe avec le prince Paul de Wurtemberg, devient guide (Bataillon mormon, 1846), puis alcade de San Luis Rey. Il meurt en 1866 en Oregon (Inskip Station), en route vers le Montana.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. I, notice « Jean Baptiste Charbonneau ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -101.27,
      47.25
     ]
    },
@@ -9542,33 +9515,6 @@
     ],
     "description": "Né vers 1767 (Boucherville, Québec), Toussaint Charbonneau est engagé par Lewis et Clark à l'hivernement des Mandanes (1804-1805) avec son épouse shoshone Sacagawea ; il reste ensuite interprète sur le haut Missouri pendant des décennies.",
     "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « Toussaint Charbonneau ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -95.37,
-     35.78
-    ]
-   },
-   "properties": {
-    "id": "H035",
-    "nom": "Three Forks (Oklahoma) : poste d'Auguste-Pierre Chouteau",
-    "corpus": "Hafen",
-    "theme": "poste",
-    "debut": 1817.0,
-    "fin": 1838.9,
-    "date_edtf": "1822/1838",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "Auguste Pierre Chouteau"
-    ],
-    "description": "Après son arrestation à Santa Fe (1817), Auguste-Pierre Chouteau tient des postes chez les Osages, aux Three Forks de l'Arkansas et à La Saline (Oklahoma), et y meurt en 1838.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « Auguste Pierre Chouteau ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
     "note": ""
    }
   },
@@ -11304,6 +11250,1294 @@
     "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 75 — note de l'auteur : Luz Gonzales à Sterling Cawlfield, 27 avril 1937",
     "note": "",
     "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-01",
+    "nom": "Fort Mandan : naissance de « Pomp » (11 févr. 1805)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.11,
+    "fin": 1805.27,
+    "date_edtf": "1805-02-11",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Sacagawea, épouse shoshone du traiteur Toussaint Charbonneau, accouche d'un garçon après un travail long et douloureux ; René Jusseaume lui fait boire deux anneaux de crotale broyés dans l'eau, et Lewis, sceptique, note qu'elle accoucha dix minutes plus tard.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 76 — note de l'auteur : R. G. Thwaites (éd.), Original Journals of the Lewis and Clark Expedition (1904-1905), I, p. 257-258",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.3,
+     47.32
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-02",
+    "nom": "Départ de Fort Mandan (7 avril 1805)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.27,
+    "fin": 1805.45,
+    "date_edtf": "1805-04-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "« Shabonah et sa squaw » partent comme interprètes pour les Serpents. Le bébé dort sous la grande tente de peaux avec les capitaines et voyage sur le dos de sa mère qui cueille oignons sauvages et racines.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 77 — note de l'auteur : R. G. Thwaites (éd.), Original Journals of the Lewis and Clark Expedition (1904-1905), I, p. 284-285",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.2,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-03",
+    "nom": "Grandes Chutes du Missouri (juin-juillet 1805)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.45,
+    "fin": 1805.53,
+    "date_edtf": "1805-06/1805-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Un mois pour contourner les chutes sur dix-huit milles ; Ferris rappellera plus tard que l'enfant et sa mère y furent sauvés d'une crue subite par Clark.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 78 — note de l'auteur : W. A. Ferris, Life in the Rocky Mountains (1940), p. 64",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.93,
+     44.97
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-04",
+    "nom": "Chez les Shoshones : Sacagawea retrouve son frère (août 1805)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.6,
+    "fin": 1805.67,
+    "date_edtf": "1805-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Sacagawea court embrasser son frère, le chef ; les femmes shoshones posent le petit Baptiste sur une robe de bison avec un chien hirsute. Elle choisit pourtant de poursuivre avec les capitaines.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 78",
+    "note": "Point placé à Camp Fortunate (Beaverhead).",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.88,
+     46.134
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-05",
+    "nom": "Fort Clatsop : l'hiver au Pacifique (1805-1806)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.92,
+    "fin": 1806.22,
+    "date_edtf": "1805-12/1806-03",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Descente de la Columbia, l'enfant tendant les mains vers les goélands ; hivernage au fort Clatsop.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 78",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.35,
+     47.35
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-06",
+    "nom": "Villages mandans : « mon petit garçon dansant » (août 1806)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1806.6,
+    "fin": 1806.65,
+    "date_edtf": "1806-08-20",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "La famille reste chez les Mandans avec les outils de forge offerts par l'expédition. Clark, attaché à l'enfant, écrit le 20 août 1806 à Charbonneau qu'il veut élever « mon garçon Pomp » comme son propre fils et l'éduquer.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 79 — note de l'auteur : lettre de Clark, Century Magazine, oct. 1904",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-07",
+    "nom": "Saint-Louis : élevé par Clark (v. 1809-1823)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1823.8,
+    "date_edtf": "1809/1823",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Confié avec sa mère au capitaine Clark, il étudie auprès de prêtres, religieuses et d'un pasteur baptiste ; il parle anglais, français et quelques langues indiennes. Vers 11 ans, Hugh Munroe le voit chez les Mandans perdre au jeu, par la faute de son père, le cheval qu'on lui avait donné.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 79 — note de l'auteur : J. W. Schultz, Bird Woman (1918), p. 111-114",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-08",
+    "nom": "Embouchure de la Kansas : rencontre du prince Paul de Wurtemberg (1823)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1823.5,
+    "fin": 1823.84,
+    "date_edtf": "1823",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "À 18 ans, il séduit le prince Paul de Wurtemberg, savant voyageur de 25 ans, qui l'emmène en Europe avec l'accord de Clark.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 80 — note de l'auteur : Paul Wilhelm von Württemberg, Erste Reise nach dem nördlichen Amerika (Stuttgart, 1835), trad. ms. W. G. Beck",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-09",
+    "nom": "La Nouvelle-Orléans : le brick Smyrna (déc. 1823)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1823.97,
+    "fin": 1824.0,
+    "date_edtf": "1823-12-19/1823-12-21",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Partis de Saint-Louis le 3 novembre, ils arrivent le 19 décembre ; le prince adore la ville. L'annonce du Louisiana Gazette du 20 décembre offre un passage pour Le Havre sur le brick doublé de cuivre Smyrna ; deux semaines d'attente parmi moustiques et alligators.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 80 — note de l'auteur : Louisiana Gazette, 20 déc. 1823 (New Orleans Public Library)",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.107,
+     49.494
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-10",
+    "nom": "Le Havre : arrivée en France (14 févr. 1824)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1824.12,
+    "fin": 1824.13,
+    "date_edtf": "1824-02-14",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Après Cuba (10 janvier), le froid des bancs de Terre-Neuve (-14°) et les orages, le Smyrna entre au Havre-de-Grâce.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 81",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.0,
+     48.9
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-11",
+    "nom": "Wurtemberg : six ans au château du prince (1824-1829)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1824.2,
+    "fin": 1829.8,
+    "date_edtf": "1824/1829",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Il vit dans un château à une trentaine de milles de Stuttgart, étudie les langues, chasse en Forêt-Noire (« mon chasseur extraordinaire »), et accompagne le prince en France, en Angleterre, en Allemagne et en Afrique du Nord. La plupart des écrits du prince ont été détruits par les bombardements de 1939-1945.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 81 — note de l'auteur : témoignage de Möllhausen, NMHR xvii (1942), p. 190 ; journal du prince à Sacramento, 1850, trad. L. C. Butscher",
+    "note": "Château non identifié ; point placé près de Stuttgart.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.35,
+     42.9
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-12",
+    "nom": "Portneuf : perdu onze jours, une peau de castor pleine d'eau (automne 1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.7,
+    "fin": 1830.9,
+    "date_edtf": "1830",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Rentré en décembre 1829 avec le prince, il trappe pour l'AFC. Séparé de la brigade près de la rivière Malade, il évite un village indien, remplit une peau de castor d'eau et erre onze jours affamé avant de rejoindre Dripps et Fontenelle sur la Portneuf.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 83 — note de l'auteur : Ferris, Life in the Rocky Mountains, p. 67",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.06,
+     42.86
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-13",
+    "nom": "Rendez-vous de la Green River (1833)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1833.5,
+    "fin": 1834.6,
+    "date_edtf": "1833/1834",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Avec Joe Meek (1831), Jim Bridger (1832), il fréquente les rendez-vous ; Wyeth le voit poursuivre à pied des voleurs de chevaux, son fusil mouillé ne faisant que claquer.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 84 — note de l'auteur : « Correspondence and Journals of Captain Nathaniel J. Wyeth », Sources of the History of Oregon, I, p. 207",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.817,
+     40.193
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-14",
+    "nom": "Independence et Fort Vasquez : chasseur de Vasquez et Sublette (1839-1840)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.6,
+    "fin": 1840.4,
+    "date_edtf": "1839-08-06/1840",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Le 6 août 1839, il part d'Independence avec Louis Vasquez et Andrew Sublette ; E. Willard Smith note qu'un des chasseurs est « fils du capitaine Clark », éduqué sept ans en Europe. Au printemps 1840, il descend la Platte dans un bateau de 36 pieds chargé de 700 robes et 400 langues de bison, jusqu'à Saint-Louis le 3 juillet.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 85 — note de l'auteur : journal d'E. Willard Smith, dans L. R. et A. W. Hafen, To the Rockies and Oregon (1955), p. 155-156, 192-193",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.8,
+     40.25
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-15",
+    "nom": "Île « Sainte-Hélène » sur la South Platte : le julep de Frémont (juillet-août 1842)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.5,
+    "fin": 1842.67,
+    "date_edtf": "1842-07/1842-08-30",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Échoué faute d'eau avec les robes de Bent et St. Vrain, il campe sur une île qu'il baptise Sainte-Hélène. Frémont y boit un julep à la menthe avec langue de bison et café sucré ; Rufus Sage admire un homme qui parle allemand, espagnol, français, anglais et plusieurs langues indiennes, à l'humour fin.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 86 — note de l'auteur : Frémont, Report (1845), p. 30-31 ; Sage, His Letters and Papers (1956), II, p. 52-54",
+    "note": "Point placé près de Fort Morgan.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.9,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-16",
+    "nom": "Excursion de Sir William Drummond Stewart (1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.4,
+    "fin": 1843.75,
+    "date_edtf": "1843",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Conducteur de charrette dans la caravane de plaisance de Stewart, il guide le neveu de Clark, William Clark Kennerly, sur les traces de 1805 ; lors d'un combat entre Walker et Smith, il fait cercle avec son fouet.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 87 — note de l'auteur : W. C. Kennerly et E. Russell, Persimmon Hill (1948), p. 144, 158",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-17",
+    "nom": "Bent's Fort : « le meilleur homme à pied des plaines » (1844)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1846.5,
+    "date_edtf": "1844/1846",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Chasseur de Bent et St. Vrain, cheveux aux épaules ; William Boggs le dit le meilleur marcheur des plaines et des Rocheuses. Il capture vivants antilopes et mouflons, dont certains finissent au domaine écossais de Stewart ; Ruxton le montre jouant vingt heures à l'euchre.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 88 — note de l'auteur : « The W. M. Boggs Manuscript about Bent's Fort », Colorado Magazine vii (1930), p. 66-67 ; Solomon Sublette, 5 mai et 6 juin 1844, Sublette Collection, MHS",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.0,
+     35.6
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-18",
+    "nom": "Rivière Canadienne : guide d'Abert (1845)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1845.6,
+    "fin": 1845.8,
+    "date_edtf": "1845",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Guide de l'expédition du lieutenant J. W. Abert de Bent's Fort vers la Canadienne ; Fitzpatrick se félicite de « M. Chabonard ».",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 89 — note de l'auteur : « Journal of Lieut. J. W. Abert… 1845 », Sen. Exec. Doc. 438, 29e Congrès",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.97,
+     31.38
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-19",
+    "nom": "Col de Guadalupe : la chasse à l'ours en chemise rouge (fin nov. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.88,
+    "fin": 1846.92,
+    "date_edtf": "1846-11-22/1846-11",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Guide du Bataillon mormon de Cooke de Santa Fe à San Diego. Le 22 novembre, sa mule rétive s'enfuit ; il l'abat pour récupérer selle et pistolets. Fin novembre, près du sommet, il attaque trois ours, crie en espagnol qu'on lui apporte des balles, et apparaît sur un rocher en chemise rouge.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 89 — note de l'auteur : P. St. George Cooke, Conquest of New Mexico and California (1878), p. 131, 134",
+    "note": "Point placé au col de Guadalupe.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.32,
+     33.232
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-20",
+    "nom": "Mission San Luis Rey : l'alcade métis (nov. 1847-juillet 1848)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1847.85,
+    "fin": 1848.56,
+    "date_edtf": "1847-11/1848-07-24",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Nommé alcade de San Luis Rey, il est accusé d'avoir préparé un soulèvement indien et dénonce un faux serment de l'Indien Paulino. Il démissionne : le colonel Stevenson note qu'il a fait son devoir, mais qu'on le juge, en « métis indien des États-Unis », trop favorable aux Indiens.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 90 — note de l'auteur : Bandini Documents, San Diego Archives, p. 328-333, Bancroft Library ; Bancroft, History of California, v, p. 568",
+    "note": "Seuls écrits connus de sa main : lettres des 6 et 7 avril 1848.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.98,
+     38.94
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-21",
+    "nom": "Murderer's Bar (American River) : mineur avec Beckwourth (1848-1849)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1848.9,
+    "fin": 1852.0,
+    "date_edtf": "1848/1852",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Jim Beckwourth le trouve « tenant maison » à Murderer's Bar, sur la fourche du milieu de l'American, et reste jusqu'aux pluies.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 91 — note de l'auteur : T. D. Bonner, Life and Adventures of James P. Beckwourth (1930), p. 353, 364 ; M. Angel, History of Placer County (1882), p. 71",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.471,
+     38.572
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-22",
+    "nom": "Fort Sutter : le prince Paul se souvient (août 1850)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.6,
+    "fin": 1850.65,
+    "date_edtf": "1850-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Visitant Sutter, le prince Paul voit un jeune Shoshone dont la ressemblance lui rappelle « le garçon de la même tribu » emmené en Europe en 1823. On ignore s'ils se revirent.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 92 — note de l'auteur : journal du prince Paul à Sacramento, 1850",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08,
+     38.897
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-23",
+    "nom": "Auburn : commis à l'Orleans Hotel (1860-1866)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1866.3,
+    "date_edtf": "1860/1866",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Recensé en 1860 à Secret Ravine (57 ans, né au Missouri), il est commis à l'Orleans Hotel d'Auburn en 1861. Attiré par l'or du Montana, « pays de sa naissance », il part au printemps 1866.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 92 — note de l'auteur : U.S. Census 1860, Placer County ; Directory of Placer County (1861), p. 79",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.33,
+     42.94
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-24",
+    "nom": "Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1866.37,
+    "fin": 1866.38,
+    "date_edtf": "1866-05-16",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Pris de « fièvre des montagnes » ou de pneumonie, il meurt au ranch Inskip, à l'embouchure de Cow Creek ; trois vieilles tombes y sont visibles, l'une présumée la sienne. Le Placer Herald le dit homme aimable, cultivé, au courant de l'actualité.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 93 — note de l'auteur : Placer Herald (Auburn), 7 juillet 1866 ; Butte Record (Oroville), 14 juillet 1866 ; Owyhee Avalanche (Ruby City), 2 juin 1866 ; Merle Wells, Idaho Historical Society",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.73,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-25",
+    "nom": "Réserve de Wind River : l'autre « Baptiste » (1885)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1933.0,
+    "date_edtf": "1885 ; 1933",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Grace R. Hebard identifie un « Bat-tez » mort en 1885 sur la réserve de Wind River et lui élève un monument ; Ann Hafen conclut à une erreur d'identité.",
+    "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 95 — note de l'auteur : G. R. Hebard, Sacajawea (1933)",
+    "note": "Identité contestée.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-01",
+    "nom": "Saint-Louis : naissance (9 mai 1786)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1786.35,
+    "fin": 1804.4,
+    "date_edtf": "1786-05-09",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Fils aîné de Pierre Chouteau et de Pélagie Kiersereau, morte quand il a sept ans. Grand, bien bâti, teint hâlé, il a l'aisance d'un gentilhomme français et une conversation étincelante ; un rival le dit honorable, franc et indépendant, un familier « le plus doué des Chouteau ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 96 — note de l'auteur : McDermott, The Western Journals of Washington Irving (1944), p. 110 ; W. Waldo, « Recollections of a Septuagenarian », Glimpses of the Past v (1938), p. 81 ; Billon, Annals of St. Louis (1888), p. 168-169",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.33,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-02",
+    "nom": "Fort Carondelet : enfance chez les Osages (1794-1800)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1800.0,
+    "date_edtf": "1794/1800",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Son père jouit du monopole de la traite osage au fort Carondelet ; l'aîné y fut sans doute emmené enfant.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 97",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957,
+     41.391
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-03",
+    "nom": "West Point : quatrième de sa promotion (1804-1806)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1804.6,
+    "fin": 1806.45,
+    "date_edtf": "1804/1806-06",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Nommé par Meriwether Lewis avec son cousin Charles Gratiot, il accompagne jusqu'à Washington son père qui conduit quatorze Osages chez le président (été 1804). Diplômé en juin 1806, 4e sur 15. Aide de camp de Wilkinson à Natchitoches six mois, il démissionne le 13 janvier 1807 mais restera toujours « le Colonel ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 97 — note de l'auteur : D. Jackson (éd.), Letters of the Lewis and Clark Expedition (1962), p. 171-199 ; Pierre Chouteau à Samuel McKee, 7 déc. 1804, Pierre Chouteau Letter Book, Chouteau Collection, Missouri Historical Society ; Heitman, I, p. 300",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.55,
+     45.53
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-04",
+    "nom": "Villages arikaras : l'attaque du convoi de She-ha-ka (9 sept. 1807)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1807.4,
+    "fin": 1807.75,
+    "date_edtf": "1807-09-09",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Avec trente-deux hommes, il monte fonder un poste chez les Mandans, avec l'enseigne Pryor qui ramène le chef She-ha-ka. Six cent cinquante Arikaras saisissent la corde de son bateau ; il offre la moitié de ses marchandises, on exige ses armes, on tire ; quatre hommes tués avant la retraite. Clark note que « le jeune M. Chouteau s'est très bien conduit ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 98 — note de l'auteur : Pryor à Clark, 16 oct. 1807, dans Jackson, Letters, p. 432-437 ; Clark à Dearborn, 24 oct. 1807, William Clark Papers, MHS",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.196,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-05",
+    "nom": "Saint-Louis : mariage avec sa cousine Sophie Labbadie (15 févr. 1809)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1809.12,
+    "fin": 1822.5,
+    "date_edtf": "1809-02-15",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Il épouse Marie-Anne-Sophie Labbadie ; dix enfants, mais après 1822 il ne vient plus à Saint-Louis que quelques jours par an et ses lettres ne la mentionnent jamais. Associé de la St. Louis Missouri Fur Company à la place de son père, il remonte chez les Mandans en 1809 et reste sur le haut Missouri jusqu'en mai 1810.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 98 — note de l'auteur : contrat de mariage, MHS ; Oglesby, Manuel Lisa (1963), p. 103-208",
+    "note": "Sophie meurt en 1862 ; une couronne tressée de ses cheveux est conservée à la MHS.",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.92,
+     38.59
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-06",
+    "nom": "Embouchure de l'Osage : l'armée osage licenciée (printemps 1813)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1813.25,
+    "fin": 1813.4,
+    "date_edtf": "1813",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Pendant la guerre de 1812, il conduit deux cent soixante jeunes Osages vers Saint-Louis pour protéger les colons ; à l'embouchure de l'Osage, un ordre du gouverneur Howard dissout la petite armée. Il a vers 1815 un fils, Augustus Clermont, de l'Osage Masina ; sous-agent des Osages en août 1814, il continue de traiter illégalement.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 100 — note de l'auteur : Pierre Chouteau au secrétaire à la Guerre, 20 mai 1813, Carter, Territorial Papers xiv, p. 271-275 ; Gratiot à Astor, 20 mars 1815, Gratiot Papers, MHS",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-07",
+    "nom": "Huerfano : camp des trappeurs de Chouteau et De Mun (1815-1817)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1815.85,
+    "fin": 1817.4,
+    "date_edtf": "1815-11/1817-05",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Parti le 10 septembre 1815 avec Jules De Mun et quarante-six hommes, il campe sur la Huerfano, en territoire espagnol, pendant que De Mun demande à Santa Fe le droit de trapper. Il y reprend les hommes de Philibert.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 101 — note de l'auteur : Lecompte, « Jules and Isabelle DeMun », Bulletin MHS xxvi (1969), p. 30-31",
+    "note": "Croise la notice de Pierre Lesperance.",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.75
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-08",
+    "nom": "South Platte : traite avec Kiowas, Arapahos et Cheyennes (fév. 1816)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1816.1,
+    "fin": 1816.3,
+    "date_edtf": "1816-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Près de l'actuel Denver, il traite avec un grand camp de Kiowas, Arapahos, Kiowas-Apaches et Cheyennes et réunit quarante-quatre ballots de fourrures.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 102",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     37.93
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-09",
+    "nom": "Île de Chouteau sur l'Arkansas : le combat contre les Pawnees (1816)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1816.3,
+    "fin": 1816.4,
+    "date_edtf": "1816",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Attaqué par 150 à 200 Pawnees dans l'ouest du Kansas actuel, il se retranche sur une île derrière ses ballots ; sept Pawnees tués, un mort et trois blessés chez lui. L'île porte depuis son nom.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 102",
+    "note": "Toponyme : Chouteau's Island.",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-10",
+    "nom": "Santa Fe : « Mi libertad, Señor Gobernador » (1817)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1817.4,
+    "fin": 1817.55,
+    "date_edtf": "1817-05/1817-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Arrêtés en mai 1817, Chouteau et De Mun passent quarante-huit jours en prison. Le gouverneur, charmé par sa conversation, le fait souvent amener chez lui ; un jour, après avoir énuméré ses bontés, il lui demande ce qu'il veut de plus : « ma liberté, monsieur le gouverneur ». Retour immédiat au cachot. Rentrés en haillons, ils réclament 30 380,74 $, payés en 1851 (81 772 $ avec intérêts) à leurs héritiers.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 103 — note de l'auteur : Waldo, « Recollections », p. 81-82 ; réclamation du 17 juin 1818 et compte de 1851, Chouteau Collection, Missouri Historical Society ; Chouteau à Cass, 12 nov. 1831, Sen. Doc. 90, 22e Congrès, p. 60",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.63
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-11",
+    "nom": "Saint-Louis, 94 rue Main : la faillite du marchand (1817-1822)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1817.7,
+    "fin": 1822.5,
+    "date_edtf": "1817/1822",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "A. P. Chouteau, DeMun & Co., puis Chouteau & Sarpy, dans un magasin de brique bâti en 1819-1820 : échec. Sa dette envers Berthold & Chouteau atteindra 66 000 $. En 1822, il laisse femme, enfants et dette pour le pays osage.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 104 — note de l'auteur : Missouri Gazette, 2 oct. 1818 ; Scharf, History of Saint Louis (1883), I, p. 150-198",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.15,
+     36.29
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-12",
+    "nom": "La Saline (Salina, Oklahoma) : la maison du Colonel (1822-1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1822.7,
+    "fin": 1838.99,
+    "date_edtf": "1822-09/1838",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Il s'installe dans la maison bâtie par le Métis Joseph Rivar, assassiné par des Cherokees en 1821, près d'une grande source salée, avec sa famille osage : Rosalie, sa sœur Masina, des filles de Mihanga (exhibée en Europe en 1829) et Chimihanga. Washington Irving y décrit en 1832 la maison de rondins blanchie à véranda, les Indiens rôtissant du chevreuil dans la cour, les Noirs riant, les chiens, les dindons, et le champ de courses dans la prairie.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 106 — note de l'auteur : Union Mission Journal, 24 juin 1821 ; McDermott, Western Journals of Irving, p. 108-112 ; Kappler, Indian Affairs, II, p. 217-221",
+    "note": "Les historiens de l'Oklahoma datent à tort le poste de 1817 (c'était Liguest Chouteau et Rivar).",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.32,
+     35.85
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-13",
+    "nom": "Poste du Verdigris, près des Trois-Fourches (1822-1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1822.85,
+    "fin": 1838.99,
+    "date_edtf": "1822-11/1838",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Il rachète l'établissement de Brand et Barbour, dix ou douze cabanes et un bac à quatre milles de l'embouchure du Verdigris : bureau, entrepôt, magasin, débarcadère et grandes cultures. On y sert Creeks, Cherokees, Choctaws, Osages de Clermont et colons. En 1825, l'Osage Outfit (quatre postes) traite 50 000 livres de peaux de cerf. La crue de juin 1833 emporte tout (plus de 10 000 $ de pertes).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 107 — note de l'auteur : Union Mission Journal, 10 déc. 1822 ; Forsyth au secrétaire à la Guerre, 24 oct. 1831, Sen. Doc. 90 ; Ledger M, p. 81, Chouteau Collection, Missouri Historical Society",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.25,
+     35.8
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-14",
+    "nom": "Fort Gibson : treize toasts du 4 juillet (1824-1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1824.5,
+    "fin": 1838.98,
+    "date_edtf": "1824/1838",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Fondé en 1824 à trois milles de l'embouchure du Neosho, le fort lui achète des vivres ; il en reçoit « toutes sortes d'amabilités » et prononce un discours au 4 juillet 1826. En mars 1833, avec Clermont, il fait échouer devant 800 Osages un traité défavorable : les commissaires jugent impossible de traiter contre l'avis des Chouteau. En janvier 1835, il dit aux Osages de ne pas laisser leur dette envers lui (3 404 $) empêcher un bon traité.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 108 — note de l'auteur : Foreman, Pioneer Days in the Early Southwest (1926), p. 167 ; Stokes, Ellsworth et Schermerhorn à Cass, 2 avril 1833, Letters Received, OIA, Osage Agency (NAMP M234, R631) ; Armstrong à Herring, 6 janv. 1835",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.25,
+     35.82
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-15",
+    "nom": "Wigwam Neosho : l'amitié avec Sam Houston (1830-1832)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1829.5,
+    "fin": 1832.75,
+    "date_edtf": "1829/1832",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Houston, qui dénonce à Jackson l'agent Hamtramck, fait nommer Liguest Chouteau agent des Osages ; les deux amis rétablissent la paix entre Osages et Delawares (800 $). Houston, surnommé « Big Drunk » par les Osages, achète à Chouteau 3 000 $ deux sections réservées aux enfants métis, dont la Grande Saline, vente juridiquement nulle ; après la mort de Chouteau, Drennan saisit six de ses esclaves.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 112 — note de l'auteur : Gregory et Strickland, Sam Houston with the Cherokees (1967), p. 62-129 ; Arbuckle à Macomb, 31 mai 1830 ; Stokes, 19 mars 1839",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.165,
+     39.953
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-16",
+    "nom": "Philadelphie et New York : la vente du département de l'Ouest de l'AFC (mai 1834)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1834.35,
+    "fin": 1835.6,
+    "date_edtf": "1834-05/1835",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Avec Pierre Ménard, il représente la famille lors du rachat du Western Department de l'AFC par Pratte, Chouteau & Co. En 1835, Siter, Price & Co. lui vendent 30 000 $ à crédit ; il inscrit son fils Pierre Sylvestre à l'école Bolmar de West Chester et l'y oublie trois ans.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 117 — note de l'auteur : A. P. Chouteau à P. Chouteau Jr., Philadelphie, 30 mai 1834 ; Crooks à Pratte, Chouteau & Co., 31 mai 1834 ; Calendar AFC Papers, nos 579, 3270, 4042, 5105",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.33,
+     35.02
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-17",
+    "nom": "Camp Holmes : le fort de Chouteau chez les Comanches (1835-1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1835.6,
+    "fin": 1838.8,
+    "date_edtf": "1835-08/1838",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Après le traité de « paix perpétuelle » de Camp Holmes (août 1835), il bâtit une palissade sur un ruisseau désormais appelé Chouteau Creek, près de l'actuel Lexington (Oklahoma), pour traiter avec Comanches et Wichitas. Agent spécial depuis le 27 juillet 1837, il y hiverne en 1837-1838 ; en mai 1838, vingt-deux chefs de huit nations l'y rencontrent, mais il refuse de les conduire à Washington.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 118 — note de l'auteur : Kappler, II, p. 435-439 ; Gregg, Commerce of the Prairies, éd. Thwaites, xx, p. 107 ; H. Doc. 3, 25e Congrès, p. 567, 597-599",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.4,
+     34.63
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-18",
+    "nom": "Cache Creek, près de Fort Sill : le poste des Kiowas (1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.4,
+    "fin": 1838.0,
+    "date_edtf": "1837",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Commissaire avec Montfort Stokes du traité signé à Fort Gibson le 26 mai 1837 par Kiowas, Kiowas-Apaches et Tawakonis, il bâtit un petit fort sur Cache Creek, trois milles sous l'actuel Fort Sill ; les Kiowas appellent son traiteur « Tome-te ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 119 — note de l'auteur : J. Mooney, « Calendar History of the Kiowa Indians », 17th Annual Report BAE (1898), p. 171-172",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.202,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-19",
+    "nom": "Saint-Louis : saisie et ruine (mars 1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1838.2,
+    "fin": 1838.4,
+    "date_edtf": "1838-03-21/1838-05-23",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Siter, Price & Co. réclament 40 000 $ ; son frère Pierre Jr. le poursuit pour 500 000 $ (dette réelle : 66 000 $). Maison, deux esclaves et meubles sont vendus 26 844,40 $ ; sa femme et ses enfants sont mis à la rue. Sommé de revenir, il refuse d'abandonner ses Indiens et signe une procuration le 23 mai avant de retourner à Camp Holmes.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 121 — note de l'auteur : Probate Court Records, St. Louis County, no 1439 ; exécutions du 18 juillet 1838, Chouteau Collection, Missouri Historical Society",
+    "note": "",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.246,
+     35.8
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-20",
+    "nom": "Fort Gibson : mort le jour de Noël 1838",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1838.75,
+    "fin": 1838.99,
+    "date_edtf": "1838-10/1838-12-25",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Malade à Fort Smith en octobre, souffrant d'une grave blessure à la cuisse, il meurt à Fort Gibson et reçoit des funérailles militaires. Créanciers locaux et Creeks emportent esclaves et bétail ; le capitaine Robert E. Lee aide à recueillir les restes. Il laisse 25 000 $ de dettes.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 122 — note de l'auteur : Foreman, Pioneer Days, p. 239, 255-261 ; Missouri Republican, 18 janv. 1839",
+    "note": "Lieux de décès divergents : Fort Gibson, la Grande Saline (nécrologie) ou chez les Indiens des Prairies (Waldo).",
+    "salle": "chouteau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.326,
+     35.02
+    ]
+   },
+   "properties": {
+    "id": "F-chouteau-21",
+    "nom": "Le fort abandonné : le deuil des Comanches (printemps 1839)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.3,
+    "fin": 1839.4,
+    "date_edtf": "1839",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Josiah Gregg s'abrite dans le fort désert ; des Comanches accourent, croyant au retour de Chouteau avec des marchandises, et s'affligent d'apprendre sa mort. Les Kiowas se souviennent encore de « Soto » avec affection.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 123 — note de l'auteur : Gregg, Commerce of the Prairies, xx, p. 108 ; Mooney, p. 172",
+    "note": "",
+    "salle": "chouteau"
    }
   },
   {
