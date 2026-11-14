@@ -1,4 +1,6 @@
 // Atlas historique des francophones d'Amérique du Nord — carte, filtres, chronologie, fiches.
+// Version lue dans l'adresse du script (index.html : js/atlas.js?v=…) : à changer à chaque publication pour vider les caches.
+const VERSION = (document.currentScript && new URL(document.currentScript.src).searchParams.get('v')) || '';
 // Données : data/lieux.geojson (points ; propriétés décrites dans le README).
 
 const COULEURS = {
@@ -48,8 +50,8 @@ const anneeTxt = v => Math.floor(v);
 // ---------- Données ----------
 async function charger() {
   const [lieux, themes] = await Promise.all([
-    fetch('data/lieux.geojson').then(r => r.json()),
-    fetch('data/themes.json').then(r => r.json())
+    fetch('data/lieux.geojson?v=' + VERSION).then(r => r.json()),
+    fetch('data/themes.json?v=' + VERSION).then(r => r.json())
   ]);
   LIBELLES = themes;
   // Décaler légèrement les fiches qui partagent exactement le même point (affichage seulement)
@@ -387,7 +389,7 @@ async function demarrer() {
 let ACCUEIL = null;
 async function chargerReseau() {
   try {
-    const reg = await fetch('data/atlas.json').then(r => r.json());
+    const reg = await fetch('data/atlas.json?v=' + VERSION).then(r => r.json());
     const carte1 = a => {
       const prep = a.statut !== 'en_ligne';
       const base = a.ici ? '' : a.url;
