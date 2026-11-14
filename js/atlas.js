@@ -217,6 +217,7 @@ function afficherFiche(id, depuisListe = null) {
     ${imgs}
     ${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}
     <p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p>
+    ${(p.voir_aussi || []).map(v => `<p><a class="lien-salle-fiche" href="${esc(v.url)}">${esc(v.texte)}</a></p>`).join('')}
     ${p.salle ? `<p><a class="lien-salle-fiche" href="salle.html#${esc(p.id.replace(/^F-/, ''))}">Ouvrir dans la salle de lecture →</a></p>` : ''}
     ${memeLieu.length ? `<p class="mini">Autres fiches au même lieu :</p><ul class="liste-fiches">${memeLieu.map(li).join('')}</ul>` : ''}
     <p class="mini">Identifiant : ${esc(p.id)}</p>`;
