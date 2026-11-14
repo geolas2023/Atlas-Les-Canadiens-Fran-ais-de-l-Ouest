@@ -16,6 +16,7 @@ def slug(s):
 
 def beau_nom(brut):
     """« LAGIMODIÈRE, Jean-Baptiste » → « Jean-Baptiste Lagimodière »."""
+    brut = re.sub(r'\s*\((bis|ter)\)', '', brut)
     if ',' not in brut: return brut.strip().title()
     nom, prenoms = [x.strip() for x in brut.split(',', 1)]
     nom = ' '.join(w if w in ('de', 'la', 'du', 'des', 'dit') else w.capitalize() for w in nom.lower().split())

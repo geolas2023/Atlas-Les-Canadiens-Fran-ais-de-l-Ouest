@@ -23,6 +23,10 @@ LIVRES = [
       'ref': "Tassé, Joseph (1878), Les Canadiens de l'Ouest, Montréal, Compagnie d'imprimerie canadienne, 2 tomes"},
      lambda ref: 'cihm_33779' if ref.startswith('t. II') else 'cihm_33778',
      lambda nom, ref: ref),
+    ('billon_1886.txt', 'BI',
+     {'court': 'Billon (1886)',
+      'ref': "Billon, Frederic L. (1886), Annals of St. Louis in its Early Days under the French and Spanish Dominations, Saint-Louis"},
+     'cihm_00427', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
