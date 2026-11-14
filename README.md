@@ -1,0 +1,69 @@
+# Les Canadiens français de l'Ouest — Atlas historique des francophones d'Amérique du Nord
+
+Atlas Web interactif (MapLibre GL JS) des francophones (Canadiens français, Créoles du Missouri et de l'Illinois, Français, Suisses romands) et des événements qui les concernent en Amérique du Nord. La première version porte sur l'Ouest américain. Le site est publié avec GitHub Pages : `https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/`.
+
+Projet parent : l'**Atlas Aubry** (François-Xavier Aubry, 1824-1854), dont les fiches ponctuelles sont intégrées ici.
+
+## Corpus de cette version
+
+| Corpus | Fiches | Contenu |
+|---|---|---|
+| **Cragin** | 183 | Dépouillement complet des *Early Far West Notebooks* de Francis W. Cragin (entrevues de pionniers, 1902-1923 ; transcription de Mrs. Shaw, PDF consultable de 333 pages). Toutes les mentions de francophones ont été géolocalisées : trappeurs et voyageurs (Lesperance, Ledoux, LeDuc, Levanway, Chalifoux, Lalande, Robidoux, Leroux, Janis, Provost…), familles (St. Vrain, Beaubien, Vasquez, Autobees, Lefebvre, Nolan, Gillette…), postes (fort St. Vrain, fort Vasquez, fort Uintah, fort Leche, Hardscrabble, El Pueblo), colonies (Butte Valley, La Porte, San Gerónimo), événements (révolte de Taos et de Mora en 1847, massacre du Pueblo, combats) et toponymes (Fontaine-qui-Bouille, Cache-la-Poudre, Duchesne). |
+| **Atlas Aubry** | 101 | Toutes les fiches ponctuelles (lieux et événements) de l'Atlas Aubry, avec leurs sources et leurs images. Les trajets (lignes) restent dans l'Atlas Aubry. |
+
+Chaque fiche Cragin renvoie aux **pages du PDF** (`pages_pdf`) où se trouve le témoignage.
+
+## Structure
+
+```
+index.html            page principale (carte, filtres, chronologie, fiches)
+css/style.css         mise en page
+js/atlas.js           carte, filtres, chronologie, fiches, recherche, index des personnages
+js/fonds.js           fonds de carte d'époque (repris de l'Atlas Aubry)
+data/lieux.geojson    points (EPSG:4326)
+data/themes.json      libellés des thèmes
+data/piste.geojson    contexte : relevé de la piste de Santa Fe (Atlas Aubry)
+images/aubry/         documents de l'Atlas Aubry
+scripts/              scripts de construction des données (dépouillement Cragin)
+```
+
+## Modèle d'attributs (`data/lieux.geojson`)
+
+| Champ | Exemple | Rôle |
+|---|---|---|
+| `id` | `C042`, `A-L01` | identifiant stable (C = Cragin, A- = Atlas Aubry) |
+| `nom` | `Fort Vasquez (Platteville)` | libellé |
+| `corpus` | `Cragin` / `Atlas Aubry` | source principale |
+| `theme` | `poste`, `etablissement`, `famille`, `personnage`, `evenement`, `commerce`, `migration`, `exploration`, `religion`, `toponymie` | catégorie (couleur) |
+| `debut`, `fin` | `1835.0`, `1860.5` | années décimales (filtrage chronologique) |
+| `date_edtf` | `1847-01-19`, `1820~` | date documentée ([EDTF](https://www.loc.gov/standards/datetime/)) |
+| `precision` | `jour` / `mois` / `annee` / `circa` | précision de la date |
+| `certitude` | `certaine` / `approximative` / `hypothetique` | certitude de la **localisation** |
+| `personnages` | `["Céran St. Vrain", "Felix St. Vrain"]` | personnes liées (index des personnages) |
+| `description` | | résumé rédigé pour l'atlas |
+| `sources` | | référence complète |
+| `pages_pdf` | `63; 64` | pages du PDF des carnets Cragin |
+| `note` | | note critique : divergences entre témoins, identification incertaine |
+| `images` | `[{"src": "images/…", "legende": "…"}]` | documents (fiches Aubry) |
+
+Les fiches qui partagent exactement le même point (Taos, Mora…) sont légèrement décalées à l'affichage ; un clic sur un groupe affiche la liste.
+
+## Ajouter un corpus
+
+Ajouter des entités dans `data/lieux.geojson` avec une nouvelle valeur de `corpus`, puis déclarer ce corpus dans l'objet `CORPUS` de `js/atlas.js` (libellé et couleur du contour).
+
+## Tester en local
+
+```
+python -m http.server 8000
+```
+
+puis ouvrir http://localhost:8000.
+
+## Publier
+
+*Settings → Pages → Source : Deploy from a branch → `main` / `(root)`*.
+
+## Avertissement
+
+Les carnets de Cragin rapportent des souvenirs recueillis des décennies après les faits ; les informateurs se contredisent parfois (lieu et date de la mort de Maurice LeDuc ou de Joseph Levanway, par exemple). Ces divergences sont signalées dans les notes. Les récits d'O. P. Wiggins, réputé pour ses exagérations, sont marqués comme tels.

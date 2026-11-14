@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas historique des francophones d'Amérique du Nord — Les Canadiens français de l'Ouest</title>
+  <meta name="author" content="Olivier J. Caron, Département de géographie, UQAM">
+  <meta name="description" content="Atlas géohistorique interactif des francophones (Canadiens français, Créoles, Français) dans l'Ouest nord-américain : lieux, personnages et événements géolocalisés.">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="barre">
+    <span class="fleur" aria-hidden="true">⚜</span>
+    <h1>Les Canadiens français de l'Ouest <span>Atlas historique des francophones d'Amérique du Nord</span></h1>
+    <p class="credit"><a href="https://professeurs.uqam.ca/professeur/caron.olivier/" target="_blank" rel="noopener">Olivier J. Caron</a> · <a href="https://geo.uqam.ca/" target="_blank" rel="noopener">Département de géographie</a> <img class="logo-uqam" src="images/uqam-logo.svg" alt="UQAM"></p>
+    <button type="button" id="btn-apropos" class="lien-salle">À propos</button>
+  </header>
+
+  <main class="contenu">
+    <section id="outils" aria-label="Recherche et filtres">
+      <div class="bloc">
+        <label for="recherche" class="titre-bloc">Rechercher</label>
+        <input type="search" id="recherche" placeholder="Nom, lieu, personnage…" autocomplete="off">
+      </div>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Corpus</summary>
+        <div id="f-corpus"></div>
+      </details>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Thèmes</summary>
+        <div id="f-themes"></div>
+        <p class="mini"><a href="#" id="themes-tous">tous</a> · <a href="#" id="themes-aucun">aucun</a></p>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Certitude de la localisation</summary>
+        <div id="f-certitude"></div>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Personnages <span id="nb-pers" class="mini"></span></summary>
+        <input type="search" id="recherche-pers" placeholder="Filtrer la liste…" autocomplete="off">
+        <ul id="liste-pers" class="liste-pers"></ul>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Fond de carte et contexte</summary>
+        <div class="choix-fond" role="radiogroup" aria-label="Fond de carte">
+          <label><input type="radio" name="fond" value="plan"> Plan</label>
+          <label><input type="radio" name="fond" value="arpenteur" checked> Arpenteur</label>
+          <label><input type="radio" name="fond" value="western"> Western</label>
+          <label><input type="radio" name="fond" value="relief"> Relief</label>
+          <label><input type="radio" name="fond" value="satellite"> Satellite</label>
+        </div>
+        <label><input type="checkbox" id="c-piste"> Piste de Santa Fe (relevé de l'Atlas Aubry)</label>
+      </details>
+      <p id="compteur" class="compteur" aria-live="polite"></p>
+    </section>
+
+    <div id="carte" aria-label="Carte interactive"></div>
+
+    <aside id="panneau" aria-live="polite">
+      <div class="vide">
+        <h2>Archives et événements</h2>
+        <div class="filet" aria-hidden="true">✦</div>
+        <p>Cliquez sur un point pour ouvrir sa fiche. Quand plusieurs fiches partagent un même lieu (Taos, Mora, Fort El Pueblo…), la liste complète s'affiche.</p>
+        <p>Cette première version réunit deux corpus : les <strong>carnets d'entrevues de Francis W. Cragin</strong> (1902-1923), dépouillés pour toutes les mentions de francophones, et les <strong>fiches ponctuelles de l'Atlas Aubry</strong>.</p>
+        <p class="avertissement">Les témoignages recueillis par Cragin sont des souvenirs de pionniers, souvent tardifs. Chaque fiche indique la page du PDF des carnets, le niveau de certitude de la localisation et, au besoin, une note critique.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="timeline">
+    <button type="button" id="lecture" title="Animer la chronologie" aria-label="Animer">▶</button>
+    <div class="curseurs">
+      <div class="double">
+        <input type="range" id="t-debut" min="1700" max="1910" step="1" value="1700" aria-label="Début de la période">
+        <input type="range" id="t-fin" min="1700" max="1910" step="1" value="1910" aria-label="Fin de la période">
+      </div>
+      <div id="graduation"></div>
+    </div>
+    <span id="periode"></span>
+    <label class="mini"><input type="checkbox" id="t-tout" checked> toute la période</label>
+  </footer>
+
+  <dialog id="apropos">
+    <h2>À propos de l'atlas</h2>
+    <p>Atlas géohistorique des francophones (Canadiens français, Créoles du Missouri et de l'Illinois, Français de France, Suisses romands) et des événements qui les concernent en Amérique du Nord, en commençant par l'Ouest américain.</p>
+    <h3>Sources de cette version</h3>
+    <ul>
+      <li><strong>Cragin</strong> — Francis Whittemore Cragin, <em>Early Far West Notebooks</em> (1902-1923), Colorado Springs Pioneers Museum (transcription dactylographiée par Mrs. Shaw, PDF consultable de 333 pages). Toutes les mentions de francophones ont été repérées et résumées ; chaque fiche renvoie aux pages du PDF.</li>
+      <li><strong>Atlas Aubry</strong> — fiches ponctuelles (lieux et événements) de l'Atlas géohistorique de François-Xavier Aubry (1824-1854), avec leurs sources propres.</li>
+    </ul>
+    <h3>Lecture des fiches</h3>
+    <p>Les dates sont exprimées en années décimales pour le filtrage et en EDTF (<code>~</code> approximatif, <code>?</code> incertain). La certitude qualifie la <em>localisation</em> : certaine (lieu identifié), approximative (lieu connu, point estimé), hypothétique (identification ou position à vérifier). Les descriptions sont des résumés rédigés pour l'atlas ; les noms sont donnés sous leur forme française quand elle est attestée, avec la graphie des carnets entre parenthèses.</p>
+    <p>Données : <code>data/lieux.geojson</code> (EPSG:4326), modifiable dans QGIS.</p>
+    <form method="dialog"><button class="btn">Fermer</button></form>
+  </dialog>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+  <script src="js/fonds.js"></script>
+  <script src="js/atlas.js"></script>
+</body>
+</html>
