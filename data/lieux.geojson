@@ -10016,12 +10016,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -72.618,
+     46.226
+    ]
+   },
+   "properties": {
+    "id": "F-beaubien-01",
+    "nom": "Nicolet : baptême d'Alexis Hyppolite Beaubien selon Drouin (21 juin 1800 ?)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1800.47,
+    "fin": 1800.48,
+    "date_edtf": "1800-06-21",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles (Alexis) Beaubien"
+    ],
+    "description": "L'index Drouin d'Ancestry date le baptême d'Alexis Hyppolite Beaubien du 21 juin 1800 à la cathédrale Saint-Jean-Baptiste de Nicolet, alors que Murphy, d'après le certificat de 1862, le place le 21 octobre 1800.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : Quebec, Canada, Vital and Church Records (Drouin Collection), 1621-1968, Nicolet, St-Jean-Baptiste, 21 juin 1800",
+    "note": "Divergence de date (juin ou octobre) à vérifier sur l'image du registre.",
+    "salle": "beaubien"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -72.616,
      46.225
     ]
    },
    "properties": {
-    "id": "F-beaubien-01",
+    "id": "F-beaubien-02",
     "nom": "Nicolet : naissance et baptême d'Alexis Beaubien (oct. 1800)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10049,7 +10077,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-02",
+    "id": "F-beaubien-03",
     "nom": "Québec : il quitte la soutane et devient « Charles » (1821)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10077,7 +10105,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-03",
+    "id": "F-beaubien-04",
     "nom": "Saint-Louis : permis de William Clark pour seize hommes (29 déc. 1823)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10105,7 +10133,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-04",
+    "id": "F-beaubien-05",
     "nom": "Taos : guía de trappe (21 nov. 1826) et expédition de Pratte (janv. 1827)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10133,7 +10161,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-05",
+    "id": "F-beaubien-06",
     "nom": "Taos : mariage avec María Paula Lobato par le padre Martínez (11 sept. 1827)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10161,7 +10189,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-06",
+    "id": "F-beaubien-07",
     "nom": "Taos : Carlos Hipólito Beaubien, citoyen mexicain (25 juin 1829)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10189,7 +10217,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-07",
+    "id": "F-beaubien-08",
     "nom": "Taos : marchand, alcalde et rival du padre Martínez (1832-1840)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10217,7 +10245,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-08",
+    "id": "F-beaubien-09",
     "nom": "Cape Girardeau : Narciso au collège",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10245,7 +10273,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-09",
+    "id": "F-beaubien-10",
     "nom": "Concession Beaubien-Miranda (future concession Maxwell) (3-6 janv. 1841)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10273,7 +10301,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-10",
+    "id": "F-beaubien-11",
     "nom": "Concession Sangre de Cristo, vallée de San Luis (12 janv. 1844)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10301,7 +10329,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-11",
+    "id": "F-beaubien-12",
     "nom": "Santa Fe : juge de la Cour suprême de Kearny (22 sept. 1846)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10329,7 +10357,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-12",
+    "id": "F-beaubien-13",
     "nom": "Tierra Amarilla : en tournée pendant la révolte de Taos (janv. 1847)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10357,7 +10385,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-13",
+    "id": "F-beaubien-14",
     "nom": "Taos : Narciso tué et le procès des insurgés (janv.-avril 1847)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10385,7 +10413,7 @@
     ]
    },
    "properties": {
-    "id": "F-beaubien-14",
+    "id": "F-beaubien-15",
     "nom": "Rayado : les gendres Maxwell et Abreu relancent la colonisation (1848)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10408,12 +10436,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.576,
+     36.405
+    ]
+   },
+   "properties": {
+    "id": "F-beaubien-16",
+    "nom": "Taos : le marchand et sa famille au recensement de 1850",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles (Alexis) Beaubien"
+    ],
+    "description": "Charles Beaubien, 50 ans, né au Canada, marchand, terre de 500 $ (logement no 1 de la Division nord de Taos), avec Maria Paula (30 ans), Maria Juana (13), Maria Teodora (8), Maria Petra (6) et Pablo (2).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Northern Division, Taos, N.-M., bobine 469, p. 91a",
+    "note": "",
+    "salle": "beaubien"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.578,
      36.409
     ]
    },
    "properties": {
-    "id": "F-beaubien-15",
+    "id": "F-beaubien-17",
     "nom": "Taos : mort du juge (10 févr. 1864)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10968,12 +11024,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.43,
+     42.18
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-20",
+    "nom": "Fort Laramie : le traiteur et ses sept enfants au recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "« James Bardeau », 45 ans, né au Missouri, traiteur, biens de 5 000 $, poste de Fort Laramie (comté non organisé du Territoire du Nebraska) : Louisa (19 ans), Antoine (14), Louis (12), John (7), Susan (4), Alexander (2) et Henry (2 mois). Sa femme Marie n'apparaît pas dans l'index. Ancestry y associe aussi son gendre Clément Lamoureaux.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Unorganized County, Nebraska Territory, bobine 665, p. 238, logement 89",
+    "note": "Prospérité confirmée (Burton, 1860).",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -104.53,
      42.6
     ]
    },
    "properties": {
-    "id": "F-bordeaux-20",
+    "id": "F-bordeaux-21",
     "nom": "Raw Hide Butte : sous-poste (1862)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11001,7 +11085,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-21",
+    "id": "F-bordeaux-22",
     "nom": "Horse Creek : 106 bœufs et 47 chevaux emportés (juin 1865)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11029,7 +11113,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-22",
+    "id": "F-bordeaux-23",
     "nom": "Chugwater : le magasin du carrefour (1867-1868)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11057,7 +11141,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-23",
+    "id": "F-bordeaux-24",
     "nom": "Agence Whetstone, près de Fort Randall (1868-1871)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11085,7 +11169,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-24",
+    "id": "F-bordeaux-25",
     "nom": "Agence Rosebud : mort (11 oct. 1878)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11113,7 +11197,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-25",
+    "id": "F-bordeaux-26",
     "nom": "Saint-François (Dakota du Sud) : la sépulture",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11696,12 +11780,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.43,
+     37.08
+    ]
+   },
+   "properties": {
+    "id": "F-chalifoux-21",
+    "nom": "Costilla (comté de Taos) : « Batis Chalifoux » au recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "60 ans, né au Canada, fermier, 500 $ de terre et 500 $ de biens, illettré ; bureau de poste Fernando de Taos, logement no 1440. L'index ne liste que lui dans le ménage.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Costilla, Taos, N.-M., bobine 715, p. 127",
+    "note": "Lecompte cite le précinct de Culebra avec sa femme Mariana et deux fils : vérifier sur l'image les lignes voisines.",
+    "salle": "chalifoux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.42,
      37.2
     ]
    },
    "properties": {
-    "id": "F-chalifoux-21",
+    "id": "F-chalifoux-22",
     "nom": "San Luis (Culebra) : recensement de 1860",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11729,7 +11841,7 @@
     ]
    },
    "properties": {
-    "id": "F-chalifoux-22",
+    "id": "F-chalifoux-23",
     "nom": "Huerfano : mort chez Autobees (12 déc. 1860)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12508,12 +12620,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.14,
+     38.83
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-28",
+    "nom": "Secret Ravine (Township 9, comté de Placer) : recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "« John B. Chorbonnean », 57 ans, seul au logement no 700, bureau de poste Secret Ravine. L'index lit « Maine » comme lieu de naissance, sans doute une mauvaise lecture de « Mo. » (Missouri).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Township 9, Placer, Calif., bobine 62, p. 621",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.235,
      38.79
     ]
    },
    "properties": {
-    "id": "F-charbonneau-28",
+    "id": "F-charbonneau-29",
     "nom": "Rocklin : au rôle des taxes (mai 1865)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12541,7 +12681,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-29",
+    "id": "F-charbonneau-30",
     "nom": "Rivière Owyhee : la chute dans l'eau glacée (mai 1866)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12569,7 +12709,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-30",
+    "id": "F-charbonneau-31",
     "nom": "Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12597,7 +12737,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-31",
+    "id": "F-charbonneau-32",
     "nom": "Réserve de Wind River : l'autre « Baptiste » (1885)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12625,7 +12765,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-32",
+    "id": "F-charbonneau-33",
     "nom": "Old Town Auburn : la plaque commémorative (2006, révisée en 2020)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15196,12 +15336,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -95.99,
+     41.84
+    ]
+   },
+   "properties": {
+    "id": "F-larpenteur-19",
+    "nom": "Township de Sioux (comté de Harrison, Iowa) : recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Larpenteur"
+    ],
+    "description": "Charles Larpenteur, né en France vers 1808, et son fils Charles J., né vers 1845 au « Dakota Territory », recensés à Sioux Township, le pays de sa ferme « Fountainebleau ».",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Sioux, Harrison, Iowa",
+    "note": "Charles fils est né à Fort Alexander en 1842 selon Pfaller.",
+    "salle": "larpenteur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -97.24,
      48.97
     ]
    },
    "properties": {
-    "id": "F-larpenteur-19",
+    "id": "F-larpenteur-20",
     "nom": "De Saint-Paul à Pembina : neuf cents milles en chariots (1860)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15229,7 +15397,7 @@
     ]
    },
    "properties": {
-    "id": "F-larpenteur-20",
+    "id": "F-larpenteur-21",
     "nom": "Rivière Poplar : le poste rival (9 nov. 1860)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15257,7 +15425,7 @@
     ]
    },
    "properties": {
-    "id": "F-larpenteur-21",
+    "id": "F-larpenteur-22",
     "nom": "Fort Galpin : deux cents Sioux contre dix défenseurs (1862-1863)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15285,7 +15453,7 @@
     ]
    },
    "properties": {
-    "id": "F-larpenteur-22",
+    "id": "F-larpenteur-23",
     "nom": "Fort Union : enfin bourgeois (1864-1865)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15313,7 +15481,7 @@
     ]
    },
    "properties": {
-    "id": "F-larpenteur-23",
+    "id": "F-larpenteur-24",
     "nom": "Fort Buford : le magasin du vivandier (1867-1871)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15341,7 +15509,7 @@
     ]
    },
    "properties": {
-    "id": "F-larpenteur-24",
+    "id": "F-larpenteur-25",
     "nom": "Little Sioux (Iowa) : les mémoires et la mort (15 nov. 1872)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15392,12 +15560,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.116,
+     46.04
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-02",
+    "nom": "Sorel : l'acte de baptême (10 oct. 1791)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1791.77,
+    "fin": 1791.78,
+    "date_edtf": "1791-10-10",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Le registre de Saint-Pierre de Sorel confirme le baptême de Pierre Lesperance le 10 octobre 1791, fils légitime de Pierre Lesperance et de Marguerite Lein. Un arbre de Geneanet le rattache aux Bonami dit Lespérance, ce qui éclaire la signature de 1839, « Pedro Buen-amigo Esperanza » : Buen-amigo traduit Bonami.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : Quebec, Canada, Vital and Church Records (Drouin Collection), 1621-1968, Sorel, St-Pierre, baptême du 10 oct. 1791 ; Geneanet Community Trees Index (« Pierre Bonami dit Lespérance »)",
+    "note": "Découverte : le patronyme d'origine Bonami dit Lespérance.",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -72.957,
      45.627
     ]
    },
    "properties": {
-    "id": "F-lesperance-02",
+    "id": "F-lesperance-03",
     "nom": "Saint-Hyacinthe (1811)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15425,7 +15621,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-03",
+    "id": "F-lesperance-04",
     "nom": "Saint-Louis : batelier du Mississippi (1811-1814)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15453,7 +15649,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-04",
+    "id": "F-lesperance-05",
     "nom": "Huerfano : le parti Philibert attend son chef (1815)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15481,7 +15677,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-05",
+    "id": "F-lesperance-06",
     "nom": "Taos : hivernage des Français de Philibert (1815-1816)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15509,7 +15705,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-06",
+    "id": "F-lesperance-07",
     "nom": "Greenhorn : arrestation des trappeurs de Chouteau et De Mun (mai 1816)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15537,7 +15733,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-07",
+    "id": "F-lesperance-08",
     "nom": "Cache la Poudre : la cache de poudre du parti « Aimelle »",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15565,7 +15761,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-08",
+    "id": "F-lesperance-09",
     "nom": "Rivière Laramie : la mort de Baptiste Laramée (1821)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15593,7 +15789,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-09",
+    "id": "F-lesperance-10",
     "nom": "Nouveau-Mexique : installation (1822), naturalisé mexicain (1830)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15621,7 +15817,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-10",
+    "id": "F-lesperance-11",
     "nom": "Real de Dolores (Old Placers) : chercheur d'or (1828 ; 1832-1835)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15649,7 +15845,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-11",
+    "id": "F-lesperance-12",
     "nom": "Sonora : mineur (1828-1832)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15677,7 +15873,7 @@
     ]
    },
    "properties": {
-    "id": "F-lesperance-12",
+    "id": "F-lesperance-13",
     "nom": "Concession de Tecolote : naissance de San Gerónimo (1839)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15700,12 +15896,68 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.12,
+     46.043
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-14",
+    "nom": "Sorel : baptême du neveu « Pedrito » (30 juin 1839)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.49,
+    "fin": 1839.5,
+    "date_edtf": "1839-06-30",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Pierre, fils de Joseph Lesperance et de Marie Ocoin (Hocquin ?), est baptisé à Saint-Pierre de Sorel le 30 juin 1839 : il a bien 18 ans en 1857, quand son oncle l'appelle au Nouveau-Mexique. Ancestry signale ensuite un Pedro Lesperance maître de poste et inscrit au registre fédéral.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : Quebec, Canada, Vital and Church Records (Drouin Collection), 1621-1968, Sorel, St-Pierre, baptême du 30 juin 1839 ; U.S. Appointments of Postmasters (suggestion)",
+    "note": "Confirme le récit de Lecompte (p. 194).",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.279,
+     35.456
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-15",
+    "nom": "Tecolote : fermier au recensement de 1850",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "« Pedro Lesperance », 55 ans, né au Canada, fermier, terre de 1 200 $ ; logement no 1467, avec Cesaria (1 an), Tamslada Lina (25 ans) et Cimiano Lucero (24 ans).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Tuckelata, San Miguel, N.-M., bobine 469, p. 75b, ligne 23",
+    "note": "Âge sous-estimé (55 au lieu de 58-59).",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.36,
      35.56
     ]
    },
    "properties": {
-    "id": "F-lesperance-13",
+    "id": "F-lesperance-16",
     "nom": "Le neveu « Pedrito » et la scierie de la Tecolote (1857)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -15728,12 +15980,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.371,
+     35.557
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-17",
+    "nom": "San Gerónimo : tanneur de 79 ans (recensement de 1870)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1870.5,
+    "fin": 1870.6,
+    "date_edtf": "1870",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "« Pedro Lesperance », 79 ans, né au Canada vers 1791, tanneur, terre de 700 $ et biens de 510 $, poste de Las Vegas ; vit avec Dolores (60 ans), son épouse Dolores Garcia, et Nicolasa Cordova (25 ans).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1870 United States Federal Census, NARA M593, San Geronimo, San Miguel, N.-M., bobine 895, p. 200B, logement 76",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.373,
      35.556
     ]
    },
    "properties": {
-    "id": "F-lesperance-14",
+    "id": "F-lesperance-18",
     "nom": "San Gerónimo : mort et sépulture (1879)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17548,26 +17828,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -96.9,
-     40.15
+     -97.21,
+     40.12
     ]
    },
    "properties": {
     "id": "F-moncravie-14",
-    "nom": "Blue River (Nebraska) : ferme près de Daniel's Ranch, pillée (1858)",
+    "nom": "Little Blue (comté de Jones, Nebraska) : ferme près de Daniel's Ranch, pillée (1858)",
     "corpus": "Hafen",
     "theme": "personnage",
     "debut": 1858.1,
     "fin": 1866.0,
     "date_edtf": "1858/1866",
     "precision": "",
-    "certitude": "hypothetique",
+    "certitude": "approximative",
     "personnages": [
      "Jean-Baptiste Moncravie"
     ],
     "description": "En février 1858, quelque trois cents Otoes emportent chevaux, vaches, veaux et bœufs (520 $) ; en juillet, des Pawnees détruisent cent acres de maïs, des pommes de terre et un potager. En 1860, il vit seul, « interprète », 63 ans. Il dépose ses réclamations en 1866 (520 $ et 2 462,50 $), sans suite.",
     "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 235 — note de l'auteur : Claim no 6690, J. H. Broady, adm. de John B. Moncravie, U.S. Court of Claims, National Archives ; U.S. Census 1860",
-    "note": "Emplacement de Daniel's Ranch non identifié ; point estimé dans la vallée de la Blue.",
+    "note": "Le recensement de 1860 (Ancestry) place le bureau de poste « Daniels Ranch » dans le comté de Jones, aujourd'hui comté de Jefferson.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.2,
+     40.13
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-15",
+    "nom": "Comté de Jones (Nebraska) : « Daniels Ranch » au recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "John B. Moncravie, 63 ans, né en France, interprète, seul au logement no 314 ; bureau de poste « Daniels Ranch », comté de Jones (actuel comté de Jefferson, vallée de la Little Blue), ce qui localise sa ferme pillée de 1858.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Jones County, Nebraska Territory, bobine 665, p. 700",
+    "note": "Localisation précisée : comté de Jones (1856-1867), aujourd'hui comté de Jefferson.",
     "salle": "moncravie"
    }
   },
@@ -17581,7 +17889,7 @@
     ]
    },
    "properties": {
-    "id": "F-moncravie-15",
+    "id": "F-moncravie-16",
     "nom": "Decatur : auprès de son fils Alexander (1874)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17609,7 +17917,7 @@
     ]
    },
    "properties": {
-    "id": "F-moncravie-16",
+    "id": "F-moncravie-17",
     "nom": "Brownville : la revendication refusée et la mort (1874-1885)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17637,7 +17945,7 @@
     ]
    },
    "properties": {
-    "id": "F-moncravie-17",
+    "id": "F-moncravie-18",
     "nom": "Saint-Louis : baptême des enfants de Paul Loise (1er nov. 1801)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17665,7 +17973,7 @@
     ]
    },
    "properties": {
-    "id": "F-moncravie-18",
+    "id": "F-moncravie-19",
     "nom": "Réserve omaha : les petits-fils allotis (années 1880)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -18416,12 +18724,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.87,
+     45.185
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-08",
+    "nom": "Comté de Marion : « Pierre Pariso » et Marie au recensement de 1850",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "L'index d'Ancestry relève un « Pierre Pariso » et une Mary Pariso née au Canada vers 1833, la jeune Marie Dompierre épousée en juillet 1850.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Marion, Oregon Territory",
+    "note": "Âge de Pierre mal indexé (né vers 1818 selon l'index ; 1793 selon Munnick).",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.95,
      43.24
     ]
    },
    "properties": {
-    "id": "F-pariseau-08",
+    "id": "F-pariseau-09",
     "nom": "Haute Little River (comté de Douglas) : quarante ans de retraite sauvage",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -18449,7 +18785,7 @@
     ]
    },
    "properties": {
-    "id": "F-pariseau-09",
+    "id": "F-pariseau-10",
     "nom": "Portland : patient rebelle à l'hôpital (années 1870-1880)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -18477,7 +18813,7 @@
     ]
    },
    "properties": {
-    "id": "F-pariseau-10",
+    "id": "F-pariseau-11",
     "nom": "Nofog : mort et cimetière perdu (21 janvier 1892)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -20320,12 +20656,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -95.84,
+     41.05
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-13",
+    "nom": "St. Mary (comté de Mills, Iowa) : recensement de 1860",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "« P. A. Sarpy », recensé à St. Mary, comté de Mills (Iowa), où il avait fondé un bureau de poste et le St. Mary Gazette ; l'index le dit né vers 1804 en « Louisiana » (la Haute-Louisiane : Saint-Louis).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, St Mary, Mills, Iowa",
+    "note": "Précise l'emplacement de St. Mary (comté de Mills).",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -95.88,
      41.01
     ]
    },
    "properties": {
-    "id": "F-sarpy-13",
+    "id": "F-sarpy-14",
     "nom": "Plattsmouth : mort (4 janv. 1865)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -20353,7 +20717,7 @@
     ]
    },
    "properties": {
-    "id": "F-sarpy-14",
+    "id": "F-sarpy-15",
     "nom": "Cimetière Calvary de Saint-Louis : inhumation",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -20381,7 +20745,7 @@
     ]
    },
    "properties": {
-    "id": "F-sarpy-15",
+    "id": "F-sarpy-16",
     "nom": "Comté de Sarpy (1857)",
     "corpus": "Hafen",
     "theme": "personnage",

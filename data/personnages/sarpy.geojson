@@ -304,13 +304,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -95.88,
-     41.01
+     -95.84,
+     41.05
     ]
    },
    "properties": {
     "id": "sarpy-13",
     "ordre": 13,
+    "nom": "St. Mary (comté de Mills, Iowa) : recensement de 1860",
+    "phase": "Bellevue",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "certitude": "certaine",
+    "description": "« P. A. Sarpy », recensé à St. Mary, comté de Mills (Iowa), où il avait fondé un bureau de poste et le St. Mary Gazette ; l'index le dit né vers 1804 en « Louisiana » (la Haute-Louisiane : Saint-Louis).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, St Mary, Mills, Iowa",
+    "note": "Précise l'emplacement de St. Mary (comté de Mills)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.88,
+     41.01
+    ]
+   },
+   "properties": {
+    "id": "sarpy-14",
+    "ordre": 14,
     "nom": "Plattsmouth : mort (4 janv. 1865)",
     "phase": "Dernières années",
     "debut": 1862.0,
@@ -332,8 +355,8 @@
     ]
    },
    "properties": {
-    "id": "sarpy-14",
-    "ordre": 14,
+    "id": "sarpy-15",
+    "ordre": 15,
     "nom": "Cimetière Calvary de Saint-Louis : inhumation",
     "phase": "Dernières années",
     "debut": 1865.01,
@@ -355,8 +378,8 @@
     ]
    },
    "properties": {
-    "id": "sarpy-15",
-    "ordre": 15,
+    "id": "sarpy-16",
+    "ordre": 16,
     "nom": "Comté de Sarpy (1857)",
     "phase": "Mémoire",
     "debut": 1857.0,
@@ -420,6 +443,10 @@
      [
       -96.25,
       42.007
+     ],
+     [
+      -95.84,
+      41.05
      ],
      [
       -95.88,

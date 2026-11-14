@@ -649,13 +649,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.235,
-     38.79
+     -121.14,
+     38.83
     ]
    },
    "properties": {
     "id": "charbonneau-28",
     "ordre": 28,
+    "nom": "Secret Ravine (Township 9, comté de Placer) : recensement de 1860",
+    "phase": "Californie",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "certitude": "certaine",
+    "description": "« John B. Chorbonnean », 57 ans, seul au logement no 700, bureau de poste Secret Ravine. L'index lit « Maine » comme lieu de naissance, sans doute une mauvaise lecture de « Mo. » (Missouri).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Township 9, Placer, Calif., bobine 62, p. 621",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.235,
+     38.79
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-29",
+    "ordre": 29,
     "nom": "Rocklin : au rôle des taxes (mai 1865)",
     "phase": "Californie",
     "debut": 1865.33,
@@ -677,8 +700,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-29",
-    "ordre": 29,
+    "id": "charbonneau-30",
+    "ordre": 30,
     "nom": "Rivière Owyhee : la chute dans l'eau glacée (mai 1866)",
     "phase": "Californie",
     "debut": 1866.35,
@@ -700,8 +723,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-30",
-    "ordre": 30,
+    "id": "charbonneau-31",
+    "ordre": 31,
     "nom": "Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)",
     "phase": "Californie",
     "debut": 1866.37,
@@ -723,8 +746,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-31",
-    "ordre": 31,
+    "id": "charbonneau-32",
+    "ordre": 32,
     "nom": "Réserve de Wind River : l'autre « Baptiste » (1885)",
     "phase": "Mémoire",
     "debut": 1885.0,
@@ -746,8 +769,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-32",
-    "ordre": 32,
+    "id": "charbonneau-33",
+    "ordre": 33,
     "nom": "Old Town Auburn : la plaque commémorative (2006, révisée en 2020)",
     "phase": "Mémoire",
     "debut": 1974.0,
@@ -871,6 +894,10 @@
      [
       -121.08,
       38.897
+     ],
+     [
+      -121.14,
+      38.83
      ],
      [
       -121.235,

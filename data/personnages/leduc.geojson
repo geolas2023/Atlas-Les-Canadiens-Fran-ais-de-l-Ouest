@@ -6,7 +6,7 @@
   "nom": "Maurice LeDuc",
   "auteur": "Janet Lecompte",
   "pages": "176-189",
-  "vie": "v. 1808-v. 1880",
+  "vie": "v. 1802-v. 1880",
   "chapeau": "Voyageur canadien, trappeur avec Pegleg Smith et Ewing Young, fondateur de Buzzards' Roost sur l'Adobe Creek ; cinq épouses connues, quatre fins possibles.",
   "couleur": "#00a8e8"
  },
@@ -817,13 +817,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.98,
-     35.79
+     -105.281,
+     35.459
     ]
    },
    "properties": {
     "id": "leduc-34",
     "ordre": 34,
+    "nom": "Tecolote (« Tuckelata ») : le ménage de « Morris L. Dusch » au recensement de 1850",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "certitude": "certaine",
+    "description": "L'index d'Ancestry donne à « Morris L. Dusch » 48 ans (né vers 1802) et le Canada comme lieu de naissance ; il partage le logement no 1505 avec Elma (Elena) Dusch, 14 ans, et Petra, moins d'un an (la María Pedra de Lecompte). Ancestry lui associe le nom « Amado Ledoux ».",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Tuckelata, San Miguel, N.-M., bobine 469, p. 77b, ligne 18, logement 1505",
+    "note": "Âge divergent : 48 ans selon l'index d'Ancestry, 42 selon Lecompte ; à trancher sur l'image (ligne 18). Naissance vers 1802 ou 1808."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98,
+     35.79
+    ]
+   },
+   "properties": {
+    "id": "leduc-35",
+    "ordre": 35,
     "nom": "Fort Barclay (Mora) : les fils Amado et Augustin (1853)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1853.0,
@@ -845,8 +868,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-35",
-    "ordre": 35,
+    "id": "leduc-36",
+    "ordre": 36,
     "nom": "Embouchure de la Huerfano : chez Wootton, le coude brisé (v. 1853-1855)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1853.5,
@@ -868,8 +891,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-36",
-    "ordre": 36,
+    "id": "leduc-37",
+    "ordre": 37,
     "nom": "Village de la Huerfano : Wootton tire sur Maurice (1853)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1853.7,
@@ -891,8 +914,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-37",
-    "ordre": 37,
+    "id": "leduc-38",
+    "ordre": 38,
     "nom": "Fort Barclay (La Junta de los Ríos) : départ avec Jo Doyle (oct. 1853)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1853.75,
@@ -914,8 +937,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-38",
-    "ordre": 38,
+    "id": "leduc-39",
+    "ordre": 39,
     "nom": "Fort El Pueblo : hiver 1853-1854",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1853.8,
@@ -937,8 +960,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-39",
-    "ordre": 39,
+    "id": "leduc-40",
+    "ordre": 40,
     "nom": "Mora : avec son épouse mexicaine (1857-1858)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1857.0,
@@ -960,8 +983,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-40",
-    "ordre": 40,
+    "id": "leduc-41",
+    "ordre": 41,
     "nom": "Retour au Buzzard's Roost : fossé et champs (fin des années 1850)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1857.0,
@@ -983,8 +1006,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-41",
-    "ordre": 41,
+    "id": "leduc-42",
+    "ordre": 42,
     "nom": "Adobe Creek : séparation d'Elena et retour au fort en ruines (v. 1860)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1858.0,
@@ -1006,8 +1029,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-42",
-    "ordre": 42,
+    "id": "leduc-43",
+    "ordre": 43,
     "nom": "Vallée de Wet Mountain : grande chasse de 1859",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1859.0,
@@ -1029,8 +1052,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-43",
-    "ordre": 43,
+    "id": "leduc-44",
+    "ordre": 44,
     "nom": "Adobe Creek : J. A. Toof et W. H. Green recueillent ses récits (1859-1860)",
     "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
     "debut": 1859.5,
@@ -1052,8 +1075,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-44",
-    "ordre": 44,
+    "id": "leduc-45",
+    "ordre": 45,
     "nom": "Portrait : petit homme trapu, blond aux yeux bleus",
     "phase": "Dernières années",
     "debut": 1860.0,
@@ -1075,8 +1098,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-45",
-    "ordre": 45,
+    "id": "leduc-46",
+    "ordre": 46,
     "nom": "Greenhorn : le vieux trappeur et sa charrette (1861)",
     "phase": "Dernières trappes",
     "debut": 1861.0,
@@ -1098,8 +1121,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-46",
-    "ordre": 46,
+    "id": "leduc-47",
+    "ordre": 47,
     "nom": "Ranch Maxwell (Cimarron) : départ de l'Arkansas (1861)",
     "phase": "Chez Maxwell",
     "debut": 1861.0,
@@ -1121,8 +1144,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-47",
-    "ordre": 47,
+    "id": "leduc-48",
+    "ordre": 48,
     "nom": "Butte Valley : chez les Canadiens français (1862-1863)",
     "phase": "Dernières trappes",
     "debut": 1862.0,
@@ -1144,8 +1167,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-48",
-    "ordre": 48,
+    "id": "leduc-49",
+    "ordre": 49,
     "nom": "Cucharas : garde de moutons avec Rafaela (v. 1862)",
     "phase": "Dernières trappes",
     "debut": 1862.3,
@@ -1167,8 +1190,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-49",
-    "ordre": 49,
+    "id": "leduc-50",
+    "ordre": 50,
     "nom": "Relais de diligence près de Rayado (1863)",
     "phase": "Chez Maxwell",
     "debut": 1863.0,
@@ -1190,8 +1213,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-50",
-    "ordre": 50,
+    "id": "leduc-51",
+    "ordre": 51,
     "nom": "Rio Rayado et Puertecito avec « la Chihuahueña » (1866-1869)",
     "phase": "Chez Maxwell",
     "debut": 1866.0,
@@ -1213,8 +1236,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-51",
-    "ordre": 51,
+    "id": "leduc-52",
+    "ordre": 52,
     "nom": "Cimarron : chez Lucien Maxwell (1866-1870)",
     "phase": "Chez Maxwell",
     "debut": 1866.0,
@@ -1236,8 +1259,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-52",
-    "ordre": 52,
+    "id": "leduc-53",
+    "ordre": 53,
     "nom": "Sources chaudes de Las Vegas : le burro de Maxwell (1866-1867)",
     "phase": "Chez Maxwell",
     "debut": 1866.5,
@@ -1259,8 +1282,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-53",
-    "ordre": 53,
+    "id": "leduc-54",
+    "ordre": 54,
     "nom": "Sweetwater Creek (entre Sapello et Cimarron) en 1867",
     "phase": "Chez Maxwell",
     "debut": 1867.0,
@@ -1282,8 +1305,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-54",
-    "ordre": 54,
+    "id": "leduc-55",
+    "ordre": 55,
     "nom": "Las Tusas (haute Sapello) : chez Albert Gosselin (années 1870)",
     "phase": "Dernières années",
     "debut": 1870.0,
@@ -1305,8 +1328,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-55",
-    "ordre": 55,
+    "id": "leduc-56",
+    "ordre": 56,
     "nom": "Fort Sumner : avec Maxwell (après 1870)",
     "phase": "Chez Maxwell",
     "debut": 1870.5,
@@ -1328,8 +1351,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-56",
-    "ordre": 56,
+    "id": "leduc-57",
+    "ordre": 57,
     "nom": "Fort Sumner (1870-1875)",
     "phase": "Dernières années",
     "debut": 1870.5,
@@ -1351,8 +1374,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-57",
-    "ordre": 57,
+    "id": "leduc-58",
+    "ordre": 58,
     "nom": "Disparu dans une tempête de neige — version Geoffrion",
     "phase": "Mort",
     "debut": 1875.0,
@@ -1374,8 +1397,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-58",
-    "ordre": 58,
+    "id": "leduc-59",
+    "ordre": 59,
     "nom": "Visite chez Autobees et Trinidad (1879)",
     "phase": "Dernières années",
     "debut": 1879.0,
@@ -1397,8 +1420,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-59",
-    "ordre": 59,
+    "id": "leduc-60",
+    "ordre": 60,
     "nom": "Plaza d'Autobees (Huerfano) : dernière visite (1879)",
     "phase": "Dernières années",
     "debut": 1879.0,
@@ -1420,8 +1443,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-60",
-    "ordre": 60,
+    "id": "leduc-61",
+    "ordre": 61,
     "nom": "Trinidad : un an chez un vieux trappeur (1879-1880)",
     "phase": "Dernières années",
     "debut": 1879.5,
@@ -1443,8 +1466,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-61",
-    "ordre": 61,
+    "id": "leduc-62",
+    "ordre": 62,
     "nom": "Music Pass : la dernière chevauchée (v. 1880)",
     "phase": "Mort",
     "debut": 1880.0,
@@ -1466,8 +1489,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-62",
-    "ordre": 62,
+    "id": "leduc-63",
+    "ordre": 63,
     "nom": "Mort chez Maxwell (Cimarron), 1880 ? — version Autobees",
     "phase": "Mort",
     "debut": 1880.4,
@@ -1489,8 +1512,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-63",
-    "ordre": 63,
+    "id": "leduc-64",
+    "ordre": 64,
     "nom": "Bijou Creek : « Maurice » dans le roman de Ruxton",
     "phase": "Mémoire",
     "debut": 1846.8,
@@ -1512,8 +1535,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-64",
-    "ordre": 64,
+    "id": "leduc-65",
+    "ordre": 65,
     "nom": "Descendance : Black Lake et la Cuesta de Osha",
     "phase": "Mémoire",
     "debut": 1860.0,
@@ -1535,8 +1558,8 @@
     ]
    },
    "properties": {
-    "id": "leduc-65",
-    "ordre": 65,
+    "id": "leduc-66",
+    "ordre": 66,
     "nom": "Marqueur « Hardscrabble » (DAR, 1969)",
     "phase": "Mémoire",
     "debut": 1969.38,
@@ -1684,6 +1707,10 @@
      [
       -105.278,
       35.457
+     ],
+     [
+      -105.281,
+      35.459
      ],
      [
       -104.98,

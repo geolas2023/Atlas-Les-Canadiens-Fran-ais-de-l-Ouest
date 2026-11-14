@@ -188,13 +188,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.95,
-     43.24
+     -122.87,
+     45.185
     ]
    },
    "properties": {
     "id": "pariseau-08",
     "ordre": 8,
+    "nom": "Comté de Marion : « Pierre Pariso » et Marie au recensement de 1850",
+    "phase": "Prairie française",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "certitude": "approximative",
+    "description": "L'index d'Ancestry relève un « Pierre Pariso » et une Mary Pariso née au Canada vers 1833, la jeune Marie Dompierre épousée en juillet 1850.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Marion, Oregon Territory",
+    "note": "Âge de Pierre mal indexé (né vers 1818 selon l'index ; 1793 selon Munnick)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.95,
+     43.24
+    ]
+   },
+   "properties": {
+    "id": "pariseau-09",
+    "ordre": 9,
     "nom": "Haute Little River (comté de Douglas) : quarante ans de retraite sauvage",
     "phase": "Little River",
     "debut": 1853.0,
@@ -216,8 +239,8 @@
     ]
    },
    "properties": {
-    "id": "pariseau-09",
-    "ordre": 9,
+    "id": "pariseau-10",
+    "ordre": 10,
     "nom": "Portland : patient rebelle à l'hôpital (années 1870-1880)",
     "phase": "Little River",
     "debut": 1873.0,
@@ -239,8 +262,8 @@
     ]
    },
    "properties": {
-    "id": "pariseau-10",
-    "ordre": 10,
+    "id": "pariseau-11",
+    "ordre": 11,
     "nom": "Nofog : mort et cimetière perdu (21 janvier 1892)",
     "phase": "Little River",
     "debut": 1892.05,
@@ -284,6 +307,10 @@
      [
       -122.976,
       45.211
+     ],
+     [
+      -122.87,
+      45.185
      ],
      [
       -122.95,

@@ -465,13 +465,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.53,
-     42.6
+     -104.43,
+     42.18
     ]
    },
    "properties": {
     "id": "bordeaux-20",
     "ordre": 20,
+    "nom": "Fort Laramie : le traiteur et ses sept enfants au recensement de 1860",
+    "phase": "Traiteur indépendant",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "certitude": "certaine",
+    "description": "« James Bardeau », 45 ans, né au Missouri, traiteur, biens de 5 000 $, poste de Fort Laramie (comté non organisé du Territoire du Nebraska) : Louisa (19 ans), Antoine (14), Louis (12), John (7), Susan (4), Alexander (2) et Henry (2 mois). Sa femme Marie n'apparaît pas dans l'index. Ancestry y associe aussi son gendre Clément Lamoureaux.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Unorganized County, Nebraska Territory, bobine 665, p. 238, logement 89",
+    "note": "Prospérité confirmée (Burton, 1860)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "bordeaux-21",
+    "ordre": 21,
     "nom": "Raw Hide Butte : sous-poste (1862)",
     "phase": "Traiteur indépendant",
     "debut": 1862.0,
@@ -493,8 +516,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-21",
-    "ordre": 21,
+    "id": "bordeaux-22",
+    "ordre": 22,
     "nom": "Horse Creek : 106 bœufs et 47 chevaux emportés (juin 1865)",
     "phase": "Traiteur indépendant",
     "debut": 1865.4,
@@ -516,8 +539,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-22",
-    "ordre": 22,
+    "id": "bordeaux-23",
+    "ordre": 23,
     "nom": "Chugwater : le magasin du carrefour (1867-1868)",
     "phase": "Traiteur indépendant",
     "debut": 1867.3,
@@ -539,8 +562,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-23",
-    "ordre": 23,
+    "id": "bordeaux-24",
+    "ordre": 24,
     "nom": "Agence Whetstone, près de Fort Randall (1868-1871)",
     "phase": "Rosebud",
     "debut": 1868.45,
@@ -562,8 +585,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-24",
-    "ordre": 24,
+    "id": "bordeaux-25",
+    "ordre": 25,
     "nom": "Agence Rosebud : mort (11 oct. 1878)",
     "phase": "Rosebud",
     "debut": 1878.4,
@@ -585,8 +608,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-25",
-    "ordre": 25,
+    "id": "bordeaux-26",
+    "ordre": 26,
     "nom": "Saint-François (Dakota du Sud) : la sépulture",
     "phase": "Mémoire",
     "debut": 1884.0,
@@ -678,6 +701,10 @@
      [
       -104.99,
       39.75
+     ],
+     [
+      -104.43,
+      42.18
      ],
      [
       -104.53,

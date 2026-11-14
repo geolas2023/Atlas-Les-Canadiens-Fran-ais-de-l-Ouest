@@ -328,22 +328,45 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -96.9,
-     40.15
+     -97.21,
+     40.12
     ]
    },
    "properties": {
     "id": "moncravie-14",
     "ordre": 14,
-    "nom": "Blue River (Nebraska) : ferme près de Daniel's Ranch, pillée (1858)",
+    "nom": "Little Blue (comté de Jones, Nebraska) : ferme près de Daniel's Ranch, pillée (1858)",
     "phase": "Nebraska",
     "debut": 1858.1,
     "fin": 1866.0,
     "date_edtf": "1858/1866",
-    "certitude": "hypothetique",
+    "certitude": "approximative",
     "description": "En février 1858, quelque trois cents Otoes emportent chevaux, vaches, veaux et bœufs (520 $) ; en juillet, des Pawnees détruisent cent acres de maïs, des pommes de terre et un potager. En 1860, il vit seul, « interprète », 63 ans. Il dépose ses réclamations en 1866 (520 $ et 2 462,50 $), sans suite.",
     "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 235 — note de l'auteur : Claim no 6690, J. H. Broady, adm. de John B. Moncravie, U.S. Court of Claims, National Archives ; U.S. Census 1860",
-    "note": "Emplacement de Daniel's Ranch non identifié ; point estimé dans la vallée de la Blue."
+    "note": "Le recensement de 1860 (Ancestry) place le bureau de poste « Daniels Ranch » dans le comté de Jones, aujourd'hui comté de Jefferson."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.2,
+     40.13
+    ]
+   },
+   "properties": {
+    "id": "moncravie-15",
+    "ordre": 15,
+    "nom": "Comté de Jones (Nebraska) : « Daniels Ranch » au recensement de 1860",
+    "phase": "Nebraska",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "certitude": "approximative",
+    "description": "John B. Moncravie, 63 ans, né en France, interprète, seul au logement no 314 ; bureau de poste « Daniels Ranch », comté de Jones (actuel comté de Jefferson, vallée de la Little Blue), ce qui localise sa ferme pillée de 1858.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Jones County, Nebraska Territory, bobine 665, p. 700",
+    "note": "Localisation précisée : comté de Jones (1856-1867), aujourd'hui comté de Jefferson."
    }
   },
   {
@@ -356,8 +379,8 @@
     ]
    },
    "properties": {
-    "id": "moncravie-15",
-    "ordre": 15,
+    "id": "moncravie-16",
+    "ordre": 16,
     "nom": "Decatur : auprès de son fils Alexander (1874)",
     "phase": "Nebraska",
     "debut": 1874.0,
@@ -379,8 +402,8 @@
     ]
    },
    "properties": {
-    "id": "moncravie-16",
-    "ordre": 16,
+    "id": "moncravie-17",
+    "ordre": 17,
     "nom": "Brownville : la revendication refusée et la mort (1874-1885)",
     "phase": "Nebraska",
     "debut": 1874.27,
@@ -402,8 +425,8 @@
     ]
    },
    "properties": {
-    "id": "moncravie-17",
-    "ordre": 17,
+    "id": "moncravie-18",
+    "ordre": 18,
     "nom": "Saint-Louis : baptême des enfants de Paul Loise (1er nov. 1801)",
     "phase": "Mémoire",
     "debut": 1801.83,
@@ -425,8 +448,8 @@
     ]
    },
    "properties": {
-    "id": "moncravie-18",
-    "ordre": 18,
+    "id": "moncravie-19",
+    "ordre": 19,
     "nom": "Réserve omaha : les petits-fils allotis (années 1880)",
     "phase": "Mémoire",
     "debut": 1880.0,
@@ -496,8 +519,12 @@
       42.48
      ],
      [
-      -96.9,
-      40.15
+      -97.21,
+      40.12
+     ],
+     [
+      -97.2,
+      40.13
      ],
      [
       -96.25,

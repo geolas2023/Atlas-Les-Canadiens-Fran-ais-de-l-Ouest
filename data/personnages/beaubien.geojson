@@ -28,13 +28,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -72.616,
-     46.225
+     -72.618,
+     46.226
     ]
    },
    "properties": {
     "id": "beaubien-01",
     "ordre": 1,
+    "nom": "Nicolet : baptême d'Alexis Hyppolite Beaubien selon Drouin (21 juin 1800 ?)",
+    "phase": "Canada",
+    "debut": 1800.47,
+    "fin": 1800.48,
+    "date_edtf": "1800-06-21",
+    "certitude": "approximative",
+    "description": "L'index Drouin d'Ancestry date le baptême d'Alexis Hyppolite Beaubien du 21 juin 1800 à la cathédrale Saint-Jean-Baptiste de Nicolet, alors que Murphy, d'après le certificat de 1862, le place le 21 octobre 1800.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : Quebec, Canada, Vital and Church Records (Drouin Collection), 1621-1968, Nicolet, St-Jean-Baptiste, 21 juin 1800",
+    "note": "Divergence de date (juin ou octobre) à vérifier sur l'image du registre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.616,
+     46.225
+    ]
+   },
+   "properties": {
+    "id": "beaubien-02",
+    "ordre": 2,
     "nom": "Nicolet : naissance et baptême d'Alexis Beaubien (oct. 1800)",
     "phase": "Canada",
     "debut": 1800.75,
@@ -56,8 +79,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-02",
-    "ordre": 2,
+    "id": "beaubien-03",
+    "ordre": 3,
     "nom": "Québec : il quitte la soutane et devient « Charles » (1821)",
     "phase": "Canada",
     "debut": 1820.8,
@@ -79,8 +102,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-03",
-    "ordre": 3,
+    "id": "beaubien-04",
+    "ordre": 4,
     "nom": "Saint-Louis : permis de William Clark pour seize hommes (29 déc. 1823)",
     "phase": "Taos",
     "debut": 1823.98,
@@ -102,8 +125,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-04",
-    "ordre": 4,
+    "id": "beaubien-05",
+    "ordre": 5,
     "nom": "Taos : guía de trappe (21 nov. 1826) et expédition de Pratte (janv. 1827)",
     "phase": "Taos",
     "debut": 1826.88,
@@ -125,8 +148,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-05",
-    "ordre": 5,
+    "id": "beaubien-06",
+    "ordre": 6,
     "nom": "Taos : mariage avec María Paula Lobato par le padre Martínez (11 sept. 1827)",
     "phase": "Taos",
     "debut": 1827.69,
@@ -148,8 +171,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-06",
-    "ordre": 6,
+    "id": "beaubien-07",
+    "ordre": 7,
     "nom": "Taos : Carlos Hipólito Beaubien, citoyen mexicain (25 juin 1829)",
     "phase": "Taos",
     "debut": 1829.14,
@@ -171,8 +194,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-07",
-    "ordre": 7,
+    "id": "beaubien-08",
+    "ordre": 8,
     "nom": "Taos : marchand, alcalde et rival du padre Martínez (1832-1840)",
     "phase": "Taos",
     "debut": 1832.67,
@@ -194,8 +217,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-08",
-    "ordre": 8,
+    "id": "beaubien-09",
+    "ordre": 9,
     "nom": "Cape Girardeau : Narciso au collège",
     "phase": "Juge",
     "debut": 1840.0,
@@ -217,8 +240,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-09",
-    "ordre": 9,
+    "id": "beaubien-10",
+    "ordre": 10,
     "nom": "Concession Beaubien-Miranda (future concession Maxwell) (3-6 janv. 1841)",
     "phase": "Concessions",
     "debut": 1841.0,
@@ -240,8 +263,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-10",
-    "ordre": 10,
+    "id": "beaubien-11",
+    "ordre": 11,
     "nom": "Concession Sangre de Cristo, vallée de San Luis (12 janv. 1844)",
     "phase": "Concessions",
     "debut": 1844.03,
@@ -263,8 +286,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-11",
-    "ordre": 11,
+    "id": "beaubien-12",
+    "ordre": 12,
     "nom": "Santa Fe : juge de la Cour suprême de Kearny (22 sept. 1846)",
     "phase": "Juge",
     "debut": 1846.72,
@@ -286,8 +309,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-12",
-    "ordre": 12,
+    "id": "beaubien-13",
+    "ordre": 13,
     "nom": "Tierra Amarilla : en tournée pendant la révolte de Taos (janv. 1847)",
     "phase": "Juge",
     "debut": 1847.03,
@@ -309,8 +332,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-13",
-    "ordre": 13,
+    "id": "beaubien-14",
+    "ordre": 14,
     "nom": "Taos : Narciso tué et le procès des insurgés (janv.-avril 1847)",
     "phase": "Juge",
     "debut": 1847.05,
@@ -332,8 +355,8 @@
     ]
    },
    "properties": {
-    "id": "beaubien-14",
-    "ordre": 14,
+    "id": "beaubien-15",
+    "ordre": 15,
     "nom": "Rayado : les gendres Maxwell et Abreu relancent la colonisation (1848)",
     "phase": "Concessions",
     "debut": 1848.0,
@@ -350,13 +373,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.576,
+     36.405
+    ]
+   },
+   "properties": {
+    "id": "beaubien-16",
+    "ordre": 16,
+    "nom": "Taos : le marchand et sa famille au recensement de 1850",
+    "phase": "Juge",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "certitude": "certaine",
+    "description": "Charles Beaubien, 50 ans, né au Canada, marchand, terre de 500 $ (logement no 1 de la Division nord de Taos), avec Maria Paula (30 ans), Maria Juana (13), Maria Teodora (8), Maria Petra (6) et Pablo (2).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Northern Division, Taos, N.-M., bobine 469, p. 91a",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.578,
      36.409
     ]
    },
    "properties": {
-    "id": "beaubien-15",
-    "ordre": 15,
+    "id": "beaubien-17",
+    "ordre": 17,
     "nom": "Taos : mort du juge (10 févr. 1864)",
     "phase": "Juge",
     "debut": 1851.4,
@@ -373,6 +419,10 @@
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      -72.618,
+      46.226
+     ],
      [
       -72.616,
       46.225
@@ -428,6 +478,10 @@
      [
       -104.93,
       36.37
+     ],
+     [
+      -105.576,
+      36.405
      ],
      [
       -105.578,

@@ -441,13 +441,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -97.24,
-     48.97
+     -95.99,
+     41.84
     ]
    },
    "properties": {
     "id": "larpenteur-19",
     "ordre": 19,
+    "nom": "Township de Sioux (comté de Harrison, Iowa) : recensement de 1860",
+    "phase": "Iowa et Dakota",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "certitude": "certaine",
+    "description": "Charles Larpenteur, né en France vers 1808, et son fils Charles J., né vers 1845 au « Dakota Territory », recensés à Sioux Township, le pays de sa ferme « Fountainebleau ».",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Sioux, Harrison, Iowa",
+    "note": "Charles fils est né à Fort Alexander en 1842 selon Pfaller."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.97
+    ]
+   },
+   "properties": {
+    "id": "larpenteur-20",
+    "ordre": 20,
     "nom": "De Saint-Paul à Pembina : neuf cents milles en chariots (1860)",
     "phase": "Dernières traites",
     "debut": 1860.6,
@@ -469,8 +492,8 @@
     ]
    },
    "properties": {
-    "id": "larpenteur-20",
-    "ordre": 20,
+    "id": "larpenteur-21",
+    "ordre": 21,
     "nom": "Rivière Poplar : le poste rival (9 nov. 1860)",
     "phase": "Dernières traites",
     "debut": 1860.85,
@@ -492,8 +515,8 @@
     ]
    },
    "properties": {
-    "id": "larpenteur-21",
-    "ordre": 21,
+    "id": "larpenteur-22",
+    "ordre": 22,
     "nom": "Fort Galpin : deux cents Sioux contre dix défenseurs (1862-1863)",
     "phase": "Dernières traites",
     "debut": 1862.6,
@@ -515,8 +538,8 @@
     ]
    },
    "properties": {
-    "id": "larpenteur-22",
-    "ordre": 22,
+    "id": "larpenteur-23",
+    "ordre": 23,
     "nom": "Fort Union : enfin bourgeois (1864-1865)",
     "phase": "Dernières traites",
     "debut": 1864.0,
@@ -538,8 +561,8 @@
     ]
    },
    "properties": {
-    "id": "larpenteur-23",
-    "ordre": 23,
+    "id": "larpenteur-24",
+    "ordre": 24,
     "nom": "Fort Buford : le magasin du vivandier (1867-1871)",
     "phase": "Dernières traites",
     "debut": 1867.3,
@@ -561,8 +584,8 @@
     ]
    },
    "properties": {
-    "id": "larpenteur-24",
-    "ordre": 24,
+    "id": "larpenteur-25",
+    "ordre": 25,
     "nom": "Little Sioux (Iowa) : les mémoires et la mort (15 nov. 1872)",
     "phase": "Iowa et Dakota",
     "debut": 1871.4,
@@ -650,6 +673,10 @@
      [
       -98.05,
       42.77
+     ],
+     [
+      -95.99,
+      41.84
      ],
      [
       -97.24,

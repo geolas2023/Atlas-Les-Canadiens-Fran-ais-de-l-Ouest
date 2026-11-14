@@ -4,7 +4,7 @@
 from commun import *
 A = "Janet Lecompte"
 def s(p, n=None): return ff(A, p, n)
-P = dict(id="leduc", nom="Maurice LeDuc", auteur=A, pages="176-189", vie="v. 1808-v. 1880",
+P = dict(id="leduc", nom="Maurice LeDuc", auteur=A, pages="176-189", vie="v. 1802-v. 1880",
  chapeau="Voyageur canadien, trappeur avec Pegleg Smith et Ewing Young, fondateur de Buzzards' Roost sur l'Adobe Creek ; cinq épouses connues, quatre fins possibles.")
 E = [
 ("Portrait : petit homme trapu, blond aux yeux bleus", *FORTLEDUC, 1860.0, 1860.99, "1860", "approximative", "Dernières années",

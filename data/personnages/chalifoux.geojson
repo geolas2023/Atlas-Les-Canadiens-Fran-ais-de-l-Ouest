@@ -489,13 +489,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.42,
-     37.2
+     -105.43,
+     37.08
     ]
    },
    "properties": {
     "id": "chalifoux-21",
     "ordre": 21,
+    "nom": "Costilla (comté de Taos) : « Batis Chalifoux » au recensement de 1860",
+    "phase": "Fermier",
+    "debut": 1860.5,
+    "fin": 1860.6,
+    "date_edtf": "1860",
+    "certitude": "certaine",
+    "description": "60 ans, né au Canada, fermier, 500 $ de terre et 500 $ de biens, illettré ; bureau de poste Fernando de Taos, logement no 1440. L'index ne liste que lui dans le ménage.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1860 United States Federal Census, NARA M653, Costilla, Taos, N.-M., bobine 715, p. 127",
+    "note": "Lecompte cite le précinct de Culebra avec sa femme Mariana et deux fils : vérifier sur l'image les lignes voisines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.42,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "chalifoux-22",
+    "ordre": 22,
     "nom": "San Luis (Culebra) : recensement de 1860",
     "phase": "Fermier",
     "debut": 1860.5,
@@ -517,8 +540,8 @@
     ]
    },
    "properties": {
-    "id": "chalifoux-22",
-    "ordre": 22,
+    "id": "chalifoux-23",
+    "ordre": 23,
     "nom": "Huerfano : mort chez Autobees (12 déc. 1860)",
     "phase": "Fermier",
     "debut": 1860.94,
@@ -614,6 +637,10 @@
      [
       -104.45,
       37.2
+     ],
+     [
+      -105.43,
+      37.08
      ],
      [
       -105.42,

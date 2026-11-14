@@ -50,13 +50,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -72.957,
-     45.627
+     -73.116,
+     46.04
     ]
    },
    "properties": {
     "id": "lesperance-02",
     "ordre": 2,
+    "nom": "Sorel : l'acte de baptême (10 oct. 1791)",
+    "phase": "Canada",
+    "debut": 1791.77,
+    "fin": 1791.78,
+    "date_edtf": "1791-10-10",
+    "certitude": "certaine",
+    "description": "Le registre de Saint-Pierre de Sorel confirme le baptême de Pierre Lesperance le 10 octobre 1791, fils légitime de Pierre Lesperance et de Marguerite Lein. Un arbre de Geneanet le rattache aux Bonami dit Lespérance, ce qui éclaire la signature de 1839, « Pedro Buen-amigo Esperanza » : Buen-amigo traduit Bonami.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : Quebec, Canada, Vital and Church Records (Drouin Collection), 1621-1968, Sorel, St-Pierre, baptême du 10 oct. 1791 ; Geneanet Community Trees Index (« Pierre Bonami dit Lespérance »)",
+    "note": "Découverte : le patronyme d'origine Bonami dit Lespérance."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.957,
+     45.627
+    ]
+   },
+   "properties": {
+    "id": "lesperance-03",
+    "ordre": 3,
     "nom": "Saint-Hyacinthe (1811)",
     "phase": "Canada",
     "debut": 1811.0,
@@ -78,8 +101,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-03",
-    "ordre": 3,
+    "id": "lesperance-04",
+    "ordre": 4,
     "nom": "Saint-Louis : batelier du Mississippi (1811-1814)",
     "phase": "Missouri",
     "debut": 1811.5,
@@ -101,8 +124,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-04",
-    "ordre": 4,
+    "id": "lesperance-05",
+    "ordre": 5,
     "nom": "Huerfano : le parti Philibert attend son chef (1815)",
     "phase": "Rocheuses",
     "debut": 1815.0,
@@ -124,8 +147,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-05",
-    "ordre": 5,
+    "id": "lesperance-06",
+    "ordre": 6,
     "nom": "Taos : hivernage des Français de Philibert (1815-1816)",
     "phase": "Rocheuses",
     "debut": 1815.9,
@@ -147,8 +170,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-06",
-    "ordre": 6,
+    "id": "lesperance-07",
+    "ordre": 7,
     "nom": "Greenhorn : arrestation des trappeurs de Chouteau et De Mun (mai 1816)",
     "phase": "Rocheuses",
     "debut": 1816.35,
@@ -170,8 +193,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-07",
-    "ordre": 7,
+    "id": "lesperance-08",
+    "ordre": 8,
     "nom": "Cache la Poudre : la cache de poudre du parti « Aimelle »",
     "phase": "Rocheuses",
     "debut": 1821.6,
@@ -193,8 +216,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-08",
-    "ordre": 8,
+    "id": "lesperance-09",
+    "ordre": 9,
     "nom": "Rivière Laramie : la mort de Baptiste Laramée (1821)",
     "phase": "Rocheuses",
     "debut": 1821.85,
@@ -216,8 +239,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-09",
-    "ordre": 9,
+    "id": "lesperance-10",
+    "ordre": 10,
     "nom": "Nouveau-Mexique : installation (1822), naturalisé mexicain (1830)",
     "phase": "Nouveau-Mexique",
     "debut": 1822.0,
@@ -239,8 +262,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-10",
-    "ordre": 10,
+    "id": "lesperance-11",
+    "ordre": 11,
     "nom": "Real de Dolores (Old Placers) : chercheur d'or (1828 ; 1832-1835)",
     "phase": "Nouveau-Mexique",
     "debut": 1828.0,
@@ -262,8 +285,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-11",
-    "ordre": 11,
+    "id": "lesperance-12",
+    "ordre": 12,
     "nom": "Sonora : mineur (1828-1832)",
     "phase": "Nouveau-Mexique",
     "debut": 1828.5,
@@ -285,8 +308,8 @@
     ]
    },
    "properties": {
-    "id": "lesperance-12",
-    "ordre": 12,
+    "id": "lesperance-13",
+    "ordre": 13,
     "nom": "Concession de Tecolote : naissance de San Gerónimo (1839)",
     "phase": "Nouveau-Mexique",
     "debut": 1839.0,
@@ -303,13 +326,59 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.12,
+     46.043
+    ]
+   },
+   "properties": {
+    "id": "lesperance-14",
+    "ordre": 14,
+    "nom": "Sorel : baptême du neveu « Pedrito » (30 juin 1839)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1839.49,
+    "fin": 1839.5,
+    "date_edtf": "1839-06-30",
+    "certitude": "certaine",
+    "description": "Pierre, fils de Joseph Lesperance et de Marie Ocoin (Hocquin ?), est baptisé à Saint-Pierre de Sorel le 30 juin 1839 : il a bien 18 ans en 1857, quand son oncle l'appelle au Nouveau-Mexique. Ancestry signale ensuite un Pedro Lesperance maître de poste et inscrit au registre fédéral.",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : Quebec, Canada, Vital and Church Records (Drouin Collection), 1621-1968, Sorel, St-Pierre, baptême du 30 juin 1839 ; U.S. Appointments of Postmasters (suggestion)",
+    "note": "Confirme le récit de Lecompte (p. 194)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.279,
+     35.456
+    ]
+   },
+   "properties": {
+    "id": "lesperance-15",
+    "ordre": 15,
+    "nom": "Tecolote : fermier au recensement de 1850",
+    "phase": "Nouveau-Mexique",
+    "debut": 1850.8,
+    "fin": 1850.85,
+    "date_edtf": "1850",
+    "certitude": "certaine",
+    "description": "« Pedro Lesperance », 55 ans, né au Canada, fermier, terre de 1 200 $ ; logement no 1467, avec Cesaria (1 an), Tamslada Lina (25 ans) et Cimiano Lucero (24 ans).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1850 United States Federal Census, NARA M432, Tuckelata, San Miguel, N.-M., bobine 469, p. 75b, ligne 23",
+    "note": "Âge sous-estimé (55 au lieu de 58-59)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.36,
      35.56
     ]
    },
    "properties": {
-    "id": "lesperance-13",
-    "ordre": 13,
+    "id": "lesperance-16",
+    "ordre": 16,
     "nom": "Le neveu « Pedrito » et la scierie de la Tecolote (1857)",
     "phase": "Nouveau-Mexique",
     "debut": 1857.0,
@@ -326,13 +395,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.371,
+     35.557
+    ]
+   },
+   "properties": {
+    "id": "lesperance-17",
+    "ordre": 17,
+    "nom": "San Gerónimo : tanneur de 79 ans (recensement de 1870)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1870.5,
+    "fin": 1870.6,
+    "date_edtf": "1870",
+    "certitude": "certaine",
+    "description": "« Pedro Lesperance », 79 ans, né au Canada vers 1791, tanneur, terre de 700 $ et biens de 510 $, poste de Las Vegas ; vit avec Dolores (60 ans), son épouse Dolores Garcia, et Nicolasa Cordova (25 ans).",
+    "sources": "Ancestry.com (consulté le 13 nov. 2026) : 1870 United States Federal Census, NARA M593, San Geronimo, San Miguel, N.-M., bobine 895, p. 200B, logement 76",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -105.373,
      35.556
     ]
    },
    "properties": {
-    "id": "lesperance-14",
-    "ordre": 14,
+    "id": "lesperance-18",
+    "ordre": 18,
     "nom": "San Gerónimo : mort et sépulture (1879)",
     "phase": "Nouveau-Mexique",
     "debut": 1879.0,
@@ -349,6 +441,10 @@
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      -73.116,
+      46.04
+     ],
      [
       -73.116,
       46.04
@@ -398,8 +494,20 @@
       35.556
      ],
      [
+      -73.12,
+      46.043
+     ],
+     [
+      -105.279,
+      35.456
+     ],
+     [
       -105.36,
       35.56
+     ],
+     [
+      -105.371,
+      35.557
      ],
      [
       -105.373,

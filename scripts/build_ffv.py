@@ -21,7 +21,8 @@ def construire(feats_atlas, leduc_L=None, leduc_biblio=None, leduc_blocs=None):
         etapes = [dict(nom=e[0], lon=e[1], lat=e[2], debut=e[3], fin=e[4], edtf=e[5], cert=e[6], phase=e[7], desc=e[8], src=e[9], note=e[10]) for e in m.E]
         try:
             from sources_primaires import ADD
-            for e in ADD.get(pid, []):
+            from ancestry import ADD as ADD2
+            for e in ADD.get(pid, []) + ADD2.get(pid, []):
                 etapes.append(dict(nom=e[0], lon=e[1], lat=e[2], debut=e[3], fin=e[4], edtf=e[5], cert=e[6], phase=e[7], desc=e[8], src=e[9], note=e[10]))
         except ImportError: pass
         biblio = [f"{P['auteur']}, « {P['nom']} », dans {FF}, p. {P['pages']}."]
