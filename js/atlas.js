@@ -12,11 +12,16 @@ const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633
                  'Hafen': { libelle: 'Biographies de Hafen (Mountain Men)', trait: '#e2c27a' },
                  'Hafen MM': { libelle: 'Hafen, Mountain Men, vol. 2, 4-9 (dépouillement)', trait: '#9a6b1f' },
                  'Tassé': { libelle: "Tassé, Les Canadiens de l'Ouest (1878)", trait: '#6b2f6b' },
-                 'Illinois français': { libelle: "L'Illinois français et le Midwest", trait: '#2f5d7c' } };
+                 'Illinois français': { libelle: "L'Illinois français et le Midwest", trait: '#2f5d7c' },
+                 'Atlas historique du Québec': { libelle: 'La francophonie nord-américaine (Atlas historique du Québec, 2012)', trait: '#c0392b' },
+                 'Franco-Amérique': { libelle: 'Franco-Amérique (Louder et Waddell, 2008)', trait: '#e67e22' },
+                 'Nouvelle-France': { libelle: 'Nouvelle-France : explorations (Margry, Johnson, Marchand)', trait: '#16a085' },
+                 'Nouvelle-Angleterre': { libelle: 'Nouvelle-Angleterre : filatures (Vermette, MacDonald, Belisle)', trait: '#7f8c8d' },
+                 "Piste de l'Oregon": { libelle: "La piste de l'Oregon (Bergeron)", trait: '#8e44ad' } };
 // Couleur réservée à Maurice LeDuc (salle de lecture)
 const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
-const T_MIN = 1660, T_MAX = 1910;
+const T_MIN = 1560, T_MAX = 2010;
 
 const etat = {
   texte: '', corpus: new Set(Object.keys(CORPUS)), themes: new Set(Object.keys(COULEURS)),
@@ -139,7 +144,7 @@ function construireChrono() {
   const pos = v => `${(v - T_MIN) / (T_MAX - T_MIN) * 100}%`;
   // histogramme des fiches par décennie
   const dec = {};
-  TOUTES.forEach(f => { const d = Math.floor(Math.max(T_MIN, f.properties.debut) / 10) * 10; dec[d] = (dec[d] || 0) + 1; });
+  TOUTES.forEach(f => { const d = Math.floor(Math.min(T_MAX - 1, Math.max(T_MIN, f.properties.debut)) / 10) * 10; dec[d] = (dec[d] || 0) + 1; });
   const max = Math.max(...Object.values(dec));
   Object.entries(dec).forEach(([d, n]) => {
     const h = document.createElement('i'); h.className = 'histo';
