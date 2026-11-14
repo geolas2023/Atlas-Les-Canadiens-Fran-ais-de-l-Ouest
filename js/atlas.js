@@ -396,11 +396,12 @@ async function chargerReseau() {
       const pages = (a.pages || []).map(p => `<a href="${esc(a.ici ? p.href : new URL(p.href, a.url).href)}">${esc(p.fr)}</a>`).join('');
       const etiq = a.ici ? '<span class="etiq">vous êtes ici</span>' : prep ? '<span class="etiq prep">en préparation</span>' : '';
       const lien = a.ici ? './' : a.url;
-      return `<article class="atlas-carte${prep ? ' prep' : ''}" style="--c:${esc(a.couleur)}">
-        <h4><a href="${esc(lien)}">${esc(a.titre.fr)}</a>${etiq}</h4>
-        <p class="sous">${esc(a.sous_titre.fr)} · ${esc(a.periode || '')}</p>
+      return `<details class="atlas-carte${prep ? ' prep' : ''}" style="--c:${esc(a.couleur)}">
+        <summary><span class="nom-atlas">${esc(a.titre.fr)}</span>${etiq} <span class="mini">· ${esc(a.periode || '')}</span></summary>
+        <p class="sous">${esc(a.sous_titre.fr)}</p>
         <p>${esc(a.description.fr)}</p>
-        ${pages ? `<p class="pages">${pages}</p>` : ''}</article>`;
+        ${pages ? `<p class="pages">${pages}</p>` : ''}
+        ${a.ici ? '' : `<p><a class="ouvrir-atlas" href="${esc(lien)}">${prep ? 'Voir le dossier →' : "Ouvrir l'atlas →"}</a></p>`}</details>`;
     };
     const groupe = (type, titre) => { const as = reg.atlas.filter(a => a.type === type); return as.length ? `<p class="mini">${titre}</p>` + as.map(carte1).join('') : ''; };
     $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages');

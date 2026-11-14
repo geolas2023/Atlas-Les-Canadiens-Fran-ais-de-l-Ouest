@@ -126,3 +126,12 @@ details[open] > .titre-bloc::before { transform: rotate(90deg); }
 .groupe > summary input { margin: 0; }
 .groupe-corps { padding-left: 1.35rem; border-left: 1px dotted #c9bba3; margin-left: .35rem; }
 .groupe-corps label { font-size: .82rem; }
+
+/* Atlas du réseau : liste repliable */
+details.atlas-carte { padding: .35rem .7rem; }
+details.atlas-carte > summary { list-style: none; cursor: pointer; font-family: "IM Fell English", Georgia, serif; font-size: 1.05rem; }
+details.atlas-carte > summary::-webkit-details-marker { display: none; }
+details.atlas-carte > summary::before { content: "▸"; display: inline-block; width: 1em; color: var(--c); transition: transform .15s; }
+details.atlas-carte[open] > summary::before { transform: rotate(90deg); }
+details.atlas-carte[open] > summary { margin-bottom: .25rem; }
+details.atlas-carte .ouvrir-atlas { display: inline-block; padding: .15rem .6rem; background: var(--c); color: #fff; text-decoration: none; border-radius: 3px; font-size: .82rem; }
