@@ -8637,37 +8637,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -90.189,
-     38.6157
-    ]
-   },
-   "properties": {
-    "id": "A-L100",
-    "nom": "Saint-Louis : angle des rues Second et Lombard, les Provost et les Lambert (1840-1845)",
-    "corpus": "Atlas Aubry",
-    "theme": "etablissement",
-    "debut": 1840.0,
-    "fin": 1851.0,
-    "date_edtf": "1840/1845",
-    "precision": "annee",
-    "certitude": "approximative",
-    "personnages": [
-     "François-Xavier Aubry",
-     "Moïse Lamoureux",
-     "Etienne Provost"
-    ],
-    "description": "Deux annuaires placent un Provost à ce carrefour du quartier canadien-français du sud de la vieille ville : « Provost, H. N., grocery, c Second and Lumber » (1840-1841, « Lumber » étant sans doute une coquille pour Lombard), puis « Provost HN, sw corner Second and Lombard » (Green, 1845, p. 144). À l'angle opposé, la même année : « Lambert Clement, coffee-house, ne corner Second and Lombard » (p. 103). Or Étienne Provost (1785-1850), le « Man of the Mountains » né à Chambly, avait épousé Marie-Rose Lambert, et Jack B. Tykal écrit qu'il tint taverne et épicerie (« grocery ») à Saint-Louis à partir de 1827 environ ; à sa mort, le registre de la cathédrale l'inscrit comme époux de « Maria Rose Lombard [sic] ». Gilles Havard situe Étienne dans ce quartier, encore appelé Frenchtown dans les années 1840, d'après l'annuaire de 1847 et le recensement municipal de 1845. Mais prudence : l'annuaire de 1851, publié après la mort d'Étienne (3 juillet 1850), inscrit encore « Provost Henry N., mountain trader, 244 s Second ». Le « H. N. Provost » de l'angle Second et Lombard est donc vraisemblablement un autre homme, peut-être un parent d'Étienne ; l'adresse d'Étienne lui-même reste à lire dans l'annuaire de 1847 (p. 153) et dans le recensement de 1845. Le carrefour est à quatre rues au sud de la maison de Moïse Lamoureux (angle nord-ouest des rues Second et Poplar en 1845, fiche L96), lui aussi natif de Chambly, et tout près du domicile des Blanchard vers 1842 (fiche L94). Aucun document ne montre qu'Aubry et Étienne Provost se soient rencontrés ; mais de 1843 à 1846, Aubry vit et travaille dans ce petit monde canadien-français de la rue Second. Le carrefour était hors de la zone rasée en 1939-1942 pour le parc de la Gateway Arch, qui s'arrêtait à la rue Poplar. En 1952, le studio Sievers photographie, juste au sud de l'angle, côté est de la rue Second, les nos 914-916 South Second (Wagner's Cafe et Wagner's Buffet), deux immeubles de brique anciens avec, à l'arrière-plan, l'enseigne de la Corneli Seed Co. (101, avenue Chouteau).",
-    "sources": "The St. Louis Directory for the Years 1840-1 (St. Louis City Directories 1821-1877, Washington University Libraries) ; Green's St. Louis Directory for 1845, p. 103 et 144 (HathiTrust, hvd.hn4h26) ; Green's St. Louis Directory for 1851, p. 281 (HathiTrust, hvd.hn4h22) ; Tykal, Jack B. (1989), Etienne Provost: Man of the Mountains, Liberty (Utah), Eagle's View ; Tykal, « Provost, Etienne », Utah History Encyclopedia (uen.org) ; Havard, Gilles (2019), L'Amérique fantôme. Les aventuriers francophones du Nouveau Monde, Paris, Flammarion, ch. 8 « L'homme des montagnes : Étienne Provost », notes 87, 130 et 138 (cairn.info) ; Missouri Historical Society, studio Sievers, « Wagner's Cafe at 914 South Second Street and Wagner's Buffet at 916 South Second Street », 27 juin 1952, P0403-52375 (mohistory.org/collections/item/P0403-52375).",
-    "note": "Position estimée à quatre rues au sud de l'angle Second et Poplar ; les annuaires donnent l'angle, pas de coordonnées. L'identification du « H. N. Provost » reste ouverte.",
-    "images": [],
-    "transcription": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -103.92,
      41.95
     ]
@@ -90294,8 +90263,8 @@
      "Etienne Provost",
      "Marie-Rose Lambert"
     ],
-    "description": "Retiré des montagnes, Étienne Provost meurt à Saint-Louis le 3 juillet 1850 ; il est inhumé le lendemain depuis la vieille cathédrale, dont le registre l'inscrit comme époux de « Maria Rose Lombard » (Marie-Rose Lambert). Le même 3 juillet, François-Xavier Aubry arrive à Independence au terme de son « retour éclair » de juin 1850 : aucune source ne montre que les deux hommes se soient connus.",
-    "sources": "Tykal, Jack B. (1989), Etienne Provost: Man of the Mountains, Liberty (Utah), Eagle's View ; Havard, Gilles (2019), L'Amérique fantôme. Les aventuriers francophones du Nouveau Monde, Paris, Flammarion, ch. 8 « L'homme des montagnes : Étienne Provost » ; registre des sépultures de la vieille cathédrale de Saint-Louis, 4 juillet 1850, d'après Atlas Aubry, page « Le réseau francophone », section « Aubry et Étienne Provost : ce qu'on sait » (geolas2023.github.io/Atlas-Aubry/reseau.html#provost).",
+    "description": "Retiré des montagnes, Étienne Provost meurt à Saint-Louis le 3 juillet 1850 ; il est inhumé le lendemain depuis la vieille cathédrale, dont le registre l'inscrit comme époux de « Maria Rose Lombard » (Marie-Rose Lambert).",
+    "sources": "Tykal, Jack B. (1989), Etienne Provost: Man of the Mountains, Liberty (Utah), Eagle's View ; Havard, Gilles (2019), L'Amérique fantôme. Les aventuriers francophones du Nouveau Monde, Paris, Flammarion, ch. 8 « L'homme des montagnes : Étienne Provost » ; registre des sépultures de la vieille cathédrale de Saint-Louis, 4 juillet 1850, d'après enquête d'O. J. Caron pour l'Atlas Aubry (2026), versée dans cet atlas.",
     "note": "Point placé à la vieille cathédrale (basilique Saint-Louis-Roi-de-France), paroisse des Canadiens de Saint-Louis."
    }
   },
@@ -90322,7 +90291,7 @@
      "Etienne Provost"
     ],
     "description": "Selon Jack B. Tykal, Étienne Provost tient à Saint-Louis, à partir de 1827 environ, une taverne et une épicerie (« grocery »), entre ses saisons dans les montagnes au service de l'American Fur Company.",
-    "sources": "Tykal, Jack B. (1989), Etienne Provost: Man of the Mountains, Liberty (Utah), Eagle's View ; Tykal, Jack B., « Provost, Etienne », Utah History Encyclopedia (uen.org), d'après Atlas Aubry, page « Le réseau francophone », section « Aubry et Étienne Provost : ce qu'on sait » (geolas2023.github.io/Atlas-Aubry/reseau.html#provost).",
+    "sources": "Tykal, Jack B. (1989), Etienne Provost: Man of the Mountains, Liberty (Utah), Eagle's View ; Tykal, Jack B., « Provost, Etienne », Utah History Encyclopedia (uen.org), d'après enquête d'O. J. Caron pour l'Atlas Aubry (2026), versée dans cet atlas.",
     "note": "Adresse inconnue : point placé dans le Frenchtown de la rue Second, où Havard situe Provost. À préciser par l'annuaire de 1847 (p. 153)."
    }
   },
@@ -90349,8 +90318,8 @@
      "Etienne Provost",
      "Moïse Lamoureux"
     ],
-    "description": "Gilles Havard situe Étienne Provost dans le quartier canadien-français au sud de la vieille cathédrale, encore appelé Frenchtown dans les années 1840 (rues Second et Third, entre Poplar et Lombard), d'après l'annuaire de 1847 et le recensement municipal de 1845. C'est le quartier de Moïse Lamoureux, natif de Chambly comme Provost (angle Second et Poplar en 1845), et des Blanchard, chez qui Aubry aurait logé en 1843.",
-    "sources": "Havard, Gilles (2019), L'Amérique fantôme. Les aventuriers francophones du Nouveau Monde, Paris, Flammarion, ch. 8 « L'homme des montagnes : Étienne Provost », notes 87, 130 et 138, d'après Atlas Aubry, page « Le réseau francophone », section « Aubry et Étienne Provost : ce qu'on sait » (geolas2023.github.io/Atlas-Aubry/reseau.html#provost).",
+    "description": "Gilles Havard situe Étienne Provost dans le quartier canadien-français au sud de la vieille cathédrale, encore appelé Frenchtown dans les années 1840 (rues Second et Third, entre Poplar et Lombard), d'après l'annuaire de 1847 et le recensement municipal de 1845. C'est aussi le quartier de Moïse Lamoureux, natif de Chambly comme Provost (angle nord-ouest des rues Second et Poplar en 1845).",
+    "sources": "Havard, Gilles (2019), L'Amérique fantôme. Les aventuriers francophones du Nouveau Monde, Paris, Flammarion, ch. 8 « L'homme des montagnes : Étienne Provost », notes 87, 130 et 138, d'après enquête d'O. J. Caron pour l'Atlas Aubry (2026), versée dans cet atlas.",
     "note": "À vérifier : l'entrée de Provost dans le St. Louis Directory de 1847 (p. 153) et dans le recensement municipal de 1845 (Missouri Historical Society)."
    }
   },
@@ -90378,8 +90347,37 @@
      "Etienne Provost"
     ],
     "description": "L'annuaire de 1851, publié après la mort d'Étienne, inscrit encore « Provost Henry N., mountain trader, 244 s Second ». Le « H. N. Provost » des annuaires de 1840-1841 et de 1845 (épicier à l'angle sud-ouest des rues Second et Lombard) est donc vraisemblablement un autre homme, peut-être un parent d'Étienne, lui aussi lié au commerce des montagnes.",
-    "sources": "Green's St. Louis Directory for 1851, p. 281 (HathiTrust, hvd.hn4h22), d'après Atlas Aubry, page « Le réseau francophone », section « Aubry et Étienne Provost : ce qu'on sait » (geolas2023.github.io/Atlas-Aubry/reseau.html#provost).",
-    "note": "Position estimée sur la rue Second ; la numérotation de 1851 n'est pas repérée. Identification de Henry N. Provost ouverte (voir la fiche A-L100)."
+    "sources": "Green's St. Louis Directory for 1851, p. 281 (HathiTrust, hvd.hn4h22), d'après enquête d'O. J. Caron pour l'Atlas Aubry (2026), versée dans cet atlas.",
+    "note": "Position estimée sur la rue Second ; la numérotation de 1851 n'est pas repérée. Identification de Henry N. Provost ouverte (voir la fiche PV-05)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.189,
+     38.6157
+    ]
+   },
+   "properties": {
+    "id": "PV-05",
+    "nom": "Saint-Louis : angle des rues Second et Lombard, les Provost et les Lambert",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1840.0,
+    "fin": 1845.999,
+    "date_edtf": "1840/1845",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henry N. Provost",
+     "Clément Lambert",
+     "Etienne Provost"
+    ],
+    "description": "Deux annuaires placent un Provost à ce carrefour du Frenchtown : « Provost, H. N., grocery, c Second and Lumber » (1840-1841, « Lumber » étant sans doute une coquille pour Lombard), puis « Provost HN, sw corner Second and Lombard » (Green, 1845, p. 144). À l'angle opposé, la même année : « Lambert Clement, coffee-house, ne corner Second and Lombard » (p. 103). Or Étienne Provost avait épousé Marie-Rose Lambert, et Tykal écrit qu'il tint taverne et épicerie à Saint-Louis à partir de 1827 environ. Mais l'annuaire de 1851, publié après la mort d'Étienne, inscrit encore « Provost Henry N., mountain trader » : le « H. N. Provost » du carrefour est donc vraisemblablement un autre homme, peut-être un parent. Le carrefour était hors de la zone rasée en 1939-1942 pour le parc de la Gateway Arch ; le studio Sievers a photographié en 1952 les nos 914-916 South Second, juste au sud de l'angle.",
+    "sources": "The St. Louis Directory for the Years 1840-1 (St. Louis City Directories 1821-1877, Washington University Libraries) ; Green's St. Louis Directory for 1845, p. 103 et 144 (HathiTrust, hvd.hn4h26) ; Green's St. Louis Directory for 1851, p. 281 (HathiTrust, hvd.hn4h22) ; Tykal, Jack B. (1989), Etienne Provost: Man of the Mountains, Liberty (Utah), Eagle's View ; Havard, Gilles (2019), L'Amérique fantôme. Les aventuriers francophones du Nouveau Monde, Paris, Flammarion, ch. 8 « L'homme des montagnes : Étienne Provost », notes 87, 130 et 138 ; Missouri Historical Society, studio Sievers, « Wagner's Cafe at 914 South Second Street and Wagner's Buffet at 916 South Second Street », 27 juin 1952, P0403-52375.",
+    "note": "Position estimée à quatre rues au sud de l'angle Second et Poplar ; les annuaires donnent l'angle, pas de coordonnées. Contenu de l'ancienne fiche L100 de l'Atlas Aubry."
    }
   }
  ]
