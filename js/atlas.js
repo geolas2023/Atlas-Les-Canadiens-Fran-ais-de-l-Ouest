@@ -27,6 +27,8 @@ const GROUPES_CORPUS = [
   ['Régions', ['Illinois français', 'Nouvelle-Angleterre', "Piste de l'Oregon"]],
   ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville']]
 ];
+// Vue d'ouverture de l'accueil du réseau : toute l'Amérique du Nord, du golfe d'Alaska aux Antilles
+const VUE_ACCUEIL = [[-165, 14], [-30, 71]];
 // Couleur réservée à Maurice LeDuc (salle de lecture)
 const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
@@ -290,7 +292,7 @@ async function demarrer() {
   await charger();
   carte = new maplibregl.Map({
     container: 'carte', style: 'https://tiles.openfreemap.org/styles/positron',
-    center: [-100, 39], zoom: 3.6, attributionControl: { compact: true }
+    center: [-97, 46.5], zoom: 2.8, attributionControl: { compact: true }
   });
   carte.addControl(new maplibregl.NavigationControl(), 'top-right');
   carte.addControl(new maplibregl.ScaleControl({ unit: 'metric' }), 'bottom-left');
@@ -369,7 +371,7 @@ async function demarrer() {
     const vis = filtrer();
     const id = decodeURIComponent(location.hash.slice(1));
     if (id && trouver(id)) { afficherFiche(id); carte.jumpTo({ center: trouver(id).geometry.coordinates, zoom: 8 }); }
-    else cadrer(vis);
+    else carte.fitBounds(VUE_ACCUEIL, { padding: 0, duration: 0 });
   });
 
   $('#btn-apropos').onclick = () => $('#apropos').showModal();
@@ -408,6 +410,7 @@ function afficherAccueil() {
   $('#panneau').scrollTop = 0;
   history.replaceState(null, '', location.pathname);
   if (carte && carte.getSource && carte.getSource('selection')) carte.getSource('selection').setData({ type: 'FeatureCollection', features: [] });
+  if (carte && carte.fitBounds) carte.fitBounds(VUE_ACCUEIL, { padding: 0, duration: 1200 });
 }
 chargerReseau();
 document.getElementById('btn-atlas').onclick = afficherAccueil;
