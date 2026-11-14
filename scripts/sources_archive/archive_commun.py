@@ -53,15 +53,18 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
         brut, naissance, lieux = parts[0], parts[1], parts[2]
         ref = parts[3] if len(parts) > 3 else ''
         nom = beau_nom(brut)
-        segs = [s.strip() for s in lieux.split(';') if s.strip()]
+        segs = [s.strip() for s in re.split(r';(?![^{]*\})', lieux) if s.strip()]
         lus = []
         for s in segs:
+            mc = re.search(r'\{(.*?)\}\s*$', s)
+            ctx = mc.group(1).strip().rstrip('.') if mc else ''
+            if mc: s = s[:mc.start()].strip()
             edtf, an, lieu = dates(s)
             if lieu not in G: inconnus.add(lieu); continue
             if not edtf: sans_date += 1; continue
-            lus.append((lieu, edtf, an))
-        autres = [G[l][3] for l, _, _ in lus]
-        for lieu, edtf, an in lus:
+            lus.append((lieu, edtf, an, ctx))
+        autres = [G[l][3] for l, _, _, _ in lus]
+        for lieu, edtf, an, ctx in lus:
             lon, lat, cert, lieu_fr = G[lieu]
             base = f"{prefixe}-{slug(brut)}-{slug(lieu)[:10]}"
             k = vus.get(base, 0); vus[base] = k + 1
@@ -70,19 +73,31 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
             elif (lieu, an) in EVENEMENTS: theme = 'evenement'
             elif lieu.startswith('Fort') or 'House' in lieu: theme = 'poste'
             else: theme = theme_defaut
-            fem = 'e' if re.search(r'Sœur|Mère|Marie-Anne|Zoé|Lisette|Reine|demoiselles', brut) else ''
+            if ctx and re.search(r"\b(tué|tuée|massacr|bataille|combat|assassin|noyé|attaque|siège|capture|prise du fort)", ctx) and theme != 'religion': theme = 'evenement'
+            fem = 'e' if re.search(r'Sœur|Mère|Marie|Zoé|Lisette|Reine|demoiselles|Charlotte|Louise|Josephte|Suzanne|Domitilde|Emilie|Élisabeth|Elizabeth|Henriette|Virginie|Marguerite|Adèle|Julie|Geneviève|Catherine|Paulette|\(f\)', brut) else ''
             mn = re.match(r'^(\d{4})(?:,\s*(.+))?$', naissance)
             ne = (f", né{fem} en {mn.group(1)}" + (f" à {mn.group(2)}" if mn.group(2) else '')) if mn else (f", né{fem} à {naissance}" if naissance else '')
             ailleurs = [a for a in autres if a != lieu_fr]
-            desc = (f"D'après {livre['court']}, {nom}{ne}{',' if ne else ''} est associé{fem} à ce lieu ({lieu_fr}) en {edtf.replace('~', 'vers ').replace('/', '-') if '~' not in edtf else 'vers ' + edtf.replace('~', '').replace('/', '-')}."
+            quand = edtf.replace('/', '-') if '~' not in edtf else 'vers ' + edtf.replace('~', '').replace('/', '-')
+            if ctx:
+                if re.match(r"(sa|son|ses|le|la|les|l')\b", ctx) or re.search(r"\b(il|elle)\b", ctx[:70]):
+                    phrase = f"{nom}{ne}. {ctx[0].upper() + ctx[1:]}."
+                else:
+                    phrase = f"{nom}{ne}{',' if ne else ''} {ctx}."
+                desc = (f"{lieu_fr[0].upper() + lieu_fr[1:]}, {quand}. {phrase} "
+                        f"D'après {livre['court']}."
                     + (f" Autres lieux de l'entrée : {', '.join(dict.fromkeys(ailleurs))}." if ailleurs else ''))
-            url = f"https://archive.org/details/{ident}" + (f"?q={re.sub(r'[^A-Za-zÀ-ÿ]+', '+', brut.split(',')[0].strip())}" if lien_recherche else '')
+            else:
+                desc = (f"D'après {livre['court']}, {nom}{ne}{',' if ne else ''} est associé{fem} à ce lieu ({lieu_fr}) en {quand}."
+                    + (f" Autres lieux de l'entrée : {', '.join(dict.fromkeys(ailleurs))}." if ailleurs else ''))
+            idf = ident(ref) if callable(ident) else ident
+            url = f"https://archive.org/details/{idf}" + (f"?q={re.sub(r'[^A-Za-zÀ-ÿ]+', '+', brut.split(',')[0].strip())}" if lien_recherche else '')
             d, f, prec = bornes(edtf)
             out.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": {
                 "id": ident_fiche, "nom": f"{lieu_fr[0].upper() + lieu_fr[1:]} : {nom}", "corpus": f"{CORPUS} · {livre['court']}", "theme": theme,
                 "debut": d, "fin": f, "date_edtf": edtf, "precision": prec, "certitude": CERT[cert],
                 "personnages": [nom], "description": desc,
-                "sources": f"{livre['ref']}, {citer(brut, ref)} ; texte intégral : archive.org, {ident}.",
+                "sources": f"{livre['ref']}, {citer(brut, ref)} ; texte intégral : archive.org, {idf}.",
                 "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
                 "livre": livre['court'],
                 "voir_aussi": [{"url": url, "texte": f"Lire {livre['court']} sur archive.org →"}]}})

@@ -113,10 +113,12 @@ GitHub Pages laisse les navigateurs garder les fichiers en cache une dizaine de 
 
 Dépouillement des livres du **domaine public** d'archive.org sur les francophones d'Amérique du Nord hors Québec : chaque livre forme un corpus `archive.org · <livre>` (groupe « Bibliothèque archive.org » du filtre Corpus).
 
-- Méthode : lecture du texte intégral (OCR) par tranches ; une ligne par personne dans `scripts/sources_archive/<livre>.txt` (`NOM, Prénoms | naissance | lieu, année; … | référence`) ; lieux résolus par `scripts/sources_archive/lieux_ouest.py` ; une fiche par lieu daté. Script : `scripts/ajouts_archive.py` (après `ajouts_2026_11b.py`, avant `hub.py`).
+- Méthode : lecture du texte intégral (OCR) par tranches ; une ligne par personne dans `scripts/sources_archive/<livre>.txt` (`NOM, Prénoms | naissance | lieu, année {contexte}; … | référence`) ; lieux résolus par `scripts/sources_archive/lieux_ouest.py` ; une fiche par lieu daté, avec le contexte de la présence (rôle, événement) paraphrasé du livre. Script : `scripts/ajouts_archive.py` (après `ajouts_2026_11b.py`, avant `hub.py`).
 - Chaque fiche cite le livre (entrée ou page) et renvoie au livre sur archive.org (recherche du nom dans le texte). Repérage à vérifier ; localisation attribuée par l'atlas.
 - Livres sous droit d'auteur (Hafen, *The Mountain Men* ; Lecompte) : prêt seulement sur archive.org, non lisibles ici ; à fournir en PDF.
 
 | Livre | Identifiant archive.org | Fiches |
 |---|---|---|
 | Morice, *Dictionnaire historique des Canadiens et des Métis français de l'Ouest* (1908) | `dictionnairehist00mori` | 715 |
+| Larpenteur, *Forty Years a Fur Trader on the Upper Missouri*, éd. Coues (1898), 2 vol. | `fortyyearsfurtra01larpiala`, `fortyyearsfurtra02larpiala` | 129 |
+| Tassé, *Les Canadiens de l'Ouest* (1878), 2 tomes | `cihm_33778`, `cihm_33779` | 555 |
