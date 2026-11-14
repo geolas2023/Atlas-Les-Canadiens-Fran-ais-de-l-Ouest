@@ -1,0 +1,440 @@
+{
+ "type": "FeatureCollection",
+ "name": "sarpy",
+ "personnage": {
+  "id": "sarpy",
+  "nom": "Pierre (Peter A.) Sarpy",
+  "auteur": "John E. Wickman",
+  "pages": "288-301",
+  "vie": "1805-1865",
+  "hafen": "Peter Sarpy",
+  "chapeau": "Fils de Grégoire Sarpy et de Pélagie L'Abadie, maître du poste de Bellevue au confluent de la Platte, redoutable concurrent au fort Jackson sur la South Platte, passeur, maître de poste et fondateur de villes ; le Nebraska a donné son nom à un comté.",
+  "couleur": "#6d4c41"
+ },
+ "bibliographie": [
+  "John E. Wickman, « Pierre (Peter A.) Sarpy », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 288-301."
+ ],
+ "inedits": [
+  "Chouteau Collection, MHS : factures 1830-1831, correspondance Sarpy-Fraeb-Chouteau (1837-1838), accord de cartel de 1838, documents du vapeur Nebraska (1854).",
+  "AFC Western Division, ledger Z (1836-1839), MHS.",
+  "Michael A. Shine, discours manuscrit de janvier 1921, Nebraska State Historical Society.",
+  "St. Mary Gazette (Iowa), années 1850 : collection à localiser.",
+  "Registres de baptême de Saint-Louis, 1805, et de Calvary Cemetery, 1865."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "sarpy-01",
+    "ordre": 1,
+    "nom": "Saint-Louis : naissance (3 nov. 1805)",
+    "phase": "Saint-Louis",
+    "debut": 1805.84,
+    "fin": 1830.0,
+    "date_edtf": "1805-11-03",
+    "certitude": "certaine",
+    "description": "Second fils de Grégoire Bérold Sarpy et de Pélagie L'Abadie, apparenté aux Chouteau. Baptisé Pierre Sylvestre Grégoire, il prend, comme son frère Jean-Baptiste, la forme anglaise « Peter A. Sarpy » (A pour L'Abadie).",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 288",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.83,
+     41.1
+    ]
+   },
+   "properties": {
+    "id": "sarpy-02",
+    "ordre": 2,
+    "nom": "St. Mary (Iowa) : le poste de la rive est",
+    "phase": "Bellevue",
+    "debut": 1830.0,
+    "fin": 1857.0,
+    "date_edtf": "183X/1857",
+    "certitude": "approximative",
+    "description": "Il opère aussi depuis St. Mary, en face, où il ouvre plus tard un bureau de poste et fonde un journal, le St. Mary Gazette.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 290",
+    "note": "Emplacement de St. Mary (disparu) estimé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "sarpy-03",
+    "ordre": 3,
+    "nom": "Fort Bellevue : le poste du confluent de la Platte (1824 ? ou 1833-1862)",
+    "phase": "Bellevue",
+    "debut": 1830.0,
+    "fin": 1862.0,
+    "date_edtf": "1830~/1862",
+    "certitude": "approximative",
+    "description": "Selon la tradition, Cabanné lui aurait cédé Bellevue en 1824, ce qui ferait de lui le « premier résident blanc du Nebraska » ; Michael Shine (1921) le dit arrivé en 1833 seulement. Les factures de 1830-1831 (« Alexander L. Papin and Sarpy ») montrent un compte indépendant dès 1831. Petit, trapu, brun, il doit beaucoup à sa femme Nicomi, fille d'un chef iowa.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 288 — note de l'auteur : J. L. Sellers, DAB XVI, p. 370 ; J. Moffette, Territories of Kansas and Nebraska (1855), p. 47 ; M. A. Shine, ms., Nebraska Historical Society, 1921 ; factures 1830-1831, Chouteau Collection, Missouri Historical Society",
+    "note": "Date d'arrivée contestée (1824, années 1820 ou 1833). Le rôle de Peter ou de John B. Sarpy dans l'affaire Leclerc (1832) reste incertain."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "sarpy-04",
+    "ordre": 4,
+    "nom": "Poste de Cyprien Chouteau sur la Kansas : préparatifs (oct. 1836-avril 1837)",
+    "phase": "Fort Jackson",
+    "debut": 1836.8,
+    "fin": 1837.27,
+    "date_edtf": "1836-10/1837-04",
+    "certitude": "certaine",
+    "description": "Associé à Henry Fraeb par Pratte, Chouteau & Co., il passe par Fort Leavenworth et hiverne au poste de Cyprien Chouteau ; il en part avec quinze hommes et quatre chariots.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 292 — note de l'auteur : Cyprien Chouteau à J. B. Sarpy, oct. 1838, Chouteau Collection, Missouri Historical Society ; AFC Western Division, ledger Z, 1836-1839, p. 106-107, 218, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.79,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "sarpy-05",
+    "ordre": 5,
+    "nom": "Fort Jackson : la guerre commerciale de la South Platte (1837-1838)",
+    "phase": "Fort Jackson",
+    "debut": 1837.4,
+    "fin": 1838.6,
+    "date_edtf": "1837/1838",
+    "certitude": "certaine",
+    "description": "Stock initial de 10 909,75 $ (tasses de fer-blanc, pièges, vêtements, couvertures, cinq barils de whisky facturés 199,50 $ pour une valeur de 100 $), intérêts de 7 % par mois sur le solde : d'où la hâte des traiteurs. Fraeb tient le fort ; James Robertson couvre le sud jusqu'à l'Arkansas. Chouteau, le 18 août 1837, refuse les méthodes agressives proposées par Sarpy et prône la loyauté.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 293 — note de l'auteur : facture du 10 mai 1837 et P. Chouteau Jr. à Sarpy, 18 août 1837, Chouteau Collection, Missouri Historical Society ; L. R. Hafen, « Fort Jackson and the Early Fur Trade on the South Platte », Colorado Magazine v, p. 9-17",
+    "note": "Plus de 20 000 $ d'affaires en deux saisons."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.0,
+     41.9
+    ]
+   },
+   "properties": {
+    "id": "sarpy-06",
+    "ordre": 6,
+    "nom": "North Platte : huit milles de « B. Woods » (déc. 1837)",
+    "phase": "Fort Jackson",
+    "debut": 1837.9,
+    "fin": 1838.1,
+    "date_edtf": "1837-12",
+    "certitude": "approximative",
+    "description": "Hamilton écrit le 22 décembre 1837 que Sarpy, installé à huit milles de son concurrent Woods, lui a enlevé une bonne part de la traite.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 294 — note de l'auteur : J. A. Hamilton à P. Chouteau Jr., 22 déc. 1837, Chouteau-Papin Collection, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "sarpy-07",
+    "ordre": 7,
+    "nom": "Fort Laramie : il achète les robes de Marcellin St. Vrain (18 févr. 1838)",
+    "phase": "Fort Jackson",
+    "debut": 1838.13,
+    "fin": 1838.14,
+    "date_edtf": "1838-02-18",
+    "certitude": "certaine",
+    "description": "Il écrit à Fraeb que les affaires sont excellentes : il a racheté les ballots de robes de Marcellin St. Vrain, écartant ce rival, et attendu que Papin et Picotte soient à court de marchandises.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 295 — note de l'auteur : Sarpy à Fraeb, 18 févr. 1838, Chouteau Collection, Missouri Historical Society",
+    "note": "Croise la notice de Marcellin St. Vrain, qui vendit ses robes au fort Jackson."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.786,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "sarpy-08",
+    "ordre": 8,
+    "nom": "Vente de Fort Jackson à Bent, St. Vrain & Co. (été 1838)",
+    "phase": "Fort Jackson",
+    "debut": 1838.3,
+    "fin": 1838.7,
+    "date_edtf": "1838-04-18/1838-08-05",
+    "certitude": "certaine",
+    "description": "Trop efficaces pour être battus, les associés sont rachetés : Chouteau garde la North Platte, Bent et St. Vrain prennent tout le sud. Fontenelle règle le 5 août le sort des biens restés au fort, envoyés par Fort Laramie jusqu'à Bellevue.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 296 — note de l'auteur : Fraeb à Céran St. Vrain, 18 avril 1838 ; Fontenelle à Sarpy, 5 août 1838 ; accord de cartel, Chouteau Collection, Missouri Historical Society ; Lavender, Bent's Fort, p. 193",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.886,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "sarpy-09",
+    "ordre": 9,
+    "nom": "Bellevue : mormons, chercheurs d'or et bureau de poste (1846-1849)",
+    "phase": "Bellevue",
+    "debut": 1846.0,
+    "fin": 1852.0,
+    "date_edtf": "1846/1852",
+    "certitude": "certaine",
+    "description": "Explorateurs, émigrants, Brigham Young et ses mormons, puis les chercheurs d'or de 1849 trouvent chez lui vivres et conseils ; il ouvre un bureau de poste en 1849.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 298 — note de l'auteur : S. Allis, « Forty Years Among the Indians », NSHS Transactions II, p. 161-163 ; S. D. Bangs, « History of Sarpy County », ibid., p. 245, 294-299",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.146
+    ]
+   },
+   "properties": {
+    "id": "sarpy-10",
+    "ordre": 10,
+    "nom": "Bellevue : le bac à vapeur Nebraska (1852-1854)",
+    "phase": "Bellevue",
+    "debut": 1852.75,
+    "fin": 1860.0,
+    "date_edtf": "1852-10/1854-04-01",
+    "certitude": "certaine",
+    "description": "Il loue d'abord un bac à G. P. Beauvais (400 $ d'octobre 1852 à avril 1853), puis acquiert en 1854 le vapeur Nebraska (près de 165 tonneaux, 121 pieds, grand rouf, capitaine Scott F. Abbott).",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 299 — note de l'auteur : facture Beauvais, 31 mars 1853 ; documents d'immatriculation, 1er avril 1854, Chouteau Collection, Missouri Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.894,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "sarpy-11",
+    "ordre": 11,
+    "nom": "Cessions omahas et otos ; quartier-maître des volontaires (1854-1855)",
+    "phase": "Bellevue",
+    "debut": 1854.0,
+    "fin": 1855.99,
+    "date_edtf": "1854/1855",
+    "certitude": "certaine",
+    "description": "Il joue un rôle majeur dans les cessions de terres des Omahas et des Otos (1854), devient quartier-maître d'un régiment de volontaires du Nebraska (1855) ; Bellevue sert à la distribution des annuités. Lewis Henry Morgan le trouvera trop ivre pour l'aider dans ses études linguistiques.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 299 — note de l'auteur : Sellers ; Bangs ; L. H. Morgan, Indian Journals 1859-1862 (1959), p. 92",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.25,
+     42.007
+    ]
+   },
+   "properties": {
+    "id": "sarpy-12",
+    "ordre": 12,
+    "nom": "Decatur : fondation de la ville",
+    "phase": "Bellevue",
+    "debut": 1855.0,
+    "fin": 1857.0,
+    "date_edtf": "1855~",
+    "certitude": "approximative",
+    "description": "Il s'associe aux compagnies qui lotissent Bellevue et Decatur.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.88,
+     41.01
+    ]
+   },
+   "properties": {
+    "id": "sarpy-13",
+    "ordre": 13,
+    "nom": "Plattsmouth : mort (4 janv. 1865)",
+    "phase": "Dernières années",
+    "debut": 1862.0,
+    "fin": 1865.01,
+    "date_edtf": "1862/1865-01-04",
+    "certitude": "certaine",
+    "description": "Après la mort de son frère John B. (1857), il quitte la compagnie, puis Bellevue en 1862 pour Plattsmouth, où il meurt. Nicomi y reste, avec une rente ; la rumeur d'une fortune de 75 000 $ (Allis) n'est pas fondée selon Morton.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300 — note de l'auteur : J. S. Morton, History of Nebraska (1918), p. 57 ; Allis, p. 163",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.235,
+     38.698
+    ]
+   },
+   "properties": {
+    "id": "sarpy-14",
+    "ordre": 14,
+    "nom": "Cimetière Calvary de Saint-Louis : inhumation",
+    "phase": "Dernières années",
+    "debut": 1865.01,
+    "fin": 1865.1,
+    "date_edtf": "1865",
+    "certitude": "certaine",
+    "description": "Son corps est ramené et inhumé au cimetière Calvary.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.04,
+     41.155
+    ]
+   },
+   "properties": {
+    "id": "sarpy-15",
+    "ordre": 15,
+    "nom": "Comté de Sarpy (1857)",
+    "phase": "Mémoire",
+    "debut": 1857.0,
+    "fin": 1857.99,
+    "date_edtf": "1857",
+    "certitude": "certaine",
+    "description": "La législature du Nebraska donne son nom à un comté en 1857. Chevaux rapides, chiens de chasse, hospitalité légendaire et goût de l'alcool nourrissent les récits.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -95.83,
+      41.1
+     ],
+     [
+      -95.89,
+      41.15
+     ],
+     [
+      -94.7,
+      39.08
+     ],
+     [
+      -104.79,
+      40.18
+     ],
+     [
+      -104.0,
+      41.9
+     ],
+     [
+      -104.557,
+      42.203
+     ],
+     [
+      -104.786,
+      40.18
+     ],
+     [
+      -95.886,
+      41.15
+     ],
+     [
+      -95.89,
+      41.146
+     ],
+     [
+      -95.894,
+      41.15
+     ],
+     [
+      -96.25,
+      42.007
+     ],
+     [
+      -95.88,
+      41.01
+     ],
+     [
+      -90.235,
+      38.698
+     ]
+    ]
+   },
+   "properties": {
+    "id": "sarpy-parcours",
+    "nom": "Parcours de Pierre (Peter A.) Sarpy"
+   }
+  }
+ ]
+}

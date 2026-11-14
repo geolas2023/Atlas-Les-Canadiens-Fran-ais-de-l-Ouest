@@ -1,0 +1,521 @@
+{
+ "type": "FeatureCollection",
+ "name": "papin",
+ "personnage": {
+  "id": "papin",
+  "nom": "Pierre-Didier Papin",
+  "auteur": "William A. Goff",
+  "pages": "239-252",
+  "vie": "1798-1853",
+  "hafen": "Pierre Didier Papin",
+  "chapeau": "Rejeton d'une des plus vieilles familles de Saint-Louis, rival puis bourgeois de l'Upper Missouri Outfit à Fort Pierre et à Fort Laramie, associé de la compagnie ; il meurt en 1853 près de Scotts Bluff, loin de sa « chère Catiche ».",
+  "couleur": "#5a4fcf"
+ },
+ "bibliographie": [
+  "William A. Goff, « Pierre-Didier Papin », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 239-252."
+ ],
+ "inedits": [
+  "E. V. Papin Collection (lettres françaises à « Catiche », 1846-1851) et Chouteau-Papin Collection, MHS.",
+  "Rent Book of P. D. Papin (1849-1851), MHS.",
+  "Fort Tecumseh et Fort Pierre Letterbooks ; Day Book SS de l'Upper Missouri Outfit (1853).",
+  "Testament homologué le 24 juin 1853, Cour d'homologation de Saint-Louis.",
+  "Emplacement de la tombe des Wildcat Hills : dossiers de Scotts Bluff National Monument et de la Nebraska State Historical Society."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554,
+     45.507
+    ]
+   },
+   "properties": {
+    "id": "papin-01",
+    "ordre": 1,
+    "nom": "Montréal : l'ancêtre Pierre Papin, de la recrue de Ville-Marie (1653)",
+    "phase": "Origines",
+    "debut": 1653.0,
+    "fin": 1660.0,
+    "date_edtf": "1653",
+    "certitude": "certaine",
+    "description": "Le premier Papin d'Amérique, Pierre, né en 1631 dans le Maine (France), est à 22 ans officier de la recrue de M. de la Dauversière qui fonde Montréal (Ville-Marie). Trois générations vivent au Canada avant la fondation de Saint-Louis, où Joseph-Alexandre Papin accompagne Laclède en 1763.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 239 — note de l'auteur : Papin Papers et Chouteau-Papin Collection, Missouri Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.29,
+     38.637
+    ]
+   },
+   "properties": {
+    "id": "papin-02",
+    "ordre": 2,
+    "nom": "Concession Papin : l'actuel Forest Park (1er sept. 1796)",
+    "phase": "Saint-Louis",
+    "debut": 1796.67,
+    "fin": 1811.0,
+    "date_edtf": "1796-09-01",
+    "certitude": "certaine",
+    "description": "Après la faillite de Joseph-Marie Papin dans la traite (1796), le lieutenant-gouverneur Zenon Trudeau concède à sa femme 3 200 arpents couvrant presque tout l'actuel Forest Park et s'étendant au nord au-delà d'Olive Street ; rien n'indique que la famille y ait vécu.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 240 — note de l'auteur : Henri C. Berthe, lettre du 20 févr. 1938, MHS ; Mercantile Library",
+    "note": "Une rue Papin longe encore l'avenue Chouteau à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "papin-03",
+    "ordre": 3,
+    "nom": "Saint-Louis, rue Main : naissance (7 mars 1798)",
+    "phase": "Saint-Louis",
+    "debut": 1798.18,
+    "fin": 1826.7,
+    "date_edtf": "1798-03-07",
+    "certitude": "certaine",
+    "description": "Sixième fils de Joseph-Marie Papin et de Marie-Louise Bourgeois (Chouteau), il naît sans doute dans la maison de pierre à deux étages bâtie par son père en 1780 sur la rue Main. Bilingue, sans journal personnel ; ses frères sont presque tous dans la traite (Alexandre LaForce chez les Pawnees et Osages, Pierre Mellicourt agent des Osages et éponyme de Papinsville).",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 240 — note de l'auteur : J. T. Scharf, History of St. Louis City and County (1883), p. 130-131, 752 ; baptêmes de la cathédrale, Mercantile Library ; Papin Papers et Chouteau-Papin Collection, Missouri Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.196,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "papin-04",
+    "ordre": 4,
+    "nom": "Saint-Louis : contrat de mariage avec Catherine Louise Cerré (10 août 1826)",
+    "phase": "Saint-Louis",
+    "debut": 1826.6,
+    "fin": 1827.6,
+    "date_edtf": "1826-08-10",
+    "certitude": "certaine",
+    "description": "Il épouse « Catiche », fille unique de Léon Paschal Cerré et de Thérèse Lamy ; vingt-sept ans d'union, quatre enfants, vingt-six petits-enfants. Son nom paraît aux livres de l'American Fur Company dès mai 1825.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 242 — note de l'auteur : registres de la cathédrale, Mercantile Library ; Ledger H, American Fur Co. Books, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.37
+    ]
+   },
+   "properties": {
+    "id": "papin-05",
+    "ordre": 5,
+    "nom": "Fort Tecumseh : l'inventaire de la Columbia Fur Company (automne 1827)",
+    "phase": "Haut-Missouri",
+    "debut": 1827.7,
+    "fin": 1828.0,
+    "date_edtf": "1827",
+    "certitude": "certaine",
+    "description": "Envoyé par Ramsay Crooks, il aide Kenneth McKenzie à inventorier les biens de la Columbia Fur Company lors de sa fusion avec l'AFC (Upper Missouri Outfit).",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 243 — note de l'auteur : Chittenden, History of the American Fur Trade (1954), I, p. 326",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.385,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "papin-06",
+    "ordre": 6,
+    "nom": "« Papin's House » (Fort Teton, le Poste français) : l'Opposition (1829-1830)",
+    "phase": "Haut-Missouri",
+    "debut": 1829.5,
+    "fin": 1830.8,
+    "date_edtf": "1829/1830",
+    "certitude": "certaine",
+    "description": "P. D. Papin & Co. (Papin, Chenie fils, Michel et Gabriel Cerré, Honoré Picotte, Denis Guion, Delaurier, Louis Bompart), au capital de 16 000 $, défie l'Upper Missouri Outfit depuis un poste bâti en 1828 au sud de la Bad River. Malgré une barge naufragée, ils paient 16 000 $ de dettes au 1er juillet et arment une autre barge. On se reçoit pourtant à dîner entre rivaux et l'on part chasser ensemble à Medicine Hill.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 243 — note de l'auteur : Louis Bompart à Papin, Picotte et Guion, 19 août 1829, Bompart File, MHS ; P. D. Papin à P. M. Papin, 28 juillet 1830, Papin Papers et Chouteau-Papin Collection, Missouri Historical Society ; Fort Tecumseh Letterbooks, SDHC ix, p. 95",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.9,
+     46.3
+    ]
+   },
+   "properties": {
+    "id": "papin-07",
+    "ordre": 7,
+    "nom": "Entre les Arikaras et les Mandans : trois hommes de Papin tués (août 1830)",
+    "phase": "Haut-Missouri",
+    "debut": 1830.6,
+    "fin": 1830.65,
+    "date_edtf": "1830-08",
+    "certitude": "approximative",
+    "description": "Pierre Bouchet, Joseph Papiche et Baptiste Hébert, employés de P. D. Papin & Co., sont tués par un parti de guerre arikara ; marchandises et chevaux perdus valent 1 000 $. McKenzie rachète ensuite l'Opposition.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 243 — note de l'auteur : Fort Tecumseh Letterbooks, 24 août 1830, SDHC ix, p. 133 ; Western Monitor (Fayette, Mo.), 3 nov. 1830",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.6,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "papin-08",
+    "ordre": 8,
+    "nom": "White River : traiteur chez les Yanktonais et les Oglalas (1830-1834)",
+    "phase": "Haut-Missouri",
+    "debut": 1830.8,
+    "fin": 1834.5,
+    "date_edtf": "1830-10-16/1834",
+    "certitude": "certaine",
+    "description": "Contrat du 16 octobre 1830 à Fort Tecumseh : commis-traiteur trois ans à 1 000 $, salaire élevé ; en 1832, nouvel accord à 1 500 $. Il traite sur la White River sous l'œil grincheux de William Laidlaw.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 244 — note de l'auteur : accord du 16 oct. 1830, Chouteau-Maffitt Collection, MHS ; Papin à P. M. Papin, 27 août 1832",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "papin-09",
+    "ordre": 9,
+    "nom": "Fort Pierre : agent de l'Upper Missouri Outfit (1834-1839)",
+    "phase": "Haut-Missouri",
+    "debut": 1834.5,
+    "fin": 1839.4,
+    "date_edtf": "1834/1839",
+    "certitude": "certaine",
+    "description": "Il succède à Laidlaw à l'été 1834, au grand dépit de celui-ci. Son billet à Colin Campbell, à qui il confie le fort en partant pour Saint-Louis, contraste par sa courtoisie avec les reproches de Laidlaw. Le 10 mai 1839, Chardon le trouve à Fort Pierre avec Halsey.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 245 — note de l'auteur : Fort Pierre Letterbook ; Abel (éd.), Chardon's Journal at Fort Clark (1932), p. 194, 371",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "papin-10",
+    "ordre": 10,
+    "nom": "Fort John (Fort Laramie) : bourgeois du poste (1842-1848)",
+    "phase": "Fort Laramie",
+    "debut": 1842.7,
+    "fin": 1848.6,
+    "date_edtf": "1842/1848",
+    "certitude": "certaine",
+    "description": "Passé à Fort John entre 1839 et 1842 (il rattrape John Sibille en route en septembre 1842), il y reçoit un exprès de Bridger et Vasquez ; il redevient bourgeois à l'automne 1845. Au début de 1848, il accueille Joe Meek en route vers Washington, lui donne des mules fraîches et l'avertit d'un village sioux de six cents loges.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 246 — note de l'auteur : Kansas Historical Quarterly xxix, p. 443 ; W. D. Hodgkiss à A. Drips, dans W. M. Anderson, Rocky Mountain Journals (1967), p. 375 ; H. E. Tobie, No Man Like Joe (1949), p. 159",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.0,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "papin-11",
+    "ordre": 11,
+    "nom": "Sur la Platte : Parkman croise la flottille de Papin (juin 1846)",
+    "phase": "Fort Laramie",
+    "debut": 1846.35,
+    "fin": 1846.52,
+    "date_edtf": "1846-05-07/1846-07-06",
+    "certitude": "certaine",
+    "description": "Onze bateaux chargés de peaux longent la rive ; Papin, assis au milieu d'une barque sur la bâche de la cargaison, est « robuste, l'œil gris et malicieux » selon Parkman. Parti le 7 mai, le convoi arrive à Saint-Louis le 6 juillet avec 1 100 ballots de robes, 10 de castor et 3 d'ours et de loup. La compagnie le fait associé.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 247 — note de l'auteur : Parkman, dans Hafen et Young, Fort Laramie and the Pageant of the West (1938), p. 114-115 ; St. Louis Reveille, 27 juillet 1846 ; KHQ xxx, p. 374",
+    "note": "Position de la rencontre estimée sur la North Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7,
+     39.02
+    ]
+   },
+   "properties": {
+    "id": "papin-12",
+    "ordre": 12,
+    "nom": "À dix milles de Westport : « Chère femme » (8 sept. 1846)",
+    "phase": "Fort Laramie",
+    "debut": 1846.68,
+    "fin": 1846.69,
+    "date_edtf": "1846-09-08",
+    "certitude": "certaine",
+    "description": "Repartant vers Fort John, il écrit à sa femme qu'il s'en veut toujours de la quitter si longtemps et lui demande d'embrasser les enfants.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 248 — note de l'auteur : E. V. Papin Collection, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "papin-13",
+    "ordre": 13,
+    "nom": "Embouchure de la Kansas : à bord du Martha (7 juillet 1847)",
+    "phase": "Fort Laramie",
+    "debut": 1847.3,
+    "fin": 1847.52,
+    "date_edtf": "1847-04-20/1847-07-08",
+    "certitude": "certaine",
+    "description": "Parti de Fort Laramie le 20 avril avec Charles Beaumont et sept traiteurs, voyageant de nuit pour éviter les Indiens, il redescend sur le vapeur Martha avec John Sarpy et Honoré Picotte.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 248 — note de l'auteur : St. Louis Reveille et Daily News, 9 juillet 1847 ; KHQ, p. 514",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.554,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "papin-14",
+    "ordre": 14,
+    "nom": "Fort John : lettre à « Ma chère Catiche » (17 déc. 1847)",
+    "phase": "Fort Laramie",
+    "debut": 1847.79,
+    "fin": 1847.97,
+    "date_edtf": "1847-10-16/1847-12-17",
+    "certitude": "certaine",
+    "description": "Revenu au fort le 16 octobre avec Andrew Goodyear, il écrit à sa femme son amour et confie des lettres à deux mormons revenant de Californie (le Journal History mormon note leur rencontre avec le « propriétaire en chef de Fort John », 160 milles à l'est du fort).",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 249 — note de l'auteur : E. V. Papin Collection, MHS ; Journal History, Église mormone, 6 oct. 1847",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.202,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "papin-15",
+    "ordre": 15,
+    "nom": "Saint-Louis, angle 2e rue et Pine : il refuse de remonter (1848)",
+    "phase": "Fort Laramie",
+    "debut": 1848.55,
+    "fin": 1850.6,
+    "date_edtf": "1848-07-19/1850",
+    "certitude": "certaine",
+    "description": "Arrivé avec Hamilton, Culbertson et 70 hommes sur le Wyandotte, il décline en août de retourner au Missouri ; Drips prend Fort John. Ses loyers lui rapportent plus de 300 $ par mois.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 250 — note de l'auteur : St. Louis Daily Union, 20 juillet 1848 ; Rent Book of P. D. Papin, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.3,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "papin-16",
+    "ordre": 16,
+    "nom": "Fourches de la Cheyenne (févr. 1851)",
+    "phase": "Dernières années",
+    "debut": 1850.7,
+    "fin": 1851.3,
+    "date_edtf": "1850/1851",
+    "certitude": "approximative",
+    "description": "La vie de la traite le reprend : en 1850 il est sur le « Haut Mifsouri », et H. Renard lui écrit en février 1851 aux fourches de la Cheyenne que sa femme et ses enfants viennent dîner.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 250 — note de l'auteur : E. V. Papin Collection, MHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.75,
+     41.7
+    ]
+   },
+   "properties": {
+    "id": "papin-17",
+    "ordre": 17,
+    "nom": "Wildcat Hills (Scotts Bluff) : tombe solitaire (mai 1853)",
+    "phase": "Dernières années",
+    "debut": 1851.5,
+    "fin": 1853.4,
+    "date_edtf": "1853-05",
+    "certitude": "certaine",
+    "description": "Subalterne au nouveau Fort John de Scotts Bluff (solde de compte : 19 277,32 $), il meurt subitement en mai 1853. T. L. Green retrouve sa tombe dans les années 1930 : une souche de cèdre de trois pieds, reste d'une grande croix. Faute de connaître l'emplacement du nouveau fort, Catiche ne put rapatrier le corps.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 251 — note de l'auteur : Day Book SS, Upper Missouri Outfit, 24 févr. 1853 ; T. L. Green à Stella Drumm, Papin Collection ; Paul C. Henderson, 30 sept. 1970",
+    "note": "Aucune nécrologie trouvée dans le Missouri Republican ni l'Intelligencer de 1853."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.287,
+     38.641
+    ]
+   },
+   "properties": {
+    "id": "papin-18",
+    "ordre": 18,
+    "nom": "Jefferson Memorial : les portraits de Pierre et Catiche",
+    "phase": "Mémoire",
+    "debut": 1900.0,
+    "fin": 1970.0,
+    "date_edtf": "XXe s.",
+    "certitude": "certaine",
+    "description": "À l'entrée de la bibliothèque de la Missouri Historical Society, deux grands portraits se font face : Pierre-Didier Papin et Catherine Cerré Papin, donnés par leur fils Léon.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 252",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.554,
+      45.507
+     ],
+     [
+      -90.29,
+      38.637
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -90.196,
+      38.627
+     ],
+     [
+      -100.38,
+      44.37
+     ],
+     [
+      -100.385,
+      44.35
+     ],
+     [
+      -100.9,
+      46.3
+     ],
+     [
+      -100.6,
+      43.7
+     ],
+     [
+      -100.39,
+      44.38
+     ],
+     [
+      -104.557,
+      42.203
+     ],
+     [
+      -102.0,
+      41.15
+     ],
+     [
+      -94.7,
+      39.02
+     ],
+     [
+      -94.61,
+      39.115
+     ],
+     [
+      -104.554,
+      42.203
+     ],
+     [
+      -90.202,
+      38.627
+     ],
+     [
+      -102.3,
+      44.45
+     ],
+     [
+      -103.75,
+      41.7
+     ]
+    ]
+   },
+   "properties": {
+    "id": "papin-parcours",
+    "nom": "Parcours de Pierre-Didier Papin"
+   }
+  }
+ ]
+}

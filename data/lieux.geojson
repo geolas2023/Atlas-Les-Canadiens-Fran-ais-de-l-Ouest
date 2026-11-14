@@ -9091,33 +9091,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -95.89,
-     41.14
-    ]
-   },
-   "properties": {
-    "id": "H008",
-    "nom": "Bellevue (Nebraska) : poste de Peter Sarpy",
-    "corpus": "Hafen",
-    "theme": "poste",
-    "debut": 1824.0,
-    "fin": 1865.0,
-    "date_edtf": "1830/1865",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "Peter Sarpy"
-    ],
-    "description": "Peter A. Sarpy, de la famille créole Sarpy de Saint-Louis, dirige longtemps le poste de l'American Fur Company à Bellevue, sur le Missouri, et le bac sur le fleuve. Le comté de Sarpy porte son nom.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IV, notice « Peter Sarpy ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -102.94,
      42.81
     ]
@@ -9731,33 +9704,6 @@
     ],
     "description": "Pierre Chouteau fils, de Saint-Louis, rachète le département de l'Ouest de l'American Fur Company (Pratte, Chouteau & Co.). Le fort Pierre (1832), puis la capitale du Dakota du Sud, portent son nom.",
     "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « Pierre Chouteau, Jr. ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.558,
-     42.204
-    ]
-   },
-   "properties": {
-    "id": "H038",
-    "nom": "Fort Laramie : Pierre-Didier Papin",
-    "corpus": "Hafen",
-    "theme": "poste",
-    "debut": 1840.0,
-    "fin": 1853.0,
-    "date_edtf": "1840/1853",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Didier Papin"
-    ],
-    "description": "Membre d'une famille créole de Saint-Louis apparentée aux Chouteau, Pierre-Didier Papin est bourgeois au fort Laramie dans les années 1840 ; le « Papin's Ferry » sur la Kansas porte le nom de sa famille.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « Pierre Didier Papin ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
     "note": ""
    }
   },
@@ -13545,6 +13491,510 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.554,
+     45.507
+    ]
+   },
+   "properties": {
+    "id": "F-papin-01",
+    "nom": "Montréal : l'ancêtre Pierre Papin, de la recrue de Ville-Marie (1653)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1653.0,
+    "fin": 1660.0,
+    "date_edtf": "1653",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Le premier Papin d'Amérique, Pierre, né en 1631 dans le Maine (France), est à 22 ans officier de la recrue de M. de la Dauversière qui fonde Montréal (Ville-Marie). Trois générations vivent au Canada avant la fondation de Saint-Louis, où Joseph-Alexandre Papin accompagne Laclède en 1763.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 239 — note de l'auteur : Papin Papers et Chouteau-Papin Collection, Missouri Historical Society",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.29,
+     38.637
+    ]
+   },
+   "properties": {
+    "id": "F-papin-02",
+    "nom": "Concession Papin : l'actuel Forest Park (1er sept. 1796)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1796.67,
+    "fin": 1811.0,
+    "date_edtf": "1796-09-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Après la faillite de Joseph-Marie Papin dans la traite (1796), le lieutenant-gouverneur Zenon Trudeau concède à sa femme 3 200 arpents couvrant presque tout l'actuel Forest Park et s'étendant au nord au-delà d'Olive Street ; rien n'indique que la famille y ait vécu.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 240 — note de l'auteur : Henri C. Berthe, lettre du 20 févr. 1938, MHS ; Mercantile Library",
+    "note": "Une rue Papin longe encore l'avenue Chouteau à Saint-Louis.",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-papin-03",
+    "nom": "Saint-Louis, rue Main : naissance (7 mars 1798)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1798.18,
+    "fin": 1826.7,
+    "date_edtf": "1798-03-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Sixième fils de Joseph-Marie Papin et de Marie-Louise Bourgeois (Chouteau), il naît sans doute dans la maison de pierre à deux étages bâtie par son père en 1780 sur la rue Main. Bilingue, sans journal personnel ; ses frères sont presque tous dans la traite (Alexandre LaForce chez les Pawnees et Osages, Pierre Mellicourt agent des Osages et éponyme de Papinsville).",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 240 — note de l'auteur : J. T. Scharf, History of St. Louis City and County (1883), p. 130-131, 752 ; baptêmes de la cathédrale, Mercantile Library ; Papin Papers et Chouteau-Papin Collection, Missouri Historical Society",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.196,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-papin-04",
+    "nom": "Saint-Louis : contrat de mariage avec Catherine Louise Cerré (10 août 1826)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1826.6,
+    "fin": 1827.6,
+    "date_edtf": "1826-08-10",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Il épouse « Catiche », fille unique de Léon Paschal Cerré et de Thérèse Lamy ; vingt-sept ans d'union, quatre enfants, vingt-six petits-enfants. Son nom paraît aux livres de l'American Fur Company dès mai 1825.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 242 — note de l'auteur : registres de la cathédrale, Mercantile Library ; Ledger H, American Fur Co. Books, MHS",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.37
+    ]
+   },
+   "properties": {
+    "id": "F-papin-05",
+    "nom": "Fort Tecumseh : l'inventaire de la Columbia Fur Company (automne 1827)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1827.7,
+    "fin": 1828.0,
+    "date_edtf": "1827",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Envoyé par Ramsay Crooks, il aide Kenneth McKenzie à inventorier les biens de la Columbia Fur Company lors de sa fusion avec l'AFC (Upper Missouri Outfit).",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 243 — note de l'auteur : Chittenden, History of the American Fur Trade (1954), I, p. 326",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.385,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "F-papin-06",
+    "nom": "« Papin's House » (Fort Teton, le Poste français) : l'Opposition (1829-1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1829.5,
+    "fin": 1830.8,
+    "date_edtf": "1829/1830",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "P. D. Papin & Co. (Papin, Chenie fils, Michel et Gabriel Cerré, Honoré Picotte, Denis Guion, Delaurier, Louis Bompart), au capital de 16 000 $, défie l'Upper Missouri Outfit depuis un poste bâti en 1828 au sud de la Bad River. Malgré une barge naufragée, ils paient 16 000 $ de dettes au 1er juillet et arment une autre barge. On se reçoit pourtant à dîner entre rivaux et l'on part chasser ensemble à Medicine Hill.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 243 — note de l'auteur : Louis Bompart à Papin, Picotte et Guion, 19 août 1829, Bompart File, MHS ; P. D. Papin à P. M. Papin, 28 juillet 1830, Papin Papers et Chouteau-Papin Collection, Missouri Historical Society ; Fort Tecumseh Letterbooks, SDHC ix, p. 95",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.9,
+     46.3
+    ]
+   },
+   "properties": {
+    "id": "F-papin-07",
+    "nom": "Entre les Arikaras et les Mandans : trois hommes de Papin tués (août 1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.6,
+    "fin": 1830.65,
+    "date_edtf": "1830-08",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Pierre Bouchet, Joseph Papiche et Baptiste Hébert, employés de P. D. Papin & Co., sont tués par un parti de guerre arikara ; marchandises et chevaux perdus valent 1 000 $. McKenzie rachète ensuite l'Opposition.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 243 — note de l'auteur : Fort Tecumseh Letterbooks, 24 août 1830, SDHC ix, p. 133 ; Western Monitor (Fayette, Mo.), 3 nov. 1830",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.6,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "F-papin-08",
+    "nom": "White River : traiteur chez les Yanktonais et les Oglalas (1830-1834)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.8,
+    "fin": 1834.5,
+    "date_edtf": "1830-10-16/1834",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Contrat du 16 octobre 1830 à Fort Tecumseh : commis-traiteur trois ans à 1 000 $, salaire élevé ; en 1832, nouvel accord à 1 500 $. Il traite sur la White River sous l'œil grincheux de William Laidlaw.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 244 — note de l'auteur : accord du 16 oct. 1830, Chouteau-Maffitt Collection, MHS ; Papin à P. M. Papin, 27 août 1832",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "F-papin-09",
+    "nom": "Fort Pierre : agent de l'Upper Missouri Outfit (1834-1839)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1834.5,
+    "fin": 1839.4,
+    "date_edtf": "1834/1839",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Il succède à Laidlaw à l'été 1834, au grand dépit de celui-ci. Son billet à Colin Campbell, à qui il confie le fort en partant pour Saint-Louis, contraste par sa courtoisie avec les reproches de Laidlaw. Le 10 mai 1839, Chardon le trouve à Fort Pierre avec Halsey.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 245 — note de l'auteur : Fort Pierre Letterbook ; Abel (éd.), Chardon's Journal at Fort Clark (1932), p. 194, 371",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "F-papin-10",
+    "nom": "Fort John (Fort Laramie) : bourgeois du poste (1842-1848)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.7,
+    "fin": 1848.6,
+    "date_edtf": "1842/1848",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Passé à Fort John entre 1839 et 1842 (il rattrape John Sibille en route en septembre 1842), il y reçoit un exprès de Bridger et Vasquez ; il redevient bourgeois à l'automne 1845. Au début de 1848, il accueille Joe Meek en route vers Washington, lui donne des mules fraîches et l'avertit d'un village sioux de six cents loges.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 246 — note de l'auteur : Kansas Historical Quarterly xxix, p. 443 ; W. D. Hodgkiss à A. Drips, dans W. M. Anderson, Rocky Mountain Journals (1967), p. 375 ; H. E. Tobie, No Man Like Joe (1949), p. 159",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.0,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "F-papin-11",
+    "nom": "Sur la Platte : Parkman croise la flottille de Papin (juin 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.35,
+    "fin": 1846.52,
+    "date_edtf": "1846-05-07/1846-07-06",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Onze bateaux chargés de peaux longent la rive ; Papin, assis au milieu d'une barque sur la bâche de la cargaison, est « robuste, l'œil gris et malicieux » selon Parkman. Parti le 7 mai, le convoi arrive à Saint-Louis le 6 juillet avec 1 100 ballots de robes, 10 de castor et 3 d'ours et de loup. La compagnie le fait associé.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 247 — note de l'auteur : Parkman, dans Hafen et Young, Fort Laramie and the Pageant of the West (1938), p. 114-115 ; St. Louis Reveille, 27 juillet 1846 ; KHQ xxx, p. 374",
+    "note": "Position de la rencontre estimée sur la North Platte.",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7,
+     39.02
+    ]
+   },
+   "properties": {
+    "id": "F-papin-12",
+    "nom": "À dix milles de Westport : « Chère femme » (8 sept. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.68,
+    "fin": 1846.69,
+    "date_edtf": "1846-09-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Repartant vers Fort John, il écrit à sa femme qu'il s'en veut toujours de la quitter si longtemps et lui demande d'embrasser les enfants.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 248 — note de l'auteur : E. V. Papin Collection, MHS",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "F-papin-13",
+    "nom": "Embouchure de la Kansas : à bord du Martha (7 juillet 1847)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1847.3,
+    "fin": 1847.52,
+    "date_edtf": "1847-04-20/1847-07-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Parti de Fort Laramie le 20 avril avec Charles Beaumont et sept traiteurs, voyageant de nuit pour éviter les Indiens, il redescend sur le vapeur Martha avec John Sarpy et Honoré Picotte.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 248 — note de l'auteur : St. Louis Reveille et Daily News, 9 juillet 1847 ; KHQ, p. 514",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.554,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "F-papin-14",
+    "nom": "Fort John : lettre à « Ma chère Catiche » (17 déc. 1847)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1847.79,
+    "fin": 1847.97,
+    "date_edtf": "1847-10-16/1847-12-17",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Revenu au fort le 16 octobre avec Andrew Goodyear, il écrit à sa femme son amour et confie des lettres à deux mormons revenant de Californie (le Journal History mormon note leur rencontre avec le « propriétaire en chef de Fort John », 160 milles à l'est du fort).",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 249 — note de l'auteur : E. V. Papin Collection, MHS ; Journal History, Église mormone, 6 oct. 1847",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.202,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-papin-15",
+    "nom": "Saint-Louis, angle 2e rue et Pine : il refuse de remonter (1848)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1848.55,
+    "fin": 1850.6,
+    "date_edtf": "1848-07-19/1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Arrivé avec Hamilton, Culbertson et 70 hommes sur le Wyandotte, il décline en août de retourner au Missouri ; Drips prend Fort John. Ses loyers lui rapportent plus de 300 $ par mois.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 250 — note de l'auteur : St. Louis Daily Union, 20 juillet 1848 ; Rent Book of P. D. Papin, MHS",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.3,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "F-papin-16",
+    "nom": "Fourches de la Cheyenne (févr. 1851)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.7,
+    "fin": 1851.3,
+    "date_edtf": "1850/1851",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "La vie de la traite le reprend : en 1850 il est sur le « Haut Mifsouri », et H. Renard lui écrit en février 1851 aux fourches de la Cheyenne que sa femme et ses enfants viennent dîner.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 250 — note de l'auteur : E. V. Papin Collection, MHS",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.75,
+     41.7
+    ]
+   },
+   "properties": {
+    "id": "F-papin-17",
+    "nom": "Wildcat Hills (Scotts Bluff) : tombe solitaire (mai 1853)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1851.5,
+    "fin": 1853.4,
+    "date_edtf": "1853-05",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Subalterne au nouveau Fort John de Scotts Bluff (solde de compte : 19 277,32 $), il meurt subitement en mai 1853. T. L. Green retrouve sa tombe dans les années 1930 : une souche de cèdre de trois pieds, reste d'une grande croix. Faute de connaître l'emplacement du nouveau fort, Catiche ne put rapatrier le corps.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 251 — note de l'auteur : Day Book SS, Upper Missouri Outfit, 24 févr. 1853 ; T. L. Green à Stella Drumm, Papin Collection ; Paul C. Henderson, 30 sept. 1970",
+    "note": "Aucune nécrologie trouvée dans le Missouri Republican ni l'Intelligencer de 1853.",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.287,
+     38.641
+    ]
+   },
+   "properties": {
+    "id": "F-papin-18",
+    "nom": "Jefferson Memorial : les portraits de Pierre et Catiche",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1900.0,
+    "fin": 1970.0,
+    "date_edtf": "XXe s.",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "À l'entrée de la bibliothèque de la Missouri Historical Society, deux grands portraits se font face : Pierre-Didier Papin et Catherine Cerré Papin, donnés par leur fils Léon.",
+    "sources": "William A. Goff, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 252",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.567,
      45.501
     ]
@@ -15274,6 +15724,426 @@
     "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Cragin, carnet VI, p. 14",
     "note": "Point placé à New London, chef-lieu du comté.",
     "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-01",
+    "nom": "Saint-Louis : naissance (3 nov. 1805)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.84,
+    "fin": 1830.0,
+    "date_edtf": "1805-11-03",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Second fils de Grégoire Bérold Sarpy et de Pélagie L'Abadie, apparenté aux Chouteau. Baptisé Pierre Sylvestre Grégoire, il prend, comme son frère Jean-Baptiste, la forme anglaise « Peter A. Sarpy » (A pour L'Abadie).",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 288",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.83,
+     41.1
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-02",
+    "nom": "St. Mary (Iowa) : le poste de la rive est",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1857.0,
+    "date_edtf": "183X/1857",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Il opère aussi depuis St. Mary, en face, où il ouvre plus tard un bureau de poste et fonde un journal, le St. Mary Gazette.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 290",
+    "note": "Emplacement de St. Mary (disparu) estimé.",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-03",
+    "nom": "Fort Bellevue : le poste du confluent de la Platte (1824 ? ou 1833-1862)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1862.0,
+    "date_edtf": "1830~/1862",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Selon la tradition, Cabanné lui aurait cédé Bellevue en 1824, ce qui ferait de lui le « premier résident blanc du Nebraska » ; Michael Shine (1921) le dit arrivé en 1833 seulement. Les factures de 1830-1831 (« Alexander L. Papin and Sarpy ») montrent un compte indépendant dès 1831. Petit, trapu, brun, il doit beaucoup à sa femme Nicomi, fille d'un chef iowa.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 288 — note de l'auteur : J. L. Sellers, DAB XVI, p. 370 ; J. Moffette, Territories of Kansas and Nebraska (1855), p. 47 ; M. A. Shine, ms., Nebraska Historical Society, 1921 ; factures 1830-1831, Chouteau Collection, Missouri Historical Society",
+    "note": "Date d'arrivée contestée (1824, années 1820 ou 1833). Le rôle de Peter ou de John B. Sarpy dans l'affaire Leclerc (1832) reste incertain.",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-04",
+    "nom": "Poste de Cyprien Chouteau sur la Kansas : préparatifs (oct. 1836-avril 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1836.8,
+    "fin": 1837.27,
+    "date_edtf": "1836-10/1837-04",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Associé à Henry Fraeb par Pratte, Chouteau & Co., il passe par Fort Leavenworth et hiverne au poste de Cyprien Chouteau ; il en part avec quinze hommes et quatre chariots.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 292 — note de l'auteur : Cyprien Chouteau à J. B. Sarpy, oct. 1838, Chouteau Collection, Missouri Historical Society ; AFC Western Division, ledger Z, 1836-1839, p. 106-107, 218, MHS",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.79,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-05",
+    "nom": "Fort Jackson : la guerre commerciale de la South Platte (1837-1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.4,
+    "fin": 1838.6,
+    "date_edtf": "1837/1838",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Stock initial de 10 909,75 $ (tasses de fer-blanc, pièges, vêtements, couvertures, cinq barils de whisky facturés 199,50 $ pour une valeur de 100 $), intérêts de 7 % par mois sur le solde : d'où la hâte des traiteurs. Fraeb tient le fort ; James Robertson couvre le sud jusqu'à l'Arkansas. Chouteau, le 18 août 1837, refuse les méthodes agressives proposées par Sarpy et prône la loyauté.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 293 — note de l'auteur : facture du 10 mai 1837 et P. Chouteau Jr. à Sarpy, 18 août 1837, Chouteau Collection, Missouri Historical Society ; L. R. Hafen, « Fort Jackson and the Early Fur Trade on the South Platte », Colorado Magazine v, p. 9-17",
+    "note": "Plus de 20 000 $ d'affaires en deux saisons.",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.0,
+     41.9
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-06",
+    "nom": "North Platte : huit milles de « B. Woods » (déc. 1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.9,
+    "fin": 1838.1,
+    "date_edtf": "1837-12",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Hamilton écrit le 22 décembre 1837 que Sarpy, installé à huit milles de son concurrent Woods, lui a enlevé une bonne part de la traite.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 294 — note de l'auteur : J. A. Hamilton à P. Chouteau Jr., 22 déc. 1837, Chouteau-Papin Collection, MHS",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-07",
+    "nom": "Fort Laramie : il achète les robes de Marcellin St. Vrain (18 févr. 1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1838.13,
+    "fin": 1838.14,
+    "date_edtf": "1838-02-18",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Il écrit à Fraeb que les affaires sont excellentes : il a racheté les ballots de robes de Marcellin St. Vrain, écartant ce rival, et attendu que Papin et Picotte soient à court de marchandises.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 295 — note de l'auteur : Sarpy à Fraeb, 18 févr. 1838, Chouteau Collection, Missouri Historical Society",
+    "note": "Croise la notice de Marcellin St. Vrain, qui vendit ses robes au fort Jackson.",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.786,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-08",
+    "nom": "Vente de Fort Jackson à Bent, St. Vrain & Co. (été 1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1838.3,
+    "fin": 1838.7,
+    "date_edtf": "1838-04-18/1838-08-05",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Trop efficaces pour être battus, les associés sont rachetés : Chouteau garde la North Platte, Bent et St. Vrain prennent tout le sud. Fontenelle règle le 5 août le sort des biens restés au fort, envoyés par Fort Laramie jusqu'à Bellevue.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 296 — note de l'auteur : Fraeb à Céran St. Vrain, 18 avril 1838 ; Fontenelle à Sarpy, 5 août 1838 ; accord de cartel, Chouteau Collection, Missouri Historical Society ; Lavender, Bent's Fort, p. 193",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.886,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-09",
+    "nom": "Bellevue : mormons, chercheurs d'or et bureau de poste (1846-1849)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1852.0,
+    "date_edtf": "1846/1852",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Explorateurs, émigrants, Brigham Young et ses mormons, puis les chercheurs d'or de 1849 trouvent chez lui vivres et conseils ; il ouvre un bureau de poste en 1849.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 298 — note de l'auteur : S. Allis, « Forty Years Among the Indians », NSHS Transactions II, p. 161-163 ; S. D. Bangs, « History of Sarpy County », ibid., p. 245, 294-299",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.146
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-10",
+    "nom": "Bellevue : le bac à vapeur Nebraska (1852-1854)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1852.75,
+    "fin": 1860.0,
+    "date_edtf": "1852-10/1854-04-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Il loue d'abord un bac à G. P. Beauvais (400 $ d'octobre 1852 à avril 1853), puis acquiert en 1854 le vapeur Nebraska (près de 165 tonneaux, 121 pieds, grand rouf, capitaine Scott F. Abbott).",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 299 — note de l'auteur : facture Beauvais, 31 mars 1853 ; documents d'immatriculation, 1er avril 1854, Chouteau Collection, Missouri Historical Society",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.894,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-11",
+    "nom": "Cessions omahas et otos ; quartier-maître des volontaires (1854-1855)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1855.99,
+    "date_edtf": "1854/1855",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Il joue un rôle majeur dans les cessions de terres des Omahas et des Otos (1854), devient quartier-maître d'un régiment de volontaires du Nebraska (1855) ; Bellevue sert à la distribution des annuités. Lewis Henry Morgan le trouvera trop ivre pour l'aider dans ses études linguistiques.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 299 — note de l'auteur : Sellers ; Bangs ; L. H. Morgan, Indian Journals 1859-1862 (1959), p. 92",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.25,
+     42.007
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-12",
+    "nom": "Decatur : fondation de la ville",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1857.0,
+    "date_edtf": "1855~",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Il s'associe aux compagnies qui lotissent Bellevue et Decatur.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.88,
+     41.01
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-13",
+    "nom": "Plattsmouth : mort (4 janv. 1865)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1865.01,
+    "date_edtf": "1862/1865-01-04",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Après la mort de son frère John B. (1857), il quitte la compagnie, puis Bellevue en 1862 pour Plattsmouth, où il meurt. Nicomi y reste, avec une rente ; la rumeur d'une fortune de 75 000 $ (Allis) n'est pas fondée selon Morton.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300 — note de l'auteur : J. S. Morton, History of Nebraska (1918), p. 57 ; Allis, p. 163",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.235,
+     38.698
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-14",
+    "nom": "Cimetière Calvary de Saint-Louis : inhumation",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1865.01,
+    "fin": 1865.1,
+    "date_edtf": "1865",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "Son corps est ramené et inhumé au cimetière Calvary.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300",
+    "note": "",
+    "salle": "sarpy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.04,
+     41.155
+    ]
+   },
+   "properties": {
+    "id": "F-sarpy-15",
+    "nom": "Comté de Sarpy (1857)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.99,
+    "date_edtf": "1857",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre (Peter A.) Sarpy"
+    ],
+    "description": "La législature du Nebraska donne son nom à un comté en 1857. Chevaux rapides, chiens de chasse, hospitalité légendaire et goût de l'alcool nourrissent les récits.",
+    "sources": "John E. Wickman, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 300",
+    "note": "",
+    "salle": "sarpy"
    }
   },
   {
