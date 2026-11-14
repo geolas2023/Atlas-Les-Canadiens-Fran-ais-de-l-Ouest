@@ -29,8 +29,8 @@ const GROUPES_CORPUS = [
   ['Régions', ['Illinois français', 'Nouvelle-Angleterre', "Piste de l'Oregon"]],
   ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville']]
 ];
-// Vue d'ouverture de l'accueil du réseau : toute l'Amérique du Nord, du golfe d'Alaska aux Antilles
-const VUE_ACCUEIL = [[-165, 14], [-30, 71]];
+// Vue d'ouverture de l'accueil du réseau : les États-Unis et le Canada (du Pacifique à l'Atlantique, du golfe du Mexique à la baie James)
+const VUE_ACCUEIL = [[-128, 24], [-62, 58]];
 // Couleur réservée à Maurice LeDuc (salle de lecture)
 const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
@@ -294,7 +294,7 @@ async function demarrer() {
   await charger();
   carte = new maplibregl.Map({
     container: 'carte', style: 'https://tiles.openfreemap.org/styles/positron',
-    center: [-97, 46.5], zoom: 2.8, attributionControl: { compact: true }
+    center: [-95, 42], zoom: 3.4, attributionControl: { compact: true }
   });
   carte.addControl(new maplibregl.NavigationControl(), 'top-right');
   carte.addControl(new maplibregl.ScaleControl({ unit: 'metric' }), 'bottom-left');
