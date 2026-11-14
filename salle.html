@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Salle de lecture — Traiteurs et voyageurs français de l'Ouest américain</title>
+  <meta name="author" content="Olivier J. Caron, Département de géographie, UQAM">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/salle.css">
+</head>
+<body class="salle">
+  <header class="barre">
+    <span class="fleur" aria-hidden="true">⚜</span>
+    <h1>Salle de lecture : <span id="titre-perso" class="perso"></span> <span id="sous-titre"></span></h1>
+    <a class="lien-salle" href="index.html">← Retour à l'atlas</a>
+  </header>
+  <nav id="onglets" role="tablist" aria-label="Personnages de French Fur Traders and Voyageurs in the American West"></nav>
+
+  <main class="salle-contenu">
+    <section id="recit" aria-label="Récit chronologique">
+      <div class="intro">
+        <p class="chapeau" id="chapeau"></p>
+        <div class="nav-etapes">
+          <button type="button" id="prec" aria-label="Étape précédente">◀</button>
+          <span id="etape-courante">Parcours complet</span>
+          <button type="button" id="suiv" aria-label="Étape suivante">▶</button>
+        </div>
+      </div>
+      <div id="liste-etapes"></div>
+      <div id="blocs"></div>
+      <p class="mini avert">Les passages du livre sont résumés et traduits librement en français ; les citations sont brèves et signalées. Chaque fiche renvoie à la page du livre et à la source primaire citée en note par l'auteur de la notice.</p>
+    </section>
+    <div id="carte-salle" aria-label="Carte du parcours"></div>
+    <aside id="fiche-salle" aria-live="polite"></aside>
+  </main>
+
+  <footer class="frise">
+    <svg id="frise" role="img" aria-label="Échelle de temps du personnage"></svg>
+  </footer>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+  <script src="js/fonds.js"></script>
+  <script src="js/salle.js"></script>
+</body>
+</html>

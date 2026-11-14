@@ -1,0 +1,416 @@
+{
+ "type": "FeatureCollection",
+ "name": "lesperance",
+ "personnage": {
+  "id": "lesperance",
+  "nom": "Pierre Lesperance",
+  "auteur": "Janet Lecompte",
+  "pages": "190-195",
+  "vie": "1791-1879",
+  "chapeau": "Trappeur de Sorel, conteur infatigable, à qui l'on doit les récits de l'origine des noms Cache la Poudre et Laramie ; il finit rancher et meunier à San Gerónimo, si hispanisé qu'il en avait oublié le français.",
+  "couleur": "#d4a017"
+ },
+ "bibliographie": [
+  "Janet Lecompte, « Pierre Lesperance », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190-195."
+ ],
+ "inedits": [
+  "La Bellota (Nouveau-Mexique, années 1870-1880), éd. « Aoy » : notice biographique dictée par Lesperance ; épreuve dans la Cragin Collection, Pioneers' Museum, Colorado Springs.",
+  "« Mexico - Naturalization, 1829-1831 », Ritch Papers, Huntington Library.",
+  "« Tabular Statement » des trappeurs tués ou volés, OIA, St. Louis Superintendency 1829-1831, National Archives (microfilm) : « J. Loremy ».",
+  "Acte de baptême à Sorel (10 oct. 1791) : registres de Saint-Pierre de Sorel (BAnQ / Drouin).",
+  "Registres de l'église de San Gerónimo et de Las Vegas (sépulture 1879 ; mariages Gallegos, Garcia)."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.116,
+     46.04
+    ]
+   },
+   "properties": {
+    "id": "lesperance-01",
+    "ordre": 1,
+    "nom": "Sorel : naissance (10 octobre 1791)",
+    "phase": "Canada",
+    "debut": 1791.77,
+    "fin": 1791.78,
+    "date_edtf": "1791-10-10",
+    "certitude": "certaine",
+    "description": "Pierre Lesperance naît à Sorel, au Québec, le 10 octobre 1791. Enfant blond aux yeux bleus, il devient un homme de six pieds, réputé « aussi fort que plusieurs hommes ordinaires ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190 — note de l'auteur : Cragin, entretien avec Octave Geoffrion, Las Vegas, 22 févr. 1908 ; Cragin, « Some Rocky Mountain Trappers… », ms., Cragin Collection",
+    "note": "Les données viennent d'une notice dictée par Lesperance à son voisin Geoffrion, publiée dans le journal néo-mexicain La Bellota (éd. « Aoy »), dont Geoffrion remit une épreuve à Cragin."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.957,
+     45.627
+    ]
+   },
+   "properties": {
+    "id": "lesperance-02",
+    "ordre": 2,
+    "nom": "Saint-Hyacinthe (1811)",
+    "phase": "Canada",
+    "debut": 1811.0,
+    "fin": 1811.5,
+    "date_edtf": "1811",
+    "certitude": "certaine",
+    "description": "En 1811, il passe par Saint-Hyacinthe avant de partir pour l'Ouest.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "lesperance-03",
+    "ordre": 3,
+    "nom": "Saint-Louis : batelier du Mississippi (1811-1814)",
+    "phase": "Missouri",
+    "debut": 1811.5,
+    "fin": 1814.3,
+    "date_edtf": "1811/1814",
+    "certitude": "certaine",
+    "description": "Il travaille trois ans sur les bateaux du fleuve à Saint-Louis avant de monter vers les Rocheuses.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.65
+    ]
+   },
+   "properties": {
+    "id": "lesperance-04",
+    "ordre": 4,
+    "nom": "Huerfano : le parti Philibert attend son chef (1815)",
+    "phase": "Rocheuses",
+    "debut": 1815.0,
+    "fin": 1815.9,
+    "date_edtf": "1815",
+    "certitude": "hypothetique",
+    "description": "Une légende néo-mexicaine compte Lesperance parmi une quinzaine de Français (Bijou-Bissonnette, Levanway-Livernois, Ledoux, Nolan, Duchesne, La Lande, Leroux, Beaubien, Alvarez, Grenier) qui trappaient des Rocheuses jusqu'aux établissements espagnols. Lecompte la rattache au parti de 18 Français de Joseph Philibert, parti de Saint-Louis en mai 1814 et laissé sur la Huerfano à l'automne 1815.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 191 — note de l'auteur : Cragin, entretiens avec Jacob Beard (1904), Hiram Vasquez (1907), Mme Felipe Ledoux (1908) ; Joseph Tassé, Les Canadiens de l'Ouest, vol. II (Montréal, 1878), p. 186",
+    "note": "Présence de Lesperance non prouvée. Tassé, auteur québécois, est aussi la source du titre de cet atlas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "lesperance-05",
+    "ordre": 5,
+    "nom": "Taos : hivernage des Français de Philibert (1815-1816)",
+    "phase": "Rocheuses",
+    "debut": 1815.9,
+    "fin": 1816.2,
+    "date_edtf": "1815/1816-01",
+    "certitude": "hypothetique",
+    "description": "Philibert ne revenant pas, ses hommes franchissent les montagnes vers Taos, où ils sont bien accueillis malgré la méfiance espagnole. En janvier 1816, le gouverneur Maynez signale l'arrivée de neuf Français à Taos.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 191 — note de l'auteur : R. E. Twitchell, Spanish Archives of New Mexico (1914), II, p. 594",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.86,
+     37.96
+    ]
+   },
+   "properties": {
+    "id": "lesperance-06",
+    "ordre": 6,
+    "nom": "Greenhorn : arrestation des trappeurs de Chouteau et De Mun (mai 1816)",
+    "phase": "Rocheuses",
+    "debut": 1816.35,
+    "fin": 1816.45,
+    "date_edtf": "1816-05",
+    "certitude": "hypothetique",
+    "description": "Chouteau et De Mun, qui ont racheté l'équipement et le temps des hommes de Philibert, les reprennent à Taos. En mai 1816, 24 trappeurs campés sur le Greenhorn sont arrêtés par des soldats et conduits à Santa Fe ; libérés après 48 jours de prison, ils rentrent à Saint-Louis.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 191 — note de l'auteur : Julius De Mun à William Clark, 25 nov. 1817, American State Papers, Foreign Relations, vol. 4, p. 211 ; Ezekiel Williams au Missouri Gazette, 7 août 1816 ; carte de De Mun, NMHR 36 (1961)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.65,
+     40.42
+    ]
+   },
+   "properties": {
+    "id": "lesperance-07",
+    "ordre": 7,
+    "nom": "Cache la Poudre : la cache de poudre du parti « Aimelle »",
+    "phase": "Rocheuses",
+    "debut": 1821.6,
+    "fin": 1821.85,
+    "date_edtf": "1821",
+    "certitude": "approximative",
+    "description": "Lesperance racontait qu'un parti de soixante hommes conduit par « Aimelle » (Michael Immell, de la Missouri Fur Company) remonta la Platte et sa fourche sud jusqu'à l'embouchure de la rivière ; on y cacha poudre et munitions avant de se disperser pour la chasse. Au retour, la cache était intacte, sauf un morceau de cuir graisseux qu'un loup avait déterré : d'où le nom « Cache à la Poudre ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 192 — note de l'auteur : Cragin, « Some Rocky Mountain Trappers… »",
+    "note": "Lesperance datait l'épisode de 1814 ; Lecompte le corrige en 1821. Version concurrente : convoi de l'AFC enneigé en 1836, impossible puisque Dodge passe la « Cache de la Poudre » en 1835 ; autre version d'A. G. Boone : expédition d'Ashley, 1824-1825."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.25,
+     41.75
+    ]
+   },
+   "properties": {
+    "id": "lesperance-08",
+    "ordre": 8,
+    "nom": "Rivière Laramie : la mort de Baptiste Laramée (1821)",
+    "phase": "Rocheuses",
+    "debut": 1821.85,
+    "fin": 1821.9,
+    "date_edtf": "1821-11",
+    "certitude": "approximative",
+    "description": "En novembre, Lesperance, Louis Ambroise, Baptiste Laramée et François Leclair campent à 45 milles au sud de la North Platte. Avant l'aube, une décharge réveille le camp : Laramée est mort. Dans la version donnée à Cragin, Lesperance voit un Indien penché sur la victime transpercée d'une lance, l'assomme d'un coup de crosse, et les survivants, sans chevaux ni bagages, rejoignent à pied le camp d'Aimelle en quatre jours. La rivière porte depuis le nom de Laramie.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 192 — note de l'auteur : Cragin, entretien avec Geoffrion ; C. G. Coutant, History of Wyoming (1899), I, p. 296-299 ; « Tabular Statement… » des trappeurs tués, Office of Indian Affairs, St. Louis Superintendency, 1829-1831, National Archives (« J. Loremy », tué sur la Platte par les Arapahos en 1821)",
+    "note": "Le document imprimé (Sen. Doc. 90, 22e Congrès) lit « J. Lorency », erreur de lecture du manuscrit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "lesperance-09",
+    "ordre": 9,
+    "nom": "Nouveau-Mexique : installation (1822), naturalisé mexicain (1830)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1822.0,
+    "fin": 1830.99,
+    "date_edtf": "1822/1830",
+    "certitude": "certaine",
+    "description": "En 1822, il s'installe au Nouveau-Mexique, part trapper avec les expéditions annuelles de Taos et devient citoyen mexicain en 1830.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 193 — note de l'auteur : « Mexico - Naturalization, 1829-1831 », Ritch Papers, Huntington Library ; An Illustrated History of New Mexico (1895), p. 488-489",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.17,
+     35.36
+    ]
+   },
+   "properties": {
+    "id": "lesperance-10",
+    "ordre": 10,
+    "nom": "Real de Dolores (Old Placers) : chercheur d'or (1828 ; 1832-1835)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1828.0,
+    "fin": 1835.99,
+    "date_edtf": "1828/1835",
+    "certitude": "certaine",
+    "description": "En 1828, il exploite les placers de Real de Dolores, à 28 milles au sud de Santa Fe, où un berger sonorien venait de trouver la première pépite. Il revient y travailler de 1832 jusqu'à l'épuisement du gisement en 1835.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194 — note de l'auteur : Cragin, « Some Rocky Mountain Trappers… »",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.3,
+     30.3
+    ]
+   },
+   "properties": {
+    "id": "lesperance-11",
+    "ordre": 11,
+    "nom": "Sonora : mineur (1828-1832)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1828.5,
+    "fin": 1832.0,
+    "date_edtf": "1828/1832",
+    "certitude": "hypothetique",
+    "description": "Faute de rendement à Dolores, il part miner en Sonora jusqu'en 1832.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194",
+    "note": "Lieu précis inconnu ; point placé en Sonora centrale."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.373,
+     35.556
+    ]
+   },
+   "properties": {
+    "id": "lesperance-12",
+    "ordre": 12,
+    "nom": "Concession de Tecolote : naissance de San Gerónimo (1839)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1839.0,
+    "fin": 1879.0,
+    "date_edtf": "1839/1879",
+    "certitude": "certaine",
+    "description": "En 1839, « Pedro Buen-amigo Esperanza » signe une pétition pour une concession sur la rivière Tecolote, à 16 milles à l'ouest de Las Vegas. Son ranch devient le village de San Gerónimo. Marié deux fois (Aniceta Gallegos, dont il se sépare ; Dolores Garcia, qui meurt), il n'a pas d'enfant.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194 — note de l'auteur : Twitchell, I, p. 89 ; H. Exec. Doc. 1, 34e Congrès, 3e session ; Cragin, entretien avec Geoffrion",
+    "note": "Traduction ludique de son nom : « Pierre Bon-ami Espérance »."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.36,
+     35.56
+    ]
+   },
+   "properties": {
+    "id": "lesperance-13",
+    "ordre": 13,
+    "nom": "Le neveu « Pedrito » et la scierie de la Tecolote (1857)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1857.0,
+    "fin": 1879.0,
+    "date_edtf": "1857/1879",
+    "certitude": "certaine",
+    "description": "En 1857, il écrit à son frère Joseph à Sorel pour accueillir son neveu Pierre. Le garçon, déjà immense à 18 ans, est surnommé par plaisanterie « Pedrito ». Ensemble, ils construisent une scierie à lame verticale mue par la Tecolote, qui fournit l'essentiel du bois des maisons de Las Vegas de l'époque. Pedrito hérite et meurt riche à San Gerónimo.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194 — note de l'auteur : Las Vegas Daily Optic, 6 août 1953, sect. A, p. 5",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.373,
+     35.556
+    ]
+   },
+   "properties": {
+    "id": "lesperance-14",
+    "ordre": 14,
+    "nom": "San Gerónimo : mort et sépulture (1879)",
+    "phase": "Nouveau-Mexique",
+    "debut": 1879.0,
+    "fin": 1879.99,
+    "date_edtf": "1879",
+    "certitude": "certaine",
+    "description": "Il meurt en 1879, à 88 ans, si complètement hispanisé qu'il a oublié sa langue maternelle. Sous le nom de Pedro Lesperanza, il est inhumé dans la petite église catholique qu'il avait aidé à bâtir. L'évêque Lamy loue sa piété, sa mémoire et le plaisir qu'il prenait à raconter ses années de trappe.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 195 — note de l'auteur : Tassé, Les Canadiens de l'Ouest, II, p. 186-188",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.116,
+      46.04
+     ],
+     [
+      -72.957,
+      45.627
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -104.8,
+      37.65
+     ],
+     [
+      -105.573,
+      36.407
+     ],
+     [
+      -104.86,
+      37.96
+     ],
+     [
+      -104.65,
+      40.42
+     ],
+     [
+      -105.25,
+      41.75
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -106.17,
+      35.36
+     ],
+     [
+      -110.3,
+      30.3
+     ],
+     [
+      -105.373,
+      35.556
+     ],
+     [
+      -105.36,
+      35.56
+     ],
+     [
+      -105.373,
+      35.556
+     ]
+    ]
+   },
+   "properties": {
+    "id": "lesperance-parcours",
+    "nom": "Parcours de Pierre Lesperance"
+   }
+  }
+ ]
+}

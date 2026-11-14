@@ -16,13 +16,13 @@ body.salle { grid-template-rows: auto 1fr auto; }
 .etape:hover, .etape.active { background: #d9eff8; }
 .etape .num { flex: none; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: #00a8e8; color: #fff; font: bold .72rem system-ui, sans-serif; display: grid; place-items: center; border: 1.5px solid #063b52; }
 .etape.hypothetique .num { background: #fff; color: #063b52; border-style: dashed; }
-.etape.approximative .num { background: #6cc8ee; }
+
 .etape .t { line-height: 1.3; }
 .etape .d { display: block; font-size: .72rem; color: #6b604f; }
 .bloc-salle { margin-top: .8rem; border-top: 1px solid #ddd1bc; padding-top: .5rem; }
 .bloc-salle summary { font-family: "IM Fell English SC", Georgia, serif; font-size: 1rem; cursor: pointer; }
 .bloc-salle li { margin-bottom: .35rem; }
-#biblio { padding-left: 1.2rem; font-size: .8rem; }
+.biblio, #biblio { padding-left: 1.2rem; font-size: .8rem; }
 .frise { background: #2f3a4a; padding: .3rem .8rem .2rem; }
 #frise { width: 100%; height: 92px; display: block; }
 #frise text { font-family: system-ui, sans-serif; fill: #d6dbe3; font-size: 10px; }
@@ -34,3 +34,20 @@ body.salle { grid-template-rows: auto 1fr auto; }
   .salle-contenu { grid-template-columns: 1fr; grid-template-rows: 45vh auto auto; }
   #carte-salle { order: 1; } #fiche-salle { order: 2; } #recit { order: 3; }
 }
+/* Onglets des personnages */
+:root { --perso: #00a8e8; }
+body.salle { grid-template-rows: auto auto 1fr auto; }
+#onglets { display: flex; gap: .25rem; overflow-x: auto; padding: .3rem .6rem 0; background: #2f3a4a; scrollbar-width: thin; }
+#onglets button { flex: none; display: flex; align-items: center; gap: .35rem; background: #3d4a5d; color: #e8ecf2; border: 0; border-top: 3px solid var(--c);
+  border-radius: 5px 5px 0 0; padding: .3rem .6rem; cursor: pointer; font: .78rem system-ui, sans-serif; }
+#onglets button i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+#onglets button small { color: #aab3c2; font-size: .68rem; }
+#onglets button.actif { background: #efe8da; color: #1d2633; font-weight: 600; }
+#onglets button.actif small { color: #6b604f; }
+h1 .perso { color: var(--perso); }
+.nav-etapes button, .etape .num { background: var(--perso); }
+.etape.approximative .num { opacity: .75; }
+.etape:hover, .etape.active { background: color-mix(in srgb, var(--perso) 18%, transparent); }
+.phase { color: #1d2633; border-bottom-color: var(--perso); }
+.biblio { padding-left: 1.2rem; font-size: .8rem; }
+.avert { margin-top: 1rem; border-top: 1px solid #ddd1bc; padding-top: .5rem; }

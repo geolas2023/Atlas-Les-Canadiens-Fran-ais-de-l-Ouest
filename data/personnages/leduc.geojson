@@ -1,0 +1,1762 @@
+{
+ "type": "FeatureCollection",
+ "name": "leduc",
+ "personnage": {
+  "id": "leduc",
+  "nom": "Maurice LeDuc",
+  "auteur": "Janet Lecompte",
+  "pages": "176-189",
+  "vie": "v. 1808-v. 1880",
+  "chapeau": "Voyageur canadien, trappeur avec Pegleg Smith et Ewing Young, fondateur de Buzzards' Roost sur l'Adobe Creek ; cinq épouses connues, quatre fins possibles.",
+  "couleur": "#00a8e8"
+ },
+ "bibliographie": [
+  "Janet Lecompte, « Maurice LeDuc », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 176-189.",
+  "Lecompte, Janet, « Maurice LeDuc », dans LeRoy R. Hafen (dir.), The Mountain Men and the Fur Trade of the Far West, vol. VI, Glendale, Arthur H. Clark, 1968, p. 227 et suiv. — biographie de référence, à consulter (non accessible en ligne). Repris dans French Fur Traders and Voyageurs in the American West (1995).",
+  "Lecompte, Janet, Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, 1978, p. 83, 102, 105-106, 115.",
+  "Lecompte, Janet, « The Hardscrabble Settlement, 1844-1848 », Colorado Magazine, vol. 31, no 2 (avril 1954) — en ligne (History Colorado).",
+  "Rockafellow, B. F., « History of Fremont County », dans History of the Arkansas Valley, Colorado, Chicago, O. L. Baskin & Co., 1881, p. 545-547 (cité par Lecompte 1954).",
+  "Campbell, Rosemae Wells, From Trappers to Tourists: Fremont County, Colorado, 1830-1950, Palmer Lake, Filter Press, 1972, p. 7-9.",
+  "Gallagher, Jolie Anderson, Colorado Forts: Historic Outposts on the Wild Frontier, Charleston, History Press, 2013, p. 9.",
+  "Conard, Howard Louis, « Uncle Dick » Wootton, Chicago, 1890 — épisode « Murray » (identifié à Maurice LeDuc par Mme Walker).",
+  "Lavender, David, Bent's Fort, 1954, p. 63 ; Weber, David J., The Taos Trappers, 1971, p. 106 (renvois de l'index des noms de mtmen.org).",
+  "« Ft. Le Duc Marker Established by DAR », Colorado Springs Gazette-Telegraph, 22 mai 1969, p. 29 (Newspapers.com).",
+  "« Frontier Forts, part 1 », The World Journal (Walsenburg), 7 août 2014.",
+  "Article de magazine indexé par EBSCO, « Mountain man Maurice LeDuc trapped, traded, hunted and built a fort called Buzzards' Roost » (notice no 9608284436, v. 1996).",
+  "Legends of America, « Fort LeDuc, Colorado » (en ligne) ; Chemins de la francophonie en Louisiane coloniale, « Maurice LeDuc's General Store in Wetmore » (en ligne) ; Wetmore Historical Society, « Brief History ».",
+  "Cragin, F. W., Early Far West Notebooks : entrevues de Mme G. S. Simpson (1904), Tom Autobees (1907), John Brown (1907), Edward Pauls (1907), Felix St. Vrain (1907), Octave Geoffrion et Fred Desmarais (1908), Mme Felipe Ledoux, Pedro Sandoval, Mme Eliza Ann Walker, Pablita Leroux (1908), W. H. Green (1908)."
+ ],
+ "inedits": [
+  "Registres paroissiaux de Taos, 1823-1832 (Amador Lamori × Maria Rafaela Baca) : Archives of the Archdiocese of Santa Fe ; microfilms FamilySearch.",
+  "Registres de San Miguel del Vado, 1848 (Amado Duque × Elena Mendoza ; baptême de María Josefa).",
+  "Missouri Fur Company Ledger 1812-1813, William Clark Papers, vol. 33, Kansas State Historical Society (comptes de « Morice Leduc »).",
+  "Ledger W, p. 56-57, Chouteau Papers, Missouri Historical Society : comptes LeDuc Senior et Junior (AFC).",
+  "Journal d'Alexander Barclay (Colorado State Archives et Bancroft Library) : 1er janvier et 29 avril 1846, 10 octobre 1847.",
+  "Livre de comptes de John Brown, Huntington Library (Greenhorn, 1846).",
+  "Recensement de 1850, San Miguel County, N.-M. (« Morris L. Dusch »).",
+  "Rocky Mountain News Weekly, 10 février 1864 (relais près de Rayado).",
+  "Trinidad Daily News, 18 juin 1882 (souvenirs de George Simpson).",
+  "Archives de la Compagnie de la Baie d'Hudson (Winnipeg) : chercher un LeDuc à Île-à-la-Crosse avant 1820 (piste proposée par l'atlas)."
+ ],
+ "blocs": [
+  {
+   "titre": "Noms et graphies",
+   "html": "<p>Maurice LeDuc, Le Duc, Leduc, LeDoux, « old Maurice », « Mauricio » ; « Murray » chez Wootton. Plusieurs témoins prennent soin de distinguer LeDuc d'autres Maurice : « Maurice » Istuss (ou Estes) au Pueblo, ou le Maurice de Taos époux de Juana Sylva. Octave Geoffrion insiste : « certainement Maurice LeDuc (pas DeDuc) ; je l'ai bien connu ». Selon Campbell (1972), on l'a confondu avec son père, trappeur lui aussi nommé Maurice.</p>"
+  },
+  {
+   "titre": "Divergences entre les sources",
+   "html": "<ul> <li><strong>Origine :</strong> Détroit (Rockafellow, 1881, d'après J. A. Toof) ou « Lacrosse » (W. H. Green, 1908).</li> <li><strong>Fondation du fort :</strong> vers 1830 (Rockafellow), vers 1835 (World Journal) ; plus tardive selon Lecompte (1954) ; 1842-1847 selon North American Forts.</li> <li><strong>Fin du fort :</strong> 1848, ou 1854 (incendie par les Utes, Legends of America, non sourcé) ; LeDuc l'habite pourtant encore vers 1858-1861.</li> <li><strong>Épouses :</strong> une Ute (tradition du fort), une Sioux nommée Marguerite, Elena Mendoza de San Gerónimo (mariage religieux), puis les compagnes Rafaela (v. 1862) et « la Chihuahueña » (1866-1869).</li> <li><strong>Mort :</strong> chez Maxwell, sur la Cimarron, en 1880 (Tom Autobees) ou disparu dans une tempête de neige entre le fort Sumner et la Cimarron (Octave Geoffrion). Aucun acte de décès ni avis nécrologique n'a été trouvé.</li> </ul>"
+  },
+  {
+   "titre": "Généalogie et archives à dépouiller",
+   "html": "<p>Les bases Ancestry et FamilySearch exigent une connexion et n'ont pas pu être interrogées depuis cet atlas. Pistes prioritaires :</p> <ul> <li>registres paroissiaux de San Miguel del Vado et de Tecolote (mariage avec Elena Mendoza, avant 1853) ;</li> <li>baptêmes de Mora et de Taos (fils Amado et Agustín LeDuc ; enfants de l'épouse sioux) ;</li> <li>registres de Sapello, de Las Vegas et de Cimarron, ainsi que le recensement de 1880 du comté de Colfax (décès v. 1880) ;</li> <li>recensements fédéraux de 1860 (Kansas Territory, Arkansas Valley ; comté de Mora) et de 1870 (comtés de Colfax et de Mora) ;</li> <li>Cragin Collection (Colorado Springs Pioneers Museum) : notes de W. H. Green et de J. A. Toof.</li> </ul>"
+  }
+ ],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.0458,
+     42.3314
+    ]
+   },
+   "properties": {
+    "id": "leduc-01",
+    "ordre": 1,
+    "nom": "Detroit : origine selon Rockafellow",
+    "phase": "Origines et trappe",
+    "debut": 1795.0,
+    "fin": 1815.0,
+    "date_edtf": "1800~",
+    "certitude": "hypothetique",
+    "description": "Selon la tradition recueillie par J. A. Toof auprès du vieux Maurice en 1860 et publiée par Rockafellow (1881), le fondateur du fort de l'Adobe Creek était « un traiteur français venu de Détroit ». La date de naissance de LeDuc n'est connue par aucun document : les témoins de Cragin le disent « très vieux » dès 1861.",
+    "sources": "Rockafellow, B. F., « History of Fremont County », dans History of the Arkansas Valley, Colorado, Chicago, O. L. Baskin & Co., 1881, p. 545-547 (cité par Lecompte 1954) ; Lecompte, Janet, « The Hardscrabble Settlement, 1844-1848 », Colorado Magazine, vol. 31, no 2 (avril 1954) ; Chemins de la francophonie en Louisiane coloniale, « Maurice LeDuc's General Store in Wetmore » (en ligne)",
+    "note": "Origine contradictoire : Détroit (Rockafellow) ou « Lacrosse » (témoignage de W. H. Green). Aucun acte de baptême repéré."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.95,
+     55.68
+    ]
+   },
+   "properties": {
+    "id": "leduc-02",
+    "ordre": 2,
+    "nom": "Lac La Crosse (Saskatchewan) : l'autre « Lacrosse »",
+    "phase": "Origines et trappe",
+    "debut": 1800.0,
+    "fin": 1819.99,
+    "date_edtf": "1800~/1819",
+    "certitude": "hypothetique",
+    "description": "Lecompte propose de lire le « Lacrosse » quitté par LeDuc non comme La Crosse au Wisconsin, mais comme le lac Île-à-la-Crosse, dans le nord du Canada, où la Compagnie du Nord-Ouest et la Compagnie de la Baie d'Hudson tenaient des postes. Le jeune LeDuc serait alors issu du monde des voyageurs du Nord-Ouest.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 177 — note de l'auteur : Cragin, entretien avec W. H. Green, 1908",
+    "note": "Hypothèse ; aucun registre de la CNO ou de la CBH n'a encore été dépouillé à son nom (piste d'archives : HBCA, Winnipeg)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.65,
+     45.93
+    ]
+   },
+   "properties": {
+    "id": "leduc-03",
+    "ordre": 3,
+    "nom": "Fort Manuel : engagé de la Missouri Fur Company (mai 1812)",
+    "phase": "Origines et trappe",
+    "debut": 1812.33,
+    "fin": 1813.25,
+    "date_edtf": "1812-05/1813-03",
+    "certitude": "certaine",
+    "description": "« Morice Leduc » (le Senior) s'engage en mai 1812 à Saint-Louis auprès de la St. Louis Missouri Fur Company de Manuel Lisa et remonte au fort Manuel, près de la frontière actuelle des deux Dakotas, où séjournait aussi Sacagawea. Le fort est abandonné au printemps 1813 à cause de la guerre anglo-américaine.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 177 — note de l'auteur : John C. Luttig, Journal of a Fur-Trading Expedition on the Upper Missouri, 1812-1813, éd. Stella M. Drumm (1920, réimpr. 1964) ; Missouri Fur Company Ledger 1812-1813, William Clark Papers, vol. 33, Kansas State Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.7,
+     45.7
+    ]
+   },
+   "properties": {
+    "id": "leduc-04",
+    "ordre": 4,
+    "nom": "Chez les Corbeaux du Bighorn (1812-1813)",
+    "phase": "Origines et trappe",
+    "debut": 1812.62,
+    "fin": 1813.9,
+    "date_edtf": "1812-08/1813-11",
+    "certitude": "certaine",
+    "description": "LeDuc part avec Lorimier chez les Crows (Corbeaux) de la rivière Bighorn ; il achète des marchandises le 18 août 1812. Renvoyé chez les Crows après l'abandon du fort, il reçoit un supplément de 100 $ pour « votre voyage de che les corbeaux » (graphie du registre), livre cinq castors pour 15 $ et doit encore 47 $ en novembre 1813.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 178 — note de l'auteur : Missouri Fur Company Ledger 1812-1813, William Clark Papers, KSHS ; Luttig, Journal",
+    "note": "Courte citation française du registre, laissée dans sa graphie d'origine."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.2396,
+     43.8014
+    ]
+   },
+   "properties": {
+    "id": "leduc-05",
+    "ordre": 5,
+    "nom": "« Lacrosse » : le départ (v. 1819-1820)",
+    "phase": "Origines et trappe",
+    "debut": 1819.0,
+    "fin": 1820.99,
+    "date_edtf": "1819/1820",
+    "certitude": "hypothetique",
+    "description": "En 1859 ou 1860, le capitaine W. H. Green demande au vieux Maurice LeDuc depuis combien de temps il est dans le pays. Il répond : « Forty years since I left Lacrosse » (quarante ans depuis que j'ai quitté Lacrosse), ce qui situe son départ vers 1819-1820. Wikipédia, d'après Campbell (1972), le fait grandir à La Crosse et partir enfant, peut-être avec son père, trappeur lui aussi nommé Maurice LeDuc, avec qui on l'a souvent confondu.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 42 ; Wikipédia (en), « Fort Le Duc », d'après R. W. Campbell, From Trappers to Tourists: Fremont County, Colorado, 1830-1950 (1972), p. 7-9 ; J. A. Gallagher, Colorado Forts (2013), p. 9 ; « Frontier Forts, part 1 », The World Journal (Walsenburg), 7 août 2014 ; « Ft. Le Duc Marker Established by DAR », Colorado Springs Gazette-Telegraph, 22 mai 1969, p. 29",
+    "note": "« Lacrosse » est placé ici à La Crosse (Wisconsin) par hypothèse ; il pourrait aussi s'agir d'un autre lieu du même nom."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "leduc-06",
+    "ordre": 6,
+    "nom": "Saint-Louis : traversée du Missouri en 1820",
+    "phase": "Origines et trappe",
+    "debut": 1820.0,
+    "fin": 1820.99,
+    "date_edtf": "1820",
+    "certitude": "approximative",
+    "description": "LeDuc raconta à Welty (1902) qu'il avait franchi le Mississippi et le Missouri à Saint-Louis en 1820 pour ne plus jamais revenir dans l'Est. Lecompte note qu'il existait deux Maurice LeDuc dans les registres de la traite, un « Senior » et un « Junior », probablement père et fils.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 177 — note de l'auteur : Cragin, entretien avec A. W. Welty, 1902 ; Ledger W, p. 56-57, Chouteau Papers, Missouri Historical Society",
+    "note": "« LaCrosse » serait plutôt le lac La Crosse du nord du Canada (postes de la Compagnie du Nord-Ouest et de la Baie d'Hudson), selon le témoignage de Green (1908) relu par Lecompte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.4072
+    ]
+   },
+   "properties": {
+    "id": "leduc-07",
+    "ordre": 7,
+    "nom": "Taos : trappeur avec Pegleg Smith et pour François Robidoux",
+    "phase": "Origines et trappe",
+    "debut": 1820.0,
+    "fin": 1830.0,
+    "date_edtf": "1820/1830",
+    "certitude": "approximative",
+    "description": "D'après Campbell (1972), le jeune LeDuc s'associe à Thomas « Pegleg » Smith et piège dans l'extrême Ouest dès 17 ans ; il séjourne à Taos. Un article de magazine résume ensuite sa remontée de Taos vers le Colorado et son travail de chasseur de castor pour François Robidoux. Vers 1841, Pablita Leroux, alors âgée d'environ 7 ans, le voit chez son père Antoine Leroux, sur le Rio Pueblo de Taos.",
+    "sources": "Wikipédia (en), « Fort Le Duc », d'après R. W. Campbell, From Trappers to Tourists: Fremont County, Colorado, 1830-1950 (1972), p. 7-9 ; J. A. Gallagher, Colorado Forts (2013), p. 9 ; « Frontier Forts, part 1 », The World Journal (Walsenburg), 7 août 2014 ; « Ft. Le Duc Marker Established by DAR », Colorado Springs Gazette-Telegraph, 22 mai 1969, p. 29 ; Article de magazine indexé par EBSCO, « Mountain man Maurice LeDuc trapped, traded, hunted and built a fort called Buzzards' Roost » (notice no 9608284436, v. 1996) ; Cragin, Early Far West Notebooks, PDF p. 115",
+    "note": "Faits non datés précisément ; regroupés ici à Taos, base des trappeurs."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "leduc-08",
+    "ordre": 8,
+    "nom": "Taos : « Amador Lamori » épouse Maria Rafaela Baca (8 nov. 1823)",
+    "phase": "Origines et trappe",
+    "debut": 1823.85,
+    "fin": 1832.1,
+    "date_edtf": "1823-11-08/1832-01",
+    "certitude": "certaine",
+    "description": "Les registres de Taos montrent un « Amador Lamori », Français natif du Canada, qui épouse Maria Rafaela Baca le 8 novembre 1823. Il est témoin le 30 septembre 1826 et fait baptiser des enfants en avril 1827, avril 1828 et janvier 1832. Lecompte l'identifie à Maurice LeDuc (Amador ≈ Maurice, Lamori ≈ LeDuc mal entendu).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 178 — note de l'auteur : Fray Angélico Chávez, « New Names in New Mexico, 1820-1850 », El Palacio, vol. 64 (1957), p. 313",
+    "note": "Élément documentaire majeur : première famille connue de LeDuc. Pistes : registres paroissiaux de Taos (Archives of the Archdiocese of Santa Fe ; microfilms FamilySearch)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.65,
+     38.72
+    ]
+   },
+   "properties": {
+    "id": "leduc-09",
+    "ordre": 9,
+    "nom": "Smith's Fork : expédition avec Pegleg Smith (1824-1825)",
+    "phase": "Origines et trappe",
+    "debut": 1824.6,
+    "fin": 1824.9,
+    "date_edtf": "1824/1825",
+    "certitude": "approximative",
+    "description": "Avec Thomas « Pegleg » Smith, Hopper, Marlow et trois Mexicains, LeDuc remonte jusqu'aux sources de la Grand (Colorado). Smith donne son nom à la Smith's Fork de la Gunnison. Une cinquantaine de milles plus bas, le groupe se scinde : Smith et « Maurice LeDuke » descendent le Colorado ; les Utes leur volent cinq chevaux.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 179 — note de l'auteur : San Francisco Daily Evening Bulletin, 26 oct. 1866 ; « The Story of an Old Pioneer », Hutchings' California Magazine, juillet 1861",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.4,
+     35.85
+    ]
+   },
+   "properties": {
+    "id": "leduc-10",
+    "ordre": 10,
+    "nom": "Chez les Navajos et les Hopis (1824-1825)",
+    "phase": "Origines et trappe",
+    "debut": 1824.8,
+    "fin": 1824.88,
+    "date_edtf": "1824",
+    "certitude": "approximative",
+    "description": "Smith et LeDuc traversent ensuite le pays navajo et trafiquent avec les Moquis (Hopis) avant de rentrer à Taos à la mi-novembre.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 179 — note de l'auteur : Hutchings' California Magazine, juillet 1861",
+    "note": "Position des villages hopis (mesas) approximative."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.07,
+     32.79
+    ]
+   },
+   "properties": {
+    "id": "leduc-11",
+    "ordre": 11,
+    "nom": "Mines de cuivre de Santa Rita : départ vers le Gila (août 1826)",
+    "phase": "Origines et trappe",
+    "debut": 1826.6,
+    "fin": 1826.7,
+    "date_edtf": "1826-08",
+    "certitude": "certaine",
+    "description": "Smith et LeDuc font partie des 18 hommes d'Ewing Young qui quittent Taos en août 1826 et passent par les mines de cuivre de Santa Rita pour gagner le Gila.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 180 — note de l'auteur : Antonio Narbona au gouverneur de Sonora, 31 août 1826 (Archives mexicaines du N.-M.)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.29,
+     33.38
+    ]
+   },
+   "properties": {
+    "id": "leduc-12",
+    "ordre": 12,
+    "nom": "Embouchure de la Salt River : combat et pièges perdus (1826)",
+    "phase": "Origines et trappe",
+    "debut": 1826.7,
+    "fin": 1827.3,
+    "date_edtf": "1826/1827-04",
+    "certitude": "approximative",
+    "description": "Au confluent de la Salt River et du Gila, le parti est attaqué ; les trappeurs perdent leurs pièges. Un second voyage vers le Gila et le Colorado les ramène au printemps 1827, mais leurs fourrures sont confisquées par les autorités mexicaines. Lecompte précise que l'anecdote du festin suivi du massacre des Apaches n'est connue que par la version de Smith.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 180 — note de l'auteur : H. D. Barrows, « The Story of an Old Pioneer » (Wolfskill), 1866 ; J. J. Hill, Oregon Historical Quarterly, 1923 ; T. M. Marshall, Southwestern Historical Quarterly, 1916",
+    "note": "Anecdote du festin apache : version unique de Smith, invérifiable."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "leduc-13",
+    "ordre": 13,
+    "nom": "Santa Fe : « Mauricio Ledue » dans le parti de François Robidoux (mars 1827)",
+    "phase": "Origines et trappe",
+    "debut": 1827.17,
+    "fin": 1827.27,
+    "date_edtf": "1827-03-01/1827-04-07",
+    "certitude": "certaine",
+    "description": "En mars 1827, « Mauricio Ledue » figure parmi les 14 hommes de François Robidoux, dont la licence a été révoquée. Le groupe prétendait chercher un trésor enfoui au pays des Utes ; les autorités y voyaient une expédition de trappe illégale.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 181 — note de l'auteur : Mexican Archives of New Mexico, documents du 1er mars et du 7 avril 1827",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.33,
+     41.95
+    ]
+   },
+   "properties": {
+    "id": "leduc-14",
+    "ordre": 14,
+    "nom": "Bear Lake : rendez-vous d'Ashley (juillet 1827)",
+    "phase": "Origines et trappe",
+    "debut": 1827.5,
+    "fin": 1827.6,
+    "date_edtf": "1827-07",
+    "certitude": "certaine",
+    "description": "« Morris Ladue » accompagne les 50 hommes d'Ashley (convoi de Sublette) jusqu'au Grand Lac Salé et au rendez-vous de Bear Lake en juillet 1827 ; il y doit encore 45,87½ $ sur une dette de 110 $.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 181 — note de l'auteur : Dale L. Morgan, The West of William H. Ashley (Denver, 1964), p. 164-172",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101,
+     38.278
+    ]
+   },
+   "properties": {
+    "id": "leduc-15",
+    "ordre": 15,
+    "nom": "Fort LeDuc (Buzzard's Roost, El Cuervo) sur l'Adobe Creek",
+    "phase": "Fort LeDuc",
+    "debut": 1830.0,
+    "fin": 1848.0,
+    "date_edtf": "1830~/1848",
+    "certitude": "approximative",
+    "description": "LeDuc fonde avec d'autres trappeurs, dont un LeBlanc, un poste de traite au confluent de l'Adobe Creek et de la Mineral Creek, sur la piste de Hardscrabble au pied du mont Greenhorn. On l'appelle Fort LeDuc, Maurice's Fort, Buzzard's Roost, Crow's Nest ou El Cuervo. Il aurait mesuré 144 pieds de côté, avec des palissades, des bastions d'angle et huit pièces. LeDuc y vit avec une épouse ute, dont la parenté fréquente le poste. Il tient une licence de traite mexicaine et vend du « Taos Lightning ». Rockafellow date la fondation de 1830 environ ; Lecompte (1954) confirme l'emplacement mais juge cette date trop précoce.",
+    "sources": "Rockafellow, B. F., « History of Fremont County », dans History of the Arkansas Valley, Colorado, Chicago, O. L. Baskin & Co., 1881, p. 545-547 (cité par Lecompte 1954) ; Lecompte, Janet, « The Hardscrabble Settlement, 1844-1848 », Colorado Magazine, vol. 31, no 2 (avril 1954) ; Wikipédia (en), « Fort Le Duc », d'après R. W. Campbell, From Trappers to Tourists: Fremont County, Colorado, 1830-1950 (1972), p. 7-9 ; J. A. Gallagher, Colorado Forts (2013), p. 9 ; « Frontier Forts, part 1 », The World Journal (Walsenburg), 7 août 2014 ; « Ft. Le Duc Marker Established by DAR », Colorado Springs Gazette-Telegraph, 22 mai 1969, p. 29 ; Legends of America, « Fort LeDuc, Colorado » (en ligne) ; Cragin, Early Far West Notebooks, PDF p. 118",
+    "note": "Dates de fondation et d'abandon divergentes : 1830 ou 1835 ; fin vers 1848, ou 1854 selon Legends of America (fort brûlé par les Utes, non vérifié). North American Forts donne un poste d'adobe de 1842-1847."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "leduc-16",
+    "ordre": 16,
+    "nom": "American Fur Company : comptes des deux LeDuc (1831-1834)",
+    "phase": "Origines et trappe",
+    "debut": 1831.0,
+    "fin": 1834.99,
+    "date_edtf": "1831/1834",
+    "certitude": "certaine",
+    "description": "Au 1er janvier 1832, les livres de l'American Fur Company portent une dette de 8,95 $ pour le Senior et un crédit de 52,73 $ pour le Junior ; les comptes sont soldés en 1834. Les deux hommes trappent alors comme « free trappers ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 182 — note de l'auteur : Ledger W, p. 56-57, Chouteau Papers, Missouri Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.1,
+     38.272
+    ]
+   },
+   "properties": {
+    "id": "leduc-17",
+    "ordre": 17,
+    "nom": "Bataille au fort de Maurice (1838, selon Rockafellow)",
+    "phase": "Fort LeDuc",
+    "debut": 1838.0,
+    "fin": 1838.99,
+    "date_edtf": "1838",
+    "certitude": "hypothetique",
+    "description": "Selon Rockafellow, en 1838, à l'approche des Sioux et des Arapahos, les gens du lieu se réfugient au fort de Maurice. Les assaillants exigent comme condition de paix la Ute qui vit avec lui. Maurice parlemente jusqu'à l'arrivée des guerriers utes, appelés de leur camp de la vallée de Wet Mountain. Le combat, « l'un des plus acharnés de notre histoire », se livre sur la mesa au sud du ruisseau et tourne à l'avantage de Maurice et des Utes. Maurice comptait les dates « en lunes ».",
+    "sources": "Rockafellow, B. F., « History of Fremont County », dans History of the Arkansas Valley, Colorado, Chicago, O. L. Baskin & Co., 1881, p. 545-547 (cité par Lecompte 1954) ; Lecompte, Janet, « The Hardscrabble Settlement, 1844-1848 », Colorado Magazine, vol. 31, no 2 (avril 1954)",
+    "note": "Lecompte y voit un écho du grand combat entre Utes et Arapahos de l'époque de Hardscrabble (v. 1846) ; la date de 1838 est douteuse."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.79,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "leduc-18",
+    "ordre": 18,
+    "nom": "Fort Jackson : faucheur de foin (1838)",
+    "phase": "Fort LeDuc",
+    "debut": 1838.3,
+    "fin": 1838.5,
+    "date_edtf": "1838",
+    "certitude": "certaine",
+    "description": "LeDuc travaille un mois et trois jours à couper le foin au fort Jackson, sur la South Platte, à 20 $ par mois.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 182 — note de l'auteur : LeRoy R. Hafen, « Fort Jackson and the Early Fur Trade on the South Platte », Colorado Magazine, 1928",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "leduc-19",
+    "ordre": 19,
+    "nom": "Bent's Fort : départ de l'expédition racontée par Wootton (automne 1838)",
+    "phase": "Fort LeDuc",
+    "debut": 1838.75,
+    "fin": 1840.7,
+    "date_edtf": "1838/1840",
+    "certitude": "hypothetique",
+    "description": "Selon Dick Wootton, 19 hommes partent de Bent's Fort pour deux ans de trappe ; vers la fin, le LeDuc Senior meurt d'une flèche empoisonnée tirée par un « Pah-Ute ». Wootton n'était pas du voyage et son récit est douteux, mais le Senior disparaît bien des sources avant les années 1840.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 183 — note de l'auteur : H. L. Conard, « Uncle Dick » Wootton (1890), p. 65-80",
+    "note": "Mort du LeDuc père : récit indirect et invérifiable."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55,
+     41.1
+    ]
+   },
+   "properties": {
+    "id": "leduc-20",
+    "ordre": 20,
+    "nom": "Hautes fourches de la Humboldt : camp d'hiver (années 1840)",
+    "phase": "Dernières trappes",
+    "debut": 1840.8,
+    "fin": 1841.3,
+    "date_edtf": "184X",
+    "certitude": "approximative",
+    "description": "Hivernage avec Bill Williams, Briggs, Anderson, Kinney et le jeune George Simpson. Maurice arrive avec Jim Beckwourth, Goodale et « Harry », après avoir perdu chevaux et pièges sur le haut Missouri. Il a une femme shoshone nommée Ka-Wat (« got none », n'a rien) et une fille.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 183 — note de l'auteur : Trinidad Daily News, 18 juin 1882 (souvenirs de George Simpson)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101,
+     38.278
+    ]
+   },
+   "properties": {
+    "id": "leduc-21",
+    "ordre": 21,
+    "nom": "Buzzards' Roost sur l'Adobe Creek, avec William LeBlanc (v. 1842)",
+    "phase": "Fort LeDuc",
+    "debut": 1842.0,
+    "fin": 1847.0,
+    "date_edtf": "1842~",
+    "certitude": "approximative",
+    "description": "Vers 1842, LeDuc construit avec William LeBlanc et d'autres Canadiens français un poste sur l'Adobe Creek, baptisé Buzzards' Roost à cause des urubus (turkey buzzards) qui y nichaient ; on y fait la traite avec les Utes. Lecompte date ainsi le fort plus tardivement que Rockafellow (1830).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 184 — note de l'auteur : Cragin, entretien avec George Pauls, 1907",
+    "note": "Date de fondation : v. 1842 (Lecompte) contre v. 1830 (Rockafellow)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6115,
+     38.2669
+    ]
+   },
+   "properties": {
+    "id": "leduc-22",
+    "ordre": 22,
+    "nom": "Fort El Pueblo : au service de Kinkaid ; sans épouse (1843)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1842.5,
+    "fin": 1843.99,
+    "date_edtf": "1842/1843",
+    "certitude": "approximative",
+    "description": "Mme George Simpson rapporte que le vieux Maurice LeDuc travailla pour Matthew Kinkaid, l'un des bâtisseurs du Pueblo (1842). Dans la liste des habitants du Pueblo en 1843 dressée par Mme Ledoux, on lit : « Maurice Le Duc, pas d'épouse alors », parti en expédition de trappe avec des Américains (Istess) du Nouveau-Mexique vers le Texas.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 3 ; 82",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.7,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "leduc-23",
+    "ordre": 23,
+    "nom": "Fountain Creek : Frémont croise « le camp d'un chasseur nommé Maurice » (13 juillet 1843)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1843.53,
+    "fin": 1843.54,
+    "date_edtf": "1843-07-13",
+    "certitude": "certaine",
+    "description": "En descendant la Fountain vers le Pueblo, Frémont note qu'il passe près du campement d'un chasseur nommé Maurice, qui garde des bisonneaux. LeDuc travaillait alors pour Mathew Kinkead, qui capturait de jeunes bisons pour les vendre à des ménageries de l'Est (témoignage de Mme Simpson).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 184 — note de l'auteur : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains (1845), p. 115 ; Cragin, entretien avec Mme George Simpson",
+    "note": "Seule mention de LeDuc dans un rapport officiel publié."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.045,
+     38.33
+    ]
+   },
+   "properties": {
+    "id": "leduc-24",
+    "ordre": 24,
+    "nom": "Hardscrabble : employé de la plaza (1844-1847)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1844.0,
+    "fin": 1847.9,
+    "date_edtf": "1844/1847",
+    "certitude": "approximative",
+    "description": "Mme Simpson range « Maurice Le Duc (= old Maurice) » parmi les gens de Kinkaid à Hardscrabble, avec La Fontaine et Gagné ; Lecompte (1954) le compte parmi les employés de la plaza fondée en 1844 par Simpson, Barclay et Doyle. Selon la tradition, le village mexicain voisin (San Buenaventura de los Tres Arroyos) se trouvait à environ cinq milles au nord-est du fort de Maurice.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 5 ; Lecompte, Janet, « The Hardscrabble Settlement, 1844-1848 », Colorado Magazine, vol. 31, no 2 (avril 1954) ; Legends of America, « Fort LeDuc, Colorado » (en ligne)",
+    "note": "Lecompte ne tranche pas entre ce Maurice LeDuc et le Maurice du fort de l'Adobe Creek ; Cragin et ses témoins les identifient."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.083,
+     38.262
+    ]
+   },
+   "properties": {
+    "id": "leduc-25",
+    "ordre": 25,
+    "nom": "Hardscrabble : festin chez Maurice (1er janvier 1846)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1846.0,
+    "fin": 1846.33,
+    "date_edtf": "1846-01-01/1846-04-29",
+    "certitude": "certaine",
+    "description": "Le journal d'Alexander Barclay note : « All Hardscrabble feasting at Maurice Leducs » le jour de l'An 1846, puis un fandango au ranch « Bussard » (Buzzards' Roost) le 29 avril.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 185 — note de l'auteur : Alexander Barclay, Diary, Colorado State Archives",
+    "note": "Courte citation du journal de Barclay."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.38,
+     35.535
+    ]
+   },
+   "properties": {
+    "id": "leduc-26",
+    "ordre": 26,
+    "nom": "San Gerónimo : l'épouse sioux Marguerite, puis Elena Mendoza",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1846.0,
+    "fin": 1853.0,
+    "date_edtf": "1848~",
+    "certitude": "approximative",
+    "description": "Selon Octave Geoffrion, Maurice LeDuc vécut un temps à San Gerónimo, le village de Pierre Lesperance, avec une épouse sioux et un ou plusieurs enfants. Épris d'une jeune Mexicaine, il l'épousa devant un prêtre ; l'épouse sioux, Marguerite selon Pedro Sandoval, repartit alors vers les siens avec les enfants, le poney et tout ce qu'elle put emporter. La nouvelle épouse, Elena Mendoza, était de San Gerónimo, sœur d'Andrea Mendoza (épouse de José Ignacio Valencia, tué au Pueblo en 1854). Elle lui donna deux fils, Amado et Agustín.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 77 ; 105 ; 112",
+    "note": "Date approximative (avant 1853)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.86,
+     37.96
+    ]
+   },
+   "properties": {
+    "id": "leduc-27",
+    "ordre": 27,
+    "nom": "Greenhorn et vol de chevaux par les Jicarillas (1846)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1846.4,
+    "fin": 1846.9,
+    "date_edtf": "1846",
+    "certitude": "certaine",
+    "description": "À l'été et l'automne 1846, « Morace » paraît au livre de comptes de John Brown au Greenhorn. En juin, les Jicarillas volent 20 chevaux à « Mais Leduke, Browne and Murray », signale Charles Bent depuis Fort William.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 185 — note de l'auteur : John Brown, Account Book, Huntington Library ; Charles Bent à Manuel Alvarez, Fort William, 11 juin 1846",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6115,
+     38.2669
+    ]
+   },
+   "properties": {
+    "id": "leduc-28",
+    "ordre": 28,
+    "nom": "Pueblo : LeDuc, personnage du roman de Ruxton (1847)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1847.0,
+    "fin": 1849.0,
+    "date_edtf": "1847/1849",
+    "certitude": "certaine",
+    "description": "George F. Ruxton, qui passe l'hiver 1846-1847 au Pueblo, met LeDuc en scène dans Life in the Far West (New York, 1849, p. 19) : il y parle le patois des voyageurs canadiens.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 185 — note de l'auteur : G. F. Ruxton, Life in the Far West (N.Y., 1849), p. 19",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.03,
+     38.22
+    ]
+   },
+   "properties": {
+    "id": "leduc-29",
+    "ordre": 29,
+    "nom": "Bataille des Utes et des Arapahos près de Hardscrabble (10 oct. 1847)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1847.77,
+    "fin": 1847.78,
+    "date_edtf": "1847-10-10",
+    "certitude": "certaine",
+    "description": "Le journal de Barclay date le combat du 10 octobre 1847. Les épouses mexicaines suivaient la bataille depuis la plaza de Hardscrabble, à six milles ; les Utes victorieux les obligèrent ensuite à leur préparer un festin (souvenir de Mme Felipe Ledoux). C'est cet épisode que Rockafellow plaçait en 1838 au fort de Maurice.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 186 — note de l'auteur : Barclay, Diary ; Cragin, entretien avec Mme Felipe Ledoux, Las Vegas, 1908",
+    "note": "Date corrigée : 1847 et non 1838."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.373,
+     35.556
+    ]
+   },
+   "properties": {
+    "id": "leduc-30",
+    "ordre": 30,
+    "nom": "San Gerónimo : avec Marguerita, épouse sioux (1848)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1848.0,
+    "fin": 1848.4,
+    "date_edtf": "1848",
+    "certitude": "certaine",
+    "description": "En 1848, LeDuc vit à San Gerónimo avec une épouse sioux, Marguerita, et deux enfants.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 186",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.446,
+     35.374
+    ]
+   },
+   "properties": {
+    "id": "leduc-31",
+    "ordre": 31,
+    "nom": "San Miguel del Vado : baptême et mariage avec Elena Mendoza (1848)",
+    "phase": "Pueblo, Hardscrabble, San Gerónimo",
+    "debut": 1848.4,
+    "fin": 1848.63,
+    "date_edtf": "1848-05-26/1848-08-15",
+    "certitude": "certaine",
+    "description": "Le 26 mai 1848, María Josefa, enfant du « Français Amado Lamoris », est baptisée à San Miguel. Le 15 août 1848, sous le nom d'« Amado Duque », LeDuc épouse Elena Mendoza, âgée de 13 ans (peut-être 12).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 186 — note de l'auteur : Chávez, El Palacio 64 (1957), p. 304 ; registres de San Miguel del Vado",
+    "note": "Pistes : registres de San Miguel del Vado, Archives de l'archidiocèse de Santa Fe."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.278,
+     35.457
+    ]
+   },
+   "properties": {
+    "id": "leduc-32",
+    "ordre": 32,
+    "nom": "Recensement de 1850 : né au Canada vers 1808",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1850.75,
+    "fin": 1850.99,
+    "date_edtf": "1850-10/1850-12",
+    "certitude": "certaine",
+    "description": "Le recensement fédéral de 1850 au Nouveau-Mexique enregistre LeDuc sous le nom déformé de « Morris L. Dusch », 42 ans, né au Canada. C'est le seul document qui donne un âge et un pays de naissance. Il vit alors à Tecolote avec sa femme Elena et une fille, María Pedra, âgée de huit mois.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 177 — note de l'auteur : U.S. Census 1850, New Mexico, comté de San Miguel",
+    "note": "Naissance déduite : vers 1808, au Canada. Contredit la tradition « Détroit » de Rockafellow."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98,
+     35.79
+    ]
+   },
+   "properties": {
+    "id": "leduc-33",
+    "ordre": 33,
+    "nom": "Fort Barclay (Mora) : les fils Amado et Augustin (1853)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1853.0,
+    "fin": 1853.5,
+    "date_edtf": "1853",
+    "certitude": "certaine",
+    "description": "En 1853, ses fils Amado et Augustin sont au fort Barclay, construit en 1848 par Barclay et Doyle au gué de la Mora sur la piste de Santa Fe. LeDuc suit Doyle vers l'Arkansas.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 187",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.27,
+     38.2
+    ]
+   },
+   "properties": {
+    "id": "leduc-34",
+    "ordre": 34,
+    "nom": "Embouchure de la Huerfano : chez Wootton, le coude brisé (v. 1853-1855)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1853.5,
+    "fin": 1855.5,
+    "date_edtf": "1853/1855",
+    "certitude": "approximative",
+    "description": "LeDuc travaille pour Wootton à l'embouchure de la Huerfano. Wootton le juge paresseux et ivrogne ; Elena coud des sacs à grain et économise ses gages. Un jour, Wootton tire sur Maurice et lui brise le coude droit : LeDuc tirera désormais de la main gauche. Dans les mémoires de Wootton, « Murray » désigne LeDuc (identification d'Eliza Walker).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 187 — note de l'auteur : Conard, « Uncle Dick » Wootton, p. 317 et suiv. ; Cragin, entretien avec Mme Eliza Walker",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.35,
+     38.235
+    ]
+   },
+   "properties": {
+    "id": "leduc-35",
+    "ordre": 35,
+    "nom": "Village de la Huerfano : Wootton tire sur Maurice (1853)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1853.7,
+    "fin": 1854.0,
+    "date_edtf": "1853",
+    "certitude": "approximative",
+    "description": "Selon Mme Eliza Ann Walker, fille de Dick Wootton, c'est au village de la Huerfano, en 1853, au temps de l'égrenage du maïs, que Wootton tira sur le vieux Maurice LeDuc. Le personnage appelé « Murray » dans les mémoires de Wootton (Conard, Uncle Dick Wootton, 1890) serait Maurice, demi-frère de Manuel Lefebvre.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 124 ; 125",
+    "note": "Jesse Nelson distingue un « Luke Murray » (Luke Moran), Français inoffensif tué par Wootton, du vieux Maurice (p. 95)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98,
+     35.795
+    ]
+   },
+   "properties": {
+    "id": "leduc-36",
+    "ordre": 36,
+    "nom": "Fort Barclay (La Junta de los Ríos) : départ avec Jo Doyle (oct. 1853)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1853.75,
+    "fin": 1853.8,
+    "date_edtf": "1853-10",
+    "certitude": "certaine",
+    "description": "En octobre 1853, Maurice, sa femme mexicaine et leurs deux enfants quittent le fort Barclay avec Jo Doyle, Benito Sandoval, Ben Ryder et d'autres pour aller s'établir au Pueblo.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 112 ; 113",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6115,
+     38.2675
+    ]
+   },
+   "properties": {
+    "id": "leduc-37",
+    "ordre": 37,
+    "nom": "Fort El Pueblo : hiver 1853-1854",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1853.8,
+    "fin": 1854.9,
+    "date_edtf": "1853-10/1854",
+    "certitude": "certaine",
+    "description": "La famille LeDuc vit au fort Pueblo pendant l'hiver 1853-1854, où les hommes de Doyle débitent des planches pour réparer le fort et bâtir ses fermes de San Carlos et de la Huerfano. La famille avait quitté le fort avant le massacre perpétré par les Utes le 24 décembre 1854.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 113",
+    "note": "Départ du Pueblo non daté."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3306,
+     35.9742
+    ]
+   },
+   "properties": {
+    "id": "leduc-38",
+    "ordre": 38,
+    "nom": "Mora : avec son épouse mexicaine (1857-1858)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1857.0,
+    "fin": 1858.99,
+    "date_edtf": "1857/1858",
+    "certitude": "certaine",
+    "description": "Octave Geoffrion, arrivé à Mora en 1857, y connut Maurice, qui vivait alors avec sa femme mexicaine. Mme Lujan, de Cleveland (N.M.), pouvait dire quel lien unissait Manuel Lefebvre et Maurice, qui « vivait à Mora ».",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 77 ; 107",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.097,
+     38.28
+    ]
+   },
+   "properties": {
+    "id": "leduc-39",
+    "ordre": 39,
+    "nom": "Retour au Buzzard's Roost : fossé et champs (fin des années 1850)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1857.0,
+    "fin": 1861.0,
+    "date_edtf": "1858~/1860",
+    "certitude": "approximative",
+    "description": "Edward Pauls (Cañon City, 1907) tient de Le Blanc que lui et d'autres montagnards bâtirent le fort « Buzzard's Roost » sur l'Adobe Creek pour la traite. À la fin des années 1850, Maurice y vivait, tirait un fossé de l'Adobe Creek et cultivait encore en 1860 au confluent de la Mineral Creek. Ses cabanes étaient près du champ. Selon Rockafellow, le village mexicain voisin fut abandonné en 1852 et Maurice resta seul dans son fort.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 118 ; 223 ; 229 ; Rockafellow, B. F., « History of Fremont County », dans History of the Arkansas Valley, Colorado, Chicago, O. L. Baskin & Co., 1881, p. 545-547 (cité par Lecompte 1954)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101,
+     38.278
+    ]
+   },
+   "properties": {
+    "id": "leduc-40",
+    "ordre": 40,
+    "nom": "Adobe Creek : séparation d'Elena et retour au fort en ruines (v. 1860)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1858.0,
+    "fin": 1863.0,
+    "date_edtf": "1858/1863",
+    "certitude": "approximative",
+    "description": "Revenu sur l'Adobe Creek avec ses fils, LeDuc confie à Welty qu'il s'est séparé d'Elena parce qu'elle était devenue invivable (il emploie un juron). Il loge dans les ruines de Buzzards' Roost et cultive, puis dans une cabane de rondins plus bas sur le ruisseau, où il tanne des peaux car sa vue baisse ; LeBrie le voit aussi sous une loge indienne.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 188 — note de l'auteur : Cragin, entretiens avec Welty (1902), George Pauls (1907), Henry B. Walker (1907), LeBrie",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.47,
+     38.13
+    ]
+   },
+   "properties": {
+    "id": "leduc-41",
+    "ordre": 41,
+    "nom": "Vallée de Wet Mountain : grande chasse de 1859",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1859.0,
+    "fin": 1859.99,
+    "date_edtf": "1859",
+    "certitude": "approximative",
+    "description": "En 1859, LeDuc fait partie d'une grande partie de chasse vers la vallée de Wet Mountain avec Charles et Tom Autobees, le vieux Clermont, Levanway et Tim Goodall. On y voit encore les os des bêtes volées au Pueblo en 1854.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 36",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.104,
+     38.276
+    ]
+   },
+   "properties": {
+    "id": "leduc-42",
+    "ordre": 42,
+    "nom": "Adobe Creek : J. A. Toof et W. H. Green recueillent ses récits (1859-1860)",
+    "phase": "Pueblo, Huerfano, Mora, Adobe Creek",
+    "debut": 1859.5,
+    "fin": 1861.0,
+    "date_edtf": "1860",
+    "certitude": "approximative",
+    "description": "En 1860, Anson Rudd, à son arrivée à Cañon City, trouve le vieux Maurice installé sur l'Adobe Creek, à l'ancien poste où St. Vrain, Bent et Beaubien avaient eu des intérêts. Vers 1860-1861, il vit dans une petite loge de perches avec deux petits garçons « sans mère et sans amis ». Il raconte ses aventures, datées en lunes, au pionnier J. A. Toof : c'est la source de l'histoire de Hardscrabble publiée par Rockafellow en 1881.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 42 ; 223 ; Lecompte, Janet, « The Hardscrabble Settlement, 1844-1848 », Colorado Magazine, vol. 31, no 2 (avril 1954)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101,
+     38.278
+    ]
+   },
+   "properties": {
+    "id": "leduc-43",
+    "ordre": 43,
+    "nom": "Portrait : petit homme trapu, blond aux yeux bleus",
+    "phase": "Dernières années",
+    "debut": 1860.0,
+    "fin": 1860.99,
+    "date_edtf": "1860",
+    "certitude": "approximative",
+    "description": "Lecompte ouvre sa notice sur le portrait que les vieux témoins ont laissé de LeDuc : un petit homme trapu, blond, aux yeux bleus, qui jurait abondamment et parlait surtout « mexicain » et plusieurs langues indiennes.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 176 — note de l'auteur : Cragin, entretien avec A. R. Rudd, Cañon City, 1901 ; Rockafellow 1881",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.84,
+     37.95
+    ]
+   },
+   "properties": {
+    "id": "leduc-44",
+    "ordre": 44,
+    "nom": "Greenhorn : le vieux trappeur et sa charrette (1861)",
+    "phase": "Dernières trappes",
+    "debut": 1861.0,
+    "fin": 1861.99,
+    "date_edtf": "1861",
+    "certitude": "approximative",
+    "description": "John Brown, de Walsenburg, voyait le vieux Maurice à la Greenhorn en 1861. Très vieux, il piégeait encore le castor ; il se déplaçait avec un vieux cheval alezan et une charrette, et « sa maison était surtout là où étaient la charrette et le cheval ». Il avait son domicile sur l'Adobe Creek ou la Hardscrabble.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 61",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917,
+     36.51
+    ]
+   },
+   "properties": {
+    "id": "leduc-45",
+    "ordre": 45,
+    "nom": "Ranch Maxwell (Cimarron) : départ de l'Arkansas (1861)",
+    "phase": "Chez Maxwell",
+    "debut": 1861.0,
+    "fin": 1866.0,
+    "date_edtf": "1861/1866",
+    "certitude": "approximative",
+    "description": "Selon Tom Autobees, Maurice quitta la vallée de l'Arkansas au début des années 1860 (1861) pour le ranch de Lucien Maxwell sur la Cimarron.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 16",
+    "note": "Brown le voit pourtant encore à Butte Valley en 1862-1863 : allers-retours probables."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.87,
+     37.735
+    ]
+   },
+   "properties": {
+    "id": "leduc-46",
+    "ordre": 46,
+    "nom": "Butte Valley : chez les Canadiens français (1862-1863)",
+    "phase": "Dernières trappes",
+    "debut": 1862.0,
+    "fin": 1863.99,
+    "date_edtf": "1862/1863",
+    "certitude": "approximative",
+    "description": "En 1862-1863, Brown le revoit à Butte Valley, la petite colonie canadienne-française sous la butte de la Huerfano. Maurice y flânait quand la fourrure ne valait rien. Une jeune Mexicaine, Rafaela, vécut un temps avec lui.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 61",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.89,
+     37.57
+    ]
+   },
+   "properties": {
+    "id": "leduc-47",
+    "ordre": 47,
+    "nom": "Cucharas : garde de moutons avec Rafaela (v. 1862)",
+    "phase": "Dernières trappes",
+    "debut": 1862.3,
+    "fin": 1862.8,
+    "date_edtf": "1862~",
+    "certitude": "hypothetique",
+    "description": "Avec Rafaela, il garde des moutons pendant un été sur la Cucharas, probablement pour des éleveurs du Nouveau-Mexique ; elle finit par le quitter.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 61",
+    "note": "Emplacement sur la Cucharas non précisé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.88,
+     36.25
+    ]
+   },
+   "properties": {
+    "id": "leduc-48",
+    "ordre": 48,
+    "nom": "Relais de diligence près de Rayado (1863)",
+    "phase": "Chez Maxwell",
+    "debut": 1863.0,
+    "fin": 1864.1,
+    "date_edtf": "1863/1864-02",
+    "certitude": "approximative",
+    "description": "En 1863, LeDuc tient un relais de diligence à dix milles de Rayado avec une coquette vieillissante venue de Chihuahua, rapporte le Rocky Mountain News (sous le nom « Murray »).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 188 — note de l'auteur : Rocky Mountain News Weekly, 10 février 1864",
+    "note": "Position du relais estimée sur la route de Rayado à Ocate."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.95,
+     36.22
+    ]
+   },
+   "properties": {
+    "id": "leduc-49",
+    "ordre": 49,
+    "nom": "Rio Rayado et Puertecito avec « la Chihuahueña » (1866-1869)",
+    "phase": "Chez Maxwell",
+    "debut": 1866.0,
+    "fin": 1869.0,
+    "date_edtf": "1866/1869",
+    "certitude": "approximative",
+    "description": "Felix St. Vrain se souvient que le vieux Maurice, trappeur français, vivait en 1866 au sud du Rio Rayado. Deux ou trois ans plus tard, il était à Puertecito, à 10 ou 12 milles au sud du Rayado, avec une Mexicaine surnommée « Chihuahueña » (la femme de Chihuahua).",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 64",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.915,
+     36.511
+    ]
+   },
+   "properties": {
+    "id": "leduc-50",
+    "ordre": 50,
+    "nom": "Cimarron : chez Lucien Maxwell (1866-1870)",
+    "phase": "Chez Maxwell",
+    "debut": 1866.0,
+    "fin": 1870.5,
+    "date_edtf": "1866/1870",
+    "certitude": "approximative",
+    "description": "Vers 1866, LeDuc vit chez Lucien Maxwell, que ses petits larcins amusent. Il suit Maxwell à Fort Sumner en 1870.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 188",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.223,
+     35.594
+    ]
+   },
+   "properties": {
+    "id": "leduc-51",
+    "ordre": 51,
+    "nom": "Sources chaudes de Las Vegas : le burro de Maxwell (1866-1867)",
+    "phase": "Chez Maxwell",
+    "debut": 1866.5,
+    "fin": 1867.5,
+    "date_edtf": "1866/1867",
+    "certitude": "certaine",
+    "description": "Malade, vivant alors chez Maxwell, Maurice prend un des plus gros burros de Maxwell pour aller aux bains des sources chaudes de Las Vegas. Octave Geoffrion le loge dans une pièce de son magasin de la plaza. Quand Maxwell descend à l'Exchange Hotel, Maurice se présente pistolet à la ceinture : « Maybe you think I stole your burro! » Maxwell éclate de rire et le lui donne. Geoffrion affirme que son nom était bien Maurice LeDuc.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 78 ; 79 ; 84",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     36.2
+    ]
+   },
+   "properties": {
+    "id": "leduc-52",
+    "ordre": 52,
+    "nom": "Sweetwater Creek (entre Sapello et Cimarron) en 1867",
+    "phase": "Chez Maxwell",
+    "debut": 1867.0,
+    "fin": 1867.99,
+    "date_edtf": "1867",
+    "certitude": "hypothetique",
+    "description": "Mme Walker l'a vu en 1867 vivant sur la Sweetwater Creek, entre la Sapello et la Cimarron.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 125",
+    "note": "Position du ruisseau approximative (comté de Colfax/Mora)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.22,
+     35.74
+    ]
+   },
+   "properties": {
+    "id": "leduc-53",
+    "ordre": 53,
+    "nom": "Las Tusas (haute Sapello) : chez Albert Gosselin (années 1870)",
+    "phase": "Dernières années",
+    "debut": 1870.0,
+    "fin": 1879.0,
+    "date_edtf": "187?",
+    "certitude": "approximative",
+    "description": "Dans les années 1870, Fred Desmarais le trouve à San Ignacio, à Las Tusas, sur la Sapello, en train de tirer des chiens de prairie pour se nourrir depuis un affût de paille. Il logeait alors chez un Canadien, Albert Gosselin, plus haut sur la Sapello.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 77",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.19,
+     34.4
+    ]
+   },
+   "properties": {
+    "id": "leduc-54",
+    "ordre": 54,
+    "nom": "Fort Sumner : avec Maxwell (après 1870)",
+    "phase": "Chez Maxwell",
+    "debut": 1870.5,
+    "fin": 1875.0,
+    "date_edtf": "1870/1875",
+    "certitude": "approximative",
+    "description": "Après la vente de la concession Maxwell (1870), Maurice suit Maxwell au fort Sumner et y reste un bon moment.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 79",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.24,
+     34.4
+    ]
+   },
+   "properties": {
+    "id": "leduc-55",
+    "ordre": 55,
+    "nom": "Fort Sumner (1870-1875)",
+    "phase": "Dernières années",
+    "debut": 1870.5,
+    "fin": 1875.99,
+    "date_edtf": "1870/1875",
+    "certitude": "approximative",
+    "description": "LeDuc accompagne Maxwell à Fort Sumner en 1870 et y reste peut-être après 1875.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 189",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6,
+     35.4
+    ]
+   },
+   "properties": {
+    "id": "leduc-56",
+    "ordre": 56,
+    "nom": "Disparu dans une tempête de neige — version Geoffrion",
+    "phase": "Mort",
+    "debut": 1875.0,
+    "fin": 1881.0,
+    "date_edtf": "187?/188?",
+    "certitude": "hypothetique",
+    "description": "Selon Octave Geoffrion, LeDuc, repris par son humeur vagabonde, quitta le fort Sumner avec son burro pour retourner vers les montagnes et la Cimarron, où vivait un de ses fils. Surpris par une tempête de neige, il se serait égaré ou aurait succombé : « son corps ne fut jamais retrouvé, et l'on ne sut jamais où ni comment le vieux Français périt ».",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 79",
+    "note": "Point symbolique, placé sur le trajet du fort Sumner vers la Cimarron. Aucun acte de décès ni avis nécrologique repéré."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.5,
+     37.17
+    ]
+   },
+   "properties": {
+    "id": "leduc-57",
+    "ordre": 57,
+    "nom": "Visite chez Autobees et Trinidad (1879)",
+    "phase": "Dernières années",
+    "debut": 1879.0,
+    "fin": 1879.99,
+    "date_edtf": "1879",
+    "certitude": "approximative",
+    "description": "En 1879, LeDuc rend visite à Charles Autobees, revoit ses anciens lieux, puis passe à Trinidad avec Bill (Autobees ?).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 189 — note de l'auteur : Cragin, entretien avec Tom Autobees",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.37,
+     38.205
+    ]
+   },
+   "properties": {
+    "id": "leduc-58",
+    "ordre": 58,
+    "nom": "Plaza d'Autobees (Huerfano) : dernière visite (1879)",
+    "phase": "Dernières années",
+    "debut": 1879.0,
+    "fin": 1879.99,
+    "date_edtf": "1879",
+    "certitude": "approximative",
+    "description": "Selon Tom Autobees, « le vieux Maurice était borgne ». Il vint pour la dernière fois chez Charles Autobees, sur la Huerfano, en 1879.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 16",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.508,
+     37.169
+    ]
+   },
+   "properties": {
+    "id": "leduc-59",
+    "ordre": 59,
+    "nom": "Trinidad : un an chez un vieux trappeur (1879-1880)",
+    "phase": "Dernières années",
+    "debut": 1879.5,
+    "fin": 1880.4,
+    "date_edtf": "1879/1880",
+    "certitude": "approximative",
+    "description": "En quittant la place d'Autobees en 1879, il gagne Trinidad, où il vit environ un an avec un vieux trappeur prénommé Bill.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 16",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.48,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "leduc-60",
+    "ordre": 60,
+    "nom": "Music Pass : la dernière chevauchée (v. 1880)",
+    "phase": "Mort",
+    "debut": 1880.0,
+    "fin": 1880.99,
+    "date_edtf": "1880~",
+    "certitude": "hypothetique",
+    "description": "Quatre fins se contredisent : mort à Cimarron en 1880 (Tom Autobees) ; départ à la nuit tombante sur un poney, en peau de daim, fusil à l'épaule, vers Music Pass et le Nouveau-Mexique (Rockafellow) ; devenu fou, dévalant une montagne au galop (Rudd) ; perdu sur son burro, corps jamais retrouvé (Geoffrion).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 189 — note de l'auteur : Rockafellow 1881 ; Cragin, entretiens avec Tom Autobees, A. R. Rudd, Octave Geoffrion",
+    "note": "Aucun acte de décès connu. Voir aussi Lecompte, « Old Maurice », New York Westerners' Brand Book, vol. V, no 4."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917,
+     36.511
+    ]
+   },
+   "properties": {
+    "id": "leduc-61",
+    "ordre": 61,
+    "nom": "Mort chez Maxwell (Cimarron), 1880 ? — version Autobees",
+    "phase": "Mort",
+    "debut": 1880.4,
+    "fin": 1880.99,
+    "date_edtf": "1880",
+    "certitude": "approximative",
+    "description": "Selon Tom Autobees, Maurice retourna ensuite chez Maxwell, sur la Cimarron, où il mourut quelques mois plus tard, en 1880.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 16",
+    "note": "Maxwell lui-même vivait alors au fort Sumner (mort en 1875) : la « place de Maxwell » désigne peut-être l'ancien ranch de Cimarron."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     36.25
+    ]
+   },
+   "properties": {
+    "id": "leduc-62",
+    "ordre": 62,
+    "nom": "Descendance : Black Lake et la Cuesta de Osha",
+    "phase": "Mémoire",
+    "debut": 1860.0,
+    "fin": 1908.3,
+    "date_edtf": "1908",
+    "certitude": "hypothetique",
+    "description": "En 1908, Pablita Leroux indique que Rafael Espinosa et son fils Avel, de La Cuesta de Osha (dernière maison de Black Lake vers le col de Taos), connaissent bien l'histoire du vieux Maurice, qui a « une famille de descendants » de ce côté des montagnes. Un des fils de Maurice fut tué au Nouveau-Mexique pour un vol.",
+    "sources": "Cragin, Early Far West Notebooks, PDF p. 42 ; 115",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.1,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "leduc-63",
+    "ordre": 63,
+    "nom": "Marqueur « Hardscrabble » (DAR, 1969)",
+    "phase": "Mémoire",
+    "debut": 1969.38,
+    "fin": 1969.4,
+    "date_edtf": "1969-05",
+    "certitude": "approximative",
+    "description": "En 1969, la section Arkansas Valley des Daughters of the American Revolution, le département des routes et la Société historique du Colorado installent à sept milles au sud de Florence un panneau intitulé « Hardscrabble », qui commémore le fort LeDuc. Le site du fort, sur une propriété privée près de Wetmore, ne conserve aucun vestige. Le magasin général actuel de Wetmore a repris le nom de « General Store » de Maurice LeDuc.",
+    "sources": "Wikipédia (en), « Fort Le Duc », d'après R. W. Campbell, From Trappers to Tourists: Fremont County, Colorado, 1830-1950 (1972), p. 7-9 ; J. A. Gallagher, Colorado Forts (2013), p. 9 ; « Frontier Forts, part 1 », The World Journal (Walsenburg), 7 août 2014 ; « Ft. Le Duc Marker Established by DAR », Colorado Springs Gazette-Telegraph, 22 mai 1969, p. 29 ; Chemins de la francophonie en Louisiane coloniale, « Maurice LeDuc's General Store in Wetmore » (en ligne)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -83.0458,
+      42.3314
+     ],
+     [
+      -107.95,
+      55.68
+     ],
+     [
+      -100.65,
+      45.93
+     ],
+     [
+      -107.7,
+      45.7
+     ],
+     [
+      -91.2396,
+      43.8014
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -105.573,
+      36.4072
+     ],
+     [
+      -105.573,
+      36.407
+     ],
+     [
+      -107.65,
+      38.72
+     ],
+     [
+      -110.4,
+      35.85
+     ],
+     [
+      -108.07,
+      32.79
+     ],
+     [
+      -112.29,
+      33.38
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -111.33,
+      41.95
+     ],
+     [
+      -105.101,
+      38.278
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -105.1,
+      38.272
+     ],
+     [
+      -104.79,
+      40.18
+     ],
+     [
+      -103.43,
+      38.04
+     ],
+     [
+      -115.55,
+      41.1
+     ],
+     [
+      -105.101,
+      38.278
+     ],
+     [
+      -104.6115,
+      38.2669
+     ],
+     [
+      -104.7,
+      38.5
+     ],
+     [
+      -105.045,
+      38.33
+     ],
+     [
+      -105.083,
+      38.262
+     ],
+     [
+      -105.38,
+      35.535
+     ],
+     [
+      -104.86,
+      37.96
+     ],
+     [
+      -104.6115,
+      38.2669
+     ],
+     [
+      -105.03,
+      38.22
+     ],
+     [
+      -105.373,
+      35.556
+     ],
+     [
+      -105.446,
+      35.374
+     ],
+     [
+      -105.278,
+      35.457
+     ],
+     [
+      -104.98,
+      35.79
+     ],
+     [
+      -104.27,
+      38.2
+     ],
+     [
+      -104.35,
+      38.235
+     ],
+     [
+      -104.98,
+      35.795
+     ],
+     [
+      -104.6115,
+      38.2675
+     ],
+     [
+      -105.3306,
+      35.9742
+     ],
+     [
+      -105.097,
+      38.28
+     ],
+     [
+      -105.101,
+      38.278
+     ],
+     [
+      -105.47,
+      38.13
+     ],
+     [
+      -105.104,
+      38.276
+     ],
+     [
+      -105.101,
+      38.278
+     ],
+     [
+      -104.84,
+      37.95
+     ],
+     [
+      -104.917,
+      36.51
+     ],
+     [
+      -104.87,
+      37.735
+     ],
+     [
+      -104.89,
+      37.57
+     ],
+     [
+      -104.88,
+      36.25
+     ],
+     [
+      -104.95,
+      36.22
+     ],
+     [
+      -104.915,
+      36.511
+     ],
+     [
+      -105.223,
+      35.594
+     ],
+     [
+      -104.85,
+      36.2
+     ],
+     [
+      -105.22,
+      35.74
+     ],
+     [
+      -104.19,
+      34.4
+     ],
+     [
+      -104.24,
+      34.4
+     ],
+     [
+      -104.6,
+      35.4
+     ],
+     [
+      -104.5,
+      37.17
+     ],
+     [
+      -104.37,
+      38.205
+     ],
+     [
+      -104.508,
+      37.169
+     ],
+     [
+      -105.48,
+      37.92
+     ],
+     [
+      -104.917,
+      36.511
+     ]
+    ]
+   },
+   "properties": {
+    "id": "leduc-parcours",
+    "nom": "Parcours de Maurice LeDuc"
+   }
+  }
+ ]
+}

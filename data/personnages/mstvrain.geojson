@@ -1,0 +1,468 @@
+{
+ "type": "FeatureCollection",
+ "name": "mstvrain",
+ "personnage": {
+  "id": "mstvrain",
+  "nom": "Marcellin St. Vrain",
+  "auteur": "Harvey L. Carter",
+  "pages": "283-287",
+  "vie": "1815-1871",
+  "chapeau": "Benjamin des De Lassus de St. Vrain, diplômé de collège devenu bourgeois du fort St. Vrain sur la South Platte ; chasseur, cavalier, buveur, « diable avec les femmes », il finit meunier dans le Missouri.",
+  "couleur": "#e6007e"
+ },
+ "bibliographie": [
+  "Harvey L. Carter, « Marcellin St. Vrain », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283-287."
+ ],
+ "inedits": [
+  "Cragin Papers, carnets IV, VI et IX (entretiens avec Charles St. Vrain, fils de Marcellin, et Eliza Walker).",
+  "Alexander Barclay Papers, Bancroft Library : 26 avril 1845, 15 oct. 1847, 4 févr. et 1er mars 1848.",
+  "Registres de l'archidiocèse de Saint-Louis : mariage St. Vrain × Murphey (v. 1849-1850) ; état civil du comté de Ralls (décès 1871)."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.21,
+     38.79
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-01",
+    "ordre": 1,
+    "nom": "Spanish Lake : naissance (17 octobre 1815)",
+    "phase": "Missouri",
+    "debut": 1815.79,
+    "fin": 1815.8,
+    "date_edtf": "1815-10-17",
+    "certitude": "certaine",
+    "description": "Dixième et dernier enfant de Jacques Marcellin Céran de Hault de Lassus de St. Vrain et de Marie Félicité Dubreuil, il naît à Spanish Lake. Famille noble dépossédée par la Révolution ; le père, frère du lieutenant-gouverneur de la Haute-Louisiane Charles De Lassus, exploitait une brasserie près de Saint-Louis.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283 — note de l'auteur : Paul A. St. Vrain, Genealogy of the Family of De Lassus and Saint Vrain (Kirksville, 1943)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-02",
+    "ordre": 2,
+    "nom": "Saint-Louis : diplômé d'un collège",
+    "phase": "Missouri",
+    "debut": 1830.0,
+    "fin": 1835.3,
+    "date_edtf": "1830/1835",
+    "certitude": "approximative",
+    "description": "Il reçoit une bonne éducation et sort diplômé d'un collège de Saint-Louis.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-03",
+    "ordre": 3,
+    "nom": "Bent's Old Fort : apprentissage (1835)",
+    "phase": "Bent's Fort",
+    "debut": 1835.4,
+    "fin": 1837.5,
+    "date_edtf": "1835",
+    "certitude": "approximative",
+    "description": "Aussitôt diplômé, il gagne Bent's Fort avec un convoi de Bent, St. Vrain & Co. et y apprend les métiers de trappeur, de traiteur et de chef de convoi.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283 — note de l'auteur : Cragin Papers, carnet IX, p. 27 (informateur : Charles St. Vrain, son fils)",
+    "note": "W. R. Sopris, petit-fils, disait 1833 : sans doute trop tôt."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.73,
+     37.85
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-04",
+    "ordre": 4,
+    "nom": "Timpas Creek : attaque des Pawnees (1837)",
+    "phase": "Bent's Fort",
+    "debut": 1837.0,
+    "fin": 1837.99,
+    "date_edtf": "1837",
+    "certitude": "certaine",
+    "description": "En route vers Santa Fe avec douze mulets, il est attaqué par des Pawnees sur la Timpas : un homme tué, trois blessés, et la perte de dix rames de papier et d'une provision d'encre d'imprimerie.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283 — note de l'auteur : David Lavender, Bent's Fort (1954), p. 177",
+    "note": "Papier et encre : sans doute pour l'imprimerie de Santa Fe."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-05",
+    "ordre": 5,
+    "nom": "Fort St. Vrain (Fort Lookout, Fort George) : bourgeois du poste (1837-1845)",
+    "phase": "Fort St. Vrain",
+    "debut": 1837.5,
+    "fin": 1845.5,
+    "date_edtf": "1837/1845",
+    "certitude": "certaine",
+    "description": "Il prend la tête du poste de la South Platte, sur la rive est, à un demi-mille de la rivière, face à trois concurrents au sud : Fort Vasquez, Fort Jackson et Fort Lupton. Le fort mesure 109 × 128 pieds, avec deux bastions de 19 pieds et des murs de 2 pieds. Il y commande une quinzaine d'hommes sans jamais être associé de la compagnie, et dit à son fils avoir été « neuf ans trappeur dans les montagnes ».",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 284 — note de l'auteur : LeRoy R. Hafen, « Fort St. Vrain », Colorado Magazine, xxix (oct. 1952), p. 241-243",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.79,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-06",
+    "ordre": 6,
+    "nom": "Fort Jackson : la vente des robes à Sarpy et Fraeb (février 1838)",
+    "phase": "Fort St. Vrain",
+    "debut": 1838.08,
+    "fin": 1838.16,
+    "date_edtf": "1838-02",
+    "certitude": "certaine",
+    "description": "Le jeune St. Vrain vend toutes ses robes de bison aux concurrents Sarpy et Fraeb. Ses patrons désavouent l'opération, rachètent Fort Jackson et le ferment.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 284",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-07",
+    "ordre": 7,
+    "nom": "L'anecdote des antilopes",
+    "phase": "Fort St. Vrain",
+    "debut": 1840.0,
+    "fin": 1845.0,
+    "date_edtf": "184X",
+    "certitude": "approximative",
+    "description": "Petit (5 pi 6 po, 115 livres), sportif, amateur de courses de chevaux et de beuveries, il se tenait, dit-on, sur la tête en agitant les jambes pour attirer les antilopes curieuses à portée de fusil.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 285 — note de l'auteur : Lavender, Bent's Fort, p. 182",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-08",
+    "ordre": 8,
+    "nom": "Mariage avec Rel, jeune Sioux de 13 ans (1840)",
+    "phase": "Fort St. Vrain",
+    "debut": 1840.0,
+    "fin": 1846.2,
+    "date_edtf": "1840/1846",
+    "certitude": "certaine",
+    "description": "En 1840, il épouse Rel (ou Red, ou Royal), Sioux de 13 ans ; la famille la disait sœur de Red Cloud (non documenté), Wootton la croyait Blackfoot. Trois enfants naissent au fort : Félix (17 juin 1842), Charles (17 oct. 1844), Mary (9 mars 1846). Une histoire veut que la jumelle de Rel, épousée aussi, se soit pendue par jalousie.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 284 — note de l'auteur : Cragin Papers, carnets IV p. 32 et IX p. 19-21, 30, 40 ; W. R. Sopris, « My Grandmother, Mrs. Marcellin St. Vrain », Colorado Magazine, xxii (mars 1945), p. 63-68",
+    "note": "Récit de la jumelle : juge E. J. Hubbard à Cragin, Trinidad, 8 juin 1908."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.852,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-09",
+    "ordre": 9,
+    "nom": "Fort St. Vrain : fête de l'Indépendance avec Gilpin et Frémont (4 juillet 1843)",
+    "phase": "Fort St. Vrain",
+    "debut": 1843.5,
+    "fin": 1843.51,
+    "date_edtf": "1843-07-04",
+    "certitude": "certaine",
+    "description": "Les voyageurs louent sa courtoisie et son hospitalité : Frémont (Rapport, p. 31), Theodore Talbot et William Gilpin, qui décrit la célébration du 4 juillet 1843 au fort.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Frémont, Report (1845), p. 31 ; C. H. Carey (éd.), The Journal of Theodore Talbot (1931), p. 23, 27 ; Hafen 1952, p. 245",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.47,
+     38.24
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-10",
+    "ordre": 10,
+    "nom": "Au-dessus du fort de Gantt : le « Dearborn » de St. Vrain (26 avril 1845)",
+    "phase": "Bent's Fort",
+    "debut": 1845.32,
+    "fin": 1845.33,
+    "date_edtf": "1845-04-26",
+    "certitude": "certaine",
+    "description": "Barclay déjeune au-dessus du fort de Gantt et voit le Dearborn (voiture légère) de Marcellin descendre des collines depuis la Platte. Fermé en 1845, le fort St. Vrain sert encore aux traites saisonnières chez les Arapahos (départ des chariots le 15 oct. 1847, retour chez Barclay près du Pueblo le 4 févr. 1848).",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 285 — note de l'auteur : Alexander Barclay Papers, Bancroft Library, journal aux dates citées",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.426,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-11",
+    "ordre": 11,
+    "nom": "Bent's Fort : Big Pawnee Woman (1845-1848)",
+    "phase": "Bent's Fort",
+    "debut": 1845.5,
+    "fin": 1848.2,
+    "date_edtf": "1845/1848",
+    "certitude": "certaine",
+    "description": "À Bent's Fort, il a une seconde épouse indienne, Big Pawnee Woman, qui lui donne deux enfants ; elle part ensuite au Pueblo et l'on perd sa trace.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 285 — note de l'auteur : Lavender, p. 310, 413",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1,
+     37.6
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-12",
+    "ordre": 12,
+    "nom": "Avec Abert vers Santa Fe : le chasseur d'antilopes (sept. 1846)",
+    "phase": "Bent's Fort",
+    "debut": 1846.67,
+    "fin": 1846.72,
+    "date_edtf": "1846-09-03/1846-09-08",
+    "certitude": "certaine",
+    "description": "Le 3 septembre 1846, le lieutenant James W. Abert note son arrivée au camp depuis celui du capitaine Walker ; les Magoffin sont au fort, où Susan fait une fausse couche. Le 8, Marcellin accompagne Abert vers Santa Fe et ravitaille la troupe en antilopes grasses.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 286 — note de l'auteur : « Abert's Report, 1846-7 », H. Exec. Doc. 41, 30e Congrès, 1re session, p. 426, 432, 437",
+    "note": "Point placé sur la route de la Raton."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.434,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-13",
+    "ordre": 13,
+    "nom": "Départ de Bent's Fort, malade dans son Dearborn (1er mars 1848)",
+    "phase": "Bent's Fort",
+    "debut": 1848.16,
+    "fin": 1848.17,
+    "date_edtf": "1848-03-01",
+    "certitude": "certaine",
+    "description": "Deux explications à son départ : la mort accidentelle d'un Indien lors d'une lutte au fort, qui obligea Bent et Céran à l'éloigner ; ou une maladie nerveuse qui le fit soigner aux frais de Céran dans un sanatorium de Saint-Louis. Barclay note qu'il quitte le fort malade, couché dans son Dearborn.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 286 — note de l'auteur : Sopris 1945, p. 63 ; Lavender, p. 310 ; Cragin, carnet IX, p. 23 ; Barclay, journal, 1er mars 1848",
+    "note": "Deux versions."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-14",
+    "ordre": 14,
+    "nom": "Saint-Louis : guérison et mariage avec Elizabeth Jane Murphey",
+    "phase": "Missouri",
+    "debut": 1848.4,
+    "fin": 1853.0,
+    "date_edtf": "1848/1853",
+    "certitude": "certaine",
+    "description": "Vite rétabli, il épouse une Irlandaise, Elizabeth Jane Murphey, dont il aura dix enfants (1851-1871, dont des jumeaux posthumes).",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 286 — note de l'auteur : Cragin, carnet IX, p. 26",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.974
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-15",
+    "ordre": 15,
+    "nom": "Mora : Rel et les deux fils (1853)",
+    "phase": "Missouri",
+    "debut": 1853.0,
+    "fin": 1853.99,
+    "date_edtf": "1853",
+    "certitude": "certaine",
+    "description": "Rel s'installe à Santa Fe puis à Mora, aidée par Céran, avant d'épouser William Bransford. En 1853, Marcellin vient à Mora et emmène ses deux fils pour un long séjour dans sa ferme du comté de Saint-Louis.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Cragin, carnet IX, p. 25 (Charles St. Vrain)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     39.585
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-16",
+    "ordre": 16,
+    "nom": "Comté de Ralls : moulin, ferme et mort (4 mars 1871)",
+    "phase": "Missouri",
+    "debut": 1860.0,
+    "fin": 1871.18,
+    "date_edtf": "1860~/1871-03-04",
+    "certitude": "approximative",
+    "description": "Il établit un moulin et une ferme dans le comté de Ralls ; sa fille Mary (née de Rel) lui rend visite en 1866. Il meurt le 4 mars 1871, apparemment par suicide.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Cragin, carnet VI, p. 14",
+    "note": "Point placé à New London, chef-lieu du comté."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -90.21,
+      38.79
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -103.43,
+      38.04
+     ],
+     [
+      -103.73,
+      37.85
+     ],
+     [
+      -104.856,
+      40.283
+     ],
+     [
+      -104.79,
+      40.18
+     ],
+     [
+      -104.856,
+      40.283
+     ],
+     [
+      -104.856,
+      40.283
+     ],
+     [
+      -104.852,
+      40.283
+     ],
+     [
+      -104.47,
+      38.24
+     ],
+     [
+      -103.426,
+      38.04
+     ],
+     [
+      -104.1,
+      37.6
+     ],
+     [
+      -103.434,
+      38.04
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -105.33,
+      35.974
+     ],
+     [
+      -91.4,
+      39.585
+     ]
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-parcours",
+    "nom": "Parcours de Marcellin St. Vrain"
+   }
+  }
+ ]
+}

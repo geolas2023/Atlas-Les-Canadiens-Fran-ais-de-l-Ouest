@@ -149,7 +149,7 @@ function construireChrono() {
     g.appendChild(s);
   }
   // Échelle de temps : durée de vie documentée de Maurice LeDuc
-  const bande = document.createElement('a'); bande.className = 'bande-leduc'; bande.href = 'maurice-leduc.html';
+  const bande = document.createElement('a'); bande.className = 'bande-leduc'; bande.href = 'salle.html#leduc';
   bande.style.left = pos(1819); bande.style.width = `calc(${pos(1880)} - ${pos(1819)})`;
   bande.title = 'Maurice LeDuc, v. 1819-1880 : ouvrir la salle de lecture'; g.appendChild(bande);
   const d = $('#t-debut'), f = $('#t-fin');
@@ -209,6 +209,7 @@ function afficherFiche(id, depuisListe = null) {
     ${imgs}
     ${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}
     <p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p>
+    ${p.salle ? `<p><a class="lien-salle-fiche" href="salle.html#${esc(p.id.replace(/^F-/, ''))}">Ouvrir dans la salle de lecture →</a></p>` : ''}
     ${memeLieu.length ? `<p class="mini">Autres fiches au même lieu :</p><ul class="liste-fiches">${memeLieu.map(li).join('')}</ul>` : ''}
     <p class="mini">Identifiant : ${esc(p.id)}</p>`;
   $('#panneau').scrollTop = 0;
@@ -294,7 +295,7 @@ async function demarrer() {
     $('#c-leduc').onchange = e => ['leduc-parcours', 'leduc-points', 'leduc-num'].forEach(id => carte.setLayoutProperty(id, 'visibility', e.target.checked ? 'visible' : 'none'));
     carte.on('click', 'leduc-points', e => {
       const p = e.features[0].properties;
-      $('#panneau').innerHTML = `<h2>${esc(p.ordre)}. ${esc(p.nom)}</h2><p class="meta">${esc(p.date_edtf)} · ${esc(p.phase)} · localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</p><div class="filet">✦</div><p class="description">${esc(p.description)}</p>${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}<p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p><p><a href="maurice-leduc.html#${esc(p.id)}">Ouvrir dans la salle de lecture →</a></p>`;
+      $('#panneau').innerHTML = `<h2>${esc(p.ordre)}. ${esc(p.nom)}</h2><p class="meta">${esc(p.date_edtf)} · ${esc(p.phase)} · localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</p><div class="filet">✦</div><p class="description">${esc(p.description)}</p>${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}<p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p><p><a href="salle.html#${esc(p.id)}">Ouvrir dans la salle de lecture →</a></p>`;
     });
     carte.addLayer({ id: 'lieux-noms', type: 'symbol', source: 'lieux', minzoom: 7.5,
       layout: { 'text-field': ['get', 'nom'], 'text-size': 11, 'text-offset': [0, 1.1], 'text-anchor': 'top', 'text-max-width': 14, 'text-optional': true },

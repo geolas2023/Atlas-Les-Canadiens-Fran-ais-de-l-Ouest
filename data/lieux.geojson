@@ -10003,6 +10003,846 @@
     "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « Simon Plamondon ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
     "note": ""
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.116,
+     46.04
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-01",
+    "nom": "Sorel : naissance (10 octobre 1791)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1791.77,
+    "fin": 1791.78,
+    "date_edtf": "1791-10-10",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Pierre Lesperance naît à Sorel, au Québec, le 10 octobre 1791. Enfant blond aux yeux bleus, il devient un homme de six pieds, réputé « aussi fort que plusieurs hommes ordinaires ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190 — note de l'auteur : Cragin, entretien avec Octave Geoffrion, Las Vegas, 22 févr. 1908 ; Cragin, « Some Rocky Mountain Trappers… », ms., Cragin Collection",
+    "note": "Les données viennent d'une notice dictée par Lesperance à son voisin Geoffrion, publiée dans le journal néo-mexicain La Bellota (éd. « Aoy »), dont Geoffrion remit une épreuve à Cragin.",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.957,
+     45.627
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-02",
+    "nom": "Saint-Hyacinthe (1811)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.5,
+    "date_edtf": "1811",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "En 1811, il passe par Saint-Hyacinthe avant de partir pour l'Ouest.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-03",
+    "nom": "Saint-Louis : batelier du Mississippi (1811-1814)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.5,
+    "fin": 1814.3,
+    "date_edtf": "1811/1814",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Il travaille trois ans sur les bateaux du fleuve à Saint-Louis avant de monter vers les Rocheuses.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 190",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.65
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-04",
+    "nom": "Huerfano : le parti Philibert attend son chef (1815)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.9,
+    "date_edtf": "1815",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Une légende néo-mexicaine compte Lesperance parmi une quinzaine de Français (Bijou-Bissonnette, Levanway-Livernois, Ledoux, Nolan, Duchesne, La Lande, Leroux, Beaubien, Alvarez, Grenier) qui trappaient des Rocheuses jusqu'aux établissements espagnols. Lecompte la rattache au parti de 18 Français de Joseph Philibert, parti de Saint-Louis en mai 1814 et laissé sur la Huerfano à l'automne 1815.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 191 — note de l'auteur : Cragin, entretiens avec Jacob Beard (1904), Hiram Vasquez (1907), Mme Felipe Ledoux (1908) ; Joseph Tassé, Les Canadiens de l'Ouest, vol. II (Montréal, 1878), p. 186",
+    "note": "Présence de Lesperance non prouvée. Tassé, auteur québécois, est aussi la source du titre de cet atlas.",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-05",
+    "nom": "Taos : hivernage des Français de Philibert (1815-1816)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1815.9,
+    "fin": 1816.2,
+    "date_edtf": "1815/1816-01",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Philibert ne revenant pas, ses hommes franchissent les montagnes vers Taos, où ils sont bien accueillis malgré la méfiance espagnole. En janvier 1816, le gouverneur Maynez signale l'arrivée de neuf Français à Taos.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 191 — note de l'auteur : R. E. Twitchell, Spanish Archives of New Mexico (1914), II, p. 594",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.86,
+     37.96
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-06",
+    "nom": "Greenhorn : arrestation des trappeurs de Chouteau et De Mun (mai 1816)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1816.35,
+    "fin": 1816.45,
+    "date_edtf": "1816-05",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Chouteau et De Mun, qui ont racheté l'équipement et le temps des hommes de Philibert, les reprennent à Taos. En mai 1816, 24 trappeurs campés sur le Greenhorn sont arrêtés par des soldats et conduits à Santa Fe ; libérés après 48 jours de prison, ils rentrent à Saint-Louis.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 191 — note de l'auteur : Julius De Mun à William Clark, 25 nov. 1817, American State Papers, Foreign Relations, vol. 4, p. 211 ; Ezekiel Williams au Missouri Gazette, 7 août 1816 ; carte de De Mun, NMHR 36 (1961)",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.65,
+     40.42
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-07",
+    "nom": "Cache la Poudre : la cache de poudre du parti « Aimelle »",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1821.6,
+    "fin": 1821.85,
+    "date_edtf": "1821",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Lesperance racontait qu'un parti de soixante hommes conduit par « Aimelle » (Michael Immell, de la Missouri Fur Company) remonta la Platte et sa fourche sud jusqu'à l'embouchure de la rivière ; on y cacha poudre et munitions avant de se disperser pour la chasse. Au retour, la cache était intacte, sauf un morceau de cuir graisseux qu'un loup avait déterré : d'où le nom « Cache à la Poudre ».",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 192 — note de l'auteur : Cragin, « Some Rocky Mountain Trappers… »",
+    "note": "Lesperance datait l'épisode de 1814 ; Lecompte le corrige en 1821. Version concurrente : convoi de l'AFC enneigé en 1836, impossible puisque Dodge passe la « Cache de la Poudre » en 1835 ; autre version d'A. G. Boone : expédition d'Ashley, 1824-1825.",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.25,
+     41.75
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-08",
+    "nom": "Rivière Laramie : la mort de Baptiste Laramée (1821)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1821.85,
+    "fin": 1821.9,
+    "date_edtf": "1821-11",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "En novembre, Lesperance, Louis Ambroise, Baptiste Laramée et François Leclair campent à 45 milles au sud de la North Platte. Avant l'aube, une décharge réveille le camp : Laramée est mort. Dans la version donnée à Cragin, Lesperance voit un Indien penché sur la victime transpercée d'une lance, l'assomme d'un coup de crosse, et les survivants, sans chevaux ni bagages, rejoignent à pied le camp d'Aimelle en quatre jours. La rivière porte depuis le nom de Laramie.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 192 — note de l'auteur : Cragin, entretien avec Geoffrion ; C. G. Coutant, History of Wyoming (1899), I, p. 296-299 ; « Tabular Statement… » des trappeurs tués, Office of Indian Affairs, St. Louis Superintendency, 1829-1831, National Archives (« J. Loremy », tué sur la Platte par les Arapahos en 1821)",
+    "note": "Le document imprimé (Sen. Doc. 90, 22e Congrès) lit « J. Lorency », erreur de lecture du manuscrit.",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-09",
+    "nom": "Nouveau-Mexique : installation (1822), naturalisé mexicain (1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1830.99,
+    "date_edtf": "1822/1830",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "En 1822, il s'installe au Nouveau-Mexique, part trapper avec les expéditions annuelles de Taos et devient citoyen mexicain en 1830.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 193 — note de l'auteur : « Mexico - Naturalization, 1829-1831 », Ritch Papers, Huntington Library ; An Illustrated History of New Mexico (1895), p. 488-489",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.17,
+     35.36
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-10",
+    "nom": "Real de Dolores (Old Placers) : chercheur d'or (1828 ; 1832-1835)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1835.99,
+    "date_edtf": "1828/1835",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "En 1828, il exploite les placers de Real de Dolores, à 28 milles au sud de Santa Fe, où un berger sonorien venait de trouver la première pépite. Il revient y travailler de 1832 jusqu'à l'épuisement du gisement en 1835.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194 — note de l'auteur : Cragin, « Some Rocky Mountain Trappers… »",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.3,
+     30.3
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-11",
+    "nom": "Sonora : mineur (1828-1832)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1828.5,
+    "fin": 1832.0,
+    "date_edtf": "1828/1832",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Faute de rendement à Dolores, il part miner en Sonora jusqu'en 1832.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194",
+    "note": "Lieu précis inconnu ; point placé en Sonora centrale.",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.373,
+     35.556
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-12",
+    "nom": "Concession de Tecolote : naissance de San Gerónimo (1839)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1879.0,
+    "date_edtf": "1839/1879",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "En 1839, « Pedro Buen-amigo Esperanza » signe une pétition pour une concession sur la rivière Tecolote, à 16 milles à l'ouest de Las Vegas. Son ranch devient le village de San Gerónimo. Marié deux fois (Aniceta Gallegos, dont il se sépare ; Dolores Garcia, qui meurt), il n'a pas d'enfant.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194 — note de l'auteur : Twitchell, I, p. 89 ; H. Exec. Doc. 1, 34e Congrès, 3e session ; Cragin, entretien avec Geoffrion",
+    "note": "Traduction ludique de son nom : « Pierre Bon-ami Espérance ».",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.36,
+     35.56
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-13",
+    "nom": "Le neveu « Pedrito » et la scierie de la Tecolote (1857)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1879.0,
+    "date_edtf": "1857/1879",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "En 1857, il écrit à son frère Joseph à Sorel pour accueillir son neveu Pierre. Le garçon, déjà immense à 18 ans, est surnommé par plaisanterie « Pedrito ». Ensemble, ils construisent une scierie à lame verticale mue par la Tecolote, qui fournit l'essentiel du bois des maisons de Las Vegas de l'époque. Pedrito hérite et meurt riche à San Gerónimo.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 194 — note de l'auteur : Las Vegas Daily Optic, 6 août 1953, sect. A, p. 5",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.373,
+     35.556
+    ]
+   },
+   "properties": {
+    "id": "F-lesperance-14",
+    "nom": "San Gerónimo : mort et sépulture (1879)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.99,
+    "date_edtf": "1879",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lesperance"
+    ],
+    "description": "Il meurt en 1879, à 88 ans, si complètement hispanisé qu'il a oublié sa langue maternelle. Sous le nom de Pedro Lesperanza, il est inhumé dans la petite église catholique qu'il avait aidé à bâtir. L'évêque Lamy loue sa piété, sa mémoire et le plaisir qu'il prenait à raconter ses années de trappe.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 195 — note de l'auteur : Tassé, Les Canadiens de l'Ouest, II, p. 186-188",
+    "note": "",
+    "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.21,
+     38.79
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-01",
+    "nom": "Spanish Lake : naissance (17 octobre 1815)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1815.79,
+    "fin": 1815.8,
+    "date_edtf": "1815-10-17",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Dixième et dernier enfant de Jacques Marcellin Céran de Hault de Lassus de St. Vrain et de Marie Félicité Dubreuil, il naît à Spanish Lake. Famille noble dépossédée par la Révolution ; le père, frère du lieutenant-gouverneur de la Haute-Louisiane Charles De Lassus, exploitait une brasserie près de Saint-Louis.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283 — note de l'auteur : Paul A. St. Vrain, Genealogy of the Family of De Lassus and Saint Vrain (Kirksville, 1943)",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-02",
+    "nom": "Saint-Louis : diplômé d'un collège",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1835.3,
+    "date_edtf": "1830/1835",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Il reçoit une bonne éducation et sort diplômé d'un collège de Saint-Louis.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-03",
+    "nom": "Bent's Old Fort : apprentissage (1835)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1835.4,
+    "fin": 1837.5,
+    "date_edtf": "1835",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Aussitôt diplômé, il gagne Bent's Fort avec un convoi de Bent, St. Vrain & Co. et y apprend les métiers de trappeur, de traiteur et de chef de convoi.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283 — note de l'auteur : Cragin Papers, carnet IX, p. 27 (informateur : Charles St. Vrain, son fils)",
+    "note": "W. R. Sopris, petit-fils, disait 1833 : sans doute trop tôt.",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.73,
+     37.85
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-04",
+    "nom": "Timpas Creek : attaque des Pawnees (1837)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.99,
+    "date_edtf": "1837",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "En route vers Santa Fe avec douze mulets, il est attaqué par des Pawnees sur la Timpas : un homme tué, trois blessés, et la perte de dix rames de papier et d'une provision d'encre d'imprimerie.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 283 — note de l'auteur : David Lavender, Bent's Fort (1954), p. 177",
+    "note": "Papier et encre : sans doute pour l'imprimerie de Santa Fe.",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-05",
+    "nom": "Fort St. Vrain (Fort Lookout, Fort George) : bourgeois du poste (1837-1845)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1837.5,
+    "fin": 1845.5,
+    "date_edtf": "1837/1845",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Il prend la tête du poste de la South Platte, sur la rive est, à un demi-mille de la rivière, face à trois concurrents au sud : Fort Vasquez, Fort Jackson et Fort Lupton. Le fort mesure 109 × 128 pieds, avec deux bastions de 19 pieds et des murs de 2 pieds. Il y commande une quinzaine d'hommes sans jamais être associé de la compagnie, et dit à son fils avoir été « neuf ans trappeur dans les montagnes ».",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 284 — note de l'auteur : LeRoy R. Hafen, « Fort St. Vrain », Colorado Magazine, xxix (oct. 1952), p. 241-243",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.79,
+     40.18
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-06",
+    "nom": "Fort Jackson : la vente des robes à Sarpy et Fraeb (février 1838)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1838.08,
+    "fin": 1838.16,
+    "date_edtf": "1838-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Le jeune St. Vrain vend toutes ses robes de bison aux concurrents Sarpy et Fraeb. Ses patrons désavouent l'opération, rachètent Fort Jackson et le ferment.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 284",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-07",
+    "nom": "L'anecdote des antilopes",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1845.0,
+    "date_edtf": "184X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Petit (5 pi 6 po, 115 livres), sportif, amateur de courses de chevaux et de beuveries, il se tenait, dit-on, sur la tête en agitant les jambes pour attirer les antilopes curieuses à portée de fusil.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 285 — note de l'auteur : Lavender, Bent's Fort, p. 182",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-08",
+    "nom": "Mariage avec Rel, jeune Sioux de 13 ans (1840)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1846.2,
+    "date_edtf": "1840/1846",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "En 1840, il épouse Rel (ou Red, ou Royal), Sioux de 13 ans ; la famille la disait sœur de Red Cloud (non documenté), Wootton la croyait Blackfoot. Trois enfants naissent au fort : Félix (17 juin 1842), Charles (17 oct. 1844), Mary (9 mars 1846). Une histoire veut que la jumelle de Rel, épousée aussi, se soit pendue par jalousie.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 284 — note de l'auteur : Cragin Papers, carnets IV p. 32 et IX p. 19-21, 30, 40 ; W. R. Sopris, « My Grandmother, Mrs. Marcellin St. Vrain », Colorado Magazine, xxii (mars 1945), p. 63-68",
+    "note": "Récit de la jumelle : juge E. J. Hubbard à Cragin, Trinidad, 8 juin 1908.",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.852,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-09",
+    "nom": "Fort St. Vrain : fête de l'Indépendance avec Gilpin et Frémont (4 juillet 1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.5,
+    "fin": 1843.51,
+    "date_edtf": "1843-07-04",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Les voyageurs louent sa courtoisie et son hospitalité : Frémont (Rapport, p. 31), Theodore Talbot et William Gilpin, qui décrit la célébration du 4 juillet 1843 au fort.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Frémont, Report (1845), p. 31 ; C. H. Carey (éd.), The Journal of Theodore Talbot (1931), p. 23, 27 ; Hafen 1952, p. 245",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.47,
+     38.24
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-10",
+    "nom": "Au-dessus du fort de Gantt : le « Dearborn » de St. Vrain (26 avril 1845)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1845.32,
+    "fin": 1845.33,
+    "date_edtf": "1845-04-26",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Barclay déjeune au-dessus du fort de Gantt et voit le Dearborn (voiture légère) de Marcellin descendre des collines depuis la Platte. Fermé en 1845, le fort St. Vrain sert encore aux traites saisonnières chez les Arapahos (départ des chariots le 15 oct. 1847, retour chez Barclay près du Pueblo le 4 févr. 1848).",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 285 — note de l'auteur : Alexander Barclay Papers, Bancroft Library, journal aux dates citées",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.426,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-11",
+    "nom": "Bent's Fort : Big Pawnee Woman (1845-1848)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1845.5,
+    "fin": 1848.2,
+    "date_edtf": "1845/1848",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "À Bent's Fort, il a une seconde épouse indienne, Big Pawnee Woman, qui lui donne deux enfants ; elle part ensuite au Pueblo et l'on perd sa trace.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 285 — note de l'auteur : Lavender, p. 310, 413",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1,
+     37.6
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-12",
+    "nom": "Avec Abert vers Santa Fe : le chasseur d'antilopes (sept. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.67,
+    "fin": 1846.72,
+    "date_edtf": "1846-09-03/1846-09-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Le 3 septembre 1846, le lieutenant James W. Abert note son arrivée au camp depuis celui du capitaine Walker ; les Magoffin sont au fort, où Susan fait une fausse couche. Le 8, Marcellin accompagne Abert vers Santa Fe et ravitaille la troupe en antilopes grasses.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 286 — note de l'auteur : « Abert's Report, 1846-7 », H. Exec. Doc. 41, 30e Congrès, 1re session, p. 426, 432, 437",
+    "note": "Point placé sur la route de la Raton.",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.434,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-13",
+    "nom": "Départ de Bent's Fort, malade dans son Dearborn (1er mars 1848)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1848.16,
+    "fin": 1848.17,
+    "date_edtf": "1848-03-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Deux explications à son départ : la mort accidentelle d'un Indien lors d'une lutte au fort, qui obligea Bent et Céran à l'éloigner ; ou une maladie nerveuse qui le fit soigner aux frais de Céran dans un sanatorium de Saint-Louis. Barclay note qu'il quitte le fort malade, couché dans son Dearborn.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 286 — note de l'auteur : Sopris 1945, p. 63 ; Lavender, p. 310 ; Cragin, carnet IX, p. 23 ; Barclay, journal, 1er mars 1848",
+    "note": "Deux versions.",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-14",
+    "nom": "Saint-Louis : guérison et mariage avec Elizabeth Jane Murphey",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1848.4,
+    "fin": 1853.0,
+    "date_edtf": "1848/1853",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Vite rétabli, il épouse une Irlandaise, Elizabeth Jane Murphey, dont il aura dix enfants (1851-1871, dont des jumeaux posthumes).",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 286 — note de l'auteur : Cragin, carnet IX, p. 26",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.974
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-15",
+    "nom": "Mora : Rel et les deux fils (1853)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.99,
+    "date_edtf": "1853",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Rel s'installe à Santa Fe puis à Mora, aidée par Céran, avant d'épouser William Bransford. En 1853, Marcellin vient à Mora et emmène ses deux fils pour un long séjour dans sa ferme du comté de Saint-Louis.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Cragin, carnet IX, p. 25 (Charles St. Vrain)",
+    "note": "",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     39.585
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-16",
+    "nom": "Comté de Ralls : moulin, ferme et mort (4 mars 1871)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1871.18,
+    "date_edtf": "1860~/1871-03-04",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Il établit un moulin et une ferme dans le comté de Ralls ; sa fille Mary (née de Rel) lui rend visite en 1866. Il meurt le 4 mars 1871, apparemment par suicide.",
+    "sources": "Harvey L. Carter, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 287 — note de l'auteur : Cragin, carnet VI, p. 14",
+    "note": "Point placé à New London, chef-lieu du comté.",
+    "salle": "mstvrain"
+   }
   }
  ]
 }
