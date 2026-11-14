@@ -107,19 +107,14 @@ for (vol, sujet, nom, lon, lat, d, f, edtf, cert, theme, desc, note) in H:
     feats.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},
       "properties":{"id":f"H{k:03d}","nom":nom,"corpus":"Hafen","theme":theme,"debut":d,"fin":f,"date_edtf":edtf,
         "precision":"","certitude":cert,"personnages":[canon(sujet.replace('"','').replace('Ceran','Céran'))],
-        "description":desc,"sources":src,"note":note or ""}})
-# --- Maurice LeDuc : chronologie de vie
+        "description":desc,"sources":src,"note":note or "","_sujet":sujet}})
+# --- Salles de lecture (French Fur Traders and Voyageurs) ; LeDuc fusionné
 from leduc import L, BIBLIO
-lf = []
-for (o, nom, lon, lat, d, f, edtf, cert, phase, desc, src, note) in L:
-    lf.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},
-      "properties":{"id":f"M{o:02d}","ordre":o,"nom":nom,"corpus":"Maurice LeDuc","theme":"personnage","phase":phase,
-        "debut":d,"fin":f,"date_edtf":edtf,"precision":"","certitude":cert,"personnages":["Maurice LeDuc"],
-        "description":desc,"sources":src,"note":note or ""}})
-vie = [x for x in lf if x['properties']['phase'] not in ('Mémoire',)]
-ligne = {"type":"Feature","geometry":{"type":"LineString","coordinates":[x['geometry']['coordinates'] for x in sorted(vie,key=lambda x:x['properties']['ordre'])]},
-         "properties":{"id":"M-parcours","nom":"Parcours de vie de Maurice LeDuc (ordre chronologique)"}}
-json.dump({"type":"FeatureCollection","name":"maurice-leduc","bibliographie":BIBLIO,"features":lf+[ligne]},
-          open(f'{OUT}/data/maurice-leduc.geojson','w'), ensure_ascii=False, indent=1)
+from blocs_leduc import BLOCS
+from build_ffv import construire
+remplaces, index = construire(feats, L, BIBLIO, BLOCS)
+avant = len(feats)
+feats = [f for f in feats if not (f['properties']['corpus']=='Hafen' and f['properties']['id'].startswith('H') and f['properties'].get('_sujet') in remplaces)]
+for f in feats: f['properties'].pop('_sujet', None)
 json.dump({"type":"FeatureCollection","name":"lieux","features":feats}, open(f'{OUT}/data/lieux.geojson','w'), ensure_ascii=False, indent=1)
-print('final total', len(feats), 'leduc', len(lf))
+print('final total', len(feats), 'retirés', avant-len(feats), 'salles', [(x['id'], x['etapes']) for x in index])
