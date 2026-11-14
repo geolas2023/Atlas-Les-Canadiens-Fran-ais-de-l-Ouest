@@ -281,13 +281,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -94.7,
-     39.02
+     -101.9,
+     41.13
     ]
    },
    "properties": {
     "id": "papin-12",
     "ordre": 12,
+    "nom": "Sur la Platte : « Voici le vieux Papin et Frédéric ! » (juin 1846) — Parkman",
+    "phase": "Fort Laramie",
+    "debut": 1846.42,
+    "fin": 1846.44,
+    "date_edtf": "1846-06",
+    "certitude": "approximative",
+    "description": "Le guide Henry Chatillon annonce l'arrivée de Papin, « bourgeois » de Fort Laramie, et de Frédéric ; la flottille, partie depuis un mois, se hâte car la rivière baisse chaque jour.",
+    "sources": "Source primaire consultée en ligne : F. Parkman, The Oregon Trail (éd. 1892), chap. VI et IX-X ; texte consulté sur Wikisource, chap. VI",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7,
+     39.02
+    ]
+   },
+   "properties": {
+    "id": "papin-13",
+    "ordre": 13,
     "nom": "À dix milles de Westport : « Chère femme » (8 sept. 1846)",
     "phase": "Fort Laramie",
     "debut": 1846.68,
@@ -309,8 +332,8 @@
     ]
    },
    "properties": {
-    "id": "papin-13",
-    "ordre": 13,
+    "id": "papin-14",
+    "ordre": 14,
     "nom": "Embouchure de la Kansas : à bord du Martha (7 juillet 1847)",
     "phase": "Fort Laramie",
     "debut": 1847.3,
@@ -332,8 +355,8 @@
     ]
    },
    "properties": {
-    "id": "papin-14",
-    "ordre": 14,
+    "id": "papin-15",
+    "ordre": 15,
     "nom": "Fort John : lettre à « Ma chère Catiche » (17 déc. 1847)",
     "phase": "Fort Laramie",
     "debut": 1847.79,
@@ -355,8 +378,8 @@
     ]
    },
    "properties": {
-    "id": "papin-15",
-    "ordre": 15,
+    "id": "papin-16",
+    "ordre": 16,
     "nom": "Saint-Louis, angle 2e rue et Pine : il refuse de remonter (1848)",
     "phase": "Fort Laramie",
     "debut": 1848.55,
@@ -378,8 +401,8 @@
     ]
    },
    "properties": {
-    "id": "papin-16",
-    "ordre": 16,
+    "id": "papin-17",
+    "ordre": 17,
     "nom": "Fourches de la Cheyenne (févr. 1851)",
     "phase": "Dernières années",
     "debut": 1850.7,
@@ -401,8 +424,8 @@
     ]
    },
    "properties": {
-    "id": "papin-17",
-    "ordre": 17,
+    "id": "papin-18",
+    "ordre": 18,
     "nom": "Wildcat Hills (Scotts Bluff) : tombe solitaire (mai 1853)",
     "phase": "Dernières années",
     "debut": 1851.5,
@@ -424,8 +447,8 @@
     ]
    },
    "properties": {
-    "id": "papin-18",
-    "ordre": 18,
+    "id": "papin-19",
+    "ordre": 19,
     "nom": "Jefferson Memorial : les portraits de Pierre et Catiche",
     "phase": "Mémoire",
     "debut": 1900.0,
@@ -485,6 +508,10 @@
      [
       -102.0,
       41.15
+     ],
+     [
+      -101.9,
+      41.13
      ],
      [
       -94.7,

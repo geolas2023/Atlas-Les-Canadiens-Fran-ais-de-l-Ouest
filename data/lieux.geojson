@@ -8956,6 +8956,165 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -94.7,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "R008",
+    "nom": "Poste de Cyprien Chouteau sur la Kansas : les Canadiens de Frémont (juin 1842)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1842.42,
+    "fin": 1842.45,
+    "date_edtf": "1842-06",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Clément Lambert",
+     "Basile Lajeunesse",
+     "Baptiste Bernier",
+     "Honoré Ayot",
+     "François La Tulipe",
+     "Louis Ménard",
+     "Lucien Maxwell",
+     "Cyprien Chouteau"
+    ],
+    "description": "Frémont organise sa première expédition au poste de Cyprien Chouteau, sur la rive droite de la Kansas, à dix milles de l'embouchure. Parmi les vingt et un hommes engagés à Saint-Louis : Lambert, L'Espérance, Lefèvre, Potra, Gouin, Dumes, Lajeunesse, Tessier, Cadotte, Clément, Benoit, Bernier, Ayot, La Tulipe, Badeau, Ménard, Ruelle, Chardonnais, Janisse, Proue. Le 14 juin, Basile Lajeunesse franchit la Kansas en crue à la nage, la corde du bateau entre les dents.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, juin 1842",
+    "note": "Lucien Maxwell, de Kaskaskia, est le chasseur de l'expédition."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.55,
+     42.215
+    ]
+   },
+   "properties": {
+    "id": "R009",
+    "nom": "Fort Platte : Joseph Bissonette et la lettre de L. B. Chartrain (21 juillet 1842)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1842.53,
+    "fin": 1842.58,
+    "date_edtf": "1842-07-21",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Bissonette",
+     "L. B. Chartrain"
+    ],
+    "description": "Au fort Platte de Sibille, Adams & Co., bâti en terre et inachevé, le traiteur Joseph Bissonette, qui parle couramment le sioux, adresse à Frémont une lettre écrite par L. B. Chartrain : ne pas partir avant le retour des guerriers sioux et cheyennes (chefs Otter Hat, Breaker of Arrows, Black Night, Bull's Tail). Il accompagne l'expédition jusqu'aux Red Buttes.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, 15-21 juillet 1842",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.47,
+     42.78
+    ]
+   },
+   "properties": {
+    "id": "R010",
+    "nom": "Red Buttes : « Le meilleur avis » de Bissonette (28 juillet 1842)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1842.57,
+    "fin": 1842.58,
+    "date_edtf": "1842-07-28",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Bissonette"
+    ],
+    "description": "Près des Red Buttes, Bissonette conseille à Frémont, en français, de rebrousser chemin immédiatement, puis repart avec ses Indiens ; Frémont lui confie l'invalide Dumes.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, 28 juillet 1842",
+    "note": "Position estimée des Red Buttes sur la North Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.858,
+     40.281
+    ]
+   },
+   "properties": {
+    "id": "R011",
+    "nom": "Fort St. Vrain : les Canadiens choisis par Frémont (26 juillet 1843)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1843.56,
+    "fin": 1843.57,
+    "date_edtf": "1843-07-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Basile Lajeunesse",
+     "François Badeau",
+     "Jean-Baptiste Bernier",
+     "Louis Ménard",
+     "Raphaël Proue",
+     "Jean-Baptiste Derosier",
+     "François Lajeunesse",
+     "Auguste Vasquez"
+    ],
+    "description": "Pour sa propre colonne, Frémont retient Basile Lajeunesse, François Badeau, J.-B. Bernier, Louis Ménard, Raphaël Proue, Louis Zindel, J.-B. Derosier, François Lajeunesse et Auguste Vasquez. Il note aussi qu'un engagé français a été blessé par balle au fort Lupton le 4 juillet.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, 23-26 juillet 1843",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.66,
+     45.935
+    ]
+   },
+   "properties": {
+    "id": "R012",
+    "nom": "Fort Manuel : les engagés canadiens de Lisa (1812-1813)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1812.6,
+    "fin": 1813.2,
+    "date_edtf": "1812/1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Jessaume",
+     "Papin",
+     "Bijou",
+     "Lecomte",
+     "Archambeau",
+     "Cadet Chevalier",
+     "Laderoute",
+     "Pierre Chaine",
+     "Baptiste Provost"
+    ],
+    "description": "Le journal de Luttig nomme au fort Manuel (baptisé solennellement un 19, avec salves) de nombreux Canadiens : Lecomte tué par des Crows (17 sept. 1812), Mercier et Carrière tués par des Sioux près du Big Bend (30 déc.), Cadet Chevalier mort de fièvre (4 janv. 1813), Latour, Machecou, Duroche et Laderoute chassés pour insubordination (21 janv.), Archambeau tué par des Sioux en charriant du foin (22 févr.).",
+    "sources": "Source primaire consultée en ligne : John C. Luttig, Journal of a Fur-Trading Expedition on the Upper Missouri, 1812-1813, éd. S. M. Drumm (1920) ; texte consulté en ligne (Mountain Men digital library, D. Rudy)",
+    "note": "Le nom de Maurice LeDuc n'apparaît pas dans le journal (il figure au registre de compte de la compagnie)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -101.27,
      47.25
     ]
@@ -10473,12 +10632,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.553,
+     42.205
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-08",
+    "nom": "Fort Laramie : « Mr. Boudeau » reçoit Frémont (13-21 juillet 1842) — vérification",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.53,
+    "fin": 1842.56,
+    "date_edtf": "1842-07-13/1842-07-21",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Frémont écrit « Boudeau » : il commande le fort avec les commis Galpin et Kellogg et une quinzaine d'hommes, presque tous mariés à des Indiennes ; il vient d'acheter une trentaine de têtes de bétail aux émigrants. Le 21 juillet, des chefs sioux et cheyennes forcent la porte de la pièce pour retenir l'expédition.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, entrées de juillet 1842",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -104.557,
      42.206
     ]
    },
    "properties": {
-    "id": "F-bordeaux-08",
+    "id": "F-bordeaux-09",
     "nom": "Fort John : le Crow jeté du haut du mur (5 juillet 1843)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10506,7 +10693,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-09",
+    "id": "F-bordeaux-10",
     "nom": "Bordeaux Creek (près de Chadron) : la maison d'hiver",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10529,12 +10716,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.556,
+     42.201
+    ]
+   },
+   "properties": {
+    "id": "F-bordeaux-11",
+    "nom": "Fort Laramie : la longue-vue et Marie (juin 1846) — Parkman",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.45,
+    "fin": 1846.5,
+    "date_edtf": "1846-06",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Parkman loge dans la meilleure pièce du fort, celle du bourgeois Papin, en l'absence duquel commande Bordeaux ; à l'arrivée d'un camp indien, Bordeaux crie à sa femme Marie d'apporter sa longue-vue et grimpe sur le mur.",
+    "sources": "Source primaire consultée en ligne : F. Parkman, The Oregon Trail (éd. 1892), chap. VI et IX-X ; texte consulté sur Wikisource",
+    "note": "",
+    "salle": "bordeaux"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -104.56,
      42.203
     ]
    },
    "properties": {
-    "id": "F-bordeaux-10",
+    "id": "F-bordeaux-12",
     "nom": "Fort John : Parkman et l'affaire Perrault (15 juin 1846)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10562,7 +10777,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-11",
+    "id": "F-bordeaux-13",
     "nom": "Fort John : Brigham Young et les mormons (1er juin 1847)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10590,7 +10805,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-12",
+    "id": "F-bordeaux-14",
     "nom": "Poste Bordeaux sur la North Platte, huit milles en aval du fort (1849-1868)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10618,7 +10833,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-13",
+    "id": "F-bordeaux-15",
     "nom": "Fourches de la White River : 72 chevaux volés par les Crows (automne 1849)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10646,7 +10861,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-14",
+    "id": "F-bordeaux-16",
     "nom": "Pont à péage de la North Platte, près d'Evansville (1853)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10674,7 +10889,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-15",
+    "id": "F-bordeaux-17",
     "nom": "Massacre de Grattan, devant son magasin (19 août 1854)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10702,7 +10917,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-16",
+    "id": "F-bordeaux-18",
     "nom": "Fort Laramie : naissance de sa fille Susan (15 mars 1857)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10730,7 +10945,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-17",
+    "id": "F-bordeaux-19",
     "nom": "Cherry Creek : l'or de Pike's Peak (1858)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10758,7 +10973,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-18",
+    "id": "F-bordeaux-20",
     "nom": "Raw Hide Butte : sous-poste (1862)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10786,7 +11001,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-19",
+    "id": "F-bordeaux-21",
     "nom": "Horse Creek : 106 bœufs et 47 chevaux emportés (juin 1865)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10814,7 +11029,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-20",
+    "id": "F-bordeaux-22",
     "nom": "Chugwater : le magasin du carrefour (1867-1868)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10842,7 +11057,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-21",
+    "id": "F-bordeaux-23",
     "nom": "Agence Whetstone, près de Fort Randall (1868-1871)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10870,7 +11085,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-22",
+    "id": "F-bordeaux-24",
     "nom": "Agence Rosebud : mort (11 oct. 1878)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -10898,7 +11113,7 @@
     ]
    },
    "properties": {
-    "id": "F-bordeaux-23",
+    "id": "F-bordeaux-25",
     "nom": "Saint-François (Dakota du Sud) : la sépulture",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11733,12 +11948,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -100.65,
+     45.93
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-08",
+    "nom": "Fort Manuel : mort de la « squaw serpent » de Charbonneau, Sacagawea (20 déc. 1812)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1812.96,
+    "fin": 1812.97,
+    "date_edtf": "1812-12-20",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Le commis Luttig note le 20 décembre 1812 la mort de fièvre putride de l'épouse serpent (shoshone) de Charbonneau, qui laisse une petite fille ; l'entrée est généralement identifiée à la mort de Sacagawea, mère de Jean-Baptiste, alors à Saint-Louis chez Clark. Le 17 septembre précédent, Toussaint Charbonneau avait donné l'alerte au fort après la mort de Lecomte, tué par des Crows.",
+    "sources": "Source primaire consultée en ligne : John C. Luttig, Journal of a Fur-Trading Expedition on the Upper Missouri, 1812-1813, éd. S. M. Drumm (1920) ; texte consulté en ligne (Mountain Men digital library, D. Rudy), entrées des 17 sept. et 20 déc. 1812",
+    "note": "Identification à Sacagawea débattue (thèse concurrente : mort à Wind River en 1884).",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -94.61,
      39.115
     ]
    },
    "properties": {
-    "id": "F-charbonneau-08",
+    "id": "F-charbonneau-09",
     "nom": "Embouchure de la Kansas : rencontre du prince Paul de Wurtemberg (1823)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11766,7 +12009,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-09",
+    "id": "F-charbonneau-10",
     "nom": "La Nouvelle-Orléans : le brick Smyrna (déc. 1823)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11794,7 +12037,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-10",
+    "id": "F-charbonneau-11",
     "nom": "Le Havre : arrivée en France (14 févr. 1824)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11822,7 +12065,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-11",
+    "id": "F-charbonneau-12",
     "nom": "Wurtemberg : six ans au château du prince (1824-1829)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11850,7 +12093,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-12",
+    "id": "F-charbonneau-13",
     "nom": "Portneuf : perdu onze jours, une peau de castor pleine d'eau (automne 1830)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11878,7 +12121,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-13",
+    "id": "F-charbonneau-14",
     "nom": "Rendez-vous de la Green River (1833)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11906,7 +12149,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-14",
+    "id": "F-charbonneau-15",
     "nom": "Independence et Fort Vasquez : chasseur de Vasquez et Sublette (1839-1840)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11934,7 +12177,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-15",
+    "id": "F-charbonneau-16",
     "nom": "Île « Sainte-Hélène » sur la South Platte : le julep de Frémont (juillet-août 1842)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11957,12 +12200,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -103.82,
+     40.26
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-17",
+    "nom": "Fort St. Vrain / île Sainte-Hélène : les chevaux égarés du camp de Chabonard (9 juillet 1842)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.52,
+    "fin": 1842.53,
+    "date_edtf": "1842-07-09",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Frémont apprend en route qu'une bande de chevaux s'est échappée d'un camp « à la charge de M. Chabonard », puis trouve celui-ci installé pour l'été sur l'île qu'il a nommée Sainte-Hélène.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, entrée du 9 juillet 1842",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -109.9,
      43.2
     ]
    },
    "properties": {
-    "id": "F-charbonneau-16",
+    "id": "F-charbonneau-18",
     "nom": "Excursion de Sir William Drummond Stewart (1843)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -11990,7 +12261,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-17",
+    "id": "F-charbonneau-19",
     "nom": "Bent's Fort : « le meilleur homme à pied des plaines » (1844)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12018,7 +12289,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-18",
+    "id": "F-charbonneau-20",
     "nom": "Rivière Canadienne : guide d'Abert (1845)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12046,7 +12317,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-19",
+    "id": "F-charbonneau-21",
     "nom": "Col de Guadalupe : la chasse à l'ours en chemise rouge (fin nov. 1846)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12074,7 +12345,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-20",
+    "id": "F-charbonneau-22",
     "nom": "Mission San Luis Rey : l'alcade métis (nov. 1847-juillet 1848)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12102,7 +12373,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-21",
+    "id": "F-charbonneau-23",
     "nom": "Murderer's Bar (American River) : mineur avec Beckwourth (1848-1849)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12130,7 +12401,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-22",
+    "id": "F-charbonneau-24",
     "nom": "Fort Sutter : le prince Paul se souvient (août 1850)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12154,11 +12425,67 @@
     "type": "Point",
     "coordinates": [
      -121.08,
+     38.9
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-25",
+    "nom": "Comté de Placer : guide de l'arpenteur du comté (1852)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.99,
+    "date_edtf": "1852",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "En 1852, le conseil des superviseurs du comté de Placer lui verse 48 $ pour avoir guidé l'arpenteur du comté. Il signe une pétition à Rattlesnake Bar contre l'élection d'un sénateur, adresse une pétition au conseil des superviseurs en juin 1857 et figure en mai 1865 au rôle des taxes de Rocklin.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1,
+     38.79
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-26",
+    "nom": "Rattlesnake Bar (American River) : la pétition",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1857.5,
+    "date_edtf": "185X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Signature d'une pétition à Rattlesnake Bar contre l'élection d'un sénateur des États-Unis.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "Lieu-dit minier aujourd'hui noyé par le lac Folsom.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08,
      38.897
     ]
    },
    "properties": {
-    "id": "F-charbonneau-23",
+    "id": "F-charbonneau-27",
     "nom": "Auburn : commis à l'Orleans Hotel (1860-1866)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12181,12 +12508,68 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -117.33,
-     42.94
+     -121.235,
+     38.79
     ]
    },
    "properties": {
-    "id": "F-charbonneau-24",
+    "id": "F-charbonneau-28",
+    "nom": "Rocklin : au rôle des taxes (mai 1865)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1865.33,
+    "fin": 1865.42,
+    "date_edtf": "1865-05",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Il figure au rôle d'évaluation fiscale de Rocklin en mai 1865, un an avant son départ pour le Montana.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.45,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-29",
+    "nom": "Rivière Owyhee : la chute dans l'eau glacée (mai 1866)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1866.35,
+    "fin": 1866.37,
+    "date_edtf": "1866-05",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Selon les études récentes, il tombe dans la rivière Owyhee en la franchissant et contracte une pneumonie ; ses compagnons le portent au relais suivant, Inskip, en espérant sa guérison, à peu de distance des mines de Ruby (Silver City, Idaho).",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "Point placé au passage probable de l'Owyhee.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.339,
+     42.9518
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-30",
     "nom": "Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12214,7 +12597,7 @@
     ]
    },
    "properties": {
-    "id": "F-charbonneau-25",
+    "id": "F-charbonneau-31",
     "nom": "Réserve de Wind River : l'autre « Baptiste » (1885)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -12229,6 +12612,34 @@
     "description": "Grace R. Hebard identifie un « Bat-tez » mort en 1885 sur la réserve de Wind River et lui élève un monument ; Ann Hafen conclut à une erreur d'identité.",
     "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 95 — note de l'auteur : G. R. Hebard, Sacajawea (1933)",
     "note": "Identité contestée.",
+    "salle": "charbonneau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.077,
+     38.9
+    ]
+   },
+   "properties": {
+    "id": "F-charbonneau-32",
+    "nom": "Old Town Auburn : la plaque commémorative (2006, révisée en 2020)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1974.0,
+    "fin": 2020.0,
+    "date_edtf": "1974 ; 2006 ; 2020",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "La pierre tombale de Danner, « 1805 – 1866 », est posée par le chapitre Malheur des Filles de la Révolution américaine le 6 août 1974 ; la société historique du comté de Placer pose une plaque à Auburn le 10 décembre 2006, révisée en 2020.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "",
     "salle": "charbonneau"
    }
   },
@@ -17585,12 +17996,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -101.9,
+     41.13
+    ]
+   },
+   "properties": {
+    "id": "F-papin-12",
+    "nom": "Sur la Platte : « Voici le vieux Papin et Frédéric ! » (juin 1846) — Parkman",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.42,
+    "fin": 1846.44,
+    "date_edtf": "1846-06",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Le guide Henry Chatillon annonce l'arrivée de Papin, « bourgeois » de Fort Laramie, et de Frédéric ; la flottille, partie depuis un mois, se hâte car la rivière baisse chaque jour.",
+    "sources": "Source primaire consultée en ligne : F. Parkman, The Oregon Trail (éd. 1892), chap. VI et IX-X ; texte consulté sur Wikisource, chap. VI",
+    "note": "",
+    "salle": "papin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -94.7,
      39.02
     ]
    },
    "properties": {
-    "id": "F-papin-12",
+    "id": "F-papin-13",
     "nom": "À dix milles de Westport : « Chère femme » (8 sept. 1846)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17618,7 +18057,7 @@
     ]
    },
    "properties": {
-    "id": "F-papin-13",
+    "id": "F-papin-14",
     "nom": "Embouchure de la Kansas : à bord du Martha (7 juillet 1847)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17646,7 +18085,7 @@
     ]
    },
    "properties": {
-    "id": "F-papin-14",
+    "id": "F-papin-15",
     "nom": "Fort John : lettre à « Ma chère Catiche » (17 déc. 1847)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17674,7 +18113,7 @@
     ]
    },
    "properties": {
-    "id": "F-papin-15",
+    "id": "F-papin-16",
     "nom": "Saint-Louis, angle 2e rue et Pine : il refuse de remonter (1848)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17702,7 +18141,7 @@
     ]
    },
    "properties": {
-    "id": "F-papin-16",
+    "id": "F-papin-17",
     "nom": "Fourches de la Cheyenne (févr. 1851)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17730,7 +18169,7 @@
     ]
    },
    "properties": {
-    "id": "F-papin-17",
+    "id": "F-papin-18",
     "nom": "Wildcat Hills (Scotts Bluff) : tombe solitaire (mai 1853)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -17758,7 +18197,7 @@
     ]
    },
    "properties": {
-    "id": "F-papin-18",
+    "id": "F-papin-19",
     "nom": "Jefferson Memorial : les portraits de Pierre et Catiche",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19294,11 +19733,39 @@
     "type": "Point",
     "coordinates": [
      -104.852,
-     40.283
+     40.285
     ]
    },
    "properties": {
     "id": "F-mstvrain-09",
+    "nom": "Fort St. Vrain : chevaux, mules et un Espagnol pour Frémont (10-12 juillet 1842)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.52,
+    "fin": 1842.53,
+    "date_edtf": "1842-07-10/1842-07-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellin St. Vrain"
+    ],
+    "description": "Frémont est reçu par M. St. Vrain « avec beaucoup de bonté et d'hospitalité » ; grâce à lui, il obtient deux chevaux et des mules et engage un Espagnol du poste. L'année suivante (23-26 juillet 1843), l'expédition s'y regroupe avec Fitzpatrick et Kit Carson y arrive avec dix mules.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, entrées des 10-12 juillet 1842 et 23-26 juillet 1843",
+    "note": "Frémont ne donne pas le prénom ; Marcellin dirigeait alors le fort.",
+    "salle": "mstvrain"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.852,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "F-mstvrain-10",
     "nom": "Fort St. Vrain : fête de l'Indépendance avec Gilpin et Frémont (4 juillet 1843)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19326,7 +19793,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-10",
+    "id": "F-mstvrain-11",
     "nom": "Au-dessus du fort de Gantt : le « Dearborn » de St. Vrain (26 avril 1845)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19354,7 +19821,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-11",
+    "id": "F-mstvrain-12",
     "nom": "Bent's Fort : Big Pawnee Woman (1845-1848)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19382,7 +19849,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-12",
+    "id": "F-mstvrain-13",
     "nom": "Avec Abert vers Santa Fe : le chasseur d'antilopes (sept. 1846)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19410,7 +19877,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-13",
+    "id": "F-mstvrain-14",
     "nom": "Départ de Bent's Fort, malade dans son Dearborn (1er mars 1848)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19438,7 +19905,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-14",
+    "id": "F-mstvrain-15",
     "nom": "Saint-Louis : guérison et mariage avec Elizabeth Jane Murphey",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19466,7 +19933,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-15",
+    "id": "F-mstvrain-16",
     "nom": "Mora : Rel et les deux fils (1853)",
     "corpus": "Hafen",
     "theme": "personnage",
@@ -19494,7 +19961,7 @@
     ]
    },
    "properties": {
-    "id": "F-mstvrain-16",
+    "id": "F-mstvrain-17",
     "nom": "Comté de Ralls : moulin, ferme et mort (4 mars 1871)",
     "corpus": "Hafen",
     "theme": "personnage",

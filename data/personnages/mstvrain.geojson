@@ -210,12 +210,35 @@
     "type": "Point",
     "coordinates": [
      -104.852,
-     40.283
+     40.285
     ]
    },
    "properties": {
     "id": "mstvrain-09",
     "ordre": 9,
+    "nom": "Fort St. Vrain : chevaux, mules et un Espagnol pour Frémont (10-12 juillet 1842)",
+    "phase": "Fort St. Vrain",
+    "debut": 1842.52,
+    "fin": 1842.53,
+    "date_edtf": "1842-07-10/1842-07-12",
+    "certitude": "certaine",
+    "description": "Frémont est reçu par M. St. Vrain « avec beaucoup de bonté et d'hospitalité » ; grâce à lui, il obtient deux chevaux et des mules et engage un Espagnol du poste. L'année suivante (23-26 juillet 1843), l'expédition s'y regroupe avec Fitzpatrick et Kit Carson y arrive avec dix mules.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, entrées des 10-12 juillet 1842 et 23-26 juillet 1843",
+    "note": "Frémont ne donne pas le prénom ; Marcellin dirigeait alors le fort."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.852,
+     40.283
+    ]
+   },
+   "properties": {
+    "id": "mstvrain-10",
+    "ordre": 10,
     "nom": "Fort St. Vrain : fête de l'Indépendance avec Gilpin et Frémont (4 juillet 1843)",
     "phase": "Fort St. Vrain",
     "debut": 1843.5,
@@ -237,8 +260,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-10",
-    "ordre": 10,
+    "id": "mstvrain-11",
+    "ordre": 11,
     "nom": "Au-dessus du fort de Gantt : le « Dearborn » de St. Vrain (26 avril 1845)",
     "phase": "Bent's Fort",
     "debut": 1845.32,
@@ -260,8 +283,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-11",
-    "ordre": 11,
+    "id": "mstvrain-12",
+    "ordre": 12,
     "nom": "Bent's Fort : Big Pawnee Woman (1845-1848)",
     "phase": "Bent's Fort",
     "debut": 1845.5,
@@ -283,8 +306,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-12",
-    "ordre": 12,
+    "id": "mstvrain-13",
+    "ordre": 13,
     "nom": "Avec Abert vers Santa Fe : le chasseur d'antilopes (sept. 1846)",
     "phase": "Bent's Fort",
     "debut": 1846.67,
@@ -306,8 +329,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-13",
-    "ordre": 13,
+    "id": "mstvrain-14",
+    "ordre": 14,
     "nom": "Départ de Bent's Fort, malade dans son Dearborn (1er mars 1848)",
     "phase": "Bent's Fort",
     "debut": 1848.16,
@@ -329,8 +352,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-14",
-    "ordre": 14,
+    "id": "mstvrain-15",
+    "ordre": 15,
     "nom": "Saint-Louis : guérison et mariage avec Elizabeth Jane Murphey",
     "phase": "Missouri",
     "debut": 1848.4,
@@ -352,8 +375,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-15",
-    "ordre": 15,
+    "id": "mstvrain-16",
+    "ordre": 16,
     "nom": "Mora : Rel et les deux fils (1853)",
     "phase": "Missouri",
     "debut": 1853.0,
@@ -375,8 +398,8 @@
     ]
    },
    "properties": {
-    "id": "mstvrain-16",
-    "ordre": 16,
+    "id": "mstvrain-17",
+    "ordre": 17,
     "nom": "Comté de Ralls : moulin, ferme et mort (4 mars 1871)",
     "phase": "Missouri",
     "debut": 1860.0,
@@ -424,6 +447,10 @@
      [
       -104.856,
       40.283
+     ],
+     [
+      -104.852,
+      40.285
      ],
      [
       -104.852,

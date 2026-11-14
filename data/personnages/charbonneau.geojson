@@ -189,13 +189,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -94.61,
-     39.115
+     -100.65,
+     45.93
     ]
    },
    "properties": {
     "id": "charbonneau-08",
     "ordre": 8,
+    "nom": "Fort Manuel : mort de la « squaw serpent » de Charbonneau, Sacagawea (20 déc. 1812)",
+    "phase": "Saint-Louis et l'Europe",
+    "debut": 1812.96,
+    "fin": 1812.97,
+    "date_edtf": "1812-12-20",
+    "certitude": "certaine",
+    "description": "Le commis Luttig note le 20 décembre 1812 la mort de fièvre putride de l'épouse serpent (shoshone) de Charbonneau, qui laisse une petite fille ; l'entrée est généralement identifiée à la mort de Sacagawea, mère de Jean-Baptiste, alors à Saint-Louis chez Clark. Le 17 septembre précédent, Toussaint Charbonneau avait donné l'alerte au fort après la mort de Lecomte, tué par des Crows.",
+    "sources": "Source primaire consultée en ligne : John C. Luttig, Journal of a Fur-Trading Expedition on the Upper Missouri, 1812-1813, éd. S. M. Drumm (1920) ; texte consulté en ligne (Mountain Men digital library, D. Rudy), entrées des 17 sept. et 20 déc. 1812",
+    "note": "Identification à Sacagawea débattue (thèse concurrente : mort à Wind River en 1884)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-09",
+    "ordre": 9,
     "nom": "Embouchure de la Kansas : rencontre du prince Paul de Wurtemberg (1823)",
     "phase": "Saint-Louis et l'Europe",
     "debut": 1823.5,
@@ -217,8 +240,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-09",
-    "ordre": 9,
+    "id": "charbonneau-10",
+    "ordre": 10,
     "nom": "La Nouvelle-Orléans : le brick Smyrna (déc. 1823)",
     "phase": "Saint-Louis et l'Europe",
     "debut": 1823.97,
@@ -240,8 +263,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-10",
-    "ordre": 10,
+    "id": "charbonneau-11",
+    "ordre": 11,
     "nom": "Le Havre : arrivée en France (14 févr. 1824)",
     "phase": "Saint-Louis et l'Europe",
     "debut": 1824.12,
@@ -263,8 +286,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-11",
-    "ordre": 11,
+    "id": "charbonneau-12",
+    "ordre": 12,
     "nom": "Wurtemberg : six ans au château du prince (1824-1829)",
     "phase": "Saint-Louis et l'Europe",
     "debut": 1824.2,
@@ -286,8 +309,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-12",
-    "ordre": 12,
+    "id": "charbonneau-13",
+    "ordre": 13,
     "nom": "Portneuf : perdu onze jours, une peau de castor pleine d'eau (automne 1830)",
     "phase": "Trappeur",
     "debut": 1830.7,
@@ -309,8 +332,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-13",
-    "ordre": 13,
+    "id": "charbonneau-14",
+    "ordre": 14,
     "nom": "Rendez-vous de la Green River (1833)",
     "phase": "Trappeur",
     "debut": 1833.5,
@@ -332,8 +355,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-14",
-    "ordre": 14,
+    "id": "charbonneau-15",
+    "ordre": 15,
     "nom": "Independence et Fort Vasquez : chasseur de Vasquez et Sublette (1839-1840)",
     "phase": "Trappeur",
     "debut": 1839.6,
@@ -355,8 +378,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-15",
-    "ordre": 15,
+    "id": "charbonneau-16",
+    "ordre": 16,
     "nom": "Île « Sainte-Hélène » sur la South Platte : le julep de Frémont (juillet-août 1842)",
     "phase": "Trappeur",
     "debut": 1842.5,
@@ -373,13 +396,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -103.82,
+     40.26
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-17",
+    "ordre": 17,
+    "nom": "Fort St. Vrain / île Sainte-Hélène : les chevaux égarés du camp de Chabonard (9 juillet 1842)",
+    "phase": "Trappeur",
+    "debut": 1842.52,
+    "fin": 1842.53,
+    "date_edtf": "1842-07-09",
+    "certitude": "certaine",
+    "description": "Frémont apprend en route qu'une bande de chevaux s'est échappée d'un camp « à la charge de M. Chabonard », puis trouve celui-ci installé pour l'été sur l'île qu'il a nommée Sainte-Hélène.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, entrée du 9 juillet 1842",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -109.9,
      43.2
     ]
    },
    "properties": {
-    "id": "charbonneau-16",
-    "ordre": 16,
+    "id": "charbonneau-18",
+    "ordre": 18,
     "nom": "Excursion de Sir William Drummond Stewart (1843)",
     "phase": "Trappeur",
     "debut": 1843.4,
@@ -401,8 +447,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-17",
-    "ordre": 17,
+    "id": "charbonneau-19",
+    "ordre": 19,
     "nom": "Bent's Fort : « le meilleur homme à pied des plaines » (1844)",
     "phase": "Trappeur",
     "debut": 1844.0,
@@ -424,8 +470,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-18",
-    "ordre": 18,
+    "id": "charbonneau-20",
+    "ordre": 20,
     "nom": "Rivière Canadienne : guide d'Abert (1845)",
     "phase": "Trappeur",
     "debut": 1845.6,
@@ -447,8 +493,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-19",
-    "ordre": 19,
+    "id": "charbonneau-21",
+    "ordre": 21,
     "nom": "Col de Guadalupe : la chasse à l'ours en chemise rouge (fin nov. 1846)",
     "phase": "Bataillon mormon",
     "debut": 1846.88,
@@ -470,8 +516,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-20",
-    "ordre": 20,
+    "id": "charbonneau-22",
+    "ordre": 22,
     "nom": "Mission San Luis Rey : l'alcade métis (nov. 1847-juillet 1848)",
     "phase": "Californie",
     "debut": 1847.85,
@@ -493,8 +539,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-21",
-    "ordre": 21,
+    "id": "charbonneau-23",
+    "ordre": 23,
     "nom": "Murderer's Bar (American River) : mineur avec Beckwourth (1848-1849)",
     "phase": "Californie",
     "debut": 1848.9,
@@ -516,8 +562,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-22",
-    "ordre": 22,
+    "id": "charbonneau-24",
+    "ordre": 24,
     "nom": "Fort Sutter : le prince Paul se souvient (août 1850)",
     "phase": "Californie",
     "debut": 1850.6,
@@ -535,12 +581,58 @@
     "type": "Point",
     "coordinates": [
      -121.08,
+     38.9
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-25",
+    "ordre": 25,
+    "nom": "Comté de Placer : guide de l'arpenteur du comté (1852)",
+    "phase": "Californie",
+    "debut": 1852.0,
+    "fin": 1852.99,
+    "date_edtf": "1852",
+    "certitude": "certaine",
+    "description": "En 1852, le conseil des superviseurs du comté de Placer lui verse 48 $ pour avoir guidé l'arpenteur du comté. Il signe une pétition à Rattlesnake Bar contre l'élection d'un sénateur, adresse une pétition au conseil des superviseurs en juin 1857 et figure en mai 1865 au rôle des taxes de Rocklin.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1,
+     38.79
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-26",
+    "ordre": 26,
+    "nom": "Rattlesnake Bar (American River) : la pétition",
+    "phase": "Californie",
+    "debut": 1852.0,
+    "fin": 1857.5,
+    "date_edtf": "185X",
+    "certitude": "approximative",
+    "description": "Signature d'une pétition à Rattlesnake Bar contre l'élection d'un sénateur des États-Unis.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "Lieu-dit minier aujourd'hui noyé par le lac Folsom."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08,
      38.897
     ]
    },
    "properties": {
-    "id": "charbonneau-23",
-    "ordre": 23,
+    "id": "charbonneau-27",
+    "ordre": 27,
     "nom": "Auburn : commis à l'Orleans Hotel (1860-1866)",
     "phase": "Californie",
     "debut": 1860.0,
@@ -557,13 +649,59 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -117.33,
-     42.94
+     -121.235,
+     38.79
     ]
    },
    "properties": {
-    "id": "charbonneau-24",
-    "ordre": 24,
+    "id": "charbonneau-28",
+    "ordre": 28,
+    "nom": "Rocklin : au rôle des taxes (mai 1865)",
+    "phase": "Californie",
+    "debut": 1865.33,
+    "fin": 1865.42,
+    "date_edtf": "1865-05",
+    "certitude": "certaine",
+    "description": "Il figure au rôle d'évaluation fiscale de Rocklin en mai 1865, un an avant son départ pour le Montana.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.45,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-29",
+    "ordre": 29,
+    "nom": "Rivière Owyhee : la chute dans l'eau glacée (mai 1866)",
+    "phase": "Californie",
+    "debut": 1866.35,
+    "fin": 1866.37,
+    "date_edtf": "1866-05",
+    "certitude": "approximative",
+    "description": "Selon les études récentes, il tombe dans la rivière Owyhee en la franchissant et contracte une pneumonie ; ses compagnons le portent au relais suivant, Inskip, en espérant sa guérison, à peu de distance des mines de Ruby (Silver City, Idaho).",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": "Point placé au passage probable de l'Owyhee."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.339,
+     42.9518
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-30",
+    "ordre": 30,
     "nom": "Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)",
     "phase": "Californie",
     "debut": 1866.37,
@@ -585,8 +723,8 @@
     ]
    },
    "properties": {
-    "id": "charbonneau-25",
-    "ordre": 25,
+    "id": "charbonneau-31",
+    "ordre": 31,
     "nom": "Réserve de Wind River : l'autre « Baptiste » (1885)",
     "phase": "Mémoire",
     "debut": 1885.0,
@@ -596,6 +734,29 @@
     "description": "Grace R. Hebard identifie un « Bat-tez » mort en 1885 sur la réserve de Wind River et lui élève un monument ; Ann Hafen conclut à une erreur d'identité.",
     "sources": "Ann W. Hafen, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 95 — note de l'auteur : G. R. Hebard, Sacajawea (1933)",
     "note": "Identité contestée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.077,
+     38.9
+    ]
+   },
+   "properties": {
+    "id": "charbonneau-32",
+    "ordre": 32,
+    "nom": "Old Town Auburn : la plaque commémorative (2006, révisée en 2020)",
+    "phase": "Mémoire",
+    "debut": 1974.0,
+    "fin": 2020.0,
+    "date_edtf": "1974 ; 2006 ; 2020",
+    "certitude": "certaine",
+    "description": "La pierre tombale de Danner, « 1805 – 1866 », est posée par le chapitre Malheur des Filles de la Révolution américaine le 6 août 1974 ; la société historique du comté de Placer pose une plaque à Auburn le 10 décembre 2006, révisée en 2020.",
+    "sources": "Source primaire consultée en ligne : Placer County Historical Society, notice « Jean Baptiste Charbonneau » ; comté de Placer, bulletin du patrimoine ; lewis-clark.org, « Jean Baptiste's Final Journey » (consultés en ligne)",
+    "note": ""
    }
   },
   {
@@ -632,6 +793,10 @@
       38.627
      ],
      [
+      -100.65,
+      45.93
+     ],
+     [
       -94.61,
       39.115
      ],
@@ -664,6 +829,10 @@
       40.25
      ],
      [
+      -103.82,
+      40.26
+     ],
+     [
       -109.9,
       43.2
      ],
@@ -693,11 +862,27 @@
      ],
      [
       -121.08,
+      38.9
+     ],
+     [
+      -121.1,
+      38.79
+     ],
+     [
+      -121.08,
       38.897
      ],
      [
-      -117.33,
-      42.94
+      -121.235,
+      38.79
+     ],
+     [
+      -117.45,
+      42.85
+     ],
+     [
+      -117.339,
+      42.9518
      ]
     ]
    },

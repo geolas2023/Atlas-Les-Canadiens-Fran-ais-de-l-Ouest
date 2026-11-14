@@ -74,7 +74,7 @@ E = [
 ("Auburn : commis à l'Orleans Hotel (1860-1866)", -121.08, 38.897, 1860.0, 1866.3, "1860/1866", "certaine", "Californie",
  "Recensé en 1860 à Secret Ravine (57 ans, né au Missouri), il est commis à l'Orleans Hotel d'Auburn en 1861. Attiré par l'or du Montana, « pays de sa naissance », il part au printemps 1866.",
  s(92, "U.S. Census 1860, Placer County ; Directory of Placer County (1861), p. 79"), None),
-("Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)", -117.33, 42.94, 1866.37, 1866.38, "1866-05-16", "certaine", "Californie",
+("Inskip's Ranch (Danner, Oregon) : mort sur l'Owyhee (16 mai 1866)", -117.339, 42.9518, 1866.37, 1866.38, "1866-05-16", "certaine", "Californie",
  "Pris de « fièvre des montagnes » ou de pneumonie, il meurt au ranch Inskip, à l'embouchure de Cow Creek ; trois vieilles tombes y sont visibles, l'une présumée la sienne. Le Placer Herald le dit homme aimable, cultivé, au courant de l'actualité.",
  s(93, "Placer Herald (Auburn), 7 juillet 1866 ; Butte Record (Oroville), 14 juillet 1866 ; Owyhee Avalanche (Ruby City), 2 juin 1866 ; Merle Wells, Idaho Historical Society"), None),
 ("Réserve de Wind River : l'autre « Baptiste » (1885)", -108.73, 43.0, 1885.0, 1933.0, "1885 ; 1933", "hypothetique", "Mémoire",

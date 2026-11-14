@@ -87,6 +87,9 @@ json.dump(THEMES, open(f'{OUT}/data/themes.json','w'), ensure_ascii=False, inden
 
 # --- Corpus « Recherches » (web et littérature)
 from recherches import R
+import sys as _s; _s.path.insert(0, 'ffv')
+from sources_primaires import R_ADD
+R = list(R) + R_ADD
 k = 0
 for (nom, lon, lat, d, f, edtf, prec, cert, pers, desc, src, note, theme) in R:
     k += 1

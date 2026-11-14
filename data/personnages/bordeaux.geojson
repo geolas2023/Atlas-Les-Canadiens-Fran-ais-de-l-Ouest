@@ -189,13 +189,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.557,
-     42.206
+     -104.553,
+     42.205
     ]
    },
    "properties": {
     "id": "bordeaux-08",
     "ordre": 8,
+    "nom": "Fort Laramie : « Mr. Boudeau » reçoit Frémont (13-21 juillet 1842) — vérification",
+    "phase": "Fort Laramie",
+    "debut": 1842.53,
+    "fin": 1842.56,
+    "date_edtf": "1842-07-13/1842-07-21",
+    "certitude": "certaine",
+    "description": "Frémont écrit « Boudeau » : il commande le fort avec les commis Galpin et Kellogg et une quinzaine d'hommes, presque tous mariés à des Indiennes ; il vient d'acheter une trentaine de têtes de bétail aux émigrants. Le 21 juillet, des chefs sioux et cheyennes forcent la porte de la pièce pour retenir l'expédition.",
+    "sources": "Source primaire consultée en ligne : J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-44 (1845) ; texte consulté sur Project Gutenberg, ebook no 9294, entrées de juillet 1842",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.557,
+     42.206
+    ]
+   },
+   "properties": {
+    "id": "bordeaux-09",
+    "ordre": 9,
     "nom": "Fort John : le Crow jeté du haut du mur (5 juillet 1843)",
     "phase": "Fort Laramie",
     "debut": 1843.51,
@@ -217,8 +240,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-09",
-    "ordre": 9,
+    "id": "bordeaux-10",
+    "ordre": 10,
     "nom": "Bordeaux Creek (près de Chadron) : la maison d'hiver",
     "phase": "Traiteur indépendant",
     "debut": 1846.0,
@@ -235,13 +258,36 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.556,
+     42.201
+    ]
+   },
+   "properties": {
+    "id": "bordeaux-11",
+    "ordre": 11,
+    "nom": "Fort Laramie : la longue-vue et Marie (juin 1846) — Parkman",
+    "phase": "Fort Laramie",
+    "debut": 1846.45,
+    "fin": 1846.5,
+    "date_edtf": "1846-06",
+    "certitude": "certaine",
+    "description": "Parkman loge dans la meilleure pièce du fort, celle du bourgeois Papin, en l'absence duquel commande Bordeaux ; à l'arrivée d'un camp indien, Bordeaux crie à sa femme Marie d'apporter sa longue-vue et grimpe sur le mur.",
+    "sources": "Source primaire consultée en ligne : F. Parkman, The Oregon Trail (éd. 1892), chap. VI et IX-X ; texte consulté sur Wikisource",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -104.56,
      42.203
     ]
    },
    "properties": {
-    "id": "bordeaux-10",
-    "ordre": 10,
+    "id": "bordeaux-12",
+    "ordre": 12,
     "nom": "Fort John : Parkman et l'affaire Perrault (15 juin 1846)",
     "phase": "Fort Laramie",
     "debut": 1846.45,
@@ -263,8 +309,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-11",
-    "ordre": 11,
+    "id": "bordeaux-13",
+    "ordre": 13,
     "nom": "Fort John : Brigham Young et les mormons (1er juin 1847)",
     "phase": "Fort Laramie",
     "debut": 1847.4,
@@ -286,8 +332,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-12",
-    "ordre": 12,
+    "id": "bordeaux-14",
+    "ordre": 14,
     "nom": "Poste Bordeaux sur la North Platte, huit milles en aval du fort (1849-1868)",
     "phase": "Traiteur indépendant",
     "debut": 1849.5,
@@ -309,8 +355,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-13",
-    "ordre": 13,
+    "id": "bordeaux-15",
+    "ordre": 15,
     "nom": "Fourches de la White River : 72 chevaux volés par les Crows (automne 1849)",
     "phase": "Traiteur indépendant",
     "debut": 1849.75,
@@ -332,8 +378,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-14",
-    "ordre": 14,
+    "id": "bordeaux-16",
+    "ordre": 16,
     "nom": "Pont à péage de la North Platte, près d'Evansville (1853)",
     "phase": "Traiteur indépendant",
     "debut": 1851.0,
@@ -355,8 +401,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-15",
-    "ordre": 15,
+    "id": "bordeaux-17",
+    "ordre": 17,
     "nom": "Massacre de Grattan, devant son magasin (19 août 1854)",
     "phase": "Traiteur indépendant",
     "debut": 1854.63,
@@ -378,8 +424,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-16",
-    "ordre": 16,
+    "id": "bordeaux-18",
+    "ordre": 18,
     "nom": "Fort Laramie : naissance de sa fille Susan (15 mars 1857)",
     "phase": "Traiteur indépendant",
     "debut": 1856.7,
@@ -401,8 +447,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-17",
-    "ordre": 17,
+    "id": "bordeaux-19",
+    "ordre": 19,
     "nom": "Cherry Creek : l'or de Pike's Peak (1858)",
     "phase": "Traiteur indépendant",
     "debut": 1858.4,
@@ -424,8 +470,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-18",
-    "ordre": 18,
+    "id": "bordeaux-20",
+    "ordre": 20,
     "nom": "Raw Hide Butte : sous-poste (1862)",
     "phase": "Traiteur indépendant",
     "debut": 1862.0,
@@ -447,8 +493,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-19",
-    "ordre": 19,
+    "id": "bordeaux-21",
+    "ordre": 21,
     "nom": "Horse Creek : 106 bœufs et 47 chevaux emportés (juin 1865)",
     "phase": "Traiteur indépendant",
     "debut": 1865.4,
@@ -470,8 +516,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-20",
-    "ordre": 20,
+    "id": "bordeaux-22",
+    "ordre": 22,
     "nom": "Chugwater : le magasin du carrefour (1867-1868)",
     "phase": "Traiteur indépendant",
     "debut": 1867.3,
@@ -493,8 +539,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-21",
-    "ordre": 21,
+    "id": "bordeaux-23",
+    "ordre": 23,
     "nom": "Agence Whetstone, près de Fort Randall (1868-1871)",
     "phase": "Rosebud",
     "debut": 1868.45,
@@ -516,8 +562,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-22",
-    "ordre": 22,
+    "id": "bordeaux-24",
+    "ordre": 24,
     "nom": "Agence Rosebud : mort (11 oct. 1878)",
     "phase": "Rosebud",
     "debut": 1878.4,
@@ -539,8 +585,8 @@
     ]
    },
    "properties": {
-    "id": "bordeaux-23",
-    "ordre": 23,
+    "id": "bordeaux-25",
+    "ordre": 25,
     "nom": "Saint-François (Dakota du Sud) : la sépulture",
     "phase": "Mémoire",
     "debut": 1884.0,
@@ -586,12 +632,20 @@
       42.203
      ],
      [
+      -104.553,
+      42.205
+     ],
+     [
       -104.557,
       42.206
      ],
      [
       -102.95,
       42.81
+     ],
+     [
+      -104.556,
+      42.201
      ],
      [
       -104.56,
