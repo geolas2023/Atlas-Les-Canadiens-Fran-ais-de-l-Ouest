@@ -84,3 +84,28 @@ for f0 in d['features']:
 print('total', len(feats), 'images copied', copied)
 json.dump({"type":"FeatureCollection","name":"lieux","features":feats}, open(f'{OUT}/data/lieux.geojson','w'), ensure_ascii=False, indent=1)
 json.dump(THEMES, open(f'{OUT}/data/themes.json','w'), ensure_ascii=False, indent=1)
+
+# --- Corpus « Recherches » (web et littérature)
+from recherches import R
+k = 0
+for (nom, lon, lat, d, f, edtf, prec, cert, pers, desc, src, note, theme) in R:
+    k += 1
+    feats.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},
+      "properties":{"id":f"R{k:03d}","nom":nom,"corpus":"Recherches","theme":theme,"debut":d,"fin":f,"date_edtf":edtf,
+        "precision":prec,"certitude":cert,"personnages":[canon(p.strip()) for p in pers.split(';') if p.strip()],
+        "description":desc,"sources":src,"note":note or ""}})
+# --- Maurice LeDuc : chronologie de vie
+from leduc import L, BIBLIO
+lf = []
+for (o, nom, lon, lat, d, f, edtf, cert, phase, desc, src, note) in L:
+    lf.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},
+      "properties":{"id":f"M{o:02d}","ordre":o,"nom":nom,"corpus":"Maurice LeDuc","theme":"personnage","phase":phase,
+        "debut":d,"fin":f,"date_edtf":edtf,"precision":"","certitude":cert,"personnages":["Maurice LeDuc"],
+        "description":desc,"sources":src,"note":note or ""}})
+vie = [x for x in lf if x['properties']['phase'] not in ('Mémoire',)]
+ligne = {"type":"Feature","geometry":{"type":"LineString","coordinates":[x['geometry']['coordinates'] for x in sorted(vie,key=lambda x:x['properties']['ordre'])]},
+         "properties":{"id":"M-parcours","nom":"Parcours de vie de Maurice LeDuc (ordre chronologique)"}}
+json.dump({"type":"FeatureCollection","name":"maurice-leduc","bibliographie":BIBLIO,"features":lf+[ligne]},
+          open(f'{OUT}/data/maurice-leduc.geojson','w'), ensure_ascii=False, indent=1)
+json.dump({"type":"FeatureCollection","name":"lieux","features":feats}, open(f'{OUT}/data/lieux.geojson','w'), ensure_ascii=False, indent=1)
+print('final total', len(feats), 'leduc', len(lf))

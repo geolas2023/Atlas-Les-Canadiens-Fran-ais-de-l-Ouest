@@ -1,0 +1,36 @@
+/* Salle de lecture : Maurice LeDuc */
+body.salle { grid-template-rows: auto 1fr auto; }
+.salle-contenu { display: grid; grid-template-columns: 340px 1fr 360px; min-height: 0; }
+#recit { overflow-y: auto; padding: .8rem 1rem; background: #efe8da; border-right: 1px solid #d6cbb8; font-size: .88rem; }
+#carte-salle { min-height: 0; }
+#fiche-salle { overflow-y: auto; padding: 1rem 1.2rem; background: #faf7f1; border-left: 1px solid #d6cbb8; }
+#fiche-salle h2 { font-family: "IM Fell English", Georgia, serif; font-size: 1.3rem; margin: 0 0 .3rem; line-height: 1.2; }
+#fiche-salle .description { line-height: 1.55; }
+#fiche-salle .sources { font-size: .8rem; border-top: 1px solid #d6cbb8; margin-top: 1rem; padding-top: .5rem; }
+.chapeau { font-family: "IM Fell English", Georgia, serif; font-size: 1rem; font-style: italic; line-height: 1.45; margin-top: 0; }
+.nav-etapes { display: flex; align-items: center; gap: .5rem; margin: .5rem 0 .8rem; }
+.nav-etapes button { background: #00a8e8; color: #fff; border: 0; border-radius: 50%; width: 1.9rem; height: 1.9rem; cursor: pointer; }
+#etape-courante { flex: 1; text-align: center; font-size: .8rem; color: #4a4236; }
+.phase { font-family: "IM Fell English SC", Georgia, serif; font-size: 1rem; margin: .9rem 0 .2rem; color: #063b52; border-bottom: 1px solid #b7dcec; }
+.etape { display: flex; gap: .5rem; padding: .3rem .2rem; cursor: pointer; border-radius: 3px; }
+.etape:hover, .etape.active { background: #d9eff8; }
+.etape .num { flex: none; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: #00a8e8; color: #fff; font: bold .72rem system-ui, sans-serif; display: grid; place-items: center; border: 1.5px solid #063b52; }
+.etape.hypothetique .num { background: #fff; color: #063b52; border-style: dashed; }
+.etape.approximative .num { background: #6cc8ee; }
+.etape .t { line-height: 1.3; }
+.etape .d { display: block; font-size: .72rem; color: #6b604f; }
+.bloc-salle { margin-top: .8rem; border-top: 1px solid #ddd1bc; padding-top: .5rem; }
+.bloc-salle summary { font-family: "IM Fell English SC", Georgia, serif; font-size: 1rem; cursor: pointer; }
+.bloc-salle li { margin-bottom: .35rem; }
+#biblio { padding-left: 1.2rem; font-size: .8rem; }
+.frise { background: #2f3a4a; padding: .3rem .8rem .2rem; }
+#frise { width: 100%; height: 92px; display: block; }
+#frise text { font-family: system-ui, sans-serif; fill: #d6dbe3; font-size: 10px; }
+#frise .marque { cursor: pointer; }
+#frise .marque:hover circle, #frise .marque.active circle { stroke: #ffd36a; stroke-width: 3; }
+.leg-phase { display: flex; align-items: center; gap: .4rem; font-size: .8rem; margin: .15rem 0; }
+.leg-phase i { width: 12px; height: 12px; border-radius: 50%; border: 1px solid #063b52; }
+@media (max-width: 1000px) {
+  .salle-contenu { grid-template-columns: 1fr; grid-template-rows: 45vh auto auto; }
+  #carte-salle { order: 1; } #fiche-salle { order: 2; } #recit { order: 3; }
+}

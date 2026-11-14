@@ -90,3 +90,9 @@ dialog::backdrop { background: rgba(30, 30, 40, .45); }
   .credit { display: none; }
   body { grid-template-rows: auto 1fr auto; }
 }
+
+.salle-leduc { border-color: #00a8e8; color: #bfe9fb; text-decoration: none; }
+#graduation span.mineur::before { height: 3px; opacity: .6; }
+.bande-leduc { position: absolute; top: -13px; height: 5px; background: #00a8e8; border-radius: 3px; opacity: .9; }
+.bande-leduc:hover { height: 7px; top: -14px; }
+.badge.Recherches { background: #d3ead5; }

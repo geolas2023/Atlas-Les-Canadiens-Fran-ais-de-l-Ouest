@@ -9,9 +9,14 @@ Projet parent : l'**Atlas Aubry** (François-Xavier Aubry, 1824-1854), dont les 
 | Corpus | Fiches | Contenu |
 |---|---|---|
 | **Cragin** | 183 | Dépouillement complet des *Early Far West Notebooks* de Francis W. Cragin (entrevues de pionniers, 1902-1923 ; transcription de Mrs. Shaw, PDF consultable de 333 pages). Toutes les mentions de francophones ont été géolocalisées : trappeurs et voyageurs (Lesperance, Ledoux, LeDuc, Levanway, Chalifoux, Lalande, Robidoux, Leroux, Janis, Provost…), familles (St. Vrain, Beaubien, Vasquez, Autobees, Lefebvre, Nolan, Gillette…), postes (fort St. Vrain, fort Vasquez, fort Uintah, fort Leche, Hardscrabble, El Pueblo), colonies (Butte Valley, La Porte, San Gerónimo), événements (révolte de Taos et de Mora en 1847, massacre du Pueblo, combats) et toponymes (Fontaine-qui-Bouille, Cache-la-Poudre, Duchesne). |
+| **Recherches** | 7 | Traces francophones repérées dans la littérature et sur le Web au fil des recherches (Rio Colorado/Questa, Hardscrabble, Las Vegas, forts Robidoux…), sources citées dans chaque fiche. Corpus appelé à grandir. |
 | **Atlas Aubry** | 101 | Toutes les fiches ponctuelles (lieux et événements) de l'Atlas Aubry, avec leurs sources et leurs images. Les trajets (lignes) restent dans l'Atlas Aubry. |
 
 Chaque fiche Cragin renvoie aux **pages du PDF** (`pages_pdf`) où se trouve le témoignage.
+
+## Salle de lecture : Maurice LeDuc
+
+`maurice-leduc.html` retrace en 30 étapes géolocalisées la vie du trappeur canadien-français Maurice LeDuc (v. 1800 - v. 1880), fondateur du fort LeDuc (Buzzard's Roost) sur l'Adobe Creek. On y trouve un récit par phases de vie, une carte du parcours (trait pointillé, puis parcours « déjà parcouru » en trait plein), une échelle de temps cliquable, les divergences entre les sources, des pistes généalogiques et une bibliographie. Données : `data/maurice-leduc.geojson`. LeDuc a une couleur réservée (bleu ciel `#00a8e8`) dans tout l'atlas : fiches liées, couche « Parcours de Maurice LeDuc » et bande de sa durée de vie sur l'échelle de temps.
 
 ## Structure
 

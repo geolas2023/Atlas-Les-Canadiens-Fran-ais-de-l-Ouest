@@ -7,7 +7,10 @@ const COULEURS = {
   religion: '#7a6a58', toponymie: '#4f9d9a'
 };
 const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633' },
-                 'Atlas Aubry': { libelle: 'Atlas Aubry (fiches ponctuelles)', trait: '#ffffff' } };
+                 'Atlas Aubry': { libelle: 'Atlas Aubry (fiches ponctuelles)', trait: '#ffffff' },
+                 'Recherches': { libelle: 'Recherches (web, littérature)', trait: '#3f7f4f' } };
+// Couleur réservée à Maurice LeDuc (salle de lecture)
+const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
 const T_MIN = 1700, T_MAX = 1910;
 
@@ -46,7 +49,8 @@ async function charger() {
         const a = i * 2.39996, r = 0.0018 * Math.sqrt(i);
         f.geometry = { type: 'Point', coordinates: [p.lon0 + r * Math.cos(a) / Math.cos(p.lat0 * Math.PI / 180), p.lat0 + r * Math.sin(a)] };
       }
-      p.couleur = COULEURS[p.theme] || '#555';
+      p.leduc = (p.personnages || []).includes('Maurice LeDuc');
+      p.couleur = p.leduc ? COULEUR_LEDUC : (COULEURS[p.theme] || '#555');
       p.trait = (CORPUS[p.corpus] || {}).trait || '#000';
       p.index = norm([p.nom, p.description, (p.personnages || []).join(' '), p.note, p.date_edtf].join(' '));
     });
@@ -83,7 +87,7 @@ function filtrer() {
 function construireFiltres() {
   const nb = (cle, val) => TOUTES.filter(f => f.properties[cle] === val).length;
   $('#f-corpus').innerHTML = Object.entries(CORPUS).map(([k, v]) =>
-    `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${k === 'Cragin' ? '#1d2633' : '#8b2e1f'}"></i>${esc(v.libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`).join('');
+    `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${{'Cragin':'#1d2633','Atlas Aubry':'#8b2e1f','Recherches':'#3f7f4f'}[k]}"></i>${esc(v.libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`).join('');
   $('#f-themes').innerHTML = Object.entries(COULEURS).map(([k, c]) =>
     `<label><input type="checkbox" data-theme="${k}" checked> <i class="puce" style="background:${c}"></i>${esc(LIBELLES[k] || k)} <span class="mini">(${nb('theme', k)})</span></label>`).join('');
   $('#f-certitude').innerHTML = Object.entries(CERTITUDES).map(([k, v]) =>
@@ -138,9 +142,15 @@ function construireChrono() {
     h.style.left = pos(+d + 5); h.style.height = `${4 + 14 * n / max}px`; h.title = `${d}-${+d + 9} : ${n} fiches`;
     g.appendChild(h);
   });
-  for (let a = T_MIN; a <= T_MAX; a += 20) {
-    const s = document.createElement('span'); s.style.left = pos(a); s.textContent = a; g.appendChild(s);
+  for (let a = T_MIN; a <= T_MAX; a += 10) {
+    const s = document.createElement('span'); s.style.left = pos(a); s.textContent = a % 50 === 0 ? a : '';
+    if (a % 50) s.className = 'mineur';
+    g.appendChild(s);
   }
+  // Échelle de temps : durée de vie documentée de Maurice LeDuc
+  const bande = document.createElement('a'); bande.className = 'bande-leduc'; bande.href = 'maurice-leduc.html';
+  bande.style.left = pos(1819); bande.style.width = `calc(${pos(1880)} - ${pos(1819)})`;
+  bande.title = 'Maurice LeDuc, v. 1819-1880 : ouvrir la salle de lecture'; g.appendChild(bande);
   const d = $('#t-debut'), f = $('#t-fin');
   const maj = src => {
     if (+d.value > +f.value) { src === d ? f.value = d.value : d.value = f.value; }
@@ -186,7 +196,7 @@ function afficherFiche(id, depuisListe = null) {
     ${depuisListe ? '<button class="retour" id="retour">← retour à la liste</button>' : ''}
     <h2>${esc(p.nom)}</h2>
     <div>
-      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : 'Aubry'}">${esc(p.corpus)}</span>
+      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : 'Aubry'}">${esc(p.corpus)}</span>
       <span class="badge" style="background:${coulTheme};color:#fff">${esc(LIBELLES[p.theme] || p.theme)}</span>
       <span class="badge ${esc(p.certitude)}">localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
     </div>
@@ -269,6 +279,22 @@ async function demarrer() {
         'circle-stroke-color': ['get', 'trait'],
         'circle-stroke-width': ['match', ['get', 'corpus'], 'Atlas Aubry', 1.8, 1.1]
       } });
+    // Parcours de vie de Maurice LeDuc (couleur réservée)
+    carte.addSource('leduc', { type: 'geojson', data: 'data/maurice-leduc.geojson' });
+    carte.addLayer({ id: 'leduc-parcours', type: 'line', source: 'leduc', filter: ['==', ['geometry-type'], 'LineString'],
+      layout: { visibility: 'none', 'line-cap': 'round', 'line-join': 'round' },
+      paint: { 'line-color': COULEUR_LEDUC, 'line-width': 2.5, 'line-dasharray': [2, 1.5], 'line-opacity': .85 } }, 'lieux');
+    carte.addLayer({ id: 'leduc-points', type: 'circle', source: 'leduc', filter: ['==', ['geometry-type'], 'Point'],
+      layout: { visibility: 'none' },
+      paint: { 'circle-radius': 7, 'circle-color': COULEUR_LEDUC, 'circle-stroke-color': '#063b52', 'circle-stroke-width': 1.5 } });
+    carte.addLayer({ id: 'leduc-num', type: 'symbol', source: 'leduc', filter: ['==', ['geometry-type'], 'Point'],
+      layout: { visibility: 'none', 'text-field': ['to-string', ['get', 'ordre']], 'text-size': 9, 'text-allow-overlap': true },
+      paint: { 'text-color': '#ffffff' } });
+    $('#c-leduc').onchange = e => ['leduc-parcours', 'leduc-points', 'leduc-num'].forEach(id => carte.setLayoutProperty(id, 'visibility', e.target.checked ? 'visible' : 'none'));
+    carte.on('click', 'leduc-points', e => {
+      const p = e.features[0].properties;
+      $('#panneau').innerHTML = `<h2>${esc(p.ordre)}. ${esc(p.nom)}</h2><p class="meta">${esc(p.date_edtf)} · ${esc(p.phase)} · localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</p><div class="filet">✦</div><p class="description">${esc(p.description)}</p>${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}<p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p><p><a href="maurice-leduc.html#${esc(p.id)}">Ouvrir dans la salle de lecture →</a></p>`;
+    });
     carte.addLayer({ id: 'lieux-noms', type: 'symbol', source: 'lieux', minzoom: 7.5,
       layout: { 'text-field': ['get', 'nom'], 'text-size': 11, 'text-offset': [0, 1.1], 'text-anchor': 'top', 'text-max-width': 14, 'text-optional': true },
       paint: { 'text-color': '#3b3328', 'text-halo-color': '#ffffff', 'text-halo-width': 1.4 } });
