@@ -7,6 +7,10 @@
 import json, os, re
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUBRY = 'https://geolas2023.github.io/Atlas-Aubry/'
+IBERVILLE = 'https://geolas2023.github.io/Atlas-Iberville/'
+IBERVILLE_LOCAL = os.environ.get('IBERVILLE', '/home/claude/atlas-iberville')  # clone local de l'Atlas Iberville
+THEME_IB = {'combat': 'evenement', 'escale': 'exploration', 'decouverte': 'exploration', 'port': 'poste', 'fondation': 'etablissement',
+            'vie': 'personnage', 'naissance': 'famille', 'concession': 'etablissement', 'mort': 'evenement'}
 TXT_FICHE = "Fiche complète dans l'Atlas Aubry →"
 
 def fiche_aubry(lid, texte=TXT_FICHE):
@@ -48,5 +52,21 @@ for f in d['features']:
         if p.get('note', '').startswith("Fiche de l'univers Aubry"):
             p['note'] = re.sub(r"^Fiche de l'univers Aubry[^.;]*[.;]?\s*", '', p['note'])
         nv += 1
+# Atlas Iberville : renvois courts I-Lxx (recréés à chaque passage si le clone local est présent)
+ni = 0
+fic = f'{IBERVILLE_LOCAL}/data/lieux.geojson'
+if os.path.exists(fic):
+    d['features'] = [f for f in d['features'] if f['properties']['corpus'] != 'Atlas Iberville']
+    for f0 in json.load(open(fic, encoding='utf-8'))['features']:
+        q = f0['properties']
+        if f0['geometry']['type'] != 'Point': continue
+        d['features'].append({"type": "Feature", "geometry": f0['geometry'], "properties": {
+            "id": f"I-{q['id']}", "nom": q['nom'], "corpus": "Atlas Iberville", "theme": THEME_IB.get(q.get('categorie'), 'evenement'),
+            "debut": float(q['debut']), "fin": float(q.get('fin') or q['debut']), "date_edtf": q.get('date_edtf', ''),
+            "precision": q.get('precision', ''), "certitude": q.get('certitude', 'approximative'),
+            "personnages": ["Pierre Le Moyne d'Iberville"], "description": premiere_phrase(q.get('description')),
+            "sources": f"Atlas Iberville, fiche {q['id']} (d'après Frégault, Iberville le conquérant, 1944).", "note": "",
+            "renvoi": True, "voir_aussi": [{"url": f"{IBERVILLE}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Iberville →"}]}})
+        ni += 1
 json.dump(d, open(f'{R}/data/lieux.geojson', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi')
+print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi ; {ni} renvois Iberville')

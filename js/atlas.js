@@ -7,7 +7,7 @@ const COULEURS = {
   religion: '#7a6a58', toponymie: '#4f9d9a'
 };
 const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633' },
-                 'Atlas Aubry': { libelle: 'Atlas Aubry (fiches ponctuelles)', trait: '#ffffff' },
+                 'Atlas Aubry': { libelle: 'Atlas Aubry (renvois)', trait: '#ffffff' },
                  'Recherches': { libelle: 'Recherches (web, littérature)', trait: '#3f7f4f' },
                  'Hafen': { libelle: 'Biographies de Hafen (Mountain Men)', trait: '#e2c27a' },
                  'Hafen MM': { libelle: 'Hafen, Mountain Men, vol. 2, 4-9 (dépouillement)', trait: '#9a6b1f' },
@@ -17,7 +17,8 @@ const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633
                  'Franco-Amérique': { libelle: 'Franco-Amérique (Louder et Waddell, 2008)', trait: '#e67e22' },
                  'Nouvelle-France': { libelle: 'Nouvelle-France : explorations (Margry, Johnson, Marchand)', trait: '#16a085' },
                  'Nouvelle-Angleterre': { libelle: 'Nouvelle-Angleterre : filatures (Vermette, MacDonald, Belisle)', trait: '#7f8c8d' },
-                 "Piste de l'Oregon": { libelle: "La piste de l'Oregon (Bergeron)", trait: '#8e44ad' } };
+                 "Piste de l'Oregon": { libelle: "La piste de l'Oregon (Bergeron)", trait: '#8e44ad' },
+                 'Atlas Iberville': { libelle: "Atlas Iberville (renvois)", trait: '#2a7f7a' } };
 // Couleur réservée à Maurice LeDuc (salle de lecture)
 const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
@@ -205,7 +206,7 @@ function afficherFiche(id, depuisListe = null) {
     ${depuisListe ? '<button class="retour" id="retour">← retour à la liste</button>' : ''}
     <h2>${esc(p.nom)}</h2>
     <div>
-      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
+      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' || p.corpus === 'Atlas Iberville' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
       <span class="badge" style="background:${coulTheme};color:#fff">${esc(LIBELLES[p.theme] || p.theme)}</span>
       <span class="badge ${esc(p.certitude)}">localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
     </div>
@@ -347,5 +348,37 @@ async function demarrer() {
     if (f) { afficherFiche(id); carte.easeTo({ center: f.geometry.coordinates }); }
   });
 }
+
+// ---------- Accueil du réseau « Atlas de l'Amérique française » ----------
+// Les atlas du réseau sont décrits dans data/atlas.json ; ajouter un atlas = ajouter une entrée.
+let ACCUEIL = null;
+async function chargerReseau() {
+  try {
+    const reg = await fetch('data/atlas.json').then(r => r.json());
+    const carte1 = a => {
+      const prep = a.statut !== 'en_ligne';
+      const base = a.ici ? '' : a.url;
+      const pages = (a.pages || []).map(p => `<a href="${esc(a.ici ? p.href : new URL(p.href, a.url).href)}">${esc(p.fr)}</a>`).join('');
+      const etiq = a.ici ? '<span class="etiq">vous êtes ici</span>' : prep ? '<span class="etiq prep">en préparation</span>' : '';
+      const lien = a.ici ? './' : a.url;
+      return `<article class="atlas-carte${prep ? ' prep' : ''}" style="--c:${esc(a.couleur)}">
+        <h4><a href="${esc(lien)}">${esc(a.titre.fr)}</a>${etiq}</h4>
+        <p class="sous">${esc(a.sous_titre.fr)} · ${esc(a.periode || '')}</p>
+        <p>${esc(a.description.fr)}</p>
+        ${pages ? `<p class="pages">${pages}</p>` : ''}</article>`;
+    };
+    const groupe = (type, titre) => { const as = reg.atlas.filter(a => a.type === type); return as.length ? `<p class="mini">${titre}</p>` + as.map(carte1).join('') : ''; };
+    $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages');
+  } catch (e) { console.warn('Registre des atlas indisponible', e); }
+  ACCUEIL = $('#panneau').innerHTML;
+}
+function afficherAccueil() {
+  if (ACCUEIL) $('#panneau').innerHTML = ACCUEIL;
+  $('#panneau').scrollTop = 0;
+  history.replaceState(null, '', location.pathname);
+  if (carte && carte.getSource && carte.getSource('selection')) carte.getSource('selection').setData({ type: 'FeatureCollection', features: [] });
+}
+chargerReseau();
+document.getElementById('btn-atlas').onclick = afficherAccueil;
 
 demarrer();
