@@ -12,7 +12,6 @@ AUBRY = [
  ('H5-297', "Ami d'Aubry, voisin des Mercure sur la Plaza de Santa Fe ; ensemble chez Frémont à Taos (janvier 1849).", "Aubry's friend, neighbour of the Mercures on the Santa Fe Plaza; together at Frémont's in Taos (January 1849).", ['L14', 'L56']),
  ('H6-023', "Juge du procès Nangle (1849), où Aubry est partie.", "Judge in the Nangle case (1849), in which Aubry was a party.", ['L18']),
  ('H6-105', "Frémont loge chez lui à Taos quand Aubry et St. Vrain lui rendent visite (janvier 1849).", "Frémont was staying at his house in Taos when Aubry and St. Vrain visited (January 1849).", ['L14']),
- ('H6-371', "Mort à Saint-Louis le 3 juillet 1850, le jour où Aubry arrive à Independence ; même quartier de la rue Second que les patrons d'Aubry, sans contact documenté.", "Died at St. Louis on July 3, 1850, the day Aubry reached Independence; same Second Street quarter as Aubry's employers, no documented contact.", ['L100']),
  ('H6-299', "Maître de Rayado et de Cimarron, sur la route d'Aubry entre Santa Fe et la piste.", "Master of Rayado and Cimarron, on Aubry's road between Santa Fe and the trail.", []),
  ('H2-027', "Associé de St. Vrain ; tué à Taos en janvier 1847, pendant la première saison d'Aubry au Nouveau-Mexique.", "St. Vrain's partner; killed at Taos in January 1847, during Aubry's first season in New Mexico.", []),
  ('H6-061', "Maître du fort Bent, étape de la route de la montagne qu'Aubry emprunte et contourne.", "Master of Bent's Fort, on the mountain route Aubry used and bypassed.", []),
