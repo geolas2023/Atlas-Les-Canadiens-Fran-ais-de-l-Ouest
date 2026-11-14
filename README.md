@@ -104,3 +104,7 @@ Chaque fiche vit dans un seul atlas ; les autres y renvoient par un lien profond
 - `scripts/hub.py` réduit le corpus Atlas Aubry à des renvois, crée les renvois de l'Atlas Iberville depuis un clone local (variable `IBERVILLE`) et pose les renvois des autres fiches (`VOIR_AUSSI`).
 - Chaîne de production : `build.py` → `ajouts_2026_11.py` → `ajouts_2026_11b.py` → `hub.py` → `page_provost.py`.
 - Pour un nouvel atlas de personnage : lui donner le même champ `voir_aussi` et un lien d'en-tête vers les autres atlas, puis ajouter ses renvois dans `hub.py`.
+
+## Publier une nouvelle version
+
+GitHub Pages laisse les navigateurs garder les fichiers en cache une dizaine de minutes. À chaque publication, changer le numéro `?v=` de `index.html` (scripts et feuille de style) : `js/atlas.js` le reprend pour charger les données (`lieux.geojson`, `themes.json`, `atlas.json`).
