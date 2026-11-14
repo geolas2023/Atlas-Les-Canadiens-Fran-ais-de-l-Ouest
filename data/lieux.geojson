@@ -9577,6 +9577,286 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-intro-01",
+    "nom": "Saint-Louis : fondation par les créoles de La Nouvelle-Orléans (1764)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1803.99,
+    "date_edtf": "1764/1803",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Fondée en 1764 par des créoles et coloniaux venus de La Nouvelle-Orléans, dont le grand-père d'Auguste-Pierre Chouteau. Quarante ans de régime espagnol si léger qu'il ne laisse aucune trace sur la culture française ; la traite est la seule affaire de la ville. Les Chouteau, Sarpy, Papin, Robidoux, St. Vrain et Pratte s'allient par mariages et faveurs.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 14 — note de l'auteur : W. E. Foley et C. D. Rice, The First Chouteaus (1983), p. 1-12 ; J. Lecompte, « Don Benito Vasquez in Early St. Louis », Bulletin MHS xxv (1970)",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "F-intro-02",
+    "nom": "Santa Fe : la piste ouverte par le Lyonnais Pierre Vial",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1786.0,
+    "fin": 1821.0,
+    "date_edtf": "1786/1821",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "La piste de Santa Fe a été ouverte par Pierre (Pedro) Vial, Français de Lyon. Après l'indépendance mexicaine (1821), les caravanes amènent muletiers, traiteurs, médecins et mineurs français qui s'établissent au Nouveau-Mexique.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 15 — note de l'auteur : N. M. Loomis et A. P. Nasatir, Pedro Vial and the Roads to Santa Fe (1967), p. xv",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.012,
+     40.703
+    ]
+   },
+   "properties": {
+    "id": "F-intro-03",
+    "nom": "Quais de Manhattan : le canot d'écorce des voyageurs (1811)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.99,
+    "date_edtf": "1811",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Astor, parmi la foule, voit accoster un canot d'écorce avec huit voyageurs coiffés de plumes qui chantent ; deux d'entre eux le chargent sur l'épaule et l'emportent. Astor aurait dit que six Américains n'en feraient pas autant — à l'inverse du mot qu'Irving lui prête (un Américain vaut trois Canadiens).",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 21 — note de l'auteur : Alexander Ross, Adventures of the First Settlers, dans Thwaites, Early Western Travels vii, p. 42-43 ; Irving, Bonneville (1961), p. 19",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "F-intro-04",
+    "nom": "Nouveau-Mexique : plus de cinquante Français baptisés (1820-1850)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1850.0,
+    "date_edtf": "1820/1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Fray Angélico Chávez relève plus de cinquante noms français dans les registres de baptême du Nouveau-Mexique ; d'autres, en union libre, échappent aux registres mais paraissent au recensement de 1850. Des trappeurs fondent ou peuplent Taos, Mora, Tecolote et Cimarron.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 25 — note de l'auteur : Chávez, « New Names in New Mexico », El Palacio 64 (1957), p. 292-318, 367-380",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "F-intro-05",
+    "nom": "Fort Union : « presque tous français » (1832)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1832.99,
+    "date_edtf": "1830/1832",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "George Catlin écrit en 1832 que les hommes de Fort Union sont presque tous français. Les contrats de 1830 étudiés par William Swagerty montrent que 81 % de l'Upper Missouri Outfit sont des voyageurs, majoritairement à nom français, comme près des deux tiers des commis-traiteurs. Chittenden estimait qu'au moins quatre cinquièmes des quelque cinq mille hommes de la traite américaine étaient canadiens-français ou créoles.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 11 — note de l'auteur : G. Catlin, Letters and Notes (1844), I, p. 35 ; Chittenden, The American Fur Trade (1902), I, p. 56 ; W. R. Swagerty, « A View from the Bottom Up », Montana 43/1 (1993), p. 20-25",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93,
+     45.18
+    ]
+   },
+   "properties": {
+    "id": "F-intro-06",
+    "nom": "Prairie française : 121 voyageurs à la retraite",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1850.0,
+    "date_edtf": "1830/1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "La plus grande colonie de Français retraités de la traite : 121 anciens, surtout de vieux voyageurs avec leurs familles indiennes, sur la Willamette entre Salem et Portland. Harriet Munnick a recensé 150 à 200 anciens de la CBH et trappeurs libres dans le Nord-Ouest.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 25 — note de l'auteur : J. N. Barry, The French Canadian Pioneers of the Willamette Valley (1933), p. 1-13 ; H. Munnick, Church Records of the Pacific Northwest (1982-1987)",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.083,
+     38.262
+    ]
+   },
+   "properties": {
+    "id": "F-intro-07",
+    "nom": "Hardscrabble : la lettre d'Alexander Barclay (déc. 1845)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1845.9,
+    "fin": 1846.0,
+    "date_edtf": "1845-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Barclay écrit que leurs besoins sont peu nombreux et que, sans luxe chez les voisins, nul n'éprouve d'envie ; mais il se décrit aussi en héros de Fenimore Cooper, alors que son journal de 1845-1850 respire surtout le labeur et l'ennui.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 23 — note de l'auteur : Barclay à George Barclay, rivière Arkansas, déc. 1845, Barclay Papers, Bancroft Library",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.5,
+     41.6
+    ]
+   },
+   "properties": {
+    "id": "F-intro-08",
+    "nom": "North Platte : la « race mêlée » des trappeurs selon Parkman (1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.4,
+    "fin": 1846.6,
+    "date_edtf": "1846",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Parkman décrit les trappeurs des Rocheuses rencontrés sur la North Platte comme des hommes à demi sauvages, tous d'origine canadienne, où le sang français prédomine.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 11 — note de l'auteur : Parkman, The Oregon Trail (1894), p. 64, 70",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "F-intro-09",
+    "nom": "Bent's Fort : les « fines girations » des Français au bal (1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.5,
+    "fin": 1846.99,
+    "date_edtf": "1846",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Dans le mélange de pas d'un bal multiculturel, Garrard distingue la danse de guerre, le galop, le piétinement du Missourien et les « girations plus délicates » du Français. Il admire aussi les chansons « belles et piquantes » des muletiers canadiens de la piste de Santa Fe.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 20 — note de l'auteur : L. H. Garrard, Wah-To-Yah and the Taos Trail (1938), p. 54, 64, 129",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.78,
+     35.58
+    ]
+   },
+   "properties": {
+    "id": "F-intro-10",
+    "nom": "Pigeon's Ranch, près de Pecos : le danseur Alexandre Vallé",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1862.0,
+    "date_edtf": "185X",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Introduction : le monde français de la traite"
+    ],
+    "description": "Le Français Alexandre Vallé, tenancier d'un relais de diligence sur la piste de Santa Fe, doit son surnom de « Pigeon » au pas d'« aile de pigeon » qu'il dansait.",
+    "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 21 — note de l'auteur : Marc Simmons, Following the Santa Fe Trail (1984), p. 196-197",
+    "note": "",
+    "salle": "intro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -72.616,
      46.225
     ]

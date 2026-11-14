@@ -2,6 +2,17 @@
  "livre": "Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972)",
  "personnages": [
   {
+   "id": "intro",
+   "nom": "Introduction : le monde français de la traite",
+   "couleur": "#7a6a55",
+   "vie": "1763-1865",
+   "auteur": "Janet Lecompte",
+   "pages": "9-26",
+   "etapes": 10,
+   "debut": 1764.0,
+   "fin": 1862.0
+  },
+  {
    "id": "beaubien",
    "nom": "Charles (Alexis) Beaubien",
    "couleur": "#b5402a",

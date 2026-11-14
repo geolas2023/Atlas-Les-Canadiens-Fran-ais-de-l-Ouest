@@ -10,14 +10,18 @@ Projet parent : l'**Atlas Aubry** (François-Xavier Aubry, 1824-1854), dont les 
 |---|---|---|
 | **Cragin** | 183 | Dépouillement complet des *Early Far West Notebooks* de Francis W. Cragin (entrevues de pionniers, 1902-1923 ; transcription de Mrs. Shaw, PDF consultable de 333 pages). Toutes les mentions de francophones ont été géolocalisées : trappeurs et voyageurs (Lesperance, Ledoux, LeDuc, Levanway, Chalifoux, Lalande, Robidoux, Leroux, Janis, Provost…), familles (St. Vrain, Beaubien, Vasquez, Autobees, Lefebvre, Nolan, Gillette…), postes (fort St. Vrain, fort Vasquez, fort Uintah, fort Leche, Hardscrabble, El Pueblo), colonies (Butte Valley, La Porte, San Gerónimo), événements (révolte de Taos et de Mora en 1847, massacre du Pueblo, combats) et toponymes (Fontaine-qui-Bouille, Cache-la-Poudre, Duchesne). |
 | **Recherches** | 7 | Traces francophones repérées dans la littérature et sur le Web au fil des recherches (Rio Colorado/Questa, Hardscrabble, Las Vegas, forts Robidoux…), sources citées dans chaque fiche. Corpus appelé à grandir. |
-| **Hafen** | 39 | Francophones ayant une notice dans Hafen (dir.), *The Mountain Men and the Fur Trade of the Far West* (vol. I, IV-IX ; tables des matières des vol. II-III non trouvées). Un point par notice (lieu principal). Résumés d'après des sources générales : texte des notices non consulté (prêt contrôlé sur archive.org), à vérifier et enrichir dès que les PDF seront fournis. Déjà présents ailleurs dans l'atlas : LeDuc, Lesperance, Laforet, Lalande, Chat Dubray, Beauvais, Janis, A. Pike Vasquez, De Mun. |
+| **Hafen** | 419 | (1) 396 étapes géolocalisées tirées des 22 notices et de l'introduction de *French Fur Traders and Voyageurs in the American West* (Hafen dir., 1995), lues intégralement : chaque fiche cite la page du livre et la source primaire donnée en note par l'auteur de la notice (identifiants `F-<personnage>-NN`). (2) 23 points provisoires (`H…`) pour les autres francophones ayant une notice dans *The Mountain Men and the Fur Trade of the Far West* (1965-1972), résumés d'après des sources générales, à vérifier. |
 | **Atlas Aubry** | 101 | Toutes les fiches ponctuelles (lieux et événements) de l'Atlas Aubry, avec leurs sources et leurs images. Les trajets (lignes) restent dans l'Atlas Aubry. |
 
 Chaque fiche Cragin renvoie aux **pages du PDF** (`pages_pdf`) où se trouve le témoignage.
 
-## Salle de lecture : Maurice LeDuc
+## Salle de lecture : les traiteurs et voyageurs français
 
-`maurice-leduc.html` retrace en 30 étapes géolocalisées la vie du trappeur canadien-français Maurice LeDuc (v. 1800 - v. 1880), fondateur du fort LeDuc (Buzzard's Roost) sur l'Adobe Creek. On y trouve un récit par phases de vie, une carte du parcours (trait pointillé, puis parcours « déjà parcouru » en trait plein), une échelle de temps cliquable, les divergences entre les sources, des pistes généalogiques et une bibliographie. Données : `data/maurice-leduc.geojson`. LeDuc a une couleur réservée (bleu ciel `#00a8e8`) dans tout l'atlas : fiches liées, couche « Parcours de Maurice LeDuc » et bande de sa durée de vie sur l'échelle de temps.
+`salle.html` offre **un onglet par personnage** du livre *French Fur Traders and Voyageurs in the American West* (22 notices + introduction), chacun avec sa couleur propre, son récit chronologique par phases, sa carte de parcours (trait pointillé, puis trait plein « déjà parcouru »), son **échelle de temps** cliquable, une liste de **pistes d'archives inédites** (sources primaires citées en note par les auteurs, ou proposées par l'atlas) et sa bibliographie. Données : `data/personnages/index.json` et `data/personnages/<id>.geojson`. Adresses directes : `salle.html#chouteau`, `salle.html#vasquez-14`.
+
+Maurice LeDuc (onglet `leduc`, bleu ciel `#00a8e8`, couleur réservée dans tout l'atlas) réunit les 30 étapes de la première salle et 33 étapes tirées de la notice de Janet Lecompte (p. 176-189) : Fort Manuel (1812), mariage de Taos (1823), Pegleg Smith, Gila, Ashley, Frémont (1843), mariage de San Miguel (1848), recensement de 1850, etc. L'ancienne adresse `maurice-leduc.html` redirige vers cet onglet.
+
+**Traduction et droit d'auteur.** Les passages du livre sont résumés et traduits librement en français ; les citations sont très brèves et signalées. Les sources primaires (lettres, registres, journaux) sont décrites et localisées, non reproduites.
 
 ## Structure
 
@@ -30,7 +34,9 @@ data/lieux.geojson    points (EPSG:4326)
 data/themes.json      libellés des thèmes
 data/piste.geojson    contexte : relevé de la piste de Santa Fe (Atlas Aubry)
 images/aubry/         documents de l'Atlas Aubry
-scripts/              scripts de construction des données (dépouillement Cragin)
+scripts/              scripts de construction (Cragin, recherches, Hafen, ffv/ = un module par personnage du livre)
+salle.html, js/salle.js, css/salle.css   salle de lecture multi-personnages
+data/personnages/     un GeoJSON par personnage + index.json
 ```
 
 ## Modèle d'attributs (`data/lieux.geojson`)

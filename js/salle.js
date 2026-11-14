@@ -115,18 +115,19 @@ function frise() {
     if (big) s += `<text x="${x(a)}" y="68" text-anchor="middle">${a}</text>`;
   }
   s += `<text x="${G}" y="12" fill="${P.couleur}" style="fill:${P.couleur};font-weight:bold">${esc(P.nom)} ${esc(P.vie || '')}</text>`;
-  const occupe = [];
+  const occupe = []; let traits = '', marques = '';
   ETAPES.forEach((f, i) => {
     const p = f.properties, xm = x((p.debut + Math.min(p.fin, p.debut + 3)) / 2);
     let rang = 0; while (occupe.some(o => o.r === rang && Math.abs(o.x - xm) < 15)) rang++;
     occupe.push({ x: xm, r: rang });
     const yy = 44 + [0, -15, 15, -28, 28, -38, 38][Math.min(rang, 6)];
     const c = PHASES[p.phase], hyp = p.certitude === 'hypothetique';
-    if (p.fin - p.debut > 1.5 && p.debut <= A1) s += `<line x1="${x(p.debut)}" y1="${yy}" x2="${x(Math.min(p.fin, A1))}" y2="${yy}" stroke="${c}" stroke-width="3" opacity=".7"/>`;
-    s += `<g class="marque" data-i="${i}"><title>${esc(p.ordre + '. ' + p.nom + ' (' + p.date_edtf + ')')}</title>
+    if (p.fin - p.debut > 1.5 && p.debut <= A1) traits += `<line x1="${x(p.debut)}" y1="${yy}" x2="${x(Math.min(p.fin, A1))}" y2="${yy}" stroke="${c}" stroke-width="3" opacity=".7" pointer-events="none"/>`;
+    marques += `<g class="marque" data-i="${i}"><title>${esc(p.ordre + '. ' + p.nom + ' (' + p.date_edtf + ')')}</title>
       <circle cx="${xm}" cy="${yy}" r="7" fill="${hyp ? '#fff' : c}" stroke="#1d2633" stroke-width="1.5" ${hyp ? 'stroke-dasharray="2 2"' : ''}/>
       <text x="${xm}" y="${yy + 3}" text-anchor="middle" style="font-size:8px;fill:${hyp || !sombre(c) ? '#1d2633' : '#fff'};font-weight:bold">${p.ordre}</text></g>`;
   });
+  s += traits + marques;
   svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
   svg.innerHTML = s;
   svg.querySelectorAll('.marque').forEach(g => g.onclick = () => fiche(+g.dataset.i));
