@@ -1,5 +1,6 @@
 # Hafen (dir.), The Mountain Men and the Fur Trade of the Far West, vol. 2, 4-9 : index géographique et biographique (FR / EN)
 import json, html, re
+DOSSIERS = {'H6-371': 'provost'}  # Étienne Provost
 A = '/home/claude/atlas-aubry/'
 D = json.load(open('/home/claude/build/hafen_data.json', encoding='utf-8'))
 PERS, EV, GZ = D['pers'], D['ev'], D['gaz']
@@ -73,11 +74,13 @@ def page(fr):
            "<p class=\"avert\">Circle size grows with the number of mentions; orange circles are French speakers. Pick a person to see their route (places whose year appears in the sentence, joined in chronological order) and the full list of their places with pages; a year in brackets is inferred from context.</p>")
     h += '<div id="parcours" style="font-size:.9rem"></div>\n'
     # Aubry
+    # dossiers propres à une personne (pages générées à part, ex. scripts/page_provost.py)
+    DOS = lambda k: (f' <small>(<a href="{DOSSIERS[k]}{"" if fr else "-en"}.html">{T("dossier", "file")}</a>)</small>' if k in DOSSIERS else '')
     h += T('<h2 id="aubry">Les liens avec Aubry</h2>', '<h2 id="aubry">Ties with Aubry</h2>')
     h += '<table><tr><th>%s</th><th>%s</th><th>%s</th></tr>' % (T('Personne (Hafen)', 'Person (Hafen)'), T('Le lien', 'The tie'), T('Fiches', 'Records'))
     for i, lfr, len_, fi in AUBRY:
         p = PERS[i]
-        h += (f'<tr><td><a href="#carte" data-p="{i}" class="voir">{html.escape(p["nom"])}</a><br><small>vol. {p["vol"]}, p. {p["page"]}-{p["fin"]}</small></td>'
+        h += (f'<tr><td><a href="#carte" data-p="{i}" class="voir">{html.escape(p["nom"])}</a>{DOS(i)}<br><small>vol. {p["vol"]}, p. {p["page"]}-{p["fin"]}</small></td>'
               f'<td>{html.escape(lfr if fr else len_)}</td><td>{" ".join(L(x) for x in fi)}</td></tr>')
     h += '</table>'
     h += T('<p>Voir aussi <a href="reseau.html">Le réseau francophone</a> et <a href="canadiens-ouest.html">Les Canadiens de l\'Ouest</a> (Tassé, 1878).</p>',
@@ -94,7 +97,7 @@ def page(fr):
             extra = ''
             if k in TASSE:
                 extra = f' · <a href="canadiens-ouest{"" if fr else "-en"}.html#{TASSE[k]}">Tassé</a>'
-            h += (f'<tr><td>{"⚜ " if p["fr"] else ""}<a href="#carte" data-p="{k}" class="voir">{html.escape(p["nom"])}</a>{extra}</td><td>{p["dates"]}</td>'
+            h += (f'<tr><td>{"⚜ " if p["fr"] else ""}<a href="#carte" data-p="{k}" class="voir">{html.escape(p["nom"])}</a>{DOS(k)}{extra}</td><td>{p["dates"]}</td>'
                   f'<td>{html.escape(p["role"] if fr else p["role_en"])}</td><td>p. {p["page"]}-{p["fin"]}<br><small>{html.escape(p["auteur"])}</small></td><td>{cnt.get(k, 0)}</td></tr>')
         h += '</table>'
     # lieux

@@ -20,7 +20,6 @@ def bornes(edtf):
     d, f = un(parts[0]), un(parts[1], fin=True)
     p0 = parts[0]
     prec = 'circa' if ('~' in s or '?' in s) else ('jour' if re.match(r'^\d{4}-\d{2}-\d{2}$', p0) else ('mois' if re.match(r'^\d{4}-\d{2}$', p0) else 'annee'))
-    if '/' in s: prec = 'circa' if ('~' in s or '?' in s) else 'annee'
     return round(d, 3), round(min(f, float(int(f)) + 0.999), 3), prec
 
 class Corpus:
