@@ -1,0 +1,518 @@
+{
+ "type": "FeatureCollection",
+ "name": "moncravie",
+ "personnage": {
+  "id": "moncravie",
+  "nom": "Jean-Baptiste Moncravie",
+  "auteur": "Charles E. Hanson Jr.",
+  "pages": "229-238",
+  "vie": "v. 1797-1885",
+  "hafen": "J. B. Moncravie",
+  "chapeau": "Bordelais, musicien de l'armée, commis de l'American Fur Company à Fort Union, peintre de la porte du fort, acteur aux dons de mime admiré par Audubon, amateur de whisky et de femmes ; il finit par négocier son propre « traité » avec les Oglalas.",
+  "couleur": "#b8860b"
+ },
+ "bibliographie": [
+  "Charles E. Hanson Jr., « Jean-Baptiste Moncravie », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 229-238."
+ ],
+ "inedits": [
+  "Traité privé oglala de 1856 et croquis « Moncravie House / Bissonette House » : Letters Received by OIA, Whetstone Agency, National Archives.",
+  "Claim no 6690 (John B. Moncravie), U.S. Court of Claims, National Archives : déprédations otoes et pawnees de 1858.",
+  "Fort Union Letter Books et Fort Pierre Letterbooks, Missouri Historical Society.",
+  "Testament et succession de J. B. Moncravie, cour du comté de Nemaha (Nebraska), 1885-1891.",
+  "Peinture du traité de paix au-dessus de la porte de Fort Union : chercher des dessins (Bodmer, Kurz, Audubon/Harris).",
+  "Baptême de 1801 des enfants Loise, registres de la cathédrale de Saint-Louis."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.579,
+     44.838
+    ]
+   },
+   "properties": {
+    "id": "moncravie-01",
+    "ordre": 1,
+    "nom": "Bordeaux : naissance (v. 1797)",
+    "phase": "Origines",
+    "debut": 1797.0,
+    "fin": 1797.99,
+    "date_edtf": "1797~",
+    "certitude": "certaine",
+    "description": "Né à Bordeaux vers 1797 (lieu inscrit sur son engagement militaire). Avec son frère, peut-être son père, il fait partie des réfugiés français établis à Philadelphie. Ses papiers personnels portent « John B. Moncravie » ; l'AFC écrit Moncrevie.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 229 — note de l'auteur : papiers d'enrôlement originaux, National Archives ; traditions de Mme Virginia Moran et de John Moncravie, descendants",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.165,
+     39.953
+    ]
+   },
+   "properties": {
+    "id": "moncravie-02",
+    "ordre": 2,
+    "nom": "Philadelphie : enrôlé comme musicien (mars 1820)",
+    "phase": "Armée",
+    "debut": 1820.17,
+    "fin": 1820.25,
+    "date_edtf": "1820-03",
+    "certitude": "certaine",
+    "description": "« Jhon Moncravie », 23 ans, cinq pieds trois pouces, teint clair, yeux noisette, cheveux blonds, de profession musicien, s'engage pour cinq ans.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 229 — note de l'auteur : Registers of Enlistments in the U.S. Army, vol. 32, National Archives",
+    "note": "Un James Moncravie, forgeron à Philadelphie (1849-1860), est peut-être son neveu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.181,
+     44.893
+    ]
+   },
+   "properties": {
+    "id": "moncravie-03",
+    "ordre": 3,
+    "nom": "Fort St. Anthony (Snelling) : caporal puis sergent du 5e d'infanterie (1820-1829)",
+    "phase": "Armée",
+    "debut": 1820.5,
+    "fin": 1829.99,
+    "date_edtf": "1820/1829-12-31",
+    "certitude": "certaine",
+    "description": "Affecté au 5e d'infanterie à St. Peters et au fort St. Anthony, caporal en octobre 1820, sergent en 1825 ; il se réengage à Fort Snelling en décembre 1825 et reçoit son congé honorable le 31 décembre 1829 (compagnie C). Dix ans de frontière minnesotaine le familiarisent avec les Indiens et la traite.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : Returns from Regular Army Infantry Regiments, 5th Infantry, 1821-1831, microcopie 665, bobine 53, National Archives",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.52
+    ]
+   },
+   "properties": {
+    "id": "moncravie-04",
+    "ordre": 4,
+    "nom": "Green Bay : un « J. B. Moncreve » au recensement de 1830",
+    "phase": "Armée",
+    "debut": 1830.0,
+    "fin": 1832.0,
+    "date_edtf": "1830/1832",
+    "certitude": "hypothetique",
+    "description": "Ses déplacements de 1830 à 1832 sont inconnus ; il est peut-être le « J. B. Moncreve » du recensement de 1830 à Green Bay.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : U.S. Census 1830, Green Bay Township",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "moncravie-05",
+    "ordre": 5,
+    "nom": "Fort Union : commis de l'AFC (1833)",
+    "phase": "Fort Union",
+    "debut": 1833.5,
+    "fin": 1845.5,
+    "date_edtf": "1833/1845",
+    "certitude": "certaine",
+    "description": "Été 1833 : « Messrs. Chardon, Brazeau et Moncrevie » sont les trois commis laissés avec Hamilton à Fort Union. Le 5 mai 1835, Daniel Lamont le désigne pour commander Fort McKenzie si Culbertson venait à manquer, avant Harvey.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : A. H. Abel (éd.), Chardon's Journal at Fort Clark (1932), p. xxx ; Fort Union Letter Books, Missouri Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.02,
+     47.985
+    ]
+   },
+   "properties": {
+    "id": "moncravie-06",
+    "ordre": 6,
+    "nom": "Fort William (Campbell et Sublette) : le « petit docteur » et son premier divorce (1833)",
+    "phase": "Fort Union",
+    "debut": 1833.7,
+    "fin": 1834.4,
+    "date_edtf": "1833/1834",
+    "certitude": "certaine",
+    "description": "Moncravie porte souvent des lettres au poste rival de Robert Campbell, qui l'appelle le « petit docteur ». Campbell note avec ironie qu'un certain Joseph Dechamp a enlevé à « Doctor McCrevee » l'épouse qu'il avait achetée à son père 280 $ en marchandises ; furieux le premier jour, le petit docteur voit le lendemain la belle partir à la chasse au bison avec son amant.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : G. R. Brooks (éd.), « The Private Journal of Robert Campbell », Bulletin MHS (1963-1964), p. 8, 16-17",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.037,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "moncravie-07",
+    "ordre": 7,
+    "nom": "Fort Union : la reconstruction bâclée de Fort William (1834)",
+    "phase": "Fort Union",
+    "debut": 1834.5,
+    "fin": 1834.9,
+    "date_edtf": "1834",
+    "certitude": "certaine",
+    "description": "Chargé de démonter Fort William et de le rebâtir près du fort de la compagnie, Moncravie, selon Larpenteur, aimait trop le whisky et les femmes pour bien faire : pieux plantés de travers, les uns trop hauts, les autres trop bas, et colère d'Hamilton.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 231 — note de l'auteur : Coues (éd.), Forty Years a Fur Trader (1898), p. 72-74",
+    "note": "Larpenteur prétend que Moncravie fut renvoyé ; il figure pourtant encore à la paie en 1835-1836."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.043,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "moncravie-08",
+    "ordre": 8,
+    "nom": "Fort Union : la peinture du traité de paix au-dessus de la porte (1843)",
+    "phase": "Fort Union",
+    "debut": 1843.4,
+    "fin": 1843.6,
+    "date_edtf": "1843",
+    "certitude": "certaine",
+    "description": "Edwin Denig, décrivant le fort pour Audubon en 1843, signale au-dessus de la grande porte une peinture représentant un traité de paix entre Indiens et Blancs, « exécutée par J. B. Moncrevie, Esq. ».",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 232 — note de l'auteur : description de Fort Union par Denig, North Dakota History, vol. 29 (1962), p. 206",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     48.002
+    ]
+   },
+   "properties": {
+    "id": "moncravie-09",
+    "ordre": 9,
+    "nom": "Fort Union : le spectacle pour Audubon (7 août 1843)",
+    "phase": "Fort Union",
+    "debut": 1843.59,
+    "fin": 1843.62,
+    "date_edtf": "1843-08-07",
+    "certitude": "certaine",
+    "description": "Audubon chasse et pêche avec lui, et note un spectacle « drôle et bien joué » : grande versatilité, talent de mime, meilleur acteur que bien des célébrités. Batelier expert, Moncravie est du voyage de la barque Union qui ramène Audubon vers Saint-Louis. Son fils Alexander naît vers 1844 d'une mère indienne à Fort Union.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 232 — note de l'auteur : M. Audubon et E. Coues (éd.), Audubon and His Journals (1897), II, p. 138 ; J. F. McDermott (éd.), Up the Missouri with Audubon: The Journal of Edward Harris (1951), p. 176",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.36
+    ]
+   },
+   "properties": {
+    "id": "moncravie-10",
+    "ordre": 10,
+    "nom": "Fort Pierre : les barils de whisky percés (juin 1844)",
+    "phase": "Fort Pierre",
+    "debut": 1844.45,
+    "fin": 1848.99,
+    "date_edtf": "1844-06/1848",
+    "certitude": "certaine",
+    "description": "Remontant de Fort Pierre avec des bateaux de marchandises pour les Pieds-Noirs, il s'enivre plusieurs fois et donne une vingtaine de gallons aux équipages. Chardon, Harvey, Champagne et Étienne Provost le dénoncent ; Picotte, furieux, exige 400 $ et ordonne son renvoi au retour de son expédition chez les Kootenais. La compagnie, peu désireuse qu'un ancien employé raconte la traite de l'alcool à Saint-Louis, règle l'affaire en espèces. En 1848, il livre des marchandises aux Yanktonais et supervise les transports de Fort Pierre.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 232 — note de l'auteur : Fort Pierre Letterbooks, MHS ; A. T. Bouis à Culbertson, 9 oct. 1845 ; Abel, Chardon's Journal, p. 238 ; South Dakota Historical Collections, IX (1918), p. 220-231",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.7,
+     41.73
+    ]
+   },
+   "properties": {
+    "id": "moncravie-11",
+    "ordre": 11,
+    "nom": "Robidoux Pass puis Fort John de Scotts Bluff (1849-1852)",
+    "phase": "Platte",
+    "debut": 1849.56,
+    "fin": 1852.5,
+    "date_edtf": "1849-07-25/1852",
+    "certitude": "certaine",
+    "description": "Le 25 juillet 1849, Fort Pierre charge Bruce Husband de bâtir un nouveau poste sur la Platte et engage « G. B. Moncrevie » comme commis-traiteur. Le poste d'Andrew Drips s'installe d'abord au col de Robidoux, puis à huit milles au sud de Scotts Bluff. Le 14 août 1850, Picotte le juge le plus apte à en prendre la charge en l'absence de McCluskey.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 233 — note de l'auteur : Fort Pierre Letter Books ; T. L. Green, « Scotts Bluffs, Fort John », Nebraska History (1938), p. 175-188 ; M. J. Mattes, The Great Platte River Road (1969), p. 463-471",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.72,
+     42.17
+    ]
+   },
+   "properties": {
+    "id": "moncravie-12",
+    "ordre": 12,
+    "nom": "« Moncravie House » sur la Laramie, face à « Bissonette House »",
+    "phase": "Platte",
+    "debut": 1853.0,
+    "fin": 1857.99,
+    "date_edtf": "185X",
+    "certitude": "approximative",
+    "description": "Son croquis remis plus tard au gouvernement montre « Moncravie House » sur la rive droite de la Laramie, face à « Bissonette House », à douze milles en amont du fort.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 235 — note de l'auteur : OIA, Whetstone Agency",
+    "note": "Position calculée à 12 milles en amont de Fort Laramie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.03,
+     42.48
+    ]
+   },
+   "properties": {
+    "id": "moncravie-13",
+    "ordre": 13,
+    "nom": "Horseshoe Creek : le « traité » des Oglalas (1856)",
+    "phase": "Platte",
+    "debut": 1856.0,
+    "fin": 1856.99,
+    "date_edtf": "1856",
+    "certitude": "certaine",
+    "description": "Les chefs oglalas Malo Ayocuni, Red Wing, Long Chin et Standing Elk, par les interprètes Charles Gueru et Joseph Bissonette, donnent à John B. Moncravie, « parent par leur sœur », un carré de sept milles de côté au sud-ouest de Fort Laramie, englobant les deux branches de la Laramie jusqu'au Labonte Creek ; l'acte porte la signature du surintendant D. D. Mitchell.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 234 — note de l'auteur : Letters Received by the Office of Indian Affairs, Whetstone Agency, National Archives",
+    "note": "Document exceptionnel : un traité privé de cession de terres."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9,
+     40.15
+    ]
+   },
+   "properties": {
+    "id": "moncravie-14",
+    "ordre": 14,
+    "nom": "Blue River (Nebraska) : ferme près de Daniel's Ranch, pillée (1858)",
+    "phase": "Nebraska",
+    "debut": 1858.1,
+    "fin": 1866.0,
+    "date_edtf": "1858/1866",
+    "certitude": "hypothetique",
+    "description": "En février 1858, quelque trois cents Otoes emportent chevaux, vaches, veaux et bœufs (520 $) ; en juillet, des Pawnees détruisent cent acres de maïs, des pommes de terre et un potager. En 1860, il vit seul, « interprète », 63 ans. Il dépose ses réclamations en 1866 (520 $ et 2 462,50 $), sans suite.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 235 — note de l'auteur : Claim no 6690, J. H. Broady, adm. de John B. Moncravie, U.S. Court of Claims, National Archives ; U.S. Census 1860",
+    "note": "Emplacement de Daniel's Ranch non identifié ; point estimé dans la vallée de la Blue."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.25,
+     42.007
+    ]
+   },
+   "properties": {
+    "id": "moncravie-15",
+    "ordre": 15,
+    "nom": "Decatur : auprès de son fils Alexander (1874)",
+    "phase": "Nebraska",
+    "debut": 1874.0,
+    "fin": 1876.99,
+    "date_edtf": "1874/1876",
+    "certitude": "certaine",
+    "description": "Son fils Alexander (né à Fort Union v. 1844, instruit à ses frais, caporal au 7e Kansas Cavalry, 1861-1865) meurt en 1876 des suites de ses blessures de guerre.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 236 — note de l'auteur : dossiers militaires réunis par Mme Virginia Moran",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.66,
+     40.4
+    ]
+   },
+   "properties": {
+    "id": "moncravie-16",
+    "ordre": 16,
+    "nom": "Brownville : la revendication refusée et la mort (1874-1885)",
+    "phase": "Nebraska",
+    "debut": 1874.27,
+    "fin": 1885.55,
+    "date_edtf": "1874-04-11/1885-07-18",
+    "certitude": "certaine",
+    "description": "Le 11 avril 1874, d'une main tremblante, il envoie au General Land Office copie de son traité de 1856 et du croquis ; refus le 22 mai. En 1880, il vit chez des Carlson. Il meurt chez lui le 18 juillet 1885, à 88 ans, léguant 500 $ aux Royal Arch Masons de Brownville et au recteur de Christ Church, le reste à une Abigail Shadley.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 236 — note de l'auteur : OIA, Letters Received ; U.S. Census 1880, Nemaha County ; Claim no 6690",
+    "note": "En 1892, l'administrateur constate que les pièces justificatives ont été perdues, prêtées à des membres du Congrès."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "moncravie-17",
+    "ordre": 17,
+    "nom": "Saint-Louis : baptême des enfants de Paul Loise (1er nov. 1801)",
+    "phase": "Mémoire",
+    "debut": 1801.83,
+    "fin": 1801.84,
+    "date_edtf": "1801-11-01",
+    "certitude": "certaine",
+    "description": "John Moncravie, descendant, conserve copie du baptême de Paul, Antoinette et Louisa, enfants de Paul Loise, interprète des Osages, « et d'une sauvagesse osage » ; parrains et marraines : Teresa Papin, Mary Felipe Le Duc, Sophia Labadie, Francis Chouteau, Antoinette Labadie et Auguste Chouteau.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 237",
+    "note": "Paul fils est l'« Edward Paul » qui épousa Mary Jane Barada."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.35,
+     42.11
+    ]
+   },
+   "properties": {
+    "id": "moncravie-18",
+    "ordre": 18,
+    "nom": "Réserve omaha : les petits-fils allotis (années 1880)",
+    "phase": "Mémoire",
+    "debut": 1880.0,
+    "fin": 1890.0,
+    "date_edtf": "188X",
+    "certitude": "certaine",
+    "description": "Ses quatre petits-fils (Charles Alexander, Fred A., Henry E., John B.) reçoivent des lots sur la réserve omaha par leur mère, Elizabeth Paul, petite-fille de Michael Barada, interprète des Omahas à Prairie du Chien (1830), et d'une Omaha ; Mary Jane Barada avait eu d'abord un fils de John P. Cabanné. Une tante était l'épouse indienne de Joshua Pilcher.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 237 — note de l'auteur : liste des allotis, 27th Annual Report, Bureau of American Ethnology (1911), p. 643-654 ; J. S. Morton, Illustrated History of Nebraska (1906), II, p. 142-146",
+    "note": "La pierre tombale de Mary Jane, à Cedar Vale (Kansas), porte le nom « Loise »."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.579,
+      44.838
+     ],
+     [
+      -75.165,
+      39.953
+     ],
+     [
+      -93.181,
+      44.893
+     ],
+     [
+      -88.02,
+      44.52
+     ],
+     [
+      -104.04,
+      47.999
+     ],
+     [
+      -104.02,
+      47.985
+     ],
+     [
+      -104.037,
+      47.999
+     ],
+     [
+      -104.043,
+      47.999
+     ],
+     [
+      -104.04,
+      48.002
+     ],
+     [
+      -100.38,
+      44.36
+     ],
+     [
+      -103.7,
+      41.73
+     ],
+     [
+      -104.72,
+      42.17
+     ],
+     [
+      -105.03,
+      42.48
+     ],
+     [
+      -96.9,
+      40.15
+     ],
+     [
+      -96.25,
+      42.007
+     ],
+     [
+      -95.66,
+      40.4
+     ]
+    ]
+   },
+   "properties": {
+    "id": "moncravie-parcours",
+    "nom": "Parcours de Jean-Baptiste Moncravie"
+   }
+  }
+ ]
+}

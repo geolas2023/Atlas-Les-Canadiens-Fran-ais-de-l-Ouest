@@ -1,0 +1,467 @@
+{
+ "type": "FeatureCollection",
+ "name": "elucier",
+ "personnage": {
+  "id": "elucier",
+  "nom": "Étienne Lucier",
+  "auteur": "Harriet D. Munnick",
+  "pages": "196-207",
+  "vie": "v. 1793-1853",
+  "hafen": "Etienne Lucier",
+  "chapeau": "Astorien de l'expédition Hunt, trappeur libre pendant vingt ans, puis « premier fermier de l'Oregon » sur la Prairie française ; il vote pour le gouvernement provisoire à Champoeg en 1843 et fait venir l'Église en Oregon.",
+  "couleur": "#3c7a3c"
+ },
+ "bibliographie": [
+  "Harriet D. Munnick, « Étienne Lucier », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 196-207."
+ ],
+ "inedits": [
+  "Register of the Mission of St. Paul on the Willamette (1839-1853) : mariages, parrainages, sépulture ; mariage d'Antoine Lusier et Julie Aubichon, 8 janv. 1849.",
+  "HBCA (Winnipeg) F.4/61 : « List of People in the Columbia for Winter 1813-14 ».",
+  "Testament d'Étienne Lucier (mars 1853), archives du comté de Marion (Oregon).",
+  "Comptes de la succession Ewing Young et du magasin de David McLoughlin (Oregon City).",
+  "Registre de baptêmes de Saint-Édouard / L'Acadie, v. 1793 (BAnQ)."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.513,
+     45.236
+    ]
+   },
+   "properties": {
+    "id": "elucier-01",
+    "ordre": 1,
+    "nom": "Saint-Édouard (district de Montréal) : naissance (v. 1793)",
+    "phase": "Origines",
+    "debut": 1793.0,
+    "fin": 1793.99,
+    "date_edtf": "1793~",
+    "certitude": "approximative",
+    "description": "Né vers 1793 à Saint-Édouard, d'après l'âge qu'il déclara lui-même à l'Église (certains avancent 1783). Baptisé catholique, il ne sait pas signer. Cinq autres Lucier (François, Basile, Joseph, Charles, Antoine) apparaissent dans la traite de l'Ouest ; Antoine est son frère, Charles le serait aussi et épousa une nièce de Mgr Blanchet.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 197 — note de l'auteur : Register of the Mission of St. Paul on the Willamette, 19 mars 1853 (F. N. Blanchet), photostat, Oregon Historical Library ; Coues, Henry-Thompson Journals, II",
+    "note": "Le Statesman de Salem (1853) le dit né dans la paroisse de « Acadia » (L'Acadie), voisine de Saint-Édouard."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "elucier-02",
+    "ordre": 2,
+    "nom": "Michillimakinac : recrutement de l'expédition Hunt (1810)",
+    "phase": "Astoriens",
+    "debut": 1810.5,
+    "fin": 1810.7,
+    "date_edtf": "1810",
+    "certitude": "hypothetique",
+    "description": "À 17 ans, il s'engage en 1810 dans la troupe de terre de Wilson Price Hunt, branche terrestre de la Pacific Fur Company d'Astor, peut-être avec son frère Charles recruté à Mackinac.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 197 — note de l'auteur : « Notes and Comments… Porter's Roll of the Overland Astorians », OHQ xxxiv, p. 286 ; Irving, Astoria, chap. XII",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "elucier-03",
+    "ordre": 3,
+    "nom": "Astoria : arrivée tardive de la troupe de Hunt (1812)",
+    "phase": "Astoriens",
+    "debut": 1812.1,
+    "fin": 1812.8,
+    "date_edtf": "1812",
+    "certitude": "certaine",
+    "description": "Après une traversée éprouvante (chavirages, famine, querelles), la troupe se disperse ; la plupart arrivent en février 1812, Lucier parmi les derniers. Il passe l'été à Astoria.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 198",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.04,
+     44.97
+    ]
+   },
+   "properties": {
+    "id": "elucier-04",
+    "ordre": 4,
+    "nom": "Poste de la Willamette (Henry's House) : chasseur avec John Day",
+    "phase": "Astoriens",
+    "debut": 1812.8,
+    "fin": 1814.2,
+    "date_edtf": "1812/1814",
+    "certitude": "approximative",
+    "description": "Envoyé avec l'équipe d'hiver au poste de la Willamette pour chasser et ménager les vivres d'Astoria, il est désigné chasseur avec John Day (« Lussier, Etienne, Hunter, William[ette] » dans la liste de 1813-1814).",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 199 — note de l'auteur : B. C. Payette, The Oregon Country under the Union Jack (1964), d'après HBCA F.4/61, fos 6-7d",
+    "note": "Point placé au site du poste Wallace, près de Salem."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.828,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "elucier-05",
+    "ordre": 5,
+    "nom": "Fort George : malade, puis express vers Montréal (1814)",
+    "phase": "Astoriens",
+    "debut": 1814.0,
+    "fin": 1814.3,
+    "date_edtf": "1814",
+    "certitude": "certaine",
+    "description": "Alexander Henry note avec humeur qu'« Étienne Lussier » est alité pour maladie vénérienne, parmi quatorze malades. Un mois plus tard, il est l'un des douze engagés partis de Fort George en deux canots légers pour l'express de Montréal, sous McDougall et Alexander McTavish. À son retour, il est inscrit comme « homme libre ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 199 — note de l'auteur : Alexander Henry, Journal, éd. Coues (1897), II, p. 892 ; Payette, p. 118",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.73,
+     45.27
+    ]
+   },
+   "properties": {
+    "id": "elucier-06",
+    "ordre": 6,
+    "nom": "Rivière au Boudin (Pudding River) : le festin de boudin",
+    "phase": "Trappeur libre",
+    "debut": 1815.0,
+    "fin": 1828.0,
+    "date_edtf": "181X/182X",
+    "certitude": "approximative",
+    "description": "Avec Joseph Gervais et leurs familles, Lucier campe près de l'embouchure de la Hous-a-cha-chuck. Bloqués par une tempête de neige, ils sortent enfin chasser et abattent des wapitis ; leurs femmes indiennes accourent avec couteaux et récipients pour recueillir le sang, dont elles font du boudin. Pendant tout le mauvais temps, on festoie, et les deux hommes baptisent le cours d'eau « Rivière au Boudin ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 200 — note de l'auteur : Willard H. Rees, Oregon Pioneers Association Transactions, 1879, p. 23",
+    "note": "Toponyme français conservé en anglais : Pudding River."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.626
+    ]
+   },
+   "properties": {
+    "id": "elucier-07",
+    "ordre": 7,
+    "nom": "Fort Vancouver : le chasseur de David Douglas (1826-1827)",
+    "phase": "Trappeur libre",
+    "debut": 1826.88,
+    "fin": 1830.0,
+    "date_edtf": "1826-11-17/1827-02",
+    "certitude": "certaine",
+    "description": "Le 17 novembre 1826, le botaniste David Douglas cherche en vain « Etienne Lucien », campé sept milles plus bas, pour louer un canot ; en février 1827, il tient de lui ses observations sur les grands vautours. La famille loge au village près du fort quand Lucier part en brigade ; la petite Adrienne, morte centenaire, se souvenait de McLoughlin la hissant sur sa selle pour un tour du fort. Félicité, 14 ans, épouse le commis Donald Manson en 1828.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 201 — note de l'auteur : David Douglas, Journal, 17 nov. 1826 et févr. 1827",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.66,
+     45.52
+    ]
+   },
+   "properties": {
+    "id": "elucier-08",
+    "ordre": 8,
+    "nom": "Rive est en face de Portland : première concession (1829-1830)",
+    "phase": "Fermier",
+    "debut": 1829.0,
+    "fin": 1830.99,
+    "date_edtf": "1829/1830",
+    "certitude": "approximative",
+    "description": "D'après sa nécrologie, il prend en 1829 une concession en face de l'actuel Portland, qu'il abandonne en 1830.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 207 — note de l'auteur : Oregon Statesman (Salem), repris dans le St. Louis Intelligencer, 28 mai 1853",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "elucier-09",
+    "ordre": 9,
+    "nom": "Les Dalles : l'express manqué (v. 1829)",
+    "phase": "Trappeur libre",
+    "debut": 1829.5,
+    "fin": 1829.7,
+    "date_edtf": "1829",
+    "certitude": "approximative",
+    "description": "Autorisé à rejoindre l'express de l'est, il le manque aux Dalles et revient à Fort Vancouver ; il trappe encore un an en songeant à cultiver la prairie.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 202",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3,
+     41.5
+    ]
+   },
+   "properties": {
+    "id": "elucier-10",
+    "ordre": 10,
+    "nom": "Pays de Shasta : la brigade de McLeod prise dans les neiges (1829-1830)",
+    "phase": "Trappeur libre",
+    "debut": 1829.8,
+    "fin": 1830.3,
+    "date_edtf": "1829/1830",
+    "certitude": "approximative",
+    "description": "Sa dernière campagne, avec McLeod, tourne au désastre : brigade bloquée par la neige, fourrures en cache gâtées au printemps. Il décide de se retirer et de rentrer au Canada pour donner religion et école à ses filles.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 202",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.86,
+     45.235
+    ]
+   },
+   "properties": {
+    "id": "elucier-11",
+    "ordre": 11,
+    "nom": "Prairie française : « premier fermier de l'Oregon » (1831)",
+    "phase": "Fermier",
+    "debut": 1831.0,
+    "fin": 1853.2,
+    "date_edtf": "1831/1853",
+    "certitude": "certaine",
+    "description": "McLoughlin contourne la règle qui oblige la CBH à rapatrier ses engagés : il garde Lucier sur les livres comme serviteur et lui prête semences et bétail. Lucier s'établit sur une longue butte parallèle à la Willamette, avec un débarcadère et le petit lac Skookum derrière, où il pose encore ses vieux pièges. Maison de rondins équarris blanchie à la chaux, fenêtres de peau, four à pain en ruche, première grange de charpente de la Prairie, moulin à manège, pêchers.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 202 — note de l'auteur : « Copy of a Document Found among the Private Papers of the Late Dr. John McLoughlin », Oreg. Pioneers Assn. Trans. (1881), p. 48-49 ; John Ball, Autobiography (1925), p. 9",
+    "note": "Trois de ses pièges étaient encore chez son arrière-petit-fils Felix Choquette en 1956."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "elucier-12",
+    "ordre": 12,
+    "nom": "Saint-Paul : arrivée des prêtres et mariage avec Josephte (21-23 janv. 1839)",
+    "phase": "Fermier",
+    "debut": 1839.05,
+    "fin": 1840.99,
+    "date_edtf": "1839-01-21/1839-01-23",
+    "certitude": "certaine",
+    "description": "Après trois pétitions à l'évêque de la Rivière-Rouge, les Canadiens bâtissent une chapelle de rondins ; les abbés Blanchet et Demers arrivent en janvier 1839. Lucier épouse sa femme nouite (kwakiutl), baptisée Josephte, et fait inscrire ses six enfants ; il sert de parrain seize fois. Josephte meurt de la « maladie de gorge » en 1840.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 204 — note de l'auteur : Register of the Mission of St. Paul, 23 janv. 1839",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.606,
+     45.357
+    ]
+   },
+   "properties": {
+    "id": "elucier-13",
+    "ordre": 13,
+    "nom": "Oregon City : achats au magasin de David McLoughlin",
+    "phase": "Fermier",
+    "debut": 1840.0,
+    "fin": 1850.0,
+    "date_edtf": "184X",
+    "certitude": "approximative",
+    "description": "Sucre, tabac, chandeliers de laiton et 29 rouleaux de papier peint à 1,15 $ : il paie en avoine, porcs, castors et blé. Les comptes d'Ewing Young montrent ses achats de bois de chêne et de pin. En 1850, il vend des pommes à 6 $ le boisseau ; au rôle de 1844, une horloge de 12 $, 450 $ de chevaux, 1 295 $ de bétail.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 203 — note de l'auteur : « Ewing Young and his Estate », OHQ xxi, p. 197 ; Oregon Tax Roll 1844, OHQ xxxi, p. 17",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.874,
+     45.249
+    ]
+   },
+   "properties": {
+    "id": "elucier-14",
+    "ordre": 14,
+    "nom": "Champoeg : il vote pour un gouvernement (2 mai 1843)",
+    "phase": "Fermier",
+    "debut": 1843.33,
+    "fin": 1843.34,
+    "date_edtf": "1843-05-02",
+    "certitude": "certaine",
+    "description": "Avec François-Xavier Matthieu, il se range du côté d'un gouvernement de lois, contre l'avis de la plupart des Canadiens et de la Compagnie ; leurs deux noms figurent sur la stèle de granit de l'assemblée de Champoeg. Il soutient aussi un projet de route des Cascades, un chemin de fer aux chutes d'Oregon City et le canal à écluses.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 204 — note de l'auteur : H. S. Lyman, « Reminiscences of F. X. Matthieu », OHQ I, p. 89",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.973,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "elucier-15",
+    "ordre": 15,
+    "nom": "Saint-Paul : l'église de brique et la mort (18 mars 1853)",
+    "phase": "Fermier",
+    "debut": 1846.0,
+    "fin": 1853.21,
+    "date_edtf": "1846/1853-03-18",
+    "certitude": "certaine",
+    "description": "Il aide à financer l'église de brique de 1846, se remarie avec Marie Marguerite, devient citoyen américain en 1851. Infirme et à la canne vers soixante ans, il est soigné par le Dr William Bailey (132 $). Il meurt le 18 mars 1853 et repose au vieux cimetière, sous la grande croix commune ; une plaque y nomme les premiers colons : Gervais, Chalifoux, Lucier, LaBonté, Laframboise, LaCourse, Picard, McLoughlin.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 206 — note de l'auteur : C. C. Dobbs, Men of Champoeg (1932), p. 17 ; Mme Stanton Frisbie à l'auteure, 1960",
+    "note": "On le disait « petit, trapu et brun », parlant « un peu l'anglais »."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.863,
+     45.235
+    ]
+   },
+   "properties": {
+    "id": "elucier-16",
+    "ordre": 16,
+    "nom": "Crue de 1861 : la maison emportée",
+    "phase": "Mémoire",
+    "debut": 1861.9,
+    "fin": 1862.0,
+    "date_edtf": "1861-12",
+    "certitude": "certaine",
+    "description": "La grande crue de 1861 balaie la ferme ; sa veuve et deux jeunes fils sont arrachés en hurlant à la fenêtre de l'étage tandis que la maison quitte ses fondations. Il ne reste que la terre, semée de tessons, de briques, de pipes en terre et d'un bouton doré repoussé.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 204",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.513,
+      45.236
+     ],
+     [
+      -84.62,
+      45.85
+     ],
+     [
+      -123.831,
+      46.188
+     ],
+     [
+      -123.04,
+      44.97
+     ],
+     [
+      -123.828,
+      46.188
+     ],
+     [
+      -122.73,
+      45.27
+     ],
+     [
+      -122.661,
+      45.626
+     ],
+     [
+      -122.66,
+      45.52
+     ],
+     [
+      -121.18,
+      45.6
+     ],
+     [
+      -122.3,
+      41.5
+     ],
+     [
+      -122.86,
+      45.235
+     ],
+     [
+      -122.976,
+      45.211
+     ],
+     [
+      -122.606,
+      45.357
+     ],
+     [
+      -122.874,
+      45.249
+     ],
+     [
+      -122.973,
+      45.211
+     ]
+    ]
+   },
+   "properties": {
+    "id": "elucier-parcours",
+    "nom": "Parcours de Étienne Lucier"
+   }
+  }
+ ]
+}

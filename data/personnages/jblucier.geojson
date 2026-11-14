@@ -1,0 +1,470 @@
+{
+ "type": "FeatureCollection",
+ "name": "jblucier",
+ "personnage": {
+  "id": "jblucier",
+  "nom": "Jean-Baptiste Lucier dit Gardipe",
+  "auteur": "Harriet D. Munnick",
+  "pages": "208-216",
+  "vie": "v. 1810-1850",
+  "chapeau": "Métis cri né sur les routes de la traite, chasseur de la brigade de John Work, guide de l'expédition Wilkes et sauveteur des émigrants de 1846 : la figure des fils d'engagés de la Prairie française, entre deux cultures.",
+  "couleur": "#5f9ea0"
+ },
+ "bibliographie": [
+  "Harriet D. Munnick, « Jean-Baptiste Lucier dit Gardipe », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 208-216."
+ ],
+ "inedits": [
+  "St. Louis Parish Record Book (Oregon), vol. 1, p. 24 (sépulture 1850) ; registres de Saint-Paul (baptêmes 1840-1841).",
+  "Indian War Pension Files, claim no 7328 (Paul Lucier, 1902), Oregon Historical Society Library.",
+  "Mikell DeLores Warner, « The Delore Family History », manuscrit, et Genealogical Forum of Portland, Bulletin (1967-1969).",
+  "Portrait à la plume « J.L. 1841 » (collection familiale) : à comparer aux dessins d'Alfred T. Agate (expédition Wilkes, Smithsonian / Naval History and Heritage Command).",
+  "HBCA (Winnipeg) : listes de la brigade du Snake 1830-1831 ; comptes de Joseph et François Lucier (CNO)."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.5,
+     53.55
+    ]
+   },
+   "properties": {
+    "id": "jblucier-01",
+    "ordre": 1,
+    "nom": "Fort des Prairies : le père, Joseph Lucier, homme du Nord-Ouest (1804)",
+    "phase": "Pays d'en haut",
+    "debut": 1804.0,
+    "fin": 1804.99,
+    "date_edtf": "1804",
+    "certitude": "approximative",
+    "description": "Joseph Lucier, engagé de la Compagnie du Nord-Ouest, et François Lucier (sans doute son frère) figurent dans l'équipe de David Thompson au fort des Prairies, sur la haute Saskatchewan. La mère de Jean-Baptiste est une Crie, Wewepihawisk ; sa sœur Angélique naît vers 1804.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 210 — note de l'auteur : E. Coues (éd.), The Manuscript Journals of Alexander Henry … and of David Thompson, 1799-1814 (N.Y., 1897)",
+    "note": "Fort des Prairies désigne plusieurs postes successifs ; point placé au fort Augustus (Edmonton)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.55,
+     53.97
+    ]
+   },
+   "properties": {
+    "id": "jblucier-02",
+    "ordre": 2,
+    "nom": "New White Earth House : naissance probable de Jean-Baptiste (v. 1805-1810)",
+    "phase": "Pays d'en haut",
+    "debut": 1805.0,
+    "fin": 1810.99,
+    "date_edtf": "1805/1810",
+    "certitude": "hypothetique",
+    "description": "En 1810, à New White Earth House : « 1 tente, 1 homme, 2 femmes, 6 enfants ». Jean-Baptiste naît dans l'Ouest canadien entre 1805 et 1810. Joseph disparaît ensuite des sources ; la veuve suit un Gardipe (peut-être le J.-B. Gardipe, ancien de la Pacific Fur Company, que Larpenteur dit tué très vieux par les Sioux), d'où le surnom.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 210 — note de l'auteur : Coues, Journals ; Larpenteur, Forty Years a Fur Trader (1898), p. 215 ; Paul Lucier, dossier de pension no 7328, Oregon Historical Society, 1902",
+    "note": "Son fils Paul : « mon nom est Lucier, on nous surnommait Gardipe ». Dans la famille, on grondait les enfants : « tu agis comme un Gardipe ! » (Julia Courville, morte en 1969 à 103 ans)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     58.38
+    ]
+   },
+   "properties": {
+    "id": "jblucier-03",
+    "ordre": 3,
+    "nom": "Fort Vermilion, rivière de la Paix (1809)",
+    "phase": "Pays d'en haut",
+    "debut": 1809.0,
+    "fin": 1809.99,
+    "date_edtf": "1809",
+    "certitude": "certaine",
+    "description": "Les deux Lucier campent ensemble au fort Vermilion : « 1 tente, 2 hommes, 1 femme, 1 enfant » selon le recensement de Thompson.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 210 — note de l'auteur : Coues, Journals of Henry and Thompson, index",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.95,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "jblucier-04",
+    "ordre": 4,
+    "nom": "Fort Nez Percés : chasseur de la brigade de John Work (1830)",
+    "phase": "Brigade du Snake",
+    "debut": 1830.65,
+    "fin": 1831.6,
+    "date_edtf": "1830/1831",
+    "certitude": "certaine",
+    "description": "Engagé de deuxième génération, il est chasseur dans l'expédition du pays des Serpents de John Work (1830-1831), partie du fort Nez Percés (Walla Walla).",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 211 — note de l'auteur : John Work, « Journal of the Snake Country Expedition of 1830-1 », éd. T. C. Elliott, OHQ xiv (1913), p. 299",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.2,
+     42.4
+    ]
+   },
+   "properties": {
+    "id": "jblucier-05",
+    "ordre": 5,
+    "nom": "Raft River et Portneuf : la brigade affamée (1831)",
+    "phase": "Brigade du Snake",
+    "debut": 1831.0,
+    "fin": 1831.45,
+    "date_edtf": "1831",
+    "certitude": "approximative",
+    "description": "La brigade tourne par la Portneuf et la Raft River jusqu'au Grand Lac Salé, revient par la Humboldt, le lac Malheur, la John Day et la Silvies. Début juin, Work détache sept hommes, tous métis (trois Findlay, deux Plante, Baptiste Gardipe et un Indien sauteux) : trop confiants dans leur chasse, ils n'avaient pas fait de provisions. Ils regagnent le fort le même jour que Work, n'ayant « mangé qu'un seul cheval ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 211 — note de l'auteur : Work, Journal, OHQ xiv",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8,
+     43.33
+    ]
+   },
+   "properties": {
+    "id": "jblucier-06",
+    "ordre": 6,
+    "nom": "Lac Malheur : retour par l'Oregon (1831)",
+    "phase": "Brigade du Snake",
+    "debut": 1831.4,
+    "fin": 1831.5,
+    "date_edtf": "1831-06",
+    "certitude": "approximative",
+    "description": "Étape du retour de la brigade de Work par le lac Malheur.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 211",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92,
+     45.115
+    ]
+   },
+   "properties": {
+    "id": "jblucier-07",
+    "ordre": 7,
+    "nom": "Saint-Louis (Prairie française) : squatter et convoyeur (1834-1844)",
+    "phase": "Prairie française",
+    "debut": 1834.0,
+    "fin": 1846.0,
+    "date_edtf": "1834/1846",
+    "certitude": "certaine",
+    "description": "Vers 1834, il prend pour épouse Catherine Delore, 14 ans, fille de Joseph Delore et de sa femme shuswap, née elle aussi sur les pistes de brigade. En 1844, il paie 1,07 $ de taxe au percepteur Joe Meek pour une terre sans aménagements, base de ses convois de mules et pâturage.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 212 — note de l'auteur : Mikell DeLores Warner, « The Delore Family History », ms. ; Genealogical Forum of Portland, Bulletin, 1967-1969",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "jblucier-08",
+    "ordre": 8,
+    "nom": "Mission Saint-Paul : baptême (nov. 1840) et mariage (juillet 1841)",
+    "phase": "Prairie française",
+    "debut": 1840.85,
+    "fin": 1841.55,
+    "date_edtf": "1840-11/1841-07",
+    "certitude": "certaine",
+    "description": "Il est baptisé à l'arrivée des prêtres en novembre 1840 ; Catherine l'est en juillet 1841, date de leur mariage religieux et de la légitimation de leur fils Paul Jean, 3 ans, baptisé « en l'absence du père ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 212",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.03,
+     45.05
+    ]
+   },
+   "properties": {
+    "id": "jblucier-09",
+    "ordre": 9,
+    "nom": "Camp de la Willamette : guide de l'expédition Wilkes vers la Californie (août-sept. 1841)",
+    "phase": "Guide",
+    "debut": 1841.65,
+    "fin": 1841.8,
+    "date_edtf": "1841-08/1841-09",
+    "certitude": "certaine",
+    "description": "Fin août 1841, il est engagé comme guide du détachement californien de l'expédition Wilkes (lieutenant Emmons) : 39 personnes avec le cartographe Eld, l'artiste Agate, le lieutenant Colvocoresses, des savants et des émigrants. Un « Guardapie Lake » sur leur route porte peut-être son nom.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 213 — note de l'auteur : G. M. Colvocoresses, Four Years in a Government Expedition (N.Y., 1852), p. 259",
+    "note": "Un portrait à la plume et au lavis, signé « J.L. » et daté 1841 sous le cadre, serait celui de Lucier, fait selon la tradition par « un homme d'un navire » de l'expédition."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "jblucier-10",
+    "ordre": 10,
+    "nom": "Haute Santiam : à la recherche d'un col vers Fort Boise (1846)",
+    "phase": "Guide",
+    "debut": 1846.4,
+    "fin": 1846.6,
+    "date_edtf": "1846",
+    "certitude": "approximative",
+    "description": "Avec dix hommes, dont son jeune beau-frère Delore, il tente de tracer une route d'émigrants à travers les Cascades par la Santiam. Faute de col, on y renonce au profit de la Barlow Road.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 213 — note de l'auteur : Martha E. Gilliam, « Reminiscences », OHQ xvii (1916), p. 362",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2,
+     43.75
+    ]
+   },
+   "properties": {
+    "id": "jblucier-11",
+    "ordre": 11,
+    "nom": "Monts Calapooya : seuls à continuer avec Holt (11 déc. 1846)",
+    "phase": "Sauvetage de 1846",
+    "debut": 1846.94,
+    "fin": 1846.95,
+    "date_edtf": "1846-12-11",
+    "certitude": "certaine",
+    "description": "Thomas Holt part le 4 décembre avec 34 chevaux de vivres pour les émigrants bloqués sur la route du sud. Au pied des Calapooya, le Français et trois Métis font demi-tour ; Lucier accepte de continuer si Holt garantit le paiement de ses 60 $ de dettes envers M. Beers, de la Mission méthodiste.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214 — note de l'auteur : Thomas Holt, « Holt's Journal », Oregon Spectator, Oregon City, 4 mars 1847",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "jblucier-12",
+    "ordre": 12,
+    "nom": "Elk Creek : Baptiste tue deux chevreuils pour les familles affamées",
+    "phase": "Sauvetage de 1846",
+    "debut": 1846.95,
+    "fin": 1846.96,
+    "date_edtf": "1846-12",
+    "certitude": "certaine",
+    "description": "Sur la fourche nord de l'Elk, cinq familles n'ont ni farine, ni viande, ni sel ; Baptiste abat deux chevreuils et partage la viande.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214 — note de l'auteur : Holt's Journal",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.35,
+     43.28
+    ]
+   },
+   "properties": {
+    "id": "jblucier-13",
+    "ordre": 13,
+    "nom": "Fourche nord de l'Umpqua : un fusil pour un canot (21 déc. 1846)",
+    "phase": "Sauvetage de 1846",
+    "debut": 1846.97,
+    "fin": 1846.98,
+    "date_edtf": "1846-12-21",
+    "certitude": "certaine",
+    "description": "Les Umpquas refusent un canot et renvoient les sauveteurs chercher un gué dans la rivière en crue ; il faut céder le fusil de Delore (8 $). Lucier perd un cheval. Les descendants des Umpquas racontaient plus tard que ces Blancs les traitaient de sauvages mais leur semblaient des bêtes, avec leurs visages poilus et leurs yeux exorbités.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214 — note de l'auteur : Holt's Journal",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.33,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "jblucier-14",
+    "ordre": 14,
+    "nom": "South Umpqua : chacun ramène une famille (fin déc. 1846)",
+    "phase": "Sauvetage de 1846",
+    "debut": 1846.98,
+    "fin": 1847.0,
+    "date_edtf": "1846-12",
+    "certitude": "approximative",
+    "description": "Sur la South Umpqua, ils font demi-tour avec les derniers traînards, chacun prenant une famille à charge.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.25,
+     44.75
+    ]
+   },
+   "properties": {
+    "id": "jblucier-15",
+    "ordre": 15,
+    "nom": "Luckiamute : un cheval noyé (14-17 janv. 1847)",
+    "phase": "Sauvetage de 1846",
+    "debut": 1847.03,
+    "fin": 1847.05,
+    "date_edtf": "1847-01-14/1847-01-17",
+    "certitude": "certaine",
+    "description": "Le 14, Baptiste traverse la Luckiamute à la nage et y noie un cheval ; il laisse les deux familles Townsend aux fourches. La mission de sept semaines coûte 426,37 $.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 215 — note de l'auteur : Holt's Journal",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.916,
+     45.115
+    ]
+   },
+   "properties": {
+    "id": "jblucier-16",
+    "ordre": 16,
+    "nom": "Saint-Louis (Oregon) : sépulture (17 août 1850)",
+    "phase": "Prairie française",
+    "debut": 1850.62,
+    "fin": 1850.63,
+    "date_edtf": "1850-08-17",
+    "certitude": "certaine",
+    "description": "Le registre de Saint-Louis : inhumation de « Baptiste Lucier dit Gardepi », mort la veille à 40 ans ; témoins Louis Vandale, Joseph Dellart (Delore), B. Delorme. Il repose dans l'ancien cimetière paroissial aujourd'hui perdu. Catherine épouse ensuite William Lascerte et meurt en 1858.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 215 — note de l'auteur : St. Louis Parish Record Book, vol. 1, p. 24, S. 19",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -113.5,
+      53.55
+     ],
+     [
+      -112.55,
+      53.97
+     ],
+     [
+      -116.0,
+      58.38
+     ],
+     [
+      -118.95,
+      46.06
+     ],
+     [
+      -113.2,
+      42.4
+     ],
+     [
+      -118.8,
+      43.33
+     ],
+     [
+      -122.92,
+      45.115
+     ],
+     [
+      -122.976,
+      45.211
+     ],
+     [
+      -123.03,
+      45.05
+     ],
+     [
+      -122.0,
+      44.45
+     ],
+     [
+      -123.2,
+      43.75
+     ],
+     [
+      -123.3,
+      43.65
+     ],
+     [
+      -123.35,
+      43.28
+     ],
+     [
+      -123.33,
+      43.0
+     ],
+     [
+      -123.25,
+      44.75
+     ],
+     [
+      -122.916,
+      45.115
+     ]
+    ]
+   },
+   "properties": {
+    "id": "jblucier-parcours",
+    "nom": "Parcours de Jean-Baptiste Lucier dit Gardipe"
+   }
+  }
+ ]
+}

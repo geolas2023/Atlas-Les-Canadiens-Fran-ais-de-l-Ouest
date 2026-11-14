@@ -1,0 +1,548 @@
+{
+ "type": "FeatureCollection",
+ "name": "franchere",
+ "personnage": {
+  "id": "franchere",
+  "nom": "Gabriel Franchère",
+  "auteur": "Carl P. Russell",
+  "pages": "138-143",
+  "vie": "1786-1863",
+  "hafen": "Gabriel Franchère",
+  "chapeau": "Commis montréalais de l'entreprise d'Astor, témoin de la fondation et de la reddition d'Astoria, auteur de la Relation (Montréal, 1820), premier récit d'ensemble de l'aventure astorienne ; il finit marchand de fourrures à New York.",
+  "couleur": "#1f6f8b"
+ },
+ "bibliographie": [
+  "Carl P. Russell, « Gabriel Franchère », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138-143."
+ ],
+ "inedits": [
+  "Manuscrit du « Journal d'un voyage sur la côte du Nord-Ouest de l'Amérique septentrionale pendant les années 1811-12, 13 & 14 », Toronto Public Library (livres rares) : réputé non publié (lettre de Hoyt C. Franchère, 1963). Une édition critique a depuis paru (Champlain Society, 1969, éd. W. Kaye Lamb) : à comparer.",
+  "38 lettres de Franchère, American Fur Company Papers, New-York Historical Society (microfilms dans plusieurs bibliothèques).",
+  "Annuaires de New York 1850-1863 (40, 17 et 12 Broadway).",
+  "St. Paul Pioneer, 14 avril 1863 ; New York Commercial Advertiser, 15 avril 1863.",
+  "Registres de Notre-Dame de Montréal : mariage Franchère × Routhier (v. 1815)."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567,
+     45.501
+    ]
+   },
+   "properties": {
+    "id": "franchere-01",
+    "ordre": 1,
+    "nom": "Montréal : départ du jeune commis (juillet 1810)",
+    "phase": "Astoria",
+    "debut": 1810.5,
+    "fin": 1810.58,
+    "date_edtf": "1810-07",
+    "certitude": "certaine",
+    "description": "À 24 ans, Franchère s'engage comme commis apprenti chez les Astoriens. Il traverse le Saint-Laurent en canot, gagne le lac Champlain en charrette, puis Brooklyn par canot et voiture.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.69
+    ]
+   },
+   "properties": {
+    "id": "franchere-02",
+    "ordre": 2,
+    "nom": "New York : embarquement sur le Tonquin (6 septembre 1810)",
+    "phase": "Astoria",
+    "debut": 1810.68,
+    "fin": 1810.69,
+    "date_edtf": "1810-09-06",
+    "certitude": "certaine",
+    "description": "Il monte à bord du Tonquin avec 32 passagers et 21 hommes d'équipage ; seuls le capitaine Jonathan Thorn et l'équipage sont américains. Son journal décrit avec finesse la rigidité rancunière du capitaine.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138 — note de l'auteur : journal original, « Journal d'un voyage sur la côte du Nord-Ouest… 1811-12, 13 & 14 », Toronto Public Library (non publié)",
+    "note": "Le manuscrit du journal de Franchère, conservé à Toronto, serait inédit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.5,
+     -51.7
+    ]
+   },
+   "properties": {
+    "id": "franchere-03",
+    "ordre": 3,
+    "nom": "Îles Malouines (décembre 1810)",
+    "phase": "Astoria",
+    "debut": 1810.9,
+    "fin": 1811.0,
+    "date_edtf": "1810-12",
+    "certitude": "certaine",
+    "description": "Escale du Tonquin aux Malouines pendant les sept mois du voyage par le cap Horn.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.86,
+     21.31
+    ]
+   },
+   "properties": {
+    "id": "franchere-04",
+    "ordre": 4,
+    "nom": "Îles Sandwich (Hawaï, février 1811)",
+    "phase": "Astoria",
+    "debut": 1811.1,
+    "fin": 1811.2,
+    "date_edtf": "1811-02",
+    "certitude": "certaine",
+    "description": "Escale aux îles Hawaï avant la traversée vers la Columbia.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "franchere-05",
+    "ordre": 5,
+    "nom": "Barre de la Columbia (25 mars 1811)",
+    "phase": "Astoria",
+    "debut": 1811.22,
+    "fin": 1811.23,
+    "date_edtf": "1811-03-25",
+    "certitude": "certaine",
+    "description": "Après plusieurs hommes perdus dans les brisants de l'embouchure, le Tonquin franchit la barre et gagne un abri sûr.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "franchere-06",
+    "ordre": 6,
+    "nom": "Astoria, pointe George : fondation (1811)",
+    "phase": "Astoria",
+    "debut": 1811.25,
+    "fin": 1813.8,
+    "date_edtf": "1811/1813",
+    "certitude": "certaine",
+    "description": "Le site est choisi sur la rive sud ; le défrichement et la construction durent jusqu'à l'été. Franchère, commis, reste au poste quand le Tonquin repart vers le nord. En 1812 arrivent la troupe de terre (janvier-février) et le Beaver (mai) ; quelque 140 hommes d'Astor sont répartis jusqu'aux Rocheuses.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 139",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -125.9,
+     49.15
+    ]
+   },
+   "properties": {
+    "id": "franchere-07",
+    "ordre": 7,
+    "nom": "Clayoquot Sound : destruction du Tonquin (juin 1811)",
+    "phase": "Astoria",
+    "debut": 1811.45,
+    "fin": 1811.5,
+    "date_edtf": "1811-06",
+    "certitude": "approximative",
+    "description": "Franchère entend le récit de l'Indien chehalis Lamazee, témoin de la destruction du Tonquin et du massacre de son équipage ; il le rapporte dans sa Relation, deuxième récit imprimé du désastre après les nouvelles apportées à Saint-Louis par Robert Stuart (avril 1813).",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 139 — note de l'auteur : Chittenden, The American Fur Trade of the Far West (1954), I, p. 213-214",
+    "note": "Le livre dit « Nootka Sound » ; l'attaque eut lieu dans la baie de Clayoquot."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.829,
+     46.189
+    ]
+   },
+   "properties": {
+    "id": "franchere-08",
+    "ordre": 8,
+    "nom": "Astoria devient Fort George (23 oct. et 12 déc. 1813)",
+    "phase": "Astoria",
+    "debut": 1813.8,
+    "fin": 1814.26,
+    "date_edtf": "1813-10-23/1813-12-12",
+    "certitude": "certaine",
+    "description": "Le 23 octobre 1813, Duncan McDougall cède le poste à la Compagnie du Nord-Ouest pour le cinquième de sa valeur ; au dégoût de Franchère, on amène le drapeau américain. Le 12 décembre, le capitaine Black du Raccoon hisse l'Union Jack, brise une bouteille de madère sur le mât et rebaptise le poste Fort George. Franchère juge que l'accusation de trahison envers Astor collera toujours à ces hommes.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 140 — note de l'auteur : Franchère, Narrative (1854), p. 200-201 ; inventaire et témoignage d'Astor, 17e Congrès, 2e session, H. Doc. 45",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "franchere-09",
+    "ordre": 9,
+    "nom": "Remontée de la Columbia (4 avril 1814)",
+    "phase": "Retour",
+    "debut": 1814.26,
+    "fin": 1814.4,
+    "date_edtf": "1814-04-04",
+    "certitude": "approximative",
+    "description": "Refusant de servir les nouveaux maîtres, Franchère part avec d'autres Astoriens dans dix canots (cinq pirogues, cinq canots d'écorce) pour remonter la Columbia et traverser le continent. Quatre-vingt-dix Astoriens quittent Fort George.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 140",
+    "note": "Point placé aux Dalles, étape obligée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567,
+     45.501
+    ]
+   },
+   "properties": {
+    "id": "franchere-10",
+    "ordre": 10,
+    "nom": "Montréal : retour (1er septembre 1814) et mariage avec Sophie Routhier",
+    "phase": "Montréal",
+    "debut": 1814.67,
+    "fin": 1837.0,
+    "date_edtf": "1814-09-01/1837",
+    "certitude": "certaine",
+    "description": "Il arrive à Montréal le 1er septembre 1814 et épouse peu après Sophie Routhier : huit filles et deux fils. Sophie meurt en 1837.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141 — note de l'auteur : Hoyt C. Franchère à C. P. Russell, 15 juillet 1963",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.556,
+     45.507
+    ]
+   },
+   "properties": {
+    "id": "franchere-11",
+    "ordre": 11,
+    "nom": "Montréal : la Relation d'un voyage (1820)",
+    "phase": "Montréal",
+    "debut": 1820.0,
+    "fin": 1820.99,
+    "date_edtf": "1820",
+    "certitude": "certaine",
+    "description": "Rédigée à la demande d'amis, avec l'aide de Michel Bibaud, la Relation d'un voyage à la côte du Nord-Ouest paraît chez C. B. Pasteur (284 p.). Premier historique d'ensemble de l'aventure astorienne, elle est réputée pour son authenticité et sa simplicité « à la Defoe ».",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 139 — note de l'auteur : Relation d'un voyage…, par G. Franchère fils, Montréal, 1820",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "franchere-12",
+    "ordre": 12,
+    "nom": "Mackinac et Sault-Sainte-Marie : agent de l'American Fur Company (années 1830)",
+    "phase": "American Fur Company",
+    "debut": 1830.0,
+    "fin": 1839.0,
+    "date_edtf": "183X",
+    "certitude": "approximative",
+    "description": "Franchère devient une figure de l'American Fur Company ; trente-huit de ses lettres, conservées dans les papiers de la compagnie, le montrent lettré, habile en affaires et scrupuleux.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141 — note de l'auteur : G. L. Nute (comp.), Calendar of the American Fur Company Papers, AHA Report 1944 ; manuscrits à la New-York Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "franchere-13",
+    "ordre": 13,
+    "nom": "Sault-Sainte-Marie",
+    "phase": "American Fur Company",
+    "debut": 1834.0,
+    "fin": 1839.0,
+    "date_edtf": "183X",
+    "certitude": "approximative",
+    "description": "Activités documentées au Sault, poste clé de la pêche et de la traite des Grands Lacs.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.046,
+     42.331
+    ]
+   },
+   "properties": {
+    "id": "franchere-14",
+    "ordre": 14,
+    "nom": "Detroit : remariage avec Mrs. Prince (1839)",
+    "phase": "American Fur Company",
+    "debut": 1839.0,
+    "fin": 1839.99,
+    "date_edtf": "1839",
+    "certitude": "approximative",
+    "description": "Deux ans après la mort de Sophie, il épouse une veuve de Cincinnati et Détroit, Mrs. Prince ; son beau-fils John S. Prince sera agent de la compagnie Chouteau et maire de Saint-Paul.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 142",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.571,
+     37.975
+    ]
+   },
+   "properties": {
+    "id": "franchere-15",
+    "ordre": 15,
+    "nom": "Evansville : la traite du bas Wabash et de l'Ohio (v. 1839-1842)",
+    "phase": "American Fur Company",
+    "debut": 1839.5,
+    "fin": 1842.45,
+    "date_edtf": "1839/1842-06",
+    "certitude": "certaine",
+    "description": "Il dirige pendant deux ou trois ans les affaires de la compagnie sur le bas Wabash et l'Ohio, jusqu'à son rappel à New York par Ramsay Crooks en juin 1842.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 142",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.013,
+     40.706
+    ]
+   },
+   "properties": {
+    "id": "franchere-16",
+    "ordre": 16,
+    "nom": "New York : la liquidation de l'AFC et la traduction anglaise (1842-1854)",
+    "phase": "New York",
+    "debut": 1842.45,
+    "fin": 1854.99,
+    "date_edtf": "1842/1854",
+    "certitude": "certaine",
+    "description": "Au siège new-yorkais, il assiste aux derniers rites de l'American Fur Company. Dès 1843, la compagnie peine à trouver un exemplaire de sa Relation. Thomas Hart Benton, en pleine querelle de l'Oregon, la tient pour le récit le plus complet et le plus authentique ; Franchère en publie une version anglaise avec J. V. Huntington (Narrative, Redfield, 1854), fier d'avoir contribué au règlement de la question de l'Oregon.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141 — note de l'auteur : Calendar AFC, nos 13589 et 13655 ; Franchère, Narrative of a Voyage to the Northwest Coast of America (N.Y., 1854)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0135,
+     40.7052
+    ]
+   },
+   "properties": {
+    "id": "franchere-17",
+    "ordre": 17,
+    "nom": "40 puis 17 et 12 Broadway : marchand de fourrures (1850-1863)",
+    "phase": "New York",
+    "debut": 1850.0,
+    "fin": 1863.28,
+    "date_edtf": "1850/1863",
+    "certitude": "certaine",
+    "description": "Les annuaires de New York le disent « marchand » et « fur dealer » au 40 Broadway jusqu'en 1858, puis au 17 et, la dernière année, au 12 Broadway ; il habite Brooklyn.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 142 — note de l'auteur : Geraldine Beard, New-York Historical Society, à Russell, 2 août 1963",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "franchere-18",
+    "ordre": 18,
+    "nom": "Saint-Paul (Minnesota) : mort chez son beau-fils (12 avril 1863)",
+    "phase": "New York",
+    "debut": 1863.28,
+    "fin": 1863.29,
+    "date_edtf": "1863-04-12",
+    "certitude": "certaine",
+    "description": "Il meurt chez John S. Prince, à Saint-Paul ; ses contemporains new-yorkais le disent le dernier des Astoriens. Il est inhumé au cimetière Calvary.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 143 — note de l'auteur : B. P. Avery, « Death of a Remarkable Man », Minn. Hist. Soc. Collections vi (1894), p. 417-420 ; New York Commercial Advertiser, 15 avril 1863 ; St. Paul Pioneer, 14 avril 1863 ; Paul Daggett, diocèse de Saint-Paul, à Russell, 22 août 1963",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.553,
+     45.508
+    ]
+   },
+   "properties": {
+    "id": "franchere-19",
+    "ordre": 19,
+    "nom": "Château Ramezay : le portrait par son neveu Joseph-Charles Franchère",
+    "phase": "Mémoire",
+    "debut": 1900.0,
+    "fin": 1954.0,
+    "date_edtf": "1954",
+    "certitude": "certaine",
+    "description": "Le Château Ramezay, à Montréal, conserve un portrait de Gabriel Franchère peint par son neveu Joseph-Charles Franchère, reproduit dans l'édition Quaife de la Narrative (1954).",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 143",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.567,
+      45.501
+     ],
+     [
+      -74.0,
+      40.69
+     ],
+     [
+      -59.5,
+      -51.7
+     ],
+     [
+      -157.86,
+      21.31
+     ],
+     [
+      -124.05,
+      46.25
+     ],
+     [
+      -123.831,
+      46.188
+     ],
+     [
+      -125.9,
+      49.15
+     ],
+     [
+      -123.829,
+      46.189
+     ],
+     [
+      -121.18,
+      45.6
+     ],
+     [
+      -73.567,
+      45.501
+     ],
+     [
+      -73.556,
+      45.507
+     ],
+     [
+      -84.62,
+      45.85
+     ],
+     [
+      -84.35,
+      46.5
+     ],
+     [
+      -83.046,
+      42.331
+     ],
+     [
+      -87.571,
+      37.975
+     ],
+     [
+      -74.013,
+      40.706
+     ],
+     [
+      -74.0135,
+      40.7052
+     ],
+     [
+      -93.09,
+      44.95
+     ]
+    ]
+   },
+   "properties": {
+    "id": "franchere-parcours",
+    "nom": "Parcours de Gabriel Franchère"
+   }
+  }
+ ]
+}

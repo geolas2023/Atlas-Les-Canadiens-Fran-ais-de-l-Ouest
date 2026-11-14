@@ -1,0 +1,549 @@
+{
+ "type": "FeatureCollection",
+ "name": "menard",
+ "personnage": {
+  "id": "menard",
+  "nom": "Pierre Ménard",
+  "auteur": "Richard E. Oglesby",
+  "pages": "217-228",
+  "vie": "1766-1844",
+  "hafen": "Pierre Menard",
+  "chapeau": "Canadien de Saint-Antoine-sur-Richelieu devenu marchand de Kaskaskia, associé de Manuel Lisa, bourgeois de la Missouri Fur Company aux Trois-Fourches, puis premier lieutenant-gouverneur de l'Illinois, élu grâce à une clause constitutionnelle écrite pour lui.",
+  "couleur": "#9c2f5c"
+ },
+ "bibliographie": [
+  "Richard E. Oglesby, « Pierre Ménard », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217-228."
+ ],
+ "inedits": [
+  "Pierre Menard Collection, Illinois State Historical Library (lettres de Labbadie 1810, de L. C. Ménard 1843 ; déposition de 1806).",
+  "Menard Papers, Chicago Historical Society (certificat de baptême, commissions 1795, 1809, 1813, 1828-1829).",
+  "Kaskaskia Papers, Missouri Historical Society : lettre à Adrien Langlois, 7 oct. 1809.",
+  "Inventaire de la succession Ménard, Illinois Historical Survey, Urbana : centaines de créances irrécouvrables.",
+  "William Morrison Papers (Bryan and Morrison Store, Kaskaskia Ledger D).",
+  "Registre de Saint-Antoine-sur-Richelieu, 1766 (BAnQ)."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.22,
+     45.78
+    ]
+   },
+   "properties": {
+    "id": "menard-01",
+    "ordre": 1,
+    "nom": "Saint-Antoine-sur-Richelieu : naissance (1766)",
+    "phase": "Origines",
+    "debut": 1766.0,
+    "fin": 1766.99,
+    "date_edtf": "1766",
+    "certitude": "certaine",
+    "description": "Fils de Jean-Baptiste Ménard et de Marie-Françoise Cirée, né à Saint-Antoine en 1766.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217 — note de l'auteur : certificat de baptême, Menard Papers, Chicago Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.528,
+     38.677
+    ]
+   },
+   "properties": {
+    "id": "menard-02",
+    "ordre": 2,
+    "nom": "Vincennes : commis de Francisco Vigo (milieu des années 1780)",
+    "phase": "Marchand",
+    "debut": 1784.0,
+    "fin": 1790.0,
+    "date_edtf": "1785~/1790",
+    "certitude": "approximative",
+    "description": "Arrivé jeune à Vincennes, village français sur la Wabash, il travaille pour le traiteur et patriote Francisco Vigo et s'associe à Toussaint Dubois (seize ans de société).",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217 — note de l'auteur : H. L. Allen, « A Sketch of the Dubois Family », JISHS v (1912), p. 55",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.19,
+     40.2
+    ]
+   },
+   "properties": {
+    "id": "menard-03",
+    "ordre": 3,
+    "nom": "Carlisle (Pennsylvanie) : conférence avec Washington (1789)",
+    "phase": "Marchand",
+    "debut": 1789.0,
+    "fin": 1789.99,
+    "date_edtf": "1789",
+    "certitude": "approximative",
+    "description": "Il accompagne Vigo dans l'Est pour une conférence sur la défense de la frontière avec le président Washington.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217 — note de l'auteur : E. G. Mason, « Pierre Menard and Pierre Menard Papers », Chicago Hist. Soc. Collections iv (1890), p. 143",
+    "note": "Date à vérifier : Washington ne passe à Carlisle qu'en 1794."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.044,
+     37.978
+    ]
+   },
+   "properties": {
+    "id": "menard-04",
+    "ordre": 4,
+    "nom": "Sainte-Geneviève : la société Ménard et Vallé",
+    "phase": "Marchand",
+    "debut": 1790.0,
+    "fin": 1820.0,
+    "date_edtf": "1790/1820",
+    "certitude": "approximative",
+    "description": "Sa culture française lui ouvre les milieux de Saint-Louis et de Sainte-Geneviève, en Louisiane espagnole, où il fonde avec François Vallé une maison qui commerce longtemps sur le fleuve.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 218",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.896,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "menard-05",
+    "ordre": 5,
+    "nom": "Kaskaskia : le magasin, puis la maison de 1802",
+    "phase": "Marchand",
+    "debut": 1790.0,
+    "fin": 1844.45,
+    "date_edtf": "1790/1844",
+    "certitude": "certaine",
+    "description": "En 1790, il ouvre un magasin à Kaskaskia, d'où il commerce des chutes Saint-Antoine à La Nouvelle-Orléans. Marié à Thérèse Godin en 1792, major de milice en 1795 (puis colonel), il expédie en 1800 une seule cargaison de fourrures de 30 000 $. Sa maison de 1802, vitres pressées de France et boiseries d'acajou, accueille Lafayette en 1825 ; elle est encore debout.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 218 — note de l'auteur : W. J. Ghent, DAB XII ; J. W. Allen, Legends and Lore of Southern Illinois (1963), p. 300 ; J. Drury, Old Illinois Houses (1948), p. 8-9",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.526,
+     38.68
+    ]
+   },
+   "properties": {
+    "id": "menard-06",
+    "ordre": 6,
+    "nom": "Vincennes : député à la législature de l'Indiana (1803-1804)",
+    "phase": "Marchand",
+    "debut": 1803.0,
+    "fin": 1804.99,
+    "date_edtf": "1803/1804",
+    "certitude": "certaine",
+    "description": "Juge aux plaids communs nommé par Harrison, il est élu pour le comté de Randolph à la législature territoriale et soutient le gouverneur ; écœuré des factions, il démissionne en 1804 avec Shadrach Bond, l'année de la mort brutale de sa femme.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 218 — note de l'auteur : S. J. Buck, Illinois in 1818 (1917), p. 187, 200",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.893,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "menard-07",
+    "ordre": 7,
+    "nom": "Kaskaskia : mariage avec Angélique Saucier, Lisa pour témoin (1806)",
+    "phase": "Missouri Fur Company",
+    "debut": 1806.6,
+    "fin": 1806.7,
+    "date_edtf": "1806-08",
+    "certitude": "certaine",
+    "description": "Il épouse Angélique Saucier, d'une des plus vieilles familles françaises de l'Illinois, apparentée aux Chouteau : le voilà beau-frère de Pierre Chouteau fils. Manuel Lisa est témoin ; avec William Morrison, ils montent l'expédition de 16 000 $ que Lisa conduit au Bighorn en 1807.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 219 — note de l'auteur : déposition du 23 août 1806, Pierre Menard Collection, Book iv, Illinois State Historical Society ; Bryan and Morrison Store, Kaskaskia Ledger D, p. 438",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "menard-08",
+    "ordre": 8,
+    "nom": "Saint-Louis : départ de la Missouri Fur Company (17 juin 1809)",
+    "phase": "Missouri Fur Company",
+    "debut": 1809.0,
+    "fin": 1809.46,
+    "date_edtf": "1809-06-17",
+    "certitude": "certaine",
+    "description": "La St. Louis Missouri Fur Company (environ 40 000 $ : Chouteau, Clark, Labbadie, Lisa, Ménard, Morrison, Henry…) oblige chaque associé à monter. Capitaine de la garde qui raccompagne le chef mandan Shahaka, Ménard part avec le dernier contingent ; il confie ses affaires à Adrien Langlois.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 220 — note de l'auteur : commission, Menard Collection, Chicago Historical Society ; Oglesby, Manuel Lisa (1963), p. 68 et suiv.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "menard-09",
+    "ordre": 9,
+    "nom": "Fort Mandan : « je n'aime pas leurs manières » (oct. 1809)",
+    "phase": "Missouri Fur Company",
+    "debut": 1809.6,
+    "fin": 1809.8,
+    "date_edtf": "1809-10-07",
+    "certitude": "certaine",
+    "description": "Désertions et menaces de mutinerie : le voyage le désole. Au siège de la compagnie, il écrit à Langlois qu'il s'est résigné à souffrir pour gagner de l'argent, mais que les manières de certains associés lui déplaisent, lui qui aime les choses faites franchement.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 221 — note de l'auteur : Ménard à Adrien Langlois, 7 oct. 1809, Kaskaskia Papers, Missouri Historical Society ; Thomas James, Three Years Among the Indians and Mexicans (1846)",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.47,
+     46.15
+    ]
+   },
+   "properties": {
+    "id": "menard-10",
+    "ordre": 10,
+    "nom": "Fort Raymond (embouchure du Bighorn) : hivernage (1809-1810)",
+    "phase": "Missouri Fur Company",
+    "debut": 1809.8,
+    "fin": 1810.25,
+    "date_edtf": "1809/1810",
+    "certitude": "certaine",
+    "description": "Chargé de hisser la flottille jusqu'au vieux poste de Lisa, il réussit ce travail herculéen et hiverne au fort Raymond. Labbadie lui écrit de Fort Mandan pour se plaindre de son isolement et de l'inutilité de l'entreprise.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 221 — note de l'auteur : Sylvestre Labbadie à Ménard, 3 févr. 1810, Pierre Menard Collection, iv, ISHS",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.95,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "menard-11",
+    "ordre": 11,
+    "nom": "Île aux Cèdres : l'incendie de 12 000 $ (1810)",
+    "phase": "Missouri Fur Company",
+    "debut": 1810.2,
+    "fin": 1810.4,
+    "date_edtf": "1810",
+    "certitude": "approximative",
+    "description": "À son retour, son rapport pessimiste accable plus les directeurs que la perte de 12 000 $ dans l'incendie du poste de l'île aux Cèdres. Ménard garde ses parts jusqu'à la dissolution de 1814, mais ne remonte plus jamais.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 222 — note de l'auteur : Missouri Gazette, 10 mai 1810",
+    "note": "Position de Cedar Island estimée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.55,
+     45.92
+    ]
+   },
+   "properties": {
+    "id": "menard-12",
+    "ordre": 12,
+    "nom": "Trois-Fourches du Missouri : le fort face aux Pieds-Noirs (printemps 1810)",
+    "phase": "Missouri Fur Company",
+    "debut": 1810.25,
+    "fin": 1810.5,
+    "date_edtf": "1810-04-21",
+    "certitude": "certaine",
+    "description": "Avec Andrew Henry, il bâtit un poste aux Trois-Fourches ; les Pieds-Noirs, implacablement hostiles, empêchent la chasse dans la région la plus riche des Rocheuses. Il propose un plan de paix sans suite, puis redescend avec la majorité des hommes ; Henry passe la ligne de partage avec une soixantaine d'audacieux.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 222 — note de l'auteur : Ménard à Pierre Chouteau, 21 avril 1810, dans Chittenden, American Fur Trade (1954), II, p. 898",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.896,
+     37.925
+    ]
+   },
+   "properties": {
+    "id": "menard-13",
+    "ordre": 13,
+    "nom": "Kaskaskia : président du Conseil législatif de l'Illinois (1812-1818)",
+    "phase": "Illinois",
+    "debut": 1812.0,
+    "fin": 1818.9,
+    "date_edtf": "1812/1818",
+    "certitude": "certaine",
+    "description": "Il quitte sa charge de juge en 1811, est élu au premier Conseil législatif territorial en 1812, qui le choisit pour président. Sous-agent des Indiens de l'Illinois en 1813 (600 $ par an), il entretient de sa poche les Kaskaskias ; Ninian Edwards le nomme interprète des Kaskaskias et Piankashaws.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 223 — note de l'auteur : John Reynolds, Pioneer History of Illinois (1852), p. 244 ; Carter, Territorial Papers xvii, p. 34, 254",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.09,
+     38.96
+    ]
+   },
+   "properties": {
+    "id": "menard-14",
+    "ordre": 14,
+    "nom": "Vandalia : premier lieutenant-gouverneur et la blague de la banque (1818-1822)",
+    "phase": "Illinois",
+    "debut": 1818.9,
+    "fin": 1822.9,
+    "date_edtf": "1818/1822",
+    "certitude": "certaine",
+    "description": "Naturalisé seulement en 1816, il ne remplit pas la condition de trente ans de citoyenneté : les constituants ajoutent un dernier paragraphe pour le rendre éligible. Le gouverneur Ford rapporte (version apocryphe) qu'en faisant voter que les billets de la banque d'État serviraient de monnaie au bureau des terres, il ajouta avec son accent qu'il pariait cent dollars que cela n'arriverait jamais.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 224 — note de l'auteur : E. J. Verlie (éd.), Illinois Constitutions (1919), p. 46 ; Thomas Ford, History of Illinois (1854), p. 45-46",
+    "note": "Point placé à Vandalia, capitale à partir de 1820 (Kaskaskia avant)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.38,
+     40.4
+    ]
+   },
+   "properties": {
+    "id": "menard-15",
+    "ordre": 15,
+    "nom": "Keokuk : il baptise la ville (1828)",
+    "phase": "Illinois",
+    "debut": 1828.5,
+    "fin": 1828.6,
+    "date_edtf": "1828",
+    "certitude": "approximative",
+    "description": "En route vers Prairie du Chien, il donne à un village riverain de l'Iowa le nom du chef sauk Keokuk.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 225 — note de l'auteur : Reynolds, Pioneer History, p. 243",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "menard-16",
+    "ordre": 16,
+    "nom": "Prairie du Chien : commissaire aux traités (1828-1829)",
+    "phase": "Illinois",
+    "debut": 1828.5,
+    "fin": 1829.7,
+    "date_edtf": "1828/1829",
+    "certitude": "certaine",
+    "description": "John Quincy Adams le nomme avec Lewis Cass pour traiter avec les Winnebagos et d'autres nations à Prairie du Chien ; Jackson renouvelle la mission en 1829.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 225 — note de l'auteur : commissions, Menard Papers, Chicago Historical Society",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.79,
+     39.4
+    ]
+   },
+   "properties": {
+    "id": "menard-17",
+    "ordre": 17,
+    "nom": "Comté de Shelby : médiateur (1831)",
+    "phase": "Illinois",
+    "debut": 1831.0,
+    "fin": 1831.99,
+    "date_edtf": "1831",
+    "certitude": "approximative",
+    "description": "Le gouverneur Reynolds lui demande d'apaiser l'agitation indienne du comté de Shelby, à la veille du déplacement définitif des nations de l'Illinois.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 226 — note de l'auteur : Alvord et Greene, Governors' Letter Books 1818-1834 (1909), p. 176",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.899,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "menard-18",
+    "ordre": 18,
+    "nom": "Kaskaskia : la « fièvre des Montagnes » du fils et la mort (13 juin 1844)",
+    "phase": "Illinois",
+    "debut": 1843.27,
+    "fin": 1844.45,
+    "date_edtf": "1843-04-07/1844-06-13",
+    "certitude": "certaine",
+    "description": "Au printemps 1843, son fils Ciprien lui écrit de Saint-Louis qu'il a attrapé la « fièvre des Montagnes Rocheuses » et veut suivre Sir William Drummond Stewart ; le père consent. Ménard meurt le 13 juin 1844. Son inventaire révèle des centaines de prêts jamais recouvrés ; le Belleville Advocate pleure un patriarche et l'ami des pauvres.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 227 — note de l'auteur : L. C. Ménard à Pierre Ménard, 7 avril 1843, Pierre Menard Collection, vi, ISHS ; Belleville Advocate, 20 juin 1844 ; inventaire de la succession, Illinois Historical Survey",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.65,
+     39.798
+    ]
+   },
+   "properties": {
+    "id": "menard-19",
+    "ordre": 19,
+    "nom": "Comté de Menard (1839) et statue du Capitole de Springfield",
+    "phase": "Mémoire",
+    "debut": 1900.0,
+    "fin": 1960.0,
+    "date_edtf": "1839 ; 1888",
+    "certitude": "certaine",
+    "description": "L'Illinois donne son nom à un comté en 1839 ; une statue offerte par la famille Chouteau se dresse sur le terrain du Capitole, rappel de l'héritage français de l'État.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 227 — note de l'auteur : H. G. Bronson, « Early Illinois Railroads », ISHS Transactions xiii (1909), p. 174",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.22,
+      45.78
+     ],
+     [
+      -87.528,
+      38.677
+     ],
+     [
+      -77.19,
+      40.2
+     ],
+     [
+      -90.044,
+      37.978
+     ],
+     [
+      -89.896,
+      37.922
+     ],
+     [
+      -87.526,
+      38.68
+     ],
+     [
+      -89.893,
+      37.922
+     ],
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -101.27,
+      47.3
+     ],
+     [
+      -107.47,
+      46.15
+     ],
+     [
+      -99.95,
+      44.1
+     ],
+     [
+      -111.55,
+      45.92
+     ],
+     [
+      -89.896,
+      37.925
+     ],
+     [
+      -89.09,
+      38.96
+     ],
+     [
+      -91.38,
+      40.4
+     ],
+     [
+      -91.14,
+      43.05
+     ],
+     [
+      -88.79,
+      39.4
+     ],
+     [
+      -89.899,
+      37.922
+     ]
+    ]
+   },
+   "properties": {
+    "id": "menard-parcours",
+    "nom": "Parcours de Pierre Ménard"
+   }
+  }
+ ]
+}

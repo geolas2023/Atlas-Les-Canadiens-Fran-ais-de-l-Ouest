@@ -2,6 +2,17 @@
  "livre": "Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972)",
  "personnages": [
   {
+   "id": "franchere",
+   "nom": "Gabriel Franchère",
+   "couleur": "#1f6f8b",
+   "vie": "1786-1863",
+   "auteur": "Carl P. Russell",
+   "pages": "138-143",
+   "etapes": 19,
+   "debut": 1810.5,
+   "fin": 1863.29
+  },
+  {
    "id": "leduc",
    "nom": "Maurice LeDuc",
    "couleur": "#00a8e8",
@@ -22,6 +33,61 @@
    "etapes": 14,
    "debut": 1791.77,
    "fin": 1879.99
+  },
+  {
+   "id": "elucier",
+   "nom": "Étienne Lucier",
+   "couleur": "#3c7a3c",
+   "vie": "v. 1793-1853",
+   "auteur": "Harriet D. Munnick",
+   "pages": "196-207",
+   "etapes": 16,
+   "debut": 1793.0,
+   "fin": 1853.21
+  },
+  {
+   "id": "jblucier",
+   "nom": "Jean-Baptiste Lucier dit Gardipe",
+   "couleur": "#5f9ea0",
+   "vie": "v. 1810-1850",
+   "auteur": "Harriet D. Munnick",
+   "pages": "208-216",
+   "etapes": 16,
+   "debut": 1804.0,
+   "fin": 1850.63
+  },
+  {
+   "id": "menard",
+   "nom": "Pierre Ménard",
+   "couleur": "#9c2f5c",
+   "vie": "1766-1844",
+   "auteur": "Richard E. Oglesby",
+   "pages": "217-228",
+   "etapes": 19,
+   "debut": 1766.0,
+   "fin": 1844.45
+  },
+  {
+   "id": "moncravie",
+   "nom": "Jean-Baptiste Moncravie",
+   "couleur": "#b8860b",
+   "vie": "v. 1797-1885",
+   "auteur": "Charles E. Hanson Jr.",
+   "pages": "229-238",
+   "etapes": 18,
+   "debut": 1797.0,
+   "fin": 1885.55
+  },
+  {
+   "id": "pariseau",
+   "nom": "Pierre Pariseau",
+   "couleur": "#2f6f4f",
+   "vie": "v. 1793-1892",
+   "auteur": "Harriet D. Munnick",
+   "pages": "253-257",
+   "etapes": 10,
+   "debut": 1793.0,
+   "fin": 1892.06
   },
   {
    "id": "mstvrain",

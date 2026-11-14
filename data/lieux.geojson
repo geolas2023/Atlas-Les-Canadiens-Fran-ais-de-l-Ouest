@@ -9037,33 +9037,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.83,
-     46.19
-    ]
-   },
-   "properties": {
-    "id": "H004",
-    "nom": "Fort Astoria : Gabriel Franchère (1811-1814)",
-    "corpus": "Hafen",
-    "theme": "poste",
-    "debut": 1811.3,
-    "fin": 1814.3,
-    "date_edtf": "1811/1814",
-    "precision": "",
-    "certitude": "certaine",
-    "personnages": [
-     "Gabriel Franchère"
-    ],
-    "description": "Né à Montréal en 1786, commis de la Pacific Fur Company d'Astor, Franchère participe à la fondation du fort Astoria à l'embouchure du Columbia (1811). Son récit de voyage, publié en français à Montréal en 1820, est l'une des grandes sources sur l'entreprise astorienne.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. I, notice « Gabriel Franchère ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -104.04,
      47.999
     ]
@@ -9380,60 +9353,6 @@
     ],
     "description": "Notice de Hafen sur Jacques La Ramée, trappeur canadien tué vers 1820-1821 sur la rivière qui porte son nom ; la rivière, la ville et le fort Laramie en dérivent.",
     "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. VI, notice « J. LaRamee ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.88,
-     45.25
-    ]
-   },
-   "properties": {
-    "id": "H017",
-    "nom": "Champoeg (Prairie française) : Étienne Lucier",
-    "corpus": "Hafen",
-    "theme": "etablissement",
-    "debut": 1812.0,
-    "fin": 1853.0,
-    "date_edtf": "1829/1853",
-    "precision": "",
-    "certitude": "approximative",
-    "personnages": [
-     "Etienne Lucier"
-    ],
-    "description": "Astorien canadien, Étienne Lucier est l'un des premiers colons de la Prairie française de la Willamette. Il vote en 1843 à Champoeg pour la formation du gouvernement provisoire de l'Oregon.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. VI, notice « Etienne Lucier ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -89.92,
-     37.92
-    ]
-   },
-   "properties": {
-    "id": "H018",
-    "nom": "Kaskaskia : maison de Pierre Ménard",
-    "corpus": "Hafen",
-    "theme": "personnage",
-    "debut": 1790.0,
-    "fin": 1844.4,
-    "date_edtf": "1790/1844",
-    "precision": "",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Menard"
-    ],
-    "description": "Né à Saint-Antoine-sur-Richelieu (1766), Pierre Ménard, traiteur à Kaskaskia et associé de la Missouri Fur Company (expédition de 1810 aux Three Forks), devient le premier lieutenant-gouverneur de l'Illinois (1818). Sa maison est un lieu historique ; il est le grand-père maternel de Lucien Maxwell.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. VI, notice « Pierre Menard ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
     "note": ""
    }
   },
@@ -9928,33 +9847,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.04,
-     48.0
-    ]
-   },
-   "properties": {
-    "id": "H037",
-    "nom": "Fort Union : Jean-Baptiste Moncravie",
-    "corpus": "Hafen",
-    "theme": "personnage",
-    "debut": 1830.0,
-    "fin": 1860.0,
-    "date_edtf": "1830/1860",
-    "precision": "",
-    "certitude": "hypothetique",
-    "personnages": [
-     "J. B. Moncravie"
-    ],
-    "description": "Traiteur et conteur de l'American Fur Company sur le haut Missouri, Moncravie est notamment associé au fort Union.",
-    "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « J. B. Moncravie ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
-    "note": "Position à préciser dans la notice."
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -104.558,
      42.204
     ]
@@ -10002,6 +9894,538 @@
     "description": "Ancien employé canadien de la Compagnie de la Baie d'Hudson, Simon Plamondon est l'un des premiers colons de la Cowlitz Prairie, au nord du Columbia.",
     "sources": "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. IX, notice « Simon Plamondon ». Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.",
     "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567,
+     45.501
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-01",
+    "nom": "Montréal : départ du jeune commis (juillet 1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1810.5,
+    "fin": 1810.58,
+    "date_edtf": "1810-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "À 24 ans, Franchère s'engage comme commis apprenti chez les Astoriens. Il traverse le Saint-Laurent en canot, gagne le lac Champlain en charrette, puis Brooklyn par canot et voiture.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.69
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-02",
+    "nom": "New York : embarquement sur le Tonquin (6 septembre 1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1810.68,
+    "fin": 1810.69,
+    "date_edtf": "1810-09-06",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Il monte à bord du Tonquin avec 32 passagers et 21 hommes d'équipage ; seuls le capitaine Jonathan Thorn et l'équipage sont américains. Son journal décrit avec finesse la rigidité rancunière du capitaine.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138 — note de l'auteur : journal original, « Journal d'un voyage sur la côte du Nord-Ouest… 1811-12, 13 & 14 », Toronto Public Library (non publié)",
+    "note": "Le manuscrit du journal de Franchère, conservé à Toronto, serait inédit.",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.5,
+     -51.7
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-03",
+    "nom": "Îles Malouines (décembre 1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1810.9,
+    "fin": 1811.0,
+    "date_edtf": "1810-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Escale du Tonquin aux Malouines pendant les sept mois du voyage par le cap Horn.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.86,
+     21.31
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-04",
+    "nom": "Îles Sandwich (Hawaï, février 1811)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.1,
+    "fin": 1811.2,
+    "date_edtf": "1811-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Escale aux îles Hawaï avant la traversée vers la Columbia.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-05",
+    "nom": "Barre de la Columbia (25 mars 1811)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.22,
+    "fin": 1811.23,
+    "date_edtf": "1811-03-25",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Après plusieurs hommes perdus dans les brisants de l'embouchure, le Tonquin franchit la barre et gagne un abri sûr.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 138",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-06",
+    "nom": "Astoria, pointe George : fondation (1811)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.25,
+    "fin": 1813.8,
+    "date_edtf": "1811/1813",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Le site est choisi sur la rive sud ; le défrichement et la construction durent jusqu'à l'été. Franchère, commis, reste au poste quand le Tonquin repart vers le nord. En 1812 arrivent la troupe de terre (janvier-février) et le Beaver (mai) ; quelque 140 hommes d'Astor sont répartis jusqu'aux Rocheuses.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 139",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -125.9,
+     49.15
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-07",
+    "nom": "Clayoquot Sound : destruction du Tonquin (juin 1811)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1811.45,
+    "fin": 1811.5,
+    "date_edtf": "1811-06",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Franchère entend le récit de l'Indien chehalis Lamazee, témoin de la destruction du Tonquin et du massacre de son équipage ; il le rapporte dans sa Relation, deuxième récit imprimé du désastre après les nouvelles apportées à Saint-Louis par Robert Stuart (avril 1813).",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 139 — note de l'auteur : Chittenden, The American Fur Trade of the Far West (1954), I, p. 213-214",
+    "note": "Le livre dit « Nootka Sound » ; l'attaque eut lieu dans la baie de Clayoquot.",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.829,
+     46.189
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-08",
+    "nom": "Astoria devient Fort George (23 oct. et 12 déc. 1813)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1813.8,
+    "fin": 1814.26,
+    "date_edtf": "1813-10-23/1813-12-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Le 23 octobre 1813, Duncan McDougall cède le poste à la Compagnie du Nord-Ouest pour le cinquième de sa valeur ; au dégoût de Franchère, on amène le drapeau américain. Le 12 décembre, le capitaine Black du Raccoon hisse l'Union Jack, brise une bouteille de madère sur le mât et rebaptise le poste Fort George. Franchère juge que l'accusation de trahison envers Astor collera toujours à ces hommes.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 140 — note de l'auteur : Franchère, Narrative (1854), p. 200-201 ; inventaire et témoignage d'Astor, 17e Congrès, 2e session, H. Doc. 45",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-09",
+    "nom": "Remontée de la Columbia (4 avril 1814)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1814.26,
+    "fin": 1814.4,
+    "date_edtf": "1814-04-04",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Refusant de servir les nouveaux maîtres, Franchère part avec d'autres Astoriens dans dix canots (cinq pirogues, cinq canots d'écorce) pour remonter la Columbia et traverser le continent. Quatre-vingt-dix Astoriens quittent Fort George.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 140",
+    "note": "Point placé aux Dalles, étape obligée.",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567,
+     45.501
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-10",
+    "nom": "Montréal : retour (1er septembre 1814) et mariage avec Sophie Routhier",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1814.67,
+    "fin": 1837.0,
+    "date_edtf": "1814-09-01/1837",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Il arrive à Montréal le 1er septembre 1814 et épouse peu après Sophie Routhier : huit filles et deux fils. Sophie meurt en 1837.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141 — note de l'auteur : Hoyt C. Franchère à C. P. Russell, 15 juillet 1963",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.556,
+     45.507
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-11",
+    "nom": "Montréal : la Relation d'un voyage (1820)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.99,
+    "date_edtf": "1820",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Rédigée à la demande d'amis, avec l'aide de Michel Bibaud, la Relation d'un voyage à la côte du Nord-Ouest paraît chez C. B. Pasteur (284 p.). Premier historique d'ensemble de l'aventure astorienne, elle est réputée pour son authenticité et sa simplicité « à la Defoe ».",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 139 — note de l'auteur : Relation d'un voyage…, par G. Franchère fils, Montréal, 1820",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-12",
+    "nom": "Mackinac et Sault-Sainte-Marie : agent de l'American Fur Company (années 1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1839.0,
+    "date_edtf": "183X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Franchère devient une figure de l'American Fur Company ; trente-huit de ses lettres, conservées dans les papiers de la compagnie, le montrent lettré, habile en affaires et scrupuleux.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141 — note de l'auteur : G. L. Nute (comp.), Calendar of the American Fur Company Papers, AHA Report 1944 ; manuscrits à la New-York Historical Society",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-13",
+    "nom": "Sault-Sainte-Marie",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1839.0,
+    "date_edtf": "183X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Activités documentées au Sault, poste clé de la pêche et de la traite des Grands Lacs.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.046,
+     42.331
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-14",
+    "nom": "Detroit : remariage avec Mrs. Prince (1839)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.99,
+    "date_edtf": "1839",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Deux ans après la mort de Sophie, il épouse une veuve de Cincinnati et Détroit, Mrs. Prince ; son beau-fils John S. Prince sera agent de la compagnie Chouteau et maire de Saint-Paul.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 142",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.571,
+     37.975
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-15",
+    "nom": "Evansville : la traite du bas Wabash et de l'Ohio (v. 1839-1842)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.5,
+    "fin": 1842.45,
+    "date_edtf": "1839/1842-06",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Il dirige pendant deux ou trois ans les affaires de la compagnie sur le bas Wabash et l'Ohio, jusqu'à son rappel à New York par Ramsay Crooks en juin 1842.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 142",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.013,
+     40.706
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-16",
+    "nom": "New York : la liquidation de l'AFC et la traduction anglaise (1842-1854)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1842.45,
+    "fin": 1854.99,
+    "date_edtf": "1842/1854",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Au siège new-yorkais, il assiste aux derniers rites de l'American Fur Company. Dès 1843, la compagnie peine à trouver un exemplaire de sa Relation. Thomas Hart Benton, en pleine querelle de l'Oregon, la tient pour le récit le plus complet et le plus authentique ; Franchère en publie une version anglaise avec J. V. Huntington (Narrative, Redfield, 1854), fier d'avoir contribué au règlement de la question de l'Oregon.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 141 — note de l'auteur : Calendar AFC, nos 13589 et 13655 ; Franchère, Narrative of a Voyage to the Northwest Coast of America (N.Y., 1854)",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0135,
+     40.7052
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-17",
+    "nom": "40 puis 17 et 12 Broadway : marchand de fourrures (1850-1863)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1863.28,
+    "date_edtf": "1850/1863",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Les annuaires de New York le disent « marchand » et « fur dealer » au 40 Broadway jusqu'en 1858, puis au 17 et, la dernière année, au 12 Broadway ; il habite Brooklyn.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 142 — note de l'auteur : Geraldine Beard, New-York Historical Society, à Russell, 2 août 1963",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-18",
+    "nom": "Saint-Paul (Minnesota) : mort chez son beau-fils (12 avril 1863)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1863.28,
+    "fin": 1863.29,
+    "date_edtf": "1863-04-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Il meurt chez John S. Prince, à Saint-Paul ; ses contemporains new-yorkais le disent le dernier des Astoriens. Il est inhumé au cimetière Calvary.",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 143 — note de l'auteur : B. P. Avery, « Death of a Remarkable Man », Minn. Hist. Soc. Collections vi (1894), p. 417-420 ; New York Commercial Advertiser, 15 avril 1863 ; St. Paul Pioneer, 14 avril 1863 ; Paul Daggett, diocèse de Saint-Paul, à Russell, 22 août 1963",
+    "note": "",
+    "salle": "franchere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.553,
+     45.508
+    ]
+   },
+   "properties": {
+    "id": "F-franchere-19",
+    "nom": "Château Ramezay : le portrait par son neveu Joseph-Charles Franchère",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1900.0,
+    "fin": 1954.0,
+    "date_edtf": "1954",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Le Château Ramezay, à Montréal, conserve un portrait de Gabriel Franchère peint par son neveu Joseph-Charles Franchère, reproduit dans l'édition Quaife de la Narrative (1954).",
+    "sources": "Carl P. Russell, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 143",
+    "note": "",
+    "salle": "franchere"
    }
   },
   {
@@ -10394,6 +10818,2218 @@
     "sources": "Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 195 — note de l'auteur : Tassé, Les Canadiens de l'Ouest, II, p. 186-188",
     "note": "",
     "salle": "lesperance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.513,
+     45.236
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-01",
+    "nom": "Saint-Édouard (district de Montréal) : naissance (v. 1793)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1793.0,
+    "fin": 1793.99,
+    "date_edtf": "1793~",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Né vers 1793 à Saint-Édouard, d'après l'âge qu'il déclara lui-même à l'Église (certains avancent 1783). Baptisé catholique, il ne sait pas signer. Cinq autres Lucier (François, Basile, Joseph, Charles, Antoine) apparaissent dans la traite de l'Ouest ; Antoine est son frère, Charles le serait aussi et épousa une nièce de Mgr Blanchet.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 197 — note de l'auteur : Register of the Mission of St. Paul on the Willamette, 19 mars 1853 (F. N. Blanchet), photostat, Oregon Historical Library ; Coues, Henry-Thompson Journals, II",
+    "note": "Le Statesman de Salem (1853) le dit né dans la paroisse de « Acadia » (L'Acadie), voisine de Saint-Édouard.",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-02",
+    "nom": "Michillimakinac : recrutement de l'expédition Hunt (1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1810.5,
+    "fin": 1810.7,
+    "date_edtf": "1810",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "À 17 ans, il s'engage en 1810 dans la troupe de terre de Wilson Price Hunt, branche terrestre de la Pacific Fur Company d'Astor, peut-être avec son frère Charles recruté à Mackinac.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 197 — note de l'auteur : « Notes and Comments… Porter's Roll of the Overland Astorians », OHQ xxxiv, p. 286 ; Irving, Astoria, chap. XII",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-03",
+    "nom": "Astoria : arrivée tardive de la troupe de Hunt (1812)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1812.1,
+    "fin": 1812.8,
+    "date_edtf": "1812",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Après une traversée éprouvante (chavirages, famine, querelles), la troupe se disperse ; la plupart arrivent en février 1812, Lucier parmi les derniers. Il passe l'été à Astoria.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 198",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.04,
+     44.97
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-04",
+    "nom": "Poste de la Willamette (Henry's House) : chasseur avec John Day",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1812.8,
+    "fin": 1814.2,
+    "date_edtf": "1812/1814",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Envoyé avec l'équipe d'hiver au poste de la Willamette pour chasser et ménager les vivres d'Astoria, il est désigné chasseur avec John Day (« Lussier, Etienne, Hunter, William[ette] » dans la liste de 1813-1814).",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 199 — note de l'auteur : B. C. Payette, The Oregon Country under the Union Jack (1964), d'après HBCA F.4/61, fos 6-7d",
+    "note": "Point placé au site du poste Wallace, près de Salem.",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.828,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-05",
+    "nom": "Fort George : malade, puis express vers Montréal (1814)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.3,
+    "date_edtf": "1814",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Alexander Henry note avec humeur qu'« Étienne Lussier » est alité pour maladie vénérienne, parmi quatorze malades. Un mois plus tard, il est l'un des douze engagés partis de Fort George en deux canots légers pour l'express de Montréal, sous McDougall et Alexander McTavish. À son retour, il est inscrit comme « homme libre ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 199 — note de l'auteur : Alexander Henry, Journal, éd. Coues (1897), II, p. 892 ; Payette, p. 118",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.73,
+     45.27
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-06",
+    "nom": "Rivière au Boudin (Pudding River) : le festin de boudin",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1828.0,
+    "date_edtf": "181X/182X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Avec Joseph Gervais et leurs familles, Lucier campe près de l'embouchure de la Hous-a-cha-chuck. Bloqués par une tempête de neige, ils sortent enfin chasser et abattent des wapitis ; leurs femmes indiennes accourent avec couteaux et récipients pour recueillir le sang, dont elles font du boudin. Pendant tout le mauvais temps, on festoie, et les deux hommes baptisent le cours d'eau « Rivière au Boudin ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 200 — note de l'auteur : Willard H. Rees, Oregon Pioneers Association Transactions, 1879, p. 23",
+    "note": "Toponyme français conservé en anglais : Pudding River.",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.626
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-07",
+    "nom": "Fort Vancouver : le chasseur de David Douglas (1826-1827)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1826.88,
+    "fin": 1830.0,
+    "date_edtf": "1826-11-17/1827-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Le 17 novembre 1826, le botaniste David Douglas cherche en vain « Etienne Lucien », campé sept milles plus bas, pour louer un canot ; en février 1827, il tient de lui ses observations sur les grands vautours. La famille loge au village près du fort quand Lucier part en brigade ; la petite Adrienne, morte centenaire, se souvenait de McLoughlin la hissant sur sa selle pour un tour du fort. Félicité, 14 ans, épouse le commis Donald Manson en 1828.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 201 — note de l'auteur : David Douglas, Journal, 17 nov. 1826 et févr. 1827",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.66,
+     45.52
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-08",
+    "nom": "Rive est en face de Portland : première concession (1829-1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1830.99,
+    "date_edtf": "1829/1830",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "D'après sa nécrologie, il prend en 1829 une concession en face de l'actuel Portland, qu'il abandonne en 1830.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 207 — note de l'auteur : Oregon Statesman (Salem), repris dans le St. Louis Intelligencer, 28 mai 1853",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-09",
+    "nom": "Les Dalles : l'express manqué (v. 1829)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1829.5,
+    "fin": 1829.7,
+    "date_edtf": "1829",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Autorisé à rejoindre l'express de l'est, il le manque aux Dalles et revient à Fort Vancouver ; il trappe encore un an en songeant à cultiver la prairie.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 202",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3,
+     41.5
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-10",
+    "nom": "Pays de Shasta : la brigade de McLeod prise dans les neiges (1829-1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1829.8,
+    "fin": 1830.3,
+    "date_edtf": "1829/1830",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Sa dernière campagne, avec McLeod, tourne au désastre : brigade bloquée par la neige, fourrures en cache gâtées au printemps. Il décide de se retirer et de rentrer au Canada pour donner religion et école à ses filles.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 202",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.86,
+     45.235
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-11",
+    "nom": "Prairie française : « premier fermier de l'Oregon » (1831)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1831.0,
+    "fin": 1853.2,
+    "date_edtf": "1831/1853",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "McLoughlin contourne la règle qui oblige la CBH à rapatrier ses engagés : il garde Lucier sur les livres comme serviteur et lui prête semences et bétail. Lucier s'établit sur une longue butte parallèle à la Willamette, avec un débarcadère et le petit lac Skookum derrière, où il pose encore ses vieux pièges. Maison de rondins équarris blanchie à la chaux, fenêtres de peau, four à pain en ruche, première grange de charpente de la Prairie, moulin à manège, pêchers.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 202 — note de l'auteur : « Copy of a Document Found among the Private Papers of the Late Dr. John McLoughlin », Oreg. Pioneers Assn. Trans. (1881), p. 48-49 ; John Ball, Autobiography (1925), p. 9",
+    "note": "Trois de ses pièges étaient encore chez son arrière-petit-fils Felix Choquette en 1956.",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-12",
+    "nom": "Saint-Paul : arrivée des prêtres et mariage avec Josephte (21-23 janv. 1839)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1839.05,
+    "fin": 1840.99,
+    "date_edtf": "1839-01-21/1839-01-23",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Après trois pétitions à l'évêque de la Rivière-Rouge, les Canadiens bâtissent une chapelle de rondins ; les abbés Blanchet et Demers arrivent en janvier 1839. Lucier épouse sa femme nouite (kwakiutl), baptisée Josephte, et fait inscrire ses six enfants ; il sert de parrain seize fois. Josephte meurt de la « maladie de gorge » en 1840.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 204 — note de l'auteur : Register of the Mission of St. Paul, 23 janv. 1839",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.606,
+     45.357
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-13",
+    "nom": "Oregon City : achats au magasin de David McLoughlin",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1850.0,
+    "date_edtf": "184X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Sucre, tabac, chandeliers de laiton et 29 rouleaux de papier peint à 1,15 $ : il paie en avoine, porcs, castors et blé. Les comptes d'Ewing Young montrent ses achats de bois de chêne et de pin. En 1850, il vend des pommes à 6 $ le boisseau ; au rôle de 1844, une horloge de 12 $, 450 $ de chevaux, 1 295 $ de bétail.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 203 — note de l'auteur : « Ewing Young and his Estate », OHQ xxi, p. 197 ; Oregon Tax Roll 1844, OHQ xxxi, p. 17",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.874,
+     45.249
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-14",
+    "nom": "Champoeg : il vote pour un gouvernement (2 mai 1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.33,
+    "fin": 1843.34,
+    "date_edtf": "1843-05-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Avec François-Xavier Matthieu, il se range du côté d'un gouvernement de lois, contre l'avis de la plupart des Canadiens et de la Compagnie ; leurs deux noms figurent sur la stèle de granit de l'assemblée de Champoeg. Il soutient aussi un projet de route des Cascades, un chemin de fer aux chutes d'Oregon City et le canal à écluses.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 204 — note de l'auteur : H. S. Lyman, « Reminiscences of F. X. Matthieu », OHQ I, p. 89",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.973,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-15",
+    "nom": "Saint-Paul : l'église de brique et la mort (18 mars 1853)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1853.21,
+    "date_edtf": "1846/1853-03-18",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "Il aide à financer l'église de brique de 1846, se remarie avec Marie Marguerite, devient citoyen américain en 1851. Infirme et à la canne vers soixante ans, il est soigné par le Dr William Bailey (132 $). Il meurt le 18 mars 1853 et repose au vieux cimetière, sous la grande croix commune ; une plaque y nomme les premiers colons : Gervais, Chalifoux, Lucier, LaBonté, Laframboise, LaCourse, Picard, McLoughlin.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 206 — note de l'auteur : C. C. Dobbs, Men of Champoeg (1932), p. 17 ; Mme Stanton Frisbie à l'auteure, 1960",
+    "note": "On le disait « petit, trapu et brun », parlant « un peu l'anglais ».",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.863,
+     45.235
+    ]
+   },
+   "properties": {
+    "id": "F-elucier-16",
+    "nom": "Crue de 1861 : la maison emportée",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1861.9,
+    "fin": 1862.0,
+    "date_edtf": "1861-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Lucier"
+    ],
+    "description": "La grande crue de 1861 balaie la ferme ; sa veuve et deux jeunes fils sont arrachés en hurlant à la fenêtre de l'étage tandis que la maison quitte ses fondations. Il ne reste que la terre, semée de tessons, de briques, de pipes en terre et d'un bouton doré repoussé.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 204",
+    "note": "",
+    "salle": "elucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.5,
+     53.55
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-01",
+    "nom": "Fort des Prairies : le père, Joseph Lucier, homme du Nord-Ouest (1804)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.99,
+    "date_edtf": "1804",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Joseph Lucier, engagé de la Compagnie du Nord-Ouest, et François Lucier (sans doute son frère) figurent dans l'équipe de David Thompson au fort des Prairies, sur la haute Saskatchewan. La mère de Jean-Baptiste est une Crie, Wewepihawisk ; sa sœur Angélique naît vers 1804.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 210 — note de l'auteur : E. Coues (éd.), The Manuscript Journals of Alexander Henry … and of David Thompson, 1799-1814 (N.Y., 1897)",
+    "note": "Fort des Prairies désigne plusieurs postes successifs ; point placé au fort Augustus (Edmonton).",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.55,
+     53.97
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-02",
+    "nom": "New White Earth House : naissance probable de Jean-Baptiste (v. 1805-1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1810.99,
+    "date_edtf": "1805/1810",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "En 1810, à New White Earth House : « 1 tente, 1 homme, 2 femmes, 6 enfants ». Jean-Baptiste naît dans l'Ouest canadien entre 1805 et 1810. Joseph disparaît ensuite des sources ; la veuve suit un Gardipe (peut-être le J.-B. Gardipe, ancien de la Pacific Fur Company, que Larpenteur dit tué très vieux par les Sioux), d'où le surnom.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 210 — note de l'auteur : Coues, Journals ; Larpenteur, Forty Years a Fur Trader (1898), p. 215 ; Paul Lucier, dossier de pension no 7328, Oregon Historical Society, 1902",
+    "note": "Son fils Paul : « mon nom est Lucier, on nous surnommait Gardipe ». Dans la famille, on grondait les enfants : « tu agis comme un Gardipe ! » (Julia Courville, morte en 1969 à 103 ans).",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     58.38
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-03",
+    "nom": "Fort Vermilion, rivière de la Paix (1809)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.99,
+    "date_edtf": "1809",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Les deux Lucier campent ensemble au fort Vermilion : « 1 tente, 2 hommes, 1 femme, 1 enfant » selon le recensement de Thompson.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 210 — note de l'auteur : Coues, Journals of Henry and Thompson, index",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.95,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-04",
+    "nom": "Fort Nez Percés : chasseur de la brigade de John Work (1830)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.65,
+    "fin": 1831.6,
+    "date_edtf": "1830/1831",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Engagé de deuxième génération, il est chasseur dans l'expédition du pays des Serpents de John Work (1830-1831), partie du fort Nez Percés (Walla Walla).",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 211 — note de l'auteur : John Work, « Journal of the Snake Country Expedition of 1830-1 », éd. T. C. Elliott, OHQ xiv (1913), p. 299",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.2,
+     42.4
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-05",
+    "nom": "Raft River et Portneuf : la brigade affamée (1831)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1831.0,
+    "fin": 1831.45,
+    "date_edtf": "1831",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "La brigade tourne par la Portneuf et la Raft River jusqu'au Grand Lac Salé, revient par la Humboldt, le lac Malheur, la John Day et la Silvies. Début juin, Work détache sept hommes, tous métis (trois Findlay, deux Plante, Baptiste Gardipe et un Indien sauteux) : trop confiants dans leur chasse, ils n'avaient pas fait de provisions. Ils regagnent le fort le même jour que Work, n'ayant « mangé qu'un seul cheval ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 211 — note de l'auteur : Work, Journal, OHQ xiv",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8,
+     43.33
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-06",
+    "nom": "Lac Malheur : retour par l'Oregon (1831)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1831.4,
+    "fin": 1831.5,
+    "date_edtf": "1831-06",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Étape du retour de la brigade de Work par le lac Malheur.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 211",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92,
+     45.115
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-07",
+    "nom": "Saint-Louis (Prairie française) : squatter et convoyeur (1834-1844)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1846.0,
+    "date_edtf": "1834/1846",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Vers 1834, il prend pour épouse Catherine Delore, 14 ans, fille de Joseph Delore et de sa femme shuswap, née elle aussi sur les pistes de brigade. En 1844, il paie 1,07 $ de taxe au percepteur Joe Meek pour une terre sans aménagements, base de ses convois de mules et pâturage.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 212 — note de l'auteur : Mikell DeLores Warner, « The Delore Family History », ms. ; Genealogical Forum of Portland, Bulletin, 1967-1969",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-08",
+    "nom": "Mission Saint-Paul : baptême (nov. 1840) et mariage (juillet 1841)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1840.85,
+    "fin": 1841.55,
+    "date_edtf": "1840-11/1841-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Il est baptisé à l'arrivée des prêtres en novembre 1840 ; Catherine l'est en juillet 1841, date de leur mariage religieux et de la légitimation de leur fils Paul Jean, 3 ans, baptisé « en l'absence du père ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 212",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.03,
+     45.05
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-09",
+    "nom": "Camp de la Willamette : guide de l'expédition Wilkes vers la Californie (août-sept. 1841)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1841.65,
+    "fin": 1841.8,
+    "date_edtf": "1841-08/1841-09",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Fin août 1841, il est engagé comme guide du détachement californien de l'expédition Wilkes (lieutenant Emmons) : 39 personnes avec le cartographe Eld, l'artiste Agate, le lieutenant Colvocoresses, des savants et des émigrants. Un « Guardapie Lake » sur leur route porte peut-être son nom.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 213 — note de l'auteur : G. M. Colvocoresses, Four Years in a Government Expedition (N.Y., 1852), p. 259",
+    "note": "Un portrait à la plume et au lavis, signé « J.L. » et daté 1841 sous le cadre, serait celui de Lucier, fait selon la tradition par « un homme d'un navire » de l'expédition.",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-10",
+    "nom": "Haute Santiam : à la recherche d'un col vers Fort Boise (1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.4,
+    "fin": 1846.6,
+    "date_edtf": "1846",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Avec dix hommes, dont son jeune beau-frère Delore, il tente de tracer une route d'émigrants à travers les Cascades par la Santiam. Faute de col, on y renonce au profit de la Barlow Road.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 213 — note de l'auteur : Martha E. Gilliam, « Reminiscences », OHQ xvii (1916), p. 362",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2,
+     43.75
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-11",
+    "nom": "Monts Calapooya : seuls à continuer avec Holt (11 déc. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.94,
+    "fin": 1846.95,
+    "date_edtf": "1846-12-11",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Thomas Holt part le 4 décembre avec 34 chevaux de vivres pour les émigrants bloqués sur la route du sud. Au pied des Calapooya, le Français et trois Métis font demi-tour ; Lucier accepte de continuer si Holt garantit le paiement de ses 60 $ de dettes envers M. Beers, de la Mission méthodiste.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214 — note de l'auteur : Thomas Holt, « Holt's Journal », Oregon Spectator, Oregon City, 4 mars 1847",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-12",
+    "nom": "Elk Creek : Baptiste tue deux chevreuils pour les familles affamées",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.95,
+    "fin": 1846.96,
+    "date_edtf": "1846-12",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Sur la fourche nord de l'Elk, cinq familles n'ont ni farine, ni viande, ni sel ; Baptiste abat deux chevreuils et partage la viande.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214 — note de l'auteur : Holt's Journal",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.35,
+     43.28
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-13",
+    "nom": "Fourche nord de l'Umpqua : un fusil pour un canot (21 déc. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.97,
+    "fin": 1846.98,
+    "date_edtf": "1846-12-21",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Les Umpquas refusent un canot et renvoient les sauveteurs chercher un gué dans la rivière en crue ; il faut céder le fusil de Delore (8 $). Lucier perd un cheval. Les descendants des Umpquas racontaient plus tard que ces Blancs les traitaient de sauvages mais leur semblaient des bêtes, avec leurs visages poilus et leurs yeux exorbités.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214 — note de l'auteur : Holt's Journal",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.33,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-14",
+    "nom": "South Umpqua : chacun ramène une famille (fin déc. 1846)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1846.98,
+    "fin": 1847.0,
+    "date_edtf": "1846-12",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Sur la South Umpqua, ils font demi-tour avec les derniers traînards, chacun prenant une famille à charge.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 214",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.25,
+     44.75
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-15",
+    "nom": "Luckiamute : un cheval noyé (14-17 janv. 1847)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1847.03,
+    "fin": 1847.05,
+    "date_edtf": "1847-01-14/1847-01-17",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Le 14, Baptiste traverse la Luckiamute à la nage et y noie un cheval ; il laisse les deux familles Townsend aux fourches. La mission de sept semaines coûte 426,37 $.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 215 — note de l'auteur : Holt's Journal",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.916,
+     45.115
+    ]
+   },
+   "properties": {
+    "id": "F-jblucier-16",
+    "nom": "Saint-Louis (Oregon) : sépulture (17 août 1850)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.62,
+    "fin": 1850.63,
+    "date_edtf": "1850-08-17",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lucier dit Gardipe"
+    ],
+    "description": "Le registre de Saint-Louis : inhumation de « Baptiste Lucier dit Gardepi », mort la veille à 40 ans ; témoins Louis Vandale, Joseph Dellart (Delore), B. Delorme. Il repose dans l'ancien cimetière paroissial aujourd'hui perdu. Catherine épouse ensuite William Lascerte et meurt en 1858.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 215 — note de l'auteur : St. Louis Parish Record Book, vol. 1, p. 24, S. 19",
+    "note": "",
+    "salle": "jblucier"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.22,
+     45.78
+    ]
+   },
+   "properties": {
+    "id": "F-menard-01",
+    "nom": "Saint-Antoine-sur-Richelieu : naissance (1766)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1766.99,
+    "date_edtf": "1766",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Fils de Jean-Baptiste Ménard et de Marie-Françoise Cirée, né à Saint-Antoine en 1766.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217 — note de l'auteur : certificat de baptême, Menard Papers, Chicago Historical Society",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.528,
+     38.677
+    ]
+   },
+   "properties": {
+    "id": "F-menard-02",
+    "nom": "Vincennes : commis de Francisco Vigo (milieu des années 1780)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1784.0,
+    "fin": 1790.0,
+    "date_edtf": "1785~/1790",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Arrivé jeune à Vincennes, village français sur la Wabash, il travaille pour le traiteur et patriote Francisco Vigo et s'associe à Toussaint Dubois (seize ans de société).",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217 — note de l'auteur : H. L. Allen, « A Sketch of the Dubois Family », JISHS v (1912), p. 55",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.19,
+     40.2
+    ]
+   },
+   "properties": {
+    "id": "F-menard-03",
+    "nom": "Carlisle (Pennsylvanie) : conférence avec Washington (1789)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1789.0,
+    "fin": 1789.99,
+    "date_edtf": "1789",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Il accompagne Vigo dans l'Est pour une conférence sur la défense de la frontière avec le président Washington.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 217 — note de l'auteur : E. G. Mason, « Pierre Menard and Pierre Menard Papers », Chicago Hist. Soc. Collections iv (1890), p. 143",
+    "note": "Date à vérifier : Washington ne passe à Carlisle qu'en 1794.",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.044,
+     37.978
+    ]
+   },
+   "properties": {
+    "id": "F-menard-04",
+    "nom": "Sainte-Geneviève : la société Ménard et Vallé",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1790.0,
+    "fin": 1820.0,
+    "date_edtf": "1790/1820",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Sa culture française lui ouvre les milieux de Saint-Louis et de Sainte-Geneviève, en Louisiane espagnole, où il fonde avec François Vallé une maison qui commerce longtemps sur le fleuve.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 218",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.896,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "F-menard-05",
+    "nom": "Kaskaskia : le magasin, puis la maison de 1802",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1790.0,
+    "fin": 1844.45,
+    "date_edtf": "1790/1844",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "En 1790, il ouvre un magasin à Kaskaskia, d'où il commerce des chutes Saint-Antoine à La Nouvelle-Orléans. Marié à Thérèse Godin en 1792, major de milice en 1795 (puis colonel), il expédie en 1800 une seule cargaison de fourrures de 30 000 $. Sa maison de 1802, vitres pressées de France et boiseries d'acajou, accueille Lafayette en 1825 ; elle est encore debout.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 218 — note de l'auteur : W. J. Ghent, DAB XII ; J. W. Allen, Legends and Lore of Southern Illinois (1963), p. 300 ; J. Drury, Old Illinois Houses (1948), p. 8-9",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.526,
+     38.68
+    ]
+   },
+   "properties": {
+    "id": "F-menard-06",
+    "nom": "Vincennes : député à la législature de l'Indiana (1803-1804)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1804.99,
+    "date_edtf": "1803/1804",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Juge aux plaids communs nommé par Harrison, il est élu pour le comté de Randolph à la législature territoriale et soutient le gouverneur ; écœuré des factions, il démissionne en 1804 avec Shadrach Bond, l'année de la mort brutale de sa femme.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 218 — note de l'auteur : S. J. Buck, Illinois in 1818 (1917), p. 187, 200",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.893,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "F-menard-07",
+    "nom": "Kaskaskia : mariage avec Angélique Saucier, Lisa pour témoin (1806)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1806.6,
+    "fin": 1806.7,
+    "date_edtf": "1806-08",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Il épouse Angélique Saucier, d'une des plus vieilles familles françaises de l'Illinois, apparentée aux Chouteau : le voilà beau-frère de Pierre Chouteau fils. Manuel Lisa est témoin ; avec William Morrison, ils montent l'expédition de 16 000 $ que Lisa conduit au Bighorn en 1807.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 219 — note de l'auteur : déposition du 23 août 1806, Pierre Menard Collection, Book iv, Illinois State Historical Society ; Bryan and Morrison Store, Kaskaskia Ledger D, p. 438",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-menard-08",
+    "nom": "Saint-Louis : départ de la Missouri Fur Company (17 juin 1809)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.46,
+    "date_edtf": "1809-06-17",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "La St. Louis Missouri Fur Company (environ 40 000 $ : Chouteau, Clark, Labbadie, Lisa, Ménard, Morrison, Henry…) oblige chaque associé à monter. Capitaine de la garde qui raccompagne le chef mandan Shahaka, Ménard part avec le dernier contingent ; il confie ses affaires à Adrien Langlois.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 220 — note de l'auteur : commission, Menard Collection, Chicago Historical Society ; Oglesby, Manuel Lisa (1963), p. 68 et suiv.",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "F-menard-09",
+    "nom": "Fort Mandan : « je n'aime pas leurs manières » (oct. 1809)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1809.6,
+    "fin": 1809.8,
+    "date_edtf": "1809-10-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Désertions et menaces de mutinerie : le voyage le désole. Au siège de la compagnie, il écrit à Langlois qu'il s'est résigné à souffrir pour gagner de l'argent, mais que les manières de certains associés lui déplaisent, lui qui aime les choses faites franchement.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 221 — note de l'auteur : Ménard à Adrien Langlois, 7 oct. 1809, Kaskaskia Papers, Missouri Historical Society ; Thomas James, Three Years Among the Indians and Mexicans (1846)",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.47,
+     46.15
+    ]
+   },
+   "properties": {
+    "id": "F-menard-10",
+    "nom": "Fort Raymond (embouchure du Bighorn) : hivernage (1809-1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1809.8,
+    "fin": 1810.25,
+    "date_edtf": "1809/1810",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Chargé de hisser la flottille jusqu'au vieux poste de Lisa, il réussit ce travail herculéen et hiverne au fort Raymond. Labbadie lui écrit de Fort Mandan pour se plaindre de son isolement et de l'inutilité de l'entreprise.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 221 — note de l'auteur : Sylvestre Labbadie à Ménard, 3 févr. 1810, Pierre Menard Collection, iv, ISHS",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.95,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "F-menard-11",
+    "nom": "Île aux Cèdres : l'incendie de 12 000 $ (1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1810.2,
+    "fin": 1810.4,
+    "date_edtf": "1810",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "À son retour, son rapport pessimiste accable plus les directeurs que la perte de 12 000 $ dans l'incendie du poste de l'île aux Cèdres. Ménard garde ses parts jusqu'à la dissolution de 1814, mais ne remonte plus jamais.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 222 — note de l'auteur : Missouri Gazette, 10 mai 1810",
+    "note": "Position de Cedar Island estimée.",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.55,
+     45.92
+    ]
+   },
+   "properties": {
+    "id": "F-menard-12",
+    "nom": "Trois-Fourches du Missouri : le fort face aux Pieds-Noirs (printemps 1810)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1810.25,
+    "fin": 1810.5,
+    "date_edtf": "1810-04-21",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Avec Andrew Henry, il bâtit un poste aux Trois-Fourches ; les Pieds-Noirs, implacablement hostiles, empêchent la chasse dans la région la plus riche des Rocheuses. Il propose un plan de paix sans suite, puis redescend avec la majorité des hommes ; Henry passe la ligne de partage avec une soixantaine d'audacieux.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 222 — note de l'auteur : Ménard à Pierre Chouteau, 21 avril 1810, dans Chittenden, American Fur Trade (1954), II, p. 898",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.896,
+     37.925
+    ]
+   },
+   "properties": {
+    "id": "F-menard-13",
+    "nom": "Kaskaskia : président du Conseil législatif de l'Illinois (1812-1818)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1818.9,
+    "date_edtf": "1812/1818",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Il quitte sa charge de juge en 1811, est élu au premier Conseil législatif territorial en 1812, qui le choisit pour président. Sous-agent des Indiens de l'Illinois en 1813 (600 $ par an), il entretient de sa poche les Kaskaskias ; Ninian Edwards le nomme interprète des Kaskaskias et Piankashaws.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 223 — note de l'auteur : John Reynolds, Pioneer History of Illinois (1852), p. 244 ; Carter, Territorial Papers xvii, p. 34, 254",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.09,
+     38.96
+    ]
+   },
+   "properties": {
+    "id": "F-menard-14",
+    "nom": "Vandalia : premier lieutenant-gouverneur et la blague de la banque (1818-1822)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1818.9,
+    "fin": 1822.9,
+    "date_edtf": "1818/1822",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Naturalisé seulement en 1816, il ne remplit pas la condition de trente ans de citoyenneté : les constituants ajoutent un dernier paragraphe pour le rendre éligible. Le gouverneur Ford rapporte (version apocryphe) qu'en faisant voter que les billets de la banque d'État serviraient de monnaie au bureau des terres, il ajouta avec son accent qu'il pariait cent dollars que cela n'arriverait jamais.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 224 — note de l'auteur : E. J. Verlie (éd.), Illinois Constitutions (1919), p. 46 ; Thomas Ford, History of Illinois (1854), p. 45-46",
+    "note": "Point placé à Vandalia, capitale à partir de 1820 (Kaskaskia avant).",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.38,
+     40.4
+    ]
+   },
+   "properties": {
+    "id": "F-menard-15",
+    "nom": "Keokuk : il baptise la ville (1828)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1828.5,
+    "fin": 1828.6,
+    "date_edtf": "1828",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "En route vers Prairie du Chien, il donne à un village riverain de l'Iowa le nom du chef sauk Keokuk.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 225 — note de l'auteur : Reynolds, Pioneer History, p. 243",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "F-menard-16",
+    "nom": "Prairie du Chien : commissaire aux traités (1828-1829)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1828.5,
+    "fin": 1829.7,
+    "date_edtf": "1828/1829",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "John Quincy Adams le nomme avec Lewis Cass pour traiter avec les Winnebagos et d'autres nations à Prairie du Chien ; Jackson renouvelle la mission en 1829.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 225 — note de l'auteur : commissions, Menard Papers, Chicago Historical Society",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.79,
+     39.4
+    ]
+   },
+   "properties": {
+    "id": "F-menard-17",
+    "nom": "Comté de Shelby : médiateur (1831)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1831.0,
+    "fin": 1831.99,
+    "date_edtf": "1831",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Le gouverneur Reynolds lui demande d'apaiser l'agitation indienne du comté de Shelby, à la veille du déplacement définitif des nations de l'Illinois.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 226 — note de l'auteur : Alvord et Greene, Governors' Letter Books 1818-1834 (1909), p. 176",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.899,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "F-menard-18",
+    "nom": "Kaskaskia : la « fièvre des Montagnes » du fils et la mort (13 juin 1844)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.27,
+    "fin": 1844.45,
+    "date_edtf": "1843-04-07/1844-06-13",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Au printemps 1843, son fils Ciprien lui écrit de Saint-Louis qu'il a attrapé la « fièvre des Montagnes Rocheuses » et veut suivre Sir William Drummond Stewart ; le père consent. Ménard meurt le 13 juin 1844. Son inventaire révèle des centaines de prêts jamais recouvrés ; le Belleville Advocate pleure un patriarche et l'ami des pauvres.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 227 — note de l'auteur : L. C. Ménard à Pierre Ménard, 7 avril 1843, Pierre Menard Collection, vi, ISHS ; Belleville Advocate, 20 juin 1844 ; inventaire de la succession, Illinois Historical Survey",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.65,
+     39.798
+    ]
+   },
+   "properties": {
+    "id": "F-menard-19",
+    "nom": "Comté de Menard (1839) et statue du Capitole de Springfield",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1900.0,
+    "fin": 1960.0,
+    "date_edtf": "1839 ; 1888",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "L'Illinois donne son nom à un comté en 1839 ; une statue offerte par la famille Chouteau se dresse sur le terrain du Capitole, rappel de l'héritage français de l'État.",
+    "sources": "Richard E. Oglesby, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 227 — note de l'auteur : H. G. Bronson, « Early Illinois Railroads », ISHS Transactions xiii (1909), p. 174",
+    "note": "",
+    "salle": "menard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.579,
+     44.838
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-01",
+    "nom": "Bordeaux : naissance (v. 1797)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1797.99,
+    "date_edtf": "1797~",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Né à Bordeaux vers 1797 (lieu inscrit sur son engagement militaire). Avec son frère, peut-être son père, il fait partie des réfugiés français établis à Philadelphie. Ses papiers personnels portent « John B. Moncravie » ; l'AFC écrit Moncrevie.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 229 — note de l'auteur : papiers d'enrôlement originaux, National Archives ; traditions de Mme Virginia Moran et de John Moncravie, descendants",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.165,
+     39.953
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-02",
+    "nom": "Philadelphie : enrôlé comme musicien (mars 1820)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1820.17,
+    "fin": 1820.25,
+    "date_edtf": "1820-03",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "« Jhon Moncravie », 23 ans, cinq pieds trois pouces, teint clair, yeux noisette, cheveux blonds, de profession musicien, s'engage pour cinq ans.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 229 — note de l'auteur : Registers of Enlistments in the U.S. Army, vol. 32, National Archives",
+    "note": "Un James Moncravie, forgeron à Philadelphie (1849-1860), est peut-être son neveu.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.181,
+     44.893
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-03",
+    "nom": "Fort St. Anthony (Snelling) : caporal puis sergent du 5e d'infanterie (1820-1829)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1820.5,
+    "fin": 1829.99,
+    "date_edtf": "1820/1829-12-31",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Affecté au 5e d'infanterie à St. Peters et au fort St. Anthony, caporal en octobre 1820, sergent en 1825 ; il se réengage à Fort Snelling en décembre 1825 et reçoit son congé honorable le 31 décembre 1829 (compagnie C). Dix ans de frontière minnesotaine le familiarisent avec les Indiens et la traite.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : Returns from Regular Army Infantry Regiments, 5th Infantry, 1821-1831, microcopie 665, bobine 53, National Archives",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.52
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-04",
+    "nom": "Green Bay : un « J. B. Moncreve » au recensement de 1830",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1832.0,
+    "date_edtf": "1830/1832",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Ses déplacements de 1830 à 1832 sont inconnus ; il est peut-être le « J. B. Moncreve » du recensement de 1830 à Green Bay.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : U.S. Census 1830, Green Bay Township",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-05",
+    "nom": "Fort Union : commis de l'AFC (1833)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1833.5,
+    "fin": 1845.5,
+    "date_edtf": "1833/1845",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Été 1833 : « Messrs. Chardon, Brazeau et Moncrevie » sont les trois commis laissés avec Hamilton à Fort Union. Le 5 mai 1835, Daniel Lamont le désigne pour commander Fort McKenzie si Culbertson venait à manquer, avant Harvey.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : A. H. Abel (éd.), Chardon's Journal at Fort Clark (1932), p. xxx ; Fort Union Letter Books, Missouri Historical Society",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.02,
+     47.985
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-06",
+    "nom": "Fort William (Campbell et Sublette) : le « petit docteur » et son premier divorce (1833)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1833.7,
+    "fin": 1834.4,
+    "date_edtf": "1833/1834",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Moncravie porte souvent des lettres au poste rival de Robert Campbell, qui l'appelle le « petit docteur ». Campbell note avec ironie qu'un certain Joseph Dechamp a enlevé à « Doctor McCrevee » l'épouse qu'il avait achetée à son père 280 $ en marchandises ; furieux le premier jour, le petit docteur voit le lendemain la belle partir à la chasse au bison avec son amant.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 230 — note de l'auteur : G. R. Brooks (éd.), « The Private Journal of Robert Campbell », Bulletin MHS (1963-1964), p. 8, 16-17",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.037,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-07",
+    "nom": "Fort Union : la reconstruction bâclée de Fort William (1834)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1834.5,
+    "fin": 1834.9,
+    "date_edtf": "1834",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Chargé de démonter Fort William et de le rebâtir près du fort de la compagnie, Moncravie, selon Larpenteur, aimait trop le whisky et les femmes pour bien faire : pieux plantés de travers, les uns trop hauts, les autres trop bas, et colère d'Hamilton.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 231 — note de l'auteur : Coues (éd.), Forty Years a Fur Trader (1898), p. 72-74",
+    "note": "Larpenteur prétend que Moncravie fut renvoyé ; il figure pourtant encore à la paie en 1835-1836.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.043,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-08",
+    "nom": "Fort Union : la peinture du traité de paix au-dessus de la porte (1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.4,
+    "fin": 1843.6,
+    "date_edtf": "1843",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Edwin Denig, décrivant le fort pour Audubon en 1843, signale au-dessus de la grande porte une peinture représentant un traité de paix entre Indiens et Blancs, « exécutée par J. B. Moncrevie, Esq. ».",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 232 — note de l'auteur : description de Fort Union par Denig, North Dakota History, vol. 29 (1962), p. 206",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     48.002
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-09",
+    "nom": "Fort Union : le spectacle pour Audubon (7 août 1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.59,
+    "fin": 1843.62,
+    "date_edtf": "1843-08-07",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Audubon chasse et pêche avec lui, et note un spectacle « drôle et bien joué » : grande versatilité, talent de mime, meilleur acteur que bien des célébrités. Batelier expert, Moncravie est du voyage de la barque Union qui ramène Audubon vers Saint-Louis. Son fils Alexander naît vers 1844 d'une mère indienne à Fort Union.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 232 — note de l'auteur : M. Audubon et E. Coues (éd.), Audubon and His Journals (1897), II, p. 138 ; J. F. McDermott (éd.), Up the Missouri with Audubon: The Journal of Edward Harris (1951), p. 176",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.36
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-10",
+    "nom": "Fort Pierre : les barils de whisky percés (juin 1844)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1844.45,
+    "fin": 1848.99,
+    "date_edtf": "1844-06/1848",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Remontant de Fort Pierre avec des bateaux de marchandises pour les Pieds-Noirs, il s'enivre plusieurs fois et donne une vingtaine de gallons aux équipages. Chardon, Harvey, Champagne et Étienne Provost le dénoncent ; Picotte, furieux, exige 400 $ et ordonne son renvoi au retour de son expédition chez les Kootenais. La compagnie, peu désireuse qu'un ancien employé raconte la traite de l'alcool à Saint-Louis, règle l'affaire en espèces. En 1848, il livre des marchandises aux Yanktonais et supervise les transports de Fort Pierre.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 232 — note de l'auteur : Fort Pierre Letterbooks, MHS ; A. T. Bouis à Culbertson, 9 oct. 1845 ; Abel, Chardon's Journal, p. 238 ; South Dakota Historical Collections, IX (1918), p. 220-231",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.7,
+     41.73
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-11",
+    "nom": "Robidoux Pass puis Fort John de Scotts Bluff (1849-1852)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1849.56,
+    "fin": 1852.5,
+    "date_edtf": "1849-07-25/1852",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Le 25 juillet 1849, Fort Pierre charge Bruce Husband de bâtir un nouveau poste sur la Platte et engage « G. B. Moncrevie » comme commis-traiteur. Le poste d'Andrew Drips s'installe d'abord au col de Robidoux, puis à huit milles au sud de Scotts Bluff. Le 14 août 1850, Picotte le juge le plus apte à en prendre la charge en l'absence de McCluskey.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 233 — note de l'auteur : Fort Pierre Letter Books ; T. L. Green, « Scotts Bluffs, Fort John », Nebraska History (1938), p. 175-188 ; M. J. Mattes, The Great Platte River Road (1969), p. 463-471",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.72,
+     42.17
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-12",
+    "nom": "« Moncravie House » sur la Laramie, face à « Bissonette House »",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1857.99,
+    "date_edtf": "185X",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Son croquis remis plus tard au gouvernement montre « Moncravie House » sur la rive droite de la Laramie, face à « Bissonette House », à douze milles en amont du fort.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 235 — note de l'auteur : OIA, Whetstone Agency",
+    "note": "Position calculée à 12 milles en amont de Fort Laramie.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.03,
+     42.48
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-13",
+    "nom": "Horseshoe Creek : le « traité » des Oglalas (1856)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.99,
+    "date_edtf": "1856",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Les chefs oglalas Malo Ayocuni, Red Wing, Long Chin et Standing Elk, par les interprètes Charles Gueru et Joseph Bissonette, donnent à John B. Moncravie, « parent par leur sœur », un carré de sept milles de côté au sud-ouest de Fort Laramie, englobant les deux branches de la Laramie jusqu'au Labonte Creek ; l'acte porte la signature du surintendant D. D. Mitchell.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 234 — note de l'auteur : Letters Received by the Office of Indian Affairs, Whetstone Agency, National Archives",
+    "note": "Document exceptionnel : un traité privé de cession de terres.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9,
+     40.15
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-14",
+    "nom": "Blue River (Nebraska) : ferme près de Daniel's Ranch, pillée (1858)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1858.1,
+    "fin": 1866.0,
+    "date_edtf": "1858/1866",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "En février 1858, quelque trois cents Otoes emportent chevaux, vaches, veaux et bœufs (520 $) ; en juillet, des Pawnees détruisent cent acres de maïs, des pommes de terre et un potager. En 1860, il vit seul, « interprète », 63 ans. Il dépose ses réclamations en 1866 (520 $ et 2 462,50 $), sans suite.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 235 — note de l'auteur : Claim no 6690, J. H. Broady, adm. de John B. Moncravie, U.S. Court of Claims, National Archives ; U.S. Census 1860",
+    "note": "Emplacement de Daniel's Ranch non identifié ; point estimé dans la vallée de la Blue.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.25,
+     42.007
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-15",
+    "nom": "Decatur : auprès de son fils Alexander (1874)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1876.99,
+    "date_edtf": "1874/1876",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Son fils Alexander (né à Fort Union v. 1844, instruit à ses frais, caporal au 7e Kansas Cavalry, 1861-1865) meurt en 1876 des suites de ses blessures de guerre.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 236 — note de l'auteur : dossiers militaires réunis par Mme Virginia Moran",
+    "note": "",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.66,
+     40.4
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-16",
+    "nom": "Brownville : la revendication refusée et la mort (1874-1885)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1874.27,
+    "fin": 1885.55,
+    "date_edtf": "1874-04-11/1885-07-18",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Le 11 avril 1874, d'une main tremblante, il envoie au General Land Office copie de son traité de 1856 et du croquis ; refus le 22 mai. En 1880, il vit chez des Carlson. Il meurt chez lui le 18 juillet 1885, à 88 ans, léguant 500 $ aux Royal Arch Masons de Brownville et au recteur de Christ Church, le reste à une Abigail Shadley.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 236 — note de l'auteur : OIA, Letters Received ; U.S. Census 1880, Nemaha County ; Claim no 6690",
+    "note": "En 1892, l'administrateur constate que les pièces justificatives ont été perdues, prêtées à des membres du Congrès.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-17",
+    "nom": "Saint-Louis : baptême des enfants de Paul Loise (1er nov. 1801)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1801.83,
+    "fin": 1801.84,
+    "date_edtf": "1801-11-01",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "John Moncravie, descendant, conserve copie du baptême de Paul, Antoinette et Louisa, enfants de Paul Loise, interprète des Osages, « et d'une sauvagesse osage » ; parrains et marraines : Teresa Papin, Mary Felipe Le Duc, Sophia Labadie, Francis Chouteau, Antoinette Labadie et Auguste Chouteau.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 237",
+    "note": "Paul fils est l'« Edward Paul » qui épousa Mary Jane Barada.",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.35,
+     42.11
+    ]
+   },
+   "properties": {
+    "id": "F-moncravie-18",
+    "nom": "Réserve omaha : les petits-fils allotis (années 1880)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1890.0,
+    "date_edtf": "188X",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Moncravie"
+    ],
+    "description": "Ses quatre petits-fils (Charles Alexander, Fred A., Henry E., John B.) reçoivent des lots sur la réserve omaha par leur mère, Elizabeth Paul, petite-fille de Michael Barada, interprète des Omahas à Prairie du Chien (1830), et d'une Omaha ; Mary Jane Barada avait eu d'abord un fils de John P. Cabanné. Une tante était l'épouse indienne de Joshua Pilcher.",
+    "sources": "Charles E. Hanson Jr., dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 237 — note de l'auteur : liste des allotis, 27th Annual Report, Bureau of American Ethnology (1911), p. 643-654 ; J. S. Morton, Illustrated History of Nebraska (1906), II, p. 142-146",
+    "note": "La pierre tombale de Mary Jane, à Cedar Vale (Kansas), porte le nom « Loise ».",
+    "salle": "moncravie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567,
+     45.501
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-01",
+    "nom": "Montréal : enfance (né v. 1793)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1793.0,
+    "fin": 1810.0,
+    "date_edtf": "1793~",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Fils de Jean-Baptiste Pariseau et de Françoise Alarie, né vers 1793, peut-être en France selon la tradition familiale, et amené jeune à Montréal.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 253",
+    "note": "Lieu de naissance incertain (France ou Bas-Canada).",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-02",
+    "nom": "État de New York : à la dérive sous Jackson (1829-1832)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1829.2,
+    "fin": 1832.0,
+    "date_edtf": "1829/1832",
+    "precision": "",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Il disait lui-même être « descendu » dans l'État de New York sous la présidence d'Andrew Jackson, avant de rejoindre sans doute une expédition de traite vers l'ouest.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 253",
+    "note": "Point placé au centre de l'État.",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.626
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-03",
+    "nom": "Fort Vancouver : engagé de la Compagnie de la Baie d'Hudson (1832)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.5,
+    "date_edtf": "1832",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "En 1832, il est au service de la CBH dans le pays de l'Oregon et part aussitôt vers le sud pour aider à bâtir un fort sur l'Umpqua.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 253",
+    "note": "",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.567,
+     43.633
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-04",
+    "nom": "Fort Umpqua : onze ans d'isolement (1832-1850)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1832.5,
+    "fin": 1850.0,
+    "date_edtf": "1832/1850",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Trois bâtiments dans une palissade de douze pieds, deux blockhaus en diagonale : la maison du traiteur Jean-Baptiste Garnier et de sa famille, celle des engagés (dont Pariseau) et l'entrepôt. Dans l'enceinte poussent des pommiers venus de Fort Vancouver ; une enfant de pionniers se souviendra que jamais pommes n'eurent meilleur goût. On y cultive une quarantaine d'acres, on pêche le saumon aux rapides. Michel Laframboise y passe avec la brigade de Californie ; un détachement de l'expédition Wilkes s'y arrête en 1841 et le lieutenant Emmons en dresse le plan.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 254 — note de l'auteur : texte de la plaque « Fort Umpqua - Douglas County History » ; Mrs. S. A. Long, « Mrs. Jesse Applegate », OHQ ix (1908), p. 181 ; plan d'Emmons, Coe Collection, Yale, reproduit dans The Umpqua Trapper, II, no 2 (1966)",
+    "note": "Les pommiers, ou leurs rejets, marquent encore le site dans une prairie de la rive sud.",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.874,
+     45.249
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-05",
+    "nom": "Champoeg : il vote « non » (2 mai 1843)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1843.33,
+    "fin": 1843.34,
+    "date_edtf": "1843-05-02",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Seule mention de Pariseau dans les sources de l'époque : à l'assemblée de Champoeg, il vote contre la formation d'un gouvernement provisoire, comme la plupart des employés de la CBH mobilisés contre le projet américain. Il n'était que de passage, en route vers Fort Vancouver.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 255",
+    "note": "",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.87,
+     45.18
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-06",
+    "nom": "Prairie française : ferme et mariage avec Marie Dompierre (1850)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1853.0,
+    "date_edtf": "1850/1853",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Le recensement de 1850 le dit « fermier, sans famille ». Il prend une demi-section à cinq milles au sud de Champoeg. Il épouse Marie Dompierre, 16 ans, fille de David Dompierre et de Marguerite Soulier, d'ascendance crie ; il en a 53 et renoue avec le catholicisme de son enfance.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 255 — note de l'auteur : St. Paul Mission Record (photostat), 8 juillet 1850",
+    "note": "Il ne fait pas valider sa concession (Donation Land Claim) ; citoyen américain seulement en 1864.",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-07",
+    "nom": "Mission Saint-Paul : baptêmes de Pierre et Louis",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1850.5,
+    "fin": 1853.0,
+    "date_edtf": "1850/1853",
+    "precision": "",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Ses fils Pierre et Louis sont inscrits aux registres de la mission de Saint-Paul.",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 256",
+    "note": "",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.95,
+     43.24
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-08",
+    "nom": "Haute Little River (comté de Douglas) : quarante ans de retraite sauvage",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1892.06,
+    "date_edtf": "1853/1892",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Il quitte la Prairie pour les petites vallées de l'Umpqua, où d'autres Canadiens et Métis ont laissé leurs noms aux ruisseaux et aux sommets. Neuf autres enfants naissent. Il vend ses peaux au magasin du village comme jadis au magasin de la compagnie : « il n'avait jamais quitté le fort Umpqua ». Marie, devenue veuve, refusera de reparler des montagnes. Un historien dira de sa photographie qu'il a « le regard des aigles ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 256 — note de l'auteur : Elsie Pfieffer, petite-fille, à l'auteure, 1966 ; George B. Abdill, 1966",
+    "note": "",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.676,
+     45.523
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-09",
+    "nom": "Portland : patient rebelle à l'hôpital (années 1870-1880)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1882.0,
+    "date_edtf": "1873/1882",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Octogénaire, malade, il est conduit à l'hôpital de Portland, à deux cents milles. Au bout de deux semaines, il annonce qu'il rentrera à pied si personne ne vient le chercher : il ne veut plus être « en cage ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 257",
+    "note": "",
+    "salle": "pariseau"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.0,
+     43.27
+    ]
+   },
+   "properties": {
+    "id": "F-pariseau-10",
+    "nom": "Nofog : mort et cimetière perdu (21 janvier 1892)",
+    "corpus": "Hafen",
+    "theme": "personnage",
+    "debut": 1892.05,
+    "fin": 1892.06,
+    "date_edtf": "1892-01-21",
+    "precision": "",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Pariseau"
+    ],
+    "description": "Quelques jours avant sa mort, il fait huit milles sur une route boueuse et laisse ses pièges tendus dans les bois. Il s'endort sur sa chaise, dort trois jours et ne se réveille pas, à 96 ans environ. Inhumé au petit cimetière de Nofog, dont le site, recouvert puis coupé par l'exploitation forestière, est aujourd'hui perdu ; ses descendants écrivent « Parazoo ».",
+    "sources": "Harriet D. Munnick, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 257 — note de l'auteur : nécrologie anonyme, Scrap Book no 35, p. 43, Oregon Historical Library",
+    "note": "Emplacement de Nofog estimé dans le bassin de la Little River.",
+    "salle": "pariseau"
    }
   },
   {
