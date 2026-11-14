@@ -135,3 +135,9 @@ details.atlas-carte > summary::before { content: "▸"; display: inline-block; w
 details.atlas-carte[open] > summary::before { transform: rotate(90deg); }
 details.atlas-carte[open] > summary { margin-bottom: .25rem; }
 details.atlas-carte .ouvrir-atlas { display: inline-block; padding: .15rem .6rem; background: var(--c); color: #fff; text-decoration: none; border-radius: 3px; font-size: .82rem; }
+
+/* Accueil : sections repliables */
+details.section-accueil > summary { list-style: none; cursor: pointer; }
+details.section-accueil > summary::-webkit-details-marker { display: none; }
+details.section-accueil > summary::before { content: "▸"; display: inline-block; width: 1em; transition: transform .15s; }
+details.section-accueil[open] > summary::before { transform: rotate(90deg); }
