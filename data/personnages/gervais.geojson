@@ -1,0 +1,471 @@
+{
+ "type": "FeatureCollection",
+ "name": "gervais",
+ "personnage": {
+  "id": "gervais",
+  "nom": "Joseph Gervais",
+  "auteur": "Kenneth L. Holmes",
+  "pages": "144-158",
+  "vie": "1777-1861",
+  "hafen": "Joseph Gervais",
+  "chapeau": "Chasseur de bisons sur l'Arkansas, Astorien à plumes d'autruche, Nor'Wester rétif, trappeur de la Willamette, puis patriarche de la Prairie française : sa ferme est le noyau de la première colonie de l'Oregon, et une ville porte son nom.",
+  "couleur": "#6b8e23"
+ },
+ "bibliographie": [
+  "Kenneth L. Holmes, « Joseph Gervais », dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 144-158."
+ ],
+ "inedits": [
+  "Pacific Fur Company Papers (Baker Library, Harvard) : comptes quotidiens de « Joseph Jerve », 1810-1813.",
+  "Lettres des colons de la Willamette à Mgr Provencher (1836, 1837), archives de l'archevêché de Saint-Boniface.",
+  "HBCA : Columbia Ledger 1824-1838 (B.223/d/105a) ; comptes de l'expédition du Sud 1828-1829 (B.223/d/21b).",
+  "Chouteau Papers et AFC Western Division Ledgers, MHS : mentions de Joseph Gervais, 1813-1842 (à départager entre homonymes).",
+  "Oregon State Archives : votes et pétitions du gouvernement provisoire ; dossier « Gervais »."
+ ],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.02,
+     46.23
+    ]
+   },
+   "properties": {
+    "id": "gervais-01",
+    "ordre": 1,
+    "nom": "Maskinongé : naissance (1777)",
+    "phase": "Origines",
+    "debut": 1777.0,
+    "fin": 1796.0,
+    "date_edtf": "1777",
+    "certitude": "certaine",
+    "description": "Né en 1777 à Maskinongé, à mi-chemin entre Montréal et Québec. Il quitte la maison vers vingt ans.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 144 — note de l'auteur : T. Vaughan et M. Winch, « Joseph Gervais, A Familiar Mystery Man », OHQ lxvi (1965), p. 331-362",
+    "note": "Portrait présumé de Gervais reproduit dans le livre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "gervais-02",
+    "ordre": 2,
+    "nom": "Arkansas : chasseur de bisons pour le marché de La Nouvelle-Orléans (v. 1797-1810)",
+    "phase": "Missouri et Arkansas",
+    "debut": 1797.0,
+    "fin": 1810.4,
+    "date_edtf": "1797/1810",
+    "certitude": "hypothetique",
+    "description": "Il racontait avoir chassé le bison sur l'Arkansas pour La Nouvelle-Orléans quand il apprit que Wilson Price Hunt engageait des hommes à Saint-Louis pour l'Oregon.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 145 — note de l'auteur : John Minto, « From Youth to Age as an American », OHQ ix (1908), p. 157",
+    "note": "Point placé dans la vallée de l'Arkansas (Kansas)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     38.78
+    ]
+   },
+   "properties": {
+    "id": "gervais-03",
+    "ordre": 3,
+    "nom": "Saint-Charles : un « Josep Gervais » signe une pétition (30 déc. 1805)",
+    "phase": "Missouri et Arkansas",
+    "debut": 1800.0,
+    "fin": 1805.99,
+    "date_edtf": "1800~/1805-12-30",
+    "certitude": "hypothetique",
+    "description": "Houck place un Joseph Jervais à la « Petite Prairie » près de Saint-Charles vers 1800 ; un Josep Gervais signe d'une croix une pétition au président en 1805. Il y avait toutefois au moins un autre Joseph Gervais dans la région.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 146 — note de l'auteur : Houck, History of Missouri (1908), II, p. 86-87 ; Carter, Territorial Papers xiii, p. 361",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "gervais-04",
+    "ordre": 4,
+    "nom": "Santa Fe : un Josef Gervais guide les Pawnees vers la paix (1803)",
+    "phase": "Missouri et Arkansas",
+    "debut": 1803.0,
+    "fin": 1804.6,
+    "date_edtf": "1803/1804-08-10",
+    "certitude": "hypothetique",
+    "description": "L'ex-gouverneur Delassus écrit le 10 août 1804 que Jeannot Metoyer et Baptiste La Lande partent avec des marchandises de William Morrison pour rejoindre « un nommé Josef Gervais », qui attend dans les nations, connaît bien la route et a conduit l'année précédente les Pawnees faire la paix avec le gouverneur de Santa Fe.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 145 — note de l'auteur : Delassus, 10 août 1804, dans Nasatir, Before Lewis and Clark (1952), II, p. 743-744 ; Abel, Tabeau's Narrative (1939), p. 240-241 ; Loomis et Nasatir, Pedro Vial and the Roads to Santa Fe (1967), p. 172",
+    "note": "Identification avec notre Gervais possible mais non prouvée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "gervais-05",
+    "ordre": 5,
+    "nom": "Michillimakinac : l'Astorien aux plumes d'autruche (7 août 1810)",
+    "phase": "Astoriens",
+    "debut": 1810.6,
+    "fin": 1810.7,
+    "date_edtf": "1810-08-07",
+    "certitude": "certaine",
+    "description": "Première mention sûre : engagement de cinq ans dans la Pacific Fur Company. Irving raille les voyageurs paradant à Mackinac avec plumes et panaches ; le journal de l'expédition débite justement « Joseph Jerve » de 11,49 $ pour argent, chapeau, « 2 plumes d'autruche » et « 1 plume de coq » à 83 cents.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 146 — note de l'auteur : Pacific Fur Company Papers, Astor Collection, Baker Library, Harvard (microfilm, Oregon State Library), vol. Ia, p. 33 ; Irving, Astoria, p. 107-108",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "gervais-06",
+    "ordre": 6,
+    "nom": "Astoria : arrivée de la troupe de Hunt (15 févr. 1812)",
+    "phase": "Astoriens",
+    "debut": 1812.1,
+    "fin": 1813.9,
+    "date_edtf": "1812-02-15",
+    "certitude": "certaine",
+    "description": "Le journal énumère ses achats (carottes de tabac, couteaux à manche vert, mocassins, culottes de velours, perles bleues, miroirs) jusqu'au « 1 briquet » et « 2 hameçons » du 12 février sur la Columbia. Le 11 octobre 1813, ses achats de fil, d'aiguilles et d'étoffes laissent supposer une épouse indienne, une Chinook.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 147 — note de l'auteur : Pacific Fur Company Papers, Astor Collection, Baker Library, Harvard (microfilm, Oregon State Library), vol. Ib, p. 174 ; « Astoria Journal »",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.0,
+     45.3
+    ]
+   },
+   "properties": {
+    "id": "gervais-07",
+    "ordre": 7,
+    "nom": "Village Wa-come-app : la querelle de « Jervais » (1812)",
+    "phase": "Astoriens",
+    "debut": 1812.2,
+    "fin": 1812.5,
+    "date_edtf": "1812",
+    "certitude": "approximative",
+    "description": "Pendant l'expédition de Donald McKenzie dans la vallée de la Willamette, Gervais bat un Indien au village de Wa-come-app ; la tribu profère des menaces, apaisées par les chefs.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 148 — note de l'auteur : Alexander Ross, Adventures of the First Settlers on the Oregon or Columbia River, dans Thwaites, Early Western Travels vii, p. 231-232",
+    "note": "Village non localisé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.96,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "gervais-08",
+    "ordre": 8,
+    "nom": "Lac la Biche (Lake Labish) : les noms français de la Willamette (hiver 1812-1813)",
+    "phase": "Astoriens",
+    "debut": 1812.9,
+    "fin": 1813.4,
+    "date_edtf": "1812-11-23/1813-05-25",
+    "certitude": "certaine",
+    "description": "Avec le poste d'hiver de Wallace et Halsey, Gervais, Louis LaBonté et Étienne Lucier chassent, pêchent et pagaient en chantant ; ils baptisent la rivière au Boudin et le lac la Biche (la biche désignant le wapiti), aujourd'hui une plaine agricole au nord de Salem. Retour le 25 mai 1813 avec 17 ballots de peaux et 32 balles de viande séchée.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 149 — note de l'auteur : L. A. McArthur, Oregon Geographic Names (1952), p. 351-352, 500-501 ; Alexander Henry, 23 janv. 1814 ; Franchère, Adventure at Astoria (1967), p. 76",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.829,
+     46.189
+    ]
+   },
+   "properties": {
+    "id": "gervais-09",
+    "ordre": 9,
+    "nom": "Fort George : Nor'Wester récalcitrant et express vers Fort William (1814)",
+    "phase": "Compagnie du Nord-Ouest",
+    "debut": 1813.79,
+    "fin": 1814.35,
+    "date_edtf": "1813-10-15/1814-05-01",
+    "certitude": "certaine",
+    "description": "Engagé comme milieu et chasseur par la CNO le 15 octobre 1813. Le 17 avril 1814, Henry note que Mathews l'a contraint à faire son devoir et fustige ces voyageurs du sud, insolents et changeant de maître chaque année. Le 1er mai, Gervais part comme milieu dans le second canot de l'express de Fort William.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 150 — note de l'auteur : HBCA F.4/61, fos 6-7d (no 64) ; Coues (éd.), Journals of Henry and Thompson, II, p. 889-890, 904",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.22,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "gervais-10",
+    "ordre": 10,
+    "nom": "Fort William (lac Supérieur) : l'express de 1814",
+    "phase": "Compagnie du Nord-Ouest",
+    "debut": 1814.4,
+    "fin": 1814.7,
+    "date_edtf": "1814",
+    "certitude": "hypothetique",
+    "description": "On ignore s'il alla jusqu'à Montréal ; Mathews raconte un voyage par le lac Winnipeg, à travers glace et neige.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 151 — note de l'auteur : J. S. Douglas, « Matthews' Adventures on the Columbia », OHQ xl (1939), p. 144",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.98,
+     45.06
+    ]
+   },
+   "properties": {
+    "id": "gervais-11",
+    "ordre": 11,
+    "nom": "Prairie française : la ferme Gervais, noyau de la colonie (fin des années 1820)",
+    "phase": "Prairie française",
+    "debut": 1821.3,
+    "fin": 1858.0,
+    "date_edtf": "1821/1858",
+    "certitude": "approximative",
+    "description": "En 1821, McKenzie note que « Lucier et Gervais trappent la Walamet comme d'habitude ». McLoughlin fournit outils, semences et bétail. Après la moisson, Gervais franchit les Cascades par la Santiam avec sa famille, trappe jusqu'aux pluies, confie ses peaux à un traiteur et revient attendre sa paie. Le 10 janvier 1835, Cyrus Shepard écrit qu'un des frères Lee prêche chaque dimanche chez « Jerveys », devant trente à quarante auditeurs.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 151 — note de l'auteur : « Letter of Donald McKenzie to W. P. Hunt », OHQ xliii (1942), p. 12 ; Columbia Ledger 1824-1838, HBCA B.223/d/105a ; Minto ; Cyrus Shepard, WHQ xxiv (1933), p. 57",
+    "note": "Emplacement de la ferme estimé près de la ville de Gervais."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8,
+     48.05
+    ]
+   },
+   "properties": {
+    "id": "gervais-12",
+    "ordre": 12,
+    "nom": "Hood Canal : l'expédition punitive contre les Clallams (janv. 1828)",
+    "phase": "Brigades",
+    "debut": 1828.0,
+    "fin": 1828.15,
+    "date_edtf": "1828-01",
+    "certitude": "certaine",
+    "description": "Après le meurtre d'Alexander McKenzie et de quatre hommes, Gervais suit Alexander McLeod par la Cowlitz jusqu'au Puget Sound ; la terrible vengeance choque Londres. Ermatinger le compte parmi les Canadiens les plus sûrs.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 152 — note de l'auteur : D. B. Nunis, The HBC's First Fur Brigade to the Sacramento River (1968), p. 7-9 ; F. Ermatinger, WHQ i (1907), p. 16-29",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "gervais-13",
+    "ordre": 13,
+    "nom": "Umpqua : récupération des biens de Jedediah Smith (automne 1828)",
+    "phase": "Brigades",
+    "debut": 1828.7,
+    "fin": 1828.9,
+    "date_edtf": "1828",
+    "certitude": "certaine",
+    "description": "Il accompagne McLeod pour récupérer ce qui reste des biens du parti de Jedediah Smith, massacré sur l'Umpqua le 14 juillet 1828 ; il fait partie des brigades du Sud de 1828-1829 et 1829-1830.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 153 — note de l'auteur : HBCA B.223/d/21b ; B.239/l/3, fos 14-15, 58 ; McLoughlin, lettre no 82, mars 1830",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.06
+    ]
+   },
+   "properties": {
+    "id": "gervais-14",
+    "ordre": 14,
+    "nom": "Lettre des colons de la Willamette à Mgr Provencher (22 mars 1836)",
+    "phase": "Prairie française",
+    "debut": 1836.22,
+    "fin": 1838.9,
+    "date_edtf": "1836-03-22",
+    "certitude": "certaine",
+    "description": "Écrite en anglais phonétique par un scribe, la lettre réclame un prêtre : « oure Children are Learning very fast ». Joseph Gervais (« Jarvay ») tête la liste des signataires, tous marqués d'une croix : Laderoute, Lucier, Belleque, Rondeau, Plante, Depot, Picard, Delors, Fourcier, Arquette, Perrault, Desportes, Longtain… Blanchet et Demers arrivent en 1838.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 154 — note de l'auteur : Archives de l'archevêché de Saint-Boniface (Manitoba), lettres du 22 mars 1836 et du 8 mars 1837",
+    "note": "Court extrait de la lettre, dans sa graphie d'origine."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.15,
+     40.75
+    ]
+   },
+   "properties": {
+    "id": "gervais-15",
+    "ordre": 15,
+    "nom": "Trinity River : le patriarche reçoit Ernest de Massey (été 1850)",
+    "phase": "Ruée vers l'or",
+    "debut": 1850.4,
+    "fin": 1850.7,
+    "date_edtf": "1850",
+    "certitude": "certaine",
+    "description": "Parti vers l'or avec plusieurs familles canadiennes, il campe sur la Trinity. Le Français Ernest de Massey, curieux de voir ce que les Canadiens ont conservé de la langue, est accueilli par ce « patriarche » qui lui apporte de la venaison, puis un dîner complet ; il s'émeut de cette hospitalité française à deux mille lieues de la France.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 156 — note de l'auteur : M. E. Wilbur (trad.), « A Frenchman in the Gold Rush », journal d'Ernest de Massey, California Historical Quarterly v (1926), p. 233-234",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "gervais-16",
+    "ordre": 16,
+    "nom": "Saint-Paul : mort du patriarche (15 juillet 1861)",
+    "phase": "Prairie française",
+    "debut": 1858.0,
+    "fin": 1861.54,
+    "date_edtf": "1861-07-15",
+    "certitude": "certaine",
+    "description": "Marié d'abord à une Chinook, puis à Yi-a-must (Marguerite), fille du chef clatsop Coboway, morte de la diphtérie en 1840, puis à Marie-Angélique, il perd sa ferme par hypothèque et « trop grande simplicité de cœur ». Il meurt chez un descendant à 84 ans, six mois après son ami Michel Laframboise.",
+    "sources": "Kenneth L. Holmes, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 157 — note de l'auteur : registres de Saint-Paul, dans M. L. Nichols, The Mantle of Elias (1941), p. 264, 314 ; H. Munnick, « The Earliest Three R's in Oregon », Marion County History v (1959), p. 52-56",
+    "note": "Ses fils Xavier et Isaac servent dans la guerre cayuse ; Jean-Baptiste Gervais, sans doute son frère, vit alors chez les Nez-Percés."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.02,
+      46.23
+     ],
+     [
+      -97.5,
+      37.7
+     ],
+     [
+      -90.48,
+      38.78
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -84.62,
+      45.85
+     ],
+     [
+      -123.831,
+      46.188
+     ],
+     [
+      -123.0,
+      45.3
+     ],
+     [
+      -122.96,
+      45.0
+     ],
+     [
+      -123.829,
+      46.189
+     ],
+     [
+      -89.22,
+      48.38
+     ],
+     [
+      -122.98,
+      45.06
+     ],
+     [
+      -122.8,
+      48.05
+     ],
+     [
+      -124.0,
+      43.7
+     ],
+     [
+      -122.976,
+      45.06
+     ],
+     [
+      -123.15,
+      40.75
+     ],
+     [
+      -122.976,
+      45.211
+     ]
+    ]
+   },
+   "properties": {
+    "id": "gervais-parcours",
+    "nom": "Parcours de Joseph Gervais"
+   }
+  }
+ ]
+}
