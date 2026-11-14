@@ -4,7 +4,7 @@
 import json, os, sys, collections
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(R, 'scripts', 'sources_archive'))
-from archive_commun import fiches_livre, CORPUS
+from archive_commun import fiches_livre, lire_contextes, CORPUS
 
 D = os.path.join(R, 'scripts', 'sources_archive')
 LIVRES = [
@@ -29,7 +29,9 @@ d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
 garde = [f for f in d['features'] if not f['properties']['corpus'].startswith(CORPUS)]
 nouv, bilan = [], []
 for fic, pre, livre, ident, citer in LIVRES:
-    fs, inconnus, sans_date = fiches_livre(os.path.join(D, fic), pre, livre, ident, citer)
+    ctxf = os.path.join(D, fic.replace('.txt', '_contextes.txt'))
+    fs, inconnus, sans_date = fiches_livre(os.path.join(D, fic), pre, livre, ident, citer,
+                                           contextes=lire_contextes(ctxf) if os.path.exists(ctxf) else None)
     nouv += fs
     bilan.append((livre['court'], len(fs), sans_date, sorted(inconnus)))
 ids = [f['properties']['id'] for f in nouv]
