@@ -54,6 +54,11 @@ async function charger() {
     fetch('data/themes.json?v=' + VERSION).then(r => r.json())
   ]);
   LIBELLES = themes;
+  // Bibliothèque archive.org : un corpus par livre (« archive.org · Morice (1908) »), déclaré à la volée
+  lieux.features.forEach(f => {
+    const k = f.properties.corpus;
+    if (k && k.startsWith('archive.org') && !CORPUS[k]) { CORPUS[k] = { libelle: k.replace(/^archive\.org · /, ''), trait: '#5b6f8a' }; etat.corpus.add(k); }
+  });
   // Décaler légèrement les fiches qui partagent exactement le même point (affichage seulement)
   const groupes = new Map();
   lieux.features.forEach(f => {
@@ -111,7 +116,9 @@ function construireFiltres() {
   const puceCorpus = k => ({'Cragin':'#1d2633','Atlas Aubry':'#8b2e1f','Recherches':'#3f7f4f','Hafen':'#b8902e'}[k] || CORPUS[k].trait);
   const ligneCorpus = k => `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${puceCorpus(k)}"></i>${esc(CORPUS[k].libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`;
   const ranges = new Set(GROUPES_CORPUS.flatMap(g => g[1]));
-  const groupes = [...GROUPES_CORPUS, ['Autres sources', Object.keys(CORPUS).filter(k => !ranges.has(k))]]
+  const archives = Object.keys(CORPUS).filter(k => k.startsWith('archive.org')).sort((a, b) => a.localeCompare(b, 'fr'));
+  archives.forEach(k => ranges.add(k));
+  const groupes = [...GROUPES_CORPUS, ['Bibliothèque archive.org', archives], ['Autres sources', Object.keys(CORPUS).filter(k => !ranges.has(k))]]
     .map(([titre, ks]) => [titre, ks.filter(k => CORPUS[k])]).filter(([, ks]) => ks.length);
   $('#f-corpus').innerHTML = groupes.map(([titre, ks], g) =>
     `<details class="groupe"><summary><input type="checkbox" data-groupe="${g}" checked title="Tout le groupe"> ${esc(titre)} <span class="mini">(${ks.reduce((s, k) => s + nb('corpus', k), 0)})</span></summary>
