@@ -43,7 +43,45 @@ def bornes(edtf):
     d = float(p[0]); f = float(p[-1]) + (0.999 if '/' in edtf else 0)
     return d, round(f, 3), ('circa' if '~' in edtf else 'annee')
 
-def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, theme_defaut='personnage'):
+def cle_personne(brut):
+    """Clé de rapprochement : nom de famille sans particule + premier prénom, sans accents."""
+    sans = lambda t: unicodedata.normalize('NFD', t).encode('ascii', 'ignore').decode()
+    nom, _, pren = brut.partition(',')
+    nom = re.sub(r'^(LA|LE|DE|DU|DES)\s+', '', sans(nom).upper().strip())
+    nom = re.sub(r'^(LA|LE|DE|DU|DES)\s+', '', nom)
+    pren = re.sub(r'\(.*?\)', '', sans(pren)).strip().lower()
+    return nom.split()[0] if nom else '', (pren.split() or [''])[0].rstrip('.')
+
+def lire_contextes(fichier):
+    """Fichier « NOM, Prénoms | lieu, année {contexte}; … » → {(clé, année): contexte}."""
+    out = {}
+    for ligne in open(fichier, encoding='utf-8'):
+        if not ligne.strip() or ligne.startswith('#') or '|' not in ligne: continue
+        brut, segs = [x.strip() for x in ligne.split('|', 1)]
+        k = cle_personne(brut)
+        for sg in re.split(r';(?![^{]*\})', segs):
+            m = re.search(r'(\d{4})[^{]*\{(.*?)\}', sg)
+            if m:
+                lieu = sg[:m.start()].strip().rstrip(',')
+                out.setdefault((k, int(m.group(1))), []).append((lieu, m.group(2).strip().rstrip('.')))
+    return out
+
+def _mots(t):
+    t = unicodedata.normalize('NFD', t).encode('ascii', 'ignore').decode().lower()
+    return {w for w in re.findall(r'[a-z]{4,}', t)} - {'fort', 'lake', 'river', 'riviere', 'house', 'saint', 'sainte', 'grand', 'grande', 'haut', 'haute', 'lower', 'upper'}
+
+REGIONS = {'saskatchewan', 'colombie', 'columbia', 'missouri', 'manitoba', 'oregon', 'rouge', 'dakota', 'minnesota',
+           'athabasca', 'athabaska', 'mackenzie', 'californie', 'california', 'texas', 'wisconsin', 'illinois', 'assiniboia', 'ouest'}
+
+def choisir_contexte(cands, lieu, lieu_fr, n_segments_annee):
+    """Retient le contexte dont le lieu correspond ; sans correspondance, seulement s'il n'y a aucune ambiguïté."""
+    cible = _mots(lieu) | _mots(lieu_fr)
+    for l, c in cands:
+        if _mots(l) & cible: return c
+    if len(cands) == 1 and n_segments_annee == 1 and _mots(cands[0][0]) <= REGIONS: return cands[0][1]
+    return ''
+
+def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, theme_defaut='personnage', contextes=None):
     """Construit les fiches d'un livre. citer(nom_brut, ref) → texte de la référence (ex. « s.v. LAGIMODIÈRE »)."""
     out, inconnus, sans_date = [], set(), 0
     vus = {}
@@ -55,11 +93,15 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
         nom = beau_nom(brut)
         segs = [s.strip() for s in re.split(r';(?![^{]*\})', lieux) if s.strip()]
         lus = []
+        annees = [int(m.group(1)) for m in (re.search(r'(\d{4})', re.sub(r'\{.*?\}', '', x)) for x in segs) if m]
         for s in segs:
             mc = re.search(r'\{(.*?)\}\s*$', s)
             ctx = mc.group(1).strip().rstrip('.') if mc else ''
             if mc: s = s[:mc.start()].strip()
             edtf, an, lieu = dates(s)
+            if not ctx and contextes and an and lieu in G:
+                c = choisir_contexte(contextes.get((cle_personne(brut), an), []), lieu, G[lieu][3], annees.count(an))
+                ctx = (c[0].lower() + c[1:]) if c and not c[:2].isupper() else c
             if lieu not in G: inconnus.add(lieu); continue
             if not edtf: sans_date += 1; continue
             lus.append((lieu, edtf, an, ctx))
