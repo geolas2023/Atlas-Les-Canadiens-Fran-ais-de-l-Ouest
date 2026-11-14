@@ -94,6 +94,20 @@ for (nom, lon, lat, d, f, edtf, prec, cert, pers, desc, src, note, theme) in R:
       "properties":{"id":f"R{k:03d}","nom":nom,"corpus":"Recherches","theme":theme,"debut":d,"fin":f,"date_edtf":edtf,
         "precision":prec,"certitude":cert,"personnages":[canon(p.strip()) for p in pers.split(';') if p.strip()],
         "description":desc,"sources":src,"note":note or ""}})
+
+# --- Corpus « Hafen » : francophones ayant une notice dans la série de Hafen
+from hafen import H, VOLPAGE
+ROM = {1:'I',4:'IV',5:'V',6:'VI',7:'VII',8:'VIII',9:'IX'}
+k = 0
+for (vol, sujet, nom, lon, lat, d, f, edtf, cert, theme, desc, note) in H:
+    k += 1
+    vp = VOLPAGE.get(sujet, ROM[vol])
+    src = (f"Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972, vol. {vp}, notice « {sujet} ». "
+           "Résumé rédigé pour l'atlas d'après des sources historiques générales ; le texte de la notice n'a pas été consulté (prêt contrôlé) : à vérifier.")
+    feats.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},
+      "properties":{"id":f"H{k:03d}","nom":nom,"corpus":"Hafen","theme":theme,"debut":d,"fin":f,"date_edtf":edtf,
+        "precision":"","certitude":cert,"personnages":[canon(sujet.replace('"','').replace('Ceran','Céran'))],
+        "description":desc,"sources":src,"note":note or ""}})
 # --- Maurice LeDuc : chronologie de vie
 from leduc import L, BIBLIO
 lf = []

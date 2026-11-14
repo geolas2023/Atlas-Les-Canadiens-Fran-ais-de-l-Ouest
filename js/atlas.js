@@ -8,7 +8,8 @@ const COULEURS = {
 };
 const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633' },
                  'Atlas Aubry': { libelle: 'Atlas Aubry (fiches ponctuelles)', trait: '#ffffff' },
-                 'Recherches': { libelle: 'Recherches (web, littérature)', trait: '#3f7f4f' } };
+                 'Recherches': { libelle: 'Recherches (web, littérature)', trait: '#3f7f4f' },
+                 'Hafen': { libelle: 'Biographies de Hafen (Mountain Men)', trait: '#e2c27a' } };
 // Couleur réservée à Maurice LeDuc (salle de lecture)
 const COULEUR_LEDUC = '#00a8e8';
 const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
@@ -87,7 +88,7 @@ function filtrer() {
 function construireFiltres() {
   const nb = (cle, val) => TOUTES.filter(f => f.properties[cle] === val).length;
   $('#f-corpus').innerHTML = Object.entries(CORPUS).map(([k, v]) =>
-    `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${{'Cragin':'#1d2633','Atlas Aubry':'#8b2e1f','Recherches':'#3f7f4f'}[k]}"></i>${esc(v.libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`).join('');
+    `<label><input type="checkbox" data-corpus="${esc(k)}" checked> <i class="puce" style="background:#fff;border-color:${{'Cragin':'#1d2633','Atlas Aubry':'#8b2e1f','Recherches':'#3f7f4f','Hafen':'#b8902e'}[k]}"></i>${esc(v.libelle)} <span class="mini">(${nb('corpus', k)})</span></label>`).join('');
   $('#f-themes').innerHTML = Object.entries(COULEURS).map(([k, c]) =>
     `<label><input type="checkbox" data-theme="${k}" checked> <i class="puce" style="background:${c}"></i>${esc(LIBELLES[k] || k)} <span class="mini">(${nb('theme', k)})</span></label>`).join('');
   $('#f-certitude').innerHTML = Object.entries(CERTITUDES).map(([k, v]) =>
@@ -196,7 +197,7 @@ function afficherFiche(id, depuisListe = null) {
     ${depuisListe ? '<button class="retour" id="retour">← retour à la liste</button>' : ''}
     <h2>${esc(p.nom)}</h2>
     <div>
-      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : 'Aubry'}">${esc(p.corpus)}</span>
+      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' ? 'Hafen' : 'Aubry'}">${esc(p.corpus)}</span>
       <span class="badge" style="background:${coulTheme};color:#fff">${esc(LIBELLES[p.theme] || p.theme)}</span>
       <span class="badge ${esc(p.certitude)}">localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
     </div>

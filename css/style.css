@@ -96,3 +96,4 @@ dialog::backdrop { background: rgba(30, 30, 40, .45); }
 .bande-leduc { position: absolute; top: -13px; height: 5px; background: #00a8e8; border-radius: 3px; opacity: .9; }
 .bande-leduc:hover { height: 7px; top: -14px; }
 .badge.Recherches { background: #d3ead5; }
+.badge.Hafen { background: #f3e6c2; }
