@@ -1,0 +1,804 @@
+{
+ "type": "FeatureCollection",
+ "name": "illinois_francais",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.915,
+     37.922
+    ]
+   },
+   "properties": {
+    "id": "kaskaskia",
+    "categorie": "colonial",
+    "couleur": "#8b2e1f",
+    "annee": 1703,
+    "nom": "Kaskaskia",
+    "nom_en": "Kaskaskia",
+    "texte": "Village fondé en 1703 par le jésuite Gabriel Marest auprès des Kaskaskias ; gouvernement français en place dès 1715, archives judiciaires retrouvées en 1906.",
+    "texte_en": "Village founded in 1703 by the Jesuit Gabriel Marest among the Kaskaskia; French government in place by 1715, court records rediscovered in 1906.",
+    "source": "Kennedy, J. (1962), Why Illinois Was French, Chicago, National Society of the Colonial Dames of America in the State of Illinois"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.158,
+     38.085
+    ]
+   },
+   "properties": {
+    "id": "chartres",
+    "categorie": "colonial",
+    "couleur": "#8b2e1f",
+    "annee": 1723,
+    "nom": "Fort de Chartres",
+    "nom_en": "Fort de Chartres",
+    "texte": "Premier fort bâti par Boisbriand en 1723, poste le plus occidental du domaine royal ; rattaché à la Louisiane en 1717. Ses commandants : Boisbriand, Bertet, Pierre d'Artaguiette (brûlé par les Chicachas en 1736).",
+    "texte_en": "First fort built by Boisbriand in 1723, the westernmost outpost of the royal domain; attached to Louisiana in 1717. Its commanders: Boisbriand, Bertet, Pierre d'Artaguiette (burned by the Chickasaw in 1736).",
+    "source": "Kennedy, J. (1962), Why Illinois Was French, Chicago, National Society of the Colonial Dames of America in the State of Illinois"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.6,
+     40.65
+    ]
+   },
+   "properties": {
+    "id": "crevecoeur",
+    "categorie": "colonial",
+    "couleur": "#8b2e1f",
+    "annee": 1680,
+    "nom": "Fort Crèvecœur",
+    "nom_en": "Fort Crèvecœur",
+    "texte": "Bâti par La Salle sur l'Illinois en 1680, de courte durée.",
+    "texte_en": "Built by La Salle on the Illinois in 1680, short-lived.",
+    "source": "Kennedy, J. (1962), Why Illinois Was French, Chicago, National Society of the Colonial Dames of America in the State of Illinois"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "stlouisrocher",
+    "categorie": "colonial",
+    "couleur": "#8b2e1f",
+    "annee": 1682,
+    "nom": "Fort Saint-Louis (Rocher)",
+    "nom_en": "Fort St. Louis (Starved Rock)",
+    "texte": "Fort de La Salle (1682) ; en 1683, il y concède un fief à Pierre Prudhomme, l'un des plus anciens actes de concession de l'Illinois.",
+    "texte_en": "La Salle's fort (1682); in 1683 he granted a fief there to Pierre Prudhomme, one of the oldest land grants in Illinois.",
+    "source": "Kennedy, J. (1962), Why Illinois Was French, Chicago, National Society of the Colonial Dames of America in the State of Illinois"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.592,
+     40.7
+    ]
+   },
+   "properties": {
+    "id": "pimiteoui",
+    "categorie": "peoria",
+    "couleur": "#b0451c",
+    "annee": 1691,
+    "nom": "Fort Pimiteoui (Saint-Louis du lac Peoria)",
+    "nom_en": "Fort Pimiteoui (St. Louis on Lake Peoria)",
+    "texte": "Fort de Tonty et La Forest (1691-1692) près d'un grand village peoria ; mission du P. Gravier (1693) ; un forgeron, Saint-Michel, y travaille en 1705.",
+    "texte_en": "Fort of Tonty and La Forest (1691-1692) by a large Peoria village; Father Gravier's mission (1693); a blacksmith, St. Michel, worked there in 1705.",
+    "source": "East, E. E. (1933), The Inhabitants of Three French Villages at Peoria, Illinois: A Directory, Peoria, Peoria Historical Press"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.698
+    ]
+   },
+   "properties": {
+    "id": "vieuxpeoria",
+    "categorie": "peoria",
+    "couleur": "#b0451c",
+    "annee": 1765,
+    "nom": "Vieux-Peoria (1765-1796)",
+    "nom_en": "Old Peoria (1765-1796)",
+    "texte": "Antoine Saint-François y sème du maïs en 1765. Habitants chassés en 1780-1781 par les raids, revenus après 1783 ; 62 habitants connus. En 1773, Jean-Baptiste Point de Sable y achète la terre de Maillet avant de gagner la rivière Chicago.",
+    "texte_en": "Antoine Saint-François sowed corn there in 1765. Inhabitants driven out in 1780-1781 by raids, back after 1783; 62 known residents. In 1773 Jean-Baptiste Point de Sable bought Maillet's land there before moving to the Chicago River.",
+    "source": "East, E. E. (1933), The Inhabitants of Three French Villages at Peoria, Illinois: A Directory, Peoria, Peoria Historical Press"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.582,
+     40.688
+    ]
+   },
+   "properties": {
+    "id": "maillet",
+    "categorie": "peoria",
+    "couleur": "#b0451c",
+    "annee": 1778,
+    "nom": "La Ville de Maillet (1778-1812)",
+    "nom_en": "La Ville de Maillet (1778-1812)",
+    "texte": "Nouveau village fondé vers 1778 par Jean-Baptiste Maillet, à un mille et demi au sud, dit aussi « Au Pied du lac » (d'où « Opa », « Le Pé »). 96 habitants connus, dont Antoine Le Claire (1809-1812). Brûlé en novembre 1812 par la milice du capitaine Craig, qui expulse 42 habitants.",
+    "texte_en": "New village founded about 1778 by Jean-Baptiste Maillet, a mile and a half south, also called “Au Pied du lac” (hence “Opa,” “Le Pé”). 96 known residents, including Antoine Le Claire (1809-1812). Burned in November 1812 by Captain Craig's militia, who evicted 42 inhabitants.",
+    "source": "East, E. E. (1933), The Inhabitants of Three French Villages at Peoria, Illinois: A Directory, Peoria, Peoria Historical Press"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.57,
+     40.655
+    ]
+   },
+   "properties": {
+    "id": "traitepeoria",
+    "categorie": "peoria",
+    "couleur": "#b0451c",
+    "annee": 1818,
+    "nom": "Poste de traite de Peoria (après 1812)",
+    "nom_en": "Peoria trading house (after 1812)",
+    "texte": "Sur la rive est (comté de Tazewell) : agents de l'American Fur Co. (Deschamps, Buisson), la famille Bourbonne, qui y tient une auberge en 1825 avant de donner son nom à Bourbonnais. 23 habitants connus.",
+    "texte_en": "On the east bank (Tazewell County): American Fur Co. agents (Deschamps, Buisson) and the Bourbonne family, who kept a tavern there in 1825 before giving their name to Bourbonnais. 23 known residents.",
+    "source": "East, E. E. (1933), The Inhabitants of Three French Villages at Peoria, Illinois: A Directory, Peoria, Peoria Historical Press"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.582,
+     40.824
+    ]
+   },
+   "properties": {
+    "id": "bunkum",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1832,
+    "nom": "Bunkum (Iroquois)",
+    "nom_en": "Bunkum (Iroquois)",
+    "texte": "Poste de traite de Gurdon Hubbard pour l'American Fur Co., cédé en 1832 à son adjoint Noël Levasseur, qui épouse Watch-e-kee.",
+    "texte_en": "Gurdon Hubbard's American Fur Co. post, turned over in 1832 to his assistant Noël Levasseur, who married Watch-e-kee.",
+    "source": "Kankakee Centennial, 1853-1953: Souvenir (1953), Kankakee"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.86,
+     40.47
+    ]
+   },
+   "properties": {
+    "id": "tippecanoe",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1832,
+    "nom": "Camp Tippecanoe (traité de 1832)",
+    "nom_en": "Camp Tippecanoe (1832 treaty)",
+    "texte": "Traité avec les Potéouatamis, signé par 61 chefs ; Levasseur reçoit 1 800 $ et les Bourbonnais des terres en réserve. Après la guerre de Black Hawk, les Potéouatamis sont déplacés et leurs terres vendues.",
+    "texte_en": "Treaty with the Potawatomi, signed by 61 chiefs; Levasseur received $1,800 and the Bourbonnais family reserve lands. After the Black Hawk War the Potawatomi were removed and their lands sold.",
+    "source": "Kankakee Centennial, 1853-1953: Souvenir (1953), Kankakee"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.877,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "bourbonnais",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1835,
+    "nom": "Bourbonnais",
+    "nom_en": "Bourbonnais",
+    "texte": "François Bourbonnais et sa femme autochtone y bâtissent une cabane en 1835 ; Levasseur s'y fixe en 1837 et lance une migration en chaîne depuis le Québec. Vers 1850, village d'environ 2 000 habitants ; écarté par l'Illinois Central, il tombe à quelque 600 habitants vers 1900.",
+    "texte_en": "François Bourbonnais and his Native wife built a cabin there in 1835; Levasseur settled in 1837 and set off a chain migration from Quebec. By 1850 a village of about 2,000; bypassed by the Illinois Central, it fell to some 600 by 1900.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.882,
+     41.153
+    ]
+   },
+   "properties": {
+    "id": "viator",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1865,
+    "nom": "Collège Saint-Viateur",
+    "nom_en": "St. Viator College",
+    "texte": "Les Clercs de Saint-Viateur arrivent de Joliette en 1865 (P. Beaudoin) ; le P. Thomas Roy ouvre le cours classique en 1868 ; charte universitaire en 1874 ; chapelle Roy (1889) en pierre bleue de la Kankakee. Premier collège classique québécois hors du Canada ; en 1916, il a formé 32 prêtres du diocèse de Chicago. En 1900-1901 : 243 élèves, dont 200 de l'Illinois.",
+    "texte_en": "The Clerics of St. Viator came from Joliette in 1865 (Father Beaudoin); Father Thomas Roy opened the classical course in 1868; university charter in 1874; Roy chapel (1889) in Kankakee blue stone. The first Quebec-style classical college outside Canada; by 1916 it had trained 32 Chicago diocesan priests. In 1900-1901: 243 students, 200 from Illinois.",
+    "source": "Thirty-Third Annual Catalogue of St. Viateur's College, Bourbonnais, Kankakee County, Illinois, 1900-1901 (1901), Bloomington"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.861,
+     41.12
+    ]
+   },
+   "properties": {
+    "id": "kankakee",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1853,
+    "nom": "Kankakee",
+    "nom_en": "Kankakee",
+    "texte": "Ville née de l'Illinois Central (« Kankakee Depot »), choisie comme chef-lieu en 1853 au détriment de Bourbonnais. Siège du Journal de l'Illinois (1857) et du Courrier de l'Ouest (1868). En 1910, environ 1 000 Canadiens français sur 13 986 habitants ; paroisse Sainte-Rose.",
+    "texte_en": "Town born of the Illinois Central (“Kankakee Depot”), chosen as county seat in 1853 over Bourbonnais. Home of the Journal de l'Illinois (1857) and the Courrier de l'Ouest (1868). In 1910, about 1,000 French Canadians among 13,986 people; St. Rose parish.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.715,
+     41.025
+    ]
+   },
+   "properties": {
+    "id": "steanne",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1851,
+    "nom": "Sainte-Anne",
+    "nom_en": "St. Anne",
+    "texte": "Chiniquy, arrivé à Chicago le 29 octobre 1851, y attire des centaines de familles ; excommunié en 1858 sur la place du village, il passe aux presbytériens. Paroisse catholique refondée en 1871 ; relique de sainte Anne envoyée de Montréal en 1886.",
+    "texte_en": "Chiniquy, who reached Chicago on October 29, 1851, drew hundreds of families there; excommunicated in 1858 in the village square, he joined the Presbyterians. Catholic parish refounded in 1871; relic of St. Anne sent from Montreal in 1886.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.663,
+     41.16
+    ]
+   },
+   "properties": {
+    "id": "momence",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1845,
+    "nom": "Momence",
+    "nom_en": "Momence",
+    "texte": "Bourg agricole canadien des années 1840, candidat malheureux au chef-lieu en 1853.",
+    "texte_en": "Canadian farm town of the 1840s, unsuccessful candidate for county seat in 1853.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8,
+     41.08
+    ]
+   },
+   "properties": {
+    "id": "stgeorge",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1845,
+    "nom": "Saint-Georges",
+    "nom_en": "St. George",
+    "texte": "Paroisse canadienne fondée dans les années 1840.",
+    "texte_en": "Canadian parish founded in the 1840s.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.66,
+     40.95
+    ]
+   },
+   "properties": {
+    "id": "beaverville",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1855,
+    "nom": "Beaverville (Sainte-Marie)",
+    "nom_en": "Beaverville (St. Mary)",
+    "texte": "Mission de Chiniquy dans le comté d'Iroquois.",
+    "texte_en": "Chiniquy mission in Iroquois County.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8,
+     40.9
+    ]
+   },
+   "properties": {
+    "id": "lerable",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1855,
+    "nom": "L'Érable",
+    "nom_en": "L'Erable",
+    "texte": "Mission de Chiniquy dans le comté d'Iroquois.",
+    "texte_en": "Chiniquy mission in Iroquois County.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.72,
+     40.97
+    ]
+   },
+   "properties": {
+    "id": "papineau",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1860,
+    "nom": "Papineau",
+    "nom_en": "Papineau",
+    "texte": "Limite sud de la colonie canadienne de la Kankakee.",
+    "texte_en": "Southern edge of the Kankakee Canadian colony.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.832,
+     41.25
+    ]
+   },
+   "properties": {
+    "id": "manteno",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1854,
+    "nom": "Manteno",
+    "nom_en": "Manteno",
+    "texte": "Ville champignon créée par l'Illinois Central au début des années 1850.",
+    "texte_en": "Boom town created by the Illinois Central in the early 1850s.",
+    "source": "Kantowicz, E. R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, 75 (4), p. 263-276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.97,
+     41.2
+    ]
+   },
+   "properties": {
+    "id": "shawwaw",
+    "categorie": "kankakee",
+    "couleur": "#3e5f7a",
+    "annee": 1830,
+    "nom": "Village de Shaw-waw-nas-see (Rock Creek)",
+    "nom_en": "Shaw-waw-nas-see's village (Rock Creek)",
+    "texte": "Village potéouatami à neuf milles [14 km] au nord-ouest de Kankakee, sur la piste indienne qui traversait le site de la ville.",
+    "texte_en": "Potawatomi village nine miles northwest of Kankakee, on the Indian trail that crossed the town site.",
+    "source": "Kankakee Centennial, 1853-1953: Souvenir (1953), Kankakee"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.385,
+     40.55
+    ]
+   },
+   "properties": {
+    "id": "nauvoo",
+    "categorie": "presse",
+    "couleur": "#6b7a2f",
+    "annee": 1854,
+    "nom": "Nauvoo",
+    "nom_en": "Nauvoo",
+    "texte": "Colonie Icarienne (juillet-décembre 1854), premier journal de langue française de l'Illinois, organe de la communauté d'Étienne Cabet installée dans le village abandonné par les mormons.",
+    "texte_en": "Colonie Icarienne (July-December 1854), Illinois's first French-language newspaper, organ of Étienne Cabet's community settled in the village abandoned by the Mormons.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.632,
+     41.884
+    ]
+   },
+   "properties": {
+    "id": "chicago",
+    "categorie": "presse",
+    "couleur": "#6b7a2f",
+    "annee": 1861,
+    "nom": "Chicago",
+    "nom_en": "Chicago",
+    "texte": "Une quinzaine de journaux français de 1861 à 1931 : L'Observateur, La Sentinelle, L'Amérique (Louis Fréchette, 1869-1870), Le Figaro illustré (1886), Le Courrier de l'Illinois (vers 1880), Le Petit Journal de Chicago (seul quotidien, 1903), Le Courrier franco-américain (1905-1931). En 1888, environ 30 000 francophones, dont 25 200 Canadiens français ; quatre paroisses.",
+    "texte_en": "About fifteen French papers from 1861 to 1931: L'Observateur, La Sentinelle, L'Amérique (Louis Fréchette, 1869-1870), Le Figaro illustré (1886), Le Courrier de l'Illinois (about 1880), Le Petit Journal de Chicago (the only daily, 1903), Le Courrier franco-américain (1905-1931). In 1888, about 30,000 French speakers, 25,200 of them French Canadians; four parishes.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.093,
+     44.944
+    ]
+   },
+   "properties": {
+    "id": "stpaul",
+    "categorie": "presse",
+    "couleur": "#6b7a2f",
+    "annee": 1877,
+    "nom": "Saint-Paul",
+    "nom_en": "St. Paul",
+    "texte": "Le Canadien (1877-1903), fusionné par Bachand-Vertefeuille avec le Courrier de l'Ouest de Chicago.",
+    "texte_en": "Le Canadien (1877-1903), merged by Bachand-Vertefeuille with Chicago's Courrier de l'Ouest.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.265,
+     44.978
+    ]
+   },
+   "properties": {
+    "id": "minneapolis",
+    "categorie": "presse",
+    "couleur": "#6b7a2f",
+    "annee": 1900,
+    "nom": "Minneapolis",
+    "nom_en": "Minneapolis",
+    "texte": "La Voix du Peuple (1900-1903), feuille démocrate.",
+    "texte_en": "La Voix du Peuple (1900-1903), a Democratic paper.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.91,
+     43.975
+    ]
+   },
+   "properties": {
+    "id": "watertown",
+    "categorie": "presse",
+    "couleur": "#6b7a2f",
+    "annee": 1864,
+    "nom": "Watertown (New York)",
+    "nom_en": "Watertown (New York)",
+    "texte": "Alexandre Grandpré et Claude Petit y fondent un journal en 1864, entre les deux vies du journal de Kankakee.",
+    "texte_en": "Alexandre Grandpré and Claude Petit founded a paper there in 1864, between the two lives of the Kankakee paper.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.889,
+     43.594
+    ]
+   },
+   "properties": {
+    "id": "baycity",
+    "categorie": "presse",
+    "couleur": "#6b7a2f",
+    "annee": 1904,
+    "nom": "Bay City (Michigan)",
+    "nom_en": "Bay City (Michigan)",
+    "texte": "Chronique régionale du Courrier-Canadien (1904), ajoutée à son en-tête.",
+    "texte_en": "Regional column of the Courrier-Canadien (1904), added to its masthead.",
+    "source": "Cormier, L.-P. (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, 11 (3), p. 361-392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.104,
+     46.787
+    ]
+   },
+   "properties": {
+    "id": "duluth",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1880,
+    "nom": "Duluth : paroisse Saint-Jean-Baptiste",
+    "nom_en": "Duluth: St. John the Baptist parish",
+    "texte": "Présence canadienne-française ancienne et paroisse nationale ; la ville porte le nom de Daniel Greysolon, sieur du Lhut.",
+    "texte_en": "Early French Canadian presence and national parish; the city bears the name of Daniel Greysolon, sieur du Lhut.",
+    "source": "IFMidwest Magazine, vol. 2, no 2 (été 2009), « Francophone Roots in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.395,
+     46.544
+    ]
+   },
+   "properties": {
+    "id": "marquette",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1900,
+    "nom": "Marquette : centre Baumier",
+    "nom_en": "Marquette: Baumier center",
+    "texte": "Centre du patrimoine franco-canadien du nord du Michigan.",
+    "texte_en": "Heritage center for French Canadians in northern Michigan.",
+    "source": "IFMidwest Magazine, vol. 2, no 2 (été 2009), « Francophone Roots in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.99,
+     48.86
+    ]
+   },
+   "properties": {
+    "id": "turtle",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1882,
+    "nom": "Montagne de la Tortue (Belcourt)",
+    "nom_en": "Turtle Mountain (Belcourt)",
+    "texte": "Réserve des Chippewas de la montagne de la Tortue, foyer métis et michif ; neuvaine de sainte Anne fondée par l'abbé Jean Malo ; mémoire de Riel, de Bottineau et de Rolette. D. Delâge y voit une mémoire vivante de l'alliance franco-amérindienne.",
+    "texte_en": "Turtle Mountain Chippewa reservation, a Métis and Michif hearth; St. Anne novena founded by Father Jean Malo; memory of Riel, Bottineau and Rolette. D. Delâge sees in it a living memory of the French-Indian alliance.",
+    "source": "IFMidwest Magazine, vol. 3, no 1 (printemps 2010), « French Living Heritage in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.84,
+     48.77
+    ]
+   },
+   "properties": {
+    "id": "rolettecty",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1873,
+    "nom": "Comté de Rolette",
+    "nom_en": "Rolette County",
+    "texte": "Nommé d'après Joseph Rolette fils, le héros de Pembina (voir Tassé, t. II).",
+    "texte_en": "Named after Joseph Rolette Jr., the hero of Pembina (see Tassé, vol. II).",
+    "source": "IFMidwest Magazine, vol. 2, no 2 (été 2009), « Francophone Roots in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.274,
+     47.882
+    ]
+   },
+   "properties": {
+    "id": "redlake",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1880,
+    "nom": "Red Lake Falls, Terrebonne, Gentilly, Oklee",
+    "nom_en": "Red Lake Falls, Terrebonne, Gentilly, Oklee",
+    "texte": "Villages canadiens-français de l'ouest du Minnesota. La famille Fournier de Red Lake Falls venait de Sainte-Ursule, dans le comté de Maskinongé : le pays natal d'Aubry.",
+    "texte_en": "French Canadian villages of western Minnesota. The Fournier family of Red Lake Falls came from Sainte-Ursule, Maskinongé County: Aubry's home country.",
+    "source": "IFMidwest Magazine, vol. 4, no 1 (automne 2012), « Franco-Fête », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.556,
+     43.026
+    ]
+   },
+   "properties": {
+    "id": "pineridge",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1870,
+    "nom": "Pine Ridge (mission Holy Rosary)",
+    "nom_en": "Pine Ridge (Holy Rosary mission)",
+    "texte": "Les descendants des traiteurs français mariés aux Oglalas, comme John Baptiste Richard ou Pourier, forment le groupe métis le plus nombreux de la réserve ; noms français abondants (G. Gagnon, « Ikce Wasicu »).",
+    "texte_en": "Descendants of French traders married to Oglala women, such as John Baptiste Richard or Pourier, form the reservation's largest mixed-blood group; many French surnames (G. Gagnon, “Ikce Wasicu”).",
+    "source": "IFMidwest Magazine, vol. 3, no 1 (printemps 2010), « French Living Heritage in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "boniface",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1818,
+    "nom": "Saint-Boniface",
+    "nom_en": "Saint-Boniface",
+    "texte": "Foyer franco-manitobain et métis ; Festival du Voyageur.",
+    "texte_en": "Franco-Manitoban and Métis hearth; Festival du Voyageur.",
+    "source": "IFMidwest Magazine, vol. 3, no 1 (printemps 2010), « French Living Heritage in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.79,
+     46.877
+    ]
+   },
+   "properties": {
+    "id": "fargo",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1900,
+    "nom": "Fargo (« le Petit Fargo »)",
+    "nom_en": "Fargo (“le Petit Fargo”)",
+    "texte": "Mémoire d'une communauté canadienne-française de la vallée de la Rivière-Rouge.",
+    "texte_en": "Memory of a French Canadian community of the Red River valley.",
+    "source": "IFMidwest Magazine, vol. 3, no 1 (printemps 2010), « French Living Heritage in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.033,
+     47.925
+    ]
+   },
+   "properties": {
+    "id": "grandforks",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 2008,
+    "nom": "Grand Forks (IFMidwest)",
+    "nom_en": "Grand Forks (IFMidwest)",
+    "texte": "Siège des Initiatives en français Midwest (Université du Dakota du Nord) et de sa collection.",
+    "texte_en": "Seat of Initiatives in French Midwest (University of North Dakota) and its collection.",
+    "source": "IFMidwest Magazine, vol. 2, no 2 (été 2009), « Francophone Roots in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.43,
+     47.86
+    ]
+   },
+   "properties": {
+    "id": "huot",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1863,
+    "nom": "Old Crossing (Huot)",
+    "nom_en": "Old Crossing (Huot)",
+    "texte": "Lieu du traité de 1863 sur la Red Lake ; fête française annuelle.",
+    "texte_en": "Site of the 1863 treaty on the Red Lake River; annual French festival.",
+    "source": "IFMidwest Magazine, vol. 2, no 2 (été 2009), « Francophone Roots in the Midwest », Grand Forks, University of North Dakota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.85,
+     48.5
+    ]
+   },
+   "properties": {
+    "id": "voyageurs",
+    "categorie": "midwest",
+    "couleur": "#7a3e6b",
+    "annee": 1975,
+    "nom": "Parc national des Voyageurs",
+    "nom_en": "Voyageurs National Park",
+    "texte": "La route des canots des voyageurs entre le lac Supérieur et le lac des Bois, devenue lieu de patrimoine.",
+    "texte_en": "The voyageurs' canoe route between Lake Superior and the Lake of the Woods, now a heritage place.",
+    "source": "IFMidwest Magazine, vol. 2, no 2 (été 2009), « Francophone Roots in the Midwest », Grand Forks, University of North Dakota"
+   }
+  }
+ ]
+}
