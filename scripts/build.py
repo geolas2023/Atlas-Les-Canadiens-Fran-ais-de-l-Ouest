@@ -72,7 +72,8 @@ for f0 in d['features']:
              'Joseph Mercure':['Joseph Mercure'], 'Charles Blanchard':['Charles Blanchard'], 'Michel Desmarais':['Michel Desmarais','Miguel Desmarais'],
              'Céran St. Vrain':['Céran St. Vrain','Ceran St. Vrain','St. Vrain'], 'Alexis Godey':['Alexis Godey','Alex Godey'],
              'Rosalie Vasquez':['Rosalie Vasquez'], 'Amelina Vasquez':['Amelina Vasquez'], 'Benito Vasquez':['Benito Vasquez'],
-             'Avila Sénécal':['Avila Sénécal'], 'Antoine Leroux':['Antoine Leroux']}
+             'Avila Sénécal':['Avila Sénécal'], 'Antoine Leroux':['Antoine Leroux'],
+             'Etienne Provost':['Étienne Provost','Etienne Provost']}
     for nm, als in ALIAS.items():
         if any(a in txt for a in als) and nm not in pers: pers.append(nm)
     feats.append({"type":"Feature","geometry":f0['geometry'],"properties":{

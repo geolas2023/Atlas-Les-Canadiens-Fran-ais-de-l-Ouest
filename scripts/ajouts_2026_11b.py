@@ -7,15 +7,16 @@
 #   « Piste de l'Oregon »           Bergeron, La légende de l'Oregon était vraie
 #   « Illinois français » (IF2-…)   McQuillan (1979) ; Papen (2006)
 #   « Recherches » (R2-…)           allocution de Worcester ; Le Progrès du Golfe (1940)
+#   « Recherches » (PV-…)           Étienne Provost à Saint-Louis, versé depuis l'Atlas Aubry (dossier provost.html)
 # Idempotent : retire d'abord toutes les fiches dont l'identifiant porte un des préfixes ci-dessous, puis les recrée.
 # À exécuter APRÈS scripts/ajouts_2026_11.py (qui recrée le corpus « Illinois français » et effacerait les fiches IF2-).
 import json, os, sys, collections
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(R, 'scripts', 'sources_2026b'))
-import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire
+import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost
 
-MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire]
-PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-')
+MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost]
+PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-')
 THEMES = {'poste', 'etablissement', 'famille', 'personnage', 'evenement', 'commerce', 'migration', 'exploration', 'religion', 'toponymie'}
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
@@ -33,6 +34,10 @@ for f in nouv:
     assert -170 < x < -50 and 15 < y < 72, (p['id'], x, y)
     assert p['debut'] <= p['fin'], p['id']
 
+# La fiche miroir de l'Atlas Aubry sur le carrefour Second et Lombard concerne aussi Provost (voir build.py, ALIAS).
+for f in garde:
+    if f['properties']['id'] == 'A-L100' and 'Etienne Provost' not in f['properties']['personnages']:
+        f['properties']['personnages'].append('Etienne Provost')
 d['features'] = garde + nouv
 json.dump(d, open(f'{R}/data/lieux.geojson', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 c = collections.Counter(f['properties']['corpus'] for f in nouv)
