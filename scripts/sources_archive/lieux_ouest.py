@@ -722,7 +722,31 @@ G.update({
     'De Soto (Nebraska)': (-96.1, 41.5, 'a', "De Soto (comté de Washington, Nebraska)"),
     'Papillion': (-96.04, 41.155, 'c', "Papillion (comté de Sarpy, Nebraska)"),
     'Niobrara (ville)': (-98.03, 42.75, 'c', "Niobrara (comté de Knox, Nebraska)"),
+    'Payette River': (-116.45, 44.1, 'h', "rivière Payette (Idaho)"),
+    'Rivière Boise': (-116.4, 43.65, 'h', "rivière Boise (Idaho)"),
+    'Bruneau River': (-115.8, 42.85, 'h', "rivière Bruneau (Idaho)"),
+    'Buttes Trois': (-113.02, 43.4, 'a', "les Trois Buttes (plaine de la Snake, Idaho)"),
+    'Rivière Malade (Idaho)': (-114.7, 42.9, 'h', "rivière Malade (Big Wood, Idaho)"),
+    'Défilé de Côté (Medicine Lodge)': (-112.6, 44.2, 'h', "défilé de Côté (Medicine Lodge Creek, Idaho)"),
+    'Portneuf River': (-112.3, 42.85, 'h', "rivière Portneuf (Idaho)"),
+    'Trois Tetons': (-110.8, 43.74, 'a', "les Trois Tétons"),
+    'Rivière Pend Oreille (Idaho)': (-116.9, 48.2, 'h', "rivière Pend Oreille (Idaho)"),
+    'Lac Pend Oreille': (-116.4, 48.1, 'h', "lac Pend Oreille (Idaho)"),
+    "Lac Cœur d'Alène": (-116.8, 47.5, 'h', "lac Cœur d'Alène (Idaho)"),
+    'Clearwater (Idaho)': (-116.0, 46.5, 'h', "rivière Clearwater (pays des Nez-Percés)"),
+    'Mission du Sacré-Cœur (Saint-Joe)': (-116.6, 47.35, 'a', "première mission du Sacré-Cœur (rivière Saint-Joe, Idaho)"),
+    'Boise Basin (Idaho City)': (-115.83, 43.83, 'c', "bassin de Boise (Idaho City)"),
+    'Lewiston (Idaho)': (-117.02, 46.42, 'c', "Lewiston (Idaho)"),
+    'Lapwai': (-116.8, 46.4, 'c', "Lapwai (réserve des Nez-Percés)"),
+    'Culdesac': (-116.67, 46.38, 'c', "Culdesac (Idaho)"),
+    'Nezperce (ville)': (-116.24, 46.23, 'c', "Nezperce (Idaho)"),
+    'Peck (Idaho)': (-116.43, 46.47, 'c', "Peck (Idaho)"),
+    'White Bird': (-116.3, 45.76, 'c', "White Bird (rivière au Saumon, Idaho)"),
+    'John Day Creek (Salmon)': (-116.32, 45.65, 'h', "ruisseau John Day (rivière au Saumon, Idaho)"),
+    'Grangeville': (-116.12, 45.93, 'c', "Grangeville (Idaho)"),
 })
+
+
 
 
 
