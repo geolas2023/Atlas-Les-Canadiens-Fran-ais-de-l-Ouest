@@ -712,5 +712,15 @@ G.update({
     'Fontanelle (Nebraska)': (-96.42, 41.55, 'c', "Fontanelle (comté de Washington)"),
     'Robidoux Pass (Scotts Bluff)': (-103.82, 41.8, 'a', "col de Robidoux (Scotts Bluff)"),
     'Ranch Beauvais (Platte)': (-101.95, 41.1, 'a', "ranch Beauvais (gué de Californie, Platte)"),
+    'Embouchure de la Big Sioux': (-96.46, 42.49, 'a', "embouchure de la Big Sioux (Missouri)"),
+    'Covington (Nebraska)': (-96.41, 42.47, 'c', "Covington (comté de Dakota, Nebraska)"),
+    'Omadi': (-96.48, 42.39, 'a', "Omadi (comté de Dakota, Nebraska)"),
+    'Dakota City': (-96.42, 42.415, 'c', "Dakota City (Nebraska)"),
+    'Fourches de la Platte': (-100.76, 41.12, 'a', "fourches de la Platte (comté de Lincoln, Nebraska)"),
+    'Cottonwood Springs': (-100.55, 41.0, 'a', "Cottonwood Springs (fort McPherson, Nebraska)"),
+    'Réserve otoe (Gage)': (-96.75, 40.05, 'a', "réserve des Otoes (comté de Gage, Nebraska)"),
+    'De Soto (Nebraska)': (-96.1, 41.5, 'a', "De Soto (comté de Washington, Nebraska)"),
 })
+
+
 
