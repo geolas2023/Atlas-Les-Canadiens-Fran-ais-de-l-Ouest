@@ -123,3 +123,4 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Larpenteur, *Forty Years a Fur Trader on the Upper Missouri*, éd. Coues (1898), 2 vol. | `fortyyearsfurtra01larpiala`, `fortyyearsfurtra02larpiala` | 129 |
 | Tassé, *Les Canadiens de l'Ouest* (1878), 2 tomes | `cihm_33778`, `cihm_33779` | 555 |
 | Billon, *Annals of St. Louis in its Early Days under the French and Spanish Dominations* (1886) | `cihm_00427` | 421 |
+| Hamon, *Les Canadiens-français de la Nouvelle-Angleterre* (1891) | `cihm_39098` | 183 |

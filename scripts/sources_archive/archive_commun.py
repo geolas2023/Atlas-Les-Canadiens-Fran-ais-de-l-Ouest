@@ -116,7 +116,7 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
             elif (lieu, an) in EVENEMENTS: theme = 'evenement'
             elif lieu.startswith('Fort') or 'House' in lieu: theme = 'poste'
             else: theme = theme_defaut
-            if ctx and re.search(r"\b(tué|tuée|massacr|bataille|combat|assassin|noyé|attaque|siège|capture|prise du fort)", ctx) and theme != 'religion': theme = 'evenement'
+            if ctx and re.search(r"\b(tué|tuée|massacr|bataille|combat|assassin|noyé|attaque|siège (?:du|de|d.)|capture|prise du fort)", ctx) and theme != 'religion': theme = 'evenement'
             fem = 'e' if re.search(r'Sœur|Mère|Marie|Zoé|Lisette|Reine|demoiselles|Charlotte|Louise|Josephte|Suzanne|Domitilde|Emilie|Élisabeth|Elizabeth|Henriette|Virginie|Marguerite|Adèle|Julie|Geneviève|Catherine|Paulette|\(f\)', brut) else ''
             mn = re.match(r'^(\d{4})(?:,\s*(.+))?$', naissance)
             ne = (f", né{fem} en {mn.group(1)}" + (f" à {mn.group(2)}" if mn.group(2) else '')) if mn else (f", né{fem} à {naissance}" if naissance else '')
