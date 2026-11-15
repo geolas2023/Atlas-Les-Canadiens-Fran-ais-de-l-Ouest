@@ -600,4 +600,9 @@ G.update({
  'Boat Encampment': (-118.35, 52.12, 'a', "Boat Encampment (rivière aux Canots)"),
  'Bas-de-la-Rivière': (-96.32, 50.62, 'c', "fort du Bas-de-la-Rivière (Winnipeg)"),
  'Rivière Athabasca': (-114.5, 54.6, 'h', "rivière Athabasca"),
+ 'Haut-de-la-Rivière-Rouge (NO)': (-101.9, 50.45, 'h', "département du Haut-de-la-Rivière-Rouge (fort Espérance, Qu'Appelle)"),
+ 'Rivière au Rat (NO)': (-98.9, 55.8, 'h', "rivière au Rat (bassin du Nelson, Manitoba)"),
+ 'Lac Seul': (-92.2, 50.3, 'h', "lac Seul"),
+ 'Rivière des Sauteux (NO)': (-91.4, 45.5, 'h', "rivière des Sauteux (Chippewa, Wisconsin)"),
+ 'Le Pic': (-86.29, 48.6, 'a', "Le Pic (embouchure de la rivière Pic, lac Supérieur)"),
 })
