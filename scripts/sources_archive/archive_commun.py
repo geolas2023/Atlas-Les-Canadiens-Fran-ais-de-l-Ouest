@@ -116,6 +116,11 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
         autres = [G[l][3] for l, _, _, _ in lus]
         for lieu, edtf, an, ctx in lus:
             lon, lat, cert, lieu_fr = G[lieu]
+            from adresses import adresse
+            ctx, adr = adresse(ctx, lieu)
+            if adr:
+                lon, lat, lieu_fr = adr[0], adr[1], adr[2]
+                cert = 'a'
             base = f"{prefixe}-{slug(brut)}-{slug(lieu)[:10]}"
             k = vus.get(base, 0); vus[base] = k + 1
             ident_fiche = base + (f"-{k + 1}" if k else '')
@@ -149,6 +154,6 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
                 "personnages": [nom], "description": desc,
                 "sources": f"{livre['ref']}, {citer(brut, ref)} ; texte intégral : archive.org, {idf}.",
                 "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
-                "livre": livre['court'],
+                "livre": livre['court'], "_brut": brut,
                 "voir_aussi": [{"url": url, "texte": f"Lire {livre['court']} sur archive.org →"}]}})
     return out, inconnus, sans_date
