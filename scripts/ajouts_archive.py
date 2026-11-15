@@ -103,6 +103,10 @@ LIVRES = [
      {'court': 'Coues (1897), vol. 2',
       'ref': "Coues, Elliott (dir.) (1897), New Light on the Early History of the Greater Northwest. The Manuscript Journals of Alexander Henry and of David Thompson, New York, F. P. Harper, vol. 2"},
      'newlightonearlyh02henr', lambda nom, ref: ref),
+    ('perrault_1910.txt', 'PE',
+     {'court': 'Perrault (1910)',
+      'ref': "Perrault, Jean-Baptiste (1909-1910), « Narrative of the Travels and Adventures of a Merchant Voyageur… 1783-1820 », éd. J. S. Fox, Michigan Pioneer and Historical Collections, vol. 37"},
+     'michiganhistoric37michuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
