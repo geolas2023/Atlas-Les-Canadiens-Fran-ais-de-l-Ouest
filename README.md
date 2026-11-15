@@ -143,6 +143,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Coues (dir.), *New Light on the Early History of the Greater Northwest* (1897), vol. 1 : journal d'Alexander Henry le jeune à la rivière Rouge (1799-1808) | `newlightonearlyh01henr` | 155 |
 | Coues (dir.), *New Light* (1897), vol. 2 : Henry en Saskatchewan (1808-1811) et au fort George/Astoria (1813-1814), notes tirées de Thompson | `newlightonearlyh02henr` | 164 |
 | Perrault, « Narrative of the Travels and Adventures of a Merchant Voyageur » (1783-1820), *Michigan Pioneer and Historical Collections*, vol. 37 (1910) | `michiganhistoric37michuoft` | 82 |
+| Cox, *Adventures on the Columbia River* (1832) | `adventuresoncolu00coxr` | 48 |
 
 
 ## Un point par lieu et adresses précises
