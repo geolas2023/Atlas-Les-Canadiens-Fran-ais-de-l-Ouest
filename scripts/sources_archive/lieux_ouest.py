@@ -752,7 +752,9 @@ G.update({
     'Soda Springs': (-111.6, 42.65, 'c', "Soda Springs (Beer Springs, Idaho)"),
     'Clark Fork (Idaho)': (-116.2, 48.15, 'h', "rivière Clark Fork (Pend Oreille, Idaho)"),
     'Boise (ville)': (-116.2, 43.615, 'c', "Boise (Idaho)"),
+    'Mission Saint-Ignace (Kalispels)': (-117.3, 48.32, 'a', "mission Saint-Ignace des Kalispels (baie des Pends-d'Oreilles, Usk, Washington)"),
 })
+
 
 
 

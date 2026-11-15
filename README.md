@@ -163,6 +163,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `illustratedhisto00slwe` | 15 |
 | `driggs` | 13 |
 | `historyofidahoge01hawl` | 11 |
+| `OregonMissionsAndTravels` | 9 |
 
 
 ## Un point par lieu et adresses précises
