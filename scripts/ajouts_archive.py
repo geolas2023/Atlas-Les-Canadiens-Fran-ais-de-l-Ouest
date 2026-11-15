@@ -115,6 +115,10 @@ LIVRES = [
      {'court': 'Ross (1855)',
       'ref': "Ross, Alexander (1855), The Fur Hunters of the Far West, Londres, Smith, Elder & Co., 2 vol."},
      'cihm_40228', lambda nom, ref: ref),
+    ('burton_1896.txt', 'BU',
+     {'court': 'Burton (1896)',
+      'ref': "Burton, Clarence Monroe (1896), Cadillac's Village, or Detroit under Cadillac, with List of Property Owners, 1701 to 1710, Détroit"},
+     'cadillacsvillage00burt', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

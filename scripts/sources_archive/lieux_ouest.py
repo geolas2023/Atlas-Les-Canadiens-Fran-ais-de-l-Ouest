@@ -657,4 +657,5 @@ G.update({
  'Lacs de la Columbia (Arrow Lakes)': (-118.0, 49.9, 'h', "lacs du haut Columbia (Arrow Lakes)"),
  'Rapide des Prêtres (Columbia)': (-119.9, 46.65, 'a', "rapide des Prêtres (Priest Rapids, Columbia)"),
  'Rivière Lewis (Nez-Percés)': (-117.0, 46.42, 'h', "rivière Lewis (Snake), pays des Nez-Percés"),
+ 'Fort Pontchartrain (Détroit)': (-83.0465, 42.3293, 'a', "fort Pontchartrain du Détroit (rue Sainte-Anne, aujourd'hui avenue Jefferson)"),
 })
