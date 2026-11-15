@@ -107,6 +107,10 @@ LIVRES = [
      {'court': 'Perrault (1910)',
       'ref': "Perrault, Jean-Baptiste (1909-1910), « Narrative of the Travels and Adventures of a Merchant Voyageur… 1783-1820 », éd. J. S. Fox, Michigan Pioneer and Historical Collections, vol. 37"},
      'michiganhistoric37michuoft', lambda nom, ref: ref),
+    ('cox_1832.txt', 'CX',
+     {'court': 'Cox (1832)',
+      'ref': "Cox, Ross (1832), Adventures on the Columbia River, New York, J. & J. Harper"},
+     'adventuresoncolu00coxr', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

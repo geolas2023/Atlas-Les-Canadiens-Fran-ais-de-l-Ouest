@@ -653,4 +653,8 @@ G.update({
  'Rapide des Pères': (-87.98, 44.43, 'a', "rapide des Pères (De Pere, Wisconsin)"),
  'Lac Courte-Oreille': (-91.42, 45.88, 'a', "lac Courte-Oreille (Wisconsin)"),
  'Portage de la Savane': (-93.15, 46.82, 'a', "portage de la Savane (Minnesota)"),
+ "Rivière Cœur-d'Alène": (-116.6, 47.55, 'a', "rivière Cœur-d'Alène"),
+ 'Lacs de la Columbia (Arrow Lakes)': (-118.0, 49.9, 'h', "lacs du haut Columbia (Arrow Lakes)"),
+ 'Rapide des Prêtres (Columbia)': (-119.9, 46.65, 'a', "rapide des Prêtres (Priest Rapids, Columbia)"),
+ 'Rivière Lewis (Nez-Percés)': (-117.0, 46.42, 'h', "rivière Lewis (Snake), pays des Nez-Percés"),
 })
