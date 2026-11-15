@@ -119,6 +119,10 @@ LIVRES = [
      {'court': 'Burton (1896)',
       'ref': "Burton, Clarence Monroe (1896), Cadillac's Village, or Detroit under Cadillac, with List of Property Owners, 1701 to 1710, Détroit"},
      'cadillacsvillage00burt', lambda nom, ref: ref),
+    ('hamlin_1884.txt', 'HM',
+     {'court': 'Hamlin (1884)',
+      'ref': "Hamlin, Marie Caroline Watson (1884), Legends of le Détroit, Détroit, Thorndike Nourse"},
+     'legendsofledtr00haml', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
