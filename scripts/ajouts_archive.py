@@ -111,6 +111,10 @@ LIVRES = [
      {'court': 'Cox (1832)',
       'ref': "Cox, Ross (1832), Adventures on the Columbia River, New York, J. & J. Harper"},
      'adventuresoncolu00coxr', lambda nom, ref: ref),
+    ('ross_1855.txt', 'RS',
+     {'court': 'Ross (1855)',
+      'ref': "Ross, Alexander (1855), The Fur Hunters of the Far West, Londres, Smith, Elder & Co., 2 vol."},
+     'cihm_40228', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
