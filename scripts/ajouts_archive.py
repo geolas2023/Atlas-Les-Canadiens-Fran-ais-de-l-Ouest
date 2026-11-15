@@ -95,6 +95,10 @@ LIVRES = [
      {'court': 'Masson (1890)',
       'ref': "Masson, Louis-Rodrigue (1890), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 2 (deuxième série)"},
      'cihm_30415', lambda nom, ref: ref),
+    ('coues_1897_v1.txt', 'CO',
+     {'court': 'Coues (1897), vol. 1',
+      'ref': "Coues, Elliott (dir.) (1897), New Light on the Early History of the Greater Northwest. The Manuscript Journals of Alexander Henry and of David Thompson, New York, F. P. Harper, vol. 1"},
+     'newlightonearlyh01henr', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
