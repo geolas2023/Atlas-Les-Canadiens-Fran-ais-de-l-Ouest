@@ -625,4 +625,13 @@ G.update({
  'Fort Alexandria (Assiniboine)': (-101.95, 51.8, 'a', "fort Alexandria (haut Assiniboine)"),
  'Rivière des Rochers': (-111.5, 58.85, 'a', "rivière des Rochers (Athabasca)"),
  'Oxford House': (-95.27, 54.95, 'c', "Oxford House"),
+ 'Fourche de la rivière Rouge': (-97.13, 49.887, 'a', "la Fourche (rivières Rouge et Assiniboine)"),
+ 'Grandes Fourches': (-97.03, 47.92, 'a', "Grandes Fourches (Grand Forks, rivière Rouge)"),
+ 'Park River (poste)': (-97.15, 48.38, 'a', "poste de la rivière Park (rivière Rouge)"),
+ 'Rivière aux Roseaux': (-97.23, 49.15, 'a', "rivière aux Roseaux (Reed River)"),
+ 'Rivière aux Gratias': (-97.3, 49.45, 'a', "rivière aux Gratias"),
+ 'Rivière aux Morts': (-97.36, 49.35, 'a', "rivière aux Morts (Morris)"),
+ 'Terre Blanche': (-95.84, 47.1, 'a', "Terre-Blanche (White Earth)"),
+ 'Leech Lake': (-94.4, 47.15, 'a', "lac Sangsue (Leech Lake)"),
+ 'Rivière Folle Avoine': (-92.7, 45.8, 'h', "rivière à la Folle Avoine (Saint-Croix)"),
 })
