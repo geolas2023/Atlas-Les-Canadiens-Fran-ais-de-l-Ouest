@@ -9,7 +9,8 @@ R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUBRY = 'https://geolas2023.github.io/Atlas-Aubry/'
 IBERVILLE = 'https://geolas2023.github.io/Atlas-Iberville/'
 IBERVILLE_LOCAL = os.environ.get('IBERVILLE', '/home/claude/atlas-iberville')  # clone local de l'Atlas Iberville
-JOLLIET = 'https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/jolliet/'
+JOLLIET = 'https://geolas2023.github.io/Atlas-Jolliett/'
+JOLLIET_LOCAL = os.environ.get('JOLLIET', '/home/claude/atlas-jolliett-depot')  # clone local de l'Atlas Jolliet
 THEME_IB = {'combat': 'evenement', 'escale': 'exploration', 'decouverte': 'exploration', 'port': 'poste', 'fondation': 'etablissement',
             'vie': 'personnage', 'naissance': 'famille', 'concession': 'etablissement', 'mort': 'evenement'}
 TXT_FICHE = "Fiche complète dans l'Atlas Aubry →"
@@ -69,9 +70,9 @@ if os.path.exists(fic):
             "sources": f"Atlas Iberville, fiche {q['id']} (d'après Frégault, Iberville le conquérant, 1944).", "note": "",
             "renvoi": True, "voir_aussi": [{"url": f"{IBERVILLE}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Iberville →"}]}})
         ni += 1
-# Atlas Jolliet (dossier jolliet/ du dépôt) : renvois courts J-Lxx
+# Atlas Jolliet : renvois courts J-Lxx (recréés à chaque passage si le clone local est présent)
 nj = 0
-fic = f'{R}/jolliet/data/lieux.geojson'
+fic = f'{JOLLIET_LOCAL}/data/lieux.geojson'
 if os.path.exists(fic):
     d['features'] = [f for f in d['features'] if f['properties']['corpus'] != 'Atlas Jolliet']
     for f0 in json.load(open(fic, encoding='utf-8'))['features']:
