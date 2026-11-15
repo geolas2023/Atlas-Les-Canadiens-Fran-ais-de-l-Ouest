@@ -93,7 +93,7 @@ for lg, t in T.items():
 </head>
 <body>
 <header class="barre"><h1>{t['h1']}</h1>
-  <span class="esp"></span><a class="lien-langue" href="{t['autre']}" hreflang="{t['autre_lang']}" lang="{t['autre_lang']}">{t['autre_nom']}</a><a href="index.html">{t['retour']}</a></header>
+  <span class="esp"></span><a class="lien-langue" href="{t['autre']}" hreflang="{t['autre_lang']}" lang="{t['autre_lang']}">{t['autre_nom']}</a><a href="index.html">{t['retour']}</a><a class="lien-reseau" href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/" title="{'Accueil du réseau : tous les atlas des francophones d’Amérique du Nord' if t['autre_lang'] == 'en' else 'Network home: all the atlases of French speakers in North America'}">{'⚜ Atlas de l’Amérique française' if t['autre_lang'] == 'en' else '⚜ Atlas of French America'}</a></header>
 <main>
 <p class="chapeau">{t['chapeau']}</p>
 <h2>{t['h_carte']}</h2>{t['carte']()}
