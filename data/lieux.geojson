@@ -274920,6 +274920,1366 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -98.03,
+     42.77
+    ]
+   },
+   "properties": {
+    "id": "NM-mallet-pierre-et-paul-running-wa",
+    "nom": "Poste des Ponkas (embouchure du Niobrara) : Pierre et Paul Mallet",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre et Paul Mallet"
+    ],
+    "description": "Poste des Ponkas (embouchure du Niobrara), 1739. Pierre et Paul Mallet remontent le Missouri jusqu'à l'embouchure du Niobrara, puis se dirigent vers Santa Fe. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 48 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=MALLET",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.03,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "NM-cruzatte-x-fort-atkin",
+    "nom": "Council Bluff et fort Atkinson (Fort Calhoun) : Cruzatte",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1802.999,
+    "date_edtf": "1795~/1802~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Cruzatte"
+    ],
+    "description": "Council Bluff et fort Atkinson (Fort Calhoun), vers 1795-1802. Cruzatte tient un poste de traite à deux milles au-dessus du vieux Council Bluff. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 64-65 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=CRUZATTE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-deroin-francis-bellevue",
+    "nom": "Bellevue (Nebraska) : Francis Deroin",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis Deroin"
+    ],
+    "description": "Bellevue (Nebraska), 1810. Francis Deroin tient l'un des premiers postes de traite de Bellevue. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 84 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=DEROIN",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-chouteau-fils-pierre-bellevue",
+    "nom": "Bellevue (Nebraska) : Pierre Chouteau Fils",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1831.999,
+    "date_edtf": "1813/1831",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chouteau Fils"
+    ],
+    "description": "Bellevue (Nebraska), 1813-1831. Pierre Chouteau Fils dirige depuis Saint-Louis les postes de Bellevue et de Council Bluff. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 57-58 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=CHOUTEAU+fils",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.65,
+     40.4
+    ]
+   },
+   "properties": {
+    "id": "NM-roubidoux-joseph-nishnabotn",
+    "nom": "Embouchure de la Nishnabotna : Joseph Roubidoux",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Roubidoux"
+    ],
+    "description": "Embouchure de la Nishnabotna, 1819. Joseph Roubidoux ouvre un poste à l'embouchure de la Nishnabotna avec Papin et Chouteau. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 84 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=ROUBIDOUX",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     41.37
+    ]
+   },
+   "properties": {
+    "id": "NM-cabanne-j-p-poste-de-c",
+    "nom": "Poste de Cabanné (au-dessus d'Omaha) : J. P. Cabanné",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1833.999,
+    "date_edtf": "1822/1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. P. Cabanné"
+    ],
+    "description": "Poste de Cabanné (au-dessus d'Omaha), 1822-1833. J. P. Cabanné commande pour l'American Fur Company le poste situé à neuf ou dix milles au-dessus d'Omaha. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=CABANNÉ",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     41.37
+    ]
+   },
+   "properties": {
+    "id": "NM-sarpy-peter-a-poste-de-c",
+    "nom": "Poste de Cabanné (au-dessus d'Omaha) : Peter A. Sarpy",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Poste de Cabanné (au-dessus d'Omaha), 1823. Peter A. Sarpy entre comme commis sous Cabanné. D'après Morton (1905). Autres lieux de l'entrée : Bellevue (Nebraska), Traders' Point (Iowa, face à Bellevue), poste Saint Mary (Iowa), Plattsmouth (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70-71 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=SARPY",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-sarpy-peter-a-bellevue",
+    "nom": "Bellevue (Nebraska) : Peter A. Sarpy",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1840.999,
+    "date_edtf": "1824/1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Bellevue (Nebraska), 1824-1840. Peter A. Sarpy succède à Cabanné au poste de Bellevue et le dirige jusqu'en 1840. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), Traders' Point (Iowa, face à Bellevue), poste Saint Mary (Iowa), Plattsmouth (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70-71 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=SARPY",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     41.12
+    ]
+   },
+   "properties": {
+    "id": "NM-sarpy-peter-a-traders-po",
+    "nom": "Traders' Point (Iowa, face à Bellevue) : Peter A. Sarpy",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Traders' Point (Iowa, face à Bellevue), 1824. Peter A. Sarpy fonde Traders' Point sur la rive de l'Iowa. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), Bellevue (Nebraska), poste Saint Mary (Iowa), Plattsmouth (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70-71 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=SARPY",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.83,
+     40.98
+    ]
+   },
+   "properties": {
+    "id": "NM-sarpy-peter-a-saint-mary",
+    "nom": "Poste Saint Mary (Iowa) : Peter A. Sarpy",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Poste Saint Mary (Iowa), 1853. Peter A. Sarpy déplace son poste à Saint Mary et tient des bacs sur l'Elkhorn et le Loup. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), Bellevue (Nebraska), Traders' Point (Iowa, face à Bellevue), Plattsmouth (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70-71 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=SARPY",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-sarpy-peter-a-bellevue-2",
+    "nom": "Bellevue (Nebraska) : Peter A. Sarpy",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Bellevue (Nebraska), 1854. Peter A. Sarpy aide à tracer les villes de Bellevue et de Decatur. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), Traders' Point (Iowa, face à Bellevue), poste Saint Mary (Iowa), Plattsmouth (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70-71 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=SARPY",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.88,
+     41.01
+    ]
+   },
+   "properties": {
+    "id": "NM-sarpy-peter-a-plattsmout",
+    "nom": "Plattsmouth (Nebraska) : Peter A. Sarpy",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1865.999,
+    "date_edtf": "1862/1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Plattsmouth (Nebraska), 1862-1865. Peter A. Sarpy s'installe à Plattsmouth et y meurt en janvier 1865. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), Bellevue (Nebraska), Traders' Point (Iowa, face à Bellevue), poste Saint Mary (Iowa).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 67, 70-71 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=SARPY",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-fontenelle-lucien-bellevue",
+    "nom": "Bellevue (Nebraska) : Lucien Fontenelle",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1840.999,
+    "date_edtf": "1828/1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Bellevue (Nebraska), 1828-1840. Lucien Fontenelle acquiert le poste de la Missouri Fur Company et vit à Bellevue avec son épouse omaha jusqu'à sa mort au printemps 1840. D'après Morton (1905). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 66, 71-72, 90 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=FONTENELLE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "NM-fontenelle-lucien-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Lucien Fontenelle",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1835. Lucien Fontenelle conduit vers l'ouest la caravane de l'American Fur Company, accompagnée des missionnaires. D'après Morton (1905). Autres lieux de l'entrée : Bellevue (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 66, 71-72, 90 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=FONTENELLE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     41.37
+    ]
+   },
+   "properties": {
+    "id": "NM-la-barge-joseph-poste-de-c",
+    "nom": "Poste de Cabanné (au-dessus d'Omaha) : Joseph la Barge",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Barge"
+    ],
+    "description": "Poste de Cabanné (au-dessus d'Omaha), 1833. Joseph la Barge entre à l'American Fur Company au poste de Cabanné. D'après Morton (1905). Autres lieux de l'entrée : Bellevue (Nebraska), poste Saint Mary (Iowa).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 101-102 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=LA+BARGE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-la-barge-joseph-bellevue",
+    "nom": "Bellevue (Nebraska) : Joseph la Barge",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph la Barge"
+    ],
+    "description": "Bellevue (Nebraska), 1834. Joseph la Barge est engagé par Sarpy. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), poste Saint Mary (Iowa).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 101-102 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=LA+BARGE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-la-barge-joseph-bellevue-2",
+    "nom": "Bellevue (Nebraska) : Joseph la Barge",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1845.999,
+    "date_edtf": "1843/1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph la Barge"
+    ],
+    "description": "Bellevue (Nebraska), 1843-1845. Joseph la Barge fait échapper son vapeur Omega à l'inspection de l'alcool à l'agence de Bellevue. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), poste Saint Mary (Iowa).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 101-102 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=LA+BARGE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.83,
+     40.98
+    ]
+   },
+   "properties": {
+    "id": "NM-la-barge-joseph-saint-mary",
+    "nom": "Poste Saint Mary (Iowa) : Joseph la Barge",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Barge"
+    ],
+    "description": "Poste Saint Mary (Iowa), 1854. Joseph la Barge baptise le vapeur St. Mary du nom du poste de Sarpy. D'après Morton (1905). Autres lieux de l'entrée : poste de Cabanné (au-dessus d'Omaha), Bellevue (Nebraska).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 101-102 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=LA+BARGE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.36,
+     42.11
+    ]
+   },
+   "properties": {
+    "id": "NM-la-flesche-joseph-iron-eye-reserve-om",
+    "nom": "Réserve des Omahas (Macy, Nebraska) : Joseph la Flesche (Iron Eye)",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Flesche (Iron Eye)"
+    ],
+    "description": "Réserve des Omahas (Macy, Nebraska), vers 1852. Joseph la Flesche (Iron Eye) est fils d'un père français et devient chef des Omahas. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 52 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=LA+FLESCHE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NM-fontenelle-logan-bellevue",
+    "nom": "Bellevue (Nebraska) : Logan Fontenelle",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "evenement",
+    "debut": 1853.0,
+    "fin": 1855.999,
+    "date_edtf": "1853/1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Logan Fontenelle"
+    ],
+    "description": "Bellevue (Nebraska), 1853-1855. Logan Fontenelle devient chef des Omahas, est tué par les Sioux en 1855 et inhumé à Bellevue. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 68 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=FONTENELLE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.36,
+     42.11
+    ]
+   },
+   "properties": {
+    "id": "NM-fontenelle-henry-reserve-om",
+    "nom": "Réserve des Omahas (Macy, Nebraska) : Henry Fontenelle",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1899.999,
+    "date_edtf": "1855/1899",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henry Fontenelle"
+    ],
+    "description": "Réserve des Omahas (Macy, Nebraska), 1855-1899. Henry Fontenelle, né à Bellevue, suit les Omahas dans leur réserve, y est interprète et fermier du gouvernement, et y meurt le 26 avril 1899. D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 42 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=FONTENELLE",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.95,
+     41.1
+    ]
+   },
+   "properties": {
+    "id": "NM-beauvais-x-ranch-beau",
+    "nom": "Ranch Beauvais (gué de Californie, Platte) : Beauvais",
+    "corpus": "archive.org · Morton (1905)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Beauvais"
+    ],
+    "description": "Ranch Beauvais (gué de Californie, Platte), 1859. Beauvais, né à Saint-Louis, tient un poste au vieux gué de Californie sur la Platte, le « ranch de Beauvais ». D'après Morton (1905).",
+    "sources": "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905), p. 80 ; texte intégral : archive.org, cu31924092232747.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Morton (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924092232747?q=BEAUVAIS",
+      "texte": "Lire Morton (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     41.37
+    ]
+   },
+   "properties": {
+    "id": "NT-cabanne-j-p-poste-de-c",
+    "nom": "Poste de Cabanné (au-dessus d'Omaha) : J. P. Cabanné",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1839.999,
+    "date_edtf": "1838/1839",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. P. Cabanné"
+    ],
+    "description": "Poste de Cabanné (au-dessus d'Omaha), 1838-1839. J. P. Cabanné voit son poste, à environ dix milles au-dessus d'Omaha, décrit par le père De Smet. D'après NSHS (1885).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 43 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=CABANNÉ",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.17,
+     39.47
+    ]
+   },
+   "properties": {
+    "id": "NT-la-barge-joseph-cow-island",
+    "nom": "Île aux Vaches (Cow Island, Missouri) : Joseph la Barge",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Barge"
+    ],
+    "description": "Île aux Vaches (Cow Island, Missouri), vers 1827. Joseph la Barge nomme le camp Crogan, à l'île aux Vaches. D'après NSHS (1885). Autres lieux de l'entrée : Council Bluff et fort Atkinson (Fort Calhoun).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 43 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=LA+BARGE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.03,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "NT-la-barge-joseph-fort-atkin",
+    "nom": "Council Bluff et fort Atkinson (Fort Calhoun) : Joseph la Barge",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "poste",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Barge"
+    ],
+    "description": "Council Bluff et fort Atkinson (Fort Calhoun), 1867. Joseph la Barge confirme avec son frère John l'emplacement du fort Atkinson près de Fort Calhoun. D'après NSHS (1885). Autres lieux de l'entrée : île aux Vaches (Cow Island, Missouri).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 43 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=LA+BARGE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.03,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "NT-la-barge-john-fort-atkin",
+    "nom": "Council Bluff et fort Atkinson (Fort Calhoun) : John la Barge",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "poste",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "John la Barge"
+    ],
+    "description": "Council Bluff et fort Atkinson (Fort Calhoun), 1867. John la Barge confirme avec son frère Joseph l'emplacement du fort Atkinson. D'après NSHS (1885).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 43 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=LA+BARGE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NT-fontenelle-lucien-bellevue",
+    "nom": "Bellevue (Nebraska) : Lucien Fontenelle",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1840.999,
+    "date_edtf": "1828/1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Bellevue (Nebraska), 1828-1840. Lucien Fontenelle s'établit à Bellevue et y épouse une Omaha. D'après NSHS (1885).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 91 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=FONTENELLE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NT-fontenelle-logan-bellevue",
+    "nom": "Bellevue (Nebraska) : Logan Fontenelle",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Logan Fontenelle"
+    ],
+    "description": "Bellevue (Nebraska), 1855. Logan Fontenelle est inhumé à Bellevue. D'après NSHS (1885).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 81 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=FONTENELLE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.36,
+     42.11
+    ]
+   },
+   "properties": {
+    "id": "NT-fontenelle-henry-reserve-om",
+    "nom": "Réserve des Omahas (Macy, Nebraska) : Henry Fontenelle",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henry Fontenelle"
+    ],
+    "description": "Réserve des Omahas (Macy, Nebraska), 1857. Henry Fontenelle rédige un manuscrit sur la langue omaha. D'après NSHS (1885). Autres lieux de l'entrée : Decatur (Nebraska).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 57, 76 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=FONTENELLE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.25,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "NT-fontenelle-henry-decatur-ne",
+    "nom": "Decatur (Nebraska) : Henry Fontenelle",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1884.0,
+    "fin": 1884.0,
+    "date_edtf": "1884",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Fontenelle"
+    ],
+    "description": "Decatur (Nebraska), 1884. Henry Fontenelle est interprète à Decatur et écrit l'histoire de la tribu omaha. D'après NSHS (1885). Autres lieux de l'entrée : réserve des Omahas (Macy, Nebraska).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 57, 76 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=FONTENELLE",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NT-sarpy-peter-a-bellevue",
+    "nom": "Bellevue (Nebraska) : Peter A. Sarpy",
+    "corpus": "archive.org · NSHS (1885)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1854.999,
+    "date_edtf": "1833/1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Bellevue (Nebraska), 1833-1854. Peter A. Sarpy tient à Bellevue le poste où se négocient les traités avec les nations voisines. D'après NSHS (1885).",
+    "sources": "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885), p. 119 ; texte intégral : archive.org, transactionsrepo00nebr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "NSHS (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/transactionsrepo00nebr?q=SARPY",
+      "texte": "Lire NSHS (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "NP-lisa-manuel-bellevue",
+    "nom": "Bellevue (Nebraska) : Manuel Lisa",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Manuel Lisa"
+    ],
+    "description": "Bellevue (Nebraska), 1805. Manuel Lisa donnerait, selon la tradition, son nom de « belle vue » au site de Bellevue. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 124 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=LISA",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.82,
+     41.8
+    ]
+   },
+   "properties": {
+    "id": "NP-roubedeau-antoine-robidoux-p",
+    "nom": "Col de Robidoux (Scotts Bluff) : Antoine Roubedeau",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Roubedeau"
+    ],
+    "description": "Col de Robidoux (Scotts Bluff), vers 1850. Antoine Roubedeau est un traiteur français qui laisse son nom au col et au bureau de poste de Roubedeau. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 130 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=ROUBEDEAU",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.88,
+     42.82
+    ]
+   },
+   "properties": {
+    "id": "NP-bordeaux-pierre-poste-bord",
+    "nom": "Poste de Bordeaux (ruisseau Bordeaux, Chadron) : Pierre Bordeaux",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Bordeaux"
+    ],
+    "description": "Poste de Bordeaux (ruisseau Bordeaux, Chadron), vers 1846. Pierre Bordeaux est un trappeur français qui laisse son nom au ruisseau et à la localité de Bordeaux. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 49 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=BORDEAUX",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.0,
+     42.83
+    ]
+   },
+   "properties": {
+    "id": "NP-chadron-pierre-chadron",
+    "nom": "Chadron (Nebraska) : Pierre Chadron",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chadron"
+    ],
+    "description": "Chadron (Nebraska), vers 1840. Pierre Chadron est un traiteur franco-indien qui laisse son nom à la ville de Chadron, tracée en 1885. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 49 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=CHADRON",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.58,
+     40.22
+    ]
+   },
+   "properties": {
+    "id": "NP-barada-antoine-barada",
+    "nom": "Barada (comté de Richardson) : Antoine Barada",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1887.999,
+    "date_edtf": "1856/1887",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Barada"
+    ],
+    "description": "Barada (comté de Richardson), 1856-1887. Antoine Barada est un Franco-Omaha né en 1807 qui donne son nom au village de Barada et y meurt en 1887. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 119 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=BARADA",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.43,
+     40.05
+    ]
+   },
+   "properties": {
+    "id": "NP-rouleau-charles-rulo",
+    "nom": "Rulo (comté de Richardson) : Charles Rouleau",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Rouleau"
+    ],
+    "description": "Rulo (comté de Richardson), 1857. Charles Rouleau voit la ville de Rulo, tracée en 1857, porter le nom de son épouse. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 120 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=ROULEAU",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.42,
+     41.55
+    ]
+   },
+   "properties": {
+    "id": "NP-fontenelle-logan-fontanelle",
+    "nom": "Fontanelle (comté de Washington) : Logan Fontenelle",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Logan Fontenelle"
+    ],
+    "description": "Fontanelle (comté de Washington), 1854. Logan Fontenelle donne son nom à Fontanelle, colonisée en 1854. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 143 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=FONTENELLE",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.87,
+     40.52
+    ]
+   },
+   "properties": {
+    "id": "NP-bahaud-julian-julian-neb",
+    "nom": "Julian (comté de Nemaha) : Julian Bahaud",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "evenement",
+    "debut": 1899.0,
+    "fin": 1899.0,
+    "date_edtf": "1899",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julian Bahaud"
+    ],
+    "description": "Julian (comté de Nemaha), 1899. Julian Bahaud est un riche célibataire français qui donne son nom à Julian et y est assassiné en juin 1899. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 106 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=BAHAUD",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.9,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "NP-le-blanc-g-a-le-blanc-k",
+    "nom": "Le Blanc (comté de Knox) : G. A. Le Blanc",
+    "corpus": "archive.org · Fitzpatrick (1925)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "G. A. Le Blanc"
+    ],
+    "description": "Le Blanc (comté de Knox), vers 1890. G. A. Le Blanc tient le magasin et le bureau de poste de Le Blanc. D'après Fitzpatrick (1925).",
+    "sources": "Lilian L. Fitzpatrick, Nebraska Place-Names (1925), p. 89 ; texte intégral : archive.org, bwb_P8-BLU-581.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fitzpatrick (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bwb_P8-BLU-581?q=LE+BLANC",
+      "texte": "Lire Fitzpatrick (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
