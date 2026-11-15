@@ -545,3 +545,12 @@ G.update({
  'Rivière aux Bœufs': (-91.0, 39.4, 'h', "rivière aux Bœufs"),
  'Rivière Castor': (-90.0, 37.0, 'a', "rivière Castor (comté de Stoddard)"),
 })
+G.update({
+ 'Sink-hole (Cap au Gris)': (-90.82, 39.08, 'a', "le Sink-hole, près du fort du Cap au Gris"),
+ 'Fort Madison': (-91.33, 40.63, 'c', "Fort Madison (Iowa)"),
+ 'Hot Springs (Arkansas)': (-93.055, 34.51, 'c', "Hot Springs (Arkansas)"),
+ 'Tywappity': (-89.40, 37.10, 'a', "fond de Tywappity (comté de Scott)"),
+ 'Fort Osage': (-94.19, 39.19, 'c', "fort Osage (Sibley)"),
+ 'Brunswick (Missouri)': (-93.13, 39.42, 'c', "Brunswick (Missouri)"),
+ 'Potosi': (-90.79, 37.94, 'c', "Potosi (comté de Washington)"),
+})

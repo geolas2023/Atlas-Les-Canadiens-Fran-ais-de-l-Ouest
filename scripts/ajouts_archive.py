@@ -59,6 +59,10 @@ LIVRES = [
      {'court': 'Houck (1908), vol. 1',
       'ref': "Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 1"},
      'historyofmissour01houc', lambda nom, ref: ref),
+    ('houck_1908_v3.txt', 'H3',
+     {'court': 'Houck (1908), vol. 3',
+      'ref': "Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 3"},
+     'historyofmissour03houc', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
