@@ -131,6 +131,10 @@ LIVRES = [
      {'court': 'Cadillac Papers (1905)',
       'ref': "Burton, C. M. (éd.) (1905), « Cadillac Papers » (suite), « Cadillac's Records » et « Detroit Rulers », Michigan Pioneer and Historical Collections, vol. 34, Lansing"},
      'michiganhistoric34michuoft', lambda nom, ref: ref),
+    ('ross_catlin_1898.txt', 'RC',
+     {'court': 'Ross et Catlin (1898)',
+      'ref': "Ross, Robert B., et George B. Catlin (1898), Landmarks of Detroit: a History of the City, Détroit, Evening News Association"},
+     'landmarksofdetr00ross', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
