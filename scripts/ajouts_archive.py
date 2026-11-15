@@ -123,6 +123,10 @@ LIVRES = [
      {'court': 'Hamlin (1884)',
       'ref': "Hamlin, Marie Caroline Watson (1884), Legends of le Détroit, Détroit, Thorndike Nourse"},
      'legendsofledtr00haml', lambda nom, ref: ref),
+    ('mphc_1904_v33.txt', 'CP',
+     {'court': 'Cadillac Papers (1904)',
+      'ref': "Burton, C. M. (éd.) (1904), « Cadillac Papers », Michigan Pioneer and Historical Collections, vol. 33, Lansing"},
+     'michiganhistoric33michuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

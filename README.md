@@ -147,6 +147,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Ross, *The Fur Hunters of the Far West* (1855), 2 vol. | `cihm_40228`, `cihm_40229` | 12 |
 | Burton, *Cadillac's Village, or Detroit under Cadillac* (1896) : lots du village et répertoire des habitants, 1701-1710 | `cadillacsvillage00burt` | 151 |
 | Hamlin, *Legends of le Détroit* (1884) : légendes situées et notice des anciennes familles françaises | `legendsofledtr00haml` | 58 |
+| « Cadillac Papers », *Michigan Pioneer and Historical Collections*, vol. 33 (1904) | `michiganhistoric33michuoft` | 62 |
 
 
 ## Un point par lieu et adresses précises
