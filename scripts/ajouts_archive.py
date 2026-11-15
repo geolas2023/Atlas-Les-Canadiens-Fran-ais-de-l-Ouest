@@ -71,6 +71,14 @@ LIVRES = [
      {'court': 'Houck (1909), Spanish Regime, vol. 2',
       'ref': "Houck, Louis (1909), The Spanish Regime in Missouri: A Collection of Papers and Documents Relating to Upper Louisiana, Chicago, R. R. Donnelley, vol. 2"},
      'spanishregimeinm02houc', lambda nom, ref: ref),
+    ('chittenden_1902_v1.txt', 'CH',
+     {'court': 'Chittenden (1902), vol. 1',
+      'ref': "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1"},
+     'americanfurtrade01chit', lambda nom, ref: ref),
+    ('chittenden_1902_v2.txt', 'CI',
+     {'court': 'Chittenden (1902), vol. 2-3',
+      'ref': "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3"},
+     'americanfurtrade00chit_0', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
