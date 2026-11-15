@@ -21,14 +21,15 @@ const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633
                  'Nouvelle-Angleterre': { libelle: 'Nouvelle-Angleterre : filatures (Vermette, MacDonald, Belisle)', trait: '#7f8c8d' },
                  "Piste de l'Oregon": { libelle: "La piste de l'Oregon (Bergeron)", trait: '#8e44ad' },
                  'Atlas Iberville': { libelle: "Atlas Iberville (renvois)", trait: '#2a7f7a' },
-                 'Atlas Jolliet': { libelle: "Atlas Jolliet (renvois)", trait: '#7a4f1d' } };
+                 'Atlas Jolliet': { libelle: "Atlas Jolliet (renvois)", trait: '#7a4f1d' },
+                 'Atlas Robidoux': { libelle: "Atlas Robidoux (renvois)", trait: '#2f4d63' } };
 // Arborescence du filtre « Corpus » : groupes repliables (un corpus absent de la liste va dans « Autres sources »)
 const GROUPES_CORPUS = [
   ['Témoignages et recherches', ['Cragin', 'Recherches']],
   ['Hafen et les montagnards', ['Hafen', 'Hafen MM']],
   ['Ouvrages de synthèse', ['Tassé', 'Atlas historique du Québec', 'Franco-Amérique', 'Nouvelle-France']],
   ['Régions', ['Illinois français', 'Nouvelle-Angleterre', "Piste de l'Oregon"]],
-  ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville', 'Atlas Jolliet']]
+  ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville', 'Atlas Jolliet', 'Atlas Robidoux']]
 ];
 // Vue d'ouverture de l'accueil du réseau : les États-Unis et le Canada (du Pacifique à l'Atlantique, du golfe du Mexique à la baie James)
 const VUE_ACCUEIL = [[-128, 24], [-62, 58]];
@@ -310,7 +311,7 @@ function afficherFiche(id, depuisListe = null) {
     ${depuisListe ? '<button class="retour" id="retour">← retour à la liste</button>' : ''}
     <h2>${esc(p.nom)}</h2>
     <div>
-      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' || p.corpus === 'Atlas Iberville' || p.corpus === 'Atlas Jolliet' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
+      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' || p.corpus === 'Atlas Iberville' || p.corpus === 'Atlas Jolliet' || p.corpus === 'Atlas Robidoux' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
       <span class="badge" style="background:${coulTheme};color:#fff">${esc(LIBELLES[p.theme] || p.theme)}</span>
       <span class="badge ${esc(p.certitude)}">localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
     </div>
@@ -489,7 +490,7 @@ async function chargerReseau() {
         ${a.ici ? '' : `<p><a class="ouvrir-atlas" href="${esc(lien)}">${prep ? 'Voir le dossier →' : "Ouvrir l'atlas →"}</a></p>`}</details>`;
     };
     const groupe = (type, titre) => { const as = reg.atlas.filter(a => a.type === type); return as.length ? `<p class="mini">${titre}</p>` + as.map(carte1).join('') : ''; };
-    $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages');
+    $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages') + groupe('famille', 'Atlas de familles');
   } catch (e) { console.warn('Registre des atlas indisponible', e); }
   ACCUEIL = $('#panneau').innerHTML;
 }

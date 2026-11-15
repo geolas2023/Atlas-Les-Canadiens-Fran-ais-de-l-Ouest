@@ -168,6 +168,31 @@
       "pages": []
     },
     {
+      "id": "robidoux",
+      "type": "famille",
+      "statut": "en_ligne",
+      "titre": {
+        "fr": "Atlas Robidoux",
+        "en": "Robidoux Atlas"
+      },
+      "sous_titre": {
+        "fr": "La famille Robidoux (1720-1876)",
+        "en": "The Robidoux family (1720-1876)"
+      },
+      "description": {
+        "fr": "De Montréal à Saint-Louis, puis de Saint-Joseph (Missouri) à Santa Fe, Taos, aux forts Uncompahgre et Uintah et à la Californie : quatre générations de traiteurs canadiens-français, d'après Billon, Houck, Tassé, Chittenden, Hafen et les carnets de Cragin.",
+        "en": "From Montreal to St. Louis, then from St. Joseph (Missouri) to Santa Fe, Taos, Forts Uncompahgre and Uintah and California: four generations of French-Canadian traders, after Billon, Houck, Tassé, Chittenden, Hafen and the Cragin notebooks."
+      },
+      "url": "https://geolas2023.github.io/Les-Robidoux/",
+      "url_en": null,
+      "donnees": "data/lieux.geojson",
+      "exclure_corpus": [],
+      "lien_fiche": "index.html#lieu={id}",
+      "couleur": "#2f4d63",
+      "periode": "1720-1876",
+      "pages": []
+    },
+    {
       "id": "provost",
       "type": "personnage",
       "statut": "en_preparation",

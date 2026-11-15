@@ -11,6 +11,8 @@ IBERVILLE = 'https://geolas2023.github.io/Atlas-Iberville/'
 IBERVILLE_LOCAL = os.environ.get('IBERVILLE', '/home/claude/atlas-iberville')  # clone local de l'Atlas Iberville
 JOLLIET = 'https://geolas2023.github.io/Atlas-Jolliett/'
 JOLLIET_LOCAL = os.environ.get('JOLLIET', '/home/claude/atlas-jolliett-depot')  # clone local de l'Atlas Jolliet
+ROBIDOUX = 'https://geolas2023.github.io/Les-Robidoux/'
+ROBIDOUX_LOCAL = os.environ.get('ROBIDOUX', '/home/claude/les-robidoux')  # clone local de l'Atlas Robidoux
 THEME_IB = {'combat': 'evenement', 'escale': 'exploration', 'decouverte': 'exploration', 'port': 'poste', 'fondation': 'etablissement',
             'vie': 'personnage', 'naissance': 'famille', 'concession': 'etablissement', 'mort': 'evenement'}
 TXT_FICHE = "Fiche complète dans l'Atlas Aubry →"
@@ -85,5 +87,22 @@ if os.path.exists(fic):
             "sources": f"Atlas Jolliet, fiche {q['id']} (d'après Gagnon, Louis Jolliet, 1913 ; Récit du P. Marquette ; BAnQ).", "note": "",
             "renvoi": True, "voir_aussi": [{"url": f"{JOLLIET}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Jolliet →"}]}})
         nj += 1
+# Atlas Robidoux : renvois courts R-Lxx
+MEMBRES_ROB = {'joseph1': 'Joseph Robidoux (v. 1720-1771)', 'joseph2': 'Joseph Robidoux (v. 1750-1809)', 'joseph3': 'Joseph Robidoux (1783-1868)',
+               'antoine': 'Antoine Robidoux', 'louis': 'Louis Robidoux', 'freres': 'François et Michel Robidoux', 'jules': 'Jules Robidoux', 'famille': 'Famille Robidoux'}
+nb = 0
+fic = f'{ROBIDOUX_LOCAL}/data/lieux.geojson'
+if os.path.exists(fic):
+    d['features'] = [f for f in d['features'] if f['properties']['corpus'] != 'Atlas Robidoux']
+    for f0 in json.load(open(fic, encoding='utf-8'))['features']:
+        q = f0['properties']
+        d['features'].append({"type": "Feature", "geometry": f0['geometry'], "properties": {
+            "id": f"R-{q['id']}", "nom": q['nom'], "corpus": "Atlas Robidoux", "theme": 'evenement',
+            "debut": float(q['debut']), "fin": float(q.get('fin') or q['debut']), "date_edtf": q.get('date_edtf', ''),
+            "precision": q.get('precision', ''), "certitude": q.get('certitude', 'approximative'),
+            "personnages": [MEMBRES_ROB.get(q.get('categorie'), 'Famille Robidoux')], "description": premiere_phrase(q.get('description')),
+            "sources": f"Atlas Robidoux, fiche {q['id']} ({q.get('sources', '')})", "note": "",
+            "renvoi": True, "voir_aussi": [{"url": f"{ROBIDOUX}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Robidoux →"}]}})
+        nb += 1
 json.dump(d, open(f'{R}/data/lieux.geojson', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi ; {ni} renvois Iberville ; {nj} renvois Jolliet')
+print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi ; {ni} renvois Iberville ; {nj} renvois Jolliet ; {nb} renvois Robidoux')

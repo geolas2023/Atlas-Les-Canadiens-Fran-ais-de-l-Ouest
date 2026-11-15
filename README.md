@@ -95,13 +95,13 @@ Les carnets de Cragin rapportent des souvenirs recueillis des décennies après 
 
 ## Hub entre les atlas : Atlas de l'Amérique française
 
-Cet atlas est l'**accueil du réseau** « Atlas de l'Amérique française » : le panneau d'accueil présente les atlas du réseau d'après le registre `data/atlas.json` (une entrée par atlas : titre, description, adresse, couleur, pages ; `ici: true` pour cet atlas), et le bouton « ⚜ Les atlas » de l'en-tête y ramène. Les atlas de personnages (Aubry, Iberville) apparaissent sur la carte sous forme de renvois courts (`A-Lxx`, `I-Lxx`). L'ancienne adresse du portail (Atlas-de-l-Am-rique-fran-aise) redirige ici.
+Cet atlas est l'**accueil du réseau** « Atlas de l'Amérique française » : le panneau d'accueil présente les atlas du réseau d'après le registre `data/atlas.json` (une entrée par atlas : titre, description, adresse, couleur, pages ; `ici: true` pour cet atlas), et le bouton « ⚜ Les atlas » de l'en-tête y ramène. Les atlas de personnages et de familles (Aubry, Iberville, Jolliet, Robidoux) apparaissent sur la carte sous forme de renvois courts (`A-Lxx`, `I-Lxx`, `J-Lxx`, `R-Lxx`). L'ancienne adresse du portail (Atlas-de-l-Am-rique-fran-aise) redirige ici.
 
 Chaque fiche vit dans un seul atlas ; les autres y renvoient par un lien profond, sans recopier le contenu. Les adresses des pages et les identifiants des fiches ne changent pas.
 
 - Champ commun `voir_aussi` : liste de `{"url": …, "texte": …}`, affichée en boutons dans la fiche (les deux atlas).
 - Liens profonds : `Atlas-Aubry/index.html#lieu=L78` ; `Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/index.html#AH-sf08` ; `montagnards.html#p=H6-371` ; `salle.html#vasquez`.
-- `scripts/hub.py` réduit le corpus Atlas Aubry à des renvois, crée les renvois de l'Atlas Iberville depuis un clone local (variable `IBERVILLE`) et pose les renvois des autres fiches (`VOIR_AUSSI`).
+- `scripts/hub.py` réduit le corpus Atlas Aubry à des renvois, crée les renvois des Atlas Iberville, Jolliet et Robidoux depuis leurs clones locaux (variables `IBERVILLE`, `JOLLIET`, `ROBIDOUX`) et pose les renvois des autres fiches (`VOIR_AUSSI`).
 - Chaîne de production : `build.py` → `ajouts_2026_11.py` → `ajouts_2026_11b.py` → `hub.py` → `page_provost.py`.
 - Pour un nouvel atlas de personnage : lui donner le même champ `voir_aussi` et un lien d'en-tête vers les autres atlas, puis ajouter ses renvois dans `hub.py`.
 
