@@ -135,6 +135,14 @@ LIVRES = [
      {'court': 'Ross et Catlin (1898)',
       'ref': "Ross, Robert B., et George B. Catlin (1898), Landmarks of Detroit: a History of the City, Détroit, Evening News Association"},
      'landmarksofdetr00ross', lambda nom, ref: ref),
+    ('andreas_1884.txt', 'AN',
+     {'court': 'Andreas (1884)',
+      'ref': "Andreas, A. T. (1884), History of Chicago from the Earliest Period to the Present Time, Chicago, vol. 1"},
+     'historyofchicago01andr', lambda nom, ref: ref),
+    ('kankakee_1892.txt', 'KK',
+     {'court': 'Kankakee (1892)',
+      'ref': "Portrait and Biographical Record of Kankakee County, Illinois (1892), Chicago, Lake City Publishing Co."},
+     'portraitbiographica00lake', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
