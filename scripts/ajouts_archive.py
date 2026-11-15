@@ -152,6 +152,8 @@ LIVRES = [
     ('idaho_rees_1918.txt', 'IR', {'court': 'Rees (1918)', 'ref': "John E. Rees, Idaho Chronology, Nomenclature, Bibliography (1918)"}, 'idahochronologyn00reesrich', lambda nom, ref: ref),
     ('idaho_brosnan_1918.txt', 'IB', {'court': 'Brosnan (1918)', 'ref': "Cornelius J. Brosnan, History of the State of Idaho (1918)"}, 'historyofstateof00bros', lambda nom, ref: ref),
     ('idaho_northidaho_1903.txt', 'IN', {'court': 'North Idaho (1903)', 'ref': "An Illustrated History of North Idaho (1903), Western Historical Publishing Co."}, 'illustratedhisto00slwe', lambda nom, ref: ref),
+    ('idaho_driggs_1926.txt', 'ID', {'court': 'Driggs (1926)', 'ref': "B. W. Driggs, History of Teton Valley, Idaho (1926)"}, 'driggs', lambda nom, ref: ref),
+    ('idaho_hawley_1920.txt', 'IH', {'court': 'Hawley (1920)', 'ref': "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920)"}, 'historyofidahoge01hawl', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -744,7 +744,16 @@ G.update({
     'White Bird': (-116.3, 45.76, 'c', "White Bird (rivière au Saumon, Idaho)"),
     'John Day Creek (Salmon)': (-116.32, 45.65, 'h', "ruisseau John Day (rivière au Saumon, Idaho)"),
     'Grangeville': (-116.12, 45.93, 'c', "Grangeville (Idaho)"),
+    'Fort Henry (Idaho)': (-111.7, 43.97, 'a', "vieux fort Henry (Saint-Anthony, Idaho)"),
+    'Lac Henry': (-111.38, 44.62, 'h', "lac Henry (Idaho)"),
+    'Menan Buttes': (-111.98, 43.77, 'a', "buttes de Menan (Idaho)"),
+    'Vallée de la Lemhi': (-113.6, 44.9, 'h', "vallée de la Lemhi (Idaho)"),
+    'Col Lemhi': (-113.44, 44.97, 'a', "col Lemhi (Idaho-Montana)"),
+    'Soda Springs': (-111.6, 42.65, 'c', "Soda Springs (Beer Springs, Idaho)"),
+    'Clark Fork (Idaho)': (-116.2, 48.15, 'h', "rivière Clark Fork (Pend Oreille, Idaho)"),
+    'Boise (ville)': (-116.2, 43.615, 'c', "Boise (Idaho)"),
 })
+
 
 
 
