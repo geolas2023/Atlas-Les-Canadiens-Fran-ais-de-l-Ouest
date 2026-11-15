@@ -27,6 +27,10 @@ LIVRES = [
      {'court': 'Billon (1886)',
       'ref': "Billon, Frederic L. (1886), Annals of St. Louis in its Early Days under the French and Spanish Dominations, Saint-Louis"},
      'cihm_00427', lambda nom, ref: ref),
+    ('hamon_1891.txt', 'HA',
+     {'court': 'Hamon (1891)',
+      'ref': "Hamon, Édouard (1891), Les Canadiens-français de la Nouvelle-Angleterre, Québec, N.-S. Hardy"},
+     'cihm_39098', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
