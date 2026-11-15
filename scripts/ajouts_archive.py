@@ -148,6 +148,7 @@ LIVRES = [
     ('nebraska_placenames_1925.txt', 'NP', {'court': 'Fitzpatrick (1925)', 'ref': "Lilian L. Fitzpatrick, Nebraska Place-Names (1925)"}, 'bwb_P8-BLU-581', lambda nom, ref: ref),
     ('nebraska_dakota_1893.txt', 'ND', {'court': 'Warner (1893)', 'ref': "M. M. Warner, Warner's History of Dakota County, Nebraska (1893)"}, 'cu31924028874141', lambda nom, ref: ref),
     ('nebraska_reminiscences_1916.txt', 'NR', {'court': 'DAR (1916)', 'ref': "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916)"}, 'collectionofnebr00daug', lambda nom, ref: ref),
+    ('nebraska_andreas_1882.txt', 'NB', {'court': 'Andreas (1882)', 'ref': "A. T. Andreas (éd.), History of the State of Nebraska (1882), Chicago, Western Historical Company"}, 'https://kancoll.org/books/andreas_ne/hon_tabl.html', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
