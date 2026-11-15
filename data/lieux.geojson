@@ -164216,6 +164216,788 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -79.9,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-lake-nipis",
+    "nom": "Lac Nipissing : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Lac Nipissing, 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, franchit une série de portages en route vers le Nord-Ouest avec la brigade de Colin Robertson. D'après Dugas (1890). Autres lieux de l'entrée : lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.4,
+     45.3
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-lake-huron",
+    "nom": "Lac Huron : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Lac Huron, 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, descend la rivière des Français jusqu'au lac. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "poste",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Fort William (lac Supérieur), 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, passe au grand poste de la Compagnie du Nord-Ouest. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5,
+     52.0
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-lake-winni",
+    "nom": "Lac Winnipeg : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Lac Winnipeg, 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, séjourne une semaine au poste avant la dispersion de la brigade. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.91
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-fort-dougl",
+    "nom": "Fort Douglas (Rivière-Rouge) : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "poste",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Fort Douglas (Rivière-Rouge), 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, rejoint la colonie de lord Selkirk avec Robertson. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3,
+     51.6
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-pointe-au-",
+    "nom": "Pointe-au-Sable (lac Winnipeg) : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Pointe-au-Sable (lac Winnipeg), 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, attend seul sur la grève le retour de ses compagnons. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.3,
+     57.0
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-york-facto",
+    "nom": "York Factory : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "York Factory, 1815. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, atteint la côte de la baie d'Hudson en août. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     55.45
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-ile-a-la-c",
+    "nom": "Île-à-la-Crosse : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1830.999,
+    "date_edtf": "1815/1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Île-à-la-Crosse, 1815-1830. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, sert quinze ans au fort et y est fait prisonnier lors d'un bal en 1817. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     55.1
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-lac-la-ron",
+    "nom": "Lac la Ronge : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Lac la Ronge, 1817. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, est abandonné avec ses compagnons sur une île du lac. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.5,
+     59.1
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-lake-athab",
+    "nom": "Lac Athabasca : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Lac Athabasca, 1817. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, fait le voyage d'hiver avec Joseph Adam. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.0,
+     64.0
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-mackenzie-",
+    "nom": "Fleuve Mackenzie : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Fleuve Mackenzie, vers 1825. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, descend le grand fleuve. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.887
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-fort-garry",
+    "nom": "Fort Garry : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "poste",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Fort Garry, 1830. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, s'installe près de la Rivière-Rouge pour cultiver. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-saint-boni",
+    "nom": "Saint-Boniface : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Saint-Boniface, 1832. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, travaille comme maçon à la cathédrale de Mgr Provencher. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.3,
+     45.5
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-minnesota",
+    "nom": "Minnesota : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Minnesota, 1860. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, chasse et pêche sans se fixer longtemps. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1,
+     44.55
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-redwood-mi",
+    "nom": "Bois-Rouge (rivière Saint-Pierre, Minnesota) : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Bois-Rouge (rivière Saint-Pierre, Minnesota), 1862. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, est capturé par les Sioux le 19 août au début du soulèvement. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9,
+     45.03
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-lac-qui-pa",
+    "nom": "Lac-qui-Parle : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Lac-qui-Parle, 1862. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, est conduit au camp sioux puis libéré par les troupes américaines. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Saint-Boniface, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota).",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-saint-boni-2",
+    "nom": "Saint-Boniface : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Saint-Boniface, 1865. Jean-Baptiste Charbonneau, né en 1795 à Boucherville. Devenu aveugle, il est recueilli à l'archevêché. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-jean-baptiste-saint-boni-3",
+    "nom": "Saint-Boniface : Jean-Baptiste Charbonneau",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1883.0,
+    "date_edtf": "1883",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Saint-Boniface, 1883. Jean-Baptiste Charbonneau, né en 1795 à Boucherville, meurt à quatre-vingt-huit ans. D'après Dugas (1890). Autres lieux de l'entrée : lac Nipissing, lac Huron, fort William (lac Supérieur), lac Winnipeg, fort Douglas (Rivière-Rouge), Pointe-au-Sable (lac Winnipeg), York Factory, Île-à-la-Crosse, lac la Ronge, lac Athabasca, fleuve Mackenzie, fort Garry, Minnesota, Bois-Rouge (rivière Saint-Pierre, Minnesota), Lac-qui-Parle.",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 15-139 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=CHARBONNEAU",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1,
+     44.55
+    ]
+   },
+   "properties": {
+    "id": "DV-lacroix-x-bois-rouge-redwood-mi",
+    "nom": "Bois-Rouge (rivière Saint-Pierre, Minnesota) : Lacroix (Bois-Rouge)",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lacroix (Bois-Rouge)"
+    ],
+    "description": "Bois-Rouge (rivière Saint-Pierre, Minnesota), 1862. Lacroix (Bois-Rouge) fuit vers le fort Ridgely au début du soulèvement sioux. D'après Dugas (1890).",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 135 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=LACROIX",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1,
+     44.55
+    ]
+   },
+   "properties": {
+    "id": "DV-mallet-x-bois-rouge-redwood-mi",
+    "nom": "Bois-Rouge (rivière Saint-Pierre, Minnesota) : Mallet (Bois-Rouge)",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "evenement",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Mallet (Bois-Rouge)"
+    ],
+    "description": "Bois-Rouge (rivière Saint-Pierre, Minnesota), 1862. Mallet (Bois-Rouge) est tué sur le chemin du village pendant le soulèvement sioux. D'après Dugas (1890).",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 136 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=MALLET",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1,
+     44.55
+    ]
+   },
+   "properties": {
+    "id": "DV-martel-x-bois-rouge-redwood-mi",
+    "nom": "Bois-Rouge (rivière Saint-Pierre, Minnesota) : Martel (Bois-Rouge)",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "evenement",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Martel (Bois-Rouge)"
+    ],
+    "description": "Bois-Rouge (rivière Saint-Pierre, Minnesota), 1862. Martel (Bois-Rouge) est tué sur le chemin du village pendant le soulèvement sioux. D'après Dugas (1890).",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 136 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=MARTEL",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9,
+     45.03
+    ]
+   },
+   "properties": {
+    "id": "DV-montreuil-x-lac-qui-pa",
+    "nom": "Lac-qui-Parle : Montreuil",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Montreuil"
+    ],
+    "description": "Lac-qui-Parle, 1862. Montreuil. Métis du camp sioux, il part voler des chevaux et ne revient pas. D'après Dugas (1890).",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 137 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=MONTREUIL",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.5,
+     49.8
+    ]
+   },
+   "properties": {
+    "id": "DV-greysolon-dulhut-daniel-bis-lake-nipig",
+    "nom": "Lac Nipigon : Daniel Greysolon Dulhut",
+    "corpus": "archive.org · Dugas (1890)",
+    "theme": "personnage",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Daniel Greysolon Dulhut"
+    ],
+    "description": "Lac Nipigon, 1684. Daniel Greysolon Dulhut affirme avoir fait bâtir un fort à la rivière à la Manne. D'après Dugas (1890).",
+    "sources": "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils, p. 51-52 ; texte intégral : archive.org, unvoyageurdespay00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/unvoyageurdespay00duga?q=GREYSOLON+DULHUT",
+      "texte": "Lire Dugas (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

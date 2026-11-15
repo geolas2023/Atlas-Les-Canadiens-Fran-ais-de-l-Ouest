@@ -466,4 +466,9 @@ G = {
  'Lesser Slave Lake': (-115.4, 55.4, 'a', 'petit lac des Esclaves'),
  'Turtle Mountain': (-100.2, 48.95, 'a', 'montagne à la Tortue'),
  'Grand Coteau (Missouri)': (-100.5, 47.5, 'h', 'Grand Coteau du Missouri (bataille de 1851)'),
+ 'Lake Nipissing': (-79.9, 46.25, 'a', 'lac Nipissing'),
+ 'Lake Huron': (-82.4, 45.3, 'h', 'lac Huron'),
+ 'Redwood (Minnesota)': (-95.1, 44.55, 'a', 'Bois-Rouge (rivière Saint-Pierre, Minnesota)'),
+ 'Minnesota': (-94.3, 45.5, 'h', 'Minnesota'),
+ 'Pointe au Sable (lac Winnipeg)': (-97.3, 51.6, 'h', 'Pointe-au-Sable (lac Winnipeg)'),
 }
