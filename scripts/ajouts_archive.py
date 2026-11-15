@@ -83,6 +83,10 @@ LIVRES = [
      {'court': 'Franchère (1854)',
       'ref': "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield"},
      'cihm_35175', lambda nom, ref: ref),
+    ('masson_1889_v1.txt', 'MA',
+     {'court': 'Masson (1889)',
+      'ref': "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1, « Liste des bourgeois, commis, engagés et voyageurs de la Compagnie du Nord-Ouest après la fusion de 1804 »"},
+     'cihm_30414', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
