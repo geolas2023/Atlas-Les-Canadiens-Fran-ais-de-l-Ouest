@@ -63,6 +63,14 @@ LIVRES = [
      {'court': 'Houck (1908), vol. 3',
       'ref': "Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 3"},
      'historyofmissour03houc', lambda nom, ref: ref),
+    ('spanish_regime_1909_v1.txt', 'SR',
+     {'court': 'Houck (1909), Spanish Regime, vol. 1',
+      'ref': "Houck, Louis (1909), The Spanish Regime in Missouri: A Collection of Papers and Documents Relating to Upper Louisiana, Chicago, R. R. Donnelley, vol. 1"},
+     'spanishregimeinm01houc', lambda nom, ref: ref),
+    ('spanish_regime_1909_v2.txt', 'SS',
+     {'court': 'Houck (1909), Spanish Regime, vol. 2',
+      'ref': "Houck, Louis (1909), The Spanish Regime in Missouri: A Collection of Papers and Documents Relating to Upper Louisiana, Chicago, R. R. Donnelley, vol. 2"},
+     'spanishregimeinm02houc', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

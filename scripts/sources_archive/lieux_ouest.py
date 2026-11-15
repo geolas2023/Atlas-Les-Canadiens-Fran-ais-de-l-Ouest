@@ -554,3 +554,12 @@ G.update({
  'Brunswick (Missouri)': (-93.13, 39.42, 'c', "Brunswick (Missouri)"),
  'Potosi': (-90.79, 37.94, 'c', "Potosi (comté de Washington)"),
 })
+G.update({
+ 'Fort Don Carlos': (-90.13, 38.82, 'a', "fort Don Carlos (embouchure du Missouri)"),
+ 'Écores à Margot': (-90.05, 35.15, 'a', "écores à Margot (Chickasaw Bluffs)"),
+})
+G.update({
+ 'Village ponca': (-98.05, 42.78, 'a', "village ponca (rivière Niobrara)"),
+ 'Campo de la Esperanza': (-90.08, 35.14, 'a', "Campo de la Esperanza (Hopefield)"),
+ 'Fort San Juan del Misuri': (-91.15, 38.62, 'a', "fort San Juan del Misuri (La Charette)"),
+})
