@@ -21,7 +21,7 @@ def beau_nom(brut):
     # marqueurs de désambiguïsation internes (servent aux identifiants, pas à l'affichage)
     MARQ = (r'Houck[^)]*|Missouri|Portage|Perruque|New Madrid|Saint-Louis|Burlington|Winooski|Bois-Rouge|Osages|sel|moulin|'
             r'traite|juge|1804|explorateur|syndic|Nishnabotna|Sainte-Geneviève|Mackenzie|traiteur|Cahokia|Kaskaskia|baie|'
-            r'île Ducharme|Oregon')
+            r'île Ducharme|Oregon|Saskatchewan|Vermilion|Astoria|Thompson|homme libre|interprète|1806|1810|1814|1819|Pembina|Salt River|Athabasca|XY|guide|Malhiot|L\'Anse|1804')
     brut = re.sub(r'\s*\((?:' + MARQ + r')\)', '', brut)
     brut = re.sub(r',\s*(?:' + MARQ + r')\)', ')', brut)
     if ',' not in brut: return brut.strip().title()
