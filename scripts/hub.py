@@ -9,6 +9,7 @@ R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUBRY = 'https://geolas2023.github.io/Atlas-Aubry/'
 IBERVILLE = 'https://geolas2023.github.io/Atlas-Iberville/'
 IBERVILLE_LOCAL = os.environ.get('IBERVILLE', '/home/claude/atlas-iberville')  # clone local de l'Atlas Iberville
+JOLLIET = 'https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/jolliet/'
 THEME_IB = {'combat': 'evenement', 'escale': 'exploration', 'decouverte': 'exploration', 'port': 'poste', 'fondation': 'etablissement',
             'vie': 'personnage', 'naissance': 'famille', 'concession': 'etablissement', 'mort': 'evenement'}
 TXT_FICHE = "Fiche complète dans l'Atlas Aubry →"
@@ -68,5 +69,20 @@ if os.path.exists(fic):
             "sources": f"Atlas Iberville, fiche {q['id']} (d'après Frégault, Iberville le conquérant, 1944).", "note": "",
             "renvoi": True, "voir_aussi": [{"url": f"{IBERVILLE}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Iberville →"}]}})
         ni += 1
+# Atlas Jolliet (dossier jolliet/ du dépôt) : renvois courts J-Lxx
+nj = 0
+fic = f'{R}/jolliet/data/lieux.geojson'
+if os.path.exists(fic):
+    d['features'] = [f for f in d['features'] if f['properties']['corpus'] != 'Atlas Jolliet']
+    for f0 in json.load(open(fic, encoding='utf-8'))['features']:
+        q = f0['properties']
+        d['features'].append({"type": "Feature", "geometry": f0['geometry'], "properties": {
+            "id": f"J-{q['id']}", "nom": q['nom'], "corpus": "Atlas Jolliet", "theme": THEME_IB.get(q.get('categorie'), 'evenement'),
+            "debut": float(q['debut']), "fin": float(q.get('fin') or q['debut']), "date_edtf": q.get('date_edtf', ''),
+            "precision": q.get('precision', ''), "certitude": q.get('certitude', 'approximative'),
+            "personnages": ["Louis Jolliet"], "description": premiere_phrase(q.get('description')),
+            "sources": f"Atlas Jolliet, fiche {q['id']} (d'après Gagnon, Louis Jolliet, 1913 ; Récit du P. Marquette ; BAnQ).", "note": "",
+            "renvoi": True, "voir_aussi": [{"url": f"{JOLLIET}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Jolliet →"}]}})
+        nj += 1
 json.dump(d, open(f'{R}/data/lieux.geojson', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi ; {ni} renvois Iberville')
+print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi ; {ni} renvois Iberville ; {nj} renvois Jolliet')
