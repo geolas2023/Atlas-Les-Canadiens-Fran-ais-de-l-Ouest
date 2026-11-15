@@ -146,6 +146,8 @@ LIVRES = [
     ('nebraska_morton_1905.txt', 'NM', {'court': 'Morton (1905)', 'ref': "J. Sterling Morton (dir.), Illustrated History of Nebraska, vol. 1 (1905)"}, 'cu31924092232747', lambda nom, ref: ref),
     ('nebraska_transactions_1885.txt', 'NT', {'court': 'NSHS (1885)', 'ref': "Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885)"}, 'transactionsrepo00nebr', lambda nom, ref: ref),
     ('nebraska_placenames_1925.txt', 'NP', {'court': 'Fitzpatrick (1925)', 'ref': "Lilian L. Fitzpatrick, Nebraska Place-Names (1925)"}, 'bwb_P8-BLU-581', lambda nom, ref: ref),
+    ('nebraska_dakota_1893.txt', 'ND', {'court': 'Warner (1893)', 'ref': "M. M. Warner, Warner's History of Dakota County, Nebraska (1893)"}, 'cu31924028874141', lambda nom, ref: ref),
+    ('nebraska_reminiscences_1916.txt', 'NR', {'court': 'DAR (1916)', 'ref': "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916)"}, 'collectionofnebr00daug', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

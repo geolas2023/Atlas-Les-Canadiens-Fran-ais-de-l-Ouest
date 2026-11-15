@@ -155,6 +155,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cu31924092232747` | 22 |
 | `transactionsrepo00nebr` | 9 |
 | `bwb_P8-BLU-581` | 9 |
+| `cu31924028874141` | 7 |
+| `collectionofnebr00daug` | 11 |
 
 
 ## Un point par lieu et adresses précises

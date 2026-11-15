@@ -276280,6 +276280,618 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -96.46,
+     42.49
+    ]
+   },
+   "properties": {
+    "id": "ND-brughier-theophili-embouchure",
+    "nom": "Embouchure de la Big Sioux (Missouri) : Theophili Brughier",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Theophili Brughier"
+    ],
+    "description": "Embouchure de la Big Sioux (Missouri), 1849. Theophili Brughier est un Canadien français qui s'établit à l'embouchure de la Big Sioux, puis près de Salix (Iowa). D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 42 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=BRUGHIER",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.46,
+     42.49
+    ]
+   },
+   "properties": {
+    "id": "ND-pacquette-paul-embouchure",
+    "nom": "Embouchure de la Big Sioux (Missouri) : Paul Pacquette",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Paul Pacquette"
+    ],
+    "description": "Embouchure de la Big Sioux (Missouri), 1850. Paul Pacquette fixe sa demeure près de l'embouchure de la Big Sioux. D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 42 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=PACQUETTE",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "ND-lionias-joseph-sioux-city",
+    "nom": "Sioux City : Joseph Lionias",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Lionias"
+    ],
+    "description": "Sioux City, 1851. Joseph Lionias s'établit à Sioux City après avoir servi les compagnies de fourrures en amont. D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 42 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=LIONIAS",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.41,
+     42.47
+    ]
+   },
+   "properties": {
+    "id": "ND-pecaut-gustave-covington-",
+    "nom": "Covington (comté de Dakota, Nebraska) : Gustave Pecaut",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1854.999,
+    "date_edtf": "1852/1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gustave Pecaut"
+    ],
+    "description": "Covington (comté de Dakota, Nebraska), 1852-1854. Gustave Pecaut traverse le Missouri en 1852 et bâtit en 1854 la première cabane de rondins du comté, à Covington. D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 42, 73, 177-178 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=PECAUT",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.42,
+     42.415
+    ]
+   },
+   "properties": {
+    "id": "ND-fontenelle-freres-dakota-cit",
+    "nom": "Dakota City (Nebraska) : Frères Fontenelle",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "religion",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frères Fontenelle"
+    ],
+    "description": "Dakota City (Nebraska), 1853. Frères Fontenelle campent à la ferme du colonel Baird en visitant les terres du futur comté. D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 174 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=FONTENELLE",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.48,
+     42.39
+    ]
+   },
+   "properties": {
+    "id": "ND-rouleaux-charles-omadi",
+    "nom": "Omadi (comté de Dakota, Nebraska) : Charles Rouleaux",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Rouleaux"
+    ],
+    "description": "Omadi (comté de Dakota, Nebraska), 1855. Charles Rouleaux est un traiteur indien qui prend avec Arteaux la concession qui devient le site de la ville d'Omadi. D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 44, 49, 173, 176 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=ROULEAUX",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.48,
+     42.39
+    ]
+   },
+   "properties": {
+    "id": "ND-arteaux-john-b-omadi",
+    "nom": "Omadi (comté de Dakota, Nebraska) : John B. Arteaux",
+    "corpus": "archive.org · Warner (1893)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1857.999,
+    "date_edtf": "1855/1857",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "John B. Arteaux"
+    ],
+    "description": "Omadi (comté de Dakota, Nebraska), 1855-1857. John B. Arteaux traverse le Missouri en canot, choisit une concession près d'Omadi et participe en 1857 à la troupe envoyée contre l'émeute de la concession Conley. D'après Warner (1893).",
+    "sources": "M. M. Warner, Warner's History of Dakota County, Nebraska (1893), p. 42, 109, 176 ; texte intégral : archive.org, cu31924028874141.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Warner (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cu31924028874141?q=ARTEAUX",
+      "texte": "Lire Warner (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.76,
+     41.12
+    ]
+   },
+   "properties": {
+    "id": "NR-mallet-pierre-et-paul-fourches-d",
+    "nom": "Fourches de la Platte (comté de Lincoln, Nebraska) : Pierre et Paul Mallet",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre et Paul Mallet"
+    ],
+    "description": "Fourches de la Platte (comté de Lincoln, Nebraska), 1739. Pierre et Paul Mallet traversent le futur comté de Lincoln en route vers Santa Fe, sans doute les premiers Blancs à y passer. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 189 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=MALLET",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.03,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "NR-cabney-antoine-fort-atkin",
+    "nom": "Council Bluff et fort Atkinson (Fort Calhoun) : Antoine Cabney",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "poste",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Cabney"
+    ],
+    "description": "Council Bluff et fort Atkinson (Fort Calhoun), 1827. Antoine Cabney naît près de Fort Calhoun et passe pour le premier enfant blanc né au Nebraska. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 189 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=CABNEY",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.42,
+     41.55
+    ]
+   },
+   "properties": {
+    "id": "NR-fontenelle-logan-fontanelle",
+    "nom": "Fontanelle (comté de Washington) : Logan Fontenelle",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Logan Fontenelle"
+    ],
+    "description": "Fontanelle (comté de Washington), 1854. Logan Fontenelle vend aux colons de Quincy vingt milles carrés de terre pour cent dollars. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 299 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=FONTENELLE",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.1,
+     41.5
+    ]
+   },
+   "properties": {
+    "id": "NR-bouvier-oliver-de-soto-ne",
+    "nom": "De Soto (comté de Washington, Nebraska) : Oliver Bouvier",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Oliver Bouvier"
+    ],
+    "description": "De Soto (comté de Washington, Nebraska), vers 1855. Oliver Bouvier apprivoise un veau de bison et le vend à Joseph La Flesche. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 289 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=BOUVIER",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.1,
+     41.5
+    ]
+   },
+   "properties": {
+    "id": "NR-boucha-joseph-de-soto-ne",
+    "nom": "De Soto (comté de Washington, Nebraska) : Joseph Boucha",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Boucha"
+    ],
+    "description": "De Soto (comté de Washington, Nebraska), vers 1855. Joseph Boucha aide Bouvier à conduire les bêtes jusqu'à la réserve de La Flesche. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 289 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=BOUCHA",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.36,
+     42.11
+    ]
+   },
+   "properties": {
+    "id": "NR-la-flesche-joseph-reserve-om",
+    "nom": "Réserve des Omahas (Macy, Nebraska) : Joseph la Flesche",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Flesche"
+    ],
+    "description": "Réserve des Omahas (Macy, Nebraska), vers 1855. Joseph la Flesche achète cinquante dollars le veau de bison apprivoisé par Bouvier. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 289 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=LA+FLESCHE",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.03,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "NR-vanier-freres-fort-atkin",
+    "nom": "Council Bluff et fort Atkinson (Fort Calhoun) : Frères Vanier",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "religion",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Frères Vanier"
+    ],
+    "description": "Council Bluff et fort Atkinson (Fort Calhoun), 1858. Frères Vanier ouvrent à Fort Calhoun un moulin à farine à vapeur, précieux pour les premiers colons. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 294 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=VANIER",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.55,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "NR-boyer-i-p-cottonwood",
+    "nom": "Cottonwood Springs (fort McPherson, Nebraska) : I. P. Boyer",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "I. P. Boyer"
+    ],
+    "description": "Cottonwood Springs (fort McPherson, Nebraska), 1858. I. P. Boyer bâtit avec Roubidoux le premier édifice de Cottonwood Springs, un ranch de traite. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 190 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=BOYER",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.55,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "NR-roubidoux-x-cottonwood",
+    "nom": "Cottonwood Springs (fort McPherson, Nebraska) : Roubidoux",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Roubidoux"
+    ],
+    "description": "Cottonwood Springs (fort McPherson, Nebraska), 1858. Roubidoux bâtit avec I. P. Boyer le premier édifice de Cottonwood Springs, un ranch de traite. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 190 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=ROUBIDOUX",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.75,
+     40.05
+    ]
+   },
+   "properties": {
+    "id": "NR-deroin-battiste-reserve-ot",
+    "nom": "Réserve des Otoes (comté de Gage, Nebraska) : Battiste Deroin",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1870.999,
+    "date_edtf": "1869/1870",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Battiste Deroin"
+    ],
+    "description": "Réserve des Otoes (comté de Gage, Nebraska), 1869-1870. Battiste Deroin est interprète, l'un des trois Otoes lettrés, et raconte à l'auteur l'inhumation d'un enfant otoe. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 118, 121 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=DEROIN",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.75,
+     40.05
+    ]
+   },
+   "properties": {
+    "id": "NR-barneby-battiste-reserve-ot",
+    "nom": "Réserve des Otoes (comté de Gage, Nebraska) : Battiste Barneby",
+    "corpus": "archive.org · DAR (1916)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Battiste Barneby"
+    ],
+    "description": "Réserve des Otoes (comté de Gage, Nebraska), vers 1870. Battiste Barneby est interprète et l'un des trois Otoes lettrés de la réserve. D'après DAR (1916).",
+    "sources": "Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916), p. 118 ; texte intégral : archive.org, collectionofnebr00daug.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "DAR (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionofnebr00daug?q=BARNEBY",
+      "texte": "Lire DAR (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
