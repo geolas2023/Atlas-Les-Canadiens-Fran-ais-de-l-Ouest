@@ -31,6 +31,14 @@ LIVRES = [
      {'court': 'Hamon (1891)',
       'ref': "Hamon, Édouard (1891), Les Canadiens-français de la Nouvelle-Angleterre, Québec, N.-S. Hardy"},
      'cihm_39098', lambda nom, ref: ref),
+    ('dugas_1896.txt', 'DU',
+     {'court': 'Dugas (1896)',
+      'ref': "Dugas, Georges (1896), L'Ouest canadien : sa découverte par le sieur de La Vérendrye, son exploitation par les compagnies de traiteurs jusqu'à l'année 1822, Montréal, Cadieux et Derome"},
+     'cihm_30150', lambda nom, ref: ref),
+    ('dugas_1906.txt', 'DH',
+     {'court': 'Dugas (1906)',
+      'ref': "Dugas, Georges (1906), Histoire de l'Ouest canadien de 1822 à 1869 : époque des troubles, Montréal, Beauchemin"},
+     'histoiredelouest00dugauoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

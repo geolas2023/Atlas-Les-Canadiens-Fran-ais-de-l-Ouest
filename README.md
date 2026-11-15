@@ -124,3 +124,5 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Tassé, *Les Canadiens de l'Ouest* (1878), 2 tomes | `cihm_33778`, `cihm_33779` | 555 |
 | Billon, *Annals of St. Louis in its Early Days under the French and Spanish Dominations* (1886) | `cihm_00427` | 421 |
 | Hamon, *Les Canadiens-français de la Nouvelle-Angleterre* (1891) | `cihm_39098` | 183 |
+| Dugas, *L'Ouest canadien* (1896) | `cihm_30150` | 102 |
+| Dugas, *Histoire de l'Ouest canadien de 1822 à 1869* (1906) | `histoiredelouest00dugauoft` | 56 |
