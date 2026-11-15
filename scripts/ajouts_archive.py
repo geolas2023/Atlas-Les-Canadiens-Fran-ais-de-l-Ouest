@@ -59,13 +59,55 @@ LIVRES = [
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
 garde = [f for f in d['features'] if not f['properties']['corpus'].startswith(CORPUS)]
+from adresses import coin
+from archive_commun import cle_personne, beau_nom, slug
+
+def appliquer_adresses(fs, fichier, pre, livre, ident):
+    """Place à leur adresse précise les fiches dont la source donne un coin de rues ; crée la fiche si elle n'existe pas."""
+    deplacees = creees = 0
+    for ligne in open(fichier, encoding='utf-8'):
+        if not ligne.strip() or ligne.startswith('#'): continue
+        brut, annees, rues, angle, quoi, page = [x.strip() for x in ligne.split('|')]
+        r1, r2 = rues.split('/')
+        lon, lat, lib = coin(r1, r2, angle or None)
+        a0 = int(annees[:4])
+        a1 = int(annees.split('-')[1]) if '-' in annees else a0
+        k = cle_personne(brut)
+        cible = [f for f in fs if f['properties']['id'].endswith(tuple(['-saint-loui', '-saint-loui-2', '-saint-loui-3', '-saint-loui-4']))
+                 and cle_personne(f['properties'].get('_brut', '')) == k and int(f['properties']['debut']) == a0]
+        nom = beau_nom(brut)
+        if cible:
+            f = cible[0]; p = f['properties']
+            f['geometry']['coordinates'] = [lon, lat]
+            p['nom'] = f"{lib} : {nom}"
+            p['certitude'] = 'approximative'
+            p['description'] += f" Emplacement : {lib.split(', ', 1)[1]} ({quoi}), d'après Billon, {page} ; position reconstituée sur le plan du village (± 50 m)."
+            deplacees += 1
+        else:
+            idf = f"{pre}-{slug(brut)}-adr-{slug(r1 + '-' + r2)}"
+            fs.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": {
+                "id": idf, "nom": f"{lib} : {nom}", "corpus": f"{CORPUS} · {livre['court']}", "theme": 'personnage',
+                "date_edtf": f"{a0}/{a1}" if a1 != a0 else str(a0), "debut": a0, "fin": a1 + 0.999, "precision": "annee",
+                "certitude": 'approximative', "personnages": [nom],
+                "description": f"{lib}, {a0 if a0 == a1 else f'{a0}-{a1}'}. {nom} {quoi}. D'après {livre['court']} ; position reconstituée sur le plan du village (± 50 m).",
+                "sources": f"{livre['ref']}, {page} ; texte intégral : archive.org, {ident}.",
+                "note": "Adresse tirée du texte intégral (OCR) d'archive.org ; l'emplacement du coin de rues est reconstitué sur le quadrillage actuel du centre-ville de Saint-Louis.",
+                "livre": livre['court'], "voir_aussi": [{"url": f"https://archive.org/details/{ident}", "texte": "Lire le livre sur archive.org →"}]}})
+            creees += 1
+    print(f"  adresses : {deplacees} fiches placées à leur adresse, {creees} fiches d'adresse créées")
+    return fs
+
 nouv, bilan = [], []
 for fic, pre, livre, ident, citer in LIVRES:
     ctxf = os.path.join(D, fic.replace('.txt', '_contextes.txt'))
     fs, inconnus, sans_date = fiches_livre(os.path.join(D, fic), pre, livre, ident, citer,
                                            contextes=lire_contextes(ctxf) if os.path.exists(ctxf) else None)
+    adrf = os.path.join(D, fic.replace('.txt', '_adresses.txt'))
+    if os.path.exists(adrf):
+        fs = appliquer_adresses(fs, adrf, pre, livre, ident)
     nouv += fs
     bilan.append((livre['court'], len(fs), sans_date, sorted(inconnus)))
+for f in nouv: f['properties'].pop('_brut', None)
 ids = [f['properties']['id'] for f in nouv]
 dbl = [i for i, n in collections.Counter(ids).items() if n > 1]
 assert not dbl, dbl

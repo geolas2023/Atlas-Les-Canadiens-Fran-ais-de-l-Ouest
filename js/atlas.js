@@ -59,28 +59,17 @@ async function charger() {
     const k = f.properties.corpus;
     if (k && k.startsWith('archive.org') && !CORPUS[k]) { CORPUS[k] = { libelle: k.replace(/^archive\.org · /, ''), trait: '#5b6f8a' }; etat.corpus.add(k); }
   });
-  // Décaler légèrement les fiches qui partagent exactement le même point (affichage seulement)
-  const groupes = new Map();
+  // Un point par lieu : les fiches qui partagent exactement les mêmes coordonnées sont regroupées
   lieux.features.forEach(f => {
+    const p = f.properties;
     const [x, y] = f.geometry.coordinates;
-    const cle = x.toFixed(4) + ',' + y.toFixed(4);
-    if (!groupes.has(cle)) groupes.set(cle, []);
-    groupes.get(cle).push(f);
-  });
-  groupes.forEach(liste => {
-    liste.forEach((f, i) => {
-      const p = f.properties;
-      p.lon0 = f.geometry.coordinates[0]; p.lat0 = f.geometry.coordinates[1];
-      p.groupe = liste.length;
-      if (i > 0) {
-        const a = i * 2.39996, r = 0.0018 * Math.sqrt(i);
-        f.geometry = { type: 'Point', coordinates: [p.lon0 + r * Math.cos(a) / Math.cos(p.lat0 * Math.PI / 180), p.lat0 + r * Math.sin(a)] };
-      }
-      p.leduc = (p.personnages || []).includes('Maurice LeDuc');
-      p.couleur = p.leduc ? COULEUR_LEDUC : (COULEURS[p.theme] || '#555');
-      p.trait = (CORPUS[p.corpus] || {}).trait || '#000';
-      p.index = norm([p.nom, p.description, (p.personnages || []).join(' '), p.note, p.date_edtf].join(' '));
-    });
+    p.lon0 = x; p.lat0 = y;
+    p.cle = x.toFixed(4) + ',' + y.toFixed(4);
+    p.lieu = String(p.nom || '').includes(' : ') ? p.nom.split(' : ')[0] : (p.nom || '');
+    p.leduc = (p.personnages || []).includes('Maurice LeDuc');
+    p.couleur = p.leduc ? COULEUR_LEDUC : (COULEURS[p.theme] || '#555');
+    p.trait = (CORPUS[p.corpus] || {}).trait || '#000';
+    p.index = norm([p.nom, p.description, (p.personnages || []).join(' '), p.note, p.date_edtf].join(' '));
   });
   TOUTES = lieux.features;
 }
@@ -96,7 +85,7 @@ function correspond(f) {
 
 function filtrer() {
   const visibles = TOUTES.filter(correspond);
-  carte.getSource('lieux')?.setData({ type: 'FeatureCollection', features: visibles });
+  carte.getSource('lieux')?.setData({ type: 'FeatureCollection', features: agreger(visibles) });
   $('#compteur').textContent = `${visibles.length} fiche${visibles.length > 1 ? 's' : ''} affichée${visibles.length > 1 ? 's' : ''} sur ${TOUTES.length}`;
   const bandeau = $('#bandeau-personne');
   if (etat.personne) {
@@ -108,6 +97,78 @@ function filtrer() {
     $('#retirer-pers').onclick = e => { e.preventDefault(); etat.personne = null; filtrer(); majListePers(); };
   } else bandeau?.remove();
   return visibles;
+}
+
+// Regroupe les fiches visibles en un point par lieu (taille selon le nombre de fiches)
+function agreger(visibles) {
+  const m = new Map();
+  visibles.forEach(f => {
+    const p = f.properties;
+    if (!m.has(p.cle)) m.set(p.cle, []);
+    m.get(p.cle).push(f);
+  });
+  LIEUX_VISIBLES = m;
+  return [...m.entries()].map(([cle, fs]) => {
+    const p0 = fs[0].properties;
+    const themes = {};
+    fs.forEach(f => { themes[f.properties.theme] = (themes[f.properties.theme] || 0) + 1; });
+    const dominant = Object.entries(themes).sort((a, b) => b[1] - a[1])[0][0];
+    const vague = fs.every(f => f.properties.certitude === 'hypothetique');
+    const noms = {};
+    fs.forEach(f => { noms[f.properties.lieu] = (noms[f.properties.lieu] || 0) + 1; });
+    return { type: 'Feature', geometry: { type: 'Point', coordinates: [p0.lon0, p0.lat0] },
+      properties: {
+        cle, n: fs.length, id: fs.length === 1 ? p0.id : '',
+        lieu: Object.entries(noms).sort((a, b) => b[1] - a[1])[0][0],
+        nom: fs.length === 1 ? p0.nom : Object.entries(noms).sort((a, b) => b[1] - a[1])[0][0],
+        couleur: fs.length === 1 ? p0.couleur : (p0.leduc ? COULEUR_LEDUC : (COULEURS[dominant] || '#555')),
+        trait: fs.length === 1 ? p0.trait : '#3b3328',
+        certitude: vague ? 'hypothetique' : (fs.some(f => f.properties.certitude === 'certaine') ? 'certaine' : 'approximative'),
+        corpus: fs.length === 1 ? p0.corpus : '',
+        date_edtf: fs.length === 1 ? p0.date_edtf : ''
+      } };
+  });
+}
+let LIEUX_VISIBLES = new Map();
+
+// Liste des fiches d'un lieu, regroupées par décennie, avec un filtre rapide
+function afficherLieu(cle, idActif = null) {
+  const fs = [...(LIEUX_VISIBLES.get(cle) || TOUTES.filter(f => f.properties.cle === cle))]
+    .sort((a, b) => a.properties.debut - b.properties.debut || a.properties.nom.localeCompare(b.properties.nom, 'fr'));
+  if (!fs.length) return;
+  const noms = {};
+  fs.forEach(f => { noms[f.properties.lieu] = (noms[f.properties.lieu] || 0) + 1; });
+  const titre = Object.entries(noms).sort((a, b) => b[1] - a[1])[0][0];
+  const vague = fs.every(f => f.properties.certitude === 'hypothetique');
+  const parDecennie = new Map();
+  fs.forEach(f => {
+    const d = Number.isFinite(f.properties.debut) ? Math.floor(f.properties.debut / 10) * 10 : null;
+    const k = d === null ? 'Sans date' : `${d}-${d + 9}`;
+    if (!parDecennie.has(k)) parDecennie.set(k, []);
+    parDecennie.get(k).push(f);
+  });
+  const livres = new Set(fs.map(f => f.properties.corpus)).size;
+  $('#panneau').innerHTML = `<h2>${esc(titre)}</h2>
+    <p class="meta">${fs.length} fiche${fs.length > 1 ? 's' : ''} · ${livres} source${livres > 1 ? 's' : ''} · selon les filtres et la période choisis</p>
+    ${vague ? '<p class="note"><strong>Localisation approximative.</strong> Ce point représente une région ou un lieu imprécis, pas un emplacement exact.</p>' : ''}
+    <input type="search" id="filtre-lieu" placeholder="Filtrer ces fiches (nom, année, livre)…" class="filtre-lieu">
+    <div id="liste-lieu">${[...parDecennie.entries()].map(([k, l]) =>
+      `<details class="decennie" open><summary>${esc(k)} <span class="mini">(${l.length})</span></summary><ul class="liste-fiches">${l.map(li).join('')}</ul></details>`).join('')}</div>`;
+  const ctx = { feats: fs, titre, cle };
+  brancherListe(ctx);
+  $('#filtre-lieu').oninput = e => {
+    const q = norm(e.target.value);
+    document.querySelectorAll('#liste-lieu li').forEach(el => {
+      const f = trouver(el.dataset.id);
+      el.style.display = !q || f.properties.index.includes(q) || norm(f.properties.corpus).includes(q) ? '' : 'none';
+    });
+    document.querySelectorAll('#liste-lieu details').forEach(d => {
+      d.style.display = [...d.querySelectorAll('li')].some(el => el.style.display !== 'none') ? '' : 'none';
+    });
+  };
+  carte.getSource('selection').setData({ type: 'FeatureCollection', features: [{ type: 'Feature', geometry: { type: 'Point', coordinates: [fs[0].properties.lon0, fs[0].properties.lat0] }, properties: {} }] });
+  if (idActif) document.querySelector(`#liste-lieu li[data-id="${CSS.escape(idActif)}"]`)?.scrollIntoView({ block: 'center' });
+  else $('#panneau').scrollTop = 0;
 }
 
 // ---------- Interface : filtres ----------
@@ -262,20 +323,23 @@ function afficherFiche(id, depuisListe = null) {
     <p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p>
     ${(p.voir_aussi || []).map(v => `<p><a class="lien-salle-fiche" href="${esc(v.url)}">${esc(v.texte)}</a></p>`).join('')}
     ${p.salle ? `<p><a class="lien-salle-fiche" href="salle.html#${esc(p.id.replace(/^F-/, ''))}">Ouvrir dans la salle de lecture →</a></p>` : ''}
-    ${memeLieu.length ? `<p class="mini">Autres fiches au même lieu :</p><ul class="liste-fiches">${memeLieu.map(li).join('')}</ul>` : ''}
+    ${memeLieu.length > 8 ? `<p><a href="#" id="voir-lieu">Voir les ${memeLieu.length + 1} fiches de ce lieu (${esc(p.lieu)}) →</a></p>`
+      : memeLieu.length ? `<p class="mini">Autres fiches au même lieu :</p><ul class="liste-fiches">${memeLieu.map(li).join('')}</ul>` : ''}
     <p class="mini">Identifiant : ${esc(p.id)}</p>`;
   $('#panneau').scrollTop = 0;
   document.querySelectorAll('#panneau .pers button').forEach(b => b.onclick = () => choisirPersonne(b.dataset.p));
   document.querySelectorAll('#panneau figure img').forEach(im => im.onclick = () => zoomImage(im.src, im.alt));
   brancherListe();
-  if (depuisListe) $('#retour').onclick = () => afficherListe(depuisListe.feats, depuisListe.titre);
+  if (depuisListe) $('#retour').onclick = () => depuisListe.cle ? afficherLieu(depuisListe.cle, id) : afficherListe(depuisListe.feats, depuisListe.titre);
+  $('#voir-lieu')?.addEventListener('click', e => { e.preventDefault(); afficherLieu(p.cle, id); });
   history.replaceState(null, '', '#' + p.id);
   carte.getSource('selection').setData({ type: 'FeatureCollection', features: [f] });
 }
 
 const li = f => `<li data-id="${esc(f.properties.id)}"><i class="puce" style="background:${COULEURS[f.properties.theme]}"></i>${esc(f.properties.nom)}<div class="d">${esc(f.properties.date_edtf || anneeTxt(f.properties.debut))} · ${esc(f.properties.corpus)}</div></li>`;
 
-function afficherListe(feats, titre) {
+function afficherListe(feats, titre, cle = null) {
+  if (cle) return afficherLieu(cle);
   const tri = [...feats].sort((a, b) => a.properties.debut - b.properties.debut);
   $('#panneau').innerHTML = `<h2>${esc(titre)}</h2><p class="meta">${tri.length} fiche${tri.length > 1 ? 's' : ''}, par ordre chronologique</p><ul class="liste-fiches">${tri.map(li).join('')}</ul>`;
   brancherListe({ feats: tri, titre });
@@ -327,12 +391,18 @@ async function demarrer() {
       paint: { 'circle-radius': ['interpolate', ['linear'], ['zoom'], 3, 11, 10, 17], 'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-color': '#e2a000', 'circle-stroke-width': 3 } });
     carte.addLayer({ id: 'lieux', type: 'circle', source: 'lieux',
       paint: {
-        'circle-radius': ['interpolate', ['linear'], ['zoom'], 3, 4.5, 7, 6.5, 11, 9],
+        'circle-radius': ['interpolate', ['linear'], ['zoom'],
+          3, ['min', 26, ['+', 4, ['*', 1.25, ['sqrt', ['get', 'n']]]]],
+          7, ['min', 32, ['+', 6, ['*', 1.6, ['sqrt', ['get', 'n']]]]],
+          11, ['min', 40, ['+', 9, ['*', 2, ['sqrt', ['get', 'n']]]]]],
         'circle-color': ['get', 'couleur'],
-        'circle-opacity': ['match', ['get', 'certitude'], 'certaine', 0.95, 'approximative', 0.8, 0.5],
-        'circle-stroke-color': ['get', 'trait'],
-        'circle-stroke-width': ['match', ['get', 'corpus'], 'Atlas Aubry', 1.8, 1.1]
+        'circle-opacity': ['match', ['get', 'certitude'], 'certaine', 0.9, 'approximative', 0.75, 0.35],
+        'circle-stroke-color': ['case', ['==', ['get', 'certitude'], 'hypothetique'], '#7a6a55', ['get', 'trait']],
+        'circle-stroke-width': ['case', ['==', ['get', 'certitude'], 'hypothetique'], 2.2, ['>', ['get', 'n'], 1], 1.4, ['==', ['get', 'corpus'], 'Atlas Aubry'], 1.8, 1.1]
       } });
+    carte.addLayer({ id: 'lieux-compte', type: 'symbol', source: 'lieux', filter: ['>', ['get', 'n'], 1],
+      layout: { 'text-field': ['to-string', ['get', 'n']], 'text-size': ['interpolate', ['linear'], ['zoom'], 3, 9, 10, 12], 'text-allow-overlap': true },
+      paint: { 'text-color': '#ffffff', 'text-halo-color': 'rgba(0,0,0,.45)', 'text-halo-width': 1 } });
     // Parcours de vie de Maurice LeDuc (couleur réservée)
     carte.addSource('leduc', { type: 'geojson', data: 'data/maurice-leduc.geojson' });
     carte.addLayer({ id: 'leduc-parcours', type: 'line', source: 'leduc', filter: ['==', ['geometry-type'], 'LineString'],
@@ -350,7 +420,7 @@ async function demarrer() {
       $('#panneau').innerHTML = `<h2>${esc(p.ordre)}. ${esc(p.nom)}</h2><p class="meta">${esc(p.date_edtf)} · ${esc(p.phase)} · localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</p><div class="filet">✦</div><p class="description">${esc(p.description)}</p>${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}<p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p><p><a href="salle.html#${esc(p.id)}">Ouvrir dans la salle de lecture →</a></p>`;
     });
     carte.addLayer({ id: 'lieux-noms', type: 'symbol', source: 'lieux', minzoom: 7.5,
-      layout: { 'text-field': ['get', 'nom'], 'text-size': 11, 'text-offset': [0, 1.1], 'text-anchor': 'top', 'text-max-width': 14, 'text-optional': true },
+      layout: { 'text-field': ['get', 'lieu'], 'text-size': 11, 'text-offset': [0, 1.4], 'text-anchor': 'top', 'text-max-width': 14, 'text-optional': true },
       paint: { 'text-color': '#3b3328', 'text-halo-color': '#ffffff', 'text-halo-width': 1.4 } });
 
     appliquerFond = installerFonds(carte, base, 'satellite');
@@ -363,16 +433,23 @@ async function demarrer() {
     carte.on('mousemove', 'lieux', e => {
       carte.getCanvas().style.cursor = 'pointer';
       const p = e.features[0].properties;
-      popup.setLngLat(e.lngLat).setHTML(`<strong>${esc(p.nom)}</strong><br><span class="mini">${esc(p.date_edtf)} · ${esc(p.corpus)}</span>`).addTo(carte);
+      popup.setLngLat(e.lngLat).setHTML(p.n > 1
+        ? `<strong>${esc(p.lieu)}</strong><br><span class="mini">${p.n} fiches${p.certitude === 'hypothetique' ? ' · localisation approximative' : ''}</span>`
+        : `<strong>${esc(p.nom)}</strong><br><span class="mini">${esc(p.date_edtf)} · ${esc(p.corpus)}</span>`).addTo(carte);
     });
     carte.on('mouseleave', 'lieux', () => { carte.getCanvas().style.cursor = ''; popup.remove(); });
     carte.on('click', e => {
       const r = 6, pt = e.point;
       const sous = carte.queryRenderedFeatures([[pt.x - r, pt.y - r], [pt.x + r, pt.y + r]], { layers: ['lieux'] });
       if (!sous.length) return;
-      const ids = [...new Set(sous.map(s => s.properties.id))];
-      if (ids.length === 1) afficherFiche(ids[0]);
-      else afficherListe(ids.map(trouver), `${ids.length} fiches à cet endroit`);
+      const cles = [...new Set(sous.map(s => s.properties.cle))];
+      if (cles.length === 1) {
+        const p = sous[0].properties;
+        if (p.n === 1 && p.id) afficherFiche(p.id); else afficherLieu(p.cle);
+      } else {
+        const fs = cles.flatMap(c => LIEUX_VISIBLES.get(c) || []);
+        afficherListe(fs, `${fs.length} fiches à cet endroit (${cles.length} lieux voisins)`);
+      }
     });
 
     construireFiltres();

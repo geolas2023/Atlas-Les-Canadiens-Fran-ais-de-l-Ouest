@@ -141,3 +141,10 @@ details.section-accueil > summary { list-style: none; cursor: pointer; }
 details.section-accueil > summary::-webkit-details-marker { display: none; }
 details.section-accueil > summary::before { content: "▸"; display: inline-block; width: 1em; transition: transform .15s; }
 details.section-accueil[open] > summary::before { transform: rotate(90deg); }
+
+/* Liste des fiches d'un lieu */
+.filtre-lieu { width: 100%; box-sizing: border-box; padding: .4em .6em; margin: .3em 0 .6em; border: 1px solid #cdbf9f; border-radius: 4px; font: inherit; }
+details.decennie { margin: .2em 0; }
+details.decennie > summary { cursor: pointer; font-weight: 600; color: #5a4a2f; padding: .2em 0; border-bottom: 1px solid #e6dcc6; list-style: none; }
+details.decennie > summary::before { content: '▸ '; color: #b8902e; }
+details.decennie[open] > summary::before { content: '▾ '; }

@@ -130,3 +130,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Dugas, *La première Canadienne du Nord-Ouest* (1883) | `lapremirecanadi00duga` | 38 |
 | Dugas, *Monseigneur Provencher et les missions de la Rivière-Rouge* (1889) | `monseigneurprove00duga` | 86 |
 | Houck, *A History of Missouri* (1908), vol. 2 | `historyofmissour02houc` | 338 |
+
+
+## Un point par lieu et adresses précises
+
+Sur la carte, les fiches qui partagent exactement les mêmes coordonnées forment un seul point, dont la taille dépend du nombre de fiches visibles (selon les filtres et la période). Un clic ouvre la liste des fiches du lieu, regroupées par décennie, avec un filtre rapide. Les points dont toutes les fiches ont une localisation hypothétique (région, district) sont dessinés en pâle avec un contour brun et signalés comme « localisation approximative ». Les adresses `index.html#ID` des fiches ne changent pas.
+
+Quand une source donne une adresse précise, la fiche quitte le point générique de la ville et rejoint son propre emplacement. Pour Saint-Louis, les coins de rues cités par Billon (1886) sont reconstitués sur le quadrillage actuel du centre-ville (`scripts/sources_archive/adresses.py`, précision d'environ 50 m) ; la liste est dans `billon_1886_adresses.txt` (une ligne par adresse : nom, années, rues, angle, description, page).
