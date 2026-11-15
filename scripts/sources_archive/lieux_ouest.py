@@ -670,4 +670,12 @@ G.update({
  'Rivière aux Raisins': (-83.4, 41.91, 'c', "rivière aux Raisins (Frenchtown, Monroe)"),
  'Presque Isle (Détroit)': (-82.93, 42.36, 'a', "Presqu'île (pointe du Moulin à vent, Détroit)"),
  'Île à la Pêche': (-82.94, 42.35, 'a', "île à la Pêche (Peach Island)"),
+ 'Fort Saint-Louis (Illinois)': (-88.99, 41.32, 'a', "fort Saint-Louis des Illinois (Starved Rock)"),
+ 'Pays des Miamis (Saint-Joseph)': (-86.25, 41.68, 'h', "pays des Miamis (rivière Saint-Joseph)"),
+ 'Baie de Saginaw': (-83.85, 43.6, 'h', "baie de Saginaw (Saguinan)"),
+ 'Ouabache (Ouiatanon)': (-87.0, 40.42, 'h', "Ouabache, pays des Ouiatanons (Wabash)"),
+ 'Lac Sainte-Claire': (-82.75, 42.45, 'h', "lac Sainte-Claire"),
+ 'Fort des Renards (Wisconsin)': (-88.8, 44.0, 'h', "fort des Renards (Wisconsin)"),
+ 'Pays des Sioux (haut Mississippi)': (-93.5, 45.0, 'h', "pays des Sioux (haut Mississippi)"),
+ 'Chequamegon': (-90.9, 46.65, 'a', "baie de Chagouamigon (Chequamegon)"),
 })
