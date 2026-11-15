@@ -79,6 +79,10 @@ LIVRES = [
      {'court': 'Chittenden (1902), vol. 2-3',
       'ref': "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3"},
      'americanfurtrade00chit_0', lambda nom, ref: ref),
+    ('franchere_1854.txt', 'FR',
+     {'court': 'Franchère (1854)',
+      'ref': "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield"},
+     'cihm_35175', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

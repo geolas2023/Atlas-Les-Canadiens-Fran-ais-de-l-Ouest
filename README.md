@@ -136,6 +136,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Houck, *The Spanish Regime in Missouri* (1909), vol. 2 | `spanishregimeinm02houc` | 177 |
 | Chittenden, *The American Fur Trade of the Far West* (1902), vol. 1 | `americanfurtrade01chit` | 98 |
 | Chittenden, *The American Fur Trade of the Far West* (1902), vol. 2-3 | `americanfurtrade00chit_0` | 52 |
+| Franchère, *Narrative of a Voyage to the Northwest Coast of America* (trad. 1854) | `cihm_35175` | 42 |
 
 
 ## Un point par lieu et adresses précises

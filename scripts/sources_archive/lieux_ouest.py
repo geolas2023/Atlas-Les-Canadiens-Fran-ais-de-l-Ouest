@@ -594,3 +594,10 @@ G.update({
  'Huerfano': (-104.8, 37.7, 'a', "ruisseau Huerfano"),
  'Marias River': (-111.0, 48.3, 'a', "rivière Marias"),
 })
+G.update({
+ 'Barre du Columbia': (-124.05, 46.25, 'a', "barre du fleuve Columbia"),
+ 'Oak Point': (-123.22, 46.18, 'a', "Oak Point (bas Columbia)"),
+ 'Boat Encampment': (-118.35, 52.12, 'a', "Boat Encampment (rivière aux Canots)"),
+ 'Bas-de-la-Rivière': (-96.32, 50.62, 'c', "fort du Bas-de-la-Rivière (Winnipeg)"),
+ 'Rivière Athabasca': (-114.5, 54.6, 'h', "rivière Athabasca"),
+})

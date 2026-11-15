@@ -216440,6 +216440,1434 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-franchere-gabriel-astoria",
+    "nom": "Astoria (fort Astoria) : Gabriel Franchère",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Gabriel Franchère, né en 1786 à Montréal, débarque du Tonquin comme commis de la Compagnie du Pacifique et aide à bâtir le fort. D'après Franchère (1854). Autres lieux de l'entrée : vallée de la Willamette, Jasper House, fort William (lac Supérieur).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I-XXVIII ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=FRANCHÈRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "FR-franchere-gabriel-willamette",
+    "nom": "Vallée de la Willamette : Gabriel Franchère",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Vallée de la Willamette, 1811. Gabriel Franchère, né en 1786 à Montréal, va racheter les déserteurs Jérémie et Belleau chez les Cathlanaminims. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria), Jasper House, fort William (lac Supérieur).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I-XXVIII ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=FRANCHÈRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0,
+     53.2
+    ]
+   },
+   "properties": {
+    "id": "FR-franchere-gabriel-jasper-hou",
+    "nom": "Jasper House : Gabriel Franchère",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Jasper House, 1814. Gabriel Franchère, né en 1786 à Montréal, traverse les Rocheuses en rentrant au Canada avec la brigade du Nord-Ouest. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria), vallée de la Willamette, fort William (lac Supérieur).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I-XXVIII ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=FRANCHÈRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "FR-franchere-gabriel-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Gabriel Franchère",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Fort William (lac Supérieur), 1814. Gabriel Franchère, né en 1786 à Montréal, gagne le fort avant de descendre en canot vers Montréal. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria), vallée de la Willamette, Jasper House.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I-XXVIII ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=FRANCHÈRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "FR-lapensee-basile-barre-du-c",
+    "nom": "Barre du fleuve Columbia : Basile Lapensée",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Basile Lapensée"
+    ],
+    "description": "Barre du fleuve Columbia, 1811. Basile Lapensée disparaît avec la chaloupe envoyée sonder la passe. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 86-96 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LAPENSÉE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "FR-lapensee-ignace-barre-du-c",
+    "nom": "Barre du fleuve Columbia : Ignace Lapensée",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ignace Lapensée"
+    ],
+    "description": "Barre du fleuve Columbia, 1811. Ignace Lapensée disparaît avec son frère Basile dans la chaloupe de sondage. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 86-96 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LAPENSÉE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "FR-nadeau-joseph-barre-du-c",
+    "nom": "Barre du fleuve Columbia : Joseph Nadeau",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Nadeau"
+    ],
+    "description": "Barre du fleuve Columbia, 1811. Joseph Nadeau disparaît dans la chaloupe de sondage, pleuré par ses compagnons. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 86-96 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=NADEAU",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-lapensee-olivier-roy-astoria",
+    "nom": "Astoria (fort Astoria) : Olivier Roy Lapensée",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Olivier Roy Lapensée"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Olivier Roy Lapensée arrive comme voyageur sur le Tonquin. D'après Franchère (1854). Autres lieux de l'entrée : rivière Athabasca.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I, p. 305 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LAPENSÉE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.5,
+     54.6
+    ]
+   },
+   "properties": {
+    "id": "FR-lapensee-olivier-roy-riviere-at",
+    "nom": "Rivière Athabasca : Olivier Roy Lapensée",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Olivier Roy Lapensée"
+    ],
+    "description": "Rivière Athabasca, 1814. Olivier Roy Lapensée se noie le 25 juin dans le naufrage des canots; son corps est retrouvé et enterré. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I, p. 305 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LAPENSÉE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.5,
+     54.6
+    ]
+   },
+   "properties": {
+    "id": "FR-belanger-andre-riviere-at",
+    "nom": "Rivière Athabasca : André Bélanger",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "André Bélanger"
+    ],
+    "description": "Rivière Athabasca, 1814. André Bélanger se noie le 25 juin dans le naufrage des canots; son corps n'est jamais retrouvé. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 305 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BÉLANGER",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.5,
+     54.6
+    ]
+   },
+   "properties": {
+    "id": "FR-hurteau-j-riviere-at",
+    "nom": "Rivière Athabasca : J. Hurteau",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "J. Hurteau"
+    ],
+    "description": "Rivière Athabasca, 1814. J. Hurteau manque de se noyer dans le naufrage et est ranimé par ses compagnons. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 305-306 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=HURTEAU",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "FR-montigny-ovide-de-cowlitz",
+    "nom": "Cowlitz : Ovide de Montigny",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ovide de Montigny"
+    ],
+    "description": "Cowlitz, 1811. Ovide de Montigny accompagne McKay et apporte tabac et calumet pour faire la paix. D'après Franchère (1854). Autres lieux de l'entrée : fort Okanagan.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 104-120, 277 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=MONTIGNY",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "FR-montigny-ovide-de-fort-okana",
+    "nom": "Fort Okanagan : Ovide de Montigny",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ovide de Montigny"
+    ],
+    "description": "Fort Okanagan, 1814. Ovide de Montigny sert la Compagnie du Nord-Ouest au poste de David Stuart. D'après Franchère (1854). Autres lieux de l'entrée : Cowlitz.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 104-120, 277 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=MONTIGNY",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-pillet-benjamin-astoria",
+    "nom": "Astoria (fort Astoria) : Benjamin Pillet",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin Pillet"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Benjamin Pillet cherche les hommes perdus avec Ross. D'après Franchère (1854). Autres lieux de l'entrée : Spokane House, Oak Point (bas Columbia), Boat Encampment (rivière aux Canots).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 98-160, 224, 289-306 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=PILLET",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "FR-pillet-benjamin-spokane-ho",
+    "nom": "Spokane House : Benjamin Pillet",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Pillet"
+    ],
+    "description": "Spokane House, 1812. Benjamin Pillet part avec Clarke vers Spokane. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria), Oak Point (bas Columbia), Boat Encampment (rivière aux Canots).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 98-160, 224, 289-306 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=PILLET",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.22,
+     46.18
+    ]
+   },
+   "properties": {
+    "id": "FR-pillet-benjamin-oak-point",
+    "nom": "Oak Point (bas Columbia) : Benjamin Pillet",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Pillet"
+    ],
+    "description": "Oak Point (bas Columbia), 1814. Benjamin Pillet campe avec Keith pour pêcher l'esturgeon. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria), Spokane House, Boat Encampment (rivière aux Canots).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 98-160, 224, 289-306 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=PILLET",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.35,
+     52.12
+    ]
+   },
+   "properties": {
+    "id": "FR-pillet-benjamin-boat-encam",
+    "nom": "Boat Encampment (rivière aux Canots) : Benjamin Pillet",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Pillet"
+    ],
+    "description": "Boat Encampment (rivière aux Canots), 1814. Benjamin Pillet part en avant chercher des vivres avec le guide. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria), Spokane House, Oak Point (bas Columbia).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 98-160, 224, 289-306 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=PILLET",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "FR-jeremie-paul-denis-willamette",
+    "nom": "Vallée de la Willamette : Paul-Denis Jérémie",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Paul-Denis Jérémie"
+    ],
+    "description": "Vallée de la Willamette, 1811. Paul-Denis Jérémie déserte avec deux hommes et des armes puis est racheté. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 132-141, 203 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=JÉRÉMIE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-jeremie-paul-denis-astoria",
+    "nom": "Astoria (fort Astoria) : Paul-Denis Jérémie",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul-Denis Jérémie"
+    ],
+    "description": "Astoria (fort Astoria), 1813. Paul-Denis Jérémie s'embarque comme sous-commis sur le Raccoon le 31 décembre. D'après Franchère (1854). Autres lieux de l'entrée : vallée de la Willamette.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 132-141, 203 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=JÉRÉMIE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "FR-belleau-jean-baptiste-willamette",
+    "nom": "Vallée de la Willamette : Jean-Baptiste Belleau",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Belleau"
+    ],
+    "description": "Vallée de la Willamette, 1811. Jean-Baptiste Belleau déserte avec Jérémie et est racheté dans un village cathlanaminim. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 132-141 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BELLEAU",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "FR-belleau-antoine-willamette",
+    "nom": "Vallée de la Willamette : Antoine Belleau",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Belleau"
+    ],
+    "description": "Vallée de la Willamette, 1811. Antoine Belleau déserte avec Jérémie et est racheté dans un village cathlanaminim. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 132-141 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BELLEAU",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-brusle-louis-astoria",
+    "nom": "Astoria (fort Astoria) : Louis Bruslé",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Bruslé"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Louis Bruslé embarque comme domestique de McKay pour le cabotage du Tonquin. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 117 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BRUSLÉ",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "FR-bruguiere-regis-fort-okana",
+    "nom": "Fort Okanagan : Régis Bruguière",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Régis Bruguière"
+    ],
+    "description": "Fort Okanagan, 1811. Régis Bruguière piège le castor après avoir perdu son équipement sur la Saskatchewan. D'après Franchère (1854). Autres lieux de l'entrée : vallée de la Willamette.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 130, 144, 286 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BRUGUIÈRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "FR-bruguiere-regis-willamette",
+    "nom": "Vallée de la Willamette : Régis Bruguière",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Régis Bruguière"
+    ],
+    "description": "Vallée de la Willamette, 1812. Régis Bruguière chasse le castor au piège. D'après Franchère (1854). Autres lieux de l'entrée : fort Okanagan.",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 130, 144, 286 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BRUGUIÈRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-larocque-joseph-astoria",
+    "nom": "Astoria (fort Astoria) : Joseph Larocque",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Larocque"
+    ],
+    "description": "Astoria (fort Astoria), 1813. Joseph Larocque arrive le 11 avril avec McTavish et dix-neuf voyageurs en canots d'écorce. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 169 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LAROCQUE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "FR-dorion-pierre-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : Pierre Dorion",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "evenement",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1814. Pierre Dorion est tué par les Indiens en piégeant le castor avec le parti de Reed. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 172, 274 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=DORION",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-leclerc-gilles-astoria",
+    "nom": "Astoria (fort Astoria) : Gilles Leclerc",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gilles Leclerc"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Gilles Leclerc arrive comme voyageur sur le Tonquin. D'après Franchère (1854). Autres lieux de l'entrée : pays des Serpents (rivière Snake).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I, p. 274-275 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LECLERC",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "FR-leclerc-gilles-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : Gilles Leclerc",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gilles Leclerc"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1814. Gilles Leclerc meurt de ses blessures dans la tente de Dorion. D'après Franchère (1854). Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, ch. I, p. 274-275 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LECLERC",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "FR-landry-francois-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : François Landry",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "evenement",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Landry"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1814. François Landry est tué dans l'attaque du parti de Reed. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 275 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LANDRY",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "FR-turcot-jean-baptiste-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : Jean-Baptiste Turcot",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Turcot"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1814. Jean-Baptiste Turcot meurt avec le parti de Reed. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 275 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=TURCOT",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "FR-lachapelle-andre-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : André Lachapelle",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "André Lachapelle"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1814. André Lachapelle meurt avec le parti de Reed. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 275 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=LACHAPELLE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "FR-delaunay-pierre-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : Pierre Delaunay",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Delaunay"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1813. Pierre Delaunay quitte Reed à l'automne avec une Indienne et disparaît. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 275 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=DELAUNAY",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-parent-x-forgeron-astoria",
+    "nom": "Astoria (fort Astoria) : Parent (forgeron)",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Parent (forgeron)"
+    ],
+    "description": "Astoria (fort Astoria), 1813. Parent (forgeron) offre de rester au fort mais le capitaine du Raccoon refuse. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 202 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=PARENT",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "FR-desmestre-x-astoria",
+    "nom": "Astoria (fort Astoria) : Desmestre",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Desmestre"
+    ],
+    "description": "Astoria (fort Astoria), 1813. Desmestre, né à France. Retarde l'Albatross, qu'il a affrété pour le santal des Marquises. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 178 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=DESMESTRE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0,
+     53.2
+    ]
+   },
+   "properties": {
+    "id": "FR-decoigne-francois-jasper-hou",
+    "nom": "Jasper House : François Decoigne",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Decoigne"
+    ],
+    "description": "Jasper House, 1814. François Decoigne commande le poste des Rocheuses et guide le retour, mais se perd dans les bois. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 298-316, 354 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=DECOIGNE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.96,
+     54.77
+    ]
+   },
+   "properties": {
+    "id": "FR-dejarlais-antoine-lac-la-bic",
+    "nom": "Lac-la-Biche : Antoine Déjarlais",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Déjarlais"
+    ],
+    "description": "Lac-la-Biche, 1814. Antoine Déjarlais vit avec sa famille indienne et fournit œufs et gibier aux voyageurs, ancien guide du Nord-Ouest. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 311-312 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=DÉJARLAIS",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.0,
+     54.4
+    ]
+   },
+   "properties": {
+    "id": "FR-nadeau-x-chasseur-beaver-riv",
+    "nom": "Rivière aux Castors : Nadeau (chasseur)",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nadeau (chasseur)"
+    ],
+    "description": "Rivière aux Castors, 1814. Nadeau (chasseur) survit presque affamé en vieux chasseur canadien. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 313 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=NADEAU",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.7,
+     52.85
+    ]
+   },
+   "properties": {
+    "id": "FR-prudent-x-fort-de-la",
+    "nom": "Fort de la Montée (Saskatchewan) : Prudent",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Prudent"
+    ],
+    "description": "Fort de la Montée (Saskatchewan), 1814. Prudent commande le poste de la Baie d'Hudson. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 325 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=PRUDENT",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.7,
+     52.85
+    ]
+   },
+   "properties": {
+    "id": "FR-rastel-de-rocheblave-pierre-fort-de-la",
+    "nom": "Fort de la Montée (Saskatchewan) : Pierre Rastel de Rocheblave",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "poste",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Rastel de Rocheblave"
+    ],
+    "description": "Fort de la Montée (Saskatchewan), 1814. Pierre Rastel de Rocheblave dirige le district pour le Nord-Ouest et règle l'affaire du pemmican avec Miles Macdonell. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 325, 333 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=RASTEL+DE+ROCHEBLAVE",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.32,
+     50.62
+    ]
+   },
+   "properties": {
+    "id": "FR-crebassa-x-bas-de-la-",
+    "nom": "Fort du Bas-de-la-Rivière (Winnipeg) : Crébassa",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Crébassa"
+    ],
+    "description": "Fort du Bas-de-la-Rivière (Winnipeg), 1814. Crébassa dirige le poste avec Kennedy et donne des nouvelles du Canada. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 331 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=CRÉBASSA",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "FR-boucher-x-kaministiquia-kaministiq",
+    "nom": "Kaministiquia (Fort William) : Boucher (Kaministiquia)",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Boucher (Kaministiquia)"
+    ],
+    "description": "Kaministiquia (Fort William), 1814. Boucher (Kaministiquia) tient un cabaret au pied du rapide. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 337 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=BOUCHER",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "FR-nolin-jean-baptiste-sault-sain",
+    "nom": "Sault-Sainte-Marie : Jean-Baptiste Nolin",
+    "corpus": "archive.org · Franchère (1854)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Nolin"
+    ],
+    "description": "Sault-Sainte-Marie, 1814. Jean-Baptiste Nolin fait la traite depuis longtemps et élève ses trois fils et trois filles métis. D'après Franchère (1854).",
+    "sources": "Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield, p. 351-352 ; texte intégral : archive.org, cihm_35175.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Franchère (1854)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_35175?q=NOLIN",
+      "texte": "Lire Franchère (1854) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
