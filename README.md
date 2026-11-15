@@ -127,3 +127,5 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Dugas, *L'Ouest canadien* (1896) | `cihm_30150` | 102 |
 | Dugas, *Histoire de l'Ouest canadien de 1822 à 1869* (1906) | `histoiredelouest00dugauoft` | 56 |
 | Dugas, *Un voyageur des pays d'en haut* (1890) | `unvoyageurdespay00duga` | 23 |
+| Dugas, *La première Canadienne du Nord-Ouest* (1883) | `lapremirecanadi00duga` | 38 |
+| Dugas, *Monseigneur Provencher et les missions de la Rivière-Rouge* (1889) | `monseigneurprove00duga` | 86 |

@@ -164998,6 +164998,4222 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.0,
+     47.5
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-lake-super",
+    "nom": "Lac Supérieur : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Lac Supérieur, 1807. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, traverse le lac en canot de maître et survit à de violentes tempêtes. D'après Dugas (1883). Autres lieux de l'entrée : fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Fort William (lac Supérieur), 1807. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, atteint le grand poste, à mi-chemin du voyage. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5,
+     52.0
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-lake-winni",
+    "nom": "Lac Winnipeg : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Lac Winnipeg, 1807. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, arrive au début de juillet. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-pembina",
+    "nom": "Pembina : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Pembina, 1807. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, s'installe près du poste, première Canadienne établie dans le Nord-Ouest. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.9,
+     48.9
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-grand-camp",
+    "nom": "Le Grand-Camp (rivière Pembina) : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Le Grand-Camp (rivière Pembina), 1807. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, passe l'automne au camp de chasse de la rivière Pembina. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-pembina-2",
+    "nom": "Pembina : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Pembina, 1808. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, donne naissance à sa fille Reine le 6 janvier. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.27,
+     53.96
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-cumberland",
+    "nom": "Cumberland House : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Cumberland House, 1808. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, est reçue avec curiosité par les Autochtones du poste. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1808.0,
+    "fin": 1811.999,
+    "date_edtf": "1808/1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1808-1811. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, hiverne au poste avec sa famille. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     52.9
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-battle-riv",
+    "nom": "Rivière Bataille (Saskatchewan) : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Rivière Bataille (Saskatchewan), 1808. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, échappe à une course de bisons et accouche de son fils Laprairie. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.9,
+     49.6
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-cypress-hi",
+    "nom": "Montagne de Cyprès : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Montagne de Cyprès, 1810. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, donne naissance à sa fille Josette, dite Cyprès. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-pembina-3",
+    "nom": "Pembina : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Pembina, 1811. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, revient vers la Rivière-Rouge et accouche de Benjamin. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.8,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-assiniboin",
+    "nom": "Rivière Assiniboine : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Rivière Assiniboine, 1812. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, vit avec ses enfants dans une cabane isolée. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, fort Douglas (Rivière-Rouge), Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.91
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-fort-dougl",
+    "nom": "Fort Douglas (Rivière-Rouge) : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Fort Douglas (Rivière-Rouge), 1815. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, se réfugie au fort avec ses enfants pendant les troubles. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-saint-boni",
+    "nom": "Saint-Boniface : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Saint-Boniface, vers 1850. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, va vivre chez son fils Benjamin après la mort de son mari. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DG-gaboury-marie-anne-mme-lagim-saint-boni-2",
+    "nom": "Saint-Boniface : Marie-Anne Gaboury (Mme Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Anne Gaboury (Mme Lagimodière)"
+    ],
+    "description": "Saint-Boniface, vers 1875. Marie-Anne Gaboury (Mme Lagimodière), née en 1782 à Maskinongé, meurt chez son fils à quatre-vingt-seize ans. D'après Dugas (1883). Autres lieux de l'entrée : lac Supérieur, fort William (lac Supérieur), lac Winnipeg, Pembina, le Grand-Camp (rivière Pembina), Cumberland House, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), montagne de Cyprès, rivière Assiniboine, fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 9-108 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=GABOURY",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-pembina",
+    "nom": "Pembina : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1802.0,
+    "fin": 1806.999,
+    "date_edtf": "1802/1806",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Pembina, 1802-1806. Jean-Baptiste Lagimodière chasse et traite pendant cinq ans avant de redescendre au Canada. D'après Dugas (1883). Autres lieux de l'entrée : le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), rivière Assiniboine, fort William (lac Supérieur), fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-pembina-2",
+    "nom": "Pembina : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Pembina, 1807. Jean-Baptiste Lagimodière s'installe près du poste avec sa jeune femme. D'après Dugas (1883). Autres lieux de l'entrée : le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), rivière Assiniboine, fort William (lac Supérieur), fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.9,
+     48.9
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-grand-camp",
+    "nom": "Le Grand-Camp (rivière Pembina) : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Le Grand-Camp (rivière Pembina), 1807. Jean-Baptiste Lagimodière chasse le bison sur la rivière Pembina. D'après Dugas (1883). Autres lieux de l'entrée : Pembina, fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), rivière Assiniboine, fort William (lac Supérieur), fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1808.0,
+    "fin": 1811.999,
+    "date_edtf": "1808/1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1808-1811. Jean-Baptiste Lagimodière chasse à son compte autour du fort. D'après Dugas (1883). Autres lieux de l'entrée : Pembina, le Grand-Camp (rivière Pembina), rivière Bataille (Saskatchewan), rivière Assiniboine, fort William (lac Supérieur), fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     52.9
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-battle-riv",
+    "nom": "Rivière Bataille (Saskatchewan) : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Rivière Bataille (Saskatchewan), 1809. Jean-Baptiste Lagimodière poursuit des chevaux volés et perd leur piste. D'après Dugas (1883). Autres lieux de l'entrée : Pembina, le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Assiniboine, fort William (lac Supérieur), fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.8,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-assiniboin",
+    "nom": "Rivière Assiniboine : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Rivière Assiniboine, 1812. Jean-Baptiste Lagimodière bâtit une maison de bois brut. D'après Dugas (1883). Autres lieux de l'entrée : Pembina, le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), fort William (lac Supérieur), fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Fort William (lac Supérieur), 1816. Jean-Baptiste Lagimodière est fait prisonnier au retour de son voyage à Montréal. D'après Dugas (1883). Autres lieux de l'entrée : Pembina, le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), rivière Assiniboine, fort Douglas (Rivière-Rouge).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.91
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-jean-baptiste-bi-fort-dougl",
+    "nom": "Fort Douglas (Rivière-Rouge) : Jean-Baptiste Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lagimodière"
+    ],
+    "description": "Fort Douglas (Rivière-Rouge), 1818. Jean-Baptiste Lagimodière installe sa famille près de l'Assiniboine. D'après Dugas (1883). Autres lieux de l'entrée : Pembina, le Grand-Camp (rivière Pembina), fort des Prairies (Edmonton), rivière Bataille (Saskatchewan), rivière Assiniboine, fort William (lac Supérieur).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 10-107 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-reine-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Reine Lagimodière",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Reine Lagimodière"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1808. Reine Lagimodière, née en 1808 à Pembina, suit ses parents dans leurs déplacements. D'après Dugas (1883).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 31 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DG-lagimodiere-josette-dite-cyp-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Josette Lagimodière (dite Cyprès)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Josette Lagimodière (dite Cyprès)"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1810. Josette Lagimodière (dite Cyprès), né en 1810 à Cypress Hills, échappe à une tentative d'échange contre des chevaux. D'après Dugas (1883).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 65-66 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAGIMODIÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DG-bouvier-x-bis-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Bouvier",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bouvier"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1807. Bouvier. Attaqué par une ourse en route, il est soigné par Mme Lagimodière. D'après Dugas (1883). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 37-39 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=BOUVIER",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DG-bouvier-x-bis-saint-boni",
+    "nom": "Saint-Boniface : Bouvier",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Bouvier"
+    ],
+    "description": "Saint-Boniface, vers 1820. Bouvier finit ses jours chez Mgr Provencher. D'après Dugas (1883). Autres lieux de l'entrée : fort des Prairies (Edmonton).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 37-39 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=BOUVIER",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.27,
+     53.96
+    ]
+   },
+   "properties": {
+    "id": "DG-belgrade-x-cumberland",
+    "nom": "Cumberland House : Belgrade",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "poste",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Belgrade"
+    ],
+    "description": "Cumberland House, 1807. Belgrade arrive au poste avant ses compagnons. D'après Dugas (1883). Autres lieux de l'entrée : rivière Bataille (Saskatchewan), pays des Sarcis.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 34-60 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=BELGRADE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     52.9
+    ]
+   },
+   "properties": {
+    "id": "DG-belgrade-x-battle-riv",
+    "nom": "Rivière Bataille (Saskatchewan) : Belgrade",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Belgrade"
+    ],
+    "description": "Rivière Bataille (Saskatchewan), 1808. Belgrade campe avec Lagimodière près d'une petite rivière. D'après Dugas (1883). Autres lieux de l'entrée : Cumberland House, pays des Sarcis.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 34-60 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=BELGRADE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.3,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DG-belgrade-x-sarcee-cou",
+    "nom": "Pays des Sarcis : Belgrade",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "evenement",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Belgrade"
+    ],
+    "description": "Pays des Sarcis, 1809. Belgrade voit sa femme massacrée par les Sarcis. D'après Dugas (1883). Autres lieux de l'entrée : Cumberland House, rivière Bataille (Saskatchewan).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 34-60 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=BELGRADE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-chalifoux-x-pembina",
+    "nom": "Pembina : Chalifoux",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chalifoux"
+    ],
+    "description": "Pembina, 1807. Chalifoux se joint à l'expédition vers la Saskatchewan. D'après Dugas (1883). Autres lieux de l'entrée : pays des Sarcis.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 33, 60 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=CHALIFOUX",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.3,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DG-chalifoux-x-sarcee-cou",
+    "nom": "Pays des Sarcis : Chalifoux",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "evenement",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Chalifoux"
+    ],
+    "description": "Pays des Sarcis, 1809. Chalifoux voit sa femme massacrée par les Sarcis. D'après Dugas (1883). Autres lieux de l'entrée : Pembina.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 33, 60 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=CHALIFOUX",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DG-paquin-x-pembina",
+    "nom": "Pembina : Paquin",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paquin"
+    ],
+    "description": "Pembina, 1807. Paquin part avec Lagimodière vers la Saskatchewan. D'après Dugas (1883). Autres lieux de l'entrée : fort des Prairies (Edmonton).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 33, 63 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=PAQUIN",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DG-paquin-x-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Paquin",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "evenement",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Paquin"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1809. Paquin arrive au fort après le massacre. D'après Dugas (1883). Autres lieux de l'entrée : Pembina.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 33, 63 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=PAQUIN",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.3,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DG-caplette-x-sarcee-cou",
+    "nom": "Pays des Sarcis : Caplette",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "evenement",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Caplette"
+    ],
+    "description": "Pays des Sarcis, 1809. Caplette voit sa femme massacrée et s'enfuit vers le fort. D'après Dugas (1883).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 60 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=CAPLETTE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     52.9
+    ]
+   },
+   "properties": {
+    "id": "DG-letendre-dit-batoche-x-battle-riv",
+    "nom": "Rivière Bataille (Saskatchewan) : Letendre dit Batoche",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Letendre dit Batoche"
+    ],
+    "description": "Rivière Bataille (Saskatchewan), 1808. Letendre dit Batoche vit parmi les Autochtones et rassure Mme Lagimodière. D'après Dugas (1883).",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 49 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LETENDRE+DIT+BATOCHE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DG-lamere-x-mme-nee-lagimodiere-red-river",
+    "nom": "Rivière-Rouge : Lamère (Mme, née Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lamère (Mme, née Lagimodière)"
+    ],
+    "description": "Rivière-Rouge, 1826. Lamère (Mme, née Lagimodière) quitte la colonie pour les États-Unis après les inondations. D'après Dugas (1883). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 105-106 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAMÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DG-lamere-x-mme-nee-lagimodiere-saint-boni",
+    "nom": "Saint-Boniface : Lamère (Mme, née Lagimodière)",
+    "corpus": "archive.org · Dugas (1883)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Lamère (Mme, née Lagimodière)"
+    ],
+    "description": "Saint-Boniface, vers 1872. Lamère (Mme, née Lagimodière) revient s'y installer après quarante-six ans d'absence. D'après Dugas (1883). Autres lieux de l'entrée : Rivière-Rouge.",
+    "sources": "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph, p. 105-106 ; texte intégral : archive.org, lapremirecanadi00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lapremirecanadi00duga?q=LAMÈRE",
+      "texte": "Lire Dugas (1883) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.91
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-fort-dougl",
+    "nom": "Fort Douglas (Rivière-Rouge) : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Fort Douglas (Rivière-Rouge), 1818. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, s'installe au fort et y célèbre la première messe de la colonie. D'après Dugas (1889). Autres lieux de l'entrée : Pembina, Saint-Boniface, Rivière-Rouge.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-pembina",
+    "nom": "Pembina : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Pembina, 1819. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, poursuit la construction d'un poste de mission. D'après Dugas (1889). Autres lieux de l'entrée : fort Douglas (Rivière-Rouge), Saint-Boniface, Rivière-Rouge.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-saint-boni",
+    "nom": "Saint-Boniface : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Saint-Boniface, 1822. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, revient évêque et reçoit un accueil chaleureux. D'après Dugas (1889). Autres lieux de l'entrée : fort Douglas (Rivière-Rouge), Pembina, Rivière-Rouge.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-red-river",
+    "nom": "Rivière-Rouge : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Rivière-Rouge, 1837. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, retrouve sa mission pauvre et endettée. D'après Dugas (1889). Autres lieux de l'entrée : fort Douglas (Rivière-Rouge), Pembina, Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-saint-boni-2",
+    "nom": "Saint-Boniface : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Saint-Boniface, 1844. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, accueille les Sœurs grises. D'après Dugas (1889). Autres lieux de l'entrée : fort Douglas (Rivière-Rouge), Pembina, Rivière-Rouge.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-saint-boni-3",
+    "nom": "Saint-Boniface : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Saint-Boniface, 1846. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, dessert seul trois missions et reçoit les premiers oblats. D'après Dugas (1889). Autres lieux de l'entrée : fort Douglas (Rivière-Rouge), Pembina, Rivière-Rouge.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-provencher-joseph-norbert-mg-saint-boni-4",
+    "nom": "Saint-Boniface : Joseph-Norbert Provencher (Mgr)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Norbert Provencher (Mgr)"
+    ],
+    "description": "Saint-Boniface, 1853. Joseph-Norbert Provencher (Mgr), né en 1787 à Nicolet, meurt en juin et est inhumé sous le sanctuaire de sa cathédrale. D'après Dugas (1889). Autres lieux de l'entrée : fort Douglas (Rivière-Rouge), Pembina, Rivière-Rouge.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 61-91, 119, 181, 226, 240, 285, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PROVENCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DP-dumoulin-severe-joseph-norbe-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Sévère-Joseph-Norbert Dumoulin (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sévère-Joseph-Norbert Dumoulin (abbé)"
+    ],
+    "description": "Fort William (lac Supérieur), 1818. Sévère-Joseph-Norbert Dumoulin (abbé), né en 1793 à Sainte-Anne-de-Bellevue, arrive au fort avec Provencher. D'après Dugas (1889). Autres lieux de l'entrée : Pembina, lac la Pluie, baie d'Hudson.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 66-89, 121, 314-315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DUMOULIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DP-dumoulin-severe-joseph-norbe-pembina",
+    "nom": "Pembina : Sévère-Joseph-Norbert Dumoulin (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1818.0,
+    "fin": 1823.999,
+    "date_edtf": "1818/1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sévère-Joseph-Norbert Dumoulin (abbé)"
+    ],
+    "description": "Pembina, 1818-1823. Sévère-Joseph-Norbert Dumoulin (abbé), né en 1793 à Sainte-Anne-de-Bellevue, bâtit une maison et une chapelle et dessert la nombreuse population du poste. D'après Dugas (1889). Autres lieux de l'entrée : fort William (lac Supérieur), lac la Pluie, baie d'Hudson.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 66-89, 121, 314-315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DUMOULIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "DP-dumoulin-severe-joseph-norbe-rainy-lake",
+    "nom": "Lac la Pluie : Sévère-Joseph-Norbert Dumoulin (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sévère-Joseph-Norbert Dumoulin (abbé)"
+    ],
+    "description": "Lac la Pluie, 1819. Sévère-Joseph-Norbert Dumoulin (abbé), né en 1793 à Sainte-Anne-de-Bellevue, donne une mission aux voyageurs. D'après Dugas (1889). Autres lieux de l'entrée : fort William (lac Supérieur), Pembina, baie d'Hudson.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 66-89, 121, 314-315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DUMOULIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.0,
+     58.5
+    ]
+   },
+   "properties": {
+    "id": "DP-dumoulin-severe-joseph-norbe-hudson-bay",
+    "nom": "Baie d'Hudson : Sévère-Joseph-Norbert Dumoulin (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sévère-Joseph-Norbert Dumoulin (abbé)"
+    ],
+    "description": "Baie d'Hudson, 1820. Sévère-Joseph-Norbert Dumoulin (abbé), né en 1793 à Sainte-Anne-de-Bellevue, y est envoyé en mission. D'après Dugas (1889). Autres lieux de l'entrée : fort William (lac Supérieur), Pembina, lac la Pluie.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 66-89, 121, 314-315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DUMOULIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DP-lemoine-x-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Lemoine",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "poste",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lemoine"
+    ],
+    "description": "Fort William (lac Supérieur), 1818. Lemoine. Commandant du fort, il accueille les missionnaires au bruit du canon. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 66 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LEMOINE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "DP-tabeau-x-rainy-lake",
+    "nom": "Lac la Pluie : Tabeau",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Tabeau"
+    ],
+    "description": "Lac la Pluie, 1818. Tabeau fournit à la mission des voyageurs peu compétents. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 68 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=TABEAU",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-sauve-j-abbe-saint-boni",
+    "nom": "Saint-Boniface : J. Sauvé (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. Sauvé (abbé)"
+    ],
+    "description": "Saint-Boniface, 1820. J. Sauvé (abbé), né en 1794 à Vaudreuil, accompagne l'abbé Destroismaisons à son arrivée. D'après Dugas (1889). Autres lieux de l'entrée : Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 91, 131, 315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=SAUVÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DP-sauve-j-abbe-pembina",
+    "nom": "Pembina : J. Sauvé (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. Sauvé (abbé)"
+    ],
+    "description": "Pembina, 1820. J. Sauvé (abbé), né en 1794 à Vaudreuil, poursuit l'école de la mission. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 91, 131, 315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=SAUVÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-destroismaisons-thomas-abbe-saint-boni",
+    "nom": "Saint-Boniface : Thomas Destroismaisons (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Destroismaisons (abbé)"
+    ],
+    "description": "Saint-Boniface, 1820. Thomas Destroismaisons (abbé), né à Saint-Pierre-de-la-Rivière-du-Sud, arrive pour seconder Provencher et enseigne à l'école. D'après Dugas (1889). Autres lieux de l'entrée : Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 91, 120, 315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DESTROISMAISONS",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "DP-destroismaisons-thomas-abbe-saint-fran",
+    "nom": "Saint-François-Xavier (Prairie-du-Cheval-Blanc) : Thomas Destroismaisons (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Destroismaisons (abbé)"
+    ],
+    "description": "Saint-François-Xavier (Prairie-du-Cheval-Blanc), 1824. Thomas Destroismaisons (abbé), né à Saint-Pierre-de-la-Rivière-du-Sud, commence la desserte de la paroisse, jusqu'en 1827. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 91, 120, 315 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DESTROISMAISONS",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-harper-jean-abbe-red-river",
+    "nom": "Rivière-Rouge : Jean Harper (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Harper (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1822. Jean Harper (abbé), né en 1801 à Québec, accompagne Mgr Provencher. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 113, 316 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=HARPER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-harper-jean-abbe-red-river-2",
+    "nom": "Rivière-Rouge : Jean Harper (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Harper (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1824. Jean Harper (abbé), né en 1801 à Québec, reçoit la prêtrise. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 113, 316 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=HARPER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-harper-jean-abbe-red-river-3",
+    "nom": "Rivière-Rouge : Jean Harper (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1831.0,
+    "fin": 1831.0,
+    "date_edtf": "1831",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Harper (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1831. Jean Harper (abbé), né en 1801 à Québec, quitte le pays en août. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 113, 316 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=HARPER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-chenier-x-saint-boni",
+    "nom": "Saint-Boniface : Chénier",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chénier"
+    ],
+    "description": "Saint-Boniface, 1823. Chénier. Jeune Métis, il étudie le latin au collège de l'évêché. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 131 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=CHÉNIER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-senecal-x-saint-boni",
+    "nom": "Saint-Boniface : Sénécal",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sénécal"
+    ],
+    "description": "Saint-Boniface, 1823. Sénécal suit le cours classique du collège. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 131 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=SÉNÉCAL",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DP-nolin-demoiselles-f-pembina",
+    "nom": "Pembina : demoiselles Nolin (f)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "demoiselles Nolin (f)"
+    ],
+    "description": "Pembina, 1829. demoiselles Nolin (f) tiennent l'école de filles de la mission. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 146 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=NOLIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-boucher-francois-abbe-red-river",
+    "nom": "Rivière-Rouge : François Boucher (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Boucher (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1827. François Boucher (abbé), né en 1804 à Saint-François-de-la-Beauce, monte à la mission pour remplacer l'abbé Destroismaisons. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 142, 316 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BOUCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-boucher-francois-abbe-red-river-2",
+    "nom": "Rivière-Rouge : François Boucher (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Boucher (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1829. François Boucher (abbé), né en 1804 à Saint-François-de-la-Beauce, est ordonné prêtre le 16 août. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 142, 316 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BOUCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-boucher-francois-abbe-red-river-3",
+    "nom": "Rivière-Rouge : François Boucher (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Boucher (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1833. François Boucher (abbé), né en 1804 à Saint-François-de-la-Beauce, quitte la mission. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 142, 316 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BOUCHER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-belcourt-georges-antoine-abb-red-river",
+    "nom": "Rivière-Rouge : Georges-Antoine Belcourt (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1831.0,
+    "fin": 1831.0,
+    "date_edtf": "1831",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Georges-Antoine Belcourt (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1831. Georges-Antoine Belcourt (abbé), né en 1803 à Baie-du-Febvre, arrive avec Mgr Provencher. D'après Dugas (1889). Autres lieux de l'entrée : Baie-Saint-Paul (Assiniboine), lac la Pluie, Baie-des-Canards (lac Manitoba), Saint-Boniface, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 150, 196-205, 238, 316-317 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BELCOURT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.65,
+     49.87
+    ]
+   },
+   "properties": {
+    "id": "DP-belcourt-georges-antoine-abb-baie-saint",
+    "nom": "Baie-Saint-Paul (Assiniboine) : Georges-Antoine Belcourt (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Georges-Antoine Belcourt (abbé)"
+    ],
+    "description": "Baie-Saint-Paul (Assiniboine), 1834. Georges-Antoine Belcourt (abbé), né en 1803 à Baie-du-Febvre, ouvre une mission réservée aux Autochtones. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, lac la Pluie, Baie-des-Canards (lac Manitoba), Saint-Boniface, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 150, 196-205, 238, 316-317 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BELCOURT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "DP-belcourt-georges-antoine-abb-rainy-lake",
+    "nom": "Lac la Pluie : Georges-Antoine Belcourt (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Georges-Antoine Belcourt (abbé)"
+    ],
+    "description": "Lac la Pluie, 1838. Georges-Antoine Belcourt (abbé), né en 1803 à Baie-du-Febvre, visite les Sauteux. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Baie-Saint-Paul (Assiniboine), Baie-des-Canards (lac Manitoba), Saint-Boniface, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 150, 196-205, 238, 316-317 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BELCOURT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DP-belcourt-georges-antoine-abb-baie-des-c",
+    "nom": "Baie-des-Canards (lac Manitoba) : Georges-Antoine Belcourt (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Georges-Antoine Belcourt (abbé)"
+    ],
+    "description": "Baie-des-Canards (lac Manitoba), 1840. Georges-Antoine Belcourt (abbé), né en 1803 à Baie-du-Febvre, fonde la mission. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Baie-Saint-Paul (Assiniboine), lac la Pluie, Saint-Boniface, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 150, 196-205, 238, 316-317 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BELCOURT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-belcourt-georges-antoine-abb-saint-boni",
+    "nom": "Saint-Boniface : Georges-Antoine Belcourt (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Georges-Antoine Belcourt (abbé)"
+    ],
+    "description": "Saint-Boniface, 1845. Georges-Antoine Belcourt (abbé), né en 1803 à Baie-du-Febvre, enseigne la langue sauteuse aux nouveaux missionnaires. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Baie-Saint-Paul (Assiniboine), lac la Pluie, Baie-des-Canards (lac Manitoba), Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 150, 196-205, 238, 316-317 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BELCOURT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DP-belcourt-georges-antoine-abb-pembina",
+    "nom": "Pembina : Georges-Antoine Belcourt (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Georges-Antoine Belcourt (abbé)"
+    ],
+    "description": "Pembina, 1849. Georges-Antoine Belcourt (abbé), né en 1803 à Baie-du-Febvre, établit la mission en territoire américain. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Baie-Saint-Paul (Assiniboine), lac la Pluie, Baie-des-Canards (lac Manitoba), Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 150, 196-205, 238, 316-317 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BELCOURT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-poire-charles-edouard-abbe-saint-boni",
+    "nom": "Saint-Boniface : Charles-Édouard Poiré (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles-Édouard Poiré (abbé)"
+    ],
+    "description": "Saint-Boniface, 1833. Charles-Édouard Poiré (abbé) est ordonné prêtre et dessert Saint-François-Xavier. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=POIRÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-thibault-jean-baptiste-abbe-saint-boni",
+    "nom": "Saint-Boniface : Jean-Baptiste Thibault (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Thibault (abbé)"
+    ],
+    "description": "Saint-Boniface, 1833. Jean-Baptiste Thibault (abbé), né en 1810 à Pointe-Lévis, est ordonné prêtre et dirige le cours classique de l'évêché. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Baie-des-Canards (lac Manitoba), fort des Prairies (Edmonton), Lac-Sainte-Anne, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155, 202-203, 228-229, 245, 276, 317-318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=THIBAULT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-thibault-jean-baptiste-abbe-red-river",
+    "nom": "Rivière-Rouge : Jean-Baptiste Thibault (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Thibault (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1837. Jean-Baptiste Thibault (abbé), né en 1810 à Pointe-Lévis, fait achever la cathédrale. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Baie-des-Canards (lac Manitoba), fort des Prairies (Edmonton), Lac-Sainte-Anne, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155, 202-203, 228-229, 245, 276, 317-318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=THIBAULT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DP-thibault-jean-baptiste-abbe-baie-des-c",
+    "nom": "Baie-des-Canards (lac Manitoba) : Jean-Baptiste Thibault (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Thibault (abbé)"
+    ],
+    "description": "Baie-des-Canards (lac Manitoba), 1841. Jean-Baptiste Thibault (abbé), né en 1810 à Pointe-Lévis, fait construire une chapelle. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Rivière-Rouge, fort des Prairies (Edmonton), Lac-Sainte-Anne, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155, 202-203, 228-229, 245, 276, 317-318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=THIBAULT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4,
+     53.6
+    ]
+   },
+   "properties": {
+    "id": "DP-thibault-jean-baptiste-abbe-fort-des-p",
+    "nom": "Fort des Prairies (Edmonton) : Jean-Baptiste Thibault (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Thibault (abbé)"
+    ],
+    "description": "Fort des Prairies (Edmonton), 1842. Jean-Baptiste Thibault (abbé), né en 1810 à Pointe-Lévis, part en voyage de six mois jusqu'au pied des Rocheuses. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Rivière-Rouge, Baie-des-Canards (lac Manitoba), Lac-Sainte-Anne, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155, 202-203, 228-229, 245, 276, 317-318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=THIBAULT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.43,
+     53.7
+    ]
+   },
+   "properties": {
+    "id": "DP-thibault-jean-baptiste-abbe-lac-sainte",
+    "nom": "Lac-Sainte-Anne : Jean-Baptiste Thibault (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Thibault (abbé)"
+    ],
+    "description": "Lac-Sainte-Anne, 1844. Jean-Baptiste Thibault (abbé), né en 1810 à Pointe-Lévis, établit la mission, à deux jours d'Edmonton. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Rivière-Rouge, Baie-des-Canards (lac Manitoba), fort des Prairies (Edmonton), Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155, 202-203, 228-229, 245, 276, 317-318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=THIBAULT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "DP-thibault-jean-baptiste-abbe-saint-fran",
+    "nom": "Saint-François-Xavier (Prairie-du-Cheval-Blanc) : Jean-Baptiste Thibault (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1851.0,
+    "fin": 1869.999,
+    "date_edtf": "1851/1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Thibault (abbé)"
+    ],
+    "description": "Saint-François-Xavier (Prairie-du-Cheval-Blanc), 1851-1869. Jean-Baptiste Thibault (abbé), né en 1810 à Pointe-Lévis, dessert la paroisse. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Rivière-Rouge, Baie-des-Canards (lac Manitoba), fort des Prairies (Edmonton), Lac-Sainte-Anne.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 155, 202-203, 228-229, 245, 276, 317-318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=THIBAULT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0,
+     46.0
+    ]
+   },
+   "properties": {
+    "id": "DP-demers-modeste-abbe-bis-columbia-r",
+    "nom": "Fleuve Columbia : Modeste Demers (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Modeste Demers (abbé)"
+    ],
+    "description": "Fleuve Columbia, 1838. Modeste Demers (abbé) atteint la Colombie avec l'abbé Blanchet après un long voyage. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 185 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DEMERS",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-blanchet-francois-norbert-ab-saint-boni",
+    "nom": "Saint-Boniface : François-Norbert Blanchet (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Norbert Blanchet (abbé)"
+    ],
+    "description": "Saint-Boniface, 1838. François-Norbert Blanchet (abbé) quitte la mission pour la Colombie. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 184-186 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BLANCHET",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0,
+     46.0
+    ]
+   },
+   "properties": {
+    "id": "DP-bolduc-jean-baptiste-zachari-columbia-r",
+    "nom": "Fleuve Columbia : Jean-Baptiste-Zacharie Bolduc (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste-Zacharie Bolduc (abbé)"
+    ],
+    "description": "Fleuve Columbia, 1842. Jean-Baptiste-Zacharie Bolduc (abbé) arrive dans la Colombie par le cap Horn. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 191 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BOLDUC",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0,
+     46.0
+    ]
+   },
+   "properties": {
+    "id": "DP-langlois-antoine-abbe-columbia-r",
+    "nom": "Fleuve Columbia : Antoine Langlois (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Langlois (abbé)"
+    ],
+    "description": "Fleuve Columbia, 1842. Antoine Langlois (abbé) arrive dans la Colombie avec Bolduc par le cap Horn. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 191 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LANGLOIS",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-pichet-x-red-river",
+    "nom": "Rivière-Rouge : Pichet",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pichet"
+    ],
+    "description": "Rivière-Rouge, 1840. Pichet. Métis, il s'instruit de la religion durant l'hiver. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 201 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=PICHET",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "DP-mayrand-j-arsene-abbe-red-river",
+    "nom": "Rivière-Rouge : J.-Arsène Mayrand (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J.-Arsène Mayrand (abbé)"
+    ],
+    "description": "Rivière-Rouge, 1838. J.-Arsène Mayrand (abbé), né en 1811 à Deschambault, arrive et étudie la langue sauteuse. D'après Dugas (1889). Autres lieux de l'entrée : Saint-François-Xavier (Prairie-du-Cheval-Blanc), Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 194, 238, 318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=MAYRAND",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "DP-mayrand-j-arsene-abbe-saint-fran",
+    "nom": "Saint-François-Xavier (Prairie-du-Cheval-Blanc) : J.-Arsène Mayrand (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J.-Arsène Mayrand (abbé)"
+    ],
+    "description": "Saint-François-Xavier (Prairie-du-Cheval-Blanc), 1839. J.-Arsène Mayrand (abbé), né en 1811 à Deschambault, reçoit la charge de la paroisse. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 194, 238, 318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=MAYRAND",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-mayrand-j-arsene-abbe-saint-boni",
+    "nom": "Saint-Boniface : J.-Arsène Mayrand (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J.-Arsène Mayrand (abbé)"
+    ],
+    "description": "Saint-Boniface, 1843. J.-Arsène Mayrand (abbé), né en 1811 à Deschambault, garde la mission pendant le voyage de Mgr Provencher. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 194, 238, 318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=MAYRAND",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-mayrand-j-arsene-abbe-saint-boni-2",
+    "nom": "Saint-Boniface : J.-Arsène Mayrand (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J.-Arsène Mayrand (abbé)"
+    ],
+    "description": "Saint-Boniface, 1845. J.-Arsène Mayrand (abbé), né en 1811 à Deschambault, quitte la mission pour le Canada. D'après Dugas (1889). Autres lieux de l'entrée : Rivière-Rouge, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 194, 238, 318 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=MAYRAND",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-darveau-jean-edouard-abbe-saint-boni",
+    "nom": "Saint-Boniface : Jean-Édouard Darveau (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Édouard Darveau (abbé)"
+    ],
+    "description": "Saint-Boniface, 1841. Jean-Édouard Darveau (abbé), né en 1816 à Québec, arrive et passe l'hiver avec Belcourt à apprendre le sauteux. D'après Dugas (1889). Autres lieux de l'entrée : Baie-des-Canards (lac Manitoba), lac Manitoba.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 204-205, 233, 319 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DARVEAU",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DP-darveau-jean-edouard-abbe-baie-des-c",
+    "nom": "Baie-des-Canards (lac Manitoba) : Jean-Édouard Darveau (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Édouard Darveau (abbé)"
+    ],
+    "description": "Baie-des-Canards (lac Manitoba), 1842. Jean-Édouard Darveau (abbé), né en 1816 à Québec, est chargé de la mission. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, lac Manitoba.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 204-205, 233, 319 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DARVEAU",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.8,
+     50.9
+    ]
+   },
+   "properties": {
+    "id": "DP-darveau-jean-edouard-abbe-lake-manit",
+    "nom": "Lac Manitoba : Jean-Édouard Darveau (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Édouard Darveau (abbé)"
+    ],
+    "description": "Lac Manitoba, 1844. Jean-Édouard Darveau (abbé), né en 1816 à Québec, se noie, son corps est déposé à la cathédrale. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Baie-des-Canards (lac Manitoba).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 204-205, 233, 319 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DARVEAU",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.43,
+     53.7
+    ]
+   },
+   "properties": {
+    "id": "DP-bourassa-joseph-abbe-bis-lac-sainte",
+    "nom": "Lac-Sainte-Anne : Joseph Bourassa (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Bourassa (abbé)"
+    ],
+    "description": "Lac-Sainte-Anne, 1844. Joseph Bourassa (abbé) rejoint Thibault à la mission. D'après Dugas (1889). Autres lieux de l'entrée : rivière la Paix.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 227-231 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BOURASSA",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.3,
+     56.2
+    ]
+   },
+   "properties": {
+    "id": "DP-bourassa-joseph-abbe-bis-peace-rive",
+    "nom": "Rivière la Paix : Joseph Bourassa (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Bourassa (abbé)"
+    ],
+    "description": "Rivière la Paix, 1845. Joseph Bourassa (abbé) baptise cent sept personnes. D'après Dugas (1889). Autres lieux de l'entrée : Lac-Sainte-Anne.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 227-231 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BOURASSA",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-lafleche-louis-francois-abbe-saint-boni",
+    "nom": "Saint-Boniface : Louis-François Laflèche (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-François Laflèche (abbé)"
+    ],
+    "description": "Saint-Boniface, 1845. Louis-François Laflèche (abbé) étudie la langue crise. D'après Dugas (1889). Autres lieux de l'entrée : Île-à-la-Crosse, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 233, 240-283, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LAFLÈCHE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     55.45
+    ]
+   },
+   "properties": {
+    "id": "DP-lafleche-louis-francois-abbe-ile-a-la-c",
+    "nom": "Île-à-la-Crosse : Louis-François Laflèche (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-François Laflèche (abbé)"
+    ],
+    "description": "Île-à-la-Crosse, 1846. Louis-François Laflèche (abbé) apprend le cri et le montagnais avec le P. Taché. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 233, 240-283, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LAFLÈCHE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "DP-lafleche-louis-francois-abbe-saint-fran",
+    "nom": "Saint-François-Xavier (Prairie-du-Cheval-Blanc) : Louis-François Laflèche (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-François Laflèche (abbé)"
+    ],
+    "description": "Saint-François-Xavier (Prairie-du-Cheval-Blanc), 1849. Louis-François Laflèche (abbé) reçoit la desserte de la paroisse. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Île-à-la-Crosse.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 233, 240-283, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LAFLÈCHE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-lafleche-louis-francois-abbe-saint-boni-2",
+    "nom": "Saint-Boniface : Louis-François Laflèche (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-François Laflèche (abbé)"
+    ],
+    "description": "Saint-Boniface, 1853. Louis-François Laflèche (abbé) administre le diocèse et écrit le récit de la mort de Mgr Provencher. D'après Dugas (1889). Autres lieux de l'entrée : Île-à-la-Crosse, Saint-François-Xavier (Prairie-du-Cheval-Blanc).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 233, 240-283, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LAFLÈCHE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-tache-alexandre-antonin-bis-saint-boni",
+    "nom": "Saint-Boniface : Alexandre-Antonin Taché",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre-Antonin Taché"
+    ],
+    "description": "Saint-Boniface, 1845. Alexandre-Antonin Taché arrive comme sous-diacre le 25 août. D'après Dugas (1889). Autres lieux de l'entrée : Île-à-la-Crosse, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-276, 309-312 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=TACHÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     55.45
+    ]
+   },
+   "properties": {
+    "id": "DP-tache-alexandre-antonin-bis-ile-a-la-c",
+    "nom": "Île-à-la-Crosse : Alexandre-Antonin Taché",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre-Antonin Taché"
+    ],
+    "description": "Île-à-la-Crosse, 1846. Alexandre-Antonin Taché évangélise les Cris et les Montagnais. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-276, 309-312 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=TACHÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DP-tache-alexandre-antonin-bis-pembina",
+    "nom": "Pembina : Alexandre-Antonin Taché",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre-Antonin Taché"
+    ],
+    "description": "Pembina, 1851. Alexandre-Antonin Taché atteint Pembina après vingt-trois jours par le chemin des Bois. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Île-à-la-Crosse.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-276, 309-312 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=TACHÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-tache-alexandre-antonin-bis-saint-boni-2",
+    "nom": "Saint-Boniface : Alexandre-Antonin Taché",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre-Antonin Taché"
+    ],
+    "description": "Saint-Boniface, 1862. Alexandre-Antonin Taché préside l'exhumation des restes de Mgr Provencher et prononce son oraison funèbre. D'après Dugas (1889). Autres lieux de l'entrée : Île-à-la-Crosse, Pembina.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-276, 309-312 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=TACHÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-aubert-pierre-pere-bis-saint-boni",
+    "nom": "Saint-Boniface : Pierre Aubert (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Aubert (père)"
+    ],
+    "description": "Saint-Boniface, 1845. Pierre Aubert (père) arrive avec le frère Taché, premier prêtre français du pays. D'après Dugas (1889). Autres lieux de l'entrée : lac Winnipeg, rivière Winnipeg.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-249 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=AUBERT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5,
+     52.0
+    ]
+   },
+   "properties": {
+    "id": "DP-aubert-pierre-pere-bis-lake-winni",
+    "nom": "Lac Winnipeg : Pierre Aubert (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Aubert (père)"
+    ],
+    "description": "Lac Winnipeg, 1846. Pierre Aubert (père) part pour la mission du lac. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, rivière Winnipeg.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-249 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=AUBERT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.6,
+     50.2
+    ]
+   },
+   "properties": {
+    "id": "DP-aubert-pierre-pere-bis-winnipeg-r",
+    "nom": "Rivière Winnipeg : Pierre Aubert (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Aubert (père)"
+    ],
+    "description": "Rivière Winnipeg, 1847. Pierre Aubert (père) visite les missions avec le P. Faraud. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, lac Winnipeg.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236-249 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=AUBERT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-bermond-x-pere-bis-saint-boni",
+    "nom": "Saint-Boniface : Bermond (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bermond (père)"
+    ],
+    "description": "Saint-Boniface, 1846. Bermond (père) arrive en septembre avec le frère Dubé. D'après Dugas (1889). Autres lieux de l'entrée : Baie-des-Canards (lac Manitoba).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 241, 249 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BERMOND",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "DP-bermond-x-pere-bis-baie-des-c",
+    "nom": "Baie-des-Canards (lac Manitoba) : Bermond (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Bermond (père)"
+    ],
+    "description": "Baie-des-Canards (lac Manitoba), 1847. Bermond (père) dessert la mission du lac Manitoba. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 241, 249 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BERMOND",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-faraud-henri-pere-bis-saint-boni",
+    "nom": "Saint-Boniface : Henri Faraud (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Faraud (père)"
+    ],
+    "description": "Saint-Boniface, 1846. Henri Faraud (père) arrive et commence l'étude des langues autochtones. D'après Dugas (1889). Autres lieux de l'entrée : rivière Winnipeg, Île-à-la-Crosse.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 241, 249-250 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=FARAUD",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.6,
+     50.2
+    ]
+   },
+   "properties": {
+    "id": "DP-faraud-henri-pere-bis-winnipeg-r",
+    "nom": "Rivière Winnipeg : Henri Faraud (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri Faraud (père)"
+    ],
+    "description": "Rivière Winnipeg, 1847. Henri Faraud (père) visite les missions avec le P. Aubert. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, Île-à-la-Crosse.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 241, 249-250 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=FARAUD",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     55.45
+    ]
+   },
+   "properties": {
+    "id": "DP-faraud-henri-pere-bis-ile-a-la-c",
+    "nom": "Île-à-la-Crosse : Henri Faraud (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Faraud (père)"
+    ],
+    "description": "Île-à-la-Crosse, 1848. Henri Faraud (père) part remplacer l'abbé Laflèche. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface, rivière Winnipeg.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 241, 249-250 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=FARAUD",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-dube-louis-frere-saint-boni",
+    "nom": "Saint-Boniface : Louis Dubé (frère)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Dubé (frère)"
+    ],
+    "description": "Saint-Boniface, 1846. Louis Dubé (frère). Frère oblat, il accompagne les PP. Bermond et Faraud. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 241 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=DUBÉ",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-lacombe-albert-bis-saint-boni",
+    "nom": "Saint-Boniface : Albert Lacombe",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Albert Lacombe"
+    ],
+    "description": "Saint-Boniface, 1851. Albert Lacombe arrive en juillet et accepte de remplacer l'abbé Thibault. D'après Dugas (1889). Autres lieux de l'entrée : Edmonton.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 273-278 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LACOMBE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.49,
+     53.546
+    ]
+   },
+   "properties": {
+    "id": "DP-lacombe-albert-bis-edmonton",
+    "nom": "Edmonton : Albert Lacombe",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Albert Lacombe"
+    ],
+    "description": "Edmonton, 1851. Albert Lacombe reçoit la mission d'Edmonton avant son noviciat. D'après Dugas (1889). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 273-278 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LACOMBE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     55.45
+    ]
+   },
+   "properties": {
+    "id": "DP-grollier-henri-pere-bis-ile-a-la-c",
+    "nom": "Île-à-la-Crosse : Henri Grollier (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Grollier (père)"
+    ],
+    "description": "Île-à-la-Crosse, 1851. Henri Grollier (père) repart avec Mgr Taché le 8 juillet pour la mission. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 277 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=GROLLIER",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-maisonneuve-x-pere-saint-boni",
+    "nom": "Saint-Boniface : Maisonneuve (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Maisonneuve (père)"
+    ],
+    "description": "Saint-Boniface, 1848. Maisonneuve (père) arrive de France, destiné aux missions du Nord. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 257 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=MAISONNEUVE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-tissot-x-pere-saint-boni",
+    "nom": "Saint-Boniface : Tissot (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Tissot (père)"
+    ],
+    "description": "Saint-Boniface, 1848. Tissot (père) arrive de France, destiné aux missions du Nord. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 257 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=TISSOT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-remas-rene-pere-saint-boni",
+    "nom": "Saint-Boniface : René Rémas (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "René Rémas (père)"
+    ],
+    "description": "Saint-Boniface, 1852. René Rémas (père) doit partir en juin rejoindre Mgr Taché. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 282, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=RÉMAS",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-vegreville-x-pere-saint-boni",
+    "nom": "Saint-Boniface : Végreville (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Végreville (père)"
+    ],
+    "description": "Saint-Boniface, 1852. Végreville (père) arrive à l'automne. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 282 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=VÉGREVILLE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-valade-marie-louise-sur-bis-saint-boni",
+    "nom": "Saint-Boniface : Marie-Louise Valade (Sœur)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Louise Valade (Sœur)"
+    ],
+    "description": "Saint-Boniface, 1844. Marie-Louise Valade (Sœur) arrive pour fonder la maison des Sœurs grises. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 226, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=VALADE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-valade-marie-louise-sur-bis-saint-boni-2",
+    "nom": "Saint-Boniface : Marie-Louise Valade (Sœur)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Louise Valade (Sœur)"
+    ],
+    "description": "Saint-Boniface, 1853. Marie-Louise Valade (Sœur) est supérieure de l'hôpital lors des obsèques de Mgr Provencher. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 226, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=VALADE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-lagrave-eulalie-sur-bis-saint-boni",
+    "nom": "Saint-Boniface : Eulalie Lagrave (Sœur)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Eulalie Lagrave (Sœur)"
+    ],
+    "description": "Saint-Boniface, 1844. Eulalie Lagrave (Sœur) arrive avec les premières Sœurs grises. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 224-226, 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LAGRAVE",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-connelly-x-sur-saint-boni",
+    "nom": "Saint-Boniface : Connelly (Sœur)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Connelly (Sœur)"
+    ],
+    "description": "Saint-Boniface, 1845. Connelly (Sœur). Métisse, elle devient la première novice des Sœurs grises. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 236 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=CONNELLY",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.15,
+     49.77
+    ]
+   },
+   "properties": {
+    "id": "DP-ritchot-noel-joseph-abbe-saint-norb",
+    "nom": "Saint-Norbert : Noël-Joseph Ritchot (abbé)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Noël-Joseph Ritchot (abbé)"
+    ],
+    "description": "Saint-Norbert, 1862. Noël-Joseph Ritchot (abbé). Curé, il assiste à l'ouverture du cercueil de Mgr Provencher. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 310-311 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=RITCHOT",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-lestang-joseph-jean-marie-pe-saint-boni",
+    "nom": "Saint-Boniface : Joseph-Jean-Marie Lestang (père)",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "religion",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Jean-Marie Lestang (père)"
+    ],
+    "description": "Saint-Boniface, 1862. Joseph-Jean-Marie Lestang (père) fait office de diacre à la messe solennelle. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 311 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=LESTANG",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-bruneau-francois-saint-boni",
+    "nom": "Saint-Boniface : François Bruneau",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Bruneau"
+    ],
+    "description": "Saint-Boniface, 1853. François Bruneau. Juge de paix, il est témoin des obsèques de Mgr Provencher. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=BRUNEAU",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-gravelin-antoine-saint-boni",
+    "nom": "Saint-Boniface : Antoine Gravelin",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Gravelin"
+    ],
+    "description": "Saint-Boniface, 1853. Antoine Gravelin signe l'acte de sépulture de Mgr Provencher. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=GRAVELIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "DP-nolin-norbert-saint-boni",
+    "nom": "Saint-Boniface : Norbert Nolin",
+    "corpus": "archive.org · Dugas (1889)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Norbert Nolin"
+    ],
+    "description": "Saint-Boniface, 1853. Norbert Nolin signe l'acte de sépulture de Mgr Provencher. D'après Dugas (1889).",
+    "sources": "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin, p. 309 ; texte intégral : archive.org, monseigneurprove00duga.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dugas (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/monseigneurprove00duga?q=NOLIN",
+      "texte": "Lire Dugas (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

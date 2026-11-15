@@ -43,6 +43,14 @@ LIVRES = [
      {'court': 'Dugas (1890)',
       'ref': "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils"},
      'unvoyageurdespay00duga', lambda nom, ref: ref),
+    ('dugas_1883.txt', 'DG',
+     {'court': 'Dugas (1883)',
+      'ref': "Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph"},
+     'lapremirecanadi00duga', lambda nom, ref: ref),
+    ('dugas_1889.txt', 'DP',
+     {'court': 'Dugas (1889)',
+      'ref': "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin"},
+     'monseigneurprove00duga', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

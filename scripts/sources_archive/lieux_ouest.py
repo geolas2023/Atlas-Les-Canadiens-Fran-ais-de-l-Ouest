@@ -471,4 +471,8 @@ G = {
  'Redwood (Minnesota)': (-95.1, 44.55, 'a', 'Bois-Rouge (rivière Saint-Pierre, Minnesota)'),
  'Minnesota': (-94.3, 45.5, 'h', 'Minnesota'),
  'Pointe au Sable (lac Winnipeg)': (-97.3, 51.6, 'h', 'Pointe-au-Sable (lac Winnipeg)'),
+ 'Battle River': (-112.3, 52.9, 'h', 'rivière Bataille (Saskatchewan)'),
+ 'Cypress Hills': (-109.9, 49.6, 'a', 'montagne de Cyprès'),
+ 'Grand Camp (Pembina)': (-97.9, 48.9, 'h', 'le Grand-Camp (rivière Pembina)'),
+ 'Sarcee country': (-114.3, 51.0, 'h', 'pays des Sarcis'),
 }
