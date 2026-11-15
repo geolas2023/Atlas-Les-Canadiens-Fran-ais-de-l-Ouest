@@ -1,0 +1,1109 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2066,
+     46.8128
+    ]
+   },
+   "properties": {
+    "id": "L01",
+    "nom": "Québec : baptême de Louis Jolliet",
+    "debut": 1645.7219,
+    "fin": 1645.7219,
+    "date_edtf": "1645-09-21",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "naissance",
+    "description": "Louis Jolliet est baptisé le 21 septembre 1645 dans l'église de l'Immaculée-Conception de Québec par le jésuite Barthélemy Vimont, qui fait office de curé. Il est le fils de Jean Jolliet et de Marie d'Abancour. Ses parrain et marraine sont Louis Maheu et Françoise Giffard. Québec ne compte alors que quelques centaines d'habitants.",
+    "sources": "BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 7-8 (acte de baptême et traduction) ; Gagnon, Louis Jolliet (2e éd., 1913), p. 27-31.",
+    "note": "L'acte donne la date du baptême ; la date exacte de la naissance n'est pas connue.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2055,
+     46.8137
+    ]
+   },
+   "properties": {
+    "id": "L02",
+    "nom": "Québec : clerc tonsuré au séminaire de Mgr de Laval",
+    "debut": 1662.6068,
+    "fin": 1662.6068,
+    "date_edtf": "1662-08-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Élève des jésuites, Louis Jolliet reçoit la tonsure et les ordres mineurs le 10 août 1662, deux jours avant le départ de Mgr de Laval pour la France. Au retour de l'évêque, en septembre 1663, il compte parmi les premiers élèves du séminaire de Québec. Il est aussi musicien : les jésuites l'invitent à souper avec Germain Morin, « officiers de musique », le 1er janvier 1665, et il est le seul organiste nommé par les chroniques de la colonie.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 38-39, 159-164.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2077,
+     46.8131
+    ]
+   },
+   "properties": {
+    "id": "L03",
+    "nom": "Québec : soutenance de philosophie au collège des Jésuites",
+    "debut": 1666.5,
+    "fin": 1666.5,
+    "date_edtf": "1666-07-02",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Le 2 juillet 1666, Louis Jolliet soutient des thèses de logique au collège des Jésuites de Québec. L'intendant Jean Talon prend part à la dispute et remarque le jeune homme, qu'il choisira plus tard pour les grandes découvertes. L'année suivante, Jolliet renonce à l'état ecclésiastique.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 40, 65.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.98,
+     43.27
+    ]
+   },
+   "properties": {
+    "id": "L04",
+    "nom": "Tinaouataoua : rencontre avec Dollier de Casson et Galinée",
+    "debut": 1669.7301,
+    "fin": 1669.7301,
+    "date_edtf": "1669-09-24",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Le 24 septembre 1669, au village iroquois de Tinaouataoua, à l'ouest du lac Ontario, Jolliet rencontre les sulpiciens Dollier de Casson et René de Bréhant de Galinée, partis avec Cavelier de La Salle. Il revient des grands lacs, où Talon l'a envoyé chercher les mines de cuivre, Galinée note sa rencontre dans son journal ; peu après, La Salle se sépare des deux prêtres, qui gagnent l'Ouest par le lac Érié.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 44-47.",
+    "note": "Site de Tinaouataoua placé près de l'actuelle Hamilton (Ontario), selon l'identification courante.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.495
+    ]
+   },
+   "properties": {
+    "id": "L05",
+    "nom": "Sault-Sainte-Marie : prise de possession de l'Ouest",
+    "debut": 1671.4507,
+    "fin": 1671.4507,
+    "date_edtf": "1671-06-14",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "decouverte",
+    "description": "Le 14 juin 1671, au Sault-Sainte-Marie, Simon-François Daumont de Saint-Lusson prend possession au nom du roi des pays des grands lacs devant les délégués de quatorze nations. Le père Allouez harangue l'assemblée et l'on chante le Te Deum. Louis Jolliet assiste à la cérémonie, comme Jacques Largillier et Pierre Porteret, futurs compagnons de Marquette.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 48-58, 169.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.73,
+     45.866
+    ]
+   },
+   "properties": {
+    "id": "L06",
+    "nom": "Saint-Ignace de Michillimakinac : la rencontre avec Marquette",
+    "debut": 1672.9358,
+    "fin": 1673.374,
+    "date_edtf": "1672-12-08/1673-05-17",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "escale",
+    "description": "Le 8 décembre 1672, jour de l'Immaculée-Conception, Jolliet arrive à la mission Saint-Ignace avec les ordres de Frontenac et de Talon pour le père Jacques Marquette. L'hiver se passe à recueillir les renseignements des Indiens qui ont fréquenté ces pays et à tracer une carte des rivières, des nations et du cours de la grande rivière. Le 17 mai 1673, ils partent sur deux canots d'écorce avec cinq hommes, munis de blé d'Inde et de viande boucanée.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 5-8 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 67-80.",
+    "note": "Le manuscrit de Sainte-Marie donne le 17 mai pour le départ ; Thévenot (1681) donne le 13 mai.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.62,
+     45.1
+    ]
+   },
+   "properties": {
+    "id": "L07",
+    "nom": "Village de la Folle Avoine",
+    "debut": 1673.3685,
+    "fin": 1673.3685,
+    "date_edtf": "1673-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Première nation rencontrée : les Folles Avoines (Menominees), à l'embouchure de leur rivière. Marquette décrit la récolte du riz sauvage, en septembre, depuis les canots. Les Folles Avoines tentent de dissuader les voyageurs : la grande rivière serait pleine de monstres et d'un démon qui engloutit les canots, et les nations du sud cassent la tête aux étrangers.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 9-14 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 81.",
+    "note": "Village placé à l'embouchure de la rivière Menominee (Marinette, Wisconsin).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.06,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "L08",
+    "nom": "Mission Saint-François-Xavier (baie des Puants)",
+    "debut": 1673.4534,
+    "fin": 1674.3685,
+    "date_edtf": "1673-06/1674-05",
+    "precision": "circa",
+    "certitude": "certaine",
+    "categorie": "escale",
+    "description": "Au fond de la baie des Puants, la mission jésuite de Saint-François-Xavier (De Pere, Wisconsin) est la dernière étape avant l'inconnu. Les voyageurs y passent à l'aller, en juin 1673, et y reviennent à la fin de septembre, après quatre mois de voyage. Jolliet et Marquette s'y séparent ; le père y passe l'hiver et l'été 1674, malade, avant de repartir pour les Illinois le 25 octobre 1674.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 14-17, 92, 145-148 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 133, 299.",
+    "note": "Gagnon fait passer l'hiver à Jolliet au Sault-Sainte-Marie (voir cette étape) ; un document de son annexe le place à la mission avec Marquette.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.95,
+     43.8
+    ]
+   },
+   "properties": {
+    "id": "L09",
+    "nom": "Bourg des Mascoutens",
+    "debut": 1673.4315,
+    "fin": 1673.4397,
+    "date_edtf": "1673-06-07/1673-06-10",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Le 7 juin 1673, les voyageurs arrivent au bourg des Mascoutens, la Nation du Feu, où vivent aussi des Miamis et des Kikapous. C'est le terme des découvertes françaises. Une croix ornée de peaux blanches, de ceintures rouges, d'arcs et de flèches se dresse au milieu du village. Le 9 juin, Jolliet demande aux anciens deux guides ; le 10, deux Miamis conduisent les canots vers la rivière qui mène au Mississipi.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 17-24 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 82-84.",
+    "note": "Bourg situé sur la haute rivière aux Renards, à l'ouest du lac Winnebago (secteur de Berlin, Wisconsin) ; emplacement discuté.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "L10",
+    "nom": "Portage de la Ouisconsing",
+    "debut": 1673.4397,
+    "fin": 1673.4397,
+    "date_edtf": "1673-06-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "decouverte",
+    "description": "Les deux guides miamis conduisent les canots à travers les marais et les détours de la haute rivière aux Renards jusqu'à un portage de 2 700 pas, puis aident à porter les canots jusqu'à la Ouisconsing (Wisconsin) et s'en retournent. Les Français quittent les eaux qui coulent vers Québec pour entrer dans un pays inconnu.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 24-26 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 84.",
+    "note": "Portage de l'actuelle ville de Portage (comté de Columbia, Wisconsin).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.17,
+     42.99
+    ]
+   },
+   "properties": {
+    "id": "L11",
+    "nom": "Entrée dans le Mississipi",
+    "debut": 1673.4589,
+    "fin": 1673.4589,
+    "date_edtf": "1673-06-17",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "decouverte",
+    "description": "Le 17 juin 1673, à l'embouchure de la Ouisconsing, par 42 degrés et demi selon Jolliet, les voyageurs entrent dans le Mississipi « avec une joie qu'on ne peut expliquer ». Marquette nomme la grande rivière Conception, selon son vœu à la Vierge. Les jours suivants, ils voient des bisons (« pisikious »), des cygnes et des poissons monstrueux qui heurtent les canots.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 26-37 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 89-95.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.45,
+     40.42
+    ]
+   },
+   "properties": {
+    "id": "L12",
+    "nom": "Village des Peouarea (Illinois)",
+    "debut": 1673.4808,
+    "fin": 1673.4808,
+    "date_edtf": "1673-06-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Le 25 juin 1673, des traces de pas sur la rive droite mènent Jolliet et Marquette, seuls et sans armes, à un village de la nation des Illinois, les Peouarea, près de la rivière Moingouena (Des Moines). Ils sont reçus avec le calumet et un grand festin de sagamité, de poisson, de chien et de bison. Le grand chef leur offre un jeune esclave et un calumet, et tente de les détourner de descendre plus bas. La carte de Jolliet compte 300 cabanes à ce village.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 37-61 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 96-103.",
+    "note": "Village placé sur la rive ouest, un peu en aval de l'embouchure de la Des Moines (Iowa), d'après Gagnon ; emplacement discuté.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.17,
+     38.89
+    ]
+   },
+   "properties": {
+    "id": "L13",
+    "nom": "Les monstres peints du Piasa",
+    "debut": 1673.4534,
+    "fin": 1673.4534,
+    "date_edtf": "1673-06",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "En longeant de hauts rochers, les voyageurs aperçoivent deux monstres peints en rouge, en vert et en noir, grands comme un veau, avec des cornes de chevreuil, des yeux rouges, une barbe de tigre et une queue qui s'enroule autour du corps. Les Indiens n'osent les regarder. Marquette en fait le croquis.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 62-65 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 103-104.",
+    "note": "Falaises de l'actuelle Alton (Illinois).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.12,
+     38.81
+    ]
+   },
+   "properties": {
+    "id": "L14",
+    "nom": "Embouchure de la Pekitanouï (Missouri)",
+    "debut": 1673.4534,
+    "fin": 1673.4534,
+    "date_edtf": "1673-06",
+    "precision": "circa",
+    "certitude": "certaine",
+    "categorie": "decouverte",
+    "description": "Peu après les monstres peints, un amas d'arbres entiers, de branches et d'îlots flottants sort avec fracas de l'embouchure de la Pekitanouï, si violent que l'eau en est toute boueuse. Marquette espère trouver par cette rivière la route de la mer Vermeille et de la Californie.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 65-68 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 104-105.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.15,
+     37.0
+    ]
+   },
+   "properties": {
+    "id": "L15",
+    "nom": "Embouchure de l'Ouabouskigou (Ohio)",
+    "debut": 1673.5356,
+    "fin": 1673.5356,
+    "date_edtf": "1673-07",
+    "precision": "circa",
+    "certitude": "certaine",
+    "categorie": "decouverte",
+    "description": "Les voyageurs passent l'embouchure de l'Ouabouskigou (Ohio), par environ 36 degrés. Les Chaouanons qui vivent sur ses rives sont, dit-on, si nombreux qu'on compte jusqu'à 23 villages dans un seul quartier.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 69-72 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 105-106.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.6,
+     34.5
+    ]
+   },
+   "properties": {
+    "id": "L16",
+    "nom": "Mitchigamea : le calumet sauve les voyageurs",
+    "debut": 1673.5356,
+    "fin": 1673.5356,
+    "date_edtf": "1673-07",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Vers 33 degrés, des guerriers du village de Mitchigamea s'arment d'arcs, de casse-têtes et de boucliers et se jettent à l'eau pour saisir les canots ; un casse-tête lancé passe au-dessus de leur tête. Marquette élève le calumet ; les anciens arrêtent les jeunes gens et invitent les Français à débarquer. Un vieillard leur sert d'interprète vers Akansea.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 77-81 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 116.",
+    "note": "Village placé près de l'actuelle Helena (Arkansas) ; emplacement discuté.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.05,
+     33.95
+    ]
+   },
+   "properties": {
+    "id": "L17",
+    "nom": "Akansea : le terme du voyage",
+    "debut": 1673.5384,
+    "fin": 1673.5411,
+    "date_edtf": "1673-07-16/1673-07-17",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Au village d'Akansea, sur la rive gauche presque en face de l'embouchure de l'Arkansas, les voyageurs sont reçus avec le calumet. Un jeune homme qui comprend l'illinois leur apprend que la mer n'est qu'à dix jours de canot, mais que des nations armées par les Espagnols barrent la route. Jolliet et Marquette décident de rebrousser chemin plutôt que de tomber aux mains des Espagnols et de perdre le fruit du voyage. Le chef déjoue un complot contre eux et leur offre un calumet.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 81-90 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 117-125.",
+    "note": "Gagnon place le village sur la rive gauche (est), un peu au nord de l'embouchure de l'Arkansas.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.69
+    ]
+   },
+   "properties": {
+    "id": "L18",
+    "nom": "Village des Peorias (rivière des Illinois)",
+    "debut": 1673.6205,
+    "fin": 1673.6205,
+    "date_edtf": "1673-08",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Au retour, les voyageurs passent trois jours chez les Peorias, sur la rivière des Illinois. Marquette prêche dans les cabanes et, au moment de partir, baptise un enfant mourant qu'on lui apporte au bord de l'eau.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 90-91 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 125.",
+    "note": "Village placé près de l'actuelle Peoria (Illinois).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "L19",
+    "nom": "Kaskaskia, grand bourg des Illinois",
+    "debut": 1673.6205,
+    "fin": 1677.3192,
+    "date_edtf": "1673-08/1677-04-27",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Au grand bourg des Kaskaskias, sur la rivière des Illinois, Marquette promet de revenir enseigner la foi. Il tient parole : arrivé le 8 avril 1675, il réunit en pleine prairie 500 chefs et anciens et 1 500 jeunes gens et fonde le Jeudi saint et le jour de Pâques la mission de la Conception. En avril 1677, le père Allouez trouve le bourg grossi de huit nations, dans 351 cabanes.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 92-100, 135-140 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 128, 169.",
+    "note": "Bourg placé près de l'actuelle Utica (Illinois), face au Rocher (Starved Rock).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.75,
+     41.82
+    ]
+   },
+   "properties": {
+    "id": "L20",
+    "nom": "Portage de Chicago",
+    "debut": 1673.7055,
+    "fin": 1673.7055,
+    "date_edtf": "1673-09",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "Guidés par les Kaskaskias, Jolliet et Marquette passent du bassin du Mississipi à celui du lac des Illinois par le court portage entre la rivière des Plaines et la rivière Chicago. Jolliet y voit l'avenir : un simple canal d'une demi-lieue suffirait, dit-il, pour aller en barque du lac Érié jusqu'au golfe du Mexique.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 92 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 128-131 ; BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 13-28 et 37-47 (Relation de la découverte de la mer du Sud, 1674).",
+    "note": "L'idée du canal est rapportée par la Relation rédigée par le père Dablon d'après le récit de Jolliet.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.33,
+     46.51
+    ]
+   },
+   "properties": {
+    "id": "L21",
+    "nom": "Sault-Sainte-Marie : l'hivernage de 1673-1674",
+    "debut": 1673.8726,
+    "fin": 1674.3685,
+    "date_edtf": "1673-11/1674-05",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "escale",
+    "description": "Jolliet passe l'hiver de 1673-1674 au Sault-Sainte-Marie. Il y laisse aux jésuites une copie de son journal, que détruira un incendie. À la fin de mai 1674, il repart pour Québec avec deux canotiers, dont le jeune esclave peouarea reçu au Mississipi.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 133-135, 143.",
+    "note": "Lieu d'hivernage discuté (voir la mission Saint-François-Xavier).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "L22",
+    "nom": "Fort Frontenac (Cataracoui)",
+    "debut": 1674.5356,
+    "fin": 1674.5356,
+    "date_edtf": "1674-07",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "escale",
+    "description": "Sur la route du retour, Jolliet passe au fort Frontenac, que le gouverneur vient de faire construire à Cataracoui, à la tête du Saint-Laurent. La Relation de 1674 compte sur ce fort pour faciliter la communication de Québec avec le lac Érié.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 135-136 ; BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 13-28 et 37-47 (Relation, 1674).",
+    "note": "Passage déduit de l'itinéraire proposé par Gagnon.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.62,
+     45.42
+    ]
+   },
+   "properties": {
+    "id": "L23",
+    "nom": "Naufrage au Sault-Saint-Louis",
+    "debut": 1674.5356,
+    "fin": 1674.5356,
+    "date_edtf": "1674-07~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "categorie": "naufrage",
+    "description": "En vue de Montréal, au pied du Sault-Saint-Louis (rapides de Lachine), le canot de Jolliet chavire. Deux hommes et le jeune esclave peouarea se noient ; Jolliet reste quatre heures dans l'eau avant d'être sauvé par des pêcheurs. Il perd sa cassette, son journal et sa carte : « il ne m'est rien resté que la vie », écrit-il à Mgr de Laval.",
+    "sources": "BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 24-28 et 45-47 (lettre de Jolliet du 10 octobre 1674) ; Gagnon, Louis Jolliet (2e éd., 1913), p. 136-137, 316.",
+    "note": "Gagnon corrige la date de la mi-août en mi-juillet 1674.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2072,
+     46.8125
+    ]
+   },
+   "properties": {
+    "id": "L24",
+    "nom": "Québec : la Relation de la découverte de la mer du Sud",
+    "debut": 1674.5822,
+    "fin": 1674.8699,
+    "date_edtf": "1674-08-01/1674-11-14",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "À Québec, le supérieur des jésuites Claude Dablon rédige d'après le récit de Jolliet la « Relation de la découverte de la mer du Sud », datée du 1er août 1674. Jolliet redessine de mémoire la carte perdue et la présente à Frontenac, qui l'envoie à Colbert le 14 novembre. Le 10 octobre, il écrit à Mgr de Laval le récit du voyage et de son naufrage. Il a 29 ans.",
+    "sources": "BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 13-28 (manuscrit), 29-36 (édition de 1944) et 37-47 (transcription) ; Gagnon, Louis Jolliet (2e éd., 1913), p. 138-149.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.68,
+     41.84
+    ]
+   },
+   "properties": {
+    "id": "L25",
+    "nom": "Hivernage de Marquette au portage de Chicago",
+    "debut": 1674.9548,
+    "fin": 1675.2397,
+    "date_edtf": "1674-12/1675-03-29",
+    "precision": "mois",
+    "certitude": "approximative",
+    "categorie": "escale",
+    "description": "Reparti de la baie des Puants le 25 octobre 1674 avec Pierre Porteret et Jacques Largillier, Marquette, repris de son flux de sang, hiverne dans une cabane à deux lieues du portage, sur la rivière qui mène aux Illinois. Un chirurgien et Pierre Moreau, dit la Toupine, qui traitent dans un village voisin, lui apportent des bleuets et du blé. Il repart le 29 mars 1675 pour le bourg des Kaskaskias.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 93-96, 145-169 (journal autographe de Marquette) ; Gagnon, Louis Jolliet (2e éd., 1913), p. 169-170.",
+    "note": "Compagnon de Jolliet en 1673, Marquette est suivi ici jusqu'à sa mort.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.45,
+     43.95
+    ]
+   },
+   "properties": {
+    "id": "L26",
+    "nom": "Mort du père Marquette",
+    "debut": 1675.3795,
+    "fin": 1675.3795,
+    "date_edtf": "1675-05-19",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "mort",
+    "description": "Revenant des Illinois par la côte est du lac Michigan, Marquette, à bout de forces, désigne à ses deux compagnons une éminence à l'embouchure d'une rivière. Il y meurt le samedi 19 mai 1675 dans une cabane d'écorce, le crucifix sous les yeux. Porteret et Largillier l'enterrent au son de la clochette et plantent une grande croix. En 1677, des Kiskakons ramènent ses ossements à la mission Saint-Ignace.",
+    "sources": "Récit des voyages du P. Marquette (1855), p. 100-117 ; Gagnon, Louis Jolliet (2e éd., 1913), p. 169-177.",
+    "note": "Embouchure de la rivière qui porte aujourd'hui son nom (Ludington, Michigan) ; l'emplacement exact est discuté.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2066,
+     46.8128
+    ]
+   },
+   "properties": {
+    "id": "L27",
+    "nom": "Québec : mariage avec Claire-Françoise Bissot",
+    "debut": 1675.7658,
+    "fin": 1675.7658,
+    "date_edtf": "1675-10-07",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Le 1er octobre 1675, dans la maison de Jacques de Lalande à la basse-ville, Louis Jolliet, 30 ans, signe son contrat de mariage avec Claire-Françoise Bissot, 19 ans, fille du défunt François Bissot et de Marie Couillard. Le mariage est célébré le 7 octobre à Notre-Dame de Québec par Henri de Bernières, en présence de Charles Bazire, de Jean-Baptiste Le Gardeur de Repentigny et de Jean Juchereau de la Ferté. Par sa femme, Jolliet entre dans la famille des pêcheries de la côte nord.",
+    "sources": "BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 5-6 (acte de mariage) ; Gagnon, Louis Jolliet (2e éd., 1913), p. 179-191.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2048,
+     46.8115
+    ]
+   },
+   "properties": {
+    "id": "L28",
+    "nom": "Québec : l'assemblée sur la traite de l'eau-de-vie",
+    "debut": 1678.8178,
+    "fin": 1678.8178,
+    "date_edtf": "1678-10-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Le 26 octobre 1678, au château Saint-Louis, Frontenac réunit une vingtaine de notables pour donner leur avis sur la vente de l'eau-de-vie aux Indiens. L'avis de Jolliet est consigné au procès-verbal de l'assemblée.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 200-205.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.9,
+     50.22
+    ]
+   },
+   "properties": {
+    "id": "L29",
+    "nom": "Îles de Mingan",
+    "debut": 1679.1877,
+    "fin": 1690.7877,
+    "date_edtf": "1679-03-10/1690-10",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "concession",
+    "description": "Le 10 mars 1679, l'intendant Duchesneau concède à Jolliet et à son beau-père Jacques de Lalande les îles et îlets de Mingan, sur la côte nord du golfe, pour la pêche et la traite. Le roi ratifie la concession le 29 mai 1680. Jolliet y construit une maison et un magasin, que la flotte de Phips détruit en 1690.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 213-215, 240-241, 248.",
+    "note": "Établissement placé dans l'archipel de Mingan ; emplacement précis inconnu.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.72,
+     48.14
+    ]
+   },
+   "properties": {
+    "id": "L30",
+    "nom": "Tadoussac",
+    "debut": 1679.3685,
+    "fin": 1679.3685,
+    "date_edtf": "1679-05",
+    "precision": "mois",
+    "certitude": "certaine",
+    "categorie": "escale",
+    "description": "Au poste de Tadoussac, à l'embouchure du Saguenay, Jolliet s'engage dans la route des Montagnais vers le nord. Le jésuite Antoine Silvy l'accompagne peut-être, selon le registre de Tadoussac.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 216, 224.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6,
+     51.0
+    ]
+   },
+   "properties": {
+    "id": "L31",
+    "nom": "Lac des Mistassins",
+    "debut": 1679.4534,
+    "fin": 1679.4534,
+    "date_edtf": "1679-06",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "escale",
+    "description": "Jolliet traverse le grand lac des Mistassins, au cœur du pays des Cris, sur la route des canots entre le Saint-Laurent et la baie James.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 217.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.75,
+     51.48
+    ]
+   },
+   "properties": {
+    "id": "L32",
+    "nom": "Le fort anglais de la rivière de Rupert",
+    "debut": 1679.4808,
+    "fin": 1679.5356,
+    "date_edtf": "1679-06-25~/1679-07",
+    "precision": "circa",
+    "certitude": "approximative",
+    "categorie": "decouverte",
+    "description": "À l'embouchure de la rivière de Rupert, Jolliet trouve le poste anglais de la Compagnie de la Baie d'Hudson. Les Anglais le reçoivent bien et cherchent à l'attirer à leur service. Il rapporte au gouverneur qu'ils sont maîtres de la traite des nations du nord et qu'il faut les déloger.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 219-223.",
+    "note": "Poste placé à l'embouchure de la rivière de Rupert (Waskaganish).",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.6,
+     49.55
+    ]
+   },
+   "properties": {
+    "id": "L33",
+    "nom": "Île d'Anticosti : la seigneurie de Jolliet",
+    "debut": 1680.2036,
+    "fin": 1690.7877,
+    "date_edtf": "1680-03/1690-10",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "categorie": "concession",
+    "description": "En mars 1680, Duchesneau concède à Jolliet en fief et seigneurie l'île d'Anticosti, à l'embouchure du Saint-Laurent, en récompense de la découverte du pays des Illinois. Le roi ratifie la concession le 29 mai 1680 et donne à Jolliet le titre d'hydrographe. En 1681, Jolliet s'y établit avec sa famille : douze personnes, deux arpents défrichés, deux bêtes à cornes et six fusils. Il y hiverne deux fois dans une maison qu'il a bâtie et y fait la pêche et la traite.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 228-241, 304-305.",
+    "note": "L'emplacement de l'établissement sur l'île n'est pas connu : le point est symbolique.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.235,
+     46.8
+    ]
+   },
+   "properties": {
+    "id": "L34",
+    "nom": "Québec : adjudication de terres pour Villeray et Vitré",
+    "debut": 1685.1356,
+    "fin": 1685.1356,
+    "date_edtf": "1685-02-19",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Par un acte signé à Québec le 19 février 1685, Louis Jolliet reconnaît que, s'il s'est rendu adjudicataire le 13 février devant le lieutenant général de la prévôté de terres de la côte Sainte-Geneviève, dite Saint-Agnan (880 livres), et d'une maison avec place et jardin à la haute-ville (680 livres), il n'a agi que pour faire plaisir à Louis Rouer de Villeray et à M. de Vitré, à leur prière. Il s'engage à leur passer tous les actes nécessaires. La transcription est suivie d'un acte du notaire Gilles Rageot.",
+    "sources": "BAnQ, P1000,S3,D1035, Documents officiels et Relations sur les voyages de Louis Jolliet, fichiers 1-4 (manuscrit autographe et transcriptions).",
+    "note": "Point placé sur la côte Sainte-Geneviève, à l'ouest de la haute-ville ; emplacement des terres approximatif.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2048,
+     46.8118
+    ]
+   },
+   "properties": {
+    "id": "L35",
+    "nom": "Québec : carte du fleuve et demande d'un navire",
+    "debut": 1685.8808,
+    "fin": 1685.8808,
+    "date_edtf": "1685-11-18",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Le 18 novembre 1685, le gouverneur Denonville demande au ministre une gratification pour Jolliet, qui a fait 46 voyages sur le fleuve et en a levé la carte, dessinée par Franquelin, et une barque pour achever la reconnaissance du golfe. Il insiste le 8 mai 1686 : il faut à Québec un maître de navigation.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 241-244.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.75,
+     49.85
+    ]
+   },
+   "properties": {
+    "id": "L36",
+    "nom": "Le pillage d'Anticosti et de Mingan par Phips",
+    "debut": 1690.6205,
+    "fin": 1690.6205,
+    "date_edtf": "1690-08~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "categorie": "combat",
+    "description": "En 1690, en route vers Québec, la flotte de Sir William Phips pille et détruit l'établissement fortifié de Jolliet à Anticosti et son poste de Mingan. Jolliet perd l'essentiel de ses biens.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 248, 293.",
+    "note": "Date et lieu précis inconnus ; Gagnon signale la perte sans la dater.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.95,
+     46.93
+    ]
+   },
+   "properties": {
+    "id": "L37",
+    "nom": "Siège de Québec : Claire Bissot prisonnière de Phips",
+    "debut": 1690.7904,
+    "fin": 1690.8123,
+    "date_edtf": "1690-10-16/1690-10-24",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "combat",
+    "description": "Prises plus tôt sur une barque près de Tadoussac, la femme de Jolliet et sa mère, Mme de Lalande, sont prisonnières à bord de la flotte de Phips qui assiège Québec du 16 au 23 octobre 1690. Mme de Lalande négocie l'échange des prisonniers. Le 24, la flotte en retraite mouille à l'Arbre-Sec, à l'île d'Orléans.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 185, 248-250.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.52,
+     49.87
+    ]
+   },
+   "properties": {
+    "id": "L38",
+    "nom": "Naufrage de Rainsford à la pointe ouest d'Anticosti",
+    "debut": 1690.8233,
+    "fin": 1691.489,
+    "date_edtf": "1690-10-28/1691-06-28",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "naufrage",
+    "description": "Au retour de l'expédition contre Québec, le brigantin du capitaine John Rainsford fait naufrage le 28 octobre 1690 (calendrier julien) à la pointe ouest d'Anticosti, la future pointe aux Anglais. Le chirurgien meurt le 20 décembre, puis une quarantaine d'hommes. Le 25 mars 1691, cinq hommes partent en chaloupe et atteignent Boston le 9 mai ; Rainsford y ramène dix-sept survivants le 28 juin.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 250-252.",
+    "note": "Épisode de la seigneurie de Jolliet rapporté par Gagnon d'après Cotton Mather.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.3,
+     51.35
+    ]
+   },
+   "properties": {
+    "id": "L39",
+    "nom": "Îles Saint-Jacques : la croix de Jolliet",
+    "debut": 1694.5356,
+    "fin": 1694.5356,
+    "date_edtf": "1694-07~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "categorie": "decouverte",
+    "description": "Après environ un mois de navigation depuis Mingan, le Saint-François atteint les îles Saint-Jacques, face à la baie de Misfina, d'où l'on voit Terre-Neuve. Jolliet plante une croix sur l'une des îles.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 260.",
+    "note": "Îles non identifiées avec certitude, à l'entrée du détroit de Belle-Isle.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.65,
+     52.2
+    ]
+   },
+   "properties": {
+    "id": "L40",
+    "nom": "Pointe du Détour (détroit de Belle-Isle)",
+    "debut": 1694.5192,
+    "fin": 1694.5247,
+    "date_edtf": "1694-07-09/1694-07-11",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "escale",
+    "description": "Le soir du 9 juillet 1694, le navire atteint les îles Balsamon, à l'entrée du détroit de Belle-Isle. On voit des glaces en mer le 10. Le 11, il double la pointe du Détour, à la sortie du détroit, que Gagnon identifie au cap Charles.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 261.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.72,
+     52.45
+    ]
+   },
+   "properties": {
+    "id": "L41",
+    "nom": "Baie Saint-Louis et havre Saint-François",
+    "debut": 1694.5301,
+    "fin": 1694.5411,
+    "date_edtf": "1694-07-13/1694-07-17",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "categorie": "decouverte",
+    "description": "Le 13 juillet, Jolliet entre dans une baie qu'il nomme Saint-Louis ; feux et coups de canon n'attirent personne. Le 15, des canots inuits approchent et Jolliet traite avec les deux premiers visiteurs, Capitena Joannis et Kamicterineac. Le 16, il entre dans un havre qu'il nomme Saint-François, du nom de l'armateur François Pachot.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 262-265.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -56.9,
+     53.73
+    ]
+   },
+   "properties": {
+    "id": "L42",
+    "nom": "Village inuit du chef Guignac",
+    "debut": 1694.5575,
+    "fin": 1694.563,
+    "date_edtf": "1694-07-23/1694-07-25",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "categorie": "decouverte",
+    "description": "Vers 53°44′ selon Jolliet, le navire mouille devant un village inuit de neuf cabanes. Le 25 juillet, Jolliet descend à terre avec huit hommes armés. Le chef Guignac l'accueille et lui fait visiter le village ; les Inuits chantent et dansent. Le récollet avait visité le village la veille.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 266-274.",
+    "note": "Latitude estimée par Jolliet ; le village serait vers la baie Sandwich ou l'inlet Hamilton.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.55,
+     55.75
+    ]
+   },
+   "properties": {
+    "id": "L43",
+    "nom": "Baie de Pachot et baie Sainte-Claire",
+    "debut": 1694.5904,
+    "fin": 1694.6123,
+    "date_edtf": "1694-08-04/1694-08-12",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "categorie": "decouverte",
+    "description": "Le 4 août, le Saint-François entre dans une baie que Jolliet nomme Pachot et y reste trois jours. Le 11, huit canots et quatre chaloupes annoncent le chef Amaillouk, qui arrive le 12 avec 22 canots et trois chaloupes. Le navire quitte ce jour-là la baie que Jolliet nomme Sainte-Claire, en l'honneur de la patronne de sa femme. Faute de vivres et de bons câbles, on décide à l'unanimité de rentrer.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 275-278.",
+    "note": "Point le plus au nord du voyage (vers 55°45′ selon Jolliet) ; position reconstituée.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2077,
+     46.8131
+    ]
+   },
+   "properties": {
+    "id": "L44",
+    "nom": "Québec : professeur d'hydrographie",
+    "debut": 1697.3274,
+    "fin": 1697.3274,
+    "date_edtf": "1697-04-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "categorie": "vie",
+    "description": "Par brevet du 30 avril 1697, le roi nomme Louis Jolliet professeur d'hydrographie à Québec, où il projetait depuis longtemps d'ouvrir une classe de navigation. Le 23 octobre 1699, il date une carte du Labrador et de la baie d'Hudson dédiée à Villebois.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 229, 282-285, 321.",
+    "note": "",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.17,
+     46.7
+    ]
+   },
+   "properties": {
+    "id": "L45",
+    "nom": "Seigneurie Jolliet (rivière Etchemin)",
+    "debut": 1697.3274,
+    "fin": 1697.3274,
+    "date_edtf": "1697-04-30",
+    "precision": "jour",
+    "certitude": "approximative",
+    "categorie": "concession",
+    "description": "Le même jour, 30 avril 1697, Frontenac et Champigny concèdent à Jolliet une petite seigneurie au sud de Québec : des îlets de la rivière Etchemin au-dessus du premier sault, avec trois lieues de front sur autant de profondeur, voisine de la seigneurie de Lauzon. C'est la seule de ses trois seigneuries qui porte son nom ; il ne l'exploitera pas lui-même.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 285-288.",
+    "note": "Point placé sur la rivière Etchemin, en amont de Saint-Romuald ; limites approximatives.",
+    "type": "lieu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.17,
+     50.83
+    ]
+   },
+   "properties": {
+    "id": "L46",
+    "nom": "Mort de Louis Jolliet",
+    "debut": 1700.3374,
+    "fin": 1700.7937,
+    "date_edtf": "1700-05-04/1700-10-18",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "categorie": "mort",
+    "description": "Louis Jolliet signe pour la dernière fois un acte de la paroisse de Québec le 4 mai 1700. Le 18 octobre suivant, Callières et Champigny annoncent sa mort au ministre ; Franquelin reçoit sa charge d'hydrographe. Selon Pierre Margry, il serait mort et aurait été enterré dans une île en face du Gros Mécatina, sur la côte nord. Sa veuve, Claire Bissot, meurt à Québec le 1er mars 1710.",
+    "sources": "Gagnon, Louis Jolliet (2e éd., 1913), p. 283-293, 322.",
+    "note": "Lieu et date de la mort incertains : le point suit l'hypothèse de Margry, que Gagnon juge mal établie.",
+    "type": "lieu"
+   }
+  }
+ ]
+}
