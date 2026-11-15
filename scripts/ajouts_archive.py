@@ -99,6 +99,10 @@ LIVRES = [
      {'court': 'Coues (1897), vol. 1',
       'ref': "Coues, Elliott (dir.) (1897), New Light on the Early History of the Greater Northwest. The Manuscript Journals of Alexander Henry and of David Thompson, New York, F. P. Harper, vol. 1"},
      'newlightonearlyh01henr', lambda nom, ref: ref),
+    ('coues_1897_v2.txt', 'CQ',
+     {'court': 'Coues (1897), vol. 2',
+      'ref': "Coues, Elliott (dir.) (1897), New Light on the Early History of the Greater Northwest. The Manuscript Journals of Alexander Henry and of David Thompson, New York, F. P. Harper, vol. 2"},
+     'newlightonearlyh02henr', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

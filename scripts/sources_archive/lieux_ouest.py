@@ -634,4 +634,10 @@ G.update({
  'Terre Blanche': (-95.84, 47.1, 'a', "Terre-Blanche (White Earth)"),
  'Leech Lake': (-94.4, 47.15, 'a', "lac Sangsue (Leech Lake)"),
  'Rivière Folle Avoine': (-92.7, 45.8, 'h', "rivière à la Folle Avoine (Saint-Croix)"),
+ 'Terre Blanche (Saskatchewan)': (-112.35, 53.98, 'a', "fort de la Terre-Blanche (White Earth House, Saskatchewan-Nord)"),
+ 'Cold Lake': (-110.1, 54.45, 'a', "lac Froid (Cold Lake)"),
+ 'Plaines des Kootenays': (-116.4, 52.05, 'a', "plaines des Kootenays (haute Saskatchewan-Nord)"),
+ 'Cascades (Columbia)': (-121.9, 45.65, 'a', "les Cascades du Columbia"),
+ 'Fort Saint-Louis (La Corne)': (-104.65, 53.2, 'a', "fort Saint-Louis ou fort La Corne (Saskatchewan)"),
+ 'Fort Vermilion (Paix)': (-116.0, 58.4, 'c', "fort Vermilion (rivière la Paix)"),
 })
