@@ -18,6 +18,12 @@ def beau_nom(brut):
     """« LAGIMODIÈRE, Jean-Baptiste » → « Jean-Baptiste Lagimodière »."""
     brut = re.sub(r'\s*\((bis|ter)\)', '', brut)
     brut = re.sub(r',\s*(bis|ter)\)', ')', brut)
+    # marqueurs de désambiguïsation internes (servent aux identifiants, pas à l'affichage)
+    MARQ = (r'Houck[^)]*|Missouri|Portage|Perruque|New Madrid|Saint-Louis|Burlington|Winooski|Bois-Rouge|Osages|sel|moulin|'
+            r'traite|juge|1804|explorateur|syndic|Nishnabotna|Sainte-Geneviève|Mackenzie|traiteur|Cahokia|Kaskaskia|baie|'
+            r'île Ducharme|Oregon')
+    brut = re.sub(r'\s*\((?:' + MARQ + r')\)', '', brut)
+    brut = re.sub(r',\s*(?:' + MARQ + r')\)', ')', brut)
     if ',' not in brut: return brut.strip().title()
     nom, prenoms = [x.strip() for x in brut.split(',', 1)]
     nom = ' '.join(w if w in ('de', 'la', 'du', 'des', 'dit') else w.capitalize() for w in nom.lower().split())

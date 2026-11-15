@@ -51,6 +51,10 @@ LIVRES = [
      {'court': 'Dugas (1889)',
       'ref': "Dugas, Georges (1889), Monseigneur Provencher et les missions de la Rivière-Rouge, Montréal, C.-O. Beauchemin"},
      'monseigneurprove00duga', lambda nom, ref: ref),
+    ('houck_1908_v2.txt', 'HK',
+     {'court': 'Houck (1908), vol. 2',
+      'ref': "Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 2"},
+     'historyofmissour02houc', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -129,3 +129,4 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Dugas, *Un voyageur des pays d'en haut* (1890) | `unvoyageurdespay00duga` | 23 |
 | Dugas, *La première Canadienne du Nord-Ouest* (1883) | `lapremirecanadi00duga` | 38 |
 | Dugas, *Monseigneur Provencher et les missions de la Rivière-Rouge* (1889) | `monseigneurprove00duga` | 86 |
+| Houck, *A History of Missouri* (1908), vol. 2 | `historyofmissour02houc` | 338 |
