@@ -158,6 +158,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cu31924028874141` | 7 |
 | `collectionofnebr00daug` | 11 |
 | Andreas (1882), transcription kancoll.org | 29 |
+| `idahochronologyn00reesrich` | 12 |
+| `historyofstateof00bros` | 14 |
+| `illustratedhisto00slwe` | 15 |
 
 
 ## Un point par lieu et adresses précises
