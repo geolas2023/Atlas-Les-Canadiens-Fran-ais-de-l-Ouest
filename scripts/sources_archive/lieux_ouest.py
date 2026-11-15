@@ -678,4 +678,5 @@ G.update({
  'Fort des Renards (Wisconsin)': (-88.8, 44.0, 'h', "fort des Renards (Wisconsin)"),
  'Pays des Sioux (haut Mississippi)': (-93.5, 45.0, 'h', "pays des Sioux (haut Mississippi)"),
  'Chequamegon': (-90.9, 46.65, 'a', "baie de Chagouamigon (Chequamegon)"),
+ 'Sandusky': (-82.75, 41.45, 'a', "Sandoské (Sandusky, villages hurons)"),
 })

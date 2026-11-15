@@ -127,6 +127,10 @@ LIVRES = [
      {'court': 'Cadillac Papers (1904)',
       'ref': "Burton, C. M. (éd.) (1904), « Cadillac Papers », Michigan Pioneer and Historical Collections, vol. 33, Lansing"},
      'michiganhistoric33michuoft', lambda nom, ref: ref),
+    ('mphc_1905_v34.txt', 'CQ2',
+     {'court': 'Cadillac Papers (1905)',
+      'ref': "Burton, C. M. (éd.) (1905), « Cadillac Papers » (suite), « Cadillac's Records » et « Detroit Rulers », Michigan Pioneer and Historical Collections, vol. 34, Lansing"},
+     'michiganhistoric34michuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
