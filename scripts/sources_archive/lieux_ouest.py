@@ -679,4 +679,8 @@ G.update({
  'Pays des Sioux (haut Mississippi)': (-93.5, 45.0, 'h', "pays des Sioux (haut Mississippi)"),
  'Chequamegon': (-90.9, 46.65, 'a', "baie de Chagouamigon (Chequamegon)"),
  'Sandusky': (-82.75, 41.45, 'a', "Sandoské (Sandusky, villages hurons)"),
+ 'Fort des Miamis (Maumee)': (-83.65, 41.55, 'a', "fort des Miamis (rivière Maumee, Toledo)"),
+ 'Ruisseau Cabacier (Détroit)': (-83.07, 42.326, 'a', "ruisseau Cabacier (Détroit)"),
+ 'Malden (Amherstburg)': (-83.11, 42.1, 'c', "Malden (Amherstburg, Ontario)"),
+ 'Fort Defiance (Maumee)': (-84.36, 41.29, 'a', "fort Defiance (rivière Maumee)"),
 })
