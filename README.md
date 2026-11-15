@@ -150,6 +150,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | « Cadillac Papers », *Michigan Pioneer and Historical Collections*, vol. 33 (1904) | `michiganhistoric33michuoft` | 62 |
 | « Cadillac Papers » (suite) et « Detroit Rulers », *Michigan Pioneer and Historical Collections*, vol. 34 (1905) | `michiganhistoric34michuoft` | 49 |
 | Ross et Catlin, *Landmarks of Detroit* (1898), partie historique jusqu'en 1832 | `landmarksofdetr00ross` | 44 |
+| Andreas, *History of Chicago*, vol. 1 (1884) : Chicago français et métis jusqu'en 1832 | `historyofchicago01andr` | 40 |
+| *Portrait and Biographical Record of Kankakee County* (1892) : Canadiens de Bourbonnais, Sainte-Anne et Kankakee | `portraitbiographica00lake` | 38 |
 
 
 ## Un point par lieu et adresses précises
