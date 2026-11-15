@@ -87,6 +87,10 @@ LIVRES = [
      {'court': 'Masson (1889)',
       'ref': "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1, « Liste des bourgeois, commis, engagés et voyageurs de la Compagnie du Nord-Ouest après la fusion de 1804 »"},
      'cihm_30414', lambda nom, ref: ref),
+    ('masson_1889_v1_recits.txt', 'MB',
+     {'court': 'Masson (1889), récits',
+      'ref': "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806)"},
+     'cihm_30414', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
