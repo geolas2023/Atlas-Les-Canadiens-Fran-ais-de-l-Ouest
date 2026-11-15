@@ -59,7 +59,8 @@ LIVRES = [
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
 garde = [f for f in d['features'] if not f['properties']['corpus'].startswith(CORPUS)]
-from adresses import coin
+from adresses import coin, ilot
+from lieux_ouest import G as _G
 from archive_commun import cle_personne, beau_nom, slug
 
 def appliquer_adresses(fs, fichier, pre, livre, ident):
@@ -97,6 +98,29 @@ def appliquer_adresses(fs, fichier, pre, livre, ident):
     print(f"  adresses : {deplacees} fiches placées à leur adresse, {creees} fiches d'adresse créées")
     return fs
 
+def appliquer_ilots(fs, fichier, livre):
+    """Place dans son îlot numéroté la fiche restée au point générique de Saint-Louis."""
+    x0, y0 = _G['Saint-Louis'][:2]
+    n_ok, manques = 0, []
+    for ligne in open(fichier, encoding='utf-8'):
+        if not ligne.strip() or ligne.startswith('#'): continue
+        brut, annee, num, partie, page = [x.strip() for x in ligne.split('|')]
+        lon, lat, lib, entre = ilot(int(num), partie)
+        k = cle_personne(brut)
+        cible = [f for f in fs if cle_personne(f['properties'].get('_brut', '')) == k and int(f['properties']['debut']) == int(annee)
+                 and abs(f['geometry']['coordinates'][0] - x0) < 1e-6 and abs(f['geometry']['coordinates'][1] - y0) < 1e-6]
+        if not cible:
+            manques.append(brut); continue
+        f = cible[0]; p = f['properties']
+        f['geometry']['coordinates'] = [lon, lat]
+        p['nom'] = f"{lib} : {beau_nom(brut)}"
+        p['certitude'] = 'approximative'
+        p['description'] += (f" Emplacement : {lib.split(', ', 1)[1]} du plan du village tracé par Laclède et Auguste Chouteau, {entre}"
+                             f" (concessions de 1765 énumérées par Billon, {page}) ; position reconstituée sur le quadrillage actuel (± 50 m).")
+        n_ok += 1
+    print(f"  îlots : {n_ok} fiches placées dans leur îlot" + (f" ; non trouvées : {manques}" if manques else ''))
+    return fs
+
 nouv, bilan = [], []
 for fic, pre, livre, ident, citer in LIVRES:
     ctxf = os.path.join(D, fic.replace('.txt', '_contextes.txt'))
@@ -105,6 +129,9 @@ for fic, pre, livre, ident, citer in LIVRES:
     adrf = os.path.join(D, fic.replace('.txt', '_adresses.txt'))
     if os.path.exists(adrf):
         fs = appliquer_adresses(fs, adrf, pre, livre, ident)
+    ilf = os.path.join(D, fic.replace('.txt', '_ilots.txt'))
+    if os.path.exists(ilf):
+        fs = appliquer_ilots(fs, ilf, livre)
     nouv += fs
     bilan.append((livre['court'], len(fs), sans_date, sorted(inconnus)))
 for f in nouv: f['properties'].pop('_brut', None)

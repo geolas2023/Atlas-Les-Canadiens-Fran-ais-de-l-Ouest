@@ -46,3 +46,43 @@ def adresse(ctx, lieu):
         raise ValueError(f'Adresse inconnue : {a}/{b}')
     lib = f"Saint-Louis, coin des rues {NOMS_FR.get(a, a)} et {b}"
     return propre, (P[a], T[b], lib)
+
+# Îlots numérotés du plan de Laclède (1764-1766), d'après les concessions énumérées par Billon (1886), p. 37-39.
+# Numérotation recoupée par une dizaine d'adresses données ailleurs par Billon (Lefebvre, Martigny, Ride,
+# Becquet, Denis, Maréchal, Gamache, Routier, Mme Chouteau, Valleau, Reynal, Didier, Lamoureux) :
+#   îlots 1 à 12 : entre le fleuve et Main, du sud au nord (7 = place d'Armes, entre Walnut et Market) ;
+#   îlots 27 à 41 : entre Main et Second, du nord au sud (34 = îlot de Laclède, entre Walnut et Market) ;
+#   îlots 52 à 64 : entre Second et Third, du sud au nord (59 = îlot de l'église).
+_TR = ['Cedar', 'Plum', 'Poplar', 'Spruce', 'Almond', 'Myrtle', 'Elm', 'Walnut', 'Market', 'Chestnut',
+       'Pine', 'Olive', 'Locust', 'Vine', 'Washington', 'Green']
+def _ilot_bornes(n):
+    if 1 <= n <= 12:
+        col, i = ('Front', 'Main'), n          # îlot 1 = Plum-Poplar
+    elif 26 <= n <= 41:
+        col, i = ('Main', 'Second'), 41 - n    # îlot 41 = Cedar-Plum, 34 = Walnut-Market
+    elif 52 <= n <= 64:
+        col, i = ('Second', 'Third'), n - 52   # îlot 52 = Cedar-Plum, 59 = Walnut-Market
+    else:
+        raise ValueError(f'Îlot {n} hors du plan reconstitué')
+    return col, _TR[i], _TR[i + 1]
+
+PARTIES = {  # (fraction est-ouest depuis l'ouest, fraction nord-sud depuis le sud, libellé)
+    'N': (0.5, 0.75, 'moitié nord'), 'S': (0.5, 0.25, 'moitié sud'), 'E': (0.75, 0.5, 'moitié est'), 'O': (0.25, 0.5, 'moitié ouest'),
+    'NE': (0.75, 0.75, 'quart nord-est'), 'NO': (0.25, 0.75, 'quart nord-ouest'),
+    'SE': (0.75, 0.25, 'quart sud-est'), 'SO': (0.25, 0.25, 'quart sud-ouest'),
+    'NE6': (0.75, 0.83, 'sixième nord-est'), 'NO6': (0.25, 0.83, 'sixième nord-ouest'), 'C6': (0.5, 0.5, 'sixième central'),
+    'SE6': (0.75, 0.17, 'sixième sud-est'), 'SO6': (0.25, 0.17, 'sixième sud-ouest'), '': (0.5, 0.5, 'îlot entier'),
+}
+
+def _de(rue):
+    return ("d'" if rue[0] in 'AEIOU' else 'de ') + rue
+
+def ilot(n, partie=''):
+    """Retourne (lon, lat, libellé) pour une partie d'un îlot numéroté du village de Saint-Louis."""
+    P, T = SAINT_LOUIS['paralleles'], SAINT_LOUIS['transversales']
+    (est, ouest), sud, nord = _ilot_bornes(n)
+    fx, fy, lib = PARTIES[partie]
+    lon = P[ouest] + (P[est] - P[ouest]) * (1 - fx)
+    lat = T[sud] + (T[nord] - T[sud]) * fy
+    entre = 'entre le fleuve et la rue Main' if est == 'Front' else f"entre les rues {NOMS_FR.get(est, est)} et {NOMS_FR.get(ouest, ouest)}"
+    return round(lon, 5), round(lat, 5), f"Saint-Louis, îlot {n} ({lib})", f"{entre}, {_de(sud)} à {nord}"
