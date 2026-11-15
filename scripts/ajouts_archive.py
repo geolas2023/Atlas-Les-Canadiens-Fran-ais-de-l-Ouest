@@ -39,6 +39,10 @@ LIVRES = [
      {'court': 'Dugas (1906)',
       'ref': "Dugas, Georges (1906), Histoire de l'Ouest canadien de 1822 à 1869 : époque des troubles, Montréal, Beauchemin"},
      'histoiredelouest00dugauoft', lambda nom, ref: ref),
+    ('dugas_1890.txt', 'DV',
+     {'court': 'Dugas (1890)',
+      'ref': "Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils"},
+     'unvoyageurdespay00duga', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

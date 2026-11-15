@@ -126,3 +126,4 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Hamon, *Les Canadiens-français de la Nouvelle-Angleterre* (1891) | `cihm_39098` | 183 |
 | Dugas, *L'Ouest canadien* (1896) | `cihm_30150` | 102 |
 | Dugas, *Histoire de l'Ouest canadien de 1822 à 1869* (1906) | `histoiredelouest00dugauoft` | 56 |
+| Dugas, *Un voyageur des pays d'en haut* (1890) | `unvoyageurdespay00duga` | 23 |
