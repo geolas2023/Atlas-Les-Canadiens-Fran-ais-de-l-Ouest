@@ -237661,8 +237661,8 @@
     ]
    },
    "properties": {
-    "id": "MA-malhiot-francois-vincent-lac-flambe",
-    "nom": "Lac du Flambeau : François Vincent Malhiot",
+    "id": "MA-malhiot-francois-victor-lac-flambe",
+    "nom": "Lac du Flambeau : François Victor Malhiot",
     "corpus": "archive.org · Masson (1889)",
     "theme": "personnage",
     "debut": 1804.0,
@@ -237671,9 +237671,9 @@
     "precision": "annee",
     "certitude": "approximative",
     "personnages": [
-     "François Vincent Malhiot"
+     "François Victor Malhiot"
     ],
-    "description": "Lac du Flambeau, 1804. François Vincent Malhiot est inscrit comme commis du département du lac du Flambeau sur la liste de la Compagnie du Nord-Ouest dressée après la fusion de 1804. D'après Masson (1889).",
+    "description": "Lac du Flambeau, 1804. François Victor Malhiot est inscrit comme commis du département du lac du Flambeau sur la liste de la Compagnie du Nord-Ouest dressée après la fusion de 1804. D'après Masson (1889).",
     "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1, « Liste des bourgeois, commis, engagés et voyageurs de la Compagnie du Nord-Ouest après la fusion de 1804 », p. 395-413 ; texte intégral : archive.org, cihm_30414.",
     "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
     "livre": "Masson (1889)",
@@ -240163,6 +240163,2046 @@
      {
       "url": "https://archive.org/details/cihm_30414?q=GRENIER",
       "texte": "Lire Masson (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "MB-malhiot-francois-victor-kaministiq",
+    "nom": "Kaministiquia (Fort William) : François-Victor Malhiot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Victor Malhiot"
+    ],
+    "description": "Kaministiquia (Fort William), 1804. François-Victor Malhiot part du fort de Kaministiquia en juillet avec ses engagés pour aller relever le poste du lac du Flambeau. D'après Masson (1889), récits. Autres lieux de l'entrée : Grand Marais (rive nord du lac Supérieur), Fond-du-Lac (lac Supérieur), rivière Montréal (Wisconsin), lac du Flambeau, La Pointe (Chequamegon).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 225-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MALHIOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.33,
+     47.75
+    ]
+   },
+   "properties": {
+    "id": "MB-malhiot-francois-victor-grand-mara",
+    "nom": "Grand Marais (rive nord du lac Supérieur) : François-Victor Malhiot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Victor Malhiot"
+    ],
+    "description": "Grand Marais (rive nord du lac Supérieur), 1804. François-Victor Malhiot longe la rive nord du lac Supérieur et y apprend les plans des traiteurs de la XY. D'après Masson (1889), récits. Autres lieux de l'entrée : Kaministiquia (Fort William), Fond-du-Lac (lac Supérieur), rivière Montréal (Wisconsin), lac du Flambeau, La Pointe (Chequamegon).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 225-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MALHIOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     46.66
+    ]
+   },
+   "properties": {
+    "id": "MB-malhiot-francois-victor-fond-du-la",
+    "nom": "Fond-du-Lac (lac Supérieur) : François-Victor Malhiot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Victor Malhiot"
+    ],
+    "description": "Fond-du-Lac (lac Supérieur), 1804. François-Victor Malhiot déjeune avec Sayer au Fond-du-Lac et échange du sucre contre de la gomme. D'après Masson (1889), récits. Autres lieux de l'entrée : Kaministiquia (Fort William), Grand Marais (rive nord du lac Supérieur), rivière Montréal (Wisconsin), lac du Flambeau, La Pointe (Chequamegon).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 225-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MALHIOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.42,
+     46.55
+    ]
+   },
+   "properties": {
+    "id": "MB-malhiot-francois-victor-montreal-r",
+    "nom": "Rivière Montréal (Wisconsin) : François-Victor Malhiot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Victor Malhiot"
+    ],
+    "description": "Rivière Montréal (Wisconsin), 1804. François-Victor Malhiot franchit le portage de la rivière Montréal, où le chef le Genou se plaint du poste de la XY. D'après Masson (1889), récits. Autres lieux de l'entrée : Kaministiquia (Fort William), Grand Marais (rive nord du lac Supérieur), Fond-du-Lac (lac Supérieur), lac du Flambeau, La Pointe (Chequamegon).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 225-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MALHIOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-malhiot-francois-victor-lac-flambe",
+    "nom": "Lac du Flambeau : François-Victor Malhiot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Victor Malhiot"
+    ],
+    "description": "Lac du Flambeau, 1804-1805. François-Victor Malhiot prend le 1er août la direction du fort du lac du Flambeau et y tient son journal de traite tout l'hiver, menacé par la concurrence de Chorette et par la faim. D'après Masson (1889), récits. Autres lieux de l'entrée : Kaministiquia (Fort William), Grand Marais (rive nord du lac Supérieur), Fond-du-Lac (lac Supérieur), rivière Montréal (Wisconsin), La Pointe (Chequamegon).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 225-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MALHIOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "MB-malhiot-francois-victor-la-pointe",
+    "nom": "La Pointe (Chequamegon) : François-Victor Malhiot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Victor Malhiot"
+    ],
+    "description": "La Pointe (Chequamegon), 1805. François-Victor Malhiot repart au printemps avec les hommes de Cadotte par La Pointe et le lac Supérieur. D'après Masson (1889), récits. Autres lieux de l'entrée : Kaministiquia (Fort William), Grand Marais (rive nord du lac Supérieur), Fond-du-Lac (lac Supérieur), rivière Montréal (Wisconsin), lac du Flambeau.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 225-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MALHIOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-gauthier-charles-lac-flambe",
+    "nom": "Lac du Flambeau : Charles Gauthier",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Gauthier"
+    ],
+    "description": "Lac du Flambeau, 1804-1805. Charles Gauthier remet le poste et l'inventaire à Malhiot le 1er août, avoue ses fautes, sert d'interprète tout l'hiver et garde le fort au départ de Malhiot au printemps. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 233-260 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=GAUTHIER",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.42,
+     46.55
+    ]
+   },
+   "properties": {
+    "id": "MB-racicot-jacques-montreal-r",
+    "nom": "Rivière Montréal (Wisconsin) : Jacques Racicot",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Racicot"
+    ],
+    "description": "Rivière Montréal (Wisconsin), 1804. Jacques Racicot garde au portage de la rivière Montréal le gros des marchandises de Malhiot et lui envoie du rhum; il est réprimandé pour ses retards. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 232-251 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=RACICOT",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-durocher-x-malhiot-lac-flambe",
+    "nom": "Lac du Flambeau : Durocher (Malhiot)",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Durocher (Malhiot)"
+    ],
+    "description": "Lac du Flambeau, 1804. Durocher (Malhiot). Amène au fort le fils de Cadotte pour qu'il apprenne à lire et serve d'interprète. D'après Masson (1889), récits. Autres lieux de l'entrée : La Pointe (Chequamegon).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 239, 252-253 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=DUROCHER",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "MB-durocher-x-malhiot-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Durocher (Malhiot)",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Durocher (Malhiot)"
+    ],
+    "description": "La Pointe (Chequamegon), 1804. Durocher (Malhiot) va prévenir Cadotte du départ de Chorette vers la rivière des Sauteux. D'après Masson (1889), récits. Autres lieux de l'entrée : lac du Flambeau.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 239, 252-253 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=DUROCHER",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-bazinet-jean-baptiste-lac-flambe",
+    "nom": "Lac du Flambeau : Jean-Baptiste Bazinet",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Bazinet"
+    ],
+    "description": "Lac du Flambeau, 1804. Jean-Baptiste Bazinet sert d'interprète à Malhiot, fait la traite avec les familles ojibwées et le fait passer pour le frère de McGillivray. D'après Masson (1889), récits. Autres lieux de l'entrée : haut de la rivière Ouisconsin (Wisconsin).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 235-251 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BAZINET",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.6,
+     45.7
+    ]
+   },
+   "properties": {
+    "id": "MB-bazinet-jean-baptiste-haut-wisco",
+    "nom": "Haut de la rivière Ouisconsin (Wisconsin) : Jean-Baptiste Bazinet",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Bazinet"
+    ],
+    "description": "Haut de la rivière Ouisconsin (Wisconsin), 1804. Jean-Baptiste Bazinet part en dérouine avec des marchandises vers le haut Ouisconsin. D'après Masson (1889), récits. Autres lieux de l'entrée : lac du Flambeau.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 235-251 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BAZINET",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-lalancette-antoine-lac-flambe",
+    "nom": "Lac du Flambeau : Antoine Lalancette",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Lalancette"
+    ],
+    "description": "Lac du Flambeau, 1804-1805. Antoine Lalancette. Tient un poste voisin de celui de Malhiot; il insulte la femme et la fille de La Chouette, puis se bat avec Gauthier. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 229, 241-243, 255-257 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LALANCETTE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     47.82
+    ]
+   },
+   "properties": {
+    "id": "MB-chorette-x-xy-riviere-br",
+    "nom": "Rivière Brûlée (rive nord du lac Supérieur) : Chorette (XY)",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chorette (XY)"
+    ],
+    "description": "Rivière Brûlée (rive nord du lac Supérieur), 1804. Chorette (XY) est rencontré par Malhiot en route avec ses canots de la compagnie XY. D'après Masson (1889), récits. Autres lieux de l'entrée : lac du Flambeau, rivière des Sauteux (Chippewa, Wisconsin).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 229-259 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CHORETTE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-chorette-x-xy-lac-flambe",
+    "nom": "Lac du Flambeau : Chorette (XY)",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chorette (XY)"
+    ],
+    "description": "Lac du Flambeau, 1804-1805. Chorette (XY). Est un traiteur rival de la XY près du poste de Malhiot; il l'avertit en février d'un complot contre sa vie. D'après Masson (1889), récits. Autres lieux de l'entrée : rivière Brûlée (rive nord du lac Supérieur), rivière des Sauteux (Chippewa, Wisconsin).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 229-259 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CHORETTE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     45.5
+    ]
+   },
+   "properties": {
+    "id": "MB-chorette-x-xy-riviere-de",
+    "nom": "Rivière des Sauteux (Chippewa, Wisconsin) : Chorette (XY)",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Chorette (XY)"
+    ],
+    "description": "Rivière des Sauteux (Chippewa, Wisconsin), 1804. Chorette (XY) part avec ses canots vers la rivière des Sauteux. D'après Masson (1889), récits. Autres lieux de l'entrée : rivière Brûlée (rive nord du lac Supérieur), lac du Flambeau.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 229-259 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CHORETTE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     46.66
+    ]
+   },
+   "properties": {
+    "id": "MB-corbin-jean-baptiste-fond-du-la",
+    "nom": "Fond-du-Lac (lac Supérieur) : Jean-Baptiste Corbin",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Corbin"
+    ],
+    "description": "Fond-du-Lac (lac Supérieur), 1804. Jean-Baptiste Corbin est commis de Michel Cadotte ; Malhiot le rencontre à l'entrée du lac Supérieur. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 228 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CORBIN",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "MB-cadotte-michel-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Michel Cadotte",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Cadotte"
+    ],
+    "description": "La Pointe (Chequamegon), 1804-1805. Michel Cadotte est le bourgeois de La Pointe ; Malhiot lui demande de surveiller Chorette et de lui envoyer une scie, et repart au printemps avec ses hommes. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 230, 253, 261-263 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CADOTTE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-cadotte-le-petit-lac-flambe",
+    "nom": "Lac du Flambeau : « le Petit » Cadotte",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "« le Petit » Cadotte"
+    ],
+    "description": "Lac du Flambeau, 1804-1805. « le Petit » Cadotte. Est le jeune fils de Michel Cadotte ; il apprend à lire au fort et sert d'interprète à Malhiot, qui loue ses progrès. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 235, 239, 255-256 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CADOTTE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-martineau-ambroise-lac-flambe",
+    "nom": "Lac du Flambeau : Ambroise Martineau",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ambroise Martineau"
+    ],
+    "description": "Lac du Flambeau, 1804. Ambroise Martineau revient affamé au fort avec Tremblé et Lebeau, puis va chercher des fourrures au poste de Lalancette. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 231-232, 255 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=MARTINEAU",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.12,
+     46.13
+    ]
+   },
+   "properties": {
+    "id": "MB-tremble-x-lac-vieux-",
+    "nom": "Lac Vieux-Désert : Tremblé",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Tremblé"
+    ],
+    "description": "Lac Vieux-Désert, 1805. Tremblé part du Vieux-Désert avec les marchandises; Malhiot envoie des hommes le ramener. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 231, 257-260 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=TREMBLÉ",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-beaulieu-basile-lac-flambe",
+    "nom": "Lac du Flambeau : Basile Beaulieu",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Basile Beaulieu"
+    ],
+    "description": "Lac du Flambeau, 1804. Basile Beaulieu est envoyé avec Gauthier chez le fils de La Chouette. D'après Masson (1889), récits. Autres lieux de l'entrée : lac Vieux-Désert.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 236, 257 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BEAULIEU",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.12,
+     46.13
+    ]
+   },
+   "properties": {
+    "id": "MB-beaulieu-basile-lac-vieux-",
+    "nom": "Lac Vieux-Désert : Basile Beaulieu",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Basile Beaulieu"
+    ],
+    "description": "Lac Vieux-Désert, 1805. Basile Beaulieu va recouvrer les crédits vers le Vieux-Désert et L'Anse. D'après Masson (1889), récits. Autres lieux de l'entrée : lac du Flambeau.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 236, 257 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BEAULIEU",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "MB-bruno-remi-lac-flambe",
+    "nom": "Lac du Flambeau : Rémi Bruno",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Rémi Bruno"
+    ],
+    "description": "Lac du Flambeau, 1804. Rémi Bruno rapporte 24 fourrures du poste de Lalancette avec Martineau et Durocher. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 255 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BRUNO",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.45,
+     46.75
+    ]
+   },
+   "properties": {
+    "id": "MB-roy-x-l-anse-l-anse-lac",
+    "nom": "L'Anse (baie de Keweenaw) : Roy (L'Anse)",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Roy (L'Anse)"
+    ],
+    "description": "L'Anse (baie de Keweenaw), 1805. Roy (L'Anse) est envoyé à L'Anse à la recherche de Tremblé. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 257 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=ROY",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.6,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-larocque-francois-antoine-fort-assin",
+    "nom": "Fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris) : François-Antoine Larocque",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris), 1804. François-Antoine Larocque quitte le fort Assiniboine à l'automne pour les Mandanes avec La France, Morrison, Turenne, Alexis McKay et Joseph Azure, envoyé par Chaboillez. D'après Masson (1889), récits. Autres lieux de l'entrée : villages mandanes (haut Missouri), fort Mandan (Lewis et Clark, hiver 1804-1805), pays des Corbeaux (Crows), vallée de la Yellowstone et du Bighorn, fort de la Montagne-à-la-Bosse (Assiniboine).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 297-313, 327-362 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAROCQUE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-larocque-francois-antoine-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : François-Antoine Larocque",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1804-1805. François-Antoine Larocque fait la traite aux villages mandanes et gros-ventres, à côté des Américains. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris), fort Mandan (Lewis et Clark, hiver 1804-1805), pays des Corbeaux (Crows), vallée de la Yellowstone et du Bighorn, fort de la Montagne-à-la-Bosse (Assiniboine).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 297-313, 327-362 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAROCQUE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.29
+    ]
+   },
+   "properties": {
+    "id": "MB-larocque-francois-antoine-fort-manda",
+    "nom": "Fort Mandan (Lewis et Clark, hiver 1804-1805) : François-Antoine Larocque",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Fort Mandan (Lewis et Clark, hiver 1804-1805), 1804. François-Antoine Larocque rencontre Lewis et Clark au fort Mandan; Lewis lui répare sa boussole. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris), villages mandanes (haut Missouri), pays des Corbeaux (Crows), vallée de la Yellowstone et du Bighorn, fort de la Montagne-à-la-Bosse (Assiniboine).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 297-313, 327-362 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAROCQUE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.5,
+     45.8
+    ]
+   },
+   "properties": {
+    "id": "MB-larocque-francois-antoine-pays-des-c",
+    "nom": "Pays des Corbeaux (Crows), vallée de la Yellowstone et du Bighorn : François-Antoine Larocque",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Pays des Corbeaux (Crows), vallée de la Yellowstone et du Bighorn, 1805. François-Antoine Larocque part le 3 juin avec les Corbeaux, qui l'adoptent comme « père », et va jusqu'aux montagnes Rocheuses. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris), villages mandanes (haut Missouri), fort Mandan (Lewis et Clark, hiver 1804-1805), fort de la Montagne-à-la-Bosse (Assiniboine).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 297-313, 327-362 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAROCQUE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     49.85
+    ]
+   },
+   "properties": {
+    "id": "MB-larocque-francois-antoine-montagne-a",
+    "nom": "Fort de la Montagne-à-la-Bosse (Assiniboine) : François-Antoine Larocque",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Fort de la Montagne-à-la-Bosse (Assiniboine), 1805. François-Antoine Larocque revient le 18 novembre des montagnes Rocheuses après 36 jours de route. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris), villages mandanes (haut Missouri), fort Mandan (Lewis et Clark, hiver 1804-1805), pays des Corbeaux (Crows), vallée de la Yellowstone et du Bighorn.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 297-313, 327-362 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAROCQUE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-lafrance-jean-baptiste-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Jean-Baptiste Lafrance",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lafrance"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Jean-Baptiste Lafrance part le 10 décembre pour le Missouri avec huit compagnons. D'après Masson (1889), récits. Autres lieux de l'entrée : villages mandanes (haut Missouri), haut Missouri.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286, 303, 327, 351-353 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAFRANCE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-lafrance-jean-baptiste-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Jean-Baptiste Lafrance",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lafrance"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1804. Jean-Baptiste Lafrance est un homme libre engagé par Chaboillez comme guide, commis et interprète, il traite environ 350 peaux aux Mandanes. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Espérance (rivière Qu'Appelle), haut Missouri.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286, 303, 327, 351-353 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAFRANCE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "MB-lafrance-jean-baptiste-missouri",
+    "nom": "Haut Missouri : Jean-Baptiste Lafrance",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Lafrance"
+    ],
+    "description": "Haut Missouri, 1805. Jean-Baptiste Lafrance manque de mourir de soif dans les plaines à l'ouest des Mandanes, sauvé par Charles McKenzie. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Espérance (rivière Qu'Appelle), villages mandanes (haut Missouri).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286, 303, 327, 351-353 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAFRANCE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-azure-joseph-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Joseph Azure",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Azure"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1804. Joseph Azure accompagne Larocque aux Mandanes et y traite environ 250 peaux. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 301-303, 328 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=AZURE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-turenne-baptiste-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Baptiste Turenne",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Turenne"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1804. Baptiste Turenne. Est voyageur de Larocque ; il achète un vieux fusil pour acheter un cheval après le vol de seize chevaux par les Assiniboines. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 308, 328 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=TURENNE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-charbonneau-toussaint-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Toussaint Charbonneau",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1804-1805. Toussaint Charbonneau est un interprète recherché par Larocque comme par les Américains ; Lewis pose ses conditions pour l'engager. D'après Masson (1889), récits. Autres lieux de l'entrée : fort Mandan (Lewis et Clark, hiver 1804-1805).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 303-307, 332-337 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CHARBONNEAU",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.29
+    ]
+   },
+   "properties": {
+    "id": "MB-charbonneau-toussaint-fort-manda",
+    "nom": "Fort Mandan (Lewis et Clark, hiver 1804-1805) : Toussaint Charbonneau",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau"
+    ],
+    "description": "Fort Mandan (Lewis et Clark, hiver 1804-1805), 1805. Toussaint Charbonneau part avec sa femme serpent (shoshone) comme interprète de Lewis et Clark le 8 avril. D'après Masson (1889), récits. Autres lieux de l'entrée : villages mandanes (haut Missouri).",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 303-307, 332-337 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CHARBONNEAU",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-jussaume-rene-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : René Jussaume",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "René Jussaume"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1804. René Jussaume accompagne Lewis avec Charbonneau quand celui-ci rencontre Larocque. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 303 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=JUSSAUME",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.6,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-chaboillez-charles-jean-bapt-fort-assin",
+    "nom": "Fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris) : Charles-Jean-Baptiste Chaboillez",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles-Jean-Baptiste Chaboillez"
+    ],
+    "description": "Fort Assiniboine de la Compagnie du Nord-Ouest (près de l'embouchure de la Souris), 1804-1805. Charles-Jean-Baptiste Chaboillez. Est le bourgeois du département ; il équipe l'expédition de Larocque chez les Mandanes et récompense chaque homme d'un cheval au retour. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 300, 313, 327, 340 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=CHABOILLEZ",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     49.85
+    ]
+   },
+   "properties": {
+    "id": "MB-rocheblave-pierre-de-montagne-a",
+    "nom": "Fort de la Montagne-à-la-Bosse (Assiniboine) : Pierre de Rocheblave",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre de Rocheblave"
+    ],
+    "description": "Fort de la Montagne-à-la-Bosse (Assiniboine), 1805. Pierre de Rocheblave est à la Montagne-à-la-Bosse quand Larocque revient des Rocheuses en novembre. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 362 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=ROCHEBLAVE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "MB-roy-x-missouri-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Roy",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Roy"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1806. Roy refuse en février de continuer dans une tempête de neige près du Missouri et est laissé en arrière. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 367-368 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=ROY",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-faignan-raphael-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Raphaël Faignan",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Raphaël Faignan"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Raphaël Faignan part le 10 décembre pour le Missouri dans le groupe de neuf hommes de McDonnell. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=FAIGNAN",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-bourier-dit-lavigne-antoine-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Antoine Bourier dit Lavigne",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Bourier dit Lavigne"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Antoine Bourier dit Lavigne part le 10 décembre pour le Missouri dans le groupe de neuf hommes. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BOURIER+dit+LAVIGNE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-dube-joseph-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Joseph Dubé",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Dubé"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Joseph Dubé part le 10 décembre pour le Missouri dans le groupe de neuf hommes. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=DUBÉ",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-tranquille-joseph-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Joseph Tranquille",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Tranquille"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Joseph Tranquille part le 10 décembre pour le Missouri dans le groupe de neuf hommes. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286-288 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=TRANQUILLE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-tranquille-joseph-fort-esper-2",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Joseph Tranquille",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Tranquille"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1794. Joseph Tranquille achète une esclave en février. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286-288 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=TRANQUILLE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-lagrave-francois-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : François Lagrave",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Lagrave"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. François Lagrave part le 10 décembre pour le Missouri dans le groupe de neuf hommes. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 286 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAGRAVE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-peltier-x-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Peltier",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Peltier"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Peltier apporte avec Sansregret des lettres de John Miln. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 284 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=PELTIER",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-sansregret-x-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Sansregret",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sansregret"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1793. Sansregret apporte avec Peltier des lettres de John Miln. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 284 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=SANSREGRET",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-poitras-x-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Poitras",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Poitras"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1794. Poitras achète en mai une jeune esclave aux Deux-Cœurs. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 288, 294 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=POITRAS",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-lafontaine-marie-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Marie Lafontaine",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marie Lafontaine"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1794. Marie Lafontaine est payée pour des raquettes et des cordes de cuir de bison. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 288 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LAFONTAINE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-houle-louis-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Louis Houle",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Houle"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1795. Louis Houle est envoyé avec Pierre-Étienne Ducharme au passage de la Corne-de-Cerf. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 290 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=HOULE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.73,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "MB-ducharme-pierre-etienne-fort-esper",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Pierre-Étienne Ducharme",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Étienne Ducharme"
+    ],
+    "description": "Fort Espérance (rivière Qu'Appelle), 1795. Pierre-Étienne Ducharme est envoyé avec Louis Houle au passage de la Corne-de-Cerf. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 290 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=DUCHARME",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.3,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-bedard-x-fort-souri",
+    "nom": "Fort de la Souris : Bédard",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Bédard"
+    ],
+    "description": "Fort de la Souris, 1795. Bédard arrive de la rivière la Souris avec Saint-James, Lacouture, Pierre Alain et Gareau. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 291 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=BÉDARD",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.3,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-lacouture-x-fort-souri",
+    "nom": "Fort de la Souris : Lacouture",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lacouture"
+    ],
+    "description": "Fort de la Souris, 1795. Lacouture arrive de la rivière la Souris. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 291 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=LACOUTURE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.3,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-alain-pierre-fort-souri",
+    "nom": "Fort de la Souris : Pierre Alain",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Alain"
+    ],
+    "description": "Fort de la Souris, 1795. Pierre Alain arrive de la rivière la Souris. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 291 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=ALAIN",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.3,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-gareau-x-fort-souri",
+    "nom": "Fort de la Souris : Gareau",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gareau"
+    ],
+    "description": "Fort de la Souris, 1795. Gareau arrive de la rivière la Souris. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 291 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=GAREAU",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     49.85
+    ]
+   },
+   "properties": {
+    "id": "MB-saint-denis-x-montagne-a",
+    "nom": "Fort de la Montagne-à-la-Bosse (Assiniboine) : Saint-Denis",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Saint-Denis"
+    ],
+    "description": "Fort de la Montagne-à-la-Bosse (Assiniboine), 1795. Saint-Denis apporte avec Saint-Pierre la nouvelle de la mort de John Miln. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 293 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=SAINT+DENIS",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     49.85
+    ]
+   },
+   "properties": {
+    "id": "MB-saint-pierre-x-montagne-a",
+    "nom": "Fort de la Montagne-à-la-Bosse (Assiniboine) : Saint-Pierre",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "personnage",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Saint-Pierre"
+    ],
+    "description": "Fort de la Montagne-à-la-Bosse (Assiniboine), 1795. Saint-Pierre apporte avec Saint-Denis la nouvelle de la mort de John Miln. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 293 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=SAINT+PIERRE",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.3,
+     49.65
+    ]
+   },
+   "properties": {
+    "id": "MB-auge-x-fort-souri",
+    "nom": "Fort de la Souris : Augé",
+    "corpus": "archive.org · Masson (1889), récits",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Augé"
+    ],
+    "description": "Fort de la Souris, 1794. Augé tient le poste de la rivière la Souris. D'après Masson (1889), récits.",
+    "sources": "Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1 : journaux de Malhiot (1804-1805), McDonnell (1793-1795), Larocque (1804-1805) et Charles McKenzie (1804-1806), p. 270-296 ; texte intégral : archive.org, cihm_30414.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Masson (1889), récits",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_30414?q=AUGÉ",
+      "texte": "Lire Masson (1889), récits sur archive.org →"
      }
     ]
    }
