@@ -211340,6 +211340,5106 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "CH-picotte-honore-fort-pierr",
+    "nom": "Fort Pierre : Honoré Picotte",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Honoré Picotte"
+    ],
+    "description": "Fort Pierre, 1843. Honoré Picotte réclame de l'alcool pour contrer les stocks de Fox, Livingston et Cie. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : villages mandanes (haut Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 29-30, 345-352, 388-389 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PICOTTE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "CH-picotte-honore-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Honoré Picotte",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Honoré Picotte"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1833. Honoré Picotte rassemble 80 ballots de robes et 500 castors comme associé de la Compagnie française. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Pierre.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 29-30, 345-352, 388-389 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PICOTTE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.664,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-pierre-fils-dubuque",
+    "nom": "Mines de Dubuque (Iowa) : Pierre Chouteau (fils)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chouteau (fils)"
+    ],
+    "description": "Mines de Dubuque (Iowa), 1806. Pierre Chouteau (fils), né en 1789 à Saint-Louis, accompagne Julien Dubuque aux mines de plomb. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 27-30, 109, 326-346, 364-384 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-pierre-fils-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Chouteau (fils)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chouteau (fils)"
+    ],
+    "description": "Saint-Louis (Missouri), 1832. Pierre Chouteau (fils), né en 1789 à Saint-Louis, écrit à Astor que l'interdiction de l'alcool nuira aux postes au-dessus de la Yellowstone. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Mines de Dubuque (Iowa).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 27-30, 109, 326-346, 364-384 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-pierre-fils-saint-loui-2",
+    "nom": "Saint-Louis (Missouri) : Pierre Chouteau (fils)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chouteau (fils)"
+    ],
+    "description": "Saint-Louis (Missouri), 1834. Pierre Chouteau (fils), né en 1789 à Saint-Louis, rachète le département de l'Ouest de l'American Fur Company. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Mines de Dubuque (Iowa).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 27-30, 109, 326-346, 364-384 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.1,
+     38.1
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-pierre-osage-vill",
+    "nom": "Pays des Osages : Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Chouteau"
+    ],
+    "description": "Pays des Osages, 1800. Pierre Chouteau, né en 1758 à La Nouvelle-Orléans, tient depuis vingt ans la traite exclusive des Osages. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : villages arikaras (Grand River), Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 120-126, 137-139 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-pierre-villages-a",
+    "nom": "Villages arikaras (Grand River) : Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Chouteau"
+    ],
+    "description": "Villages arikaras (Grand River), 1807. Pierre Chouteau, né en 1758 à La Nouvelle-Orléans, combat les Arikaras en escortant le chef mandane avec 32 hommes. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : pays des Osages, Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 120-126, 137-139 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-pierre-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chouteau"
+    ],
+    "description": "Saint-Louis (Missouri), 1809. Pierre Chouteau, né en 1758 à La Nouvelle-Orléans, s'associe à la Compagnie de fourrures du Missouri et commande l'escorte de 125 hommes. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : pays des Osages, villages arikaras (Grand River).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 120-126, 137-139 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-auguste-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Auguste Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Chouteau"
+    ],
+    "description": "Saint-Louis (Missouri), 1764. Auguste Chouteau, né en 1750 à La Nouvelle-Orléans, commence le 15 février, à treize ans, les travaux du poste avec une trentaine d'hommes. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 99-101, 115 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-auguste-saint-loui-2",
+    "nom": "Saint-Louis (Missouri) : Auguste Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Chouteau"
+    ],
+    "description": "Saint-Louis (Missouri), 1808. Auguste Chouteau, né en 1750 à La Nouvelle-Orléans, siège comme juge au procès de Drouillard. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 99-101, 115 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.158,
+     38.085
+    ]
+   },
+   "properties": {
+    "id": "CH-laclede-liguest-pierre-fort-de-ch",
+    "nom": "Fort de Chartres : Pierre Laclède Liguest",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Laclède Liguest"
+    ],
+    "description": "Fort de Chartres, 1763. Pierre Laclède Liguest, né à Bedous (Béarn), hiverne avec ses marchandises chez Neyon de Villiers. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 94-101 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LACLÈDE+LIGUEST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-laclede-liguest-pierre-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Laclède Liguest",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Laclède Liguest"
+    ],
+    "description": "Saint-Louis (Missouri), 1764. Pierre Laclède Liguest, né à Bedous (Béarn), choisit le site et nomme la ville en avril. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort de Chartres.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 94-101 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LACLÈDE+LIGUEST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.158,
+     38.085
+    ]
+   },
+   "properties": {
+    "id": "CH-neyon-de-villiers-pierre-jos-fort-de-ch",
+    "nom": "Fort de Chartres : Pierre-Joseph Neyon de Villiers",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Joseph Neyon de Villiers"
+    ],
+    "description": "Fort de Chartres, 1763. Pierre-Joseph Neyon de Villiers offre ses magasins à Laclède pour l'hiver. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 99 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=NEYON+DE+VILLIERS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "CH-le-moyne-d-iberville-pierre-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Pierre Le Moyne D'iberville",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne D'iberville"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Pierre Le Moyne D'iberville fonde l'établissement de Biloxi le 1er mai après être entré dans le Mississippi. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 74-75, 88 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LE+MOYNE+D+IBERVILLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.7,
+     44.15
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-auguste-pierre-fort-aux-c",
+    "nom": "Fort aux Cèdres (haut Missouri) : Auguste-Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Fort aux Cèdres (haut Missouri), 1810. Auguste-Pierre Chouteau descend les fourrures vers Saint-Louis quand le poste de l'île aux Cèdres brûle. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 138, 146 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.52,
+     45.92
+    ]
+   },
+   "properties": {
+    "id": "CH-menard-pierre-three-fork",
+    "nom": "Trois-Fourches du Missouri : Pierre Ménard",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Trois-Fourches du Missouri, 1810. Pierre Ménard mène un parti aux Trois-Fourches et propose de faire la paix avec les Pieds-Noirs. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Kaskaskia.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 114, 137-143 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=MÉNARD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.914,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "CH-menard-pierre-kaskaskia",
+    "nom": "Kaskaskia : Pierre Ménard",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ménard"
+    ],
+    "description": "Kaskaskia, 1807. Pierre Ménard s'associe à Lisa et Morrison pour le haut Missouri. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Trois-Fourches du Missouri.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 114, 137-143 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=MÉNARD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "CH-jusseaume-rene-villages-a",
+    "nom": "Villages arikaras (Grand River) : René Jusseaume",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "René Jusseaume"
+    ],
+    "description": "Villages arikaras (Grand River), 1807. René Jusseaume sert d'interprète au chef mandane et est blessé au combat contre les Arikaras. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 120-123, 139 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=JUSSEAUME",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "CH-dorion-william-villages-a",
+    "nom": "Villages arikaras (Grand River) : William Dorion",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "William Dorion"
+    ],
+    "description": "Villages arikaras (Grand River), 1807. William Dorion sert d'interprète à l'expédition et interroge les Arikaras. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 120-121 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DORION",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0,
+     38.6
+    ]
+   },
+   "properties": {
+    "id": "CH-drouillard-georges-osage-mout",
+    "nom": "Missouri, face à l'embouchure de l'Osage : Georges Drouillard",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Georges Drouillard"
+    ],
+    "description": "Missouri, face à l'embouchure de l'Osage, 1807. Georges Drouillard blesse à mort le déserteur Bissonnette. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Saint-Louis (Missouri), Trois-Fourches du Missouri.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 115, 143 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DROUILLARD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-drouillard-georges-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Georges Drouillard",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Georges Drouillard"
+    ],
+    "description": "Saint-Louis (Missouri), 1808. Georges Drouillard est acquitté du meurtre. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Missouri, face à l'embouchure de l'Osage, Trois-Fourches du Missouri.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 115, 143 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DROUILLARD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.52,
+     45.92
+    ]
+   },
+   "properties": {
+    "id": "CH-drouillard-georges-three-fork",
+    "nom": "Trois-Fourches du Missouri : Georges Drouillard",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Georges Drouillard"
+    ],
+    "description": "Trois-Fourches du Missouri, 1810. Georges Drouillard est tué par les Pieds-Noirs en chassant. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Missouri, face à l'embouchure de l'Osage, Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 115, 143 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DROUILLARD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-berthold-barthelemi-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Barthélemi Berthold",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Barthélemi Berthold"
+    ],
+    "description": "Saint-Louis (Missouri), 1819. Barthélemi Berthold écrit à Chouteau contre la rivalité de Lisa. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 131, 316-317, 330 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BERTHOLD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-berthold-barthelemi-saint-loui-2",
+    "nom": "Saint-Louis (Missouri) : Barthélemi Berthold",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Barthélemi Berthold"
+    ],
+    "description": "Saint-Louis (Missouri), 1830. Barthélemi Berthold renouvelle comme associé le contrat de Bernard Pratte et Cie. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 131, 316-317, 330 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BERTHOLD",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.65,
+     40.4
+    ]
+   },
+   "properties": {
+    "id": "CH-robidoux-joseph-nishnabotn",
+    "nom": "Embouchure de la Nishnabotna : Joseph Robidoux",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Robidoux"
+    ],
+    "description": "Embouchure de la Nishnabotna, 1819. Joseph Robidoux fait la traite avec Papin et Berthold. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 150 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=ROBIDOUX",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.58,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "CH-cerre-x-houck-kansas-kansas-cit",
+    "nom": "Kansas City : Cerré",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Cerré"
+    ],
+    "description": "Kansas City, 1819. Cerré fait la traite avec les Osages et les Kansas avec François Chouteau. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 150 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CERRÉ",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.58,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "CH-chouteau-francois-kansas-cit",
+    "nom": "Kansas City : François Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Chouteau"
+    ],
+    "description": "Kansas City, 1819. François Chouteau fait la traite à l'embouchure de la Kansas. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 150 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     38.78
+    ]
+   },
+   "properties": {
+    "id": "CH-dorion-pierre-saint-char",
+    "nom": "Saint-Charles (Missouri) : Pierre Dorion",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Saint-Charles (Missouri), 1811. Pierre Dorion quitte Lisa pour Hunt avec sa femme et ses deux enfants. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : vallée de la Grande Ronde, fort Boise.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 184-194, 225-226 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DORION",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0,
+     45.35
+    ]
+   },
+   "properties": {
+    "id": "CH-dorion-pierre-grande-ron",
+    "nom": "Vallée de la Grande Ronde : Pierre Dorion",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Vallée de la Grande Ronde, 1811. Pierre Dorion voit naître et mourir un enfant pendant la traversée. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Saint-Charles (Missouri), fort Boise.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 184-194, 225-226 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DORION",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.99,
+     43.79
+    ]
+   },
+   "properties": {
+    "id": "CH-dorion-pierre-fort-boise",
+    "nom": "Fort Boise : Pierre Dorion",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Fort Boise, 1814. Pierre Dorion est tué en janvier avec le parti de Reed. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Saint-Charles (Missouri), vallée de la Grande Ronde.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 184-194, 225-226 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DORION",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "CH-prevost-jean-baptiste-snake-rive",
+    "nom": "Rivière Snake : Jean-Baptiste Prévost",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Prévost"
+    ],
+    "description": "Rivière Snake, 1811. Jean-Baptiste Prévost se noie en traversant affolé vers de la viande. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 193 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PRÉVOST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.24,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "CH-clappine-antoine-caldron-li",
+    "nom": "Caldron Linn (rivière Snake) : Antoine Clappine",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Clappine"
+    ],
+    "description": "Caldron Linn (rivière Snake), 1811. Antoine Clappine se noie dans le naufrage d'un canot le 28 octobre. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 191 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CLAPPINE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "CH-delaunay-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Delaunay",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Delaunay"
+    ],
+    "description": "Rivière Snake, 1811. Pierre Delaunay reste chasser pour l'hiver. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Boise.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 191, 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DELAUNAY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.99,
+     43.79
+    ]
+   },
+   "properties": {
+    "id": "CH-delaunay-pierre-fort-boise",
+    "nom": "Fort Boise : Pierre Delaunay",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Delaunay"
+    ],
+    "description": "Fort Boise, 1813. Pierre Delaunay rejoint le parti de Reed puis disparaît. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rivière Snake.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 191, 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DELAUNAY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "CH-detaye-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Detaye",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Detaye"
+    ],
+    "description": "Rivière Snake, 1811. Pierre Detaye reste chasser pour l'hiver; est tué par les Corbeaux au printemps 1812. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 191, 206 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DETAYE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "CH-dubreuil-x-astoria-snake-coun",
+    "nom": "Pays des Serpents (rivière Snake) : Dubreuil (Astoria)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dubreuil (Astoria)"
+    ],
+    "description": "Pays des Serpents (rivière Snake), 1812. Dubreuil (Astoria) est laissé chez les Shoshones en mars, épuisé. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 195, 206 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DUBREUIL",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0,
+     45.35
+    ]
+   },
+   "properties": {
+    "id": "CH-carriere-x-astoria-grande-ron",
+    "nom": "Vallée de la Grande Ronde : Carrière (Astoria)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Carrière (Astoria)"
+    ],
+    "description": "Vallée de la Grande Ronde, 1812. Carrière (Astoria) se perd dans les montagnes Bleues. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 194 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CARRIÈRE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "CH-labonte-x-snake-rive",
+    "nom": "Rivière Snake : Labonté",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Labonté"
+    ],
+    "description": "Rivière Snake, 1811. Labonté s'épuise et doit être mis à cheval. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 194 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LABONTÉ",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "CH-bruguiere-regis-astoria",
+    "nom": "Astoria (fort Astoria) : Régis Bruguière",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Régis Bruguière"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Régis Bruguière arrive comme trappeur libre avec sa femme et deux enfants. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 203 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BRUGUIÈRE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "CH-pillet-x-kootenai",
+    "nom": "Pays des Kootenais : Pillet",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pillet"
+    ],
+    "description": "Pays des Kootenais, 1811. Pillet fait la traite chez les Kootenais comme commis. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 205 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PILLET",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.24,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "CH-lachapelle-andre-caldron-li",
+    "nom": "Caldron Linn (rivière Snake) : André Lachapelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "André Lachapelle"
+    ],
+    "description": "Caldron Linn (rivière Snake), 1812. André Lachapelle pille des caches avec des Shoshones et est volé par les Pieds-Noirs. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Boise.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LACHAPELLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.99,
+     43.79
+    ]
+   },
+   "properties": {
+    "id": "CH-lachapelle-andre-fort-boise",
+    "nom": "Fort Boise : André Lachapelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "André Lachapelle"
+    ],
+    "description": "Fort Boise, 1813. André Lachapelle accompagne Reed. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Caldron Linn (rivière Snake).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LACHAPELLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.24,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "CH-turcot-jean-baptiste-caldron-li",
+    "nom": "Caldron Linn (rivière Snake) : Jean-Baptiste Turcot",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Turcot"
+    ],
+    "description": "Caldron Linn (rivière Snake), 1812. Jean-Baptiste Turcot pille des caches et est volé par les Pieds-Noirs. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Boise.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=TURCOT",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.99,
+     43.79
+    ]
+   },
+   "properties": {
+    "id": "CH-turcot-jean-baptiste-fort-boise",
+    "nom": "Fort Boise : Jean-Baptiste Turcot",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Turcot"
+    ],
+    "description": "Fort Boise, 1813. Jean-Baptiste Turcot meurt des écrouelles. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Caldron Linn (rivière Snake).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=TURCOT",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.24,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "CH-landry-francois-caldron-li",
+    "nom": "Caldron Linn (rivière Snake) : François Landry",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Landry"
+    ],
+    "description": "Caldron Linn (rivière Snake), 1812. François Landry pille des caches. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Boise.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LANDRY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.99,
+     43.79
+    ]
+   },
+   "properties": {
+    "id": "CH-landry-francois-fort-boise",
+    "nom": "Fort Boise : François Landry",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Landry"
+    ],
+    "description": "Fort Boise, 1813. François Landry meurt d'une chute de cheval. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Caldron Linn (rivière Snake).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 206, 225 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LANDRY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "CH-vallar-andre-walla-wall",
+    "nom": "Fort Walla Walla : André Vallar",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "André Vallar"
+    ],
+    "description": "Fort Walla Walla, 1812. André Vallar part le 31 juillet avec Robert Stuart vers Saint-Louis. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 207 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=VALLAR",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "CH-leclerc-francois-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : François Leclerc",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Leclerc"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1812. François Leclerc propose de tirer au sort un homme à manger et est menacé par Stuart. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 207, 210 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LECLERC",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.99,
+     43.79
+    ]
+   },
+   "properties": {
+    "id": "CH-leclerc-gilles-fort-boise",
+    "nom": "Fort Boise : Gilles Leclerc",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gilles Leclerc"
+    ],
+    "description": "Fort Boise, 1814. Gilles Leclerc meurt trois jours après l'attaque du parti de Reed. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 225-226 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LECLERC",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "CH-larocque-joseph-astoria",
+    "nom": "Astoria (fort Astoria) : Joseph Larocque",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Larocque"
+    ],
+    "description": "Astoria (fort Astoria), 1813. Joseph Larocque apporte la nouvelle de la guerre pour la Compagnie du Nord-Ouest. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 216-218 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LAROCQUE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "CH-franchere-gabriel-astoria",
+    "nom": "Astoria (fort Astoria) : Gabriel Franchère",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchère"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Gabriel Franchère sert de commis puis écrit la première histoire d'Astoria. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 223-246, 310 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=FRANCHÈRE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.9,
+     42.35
+    ]
+   },
+   "properties": {
+    "id": "CH-provost-etienne-south-pass",
+    "nom": "Col du Sud (South Pass) : Étienne Provost",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Provost"
+    ],
+    "description": "Col du Sud (South Pass), 1823. Étienne Provost passe pour le découvreur du col du Sud. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : lac Utah, fort Floyd (embouchure de la Yellowstone), Bellevue (Nebraska).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 261-280, 305-306, 328, 475 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PROVOST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.8,
+     40.2
+    ]
+   },
+   "properties": {
+    "id": "CH-provost-etienne-utah-lake",
+    "nom": "Lac Utah : Étienne Provost",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost"
+    ],
+    "description": "Lac Utah, 1824. Étienne Provost voit son parti massacré par les Snakes près du lac Utah. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : col du Sud (South Pass), fort Floyd (embouchure de la Yellowstone), Bellevue (Nebraska).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 261-280, 305-306, 328, 475 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PROVOST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.0,
+     48.0
+    ]
+   },
+   "properties": {
+    "id": "CH-provost-etienne-fort-floyd",
+    "nom": "Fort Floyd (embouchure de la Yellowstone) : Étienne Provost",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost"
+    ],
+    "description": "Fort Floyd (embouchure de la Yellowstone), 1828. Étienne Provost amène les trappeurs de la Rocky Mountain Fur Company. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : col du Sud (South Pass), lac Utah, Bellevue (Nebraska).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 261-280, 305-306, 328, 475 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PROVOST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CH-provost-etienne-bellevue",
+    "nom": "Bellevue (Nebraska) : Étienne Provost",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Provost"
+    ],
+    "description": "Bellevue (Nebraska), 1834. Étienne Provost conduit la barque des fourrures de la saison. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : col du Sud (South Pass), lac Utah, fort Floyd (embouchure de la Yellowstone).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 261-280, 305-306, 328, 475 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PROVOST",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-pratte-bernard-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Bernard Pratte",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bernard Pratte"
+    ],
+    "description": "Saint-Louis (Missouri), 1827. Bernard Pratte, né à Sainte-Geneviève, prend avec Bernard Pratte et Cie la direction du département de l'Ouest. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 7, 280-281, 322-330, 364 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PRATTE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.8,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "CH-gervais-jean-baptiste-wind-river",
+    "nom": "Rivière du Vent (Wind River) : Jean-Baptiste Gervais",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Gervais"
+    ],
+    "description": "Rivière du Vent (Wind River), 1830. Jean-Baptiste Gervais entre dans la Rocky Mountain Fur Company et mène un parti au Colorado. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), rivière Snake.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 292-304, 403, 446 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=GERVAIS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "CH-gervais-jean-baptiste-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Jean-Baptiste Gervais",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Gervais"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1832. Jean-Baptiste Gervais assiste au rendez-vous. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rivière du Vent (Wind River), rivière Snake.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 292-304, 403, 446 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=GERVAIS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "CH-gervais-jean-baptiste-snake-rive",
+    "nom": "Rivière Snake : Jean-Baptiste Gervais",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Gervais"
+    ],
+    "description": "Rivière Snake, 1833. Jean-Baptiste Gervais chasse avec Milton Sublette. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rivière du Vent (Wind River), rendez-vous de la Green River (Horse Creek).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 292-304, 403, 446 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=GERVAIS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "CH-godin-antoine-pierre-s-h",
+    "nom": "Pierre's Hole : Antoine Godin",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Pierre's Hole, 1832. Antoine Godin tue un chef gros-ventre pendant un pourparler et déclenche la bataille. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 298 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=GODIN",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "CH-fontenelle-lucien-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Lucien Fontenelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1832. Lucien Fontenelle, né à La Nouvelle-Orléans, rencontre Vanderburgh et Drips. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : Bellevue (Nebraska), fort Laramie.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 299, 304-305, 391-392, 400 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=FONTENELLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CH-fontenelle-lucien-bellevue",
+    "nom": "Bellevue (Nebraska) : Lucien Fontenelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Bellevue (Nebraska), 1834. Lucien Fontenelle, né à La Nouvelle-Orléans, expédie 5 309 peaux de castor et bâtit le poste avec Drips. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Laramie.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 299, 304-305, 391-392, 400 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=FONTENELLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "CH-fontenelle-lucien-fort-laram",
+    "nom": "Fort Laramie : Lucien Fontenelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Fort Laramie, 1836. Lucien Fontenelle, né à La Nouvelle-Orléans, meurt au fort. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), Bellevue (Nebraska).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 299, 304-305, 391-392, 400 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=FONTENELLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CH-cabanne-jean-pierre-bellevue",
+    "nom": "Bellevue (Nebraska) : Jean-Pierre Cabanné",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Pierre Cabanné"
+    ],
+    "description": "Bellevue (Nebraska), 1832. Jean-Pierre Cabanné fait arrêter Leclerc et son chargement d'alcool. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 305, 322, 330, 346-349, 368 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CABANNÉ",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-julien-denis-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Denis Julien",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Denis Julien"
+    ],
+    "description": "Saint-Louis (Missouri), 1818. Denis Julien demande en vain un équipement à Crooks. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 317 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=JULIEN",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "CH-rolette-joseph-michilimac",
+    "nom": "Michillimakinac : Joseph Rolette",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rolette"
+    ],
+    "description": "Michillimakinac, 1812. Joseph Rolette cède à Astor un tiers de la Southwest Company. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 310 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=ROLETTE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.141,
+     43.051
+    ]
+   },
+   "properties": {
+    "id": "CH-boilvin-nicolas-prairie-du",
+    "nom": "Prairie-du-Chien : Nicolas Boilvin",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Boilvin"
+    ],
+    "description": "Prairie-du-Chien, 1818. Nicolas Boilvin reçoit de Crooks une lettre sur la rivalité de Saint-Louis. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 314 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BOILVIN",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "CH-renville-joseph-fort-tecum",
+    "nom": "Fort Tecumseh : Joseph Renville",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Renville"
+    ],
+    "description": "Fort Tecumseh, 1822. Joseph Renville fonde la Columbia Fur Company. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 323, 385 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=RENVILLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "CH-papin-pierre-didier-fort-tecum",
+    "nom": "Fort Tecumseh : Pierre-Didier Papin",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Fort Tecumseh, 1827. Pierre-Didier Papin estime les biens de la Columbia Fur Company. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 326, 345-346 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PAPIN",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "CH-papin-pierre-didier-fort-tecum-2",
+    "nom": "Fort Tecumseh : Pierre-Didier Papin",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Didier Papin"
+    ],
+    "description": "Fort Tecumseh, 1830. Pierre-Didier Papin entre au service de la compagnie. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 326, 345-346 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PAPIN",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "CH-berger-jacques-fort-union",
+    "nom": "Fort Union : Jacques Berger",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Berger"
+    ],
+    "description": "Fort Union, 1830. Jacques Berger mène une ambassade chez les Piégans et ramène leurs chefs, interprète parlant le pied-noir. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 331-332 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BERGER",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.03,
+     47.98
+    ]
+   },
+   "properties": {
+    "id": "CH-larpenteur-charles-fort-willi",
+    "nom": "Fort William (haut Missouri) : Charles Larpenteur",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Larpenteur"
+    ],
+    "description": "Fort William (haut Missouri), 1833. Charles Larpenteur, né à Fontainebleau, travaille pour Sublette et Campbell. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Union.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 331, 353, 386, 394 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LARPENTEUR",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "CH-larpenteur-charles-fort-union",
+    "nom": "Fort Union : Charles Larpenteur",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Larpenteur"
+    ],
+    "description": "Fort Union, 1834. Charles Larpenteur, né à Fontainebleau, passe au service de McKenzie. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort William (haut Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 331, 353, 386, 394 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LARPENTEUR",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CH-leclerc-narcisse-bellevue",
+    "nom": "Bellevue (Nebraska) : Narcisse Leclerc",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Narcisse Leclerc"
+    ],
+    "description": "Bellevue (Nebraska), 1832. Narcisse Leclerc voit son chargement saisi par Sarpy et obtient 9 200 dollars. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 346-349, 377 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LECLERC",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CH-labarge-joseph-bellevue",
+    "nom": "Bellevue (Nebraska) : Joseph Labarge",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Labarge"
+    ],
+    "description": "Bellevue (Nebraska), 1832. Joseph Labarge fait son premier voyage à dix-sept ans dans le parti armé de Sarpy. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. XIX, 348 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LABARGE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.35,
+     42.2
+    ]
+   },
+   "properties": {
+    "id": "CH-sarpy-jean-baptiste-fort-sarpy",
+    "nom": "Postes Sarpy : Jean-Baptiste Sarpy",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Sarpy"
+    ],
+    "description": "Postes Sarpy, 1840. Jean-Baptiste Sarpy donne son nom à des postes de la Laramie et de la Yellowstone. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 390 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=SARPY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "CH-sarpy-thomas-l-fort-laram",
+    "nom": "Fort Laramie : Thomas-L. Sarpy",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas-L. Sarpy"
+    ],
+    "description": "Fort Laramie, 1832. Thomas-L. Sarpy est tué le 19 janvier par l'explosion d'un baril de poudre. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 390-391 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=SARPY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CH-sarpy-pierre-a-bellevue",
+    "nom": "Bellevue (Nebraska) : Pierre-A. Sarpy",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-A. Sarpy"
+    ],
+    "description": "Bellevue (Nebraska), 1832. Pierre-A. Sarpy tient le poste et arrête Leclerc. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 348, 391 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=SARPY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-sarpy-gregoire-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Grégoire Sarpy",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1802.0,
+    "fin": 1802.0,
+    "date_edtf": "1802",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Grégoire Sarpy"
+    ],
+    "description": "Saint-Louis (Missouri), 1802. Grégoire Sarpy s'associe à Lisa, Benoist et Sanguinet. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 138, 390 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=SARPY",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-chenie-x-fils-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Chenié (fils)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chenié (fils)"
+    ],
+    "description": "Saint-Louis (Missouri), 1829. Chenié (fils) s'associe à la Compagnie française des fourrures. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 345 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHENIÉ",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-guion-denis-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Denis Guion",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Denis Guion"
+    ],
+    "description": "Saint-Louis (Missouri), 1829. Denis Guion s'associe à la Compagnie française des fourrures. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 345 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=GUION",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-bonfort-louis-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Louis Bonfort",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Bonfort"
+    ],
+    "description": "Saint-Louis (Missouri), 1829. Louis Bonfort s'associe à la Compagnie française des fourrures. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 345 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BONFORT",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-deslauriers-x-1829-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Deslauriers (1829)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Deslauriers (1829)"
+    ],
+    "description": "Saint-Louis (Missouri), 1829. Deslauriers (1829) s'associe à la Compagnie française des fourrures. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 345 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DESLAURIERS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.03,
+     47.98
+    ]
+   },
+   "properties": {
+    "id": "CH-deschamps-x-fort-william-fort-willi",
+    "nom": "Fort William (haut Missouri) : Deschamps (Fort William)",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Deschamps (Fort William)"
+    ],
+    "description": "Fort William (haut Missouri), 1833. Deschamps (Fort William) sert d'interprète à 500 dollars par an. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 351 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=DESCHAMPS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "CH-chardon-francois-auguste-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : François-Auguste Chardon",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Auguste Chardon"
+    ],
+    "description": "Fort McKenzie (Montana), 1842. François-Auguste Chardon complote un massacre de Gens-du-Sang avec Harvey. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Chardon (embouchure de la Judith).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 352, 373 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHARDON",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.63,
+     47.73
+    ]
+   },
+   "properties": {
+    "id": "CH-chardon-francois-auguste-fort-chard",
+    "nom": "Fort Chardon (embouchure de la Judith) : François-Auguste Chardon",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Auguste Chardon"
+    ],
+    "description": "Fort Chardon (embouchure de la Judith), 1843. François-Auguste Chardon bâtit le fort Chardon à l'embouchure de la Judith. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort McKenzie (Montana).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 352, 373 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CHARDON",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH-sire-joseph-a-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Joseph-A. Sire",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-A. Sire"
+    ],
+    "description": "Saint-Louis (Missouri), 1840. Joseph-A. Sire, né en 1799 à La Rochelle, commande le bateau annuel de la compagnie et tient son journal en français. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 393-394 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=SIRE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.08,
+     42.98
+    ]
+   },
+   "properties": {
+    "id": "CH-bonneville-benjamin-louis-eu-fort-bonne",
+    "nom": "Fort Bonneville (Green River) : Benjamin-Louis-Eulalie de Bonneville",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin-Louis-Eulalie de Bonneville"
+    ],
+    "description": "Fort Bonneville (Green River), 1832. Benjamin-Louis-Eulalie de Bonneville, né à France, bâtit le fort Bonneville sur la Green River. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Walla Walla, rivière du Vent (Wind River).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 396-433 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BONNEVILLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "CH-bonneville-benjamin-louis-eu-walla-wall",
+    "nom": "Fort Walla Walla : Benjamin-Louis-Eulalie de Bonneville",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin-Louis-Eulalie de Bonneville"
+    ],
+    "description": "Fort Walla Walla, 1834. Benjamin-Louis-Eulalie de Bonneville, né à France, se voit refuser des vivres par la Compagnie de la Baie d'Hudson. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Bonneville (Green River), rivière du Vent (Wind River).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 396-433 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BONNEVILLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.8,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "CH-bonneville-benjamin-louis-eu-wind-river",
+    "nom": "Rivière du Vent (Wind River) : Benjamin-Louis-Eulalie de Bonneville",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin-Louis-Eulalie de Bonneville"
+    ],
+    "description": "Rivière du Vent (Wind River), 1835. Benjamin-Louis-Eulalie de Bonneville, né à France, rassemble ses partis avant de rentrer. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Bonneville (Green River), fort Walla Walla.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 396-433 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BONNEVILLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "CH-cerre-michel-sylvestre-fort-union",
+    "nom": "Fort Union : Michel-Sylvestre Cerré",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel-Sylvestre Cerré"
+    ],
+    "description": "Fort Union, 1833. Michel-Sylvestre Cerré accompagne Wyeth comme lieutenant de Bonneville. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : rivière aux Ours (Bear River).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 359-360, 399-425, 446 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CERRÉ",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.4,
+     42.1
+    ]
+   },
+   "properties": {
+    "id": "CH-cerre-michel-sylvestre-bear-river",
+    "nom": "Rivière aux Ours (Bear River) : Michel-Sylvestre Cerré",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel-Sylvestre Cerré"
+    ],
+    "description": "Rivière aux Ours (Bear River), 1834. Michel-Sylvestre Cerré apporte les fournitures annuelles au rendez-vous. D'après Chittenden (1902), vol. 1. Autres lieux de l'entrée : fort Union.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 359-360, 399-425, 446 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=CERRÉ",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.4,
+     42.1
+    ]
+   },
+   "properties": {
+    "id": "CH-mathieu-x-bear-river",
+    "nom": "Rivière aux Ours (Bear River) : Mathieu",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Mathieu"
+    ],
+    "description": "Rivière aux Ours (Bear River), 1833. Mathieu garde les chevaux de Bonneville et perd trois hommes. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 401-402 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=MATHIEU",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "CH-pambrun-pierre-chrysologue-walla-wall",
+    "nom": "Fort Walla Walla : Pierre-Chrysologue Pambrun",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Chrysologue Pambrun"
+    ],
+    "description": "Fort Walla Walla, 1834. Pierre-Chrysologue Pambrun refuse de ravitailler Bonneville puis reçoit Wyeth. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 424, 443 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PAMBRUN",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "CH-payette-francois-snake-rive",
+    "nom": "Rivière Snake : François Payette",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Payette"
+    ],
+    "description": "Rivière Snake, 1834. François Payette porte des vivres aux trappeurs de la Baie d'Hudson. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 424 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=PAYETTE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "CH-laramie-joseph-laramie-ri",
+    "nom": "Rivière Laramie : Joseph Laramie",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Laramie"
+    ],
+    "description": "Rivière Laramie, 1821. Joseph Laramie meurt sur la rivière qui porte son nom. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 469 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=LARAMIE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.11,
+     41.66
+    ]
+   },
+   "properties": {
+    "id": "CH-gonneville-x-court-hous",
+    "nom": "Court House Rock (Nebraska) : Gonneville",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "evenement",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gonneville"
+    ],
+    "description": "Court House Rock (Nebraska), 1830. Gonneville est tué par les Indiens près du ruisseau qui garde son nom. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 467 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=GONNEVILLE",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "CH-bonis-x-fort-pierr",
+    "nom": "Fort Pierre : Bonis",
+    "corpus": "archive.org · Chittenden (1902), vol. 1",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bonis"
+    ],
+    "description": "Fort Pierre, 1843. Bonis voit sa loge détruite par les hommes de Kelsey. D'après Chittenden (1902), vol. 1.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1, p. 371 ; texte intégral : archive.org, americanfurtrade01chit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 1",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade01chit?q=BONIS",
+      "texte": "Lire Chittenden (1902), vol. 1 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "CI-mallet-pierre-villages-a",
+    "nom": "Villages arikaras (Grand River) : Pierre Mallet",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Mallet"
+    ],
+    "description": "Villages arikaras (Grand River), 1739. Pierre Mallet remonte par erreur le Missouri jusqu'aux Arikaras avec son frère et six compagnons. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Santa Fe.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 489, 769 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=MALLET",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-mallet-pierre-santa-fe",
+    "nom": "Santa Fe : Pierre Mallet",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Mallet"
+    ],
+    "description": "Santa Fe, 1739. Pierre Mallet atteint Santa Fe le 22 juillet et en repart le 1er mai 1740. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : villages arikaras (Grand River).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 489, 769 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=MALLET",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-mallet-paul-santa-fe",
+    "nom": "Santa Fe : Paul Mallet",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul Mallet"
+    ],
+    "description": "Santa Fe, 1739. Paul Mallet atteint Santa Fe avec son frère après avoir nommé la Platte le 2 juin. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 489, 769 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=MALLET",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-lalande-baptiste-santa-fe",
+    "nom": "Santa Fe : Baptiste Lalande",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Lalande"
+    ],
+    "description": "Santa Fe, 1804. Baptiste Lalande vend les marchandises de Morrison, garde l'argent et s'établit à Santa Fe. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 491-492 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LALANDE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-lalande-baptiste-santa-fe-2",
+    "nom": "Santa Fe : Baptiste Lalande",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Lalande"
+    ],
+    "description": "Santa Fe, 1807. Baptiste Lalande est envoyé épier Pike. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 491-492 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LALANDE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "CI-philibert-joseph-huerfano",
+    "nom": "Ruisseau Huerfano : Joseph Philibert",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Philibert"
+    ],
+    "description": "Ruisseau Huerfano, 1815. Joseph Philibert vend son équipement et ses hommes à Chouteau et De Mun. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : rivière Arkansas.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497, 653-654 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PHILIBERT",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.2,
+     33.95
+    ]
+   },
+   "properties": {
+    "id": "CI-philibert-joseph-arkansas-r",
+    "nom": "Rivière Arkansas : Joseph Philibert",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Philibert"
+    ],
+    "description": "Rivière Arkansas, 1814. Joseph Philibert mène dix-huit Français chercher les fourrures cachées par Ezekiel Williams. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : ruisseau Huerfano.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497, 653-654 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PHILIBERT",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.2,
+     33.95
+    ]
+   },
+   "properties": {
+    "id": "CI-leclerc-x-arkansas-arkansas-r",
+    "nom": "Rivière Arkansas : Leclerc (Arkansas)",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Leclerc (Arkansas)"
+    ],
+    "description": "Rivière Arkansas, 1814. Leclerc (Arkansas) apprend l'emplacement de la cache de Williams et mène un parti s'en emparer. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 654 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LECLERC",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.2,
+     33.95
+    ]
+   },
+   "properties": {
+    "id": "CI-parteau-x-arkansas-r",
+    "nom": "Rivière Arkansas : Parteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Parteau"
+    ],
+    "description": "Rivière Arkansas, 1813. Parteau reste chez les Arapahos avec Ezekiel Williams et pleure à son départ. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 653 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PARTEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.3,
+     37.95
+    ]
+   },
+   "properties": {
+    "id": "CI-chouteau-auguste-pierre-ile-choute",
+    "nom": "Île Chouteau (rivière Arkansas) : Auguste-Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Île Chouteau (rivière Arkansas), 1816. Auguste-Pierre Chouteau repousse deux cents Pawnis sur une île de l'Arkansas. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Santa Fe, pays des Osages.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497-503, 540-547 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-chouteau-auguste-pierre-santa-fe",
+    "nom": "Santa Fe : Auguste-Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Santa Fe, 1817. Auguste-Pierre Chouteau est détenu quarante-huit jours, en partie aux fers, et perd ses biens. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : île Chouteau (rivière Arkansas), pays des Osages.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497-503, 540-547 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.1,
+     38.1
+    ]
+   },
+   "properties": {
+    "id": "CI-chouteau-auguste-pierre-osage-vill",
+    "nom": "Pays des Osages : Auguste-Pierre Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Pays des Osages, 1822. Auguste-Pierre Chouteau fait la traite avec les Osages et aide Becknell. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : île Chouteau (rivière Arkansas), Santa Fe.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497-503, 540-547 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "CI-de-mun-jules-taos",
+    "nom": "Taos : Jules de Mun",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules de Mun"
+    ],
+    "description": "Taos, 1816. Jules de Mun chasse avec Chouteau dans le haut Arkansas. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Santa Fe, Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497-499, 545-547 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DE+MUN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-de-mun-jules-santa-fe",
+    "nom": "Santa Fe : Jules de Mun",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules de Mun"
+    ],
+    "description": "Santa Fe, 1817. Jules de Mun passe en cour martiale et est expulsé. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Taos, Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497-499, 545-547 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DE+MUN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CI-de-mun-jules-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Jules de Mun",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules de Mun"
+    ],
+    "description": "Saint-Louis (Missouri), 1817. Jules de Mun écrit au gouverneur Clark le récit du procès. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Taos, Santa Fe.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 497-499, 545-547 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DE+MUN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.97,
+     40.43
+    ]
+   },
+   "properties": {
+    "id": "CI-robidoux-antoine-fort-uinta",
+    "nom": "Fort Robidoux (Uintah) : Antoine Robidoux",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "evenement",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Fort Robidoux (Uintah), 1824. Antoine Robidoux bâtit un poste sur l'Uintah et subit une attaque des Arapahos. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort Robidoux (Uncompahgre).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 506, 781-782, 888 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=ROBIDOUX",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.05,
+     38.75
+    ]
+   },
+   "properties": {
+    "id": "CI-robidoux-antoine-fort-uncom",
+    "nom": "Fort Robidoux (Uncompahgre) : Antoine Robidoux",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Fort Robidoux (Uncompahgre), 1828. Antoine Robidoux tient le seul poste du bassin de la Grand River, à l'embouchure de l'Uncompahgre. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort Robidoux (Uintah).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 506, 781-782, 888 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=ROBIDOUX",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.85,
+     39.77
+    ]
+   },
+   "properties": {
+    "id": "CI-robidoux-joseph-saint-jose",
+    "nom": "Saint Joseph (Missouri) : Joseph Robidoux",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Robidoux"
+    ],
+    "description": "Saint Joseph (Missouri), 1826. Joseph Robidoux tient un poste pour les Iowas et les Otos aux Black Snake Hills. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 874 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=ROBIDOUX",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-pratte-sylvestre-santa-fe",
+    "nom": "Santa Fe : Sylvestre Pratte",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sylvestre Pratte"
+    ],
+    "description": "Santa Fe, 1824. Sylvestre Pratte mène de Council Bluffs à Santa Fe un parti que rejoint James O. Pattie. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 508 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PRATTE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CI-saint-vrain-ceran-santa-fe",
+    "nom": "Santa Fe : Céran Saint-Vrain",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran Saint-Vrain"
+    ],
+    "description": "Santa Fe, 1826. Céran Saint-Vrain arrive en novembre à la tête d'un parti. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Taos, fort Saint-Vrain (South Platte).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 509, 520, 543-544 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=SAINT+VRAIN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "CI-saint-vrain-ceran-taos",
+    "nom": "Taos : Céran Saint-Vrain",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran Saint-Vrain"
+    ],
+    "description": "Taos, 1830. Céran Saint-Vrain écrit au sujet de ses chariots et de ses fourrures. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Santa Fe, fort Saint-Vrain (South Platte).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 509, 520, 543-544 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=SAINT+VRAIN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "CI-saint-vrain-ceran-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Céran Saint-Vrain",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran Saint-Vrain"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1840. Céran Saint-Vrain tient avec les Bent un poste sur la South Platte. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Santa Fe, Taos.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 509, 520, 543-544 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=SAINT+VRAIN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.73,
+     39.0
+    ]
+   },
+   "properties": {
+    "id": "CI-legrand-alexandre-franklin-m",
+    "nom": "Franklin (Missouri) : Alexandre Legrand",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Legrand"
+    ],
+    "description": "Franklin (Missouri), 1824. Alexandre Legrand est élu capitaine de la caravane de Santa Fe. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 505 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LEGRAND",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "CI-ruelle-lavoise-taos",
+    "nom": "Taos : Lavoise Ruelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lavoise Ruelle"
+    ],
+    "description": "Taos, 1830. Lavoise Ruelle transporte un chariot et les fourrures de Saint-Vrain. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 520 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=RUELLE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.0,
+     35.5
+    ]
+   },
+   "properties": {
+    "id": "CI-pratte-x-ferblantier-canadian-r",
+    "nom": "Rivière Canadienne : Pratte (ferblantier)",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "evenement",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pratte (ferblantier)"
+    ],
+    "description": "Rivière Canadienne, 1833. Pratte (ferblantier) est tué par les Comanches en rattrapant une mule. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 550 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PRATTE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.34,
+     38.93
+    ]
+   },
+   "properties": {
+    "id": "CI-chouteau-auguste-portage-de",
+    "nom": "Portage des Sioux (Missouri) : Auguste Chouteau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Chouteau"
+    ],
+    "description": "Portage des Sioux (Missouri), 1815. Auguste Chouteau, né en 1750 à La Nouvelle-Orléans, négocie la paix avec Clark et Edwards. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 559 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=CHOUTEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CI-gratiot-charles-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Charles Gratiot",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Gratiot"
+    ],
+    "description": "Saint-Louis (Missouri), 1813. Charles Gratiot écrit à Astor que les Indiens ne livrent plus de peaux depuis la guerre. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 556 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=GRATIOT",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.94,
+     41.26
+    ]
+   },
+   "properties": {
+    "id": "CI-dorion-baptiste-omaha",
+    "nom": "Omaha : Baptiste Dorion",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Dorion"
+    ],
+    "description": "Omaha, 1814. Baptiste Dorion est accusé par Big Elk d'inciter les jeunes à passer aux Anglais. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 557 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DORION",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.141,
+     43.051
+    ]
+   },
+   "properties": {
+    "id": "CI-renville-joseph-prairie-du",
+    "nom": "Prairie-du-Chien : Joseph Renville",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Renville"
+    ],
+    "description": "Prairie-du-Chien, 1815. Joseph Renville mène avec Little Crow un parti contre les Américains. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 560 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=RENVILLE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.34,
+     38.93
+    ]
+   },
+   "properties": {
+    "id": "CI-labarge-joseph-pere-portage-de",
+    "nom": "Portage des Sioux (Missouri) : Joseph Labarge (père)",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "religion",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Labarge (père)"
+    ],
+    "description": "Portage des Sioux (Missouri), 1815. Joseph Labarge (père) tente en vain de porter des messages aux tribus du haut Mississippi. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 561, 781 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LABARGE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "CI-simoneau-x-interprete-villages-a",
+    "nom": "Villages arikaras (Grand River) : Simoneau (interprète)",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Simoneau (interprète)"
+    ],
+    "description": "Villages arikaras (Grand River), 1823. Simoneau (interprète) doit appeler les Arikaras à parlementer pour Leavenworth. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 595 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=SIMONEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "CI-larpenteur-charles-fort-union",
+    "nom": "Fort Union : Charles Larpenteur",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Larpenteur"
+    ],
+    "description": "Fort Union, 1837. Charles Larpenteur, né à Fontainebleau, voit arriver le Saint-Pierre et sa variole, puis fait vacciner les Indiennes. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 620-625, 692 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LARPENTEUR",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.25
+    ]
+   },
+   "properties": {
+    "id": "CI-chardon-francois-auguste-fort-clark",
+    "nom": "Fort Clark (Mandanes) : François-Auguste Chardon",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Auguste Chardon"
+    ],
+    "description": "Fort Clark (Mandanes), 1837. François-Auguste Chardon tente d'écarter les Mandanes du bateau contaminé. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort McKenzie (Montana).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 620-621, 694-696 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=CHARDON",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "CI-chardon-francois-auguste-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : François-Auguste Chardon",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "evenement",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Auguste Chardon"
+    ],
+    "description": "Fort McKenzie (Montana), 1843. François-Auguste Chardon prépare un massacre de chefs pieds-noirs au canon. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort Clark (Mandanes).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 620-621, 694-696 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=CHARDON",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "CI-brazeau-jean-fort-union",
+    "nom": "Fort Union : Jean Brazeau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Brazeau"
+    ],
+    "description": "Fort Union, 1837. Jean Brazeau enterre les morts de la variole et en tient le compte. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 619, 625 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=BRAZEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CI-provost-etienne-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Étienne Provost",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Provost"
+    ],
+    "description": "Saint-Louis (Missouri), 1838. Étienne Provost arrive tard du haut pays avec la nouvelle de l'épidémie. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : lac Utah.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 626, 796 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PROVOST",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.8,
+     40.2
+    ]
+   },
+   "properties": {
+    "id": "CI-provost-etienne-utah-lake",
+    "nom": "Lac Utah : Étienne Provost",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost"
+    ],
+    "description": "Lac Utah, 1825. Étienne Provost laisse son nom à la rivière Provo. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 626, 796 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PROVOST",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "CI-godin-antoine-pierre-s-h",
+    "nom": "Pierre's Hole : Antoine Godin",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Pierre's Hole, 1832. Antoine Godin saisit la main d'un chef pied-noir qu'un Têtes-Plates abat pour venger son père. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort Hall.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 659, 663 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=GODIN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.47,
+     43.01
+    ]
+   },
+   "properties": {
+    "id": "CI-godin-antoine-fort-hall",
+    "nom": "Fort Hall : Antoine Godin",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "evenement",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Fort Hall, 1835. Antoine Godin est tué par les Pieds-Noirs de Bird venus lui proposer des fourrures. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : Pierre's Hole.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 659, 663 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=GODIN",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "CI-fontenelle-lucien-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Lucien Fontenelle",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Fontenelle"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1832. Lucien Fontenelle, né à La Nouvelle-Orléans, apporte les fournitures puis porte les retours à Fort Union. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 658, 665-671, 781 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=FONTENELLE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     45.4
+    ]
+   },
+   "properties": {
+    "id": "CI-pillon-alexis-jefferson-",
+    "nom": "Rivière Jefferson (Stinkingwater) : Alexis Pillon",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "evenement",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Pillon"
+    ],
+    "description": "Rivière Jefferson (Stinkingwater), 1832. Alexis Pillon est tué le 14 octobre par les Pieds-Noirs dans le parti de Vanderburgh. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 669-670 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PILLON",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "CI-doucet-x-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Doucet",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "evenement",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Doucet"
+    ],
+    "description": "Fort McKenzie (Montana), 1833. Doucet donne l'alarme lors de l'attaque des Assiniboines et tire sur les assaillants. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : rivière Marias.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 674-676 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DOUCET",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.0,
+     48.3
+    ]
+   },
+   "properties": {
+    "id": "CI-doucet-x-marias-riv",
+    "nom": "Rivière Marias : Doucet",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Doucet"
+    ],
+    "description": "Rivière Marias, 1833. Doucet poursuit les Assiniboines. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort McKenzie (Montana).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 674-676 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DOUCET",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.0,
+     48.3
+    ]
+   },
+   "properties": {
+    "id": "CI-berger-jacques-marias-riv",
+    "nom": "Rivière Marias : Jacques Berger",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Berger"
+    ],
+    "description": "Rivière Marias, 1833. Jacques Berger poursuit les Assiniboines avec Doucet et Deschamps. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : fort Chardon (embouchure de la Judith).",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 676, 696 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=BERGER",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.63,
+     47.73
+    ]
+   },
+   "properties": {
+    "id": "CI-berger-jacques-fort-chard",
+    "nom": "Fort Chardon (embouchure de la Judith) : Jacques Berger",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Berger"
+    ],
+    "description": "Fort Chardon (embouchure de la Judith), 1845. Jacques Berger frappe Alexander Harvey d'un coup de fusil. D'après Chittenden (1902), vol. 2-3. Autres lieux de l'entrée : rivière Marias.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 676, 696 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=BERGER",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.0,
+     48.3
+    ]
+   },
+   "properties": {
+    "id": "CI-deschamps-x-marias-marias-riv",
+    "nom": "Rivière Marias : Deschamps (Marias)",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Deschamps (Marias)"
+    ],
+    "description": "Rivière Marias, 1833. Deschamps (Marias) poursuit les Assiniboines avec Doucet et Berger. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 676 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=DESCHAMPS",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "CI-primeau-charles-fort-pierr",
+    "nom": "Fort Pierre : Charles Primeau",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "poste",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Primeau"
+    ],
+    "description": "Fort Pierre, 1845. Charles Primeau fonde avec Harvey la compagnie Harvey, Primeau et Cie. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 697 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=PRIMEAU",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CI-sarpy-pierre-a-bellevue",
+    "nom": "Bellevue (Nebraska) : Pierre-A. Sarpy",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-A. Sarpy"
+    ],
+    "description": "Bellevue (Nebraska), 1843. Pierre-A. Sarpy voit son nom marqué sur les barils d'alcool de contrebande. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 682 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=SARPY",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CI-labarge-joseph-bellevue",
+    "nom": "Bellevue (Nebraska) : Joseph Labarge",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Labarge"
+    ],
+    "description": "Bellevue (Nebraska), 1843. Joseph Labarge coupe l'amarre de l'Omega pour échapper à l'inspection. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 678, 683 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LABARGE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "CI-audubon-jean-jacques-bellevue",
+    "nom": "Bellevue (Nebraska) : Jean-Jacques Audubon",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Jacques Audubon"
+    ],
+    "description": "Bellevue (Nebraska), 1843. Jean-Jacques Audubon retarde par ses lettres de créance l'inspection de l'Omega. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 678-680 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=AUDUBON",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "CI-la-verendrye-pierre-gaultier-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Pierre Gaultier de la Vérendrye",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gaultier de la Vérendrye"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1738. Pierre Gaultier de la Vérendrye atteint les villages mandanes en cherchant la mer de l'Ouest. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 766 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=LA+VÉRENDRYE",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.5,
+     38.8
+    ]
+   },
+   "properties": {
+    "id": "CI-veniard-de-bourgmont-etienne-pays-des-p",
+    "nom": "Pays des Padoucas : Étienne Véniard de Bourgmont",
+    "corpus": "archive.org · Chittenden (1902), vol. 2-3",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Étienne Véniard de Bourgmont"
+    ],
+    "description": "Pays des Padoucas, 1724. Étienne Véniard de Bourgmont rédige le premier long rapport sur les Padoucas. D'après Chittenden (1902), vol. 2-3.",
+    "sources": "Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3, p. 876 ; texte intégral : archive.org, americanfurtrade00chit_0.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Chittenden (1902), vol. 2-3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/americanfurtrade00chit_0?q=VÉNIARD+DE+BOURGMONT",
+      "texte": "Lire Chittenden (1902), vol. 2-3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

@@ -134,6 +134,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Houck, *A History of Missouri* (1908), vol. 3 | `historyofmissour03houc` | 125 |
 | Houck, *The Spanish Regime in Missouri* (1909), vol. 1 | `spanishregimeinm01houc` | 325 |
 | Houck, *The Spanish Regime in Missouri* (1909), vol. 2 | `spanishregimeinm02houc` | 177 |
+| Chittenden, *The American Fur Trade of the Far West* (1902), vol. 1 | `americanfurtrade01chit` | 98 |
+| Chittenden, *The American Fur Trade of the Far West* (1902), vol. 2-3 | `americanfurtrade00chit_0` | 52 |
 
 
 ## Un point par lieu et adresses précises
