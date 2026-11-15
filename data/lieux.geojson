@@ -279272,6 +279272,822 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -116.4,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "ID-dorion-pierre-riviere-bo",
+    "nom": "Rivière Boise (Idaho) : Pierre Dorion",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "evenement",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Rivière Boise (Idaho), 1814. Pierre Dorion est tué avec son groupe de chasse ; sa femme s'enfuit à pied en plein hiver avec leurs enfants. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 29-30 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=DORION",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-pierre-vieux-pierre-s-h",
+    "nom": "Pierre's Hole : Vieux Pierre",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Vieux Pierre"
+    ],
+    "description": "Pierre's Hole, 1818. Vieux Pierre est un trappeur iroquois qui fait connaître la vallée à la Compagnie de la Baie d'Hudson. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 13, 33 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=PIERRE",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-pierre-vieux-pierre-s-h-2",
+    "nom": "Pierre's Hole : Vieux Pierre",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Vieux Pierre"
+    ],
+    "description": "Pierre's Hole, 1824. Vieux Pierre piège deux mois avec des Iroquois avant d'être dépouillé de ses fourrures et chevaux par des Serpents. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 13, 33 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=PIERRE",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.8,
+     43.74
+    ]
+   },
+   "properties": {
+    "id": "ID-canadiens-trappeurs-trois-teto",
+    "nom": "Les Trois Tétons : Trappeurs Canadiens",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Trappeurs Canadiens"
+    ],
+    "description": "Les Trois Tétons, 1818. Trappeurs Canadiens entrent dans la vallée et nomment les pics « Trois Tétons ». D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 13, 112 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=CANADIENS",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-canutahare-x-pierre-s-h",
+    "nom": "Pierre's Hole : Canutahare",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Canutahare"
+    ],
+    "description": "Pierre's Hole, 1824. Canutahare est un trappeur iroquois qui épouse une Serpente pour un cheval et refuse d'en donner un second. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 33 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=CANUTAHARE",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.98,
+     43.77
+    ]
+   },
+   "properties": {
+    "id": "ID-gervais-b-menan-butt",
+    "nom": "Buttes de Menan (Idaho) : B. Gervais",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "B. Gervais"
+    ],
+    "description": "Buttes de Menan (Idaho), 1828. B. Gervais grave son nom sur les buttes de Menan parmi ceux des premiers trappeurs. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 106 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=GERVAIS",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-godin-antoine-pierre-s-h",
+    "nom": "Pierre's Hole : Antoine Godin",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "evenement",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Pierre's Hole, 1832. Antoine Godin est un Métis iroquois qui serre la main d'un chef lors d'un pourparler puis fait signe de tirer, déclenchant la bataille. D'après Driggs (1926). Autres lieux de l'entrée : fort Hall.",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 65, 79 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=GODIN",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.47,
+     43.01
+    ]
+   },
+   "properties": {
+    "id": "ID-godin-antoine-fort-hall",
+    "nom": "Fort Hall : Antoine Godin",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "poste",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Fort Hall, vers 1835. Antoine Godin est attiré de l'autre côté de la rivière par les Pieds-Noirs de Bird et abattu dans le dos. D'après Driggs (1926). Autres lieux de l'entrée : Pierre's Hole.",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 65, 79 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=GODIN",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-jervais-john-baptiste-pierre-s-h",
+    "nom": "Pierre's Hole : John Baptiste Jervais",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "John Baptiste Jervais"
+    ],
+    "description": "Pierre's Hole, 1834. John Baptiste Jervais quitte la société de traite lors de sa réorganisation. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 94 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=JERVAIS",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-mattileau-x-pierre-s-h",
+    "nom": "Pierre's Hole : Mattileau",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1840.999,
+    "date_edtf": "1839/1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Mattileau"
+    ],
+    "description": "Pierre's Hole, 1839-1840. Mattileau est un Français qui trappe avec Joe Meek, trouve le castor rare et passe à Jackson Hole. D'après Driggs (1926).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 96 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=MATTILEAU",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "ID-de-smet-pierre-jean-pierre-s-h",
+    "nom": "Pierre's Hole : Pierre-Jean de Smet",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Jean de Smet"
+    ],
+    "description": "Pierre's Hole, 1840. Pierre-Jean de Smet prêche à quelque 1 600 Têtes-Plates et Pends-d'Oreilles. D'après Driggs (1926). Autres lieux de l'entrée : vieux fort Henry (Saint-Anthony, Idaho), lac Henry (Idaho).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 26, 107 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=DE+SMET",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.7,
+     43.97
+    ]
+   },
+   "properties": {
+    "id": "ID-de-smet-pierre-jean-fort-henry",
+    "nom": "Vieux fort Henry (Saint-Anthony, Idaho) : Pierre-Jean de Smet",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "poste",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Jean de Smet"
+    ],
+    "description": "Vieux fort Henry (Saint-Anthony, Idaho), 1840. Pierre-Jean de Smet visite le vieux fort Henry, encore debout. D'après Driggs (1926). Autres lieux de l'entrée : Pierre's Hole, lac Henry (Idaho).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 26, 107 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=DE+SMET",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.38,
+     44.62
+    ]
+   },
+   "properties": {
+    "id": "ID-de-smet-pierre-jean-lac-henry",
+    "nom": "Lac Henry (Idaho) : Pierre-Jean de Smet",
+    "corpus": "archive.org · Driggs (1926)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre-Jean de Smet"
+    ],
+    "description": "Lac Henry (Idaho), 1840. Pierre-Jean de Smet grave sur un rocher une inscription en l'honneur de saint Ignace. D'après Driggs (1926). Autres lieux de l'entrée : Pierre's Hole, vieux fort Henry (Saint-Anthony, Idaho).",
+    "sources": "B. W. Driggs, History of Teton Valley, Idaho (1926), p. 26, 107 ; texte intégral : archive.org, driggs.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Driggs (1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/driggs?q=DE+SMET",
+      "texte": "Lire Driggs (1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.44,
+     44.97
+    ]
+   },
+   "properties": {
+    "id": "IH-chaboneau-toussaint-col-lemhi",
+    "nom": "Col Lemhi (Idaho-Montana) : Toussaint Chaboneau",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Chaboneau"
+    ],
+    "description": "Col Lemhi (Idaho-Montana), 1805. Toussaint Chaboneau entre en Idaho fin août comme guide et interprète de l'expédition de Lewis et Clark. D'après Hawley (1920).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 56 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=CHABONEAU",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "IH-godin-antoine-pierre-s-h",
+    "nom": "Pierre's Hole : Antoine Godin",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Pierre's Hole, 1832. Antoine Godin est un Métis qui s'enfuit avec la robe du chef gros-ventre abattu pendant le pourparler. D'après Hawley (1920). Autres lieux de l'entrée : fort Hall.",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 74-75 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=GODIN",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.47,
+     43.01
+    ]
+   },
+   "properties": {
+    "id": "IH-godin-antoine-fort-hall",
+    "nom": "Fort Hall : Antoine Godin",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "poste",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Fort Hall, vers 1834. Antoine Godin est abattu dans le dos et scalpé par les Pieds-Noirs de Bird, qui l'avaient invité à traverser en canot. D'après Hawley (1920). Autres lieux de l'entrée : Pierre's Hole.",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 74-75 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=GODIN",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "IH-bonneville-benjamin-pierre-s-h",
+    "nom": "Pierre's Hole : Benjamin Bonneville",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Bonneville"
+    ],
+    "description": "Pierre's Hole, 1832. Benjamin Bonneville assiste au rendez-vous après avoir fait franchir le col du Sud à ses chariots, une première. D'après Hawley (1920). Autres lieux de l'entrée : vallée de la Lemhi (Idaho), rivière Portneuf (Idaho), Soda Springs (Beer Springs, Idaho), rivière aux Ours (Bear River).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 59-60 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=BONNEVILLE",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.6,
+     44.9
+    ]
+   },
+   "properties": {
+    "id": "IH-bonneville-benjamin-vallee-de-",
+    "nom": "Vallée de la Lemhi (Idaho) : Benjamin Bonneville",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benjamin Bonneville"
+    ],
+    "description": "Vallée de la Lemhi (Idaho), 1832. Benjamin Bonneville hiverne chez les Lemhis et dîne à Noël chez le chef Kowsoter. D'après Hawley (1920). Autres lieux de l'entrée : Pierre's Hole, rivière Portneuf (Idaho), Soda Springs (Beer Springs, Idaho), rivière aux Ours (Bear River).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 59-60 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=BONNEVILLE",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "IH-bonneville-benjamin-portneuf-r",
+    "nom": "Rivière Portneuf (Idaho) : Benjamin Bonneville",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benjamin Bonneville"
+    ],
+    "description": "Rivière Portneuf (Idaho), 1833. Benjamin Bonneville hiverne sur la Portneuf après l'échec de sa descente de la Snake. D'après Hawley (1920). Autres lieux de l'entrée : Pierre's Hole, vallée de la Lemhi (Idaho), Soda Springs (Beer Springs, Idaho), rivière aux Ours (Bear River).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 59-60 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=BONNEVILLE",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.6,
+     42.65
+    ]
+   },
+   "properties": {
+    "id": "IH-bonneville-benjamin-soda-sprin",
+    "nom": "Soda Springs (Beer Springs, Idaho) : Benjamin Bonneville",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin Bonneville"
+    ],
+    "description": "Soda Springs (Beer Springs, Idaho), 1834. Benjamin Bonneville nomme Beer Springs les sources minérales. D'après Hawley (1920). Autres lieux de l'entrée : Pierre's Hole, vallée de la Lemhi (Idaho), rivière Portneuf (Idaho), rivière aux Ours (Bear River).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 59-60 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=BONNEVILLE",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.4,
+     42.1
+    ]
+   },
+   "properties": {
+    "id": "IH-bonneville-benjamin-bear-river",
+    "nom": "Rivière aux Ours (Bear River) : Benjamin Bonneville",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1835.999,
+    "date_edtf": "1834/1835",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Bonneville"
+    ],
+    "description": "Rivière aux Ours (Bear River), 1834-1835. Benjamin Bonneville hiverne dans la vallée de la Bear, riche en gibier. D'après Hawley (1920). Autres lieux de l'entrée : Pierre's Hole, vallée de la Lemhi (Idaho), rivière Portneuf (Idaho), Soda Springs (Beer Springs, Idaho).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 59-60 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=BONNEVILLE",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.8,
+     47.5
+    ]
+   },
+   "properties": {
+    "id": "IH-de-smet-pierre-jean-lac-cur-d-",
+    "nom": "Lac Cœur d'Alène (Idaho) : Pierre-Jean de Smet",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre-Jean de Smet"
+    ],
+    "description": "Lac Cœur d'Alène (Idaho), 1842. Pierre-Jean de Smet réunit les Cœurs d'Alène et reste trois jours parmi eux comme hôte et maître. D'après Hawley (1920).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 60 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=DE+SMET",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.2,
+     48.15
+    ]
+   },
+   "properties": {
+    "id": "IH-canadien-prospecteur-clark-fork",
+    "nom": "Rivière Clark Fork (Pend Oreille, Idaho) : Prospecteur Canadien",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Prospecteur Canadien"
+    ],
+    "description": "Rivière Clark Fork (Pend Oreille, Idaho), 1854. Prospecteur Canadien aurait trouvé de l'or près du lac Pend Oreille, selon un récit mal établi. D'après Hawley (1920).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 102 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=CANADIEN",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.2,
+     43.615
+    ]
+   },
+   "properties": {
+    "id": "IH-blanchet-f-n-boise-vill",
+    "nom": "Boise (Idaho) : F. N. Blanchet",
+    "corpus": "archive.org · Hawley (1920)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1867.999,
+    "date_edtf": "1866/1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. N. Blanchet"
+    ],
+    "description": "Boise (Idaho), 1866-1867. F. N. Blanchet est l'archevêque de l'Oregon à qui la législature territoriale attribue 30 000 $ d'obligations pour des écoles confessionnelles. D'après Hawley (1920).",
+    "sources": "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920), p. 165 ; texte intégral : archive.org, historyofidahoge01hawl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawley (1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofidahoge01hawl?q=BLANCHET",
+      "texte": "Lire Hawley (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
