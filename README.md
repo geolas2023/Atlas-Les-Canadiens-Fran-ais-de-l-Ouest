@@ -132,6 +132,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Houck, *A History of Missouri* (1908), vol. 1 | `historyofmissour01houc` | 265 |
 | Houck, *A History of Missouri* (1908), vol. 2 | `historyofmissour02houc` | 338 |
 | Houck, *A History of Missouri* (1908), vol. 3 | `historyofmissour03houc` | 125 |
+| Houck, *The Spanish Regime in Missouri* (1909), vol. 1 | `spanishregimeinm01houc` | 325 |
+| Houck, *The Spanish Regime in Missouri* (1909), vol. 2 | `spanishregimeinm02houc` | 177 |
 
 
 ## Un point par lieu et adresses précises
