@@ -145,6 +145,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Perrault, « Narrative of the Travels and Adventures of a Merchant Voyageur » (1783-1820), *Michigan Pioneer and Historical Collections*, vol. 37 (1910) | `michiganhistoric37michuoft` | 82 |
 | Cox, *Adventures on the Columbia River* (1832) | `adventuresoncolu00coxr` | 48 |
 | Ross, *The Fur Hunters of the Far West* (1855), 2 vol. | `cihm_40228`, `cihm_40229` | 12 |
+| Burton, *Cadillac's Village, or Detroit under Cadillac* (1896) : lots du village et répertoire des habitants, 1701-1710 | `cadillacsvillage00burt` | 151 |
 
 
 ## Un point par lieu et adresses précises
