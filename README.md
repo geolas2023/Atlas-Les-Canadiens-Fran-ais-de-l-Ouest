@@ -157,6 +157,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `bwb_P8-BLU-581` | 9 |
 | `cu31924028874141` | 7 |
 | `collectionofnebr00daug` | 11 |
+| Andreas (1882), transcription kancoll.org | 29 |
 
 
 ## Un point par lieu et adresses précises

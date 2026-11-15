@@ -146,14 +146,15 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
                 desc = (f"D'après {livre['court']}, {nom}{ne}{',' if ne else ''} est associé{fem} à ce lieu ({lieu_fr}) en {quand}."
                     + (f" Autres lieux de l'entrée : {', '.join(dict.fromkeys(ailleurs))}." if ailleurs else ''))
             idf = ident(ref) if callable(ident) else ident
-            url = f"https://archive.org/details/{idf}" + (f"?q={re.sub(r'[^A-Za-zÀ-ÿ]+', '+', brut.split(',')[0].strip())}" if lien_recherche else '')
+            web = idf.startswith('http')  # livre absent d'archive.org : transcription en ligne
+            url = idf if web else f"https://archive.org/details/{idf}" + (f"?q={re.sub(r'[^A-Za-zÀ-ÿ]+', '+', brut.split(',')[0].strip())}" if lien_recherche else '')
             d, f, prec = bornes(edtf)
             out.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": {
                 "id": ident_fiche, "nom": f"{lieu_fr[0].upper() + lieu_fr[1:]} : {nom}", "corpus": f"{CORPUS} · {livre['court']}", "theme": theme,
                 "debut": d, "fin": f, "date_edtf": edtf, "precision": prec, "certitude": CERT[cert],
                 "personnages": [nom], "description": desc,
-                "sources": f"{livre['ref']}, {citer(brut, ref)} ; texte intégral : archive.org, {idf}.",
-                "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+                "sources": f"{livre['ref']}, {citer(brut, ref)} ; " + (f"transcription en ligne : {idf}." if web else f"texte intégral : archive.org, {idf}."),
+                "note": ("Repérage dans la transcription en ligne du livre, à vérifier dans l'original" if web else "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre") + " ; localisation attribuée par l'atlas.",
                 "livre": livre['court'], "_brut": brut,
-                "voir_aussi": [{"url": url, "texte": f"Lire {livre['court']} sur archive.org →"}]}})
+                "voir_aussi": [{"url": url, "texte": f"Lire {livre['court']} " + ("(transcription en ligne) →" if web else "sur archive.org →")}]}})
     return out, inconnus, sans_date

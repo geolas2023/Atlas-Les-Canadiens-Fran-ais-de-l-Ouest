@@ -720,7 +720,10 @@ G.update({
     'Cottonwood Springs': (-100.55, 41.0, 'a', "Cottonwood Springs (fort McPherson, Nebraska)"),
     'Réserve otoe (Gage)': (-96.75, 40.05, 'a', "réserve des Otoes (comté de Gage, Nebraska)"),
     'De Soto (Nebraska)': (-96.1, 41.5, 'a', "De Soto (comté de Washington, Nebraska)"),
+    'Papillion': (-96.04, 41.155, 'c', "Papillion (comté de Sarpy, Nebraska)"),
+    'Niobrara (ville)': (-98.03, 42.75, 'c', "Niobrara (comté de Knox, Nebraska)"),
 })
+
 
 
 
