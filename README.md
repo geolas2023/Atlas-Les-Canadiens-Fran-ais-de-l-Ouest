@@ -205,7 +205,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofnevada00ange` | 29 |
 | `historyofstateof00wren` | 16 |
 | `historyofnevada01davirich`, `historyofnevada02davirich` | 17 |
-| `sim_nevada-historical-society-papers_1913-1916` à `_1923-1924` | 4 |
+| `sim_nevada-historical-society-papers_1913-1916` à `_1925-1926` | 6 |
+| `historyofbigbona00dequ` | 5 |
 
 
 ## Un point par lieu et adresses précises
