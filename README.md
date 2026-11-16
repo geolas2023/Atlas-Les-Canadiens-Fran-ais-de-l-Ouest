@@ -319,6 +319,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `oldbiloxifirstse00rowl` | 4 |
 | `cu31924073559761` | 34 |
 | `cu31924028795405` | 105 |
+| `ahistorymississ00mccagoog` | 44 |
+| `biographicalhist11good` | 83 |
+| `biographicalhist21good` | 38 |
 
 
 ## Un point par lieu et adresses précises
