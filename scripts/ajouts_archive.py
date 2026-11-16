@@ -162,6 +162,7 @@ LIVRES = [
     ('montana_palladino_1922.txt', 'MP', {'court': 'Palladino (1922)', 'ref': "Lawrence B. Palladino, Indian and White in the Northwest: A History of Catholicity in Montana, 1831-1891 (2e éd., 1922)"}, 'IndianAndWhiteInTheNW', lambda nom, ref: ref),
     ('montana_contributions_v1_1876.txt', 'M1', {'court': 'Contributions Montana I (1876)', 'ref': "Contributions to the Historical Society of Montana, vol. 1 (1876)"}, 'contributionstohvol1hist1876rich', lambda nom, ref: ref),
     ('montana_contributions_v2_1896.txt', 'M2', {'court': 'Contributions Montana II (1896)', 'ref': "Contributions to the Historical Society of Montana, vol. 2 (1896)"}, 'contributionstohvol2hist1896rich', lambda nom, ref: ref),
+    ('montana_contributions_v3_1900.txt', 'M3', {'court': 'Contributions Montana III (1900)', 'ref': "Contributions to the Historical Society of Montana, vol. 3 (1900)"}, 'contributionstohvol3hist1900rich', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
