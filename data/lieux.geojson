@@ -299400,6 +299400,720 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -96.42,
+     39.86
+    ]
+   },
+   "properties": {
+    "id": "UN-alsacien-jeune-emigrant-guittard-s",
+    "nom": "Guittard's Station (Kansas) : Jeune émigrant Alsacien",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jeune émigrant Alsacien"
+    ],
+    "description": "Guittard's Station (Kansas), 1860. Jeune émigrant Alsacien tient la station avec sa mère et sa sœur, arrêté là faute d'argent. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 27 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=ALSACIEN",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.82,
+     41.8
+    ]
+   },
+   "properties": {
+    "id": "UN-robidoux-antoine-robidoux-p",
+    "nom": "Col de Robidoux (Scotts Bluff) : Antoine Robidoux",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Col de Robidoux (Scotts Bluff), vers 1850. Antoine Robidoux a laissé son nom à un ranch de la vallée de la Platte, tenu ensuite par un Canadien ou un Créole. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 75-76 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=ROBIDOUX",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.05,
+     41.9
+    ]
+   },
+   "properties": {
+    "id": "UN-reynal-m-horse-cree",
+    "nom": "Station de Horse Creek (Nebraska-Wyoming) : M. Reynal",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "M. Reynal"
+    ],
+    "description": "Station de Horse Creek (Nebraska-Wyoming), 1860. M. Reynal est un Créole français, fils d'un soldat de la Grande Armée, qui vend son whisky très cher. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 80-83 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=REYNAL",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "UN-badeau-m-fort-laram",
+    "nom": "Fort Laramie : M. Badeau",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "poste",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Badeau"
+    ],
+    "description": "Fort Laramie, 1860. M. Badeau est un Canadien qui tient un ranch de spiritueux et de marchandises de traite et doit la vie à sa femme sioux. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 88, 507 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=BADEAU",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "UN-montalan-m-fort-laram",
+    "nom": "Fort Laramie : M. Montalan",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "evenement",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Montalan"
+    ],
+    "description": "Fort Laramie, 1855. M. Montalan est un Parisien tué par les Sioux à la station de Ward. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 91 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=MONTALAN",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.15,
+     42.45
+    ]
+   },
+   "properties": {
+    "id": "UN-jules-m-horseshoe-",
+    "nom": "Horseshoe Creek (Wyoming) : M. Jules",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "M. Jules"
+    ],
+    "description": "Horseshoe Creek (Wyoming), vers 1859. M. Jules est un traiteur français qui tire sur Slade puis s'enfuit vers l'ouest. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 93 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=JULES",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.86,
+     42.86
+    ]
+   },
+   "properties": {
+    "id": "UN-bissonette-m-deer-creek",
+    "nom": "Deer Creek (Glenrock, Wyoming) : M. Bissonette",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "M. Bissonette"
+    ],
+    "description": "Deer Creek (Glenrock, Wyoming), 1860. M. Bissonette est un Créole qui tient bureau de poste, forge et débit de boisson et parle français. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 138-139, 508 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=BISSONETTE",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "UN-guenot-louis-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : Louis Guenot",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Guenot"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1860. Louis Guenot est un Québécois qui a bâti un pont à péage sur la Platte après douze ans dans les plaines. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 141 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=GUENOT",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.21,
+     42.45
+    ]
+   },
+   "properties": {
+    "id": "UN-plante-devil-s-ga",
+    "nom": "Porte du Diable (Devil's Gate, Sweetwater) : Plante",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Plante"
+    ],
+    "description": "Porte du Diable (Devil's Gate, Sweetwater), 1860. Plante est un Canadien qui tient avec sa famille la station boueuse près de Devil's Gate. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 151, 508 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=PLANTE",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.7,
+     42.33
+    ]
+   },
+   "properties": {
+    "id": "UN-provencal-un-francais-burnt-ranc",
+    "nom": "Burnt Ranch (Sweetwater, Wyoming) : Un Français Provençal",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Un Français Provençal"
+    ],
+    "description": "Burnt Ranch (Sweetwater, Wyoming), 1860. Un Français Provençal campe près d'un bosquet de saules et demande des nouvelles des Indiens. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 161 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=PROVENÇAL",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.47,
+     41.53
+    ]
+   },
+   "properties": {
+    "id": "UN-martin-michael-green-rive",
+    "nom": "Green River (Wyoming), bacs de la rivière : Michael Martin",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Martin"
+    ],
+    "description": "Green River (Wyoming), bacs de la rivière, 1860. Michael Martin est un traiteur créole qui tient un magasin et une épicerie au gué de la Green River. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 173, 509 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=MARTIN",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "UN-jean-baptiste-little-mud",
+    "nom": "Station de Little Muddy Creek (Wyoming) : Jean-Baptiste",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste"
+    ],
+    "description": "Station de Little Muddy Creek (Wyoming), 1860. Jean-Baptiste est un Canadien, gardien de station, qui prend Burton pour un Français et l'interroge sur Napoléon III. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 180 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=JEAN+BAPTISTE",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UN-stenhouse-mrs-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Mrs. Stenhouse",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Mrs. Stenhouse"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1860. Mrs. Stenhouse est une Jersiaise, épouse de l'elder Stenhouse, qui parle un excellent français. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 223 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=STENHOUSE",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.66,
+     40.23
+    ]
+   },
+   "properties": {
+    "id": "UN-provaux-provo-rivi",
+    "nom": "Rivière Provo (Utah) : Provaux",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Provaux"
+    ],
+    "description": "Rivière Provo (Utah), vers 1825. Provaux est le trappeur et traiteur canadien qui a donné son nom à Provo. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 333 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=PROVAUX",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.48,
+     39.45
+    ]
+   },
+   "properties": {
+    "id": "UN-dubail-constant-spring-val",
+    "nom": "Station de Spring Valley (Nevada, alors territoire d'Utah) : Constant Dubail",
+    "corpus": "archive.org · Burton, The City of the Saints (1861)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Constant Dubail"
+    ],
+    "description": "Station de Spring Valley (Nevada, alors territoire d'Utah), 1860. Constant Dubail est un « Français de France », ancien lancier, maître de station venu chercher fortune. D'après Burton, The City of the Saints (1861).",
+    "sources": "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861, p. 466 ; texte intégral : archive.org, cityofsaintsacro00burtuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Burton, The City of the Saints (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cityofsaintsacro00burtuoft?q=DUBAIL",
+      "texte": "Lire Burton, The City of the Saints (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.97,
+     41.22
+    ]
+   },
+   "properties": {
+    "id": "UV-cardon-thomas-barthelemy-ogden",
+    "nom": "Ogden (Utah) : Thomas Barthelemy Cardon",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 4 (1904)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Barthelemy Cardon"
+    ],
+    "description": "Ogden (Utah), 1854. Thomas Barthelemy Cardon, né en 1842 à Prarostino (Piémont), est un Vaudois du Piémont dont la famille arrive à Salt Lake City puis s'établit à Marriottsville près d'Ogden. D'après Whitney, History of Utah, vol. 4 (1904). Autres lieux de l'entrée : camp Floyd (Fairfield, Utah), Logan (Utah).",
+    "sources": "O. F. Whitney, History of Utah, vol. 4 (biographies), Salt Lake City, George Q. Cannon & Sons, 1904, p. 212-213 ; texte intégral : archive.org, historyofutahcom04whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 4 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom04whit?q=CARDON",
+      "texte": "Lire Whitney, History of Utah, vol. 4 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.1,
+     40.26
+    ]
+   },
+   "properties": {
+    "id": "UV-cardon-thomas-barthelemy-camp-floyd",
+    "nom": "Camp Floyd (Fairfield, Utah) : Thomas Barthelemy Cardon",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 4 (1904)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Barthelemy Cardon"
+    ],
+    "description": "Camp Floyd (Fairfield, Utah), 1858. Thomas Barthelemy Cardon, né en 1842 à Prarostino (Piémont), s'engage à seize ans comme clairon dans la compagnie G du 10e d'infanterie. D'après Whitney, History of Utah, vol. 4 (1904). Autres lieux de l'entrée : Ogden (Utah), Logan (Utah).",
+    "sources": "O. F. Whitney, History of Utah, vol. 4 (biographies), Salt Lake City, George Q. Cannon & Sons, 1904, p. 212-213 ; texte intégral : archive.org, historyofutahcom04whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 4 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom04whit?q=CARDON",
+      "texte": "Lire Whitney, History of Utah, vol. 4 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.83,
+     41.74
+    ]
+   },
+   "properties": {
+    "id": "UV-cardon-thomas-barthelemy-logan",
+    "nom": "Logan (Utah) : Thomas Barthelemy Cardon",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 4 (1904)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1898.999,
+    "date_edtf": "1867/1898",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Barthelemy Cardon"
+    ],
+    "description": "Logan (Utah), 1867-1898. Thomas Barthelemy Cardon, né en 1842 à Prarostino (Piémont), ouvre une galerie de photographie et une bijouterie, est greffier municipal et échevin. D'après Whitney, History of Utah, vol. 4 (1904). Autres lieux de l'entrée : Ogden (Utah), camp Floyd (Fairfield, Utah).",
+    "sources": "O. F. Whitney, History of Utah, vol. 4 (biographies), Salt Lake City, George Q. Cannon & Sons, 1904, p. 212-213 ; texte intégral : archive.org, historyofutahcom04whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 4 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom04whit?q=CARDON",
+      "texte": "Lire Whitney, History of Utah, vol. 4 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.97,
+     41.22
+    ]
+   },
+   "properties": {
+    "id": "UG-cardon-thomas-b-ogden",
+    "nom": "Ogden (Utah) : Thomas B. Cardon",
+    "corpus": "archive.org · Tullidge's Histories, vol. 2 (1889)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas B. Cardon"
+    ],
+    "description": "Ogden (Utah), 1854. Thomas B. Cardon, né en 1842 à Prarostino (Piémont), est un Vaudois baptisé avec sa famille en 1852, établie à Mound Fort puis à Marriotts. D'après Tullidge's Histories, vol. 2 (1889). Autres lieux de l'entrée : camp Floyd (Fairfield, Utah), Logan (Utah).",
+    "sources": "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889, p. 159-164 ; texte intégral : archive.org, tullidgeshistori02tull.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Tullidge's Histories, vol. 2 (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/tullidgeshistori02tull?q=CARDON",
+      "texte": "Lire Tullidge's Histories, vol. 2 (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.1,
+     40.26
+    ]
+   },
+   "properties": {
+    "id": "UG-cardon-thomas-b-camp-floyd",
+    "nom": "Camp Floyd (Fairfield, Utah) : Thomas B. Cardon",
+    "corpus": "archive.org · Tullidge's Histories, vol. 2 (1889)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas B. Cardon"
+    ],
+    "description": "Camp Floyd (Fairfield, Utah), 1858. Thomas B. Cardon, né en 1842 à Prarostino (Piémont), s'engage comme clairon au 10e d'infanterie sous le nom de Thomas Gordon. D'après Tullidge's Histories, vol. 2 (1889). Autres lieux de l'entrée : Ogden (Utah), Logan (Utah).",
+    "sources": "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889, p. 159-164 ; texte intégral : archive.org, tullidgeshistori02tull.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Tullidge's Histories, vol. 2 (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/tullidgeshistori02tull?q=CARDON",
+      "texte": "Lire Tullidge's Histories, vol. 2 (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.83,
+     41.74
+    ]
+   },
+   "properties": {
+    "id": "UG-cardon-thomas-b-logan",
+    "nom": "Logan (Utah) : Thomas B. Cardon",
+    "corpus": "archive.org · Tullidge's Histories, vol. 2 (1889)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas B. Cardon"
+    ],
+    "description": "Logan (Utah), 1872. Thomas B. Cardon, né en 1842 à Prarostino (Piémont), devient greffier de Logan pour neuf ans, après avoir arpenté pour l'Utah and Northern Railroad. D'après Tullidge's Histories, vol. 2 (1889). Autres lieux de l'entrée : Ogden (Utah), camp Floyd (Fairfield, Utah).",
+    "sources": "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889, p. 159-164 ; texte intégral : archive.org, tullidgeshistori02tull.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Tullidge's Histories, vol. 2 (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/tullidgeshistori02tull?q=CARDON",
+      "texte": "Lire Tullidge's Histories, vol. 2 (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
