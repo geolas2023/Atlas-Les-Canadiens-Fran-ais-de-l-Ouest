@@ -235,6 +235,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `journeysrnrober06coxgoog` | 15 |
 | `menwhomadetexasf00dixo` | 5 |
 | `southwesternhist10bark`, `17bark`, `19bark`, `20bark` | 20 |
+| `spanishfrenchriv01dunn` | 10 |
+| `texastexansoradv01foot`, `texastexansoradv02foot` | 1 |
+| `beginningsoftexa00clar` | 10 |
 
 
 ## Un point par lieu et adresses précises
