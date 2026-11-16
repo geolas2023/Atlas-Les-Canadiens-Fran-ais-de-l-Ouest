@@ -312,6 +312,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `publicationsofmi12rowl` | 14 |
 | `publicationsofmi04rowl` | 2 |
 | `publicationsofmi0005vari` | 29 |
+| `colonialmobilehi01hami` | 278 |
 
 
 ## Un point par lieu et adresses précises
