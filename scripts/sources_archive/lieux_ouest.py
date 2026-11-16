@@ -974,6 +974,11 @@ G.update({
     'Douglas (Arizona)': (-109.55, 31.34, 'c', "Douglas (Arizona)"),
     'St. Johns (Arizona)': (-109.36, 34.51, 'c', "St. Johns (Arizona)"),
     'Hassayampa (Pioneer District)': (-112.6, 34.3, 'a', "district minier Pioneer, Hassayampa (Arizona)"),
+    'Petit Colorado': (-111.2, 35.4, 'a', "rivière Petit Colorado (Little Colorado, Arizona)"),
+    'Chevelon Fork': (-110.9, 34.9, 'a', "Chevelon Fork (Arizona)"),
+    'Yampai Creek': (-113.3, 35.4, 'a', "Yampai Creek (pays hualapai, Arizona)"),
+    'Rivière Colorado (Mohave)': (-114.6, 35.0, 'a', "rivière Colorado au pays mohave (Arizona)"),
+    'Col de Guadalupe': (-109.2, 31.4, 'a', "col de Guadalupe et San Bernardino (frontière Arizona-Sonora)"),
 })
 
 

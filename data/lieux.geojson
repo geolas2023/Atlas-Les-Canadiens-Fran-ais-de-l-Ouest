@@ -306642,6 +306642,448 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -111.2,
+     35.4
+    ]
+   },
+   "properties": {
+    "id": "ZG-leroux-antoine-petit-colo",
+    "nom": "Rivière Petit Colorado (Little Colorado, Arizona) : Antoine Leroux",
+    "corpus": "archive.org · Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Rivière Petit Colorado (Little Colorado, Arizona), 1851. Antoine Leroux est le guide de l'expédition et rapproche des ruines de pierre des maisons des Moquis. D'après Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853). Autres lieux de l'entrée : monts San Francisco (nord de l'Arizona), Yampai Creek (pays hualapai, Arizona), rivière Colorado au pays mohave (Arizona).",
+    "sources": "L. Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers, Washington, R. Armstrong, 1853, p. 4, 8-17, 39 ; texte intégral : archive.org, reportanexpidit00sitggoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/reportanexpidit00sitggoog?q=LEROUX",
+      "texte": "Lire Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.7,
+     35.3
+    ]
+   },
+   "properties": {
+    "id": "ZG-leroux-antoine-san-franci",
+    "nom": "Monts San Francisco (nord de l'Arizona) : Antoine Leroux",
+    "corpus": "archive.org · Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Monts San Francisco (nord de l'Arizona), 1851. Antoine Leroux cherche de l'eau dans les montagnes, rencontre un camp yampai et laisse des présents. D'après Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853). Autres lieux de l'entrée : rivière Petit Colorado (Little Colorado, Arizona), Yampai Creek (pays hualapai, Arizona), rivière Colorado au pays mohave (Arizona).",
+    "sources": "L. Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers, Washington, R. Armstrong, 1853, p. 4, 8-17, 39 ; texte intégral : archive.org, reportanexpidit00sitggoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/reportanexpidit00sitggoog?q=LEROUX",
+      "texte": "Lire Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.3,
+     35.4
+    ]
+   },
+   "properties": {
+    "id": "ZG-leroux-antoine-yampai-cre",
+    "nom": "Yampai Creek (pays hualapai, Arizona) : Antoine Leroux",
+    "corpus": "archive.org · Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Yampai Creek (pays hualapai, Arizona), 1851. Antoine Leroux est blessé par des archers cachés et reste invalide jusqu'à la fin du voyage. D'après Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853). Autres lieux de l'entrée : rivière Petit Colorado (Little Colorado, Arizona), monts San Francisco (nord de l'Arizona), rivière Colorado au pays mohave (Arizona).",
+    "sources": "L. Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers, Washington, R. Armstrong, 1853, p. 4, 8-17, 39 ; texte intégral : archive.org, reportanexpidit00sitggoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/reportanexpidit00sitggoog?q=LEROUX",
+      "texte": "Lire Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.6,
+     35.0
+    ]
+   },
+   "properties": {
+    "id": "ZG-leroux-antoine-riviere-co",
+    "nom": "Rivière Colorado au pays mohave (Arizona) : Antoine Leroux",
+    "corpus": "archive.org · Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Rivière Colorado au pays mohave (Arizona), 1851. Antoine Leroux lit des marques indiennes sur le sol comme un avertissement de rebrousser chemin. D'après Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853). Autres lieux de l'entrée : rivière Petit Colorado (Little Colorado, Arizona), monts San Francisco (nord de l'Arizona), Yampai Creek (pays hualapai, Arizona).",
+    "sources": "L. Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers, Washington, R. Armstrong, 1853, p. 4, 8-17, 39 ; texte intégral : archive.org, reportanexpidit00sitggoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/reportanexpidit00sitggoog?q=LEROUX",
+      "texte": "Lire Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.9,
+     34.9
+    ]
+   },
+   "properties": {
+    "id": "ZG-chevelon-chevelon-f",
+    "nom": "Chevelon Fork (Arizona) : Chevelon",
+    "corpus": "archive.org · Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Chevelon"
+    ],
+    "description": "Chevelon Fork (Arizona), vers 1840. Chevelon est un trappeur mort d'avoir mangé une racine vénéneuse, qui laisse son nom au Chevelon's Fork. D'après Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853).",
+    "sources": "L. Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers, Washington, R. Armstrong, 1853, p. 7 ; texte intégral : archive.org, reportanexpidit00sitggoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/reportanexpidit00sitggoog?q=CHEVELON",
+      "texte": "Lire Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.2,
+     31.4
+    ]
+   },
+   "properties": {
+    "id": "ZK-leroux-col-de-gua",
+    "nom": "Col de Guadalupe et San Bernardino (frontière Arizona-Sonora) : Leroux",
+    "corpus": "archive.org · Cooke, The Conquest of New Mexico and California (1878)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Leroux"
+    ],
+    "description": "Col de Guadalupe et San Bernardino (frontière Arizona-Sonora), 1846. Leroux revient de nuit avec un chef apache gagné à grand-peine et impose le choix du col. D'après Cooke, The Conquest of New Mexico and California (1878). Autres lieux de l'entrée : rivière San Pedro et route de Cooke (Arizona), Tucson (Arizona), villages pimas de la Gila (Arizona), confluent de la Gila et de la Salt (Arizona).",
+    "sources": "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878, p. 136-168 ; texte intégral : archive.org, conquestofnewmex00cookrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cooke, The Conquest of New Mexico and California (1878)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/conquestofnewmex00cookrich?q=LEROUX",
+      "texte": "Lire Cooke, The Conquest of New Mexico and California (1878) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.3,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": "ZK-leroux-riviere-sa",
+    "nom": "Rivière San Pedro et route de Cooke (Arizona) : Leroux",
+    "corpus": "archive.org · Cooke, The Conquest of New Mexico and California (1878)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Leroux"
+    ],
+    "description": "Rivière San Pedro et route de Cooke (Arizona), 1846. Leroux guide le bataillon vers le San Pedro. D'après Cooke, The Conquest of New Mexico and California (1878). Autres lieux de l'entrée : col de Guadalupe et San Bernardino (frontière Arizona-Sonora), Tucson (Arizona), villages pimas de la Gila (Arizona), confluent de la Gila et de la Salt (Arizona).",
+    "sources": "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878, p. 136-168 ; texte intégral : archive.org, conquestofnewmex00cookrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cooke, The Conquest of New Mexico and California (1878)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/conquestofnewmex00cookrich?q=LEROUX",
+      "texte": "Lire Cooke, The Conquest of New Mexico and California (1878) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.97,
+     32.22
+    ]
+   },
+   "properties": {
+    "id": "ZK-leroux-tucson",
+    "nom": "Tucson (Arizona) : Leroux",
+    "corpus": "archive.org · Cooke, The Conquest of New Mexico and California (1878)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Leroux"
+    ],
+    "description": "Tucson (Arizona), 1846. Leroux trouve de l'eau, signale la garnison de Tucson et s'en échappe par une histoire inventée. D'après Cooke, The Conquest of New Mexico and California (1878). Autres lieux de l'entrée : col de Guadalupe et San Bernardino (frontière Arizona-Sonora), rivière San Pedro et route de Cooke (Arizona), villages pimas de la Gila (Arizona), confluent de la Gila et de la Salt (Arizona).",
+    "sources": "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878, p. 136-168 ; texte intégral : archive.org, conquestofnewmex00cookrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cooke, The Conquest of New Mexico and California (1878)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/conquestofnewmex00cookrich?q=LEROUX",
+      "texte": "Lire Cooke, The Conquest of New Mexico and California (1878) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.95,
+     33.12
+    ]
+   },
+   "properties": {
+    "id": "ZK-leroux-villages-p",
+    "nom": "Villages pimas de la Gila (Arizona) : Leroux",
+    "corpus": "archive.org · Cooke, The Conquest of New Mexico and California (1878)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Leroux"
+    ],
+    "description": "Villages pimas de la Gila (Arizona), 1846. Leroux annonce des mares de pluie dans le désert puis signale par la fumée l'herbe trouvée sur la Gila. D'après Cooke, The Conquest of New Mexico and California (1878). Autres lieux de l'entrée : col de Guadalupe et San Bernardino (frontière Arizona-Sonora), rivière San Pedro et route de Cooke (Arizona), Tucson (Arizona), confluent de la Gila et de la Salt (Arizona).",
+    "sources": "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878, p. 136-168 ; texte intégral : archive.org, conquestofnewmex00cookrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cooke, The Conquest of New Mexico and California (1878)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/conquestofnewmex00cookrich?q=LEROUX",
+      "texte": "Lire Cooke, The Conquest of New Mexico and California (1878) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     33.38
+    ]
+   },
+   "properties": {
+    "id": "ZK-leroux-confluent-",
+    "nom": "Confluent de la Gila et de la Salt (Arizona) : Leroux",
+    "corpus": "archive.org · Cooke, The Conquest of New Mexico and California (1878)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Leroux"
+    ],
+    "description": "Confluent de la Gila et de la Salt (Arizona), 1846. Leroux est envoyé en avant sur la Gila avec quatre guides porteurs de dépêches. D'après Cooke, The Conquest of New Mexico and California (1878). Autres lieux de l'entrée : col de Guadalupe et San Bernardino (frontière Arizona-Sonora), rivière San Pedro et route de Cooke (Arizona), Tucson (Arizona), villages pimas de la Gila (Arizona).",
+    "sources": "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878, p. 136-168 ; texte intégral : archive.org, conquestofnewmex00cookrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cooke, The Conquest of New Mexico and California (1878)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/conquestofnewmex00cookrich?q=LEROUX",
+      "texte": "Lire Cooke, The Conquest of New Mexico and California (1878) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.2,
+     31.4
+    ]
+   },
+   "properties": {
+    "id": "ZK-charboneaux-col-de-gua",
+    "nom": "Col de Guadalupe et San Bernardino (frontière Arizona-Sonora) : Charboneaux",
+    "corpus": "archive.org · Cooke, The Conquest of New Mexico and California (1878)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charboneaux"
+    ],
+    "description": "Col de Guadalupe et San Bernardino (frontière Arizona-Sonora), 1846. Charboneaux chasse l'ours près du sommet du col et manque de s'égarer dans la montagne. D'après Cooke, The Conquest of New Mexico and California (1878).",
+    "sources": "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878, p. 134 ; texte intégral : archive.org, conquestofnewmex00cookrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cooke, The Conquest of New Mexico and California (1878)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/conquestofnewmex00cookrich?q=CHARBONEAUX",
+      "texte": "Lire Cooke, The Conquest of New Mexico and California (1878) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.39,
+     33.03
+    ]
+   },
+   "properties": {
+    "id": "ZH-gabriel-pete-florence-a",
+    "nom": "Florence (Arizona) : Pete Gabriel",
+    "corpus": "archive.org · Arizona Historical Review (1930)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pete Gabriel"
+    ],
+    "description": "Florence (Arizona), 1888. Pete Gabriel est un shérif du comté de Pinal né en Alsace-Lorraine, blessé en duel au saloon de Jack Keating. D'après Arizona Historical Review (1930).",
+    "sources": "Arizona Historical Review, vol. 3, 1930, p. 8 ; texte intégral : archive.org, arizonahistorica03univ.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Arizona Historical Review (1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/arizonahistorica03univ?q=GABRIEL",
+      "texte": "Lire Arizona Historical Review (1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.97,
+     32.22
+    ]
+   },
+   "properties": {
+    "id": "ZH-jouvencean-father-tucson",
+    "nom": "Tucson (Arizona) : Father Jouvencean",
+    "corpus": "archive.org · Arizona Historical Review (1930)",
+    "theme": "evenement",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Father Jouvencean"
+    ],
+    "description": "Tucson (Arizona), 1873. Father Jouvencean célèbre les funérailles de Vicente et Librada Hernandez, assassinés. D'après Arizona Historical Review (1930).",
+    "sources": "Arizona Historical Review, vol. 3, 1930, p. 67 ; texte intégral : archive.org, arizonahistorica03univ.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Arizona Historical Review (1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/arizonahistorica03univ?q=JOUVENCEAN",
+      "texte": "Lire Arizona Historical Review (1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -111.97,
      41.22
     ]
