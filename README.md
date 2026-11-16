@@ -229,6 +229,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `earlysettlersind00sowe` | 28 |
 | `journeythroughte01olms` | 8 |
 | `ahistorytexasan01winkgoog`, `historyoftexaste04john` | 50 |
+| `TexasInTheMiddle18thC` | 23 |
 
 
 ## Un point par lieu et adresses précises

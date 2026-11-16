@@ -1083,6 +1083,9 @@ G.update({
     'Bryan (Texas)': (-96.37, 30.67, 'c', "Bryan (Texas)"),
     'Grand Saline': (-95.71, 32.68, 'c', "Grand Saline (Texas)"),
     'Amarillo': (-101.83, 35.22, 'c', "Amarillo (Texas)"),
+    'Village nadote': (-94.55, 32.10, 'h', "village des Nadotes (est du Texas)"),
+    'Missions San Xavier': (-97.05, 30.73, 'h', "missions San Xavier (San Gabriel, Texas)"),
+    'El Lobanillo': (-93.95, 31.45, 'h', "El Lobanillo (est du Texas)"),
 })
 
 
