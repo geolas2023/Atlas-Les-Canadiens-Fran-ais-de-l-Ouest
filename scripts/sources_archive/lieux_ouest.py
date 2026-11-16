@@ -1559,6 +1559,14 @@ G.update({
     'Lewisville (Arkansas)': (-93.58, 33.36, 'c', 'Lewisville, comté de Lafayette (Arkansas)'),
     'Hopefield (Arkansas)': (-90.1, 35.15, 'h', "Foy's Point, plus tard Hopefield, comté de Crittenden (Arkansas)"),
     'Embouchure de la rivière Blanche (Arkansas)': (-91.07, 33.95, 'h', 'Embouchure de la rivière Blanche, comté de Phillips (Arkansas)'),
+    'Cadron (Arkansas)': (-92.53, 35.1, 'h', 'Embouchure du Cadron, comté de Faulkner (Arkansas)'),
+    'Comté de Grant (Arkansas)': (-92.42, 34.29, 'h', 'Comté de Grant, canton de Darysaw (Arkansas)'),
+    'Bayou Meto (Arkansas)': (-92.1, 34.8, 'h', 'Bayou Meto, limite des comtés de Pulaski et Lonoke (Arkansas)'),
+    'Comté de Lonoke (Arkansas)': (-91.9, 34.75, 'h', 'Comté de Lonoke (Arkansas)'),
+    'Des Arc (Arkansas)': (-91.5, 34.97, 'c', 'Des Arc, comté de Prairie (Arkansas)'),
+    "Devall's Bluff (Arkansas)": (-91.46, 34.79, 'c', "Devall's Bluff, comté de Prairie (Arkansas)"),
+    'Vanndale (Arkansas)': (-90.76, 35.33, 'c', 'Wittsburg et Vanndale, comté de Cross (Arkansas)'),
+    'Dardanelle (Arkansas)': (-93.16, 35.22, 'c', 'Dardanelle et le rocher de Dardanelle, comté de Yell (Arkansas)'),
 })
 
 
