@@ -1544,6 +1544,21 @@ G.update({
     'Fort Stoddert (Alabama)': (-87.98, 31.16, 'h', 'Fort Stoddert, près de Mount Vernon (Alabama)'),
     'Gulfport (Mississippi)': (-89.09, 30.37, 'c', 'Gulfport, comté de Harrison (Mississippi)'),
     'Greenville (Mississippi)': (-91.06, 33.41, 'c', 'Greenville, comté de Washington (Mississippi)'),
+    'Little Rock (Arkansas)': (-92.29, 34.75, 'c', 'Little Rock (Arkansas)'),
+    'Pine Bluff (Arkansas)': (-92.0, 34.23, 'c', 'Pine Bluff, comté de Jefferson (Arkansas)'),
+    'Nouvelle-Gascogne (Arkansas)': (-91.9, 34.27, 'h', 'Nouvelle-Gascogne (New Gascony), comté de Jefferson (Arkansas)'),
+    'Mission Sainte-Marie (Pine Bluff)': (-91.95, 34.18, 'h', 'Mission Sainte-Marie des Quapaws, sous Pine Bluff (Arkansas)'),
+    'Fort Smith (Arkansas)': (-94.42, 35.39, 'c', 'Fort Smith (Arkansas)'),
+    'Morrilton (Arkansas)': (-92.74, 35.15, 'c', 'Morrilton, comté de Conway (Arkansas)'),
+    'Conway (Arkansas)': (-92.44, 35.09, 'c', 'Conway, comté de Faulkner (Arkansas)'),
+    'Rivière Blanche (Arkansas)': (-91.4, 34.4, 'h', 'Rivière Blanche (White River, Arkansas)'),
+    'Davidsonville (Arkansas)': (-91.05, 36.15, 'h', 'Davidsonville, comté de Randolph (Arkansas)'),
+    'Camden (Écore à Fabre)': (-92.83, 33.58, 'c', 'Camden, ancien Écore à Fabre (Arkansas)'),
+    'Fort Saint-François (Arkansas)': (-90.75, 35.25, 'h', 'Fort Saint-François, rivière Saint-François, comté de Cross (Arkansas)'),
+    'Arkadelphia (Arkansas)': (-93.05, 34.12, 'c', 'Arkadelphia et Blakeleytown, comté de Clark (Arkansas)'),
+    'Lewisville (Arkansas)': (-93.58, 33.36, 'c', 'Lewisville, comté de Lafayette (Arkansas)'),
+    'Hopefield (Arkansas)': (-90.1, 35.15, 'h', "Foy's Point, plus tard Hopefield, comté de Crittenden (Arkansas)"),
+    'Embouchure de la rivière Blanche (Arkansas)': (-91.07, 33.95, 'h', 'Embouchure de la rivière Blanche, comté de Phillips (Arkansas)'),
 })
 
 
