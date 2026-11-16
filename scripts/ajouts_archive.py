@@ -200,6 +200,9 @@ LIVRES = [
     ('arizona_bancroft_1889.txt', 'ZB', {'court': 'Bancroft, History of Arizona and New Mexico (1889)', 'ref': "H. H. Bancroft, History of Arizona and New Mexico, 1530-1888, San Francisco, The History Company, 1889"}, 'arizonanewmex00bancroft', lambda nom, ref: ref),
     ('arizona_salpointe_1898.txt', 'ZS', {'court': 'Salpointe, Soldiers of the Cross (1898)', 'ref': "J. B. Salpointe, Soldiers of the Cross: Notes on the Ecclesiastical History of New-Mexico, Arizona and Colorado, Banning, St. Boniface's Industrial School, 1898"}, 'soldiersofcrossn00salp', lambda nom, ref: ref),
     ('arizona_portrait_1901.txt', 'ZP', {'court': 'Portrait and Biographical Record of Arizona (1901)', 'ref': "Portrait and Biographical Record of Arizona, Chicago, Chapman Publishing Company, 1901"}, 'portraitbioarizo00chaprich', lambda nom, ref: ref),
+    ('arizona_mcclintock_1916_v1.txt', 'ZM', {'court': 'McClintock, Arizona, vol. 1 (1916)', 'ref': "J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 1, Chicago, S. J. Clarke, 1916"}, 'arizonaprehistor01mcclrich', lambda nom, ref: ref),
+    ('arizona_mcclintock_1916_v2.txt', 'ZN', {'court': 'McClintock, Arizona, vol. 2 (1916)', 'ref': "J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 2, Chicago, S. J. Clarke, 1916"}, 'arizonaprehistor02mcclrich', lambda nom, ref: ref),
+    ('arizona_mcclintock_1916_v3.txt', 'ZT', {'court': 'McClintock, Arizona, vol. 3 (1916)', 'ref': "J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 3, Chicago, S. J. Clarke, 1916"}, 'arizonaprehistor03mcclrich', lambda nom, ref: ref),
     ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
 ]
 
