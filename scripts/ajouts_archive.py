@@ -204,6 +204,9 @@ LIVRES = [
     ('arizona_mcclintock_1916_v2.txt', 'ZN', {'court': 'McClintock, Arizona, vol. 2 (1916)', 'ref': "J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 2, Chicago, S. J. Clarke, 1916"}, 'arizonaprehistor02mcclrich', lambda nom, ref: ref),
     ('arizona_mcclintock_1916_v3.txt', 'ZT', {'court': 'McClintock, Arizona, vol. 3 (1916)', 'ref': "J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 3, Chicago, S. J. Clarke, 1916"}, 'arizonaprehistor03mcclrich', lambda nom, ref: ref),
     ('arizona_farish_1915.txt', 'ZF', {'court': 'Farish, History of Arizona (1915-1916)', 'ref': "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916"}, lambda ref: 'historyofarizona01faririch' if ref.startswith('vol. 1') else 'historyofarizona02faririch', lambda nom, ref: ref),
+    ('arizona_sitgreaves_1853.txt', 'ZG', {'court': 'Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers (1853)', 'ref': "L. Sitgreaves, Report of an Expedition down the Zuni and Colorado Rivers, Washington, R. Armstrong, 1853"}, 'reportanexpidit00sitggoog', lambda nom, ref: ref),
+    ('arizona_cooke_1878.txt', 'ZK', {'court': 'Cooke, The Conquest of New Mexico and California (1878)', 'ref': "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878"}, 'conquestofnewmex00cookrich', lambda nom, ref: ref),
+    ('arizona_ahr_1930.txt', 'ZH', {'court': 'Arizona Historical Review (1930)', 'ref': "Arizona Historical Review, vol. 3, 1930"}, 'arizonahistorica03univ', lambda nom, ref: ref),
     ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
 ]
 
