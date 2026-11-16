@@ -226,6 +226,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `athanasedemzi01mz`, `athanasedemzi02mzuoft` | 62 |
 | `pictorialhistory01thra` | 17 |
 | `memorialbiograph00lew` | 38 |
+| `earlysettlersind00sowe` | 28 |
 
 
 ## Un point par lieu et adresses précises

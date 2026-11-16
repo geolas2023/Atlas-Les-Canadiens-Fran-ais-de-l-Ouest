@@ -1057,6 +1057,7 @@ G.update({
     'Lancaster (Texas)': (-96.76, 32.59, 'c', "Lancaster (comté de Dallas, Texas)"),
     'Hallettsville': (-96.94, 29.44, 'c', "Hallettsville (Texas)"),
     'Denison': (-96.54, 33.76, 'c', "Denison (Texas)"),
+    'Canyon du Hondo': (-99.25, 29.65, 'h', "canyon du Hondo (comté de Medina, Texas)"),
 })
 
 
