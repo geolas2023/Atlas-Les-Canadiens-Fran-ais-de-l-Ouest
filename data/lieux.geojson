@@ -322792,6 +322792,686 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -94.73,
+     29.81
+    ]
+   },
+   "properties": {
+    "id": "XQ-masse-orcoquisac",
+    "nom": "El Orcoquisac (San Agustín de Ahumada, bas Trinity) : Masse",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1755.0,
+    "fin": 1755.0,
+    "date_edtf": "1755~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Masse"
+    ],
+    "description": "El Orcoquisac (San Agustín de Ahumada, bas Trinity), vers 1755. Masse établit avec Cortablan des habitations non autorisées près de la rivière Flores. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 10, p. 22 ; texte intégral : archive.org, southwesternhist10bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist10bark?q=MASSE",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.73,
+     29.81
+    ]
+   },
+   "properties": {
+    "id": "XQ-cortablan-orcoquisac",
+    "nom": "El Orcoquisac (San Agustín de Ahumada, bas Trinity) : Cortablan",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1755.0,
+    "fin": 1755.0,
+    "date_edtf": "1755~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Cortablan"
+    ],
+    "description": "El Orcoquisac (San Agustín de Ahumada, bas Trinity), vers 1755. Cortablan s'établit sans autorisation avec Masse près de la rivière Flores. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 10, p. 22 ; texte intégral : archive.org, southwesternhist10bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist10bark?q=CORTABLAN",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.655,
+     31.603
+    ]
+   },
+   "properties": {
+    "id": "XQ-robin-c-c-nacogdoche",
+    "nom": "Nacogdoches (Texas) : C. C. Robin",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "C. C. Robin"
+    ],
+    "description": "Nacogdoches (Texas), vers 1803. C. C. Robin est un voyageur français qui décrit le monopole de la traite de Natchitoches dont les marchandises gagnent San Antonio. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 10, p. 60 ; vol. 17, p. 21, 26 ; texte intégral : archive.org, southwesternhist10bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist10bark?q=ROBIN",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.655,
+     31.603
+    ]
+   },
+   "properties": {
+    "id": "XQ-st-maxent-nacogdoche",
+    "nom": "Nacogdoches (Texas) : St. Maxent",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "St. Maxent"
+    ],
+    "description": "Nacogdoches (Texas), 1801. St. Maxent tient avec Fortier un journal du voyage de Vera Cruz à La Nouvelle-Orléans par Nacogdoches. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 10, p. 36, 60 ; texte intégral : archive.org, southwesternhist10bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist10bark?q=ST+MAXENT",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.655,
+     31.603
+    ]
+   },
+   "properties": {
+    "id": "XQ-fortier-nacogdoche",
+    "nom": "Nacogdoches (Texas) : Fortier",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Fortier"
+    ],
+    "description": "Nacogdoches (Texas), 1801. Fortier voyage avec St. Maxent par Nacogdoches et tient le journal de route. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 10, p. 36, 60 ; texte intégral : archive.org, southwesternhist10bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist10bark?q=FORTIER",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.655,
+     31.603
+    ]
+   },
+   "properties": {
+    "id": "XQ-roquier-m-nacogdoche",
+    "nom": "Nacogdoches (Texas) : M. Roquier",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Roquier"
+    ],
+    "description": "Nacogdoches (Texas), vers 1804. M. Roquier est un habitant de Natchitoches menacé par le commandant Ugarte de perdre ses biens de Nacogdoches s'il ne s'y installe pas. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 17, p. 35, 164 ; texte intégral : archive.org, southwesternhist17bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist17bark?q=ROQUIER",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.55,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": "XQ-grappe-francois-bayou-pier",
+    "nom": "Bayou Pierre et pointe Yattasse (Louisiane) : Francois Grappe",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1805.999,
+    "date_edtf": "1804/1805",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francois Grappe"
+    ],
+    "description": "Bayou Pierre et pointe Yattasse (Louisiane), 1804-1805. Francois Grappe est l'interprète de Sibley, aussi payé par les Espagnols, agent indien des deux camps. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 17, p. 153, 162-165 ; texte intégral : archive.org, southwesternhist17bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist17bark?q=GRAPPE",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "XQ-shabas-m-san-antoni",
+    "nom": "San Antonio (Texas) : M. Shabas",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Shabas"
+    ],
+    "description": "San Antonio (Texas), 1805. M. Shabas est un habitant de Natchitoches invité à San Antonio pour rencontrer l'envoyé espagnol attendu. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 17, p. 167 ; texte intégral : archive.org, southwesternhist17bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist17bark?q=SHABAS",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     28.81
+    ]
+   },
+   "properties": {
+    "id": "XQ-meusnier-pierre-fort-saint",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas) : Pierre Meusnier",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "poste",
+    "debut": 1689.0,
+    "fin": 1689.0,
+    "date_edtf": "1689",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Meusnier"
+    ],
+    "description": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas), 1689. Pierre Meusnier est un survivant de la colonie de La Salle dont le témoignage décrit la prise du ketch. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 19, p. 327 ; texte intégral : archive.org, southwesternhist19bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist19bark?q=MEUSNIER",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.65,
+     29.14
+    ]
+   },
+   "properties": {
+    "id": "XQ-leger-dr-columbia-t",
+    "nom": "Columbia (West Columbia, Texas) : Dr. Leger",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dr. Leger"
+    ],
+    "description": "Columbia (West Columbia, Texas), 1836. Dr. Leger est un médecin français consulté avec le docteur Levi Jones pendant la dernière maladie de Stephen F. Austin. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 379-380 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=LEGER",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.37,
+     29.76
+    ]
+   },
+   "properties": {
+    "id": "XQ-anduze-m-b-houston-te",
+    "nom": "Houston (Texas) : M. B. Anduze",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. B. Anduze"
+    ],
+    "description": "Houston (Texas), 1839. M. B. Anduze est un abbé envoyé par l'amiral Baudin demander au gouvernement Lamar sa conduite en cas de guerre franco-mexicaine. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 218-219 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=ANDUZE",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.37,
+     29.76
+    ]
+   },
+   "properties": {
+    "id": "XQ-saligny-alphonse-dubois-de-houston-te",
+    "nom": "Houston (Texas) : Alphonse Dubois de Saligny",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alphonse Dubois de Saligny"
+    ],
+    "description": "Houston (Texas), 1838. Alphonse Dubois de Saligny est secrétaire de la légation de Washington, envoyé évaluer les ressources du Texas. D'après Southwestern Historical Quarterly (1906-1917). Autres lieux de l'entrée : Austin (Texas).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 215, 220-232, 253 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=SALIGNY",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.74,
+     30.27
+    ]
+   },
+   "properties": {
+    "id": "XQ-saligny-alphonse-dubois-de-austin-tex",
+    "nom": "Austin (Texas) : Alphonse Dubois de Saligny",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alphonse Dubois de Saligny"
+    ],
+    "description": "Austin (Texas), 1841. Alphonse Dubois de Saligny se brouille avec l'aubergiste Bullock, suspend les relations puis revient en 1842. D'après Southwestern Historical Quarterly (1906-1917). Autres lieux de l'entrée : Houston (Texas).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 215, 220-232, 253 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=SALIGNY",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.74,
+     30.27
+    ]
+   },
+   "properties": {
+    "id": "XQ-pluyette-m-austin-tex",
+    "nom": "Austin (Texas) : M. Pluyette",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Pluyette"
+    ],
+    "description": "Austin (Texas), 1841. M. Pluyette est un membre de la légation de Saligny attaqué par Bullock. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 232 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=PLUYETTE",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0,
+     30.0
+    ]
+   },
+   "properties": {
+    "id": "XQ-cramayel-count-texas",
+    "nom": "Texas : Count Cramayel",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1844.999,
+    "date_edtf": "1842/1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Count Cramayel"
+    ],
+    "description": "Texas, 1842-1844. Count Cramayel est chargé d'affaires de France, proteste contre la fin de l'exemption des vins et négocie une ligne de vapeurs. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 236-239, 355 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=CRAMAYEL",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "XQ-bourgeois-d-orvanne-alexandr-san-antoni",
+    "nom": "San Antonio (Texas) : Alexandre Bourgeois D'orvanne",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Bourgeois D'orvanne"
+    ],
+    "description": "San Antonio (Texas), 1844. Alexandre Bourgeois D'orvanne obtient avec Ducos un contrat pour douze cents familles, le vend à une société allemande et vient au Texas. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 240-241, 351-355 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=BOURGEOIS+D+ORVANNE",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.37,
+     29.76
+    ]
+   },
+   "properties": {
+    "id": "XQ-ducos-amand-houston-te",
+    "nom": "Houston (Texas) : Amand Ducos",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Amand Ducos"
+    ],
+    "description": "Houston (Texas), 1842. Amand Ducos reçoit avec Bourgeois d'Orvanne un contrat de colonisation. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 351-355 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=DUCOS",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.88,
+     29.36
+    ]
+   },
+   "properties": {
+    "id": "XQ-castro-henri-castrovill",
+    "nom": "Castroville (Texas) : Henri Castro",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Castro"
+    ],
+    "description": "Castroville (Texas), 1844. Henri Castro fonde Castroville puis Quihi et y envoie des colons alsaciens. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 341-350 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=CASTRO",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0,
+     30.0
+    ]
+   },
+   "properties": {
+    "id": "XQ-jassaud-j-texas",
+    "nom": "Texas : J. Jassaud",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "J. Jassaud"
+    ],
+    "description": "Texas, 1842. J. Jassaud est l'associé de Castro dans le contrat signé avec Houston. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 344-345 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=JASSAUD",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.88,
+     29.36
+    ]
+   },
+   "properties": {
+    "id": "XQ-oge-abbe-castrovill",
+    "nom": "Castroville (Texas) : abbé Oge",
+    "corpus": "archive.org · Southwestern Historical Quarterly (1906-1917)",
+    "theme": "religion",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "abbé Oge"
+    ],
+    "description": "Castroville (Texas), 1844. abbé Oge vient avec l'évêque Odin poser la première pierre de l'église. D'après Southwestern Historical Quarterly (1906-1917).",
+    "sources": "The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, 17, 19 et 20, Austin, 1906-1917, vol. 20, p. 348 ; texte intégral : archive.org, southwesternhist20bark.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Southwestern Historical Quarterly (1906-1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southwesternhist20bark?q=OGE",
+      "texte": "Lire Southwestern Historical Quarterly (1906-1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -111.2,
      35.4
     ]
