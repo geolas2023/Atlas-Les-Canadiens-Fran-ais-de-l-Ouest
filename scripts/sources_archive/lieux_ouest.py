@@ -942,6 +942,22 @@ G.update({
     'Lake Tahoe': (-120.0, 39.1, 'a', "lac Tahoe (Nevada-Californie)"),
     'Las Vegas': (-115.14, 36.17, 'c', "Las Vegas (mission mormone, Nevada)"),
     'Glendale (Sparks)': (-119.75, 39.53, 'c', "Glendale (Truckee Meadows, près de Sparks, Nevada)"),
+    'Tucson': (-110.97, 32.22, 'c', "Tucson (Arizona)"),
+    'San Xavier del Bac': (-111.01, 32.11, 'c', "mission San Xavier del Bac (Arizona)"),
+    'Tubac': (-111.05, 31.61, 'c', "Tubac (Arizona)"),
+    'Gila City': (-114.4, 32.7, 'c', "Gila City (comté de Yuma, Arizona)"),
+    'Prescott': (-112.47, 34.54, 'c', "Prescott (Arizona)"),
+    'Phoenix': (-112.07, 33.45, 'c', "Phoenix (Arizona)"),
+    'Florence (Arizona)': (-111.39, 33.03, 'c', "Florence (Arizona)"),
+    'Rivière San Pedro (Arizona)': (-110.3, 32.0, 'a', "rivière San Pedro et route de Cooke (Arizona)"),
+    'San Francisco Peaks': (-111.7, 35.3, 'a', "monts San Francisco (nord de l'Arizona)"),
+    'Rivière Gila (haute)': (-109.5, 33.1, 'a', "haute rivière Gila (pays des Coyoteros, Arizona)"),
+    'Champs de diamants (Arizona)': (-109.4, 36.4, 'a', "prétendus champs de diamants du nord-est de l'Arizona"),
+    'Mesa (Arizona)': (-111.83, 33.42, 'c', "Mesa (Arizona)"),
+    'Nogales (Arizona)': (-110.94, 31.34, 'c', "Nogales (Arizona)"),
+    'Clifton (Arizona)': (-109.30, 33.05, 'c', "Clifton (Arizona)"),
+    'Jerome (Arizona)': (-112.11, 34.75, 'c', "Jerome (Arizona)"),
+    'Tempe': (-111.94, 33.43, 'c', "Tempe (Arizona)"),
 })
 
 
