@@ -509044,6 +509044,822 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "QS-iberville-pierre-le-moyne-d-mississipp",
+    "nom": "Embouchure du Mississippi : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Embouchure du Mississippi, 1699. Pierre Le Moyne d' Iberville entre le premier dans l'embouchure du Mississippi. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : Village des Houmas (Louisiane), Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 8, 69 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=IBERVILLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.95,
+     30.1
+    ]
+   },
+   "properties": {
+    "id": "QS-iberville-pierre-le-moyne-d-village-de",
+    "nom": "Village des Houmas (Louisiane) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Village des Houmas (Louisiane), 1700. Pierre Le Moyne d' Iberville reçoit quarante guerriers avoyelles et leur donne leur nom. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : embouchure du Mississippi, Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 8, 69 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=IBERVILLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "QS-iberville-pierre-le-moyne-d-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1702. Pierre Le Moyne d' Iberville fait bâtir le fort Louis de la Mobile. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : embouchure du Mississippi, Village des Houmas (Louisiane).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 8, 69 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=IBERVILLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.75,
+     29.4
+    ]
+   },
+   "properties": {
+    "id": "QS-bienville-jean-baptiste-le-m-fort-du-mi",
+    "nom": "Fort du Mississippi ou de La Boulaye (1700) : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1705.999,
+    "date_edtf": "1700/1705",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Fort du Mississippi ou de La Boulaye (1700), 1700-1705. Jean-Baptiste Le Moyne de Bienville commande le fort du Mississippi. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : La Nouvelle-Orléans, Natchez (fort Rosalie).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 9-10, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=BIENVILLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QS-bienville-jean-baptiste-le-m-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1718.0,
+    "fin": 1718.0,
+    "date_edtf": "1718",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "La Nouvelle-Orléans, 1718. Jean-Baptiste Le Moyne de Bienville choisit le site au portage du bayou Saint-Jean et fait défricher la ville. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : fort du Mississippi ou de La Boulaye (1700), Natchez (fort Rosalie).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 9-10, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=BIENVILLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "QS-bienville-jean-baptiste-le-m-natchez",
+    "nom": "Natchez (fort Rosalie) : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1722.0,
+    "fin": 1722.0,
+    "date_edtf": "1722",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Natchez (fort Rosalie), 1722. Jean-Baptiste Le Moyne de Bienville mène une expédition avec les Tunicas. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : fort du Mississippi ou de La Boulaye (1700), La Nouvelle-Orléans.",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 9-10, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=BIENVILLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "QS-l-epinay-m-de-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : M. de L'epinay",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1717.0,
+    "fin": 1717.0,
+    "date_edtf": "1717",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "M. de L'epinay"
+    ],
+    "description": "Île Dauphine (Alabama), 1717. M. de L'epinay débarque et remet à Bienville la croix de Saint-Louis. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 9 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=L+EPINAY",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QS-penicaut-new-orlean",
+    "nom": "La Nouvelle-Orléans : Penicaut",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1718.0,
+    "fin": 1718.0,
+    "date_edtf": "1718",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Penicaut"
+    ],
+    "description": "La Nouvelle-Orléans, 1718. Penicaut accompagne Bienville et écrit les Annales de la Louisiane. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : Village des Tunicas (Louisiane).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 9, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=PENICAUT",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "QS-penicaut-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Penicaut",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1729.0,
+    "fin": 1729.0,
+    "date_edtf": "1729",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Penicaut"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1729. Penicaut se réfugie chez les Tunicas pendant la guerre des Natchez. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 9, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=PENICAUT",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QS-ingenieurs-de-la-nouvelle-or-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les Ingénieurs de la Nouvelle-Orléans",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1718.0,
+    "fin": 1718.0,
+    "date_edtf": "1718",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Ingénieurs de la Nouvelle-Orléans"
+    ],
+    "description": "La Nouvelle-Orléans, 1718. Les Ingénieurs de la Nouvelle-Orléans sont De la Tour et Pauger, qui aident à tracer la ville. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 10 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=INGÉNIEURS+DE+LA+NOUVELLE+ORLÉANS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QS-charlevoix-new-orlean",
+    "nom": "La Nouvelle-Orléans : Charlevoix",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1721.0,
+    "fin": 1721.0,
+    "date_edtf": "1721",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charlevoix"
+    ],
+    "description": "La Nouvelle-Orléans, 1721. Charlevoix consigne les dégâts de l'ouragan. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : Village des Tunicas (Louisiane).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 10, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=CHARLEVOIX",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "QS-charlevoix-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Charlevoix",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1721.0,
+    "fin": 1721.0,
+    "date_edtf": "1721",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charlevoix"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1721. Charlevoix visite les Tunicas et décrit leur chef. D'après Publications of the Louisiana Historical Society, vol. 10 (1917). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 10, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=CHARLEVOIX",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QS-boismare-new-orlean",
+    "nom": "La Nouvelle-Orléans : Boismare",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Boismare"
+    ],
+    "description": "La Nouvelle-Orléans, 1825. Boismare tient une librairie et un cabinet de lecture rue de Chartres. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 24 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=BOISMARE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.05,
+     31.12
+    ]
+   },
+   "properties": {
+    "id": "QS-saint-denis-avoyelles",
+    "nom": "Avoyelles (Louisiane) : Saint-Denis",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1714.0,
+    "fin": 1714.0,
+    "date_edtf": "1714",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Saint-Denis"
+    ],
+    "description": "Avoyelles (Louisiane), 1714. Saint-Denis rencontre les Avoyelles et décide le chef tunica à le suivre au Texas. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 69, 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=SAINT+DENIS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.05,
+     31.12
+    ]
+   },
+   "properties": {
+    "id": "QS-la-harpe-avoyelles",
+    "nom": "Avoyelles (Louisiane) : La Harpe",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1714.0,
+    "fin": 1714.0,
+    "date_edtf": "1714",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Harpe"
+    ],
+    "description": "Avoyelles (Louisiane), 1714. La Harpe reçoit du gibier de chasseurs avoyelles. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 69 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=LA+HARPE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "QS-davion-pere-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Père Davion",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "religion",
+    "debut": 1706.0,
+    "fin": 1706.0,
+    "date_edtf": "1706",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Davion"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1706. Père Davion est missionnaire, convertit les Tunicas et suit la tribu. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 71-72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=DAVION",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "QS-poisson-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Poisson",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Poisson"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1727. Poisson visite les Tunicas et annonce la mort de Davion. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 72 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=POISSON",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.07,
+     31.13
+    ]
+   },
+   "properties": {
+    "id": "QS-elishe-marc-marksville",
+    "nom": "Marksville (Louisiane) : Marc Elishe",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marc Elishe"
+    ],
+    "description": "Marksville (Louisiane), 1809. Marc Elishe mène des colons et fonde le site de la ville après la casse d'une roue. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 74 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=ELISHE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.07,
+     31.13
+    ]
+   },
+   "properties": {
+    "id": "QS-rabelais-marksville",
+    "nom": "Marksville (Louisiane) : Rabelais",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rabelais"
+    ],
+    "description": "Marksville (Louisiane), 1809. Rabelais est éclaireur de Marc Elishe. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 74 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=RABELAIS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.96,
+     31.16
+    ]
+   },
+   "properties": {
+    "id": "QS-de-russy-colonel-fort-de-ru",
+    "nom": "Fort De Russy (Gordon's Landing, rivière Rouge, Louisiane) : Colonel de Russy",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "poste",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Colonel de Russy"
+    ],
+    "description": "Fort De Russy (Gordon's Landing, rivière Rouge, Louisiane), 1861. Colonel de Russy bâtit le fort pour commander la rivière Rouge. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 75 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=DE+RUSSY",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.07,
+     31.13
+    ]
+   },
+   "properties": {
+    "id": "QS-derbigny-c-marksville",
+    "nom": "Marksville (Louisiane) : C. Derbigny",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "C. Derbigny"
+    ],
+    "description": "Marksville (Louisiane), 1843. C. Derbigny signe la charte de la ville comme président de la Chambre. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 84 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=DERBIGNY",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.07,
+     31.13
+    ]
+   },
+   "properties": {
+    "id": "QS-mouton-alexandre-marksville",
+    "nom": "Marksville (Louisiane) : Alexandre Mouton",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Mouton"
+    ],
+    "description": "Marksville (Louisiane), 1843. Alexandre Mouton approuve la charte de la ville comme gouverneur. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 84 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=MOUTON",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.07,
+     31.13
+    ]
+   },
+   "properties": {
+    "id": "QS-hebert-p-o-marksville",
+    "nom": "Marksville (Louisiane) : P. O. Hébert",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "P. O. Hébert"
+    ],
+    "description": "Marksville (Louisiane), 1855. P. O. Hébert approuve l'amendement de la charte comme gouverneur. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 86 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=HÉBERT",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "QS-grandpre-natchez",
+    "nom": "Natchez (fort Rosalie) : Grandpré",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1797.0,
+    "date_edtf": "1797",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Grandpré"
+    ],
+    "description": "Natchez (fort Rosalie), 1797. Grandpré est nommé gouverneur de Natchez par le roi. D'après Publications of the Louisiana Historical Society, vol. 10 (1917).",
+    "sources": "Publications of the Louisiana Historical Society, vol. X, Proceedings and Reports 1917, La Nouvelle-Orléans, Louisiana Historical Society (réimpr. AMS Press, 1969), PLHS X, p. 101 ; texte intégral : archive.org, louisianahistori10loui.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 10 (1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/louisianahistori10loui?q=GRANDPRÉ",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 10 (1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]

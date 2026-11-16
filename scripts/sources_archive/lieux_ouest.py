@@ -1320,6 +1320,7 @@ G.update({
     'Colfax (Louisiane)': (-92.69, 31.52, 'h', "Colfax (Louisiane)"),
     'Fort Louis de la Mobile': (-88.02, 30.92, 'h', "Fort Louis de la Mobile (Old Mobile, 1702-1711)"),
     'Charleston (Caroline du Sud)': (-79.93, 32.78, 'h', "Charleston (Caroline du Sud)"),
+    'Fort De Russy': (-91.96, 31.16, 'h', "Fort De Russy (Gordon's Landing, rivière Rouge, Louisiane)"),
 })
 
 

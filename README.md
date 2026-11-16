@@ -284,6 +284,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `publicationslou03socigoog` | 18 |
 | `louisianahistori08loui` | 42 |
 | `publicationslou06socigoog` | 34 |
+| `louisianahistori10loui` | 18 |
 
 
 ## Un point par lieu et adresses précises
