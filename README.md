@@ -262,6 +262,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `histoiredecomit00bard` | 92 |
 | `louisianastudie00fortgoog` | 46 |
 | `neworleansplacep00king` | 61 |
+| `historyoflouisia0002unse` | 119 |
 
 
 ## Un point par lieu et adresses précises
