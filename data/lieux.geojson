@@ -530430,6 +530430,1842 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "RB-lamotte-de-lussiere-fort-niaga",
+    "nom": "Fort Niagara : Lamotte De Lussière",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1678.0,
+    "fin": 1678.0,
+    "date_edtf": "1678",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lamotte De Lussière"
+    ],
+    "description": "Fort Niagara, 1678. Lamotte De Lussière sert La Salle à Niagara et chez les Sonnontouans et prépare un fort et une barque. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 7-9 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LAMOTTE+DE+LUSSIÈRE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "RB-tonty-henri-de-fort-niaga",
+    "nom": "Fort Niagara : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1678.0,
+    "fin": 1678.0,
+    "date_edtf": "1678",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Niagara, 1678. Henri de Tonty surveille la construction de la barque. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : Fort Crèvecoeur (Peoria, Illinois), Village des Taensas (Louisiane), fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 8-9, 69-70, 117-124, 183-188, 206, 272-273, 328, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "RB-tonty-henri-de-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Henri de Tonty commande le poste des Illinois, est blessé contre les Iroquois et quitte le pays. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Village des Taensas (Louisiane), fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 8-9, 69-70, 117-124, 183-188, 206, 272-273, 328, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.25,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": "RB-tonty-henri-de-village-de",
+    "nom": "Village des Taensas (Louisiane) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Village des Taensas (Louisiane), 1682. Henri de Tonty reçoit la paix des Taensas. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Fort Crèvecoeur (Peoria, Illinois), fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 8-9, 69-70, 117-124, 183-188, 206, 272-273, 328, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RB-tonty-henri-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1683.0,
+    "fin": 1684.999,
+    "date_edtf": "1683/1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1683-1684. Henri de Tonty commande le fort Saint-Louis. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Fort Crèvecoeur (Peoria, Illinois), Village des Taensas (Louisiane).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 8-9, 69-70, 117-124, 183-188, 206, 272-273, 328, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "RB-la-salle-robert-cavelier-de-fort-niaga",
+    "nom": "Fort Niagara : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Fort Niagara, 1679. Robert Cavelier de la Salle écrit de Niagara sur la valeur du poste. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : Fort Crèvecoeur (Peoria, Illinois), portage de Chicago (lac Mud, rivière Desplaines), village kappa (quapaw) de l'Arkansas, embouchure du Mississippi, baie de Matagorda (Espiritu Santo, Texas).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 10-76, 149-191, 204-211, 288-290, 312-314, 356-363, 492-541 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "RB-la-salle-robert-cavelier-de-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Robert Cavelier de la Salle négocie avec les Illinois et bâtit un fort à Pimiteoui. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, portage de Chicago (lac Mud, rivière Desplaines), village kappa (quapaw) de l'Arkansas, embouchure du Mississippi, baie de Matagorda (Espiritu Santo, Texas).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 10-76, 149-191, 204-211, 288-290, 312-314, 356-363, 492-541 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.69,
+     41.82
+    ]
+   },
+   "properties": {
+    "id": "RB-la-salle-robert-cavelier-de-portage-de",
+    "nom": "Portage de Chicago (lac Mud, rivière Desplaines) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Portage de Chicago (lac Mud, rivière Desplaines), 1682. Robert Cavelier de la Salle hiverne au portage de Checagou. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Fort Crèvecoeur (Peoria, Illinois), village kappa (quapaw) de l'Arkansas, embouchure du Mississippi, baie de Matagorda (Espiritu Santo, Texas).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 10-76, 149-191, 204-211, 288-290, 312-314, 356-363, 492-541 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.12,
+     33.98
+    ]
+   },
+   "properties": {
+    "id": "RB-la-salle-robert-cavelier-de-kappa-arka",
+    "nom": "Village kappa (quapaw) de l'Arkansas : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Village kappa (quapaw) de l'Arkansas, 1682. Robert Cavelier de la Salle érige une colonne et prend possession chez les Akansas. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Fort Crèvecoeur (Peoria, Illinois), portage de Chicago (lac Mud, rivière Desplaines), embouchure du Mississippi, baie de Matagorda (Espiritu Santo, Texas).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 10-76, 149-191, 204-211, 288-290, 312-314, 356-363, 492-541 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RB-la-salle-robert-cavelier-de-mississipp",
+    "nom": "Embouchure du Mississippi : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Robert Cavelier de la Salle proclame la prise de possession de la Louisiane le 9 avril. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Fort Crèvecoeur (Peoria, Illinois), portage de Chicago (lac Mud, rivière Desplaines), village kappa (quapaw) de l'Arkansas, baie de Matagorda (Espiritu Santo, Texas).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 10-76, 149-191, 204-211, 288-290, 312-314, 356-363, 492-541 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": "RB-la-salle-robert-cavelier-de-baie-de-ma",
+    "nom": "Baie de Matagorda (Espiritu Santo, Texas) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Baie de Matagorda (Espiritu Santo, Texas), 1685. Robert Cavelier de la Salle fait sonder l'entrée de la rivière Colbert et y fait entrer ses navires. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Niagara, Fort Crèvecoeur (Peoria, Illinois), portage de Chicago (lac Mud, rivière Desplaines), village kappa (quapaw) de l'Arkansas, embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 10-76, 149-191, 204-211, 288-290, 312-314, 356-363, 492-541 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RB-la-forest-francois-daupin-de-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : François Daupin de la Forest",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Daupin de la Forest"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1679. François Daupin de la Forest reçoit l'île de Belle-Isle près du fort. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : Michillimakinac, fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 20-22, 118, 127, 146, 193, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+FOREST",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RB-la-forest-francois-daupin-de-michilimac",
+    "nom": "Michillimakinac : François Daupin de la Forest",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Daupin de la Forest"
+    ],
+    "description": "Michillimakinac, 1680. François Daupin de la Forest attend les renforts puis rebrousse chemin. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Frontenac (Cataracoui), fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 20-22, 118, 127, 146, 193, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+FOREST",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RB-la-forest-francois-daupin-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : François Daupin de la Forest",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Daupin de la Forest"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1684. François Daupin de la Forest doit rassembler des hommes au fort Saint-Louis. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Frontenac (Cataracoui), Michillimakinac.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 20-22, 118, 127, 146, 193, 371 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+FOREST",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     41.68
+    ]
+   },
+   "properties": {
+    "id": "RB-allouez-claude-jean-pays-des-m",
+    "nom": "Pays des Miamis (rivière Saint-Joseph) : Claude-Jean Allouez",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Claude-Jean Allouez"
+    ],
+    "description": "Pays des Miamis (rivière Saint-Joseph), 1680. Claude-Jean Allouez se retire chez les Miamis et contrarie La Salle. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 34, 99, 101, 119, 178, 219, 345 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=ALLOUEZ",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RB-allouez-claude-jean-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Claude-Jean Allouez",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Claude-Jean Allouez"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1684. Claude-Jean Allouez accompagne La Durantaye au secours des Français. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : pays des Miamis (rivière Saint-Joseph).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 34, 99, 101, 119, 178, 219, 345 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=ALLOUEZ",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RB-porteurs-du-proces-verbal-de-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Les Porteurs du Procès-Verbal des Déserteurs",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Porteurs du Procès-Verbal des Déserteurs"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1680. Les Porteurs du Procès-Verbal des Déserteurs sont Jacques Messier, Nicolas Laurent dit La Chapelle et Nicolas Crevel, envoyés par Tonty. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 69, 109, 117 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=PORTEURS+DU+PROCÈS+VERBAL+DES+DÉSERTEURS",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RB-ako-michel-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Michel Ako",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel Ako"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1679. Michel Ako écrit des Illinois que ses camarades traitent peaux de bœufs et cuivre. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 76 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=AKO",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RB-raffeix-pere-sonnontoua",
+    "nom": "Sonnontouan, villages tsonnontouans (Seneca, New York) : Père Raffeix",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "religion",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Raffeix"
+    ],
+    "description": "Sonnontouan, villages tsonnontouans (Seneca, New York), 1679. Père Raffeix rompt la négociation de La Salle avec les Miamis à Ganagaro. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 99-100, 216 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=RAFFEIX",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RB-garnier-pere-sonnontoua",
+    "nom": "Sonnontouan, villages tsonnontouans (Seneca, New York) : Père Garnier",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "religion",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Garnier"
+    ],
+    "description": "Sonnontouan, villages tsonnontouans (Seneca, New York), 1679. Père Garnier dissuade les notables de Ganochiaragon d'agir devant La Salle. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 215 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=GARNIER",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "RB-deserteurs-de-crevecur-en-16-fort-niaga",
+    "nom": "Fort Niagara : Les Déserteurs de Crèvecœur En 1680",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Déserteurs de Crèvecœur En 1680"
+    ],
+    "description": "Fort Niagara, 1680. Les Déserteurs de Crèvecœur En 1680 sont les charpentiers Moyse Hillaret et Noël Le Blanc, Jacques Richon, le forgeron Jean Le Meilleur dit La Forge, Pierre Pouppart et Turcot, qui pillent un magasin près de Niagara. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 104-109, 126 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=DÉSERTEURS+DE+CRÈVEC+UR+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RB-roussel-dit-la-rousseliere-j-michilimac",
+    "nom": "Michillimakinac : Jean Roussel dit la Rousselière",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Roussel dit la Rousselière"
+    ],
+    "description": "Michillimakinac, 1680. Jean Roussel dit la Rousselière emporte des pelleteries prises à Missilimakinac. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 105 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=ROUSSEL+DIT+LA+ROUSSELIÈRE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RB-gabriel-de-la-ribourde-pere-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Père Gabriel de la Ribourde",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "religion",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Gabriel de la Ribourde"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1680. Père Gabriel de la Ribourde est tué par les Kikapous sur la rivière Téakiki. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 124-125 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=GABRIEL+DE+LA+RIBOURDE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RB-membre-zenobe-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Zénobe Membré",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Zénobe Membré"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1680. Zénobe Membré secourt Tonty blessé. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : village kappa (quapaw) de l'Arkansas, embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 119-123, 183, 191, 206-212, 290 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=MEMBRÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.12,
+     33.98
+    ]
+   },
+   "properties": {
+    "id": "RB-membre-zenobe-kappa-arka",
+    "nom": "Village kappa (quapaw) de l'Arkansas : Zénobe Membré",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Zénobe Membré"
+    ],
+    "description": "Village kappa (quapaw) de l'Arkansas, 1682. Zénobe Membré chante et prononce la cérémonie de prise de possession. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 119-123, 183, 191, 206-212, 290 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=MEMBRÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RB-membre-zenobe-mississipp",
+    "nom": "Embouchure du Mississippi : Zénobe Membré",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Zénobe Membré"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Zénobe Membré rédige la relation du voyage. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), village kappa (quapaw) de l'Arkansas.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 119-123, 183, 191, 206-212, 290 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=MEMBRÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "RB-autray-d-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : d' Autray",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "d' Autray"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. d' Autray conduit des secours aux Illinois et garde les marchandises sur la rivière Divine. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 117, 137 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=AUTRAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RB-hommes-de-la-salle-en-1680-l-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Les Hommes de la Salle En 1680",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Hommes de la Salle En 1680"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1680. Les Hommes de la Salle En 1680 sont Nicolas Doyon, Antoine Brassard et Jean Michel, qui arrêtent les déserteurs, et Jean Michaut et Jacques La Métairie, envoyés avertir Tonty. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 104-108 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=HOMMES+DE+LA+SALLE+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RB-plet-francois-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : François Plet",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Plet"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1680. François Plet est marchand de Paris et obtient d'y bâtir une barque et d'y traiter. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 110-115, 193 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=PLET",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.12,
+     33.98
+    ]
+   },
+   "properties": {
+    "id": "RB-la-metairie-jacques-de-kappa-arka",
+    "nom": "Village kappa (quapaw) de l'Arkansas : Jacques de la Métairie",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques de la Métairie"
+    ],
+    "description": "Village kappa (quapaw) de l'Arkansas, 1682. Jacques de la Métairie est notaire et dresse les actes de prise de possession. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 181, 186 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+MÉTAIRIE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RB-la-metairie-jacques-de-mississipp",
+    "nom": "Embouchure du Mississippi : Jacques de la Métairie",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques de la Métairie"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Jacques de la Métairie dresse le procès-verbal du 9 avril. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : village kappa (quapaw) de l'Arkansas.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 181, 186 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+MÉTAIRIE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "RB-barbie-gabriel-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Gabriel Barbié",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Barbié"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1682. Gabriel Barbié rencontre cinq Chicachas en cherchant un Français égaré. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 188 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=BARBIÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "RB-gilles-frere-green-bay",
+    "nom": "La Baie (Green Bay) : Frère Gilles",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "religion",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frère Gilles"
+    ],
+    "description": "La Baie (Green Bay), 1680. Frère Gilles est orfèvre et fait un ostensoir d'argent. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 178 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=GILLES",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "RB-du-luth-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Du Luth",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Du Luth"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Du Luth passe chez les Nadouessioux et descend le Mississippi. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : Michillimakinac.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 203, 252-253, 332 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=DU+LUTH",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RB-du-luth-michilimac",
+    "nom": "Michillimakinac : Du Luth",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Du Luth"
+    ],
+    "description": "Michillimakinac, 1683. Du Luth fortifie le poste des Outaouais. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : lac Mille Lacs, village nadouessioux d'Izatys (Minnesota).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 203, 252-253, 332 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=DU+LUTH",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "RB-la-riviere-green-bay",
+    "nom": "La Baie (Green Bay) : La Rivière",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Rivière"
+    ],
+    "description": "La Baie (Green Bay), 1680. La Rivière déserte La Salle pour suivre Du Luth. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 203 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+RIVIÈRE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "RB-hennepin-louis-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Louis Hennepin",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Hennepin"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Louis Hennepin remonte le Mississippi avec Accault et Picard et est retenu par les Nadouessioux. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 245-259 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=HENNEPIN",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "RB-accault-michel-saint-anth",
+    "nom": "Chutes Saint-Antoine : Michel Accault",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Accault"
+    ],
+    "description": "Chutes Saint-Antoine, 1680. Michel Accault conduit l'expédition sur le Mississippi et est pris près du saut Saint-Antoine. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 245-258 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=ACCAULT",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RB-hunault-andre-sault-sain",
+    "nom": "Sault-Sainte-Marie : André Hunault",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "André Hunault"
+    ],
+    "description": "Sault-Sainte-Marie, 1680. André Hunault dépose huit ballots de castor chez les jésuites sur le conseil du frère Le Bohème. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 226 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=HUNAULT",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "RB-faffart-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Faffart",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Faffart"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Faffart est interprète et soldat, envoyé par terre chez les Nadouesioux. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 252 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=FAFFART",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RB-cauchois-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Cauchois",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Cauchois"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1683. Cauchois va chercher munitions et argent à Montréal. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 322 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=CAUCHOIS",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "RB-baugy-chevalier-de-green-bay",
+    "nom": "La Baie (Green Bay) : Chevalier de Baugy",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chevalier de Baugy"
+    ],
+    "description": "La Baie (Green Bay), 1683. Chevalier de Baugy calme les Poutouatamis. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 333, 344-345 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=BAUGY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RB-baugy-chevalier-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Chevalier de Baugy",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chevalier de Baugy"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1684. Chevalier de Baugy défend le fort contre les Iroquois. D'après Margry, Découvertes et établissements, t. II. Autres lieux de l'entrée : La Baie (Green Bay).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 333, 344-345 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=BAUGY",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RB-la-durantaye-chevalier-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Chevalier de la Durantaye",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chevalier de la Durantaye"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1684. Chevalier de la Durantaye part secourir Baugy aux Illinois. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 345 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LA+DURANTAYE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "RB-nouvel-pere-green-bay",
+    "nom": "La Baie (Green Bay) : Père Nouvel",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "religion",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Nouvel"
+    ],
+    "description": "La Baie (Green Bay), 1684. Père Nouvel écrit de la mission Saint-François-Xavier. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 344 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=NOUVEL",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.69,
+     41.82
+    ]
+   },
+   "properties": {
+    "id": "RB-traiteurs-pilles-par-les-iro-portage-de",
+    "nom": "Portage de Chicago (lac Mud, rivière Desplaines) : Les Traiteurs Pillés Par Les Iroquois En 1684",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Les Traiteurs Pillés Par Les Iroquois En 1684"
+    ],
+    "description": "Portage de Chicago (lac Mud, rivière Desplaines), 1684. Les Traiteurs Pillés Par Les Iroquois En 1684 sont René Le Gardeur de Beauvais, Eustache Provost, Jean Des Rosiers et François Lucas. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 338-343 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=TRAITEURS+PILLÉS+PAR+LES+IROQUOIS+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.0,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RB-le-moyne-onnontague",
+    "nom": "Onnontagué, village onontagué (Onondaga, New York) : Le Moyne",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Moyne"
+    ],
+    "description": "Onnontagué, village onontagué (Onondaga, New York), 1684. Le Moyne est capitaine de Montréal et négocie avec les Iroquois. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 332-334 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=LE+MOYNE",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RB-bartel-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Bartel",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bartel"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1682. Bartel est sergent et prend possession du fort. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 349 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=BARTEL",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     28.81
+    ]
+   },
+   "properties": {
+    "id": "RB-missionnaires-de-la-louisian-fort-saint",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas) : Les Missionnaires de la Louisiane En 1685",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "poste",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Les Missionnaires de la Louisiane En 1685"
+    ],
+    "description": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas), 1685. Les Missionnaires de la Louisiane En 1685 sont le préfet Hyacinthe Lefebvre, Dionysius Morguet, Jean Cavelier et François Chefdeville. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 482 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=MISSIONNAIRES+DE+LA+LOUISIANE+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": "RB-cavelier-jean-baie-de-ma",
+    "nom": "Baie de Matagorda (Espiritu Santo, Texas) : Jean Cavelier",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Cavelier"
+    ],
+    "description": "Baie de Matagorda (Espiritu Santo, Texas), 1685. Jean Cavelier tient le journal de la traversée et décrit la côte. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 501-508 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=CAVELIER",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": "RB-aigron-baie-de-ma",
+    "nom": "Baie de Matagorda (Espiritu Santo, Texas) : Aigron",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Aigron"
+    ],
+    "description": "Baie de Matagorda (Espiritu Santo, Texas), 1685. Aigron est capitaine de l'Aimable et fait échouer la flûte à l'entrée de la rivière. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 497, 556-558 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=AIGRON",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": "RB-beaujeu-baie-de-ma",
+    "nom": "Baie de Matagorda (Espiritu Santo, Texas) : Beaujeu",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beaujeu"
+    ],
+    "description": "Baie de Matagorda (Espiritu Santo, Texas), 1685. Beaujeu quitte La Salle et gagne Cuba. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 409, 485-491, 540-546, 580 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=BEAUJEU",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": "RB-duhamel-baie-de-ma",
+    "nom": "Baie de Matagorda (Espiritu Santo, Texas) : Duhamel",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duhamel"
+    ],
+    "description": "Baie de Matagorda (Espiritu Santo, Texas), 1685. Duhamel porte des messages et assiste au sauvetage de l'Aimable. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 557, 567-568 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=DUHAMEL",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": "RB-sondage-de-la-riviere-colber-baie-de-ma",
+    "nom": "Baie de Matagorda (Espiritu Santo, Texas) : Le Sondage de la Rivière Colbert En 1685",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. II",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Sondage de la Rivière Colbert En 1685"
+    ],
+    "description": "Baie de Matagorda (Espiritu Santo, Texas), 1685. Le Sondage de la Rivière Colbert En 1685 est certifié par l'écrivain Duval et les pilotes Gabaret, Guitton, Mengaud et Richaud. D'après Margry, Découvertes et établissements, t. II.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. II : Lettres de Cavelier de La Salle (1678-1685), Paris, Margry II, p. 514, 539-540 ; texte intégral : archive.org, dcouverteett02marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett02marg?q=SONDAGE+DE+LA+RIVIÈRE+COLBERT+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]
