@@ -1288,6 +1288,13 @@ G.update({
     'Avoyelles': (-92.05, 31.12, 'h', "Avoyelles (Louisiane)"),
     'Île Timbalier': (-90.43, 29.07, 'h', "Île Timbalier (Louisiane)"),
     'Fort Jackson (Louisiane)': (-89.46, 29.36, 'h', "Fort Jackson (Louisiane)"),
+    'Grand Écore': (-93.06, 31.81, 'h', "Grand Écore (Louisiane)"),
+    'Montgomery (Louisiane)': (-92.89, 31.67, 'h', "Montgomery (Louisiane)"),
+    'Rivière aux Cannes': (-93.0, 31.6, 'h', "Rivière aux Cannes (Cane River, Louisiane)"),
+    'Fort Jesup': (-93.4, 31.61, 'h', "Fort Jesup (Louisiane)"),
+    'Île aux Cornes': (-88.66, 30.24, 'h', "Île aux Cornes (Horn Island)"),
+    'Pointe Saint-Antoine': (-90.03, 29.94, 'h', "Pointe Saint-Antoine (Algiers)"),
+    'Petit Écore': (-92.95, 31.5, 'h', "Petit Écore (Louisiane)"),
 })
 
 
