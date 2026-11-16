@@ -315,6 +315,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `colonialmobilehi01hami` | 278 |
 | `mississippicompr01rowl` | 87 |
 | `mississippicompr02rowl` | 88 |
+| `SketchOfTheCatholicChurchInTheCity` | 40 |
+| `oldbiloxifirstse00rowl` | 4 |
+| `cu31924073559761` | 34 |
 
 
 ## Un point par lieu et adresses précises

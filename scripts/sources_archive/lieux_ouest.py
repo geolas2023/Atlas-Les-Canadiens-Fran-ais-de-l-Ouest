@@ -1513,6 +1513,12 @@ G.update({
     'Balise (Mississippi)': (-89.18, 29.1, 'h', 'La Balise, embouchure du Mississippi (Louisiane)'),
     'Oxford (Mississippi)': (-89.52, 34.366, 'c', 'Oxford (Mississippi)'),
     'Jackson (Mississippi)': (-90.18, 32.3, 'c', 'Jackson (Mississippi)'),
+    'Yockanookany (Mississippi)': (-89.6, 32.85, 'h', 'Rivière Yockanookany (Mississippi)'),
+    'Rivière Yalobusha (Mississippi)': (-89.9, 33.8, 'h', 'Rivière Yalobusha (Mississippi)'),
+    'Agence chacta (Starkville)': (-88.85, 33.35, 'h', 'Agence chacta, au sud de Starkville (Mississippi)'),
+    'Neshoba (Mississippi)': (-89.1, 32.75, 'h', 'Comté de Neshoba (Mississippi)'),
+    'Nation chacta (Oklahoma)': (-95.6, 34.4, 'h', 'Nation chacta, Territoire indien (Oklahoma)'),
+    'Pontotoc (Mississippi)': (-89.0, 34.25, 'c', 'Pontotoc (Mississippi)'),
 })
 
 
