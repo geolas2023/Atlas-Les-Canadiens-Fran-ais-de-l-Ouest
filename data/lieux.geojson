@@ -286718,6 +286718,584 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "M3-latresse-jean-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Jean Latresse",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Latresse"
+    ],
+    "description": "Fort McKenzie (Montana), 1832. Jean Latresse porte à pied jusqu'au fort Union, à quelque 150 milles, la nouvelle du naufrage du bateau à quille. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 205 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=LATRESSE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     48.06
+    ]
+   },
+   "properties": {
+    "id": "M3-rondin-x-milk-river",
+    "nom": "Rivière au Lait (Milk River) : Rondin",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rondin"
+    ],
+    "description": "Rivière au Lait (Milk River), 1832. Rondin se trouve à bord du bateau à quille qui sombre et périt sans doute. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 205 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=RONDIN",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "M3-benoist-gabrielle-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Gabrielle Benoist",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabrielle Benoist"
+    ],
+    "description": "Fort McKenzie (Montana), 1835. Gabrielle Benoist est un Canadien français qui perd la main droite le 4 juillet dans l'explosion d'un canon et porte ensuite un crochet de fer. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 217-218 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=BENOIST",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "M3-dechamp-famille-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Famille Dechamp",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Famille Dechamp"
+    ],
+    "description": "Fort McKenzie (Montana), 1836. Famille Dechamp est une famille métisse qui tue Jack Ram dans une rixe ; les frères et la mère périssent au siège, les filles s'échappent. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 220-221 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=DECHAMP",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "M3-brazeau-x-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Brazeau",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Brazeau"
+    ],
+    "description": "Fort McKenzie (Montana), 1836. Brazeau est un Métis qui entre sans être vu et abat un des frères Dechamp pendant le siège. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 220 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=BRAZEAU",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "M3-dauphin-antoine-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Antoine Dauphin",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Dauphin"
+    ],
+    "description": "Fort McKenzie (Montana), 1837. Antoine Dauphin est un Canadien français qui meurt de la variole ; les rapides Dauphin portent son nom. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 224 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=DAUPHIN",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     47.85
+    ]
+   },
+   "properties": {
+    "id": "M3-mercereau-x-fort-mcken",
+    "nom": "Fort McKenzie (Montana) : Mercereau",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Mercereau"
+    ],
+    "description": "Fort McKenzie (Montana), 1840. Mercereau est un Canadien français qui meurt et est enterré dans l'enceinte du fort. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 231 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=MERCEREAU",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.5,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "M3-sejunain-x-fort-lewis",
+    "nom": "Fort Lewis (haut Missouri, Montana) : Sejunain",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1845.0,
+    "fin": 1846.999,
+    "date_edtf": "1845/1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sejunain"
+    ],
+    "description": "Fort Lewis (haut Missouri, Montana), 1845-1846. Sejunain est soupçonné d'avoir incendié le bateau à quille et devient un renégat chez les Gens-du-Sang. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 251 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=SEJUNAIN",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.5,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "M3-larpenteur-charles-fort-lewis",
+    "nom": "Fort Lewis (haut Missouri, Montana) : Charles Larpenteur",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Larpenteur"
+    ],
+    "description": "Fort Lewis (haut Missouri, Montana), 1846. Charles Larpenteur est un Parisien renvoyé vers l'amont avec le ravitaillement annuel dans un grand mackinaw. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 252-254 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=LARPENTEUR",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.85,
+     39.77
+    ]
+   },
+   "properties": {
+    "id": "M3-picotte-x-saint-jose",
+    "nom": "Saint-Joseph (Missouri) : Picotte",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Picotte"
+    ],
+    "description": "Saint-Joseph (Missouri), 1851. Picotte accompagne Culbertson en aval à la rencontre du vapeur pendant le choléra. D'après Contributions Montana III (1900). Autres lieux de l'entrée : fort La Barge (près de Fort Benton).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 265-266, 285 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=PICOTTE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.66,
+     47.82
+    ]
+   },
+   "properties": {
+    "id": "M3-picotte-x-fort-la-ba",
+    "nom": "Fort La Barge (près de Fort Benton) : Picotte",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Picotte"
+    ],
+    "description": "Fort La Barge (près de Fort Benton), 1863. Picotte est congédié par Lemon pour incapacité et ivrognerie. D'après Contributions Montana III (1900). Autres lieux de l'entrée : Saint-Joseph (Missouri).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 265-266, 285 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=PICOTTE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     48.06
+    ]
+   },
+   "properties": {
+    "id": "M3-thoquette-pierre-milk-river",
+    "nom": "Rivière au Lait (Milk River) : Pierre Thoquette",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Thoquette"
+    ],
+    "description": "Rivière au Lait (Milk River), 1854. Pierre Thoquette est un Créole français qui persuade les Gros-Ventres que les présents sont empoisonnés. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 271 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=THOQUETTE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.667,
+     47.818
+    ]
+   },
+   "properties": {
+    "id": "M3-champaigne-michael-fort-bento",
+    "nom": "Fort Benton : Michael Champaigne",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Champaigne"
+    ],
+    "description": "Fort Benton, 1854. Michael Champaigne pilote les mackinaws de Dawson qui montent les marchandises du traité. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 258, 272-273 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=CHAMPAIGNE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.63,
+     47.73
+    ]
+   },
+   "properties": {
+    "id": "M3-bird-james-fort-chard",
+    "nom": "Fort Chardon (embouchure de la Judith) : James Bird",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bird"
+    ],
+    "description": "Fort Chardon (embouchure de la Judith), 1855. James Bird est un Métis engagé comme interprète du traité de la Judith à la place de Culbertson. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 275 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=BIRD",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.4,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "M3-montour-george-lac-pend-o",
+    "nom": "Lac Pend Oreille (Idaho) : George Montour",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Montour"
+    ],
+    "description": "Lac Pend Oreille (Idaho), 1855. George Montour fait la traite au bas du lac Pend Oreille et renseigne les voyageurs sur les nations voisines. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 114 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=MONTOUR",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.667,
+     47.818
+    ]
+   },
+   "properties": {
+    "id": "M3-larue-x-fort-bento",
+    "nom": "Fort Benton : Larue",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "poste",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Larue"
+    ],
+    "description": "Fort Benton, 1862. Larue est un faux prêtre qui envoie du sable aurifère qui lance des prospecteurs dans une vaine recherche vers le nord. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 283 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=LARUE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.6,
+     46.55
+    ]
+   },
+   "properties": {
+    "id": "M3-blaise-sterney-little-bla",
+    "nom": "Rivière Little Blackfoot (Montana) : Sterney Blaise",
+    "corpus": "archive.org · Contributions Montana III (1900)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sterney Blaise"
+    ],
+    "description": "Rivière Little Blackfoot (Montana), 1863. Sterney Blaise troque des chevaux avec le groupe d'Edgar au camp indien de la Little Blackfoot. D'après Contributions Montana III (1900).",
+    "sources": "Contributions to the Historical Society of Montana, vol. 3 (1900), p. 125 ; texte intégral : archive.org, contributionstohvol3hist1900rich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Contributions Montana III (1900)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/contributionstohvol3hist1900rich?q=BLAISE",
+      "texte": "Lire Contributions Montana III (1900) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

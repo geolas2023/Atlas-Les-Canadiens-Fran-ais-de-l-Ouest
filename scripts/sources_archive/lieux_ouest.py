@@ -793,7 +793,11 @@ G.update({
     'Agence des Corbeaux (Mission Creek)': (-110.4, 45.67, 'a', "agence des Corbeaux (Mission Creek, Montana)"),
     'Embouchure de la Rosebud': (-106.45, 46.27, 'a', "embouchure de la Rosebud (Yellowstone)"),
     'Embouchure de la Musselshell': (-107.95, 47.5, 'a', "embouchure de la Musselshell (Missouri)"),
+    'Fort Lewis (Montana)': (-110.5, 47.9, 'a', "fort Lewis (haut Missouri, Montana)"),
+    'Little Blackfoot': (-112.6, 46.55, 'h', "rivière Little Blackfoot (Montana)"),
+    'Saint-Joseph (Missouri)': (-94.85, 39.77, 'c', "Saint-Joseph (Missouri)"),
 })
+
 
 
 

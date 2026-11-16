@@ -171,6 +171,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `IndianAndWhiteInTheNW` | 35 |
 | `contributionstohvol1hist1876rich` | 22 |
 | `contributionstohvol2hist1896rich` | 32 |
+| `contributionstohvol3hist1900rich` | 17 |
 
 
 ## Un point par lieu et adresses précises
