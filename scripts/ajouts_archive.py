@@ -163,6 +163,9 @@ LIVRES = [
     ('montana_contributions_v1_1876.txt', 'M1', {'court': 'Contributions Montana I (1876)', 'ref': "Contributions to the Historical Society of Montana, vol. 1 (1876)"}, 'contributionstohvol1hist1876rich', lambda nom, ref: ref),
     ('montana_contributions_v2_1896.txt', 'M2', {'court': 'Contributions Montana II (1896)', 'ref': "Contributions to the Historical Society of Montana, vol. 2 (1896)"}, 'contributionstohvol2hist1896rich', lambda nom, ref: ref),
     ('montana_contributions_v3_1900.txt', 'M3', {'court': 'Contributions Montana III (1900)', 'ref': "Contributions to the Historical Society of Montana, vol. 3 (1900)"}, 'contributionstohvol3hist1900rich', lambda nom, ref: ref),
+    ('montana_contributions_v7_1910.txt', 'M7', {'court': 'Contributions Montana VII (1910)', 'ref': "Contributions to the Historical Society of Montana, vol. 7 (1910)"}, 'contributionstohvol7hist1910rich', lambda nom, ref: ref),
+    ('montana_contributions_v8_1917.txt', 'M8', {'court': 'Contributions Montana VIII (1917)', 'ref': "Contributions to the Historical Society of Montana, vol. 8 (1917)"}, 'contributionstoh08mont', lambda nom, ref: ref),
+    ('montana_contributions_v9_1923.txt', 'M9', {'court': 'Contributions Montana IX (1923)', 'ref': "Contributions to the Historical Society of Montana, vol. 9 (1923)"}, 'contributionstohvol9hist1923rich', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
