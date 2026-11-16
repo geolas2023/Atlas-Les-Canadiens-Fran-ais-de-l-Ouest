@@ -228,6 +228,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `memorialbiograph00lew` | 38 |
 | `earlysettlersind00sowe` | 28 |
 | `journeythroughte01olms` | 8 |
+| `ahistorytexasan01winkgoog`, `historyoftexaste04john` | 50 |
 
 
 ## Un point par lieu et adresses précises
