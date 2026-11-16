@@ -258,6 +258,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cihm_36229` | 121 |
 | `cihm_36231` | 88 |
 | `historicalcollec00fren_1` | 80 |
+| `creolefamiliesof00king` | 103 |
 
 
 ## Un point par lieu et adresses précises
