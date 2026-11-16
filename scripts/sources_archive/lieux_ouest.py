@@ -1583,6 +1583,13 @@ G.update({
     "Frenchman's Bayou (Arkansas)": (-90.15, 35.53, 'h', "Frenchman's Bayou, comté de Mississippi (Arkansas)"),
     'Osceola (Arkansas)': (-89.97, 35.7, 'c', 'Osceola, comté de Mississippi (Arkansas)'),
     'Batesville (Arkansas)': (-91.64, 35.77, 'c', "Batesville, comté d'Independence (Arkansas)"),
+    'Sulphur Springs (Arkansas)': (-94.46, 36.48, 'c', 'Sulphur Springs, comté de Benton (Arkansas)'),
+    'De Witt (Arkansas)': (-91.34, 34.29, 'c', "De Witt, comté d'Arkansas (Arkansas)"),
+    'Dumas (Arkansas)': (-91.49, 33.89, 'c', 'Dumas, comté de Desha (Arkansas)'),
+    'Embouchure de la Cache (Arkansas)': (-91.31, 34.69, 'h', 'Embouchure de la rivière Cache, sur la rivière Blanche (Clarendon, Arkansas)'),
+    'Prairie des Chactas (Russellville)': (-93.13, 35.28, 'h', "Prairie des Chactas, rive nord de l'Arkansas près de Russellville"),
+    'Redfield (Arkansas)': (-92.18, 34.44, 'h', 'Redfield, canton de Richland, comté de Jefferson (Arkansas)'),
+    'Embouchure du Saint-François (Arkansas)': (-90.6, 34.6, 'h', 'Embouchure de la rivière Saint-François sur le Mississippi (Arkansas)'),
 })
 
 
