@@ -900,6 +900,11 @@ G.update({
     'Vernal': (-109.53, 40.46, 'c', "Vernal (Utah)"),
     'Brigham City': (-112.02, 41.51, 'c', "Brigham City (Utah)"),
     'St. George (Utah)': (-113.58, 37.10, 'c', "St. George (Utah)"),
+    "Guittard's Station": (-96.42, 39.86, 'a', "Guittard's Station (Kansas)"),
+    'Horse Creek Station': (-104.05, 41.9, 'a', "station de Horse Creek (Nebraska-Wyoming)"),
+    'Little Muddy (Wyoming)': (-110.6, 41.45, 'a', "station de Little Muddy Creek (Wyoming)"),
+    'Spring Valley (Nevada)': (-114.48, 39.45, 'a', "station de Spring Valley (Nevada, alors territoire d'Utah)"),
+    'Camp Floyd': (-112.1, 40.26, 'c', "camp Floyd (Fairfield, Utah)"),
 })
 
 

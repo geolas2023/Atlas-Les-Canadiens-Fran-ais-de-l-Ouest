@@ -196,6 +196,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofsaltlak00tull` | 1 |
 | `catholicchurchin0000harr_k0t3` | 9 |
 | `pioneersprominen00esshrich`, `pioneersprominen02essh` | 36 |
+| `cityofsaintsacro00burtuoft` | 15 |
+| `historyofutahcom04whit` | 3 |
+| `tullidgeshistori02tull` | 3 |
 
 
 ## Un point par lieu et adresses précises

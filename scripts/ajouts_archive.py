@@ -187,6 +187,9 @@ LIVRES = [
     ('utah_tullidge_1886.txt', 'UT', {'court': 'Tullidge, History of Salt Lake City (1886)', 'ref': "E. W. Tullidge, History of Salt Lake City, Salt Lake City, Star Printing Company, 1886"}, 'historyofsaltlak00tull', lambda nom, ref: ref),
     ('utah_harris_1909.txt', 'UC', {'court': 'Harris, The Catholic Church in Utah (1909)', 'ref': "W. R. Harris, The Catholic Church in Utah, Salt Lake City, Intermountain Catholic Press, 1909"}, 'catholicchurchin0000harr_k0t3', lambda nom, ref: ref),
     ('utah_esshom_1913.txt', 'UE', {'court': 'Esshom, Pioneers and Prominent Men of Utah (1913)', 'ref': "F. Esshom, Pioneers and Prominent Men of Utah, Salt Lake City, Utah Pioneers Book Publishing Company, 1913"}, lambda ref: 'pioneersprominen02essh' if ref.startswith('p. 1084') or ref.startswith('p. 1123') else 'pioneersprominen00esshrich', lambda nom, ref: ref),
+    ('utah_burton_1861.txt', 'UN', {'court': 'Burton, The City of the Saints (1861)', 'ref': "R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861"}, 'cityofsaintsacro00burtuoft', lambda nom, ref: ref),
+    ('utah_whitney_1904.txt', 'UV', {'court': 'Whitney, History of Utah, vol. 4 (1904)', 'ref': "O. F. Whitney, History of Utah, vol. 4 (biographies), Salt Lake City, George Q. Cannon & Sons, 1904"}, 'historyofutahcom04whit', lambda nom, ref: ref),
+    ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
