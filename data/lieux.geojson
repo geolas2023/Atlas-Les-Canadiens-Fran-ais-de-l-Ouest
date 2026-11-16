@@ -324220,6 +324220,176 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "XA-francais-habitants-san-antoni",
+    "nom": "San Antonio (Texas) : Habitants Français",
+    "corpus": "archive.org · Corner, San Antonio de Bexar (1890)",
+    "theme": "personnage",
+    "debut": 1809.0,
+    "fin": 1809.0,
+    "date_edtf": "1809~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Habitants Français"
+    ],
+    "description": "San Antonio (Texas), vers 1809. Habitants Français figurent parmi les quelque deux mille habitants de la ville. D'après Corner, San Antonio de Bexar (1890).",
+    "sources": "William Corner, San Antonio de Bexar. A guide and history, San Antonio, Bainbridge & Corner, 1890, p. 77-78 ; texte intégral : archive.org, sanantoniodebexa00corn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Corner, San Antonio de Bexar (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sanantoniodebexa00corn?q=FRANÇAIS",
+      "texte": "Lire Corner, San Antonio de Bexar (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "XA-francais-marchands-san-antoni",
+    "nom": "San Antonio (Texas) : Marchands Français",
+    "corpus": "archive.org · Corner, San Antonio de Bexar (1890)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marchands Français"
+    ],
+    "description": "San Antonio (Texas), 1824. Marchands Français traversent la ville avec une expédition de traite vers Santa Fe. D'après Corner, San Antonio de Bexar (1890).",
+    "sources": "William Corner, San Antonio de Bexar. A guide and history, San Antonio, Bainbridge & Corner, 1890, p. 81 ; texte intégral : archive.org, sanantoniodebexa00corn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Corner, San Antonio de Bexar (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sanantoniodebexa00corn?q=FRANÇAIS",
+      "texte": "Lire Corner, San Antonio de Bexar (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.88,
+     29.36
+    ]
+   },
+   "properties": {
+    "id": "XA-castro-castrovill",
+    "nom": "Castroville (Texas) : Castro",
+    "corpus": "archive.org · Corner, San Antonio de Bexar (1890)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Castro"
+    ],
+    "description": "Castroville (Texas), 1844. Castro conduit une colonie surtout française et alsacienne et achète une lieue de terre pour ses colons. D'après Corner, San Antonio de Bexar (1890).",
+    "sources": "William Corner, San Antonio de Bexar. A guide and history, San Antonio, Bainbridge & Corner, 1890, p. 112-115 ; texte intégral : archive.org, sanantoniodebexa00corn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Corner, San Antonio de Bexar (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sanantoniodebexa00corn?q=CASTRO",
+      "texte": "Lire Corner, San Antonio de Bexar (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.88,
+     29.36
+    ]
+   },
+   "properties": {
+    "id": "XA-francais-et-alsaciens-colons-castrovill",
+    "nom": "Castroville (Texas) : Colons de Castroville Français Et Alsaciens",
+    "corpus": "archive.org · Corner, San Antonio de Bexar (1890)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Colons de Castroville Français Et Alsaciens"
+    ],
+    "description": "Castroville (Texas), 1844. Colons de Castroville Français Et Alsaciens fondent Castroville le 3 septembre. D'après Corner, San Antonio de Bexar (1890).",
+    "sources": "William Corner, San Antonio de Bexar. A guide and history, San Antonio, Bainbridge & Corner, 1890, p. 115 ; texte intégral : archive.org, sanantoniodebexa00corn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Corner, San Antonio de Bexar (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sanantoniodebexa00corn?q=FRANÇAIS+ET+ALSACIENS",
+      "texte": "Lire Corner, San Antonio de Bexar (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "XA-housseau-professor-san-antoni",
+    "nom": "San Antonio (Texas) : Professor Housseau",
+    "corpus": "archive.org · Corner, San Antonio de Bexar (1890)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Professor Housseau"
+    ],
+    "description": "San Antonio (Texas), 1882. Professor Housseau installe sur Government Hill une station du gouvernement belge pour observer le passage de Vénus. D'après Corner, San Antonio de Bexar (1890).",
+    "sources": "William Corner, San Antonio de Bexar. A guide and history, San Antonio, Bainbridge & Corner, 1890, p. 30 ; texte intégral : archive.org, sanantoniodebexa00corn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Corner, San Antonio de Bexar (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sanantoniodebexa00corn?q=HOUSSEAU",
+      "texte": "Lire Corner, San Antonio de Bexar (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -111.2,
      35.4
     ]
