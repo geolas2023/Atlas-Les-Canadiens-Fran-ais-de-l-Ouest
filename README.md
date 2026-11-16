@@ -164,6 +164,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `driggs` | 13 |
 | `historyofidahoge01hawl` | 11 |
 | `OregonMissionsAndTravels` | 9 |
+| `historyidaho1884` | 23 |
+| `adventuresofcap00irvi` | 22 |
 
 
 ## Un point par lieu et adresses précises
