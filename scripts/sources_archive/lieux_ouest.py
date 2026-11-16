@@ -1094,6 +1094,7 @@ G.update({
     'Poste de Menard (Trinity)': (-97.55, 32.80, 'h', "poste de traite de Menard, McKinney et Williams (affluent de la Trinity, près du comté de Parker)"),
     'San Augustine': (-94.11, 31.53, 'c', "San Augustine (Texas)"),
     'Columbia (Texas)': (-95.65, 29.14, 'c', "Columbia (West Columbia, Texas)"),
+    'Basse Guadalupe': (-97.00, 28.85, 'a', "basse rivière Guadalupe (Texas)"),
 })
 
 
