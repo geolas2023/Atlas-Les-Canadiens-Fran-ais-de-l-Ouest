@@ -185,6 +185,7 @@ LIVRES = [
     ('utah_uhq_1929.txt', 'UQ', {'court': 'Utah Historical Quarterly (1929-1930)', 'ref': "Utah Historical Quarterly, vol. 2 et 3, 1929-1930"}, lambda ref: {'vol. 2, n° 4':'utah-historical-quarterly_1929-10_2_4','vol. 3, n° 1':'utah-historical-quarterly_1930-01_3_1','vol. 3, n° 2':'utah-historical-quarterly_1930-04_3_2','vol. 3, n° 3':'utah-historical-quarterly_1930-07_3_3'}[ref.split(', p.')[0]], lambda nom, ref: ref),
     ('utah_whitney_1892.txt', 'UW', {'court': 'Whitney, History of Utah, vol. 1 (1892)', 'ref': "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892"}, 'historyofutahcom01whit', lambda nom, ref: ref),
     ('utah_tullidge_1886.txt', 'UT', {'court': 'Tullidge, History of Salt Lake City (1886)', 'ref': "E. W. Tullidge, History of Salt Lake City, Salt Lake City, Star Printing Company, 1886"}, 'historyofsaltlak00tull', lambda nom, ref: ref),
+    ('utah_harris_1909.txt', 'UC', {'court': 'Harris, The Catholic Church in Utah (1909)', 'ref': "W. R. Harris, The Catholic Church in Utah, Salt Lake City, Intermountain Catholic Press, 1909"}, 'catholicchurchin0000harr_k0t3', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
