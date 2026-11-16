@@ -223,6 +223,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `reminiscencesoft00pari` | 46 |
 | `missionaryadvent00dome` | 27 |
 | `napoleonicexiles00reev` | 15 |
+| `athanasedemzi01mz`, `athanasedemzi02mzuoft` | 62 |
+| `pictorialhistory01thra` | 17 |
 
 
 ## Un point par lieu et adresses précises
