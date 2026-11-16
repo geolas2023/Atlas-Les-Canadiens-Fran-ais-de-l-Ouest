@@ -1234,6 +1234,10 @@ G.update({
     'Rocher Français (Little Rock)': (-92.27, 34.75, 'h', "Rocher Français (Little Rock, Arkansas)"),
     "Fort L'Huillier": (-94.03, 44.15, 'h', "Fort L'Huillier (rivière Bleue de Terre, Minnesota)"),
     'Charlesfort': (-80.68, 32.32, 'h', "Charlesfort (Port Royal, Caroline du Sud)"),
+    'Côte-Gelée': (-91.97, 30.17, 'h', "Côte-Gelée (paroisse Lafayette, Louisiane)"),
+    'Queue-Tortue': (-92.2, 30.26, 'h', "Bayou Queue de Tortue (Louisiane)"),
+    'Grande-Pointe (Saint-Martin)': (-91.8, 30.24, 'h', "Grande-Pointe (Grand Point, paroisse Saint-Martin)"),
+    'Anse-à-la-Butte': (-91.88, 30.27, 'h', "Anse-à-la-Butte (paroisse Saint-Martin)"),
 })
 
 
