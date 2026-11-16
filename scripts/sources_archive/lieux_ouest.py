@@ -1279,6 +1279,12 @@ G.update({
     'Phoenix (Louisiane)': (-89.94, 29.65, 'c', "Phoenix (Louisiane)"),
     'Rayville': (-91.75, 32.47, 'c', "Rayville (Louisiane)"),
     'Estherwood': (-92.46, 30.18, 'c', "Estherwood (Louisiane)"),
+    'Village des Houmas': (-90.95, 30.1, 'h', "Village des Houmas (Louisiane)"),
+    'Bayou Sara': (-91.39, 30.79, 'h', "Bayou Sara (Louisiane)"),
+    'Village des Taensas': (-91.25, 32.0, 'h', "Village des Taensas (Louisiane)"),
+    'Chaouachas': (-89.93, 29.83, 'h', "Chaouachas (Louisiane)"),
+    'Île Sainte-Rose': (-87.0, 30.33, 'h', "Île Sainte-Rose (Pensacola)"),
+    'Rivière aux Perles': (-89.6, 30.2, 'h', "Rivière aux Perles (Louisiane)"),
 })
 
 
