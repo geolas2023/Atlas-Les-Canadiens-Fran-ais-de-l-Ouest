@@ -1314,6 +1314,8 @@ G.update({
     'Île Amelia': (-81.46, 30.63, 'h', "Île Amelia (Floride)"),
     'Fausse-Pointe': (-91.75, 30.05, 'h', "Fausse-Pointe (Attakapas)"),
     'Montgomery (Alabama)': (-86.3, 32.38, 'h', "Montgomery (Alabama)"),
+    'Tallulah': (-91.19, 32.41, 'h', "Tallulah (Louisiane)"),
+    'Tampico': (-97.86, 22.25, 'h', "Tampico (Mexique)"),
 })
 
 
