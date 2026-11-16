@@ -174,6 +174,7 @@ LIVRES = [
     ('wyoming_bartlett_1918_v2.txt', 'W2', {'court': 'Bartlett, vol. 2 (1918)', 'ref': "I. S. Bartlett (dir.), History of Wyoming, vol. 2 (1918)"}, 'historyofwyoming02bart', lambda nom, ref: ref),
     ('wyoming_progressive_1903.txt', 'WP', {'court': 'Progressive Men of Wyoming (1903)', 'ref': "Progressive Men of the State of Wyoming (1903), Chicago, A. W. Bowen & Co., biographies du comté d'Uinta"}, lambda ref: 'https://sites.rootsweb.com/~wyuinttp/' + ref + '.htm', lambda nom, ref: ref),
     ('wyoming_annals_1923.txt', 'WA', {'court': 'Annals of Wyoming (1923-1928)', 'ref': "Annals of Wyoming, vol. 1 à 5 (1923-1928)"}, lambda ref: {'1':'annalsofwyom114192324wyom','2':'annalsofwyom214192425wyom','3':'annalsofwyom314192526wyom','4':'annalsofwyom414192627wyom','5':'annalsofwyom514192728wyom'}[ref.split(',')[0].split()[-1]], lambda nom, ref: ref),
+    ('wyoming_bancroft_1890.txt', 'WK', {'court': 'Bancroft, History of Nevada, Colorado, and Wyoming (1890)', 'ref': "H. H. Bancroft, History of Nevada, Colorado, and Wyoming, 1540-1888, San Francisco, The History Company, 1890"}, 'nevcolandwyom00bancroft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
