@@ -200,6 +200,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofutahcom04whit` | 3 |
 | `tullidgeshistori02tull` | 3 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
+| `nevcolandwyom00bancroft` (partie Nevada) | 12 |
+| `reportoftheexplor1845eng` (partie Nevada) | 4 |
+| `historyofnevada00ange` | 29 |
 
 
 ## Un point par lieu et adresses précises
