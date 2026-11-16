@@ -289,6 +289,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `mmoireshistori01dumo` | 85 |
 | `earlyvoyagesupdo00shea` | 34 |
 | `mmoiresetdocum04marg` | 44 |
+| `mmoiresetdocum05marg` | 97 |
 
 
 ## Un point par lieu et adresses précises
