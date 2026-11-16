@@ -247,6 +247,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoflouisia01gayaiala` | 166 |
 | `historyoflouisia02gayaiala` | 102 |
 | `cihm_45094` | 54 |
+| `cihm_45095` | 93 |
 
 
 ## Un point par lieu et adresses précises
