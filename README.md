@@ -254,6 +254,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoflouisia02fortuoft` | 86 |
 | `historyoflouisia03fortuoft` | 124 |
 | `historyoflouisia04fortuoft` | 75 |
+| `nouveauxvoyagesa00boss_0` | 79 |
 
 
 ## Un point par lieu et adresses précises
