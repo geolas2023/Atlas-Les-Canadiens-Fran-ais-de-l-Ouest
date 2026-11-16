@@ -1214,6 +1214,11 @@ G.update({
     'Village des Bayagoulas': (-91.18, 30.22, 'h', "Village des Bayagoulas (Louisiane)"),
     'Cannes Brûlées': (-90.36, 29.98, 'h', "Cannes Brûlées (Kenner, Louisiane)"),
     'Mexico (ville)': (-99.13, 19.43, 'c', "Mexico (Nouvelle-Espagne)"),
+    'Côte des Allemands': (-90.48, 30.02, 'h', "Côte des Allemands (Louisiane)"),
+    'Détour des Anglais': (-89.95, 29.88, 'h', "Détour des Anglais (English Turn, Louisiane)"),
+    'Île aux Chats': (-89.08, 30.22, 'h', "Île aux Chats (Cat Island, Mississippi)"),
+    'La Havane': (-82.36, 23.13, 'c', "La Havane (Cuba)"),
+    'Côte acadienne (Cabahannocer)': (-90.85, 30.03, 'h', "Côte acadienne (Cabahannocer, Louisiane)"),
 })
 
 
