@@ -189,6 +189,11 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `ashleysmithexplo00daleuoft` | 15 |
 | `reportoftheexplor1845eng` (partie Utah) | 11 |
 | `explorationsurve001853stan` | 12 |
+| `ajourneytogreat01brengoog`, `ajourneytogreat00remygoog` | 8 |
+| `romanceofcolorad00dell` | 3 |
+| `utah-historical-quarterly_1929-10_2_4` à `_1930-07_3_3` | 6 |
+| `historyofutahcom01whit` | 8 |
+| `historyofsaltlak00tull` | 1 |
 
 
 ## Un point par lieu et adresses précises

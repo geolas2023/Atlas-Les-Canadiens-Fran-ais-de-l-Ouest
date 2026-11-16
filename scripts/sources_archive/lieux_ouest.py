@@ -878,6 +878,13 @@ G.update({
     'Muddy Creek (Wyoming)': (-107.6, 41.4, 'a', "Muddy Creek (Little Snake, Wyoming)"),
     'Medicine Bow': (-106.2, 41.9, 'a', "Medicine Bow (Wyoming)"),
     'North Platte (haute)': (-106.8, 41.6, 'a', "haute North Platte (Wyoming)"),
+    'Chimney Rock': (-103.35, 41.70, 'a', "Chimney Rock (Nebraska)"),
+    'Platte (piste mormone)': (-98.6, 40.95, 'a', "rive nord de la Platte, piste des pionniers mormons (Nebraska)"),
+    'Carson Valley': (-119.85, 39.0, 'a', "vallée Carson (Genoa, alors territoire d'Utah)"),
+    'Carson River': (-119.3, 39.25, 'a', "rivière Carson (alors territoire d'Utah)"),
+    'Cedar City': (-113.06, 37.68, 'c', "Cedar City (Utah)"),
+    'Pilot Peak': (-114.08, 41.02, 'a', "Pilot Peak (frontière Utah-Nevada)"),
+    'Provo (rivière)': (-111.66, 40.23, 'a', "rivière Provo (Utah)"),
 })
 
 
