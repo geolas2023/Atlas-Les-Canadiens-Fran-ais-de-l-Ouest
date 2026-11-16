@@ -855,6 +855,11 @@ G.update({
     'Little Snake River': (-107.9, 41.0, 'a', "Little Snake River (Wyoming-Colorado)"),
     'Bighorn Mountains': (-107.3, 44.4, 'a', "Monts Bighorn (Wyoming)"),
     'Fort Washakie': (-108.88, 43.0, 'c', "Fort Washakie (Wind River)"),
+    "Clark's Fork (Yellowstone)": (-109.0, 44.9, 'a', "Clark's Fork de la Yellowstone (Wyoming-Montana)"),
+    'Chugwater (Wyoming)': (-104.82, 41.76, 'a', "Chugwater Creek (Wyoming)"),
+    'Sybille Creek': (-105.2, 41.85, 'a', "Sybille (Sibylee) Creek (Wyoming)"),
+    'Comté de Platte (Wyoming)': (-104.95, 42.13, 'a', "comté de Platte (Wyoming)"),
+    'La Prele Creek': (-105.6, 42.75, 'a', "La Prele Creek, près du fort Fetterman (Wyoming)"),
 })
 
 
