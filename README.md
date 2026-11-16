@@ -220,6 +220,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofarizona03faririch` à `historyofarizona08faririch` | 12 |
 | `thenorthmexivol115bancmiss`, `northmexicanst02bancrich` (Texas) | 47 |
 | `historyoftexasfr01yoak`, `historyoftexasfr02yoak` | 50 |
+| `reminiscencesoft00pari` | 46 |
+| `missionaryadvent00dome` | 27 |
+| `napoleonicexiles00reev` | 15 |
 
 
 ## Un point par lieu et adresses précises
