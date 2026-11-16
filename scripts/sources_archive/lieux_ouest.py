@@ -1265,6 +1265,20 @@ G.update({
     'Coushatta': (-93.34, 32.01, 'c', "Coushatta (Louisiane)"),
     'Theriot': (-90.75, 29.42, 'c', "Theriot (Louisiane)"),
     'Saint-Gabriel (Louisiane)': (-91.1, 30.26, 'c', "Saint-Gabriel (Louisiane)"),
+    'Morse (Louisiane)': (-92.5, 30.12, 'c', "Morse (Louisiane)"),
+    'Leesville': (-93.26, 31.14, 'c', "Leesville (Louisiane)"),
+    'Morgan City': (-91.21, 29.7, 'c', "Morgan City (Louisiane)"),
+    'Mansura': (-92.05, 31.06, 'c', "Mansura (Louisiane)"),
+    'Farmerville': (-92.41, 32.77, 'c', "Farmerville (Louisiane)"),
+    'Jonesville (Louisiane)': (-91.82, 31.63, 'c', "Jonesville (Louisiane)"),
+    'Erath': (-92.04, 29.96, 'c', "Erath (Louisiane)"),
+    'Arabi': (-90.0, 29.95, 'c', "Arabi (Louisiane)"),
+    'Columbia (Louisiane)': (-92.08, 32.11, 'c', "Columbia (Louisiane)"),
+    'Westwego': (-90.14, 29.91, 'c', "Westwego (Louisiane)"),
+    'Meeker (Louisiane)': (-92.42, 31.05, 'c', "Meeker (Louisiane)"),
+    'Phoenix (Louisiane)': (-89.94, 29.65, 'c', "Phoenix (Louisiane)"),
+    'Rayville': (-91.75, 32.47, 'c', "Rayville (Louisiane)"),
+    'Estherwood': (-92.46, 30.18, 'c', "Estherwood (Louisiane)"),
 })
 
 
