@@ -1219,6 +1219,10 @@ G.update({
     'Île aux Chats': (-89.08, 30.22, 'h', "Île aux Chats (Cat Island, Mississippi)"),
     'La Havane': (-82.36, 23.13, 'c', "La Havane (Cuba)"),
     'Côte acadienne (Cabahannocer)': (-90.85, 30.03, 'h', "Côte acadienne (Cabahannocer, Louisiane)"),
+    'Chef Menteur': (-89.8, 30.07, 'h', "Chef Menteur (Louisiane)"),
+    'Fort Saint-Philippe': (-89.47, 29.36, 'h', "Fort Saint-Philippe (Plaquemines, Louisiane)"),
+    'Fort des Petites Coquilles': (-89.75, 30.17, 'h', "Fort des Petites Coquilles (Rigolets, Louisiane)"),
+    'Gentilly': (-90.05, 30.01, 'h', "Gentilly (La Nouvelle-Orléans)"),
 })
 
 
