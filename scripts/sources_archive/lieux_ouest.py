@@ -1124,6 +1124,17 @@ G.update({
     'Chalmette': (-89.98, 29.94, 'h', "plaine de Chalmette (bataille de La Nouvelle-Orléans)"),
     'Fort Condé (Mobile)': (-88.04, 30.69, 'h', "fort Condé (Mobile)"),
     'Ship Island': (-88.97, 30.21, 'h', "île aux Vaisseaux (Ship Island)"),
+    'Lake Charles': (-93.22, 30.23, 'c', "Lake Charles (Louisiane)"),
+    'Saint-Jean-Baptiste (Louisiane)': (-90.56, 30.04, 'c', "paroisse Saint-Jean-Baptiste (Louisiane)"),
+    'Houma': (-90.72, 29.60, 'c', "Houma (Terrebonne, Louisiane)"),
+    'Abbeville (Louisiane)': (-92.13, 29.97, 'c', "Abbeville (Vermilion, Louisiane)"),
+    'Lafayette (Vermilionville)': (-92.02, 30.22, 'c', "Lafayette (Vermilionville, Louisiane)"),
+    'Covington (Louisiane)': (-90.10, 30.48, 'c', "Covington (Saint-Tammany, Louisiane)"),
+    'Franklin (Louisiane)': (-91.51, 29.79, 'c', "Franklin (Sainte-Marie, Louisiane)"),
+    'Bayou Manchac': (-91.00, 30.29, 'h', "bayou Manchac (Louisiane)"),
+    'Barataria (Grande Terre)': (-89.95, 29.27, 'h', "Barataria (Grande Terre, Louisiane)"),
+    'Poste des Arkansas': (-91.35, 33.95, 'h', "poste des Arkansas"),
+    'Pointe-à-la-Hache': (-89.80, 29.58, 'c', "Pointe-à-la-Hache (Plaquemines, Louisiane)"),
 })
 
 
