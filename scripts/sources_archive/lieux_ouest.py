@@ -1506,6 +1506,13 @@ G.update({
     'Fish River (Alabama)': (-87.8, 30.45, 'h', 'Fish River, rive est de la baie de Mobile (Alabama)'),
     'Mandeville Bend (Mobile)': (-88.07, 30.62, 'h', 'Lansemanville / Mandeville Bend, Mobile (Alabama)'),
     'Rivière Mobile (Alabama)': (-87.98, 30.85, 'h', 'Rivière Mobile, en amont de Mobile (Alabama)'),
+    'Washington (Mississippi)': (-91.3, 31.58, 'c', "Washington, ancienne capitale territoriale (comté d'Adams, Mississippi)"),
+    'Liberty (Amite)': (-90.81, 31.16, 'c', "Liberty, comté d'Amite (Mississippi)"),
+    'Vicksburg (Mississippi)': (-90.88, 32.35, 'c', 'Vicksburg / Walnut Hills (Mississippi)'),
+    'Black River (Louisiane)': (-91.83, 31.33, 'h', 'Rivière Noire (Black River, Louisiane)'),
+    'Balise (Mississippi)': (-89.18, 29.1, 'h', 'La Balise, embouchure du Mississippi (Louisiane)'),
+    'Oxford (Mississippi)': (-89.52, 34.366, 'c', 'Oxford (Mississippi)'),
+    'Jackson (Mississippi)': (-90.18, 32.3, 'c', 'Jackson (Mississippi)'),
 })
 
 
