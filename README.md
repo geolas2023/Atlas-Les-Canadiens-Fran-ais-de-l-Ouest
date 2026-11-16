@@ -264,6 +264,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `neworleansplacep00king` | 61 |
 | `historyoflouisia0002unse` | 119 |
 | `historyoflouisia0003unse` | 130 |
+| `presentstateofeu00pitt` | 20 |
 
 
 ## Un point par lieu et adresses précises
