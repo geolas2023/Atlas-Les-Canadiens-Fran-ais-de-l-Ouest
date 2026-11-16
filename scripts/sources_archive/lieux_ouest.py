@@ -1340,6 +1340,19 @@ G.update({
     'Village de la Kaskaskia (Illinois)': (-88.98, 41.33, 'h', 'grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica)'),
     'Chastang (Alabama)': (-88.0, 30.98, 'h', 'Chastang Bluff (rivière Mobile, Alabama)'),
     'Spring Hill (Mobile)': (-88.14, 30.69, 'h', 'Spring Hill, collège Saint-Joseph (Mobile, Alabama)'),
+    'Île Sainte-Croix (Maine)': (-67.13, 45.13, 'h', 'île Sainte-Croix (Maine, 1604)'),
+    'Port-Royal (Acadie)': (-65.6, 44.71, 'h', 'Port-Royal (Annapolis Royal, Nouvelle-Écosse)'),
+    'Saint-Sauveur (Mont-Désert)': (-68.3, 44.3, 'h', 'Saint-Sauveur, île des Monts-Déserts (Maine, 1613)'),
+    'Pentagoët (Castine)': (-68.8, 44.39, 'h', 'Pentagoët (Castine, Maine)'),
+    'Narantsouac (Norridgewock)': (-69.95, 44.77, 'h', 'mission de Narantsouac (Norridgewock, Kennebec, Maine)'),
+    'Médoctec (rivière Saint-Jean)': (-67.5, 46.0, 'h', 'mission de Médoctec (rivière Saint-Jean, Nouveau-Brunswick)'),
+    'Fort Orange (Albany)': (-73.75, 42.65, 'h', 'Fort Orange (Albany, New York)'),
+    'Onneiout (Oneida)': (-75.65, 42.95, 'h', 'Onneiout, village onneiout (Oneida, New York)'),
+    'Goiogouen (Cayuga)': (-76.7, 42.9, 'h', 'Goiogouen, village goyogouin (Cayuga, New York)'),
+    'Fort Saint-Frédéric (Crown Point)': (-73.43, 44.03, 'h', 'fort Saint-Frédéric (Crown Point, New York)'),
+    'Fort de la Présentation (Ogdensburg)': (-75.49, 44.7, 'h', 'fort et mission de la Présentation (Oswegatchie, Ogdensburg, New York)'),
+    "Fort de la Presqu'île (Erie)": (-80.08, 42.13, 'h', "fort de la Presqu'île (Erie, Pennsylvanie)"),
+    'Villages chactas': (-88.9, 32.7, 'h', "villages chactas (Mississippi)"),
 })
 
 
