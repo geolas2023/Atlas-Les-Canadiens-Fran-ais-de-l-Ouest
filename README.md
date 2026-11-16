@@ -280,6 +280,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1930-01_13_1` | 358 |
 | `louisianahistori01loui` | 94 |
 | `publicationslou01socigoog` | 29 |
+| `publicationslou04socigoog` | 40 |
 
 
 ## Un point par lieu et adresses précises
