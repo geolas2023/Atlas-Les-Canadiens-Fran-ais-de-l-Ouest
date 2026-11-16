@@ -293,6 +293,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cihm_09946` | 95 |
 | `dcouverteett01marg` | 56 |
 | `dcouverteett02marg` | 38 |
+| `dcouverteett03marg` | 44 |
 
 
 ## Un point par lieu et adresses précises
