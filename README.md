@@ -318,6 +318,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `SketchOfTheCatholicChurchInTheCity` | 40 |
 | `oldbiloxifirstse00rowl` | 4 |
 | `cu31924073559761` | 34 |
+| `cu31924028795405` | 105 |
 
 
 ## Un point par lieu et adresses précises

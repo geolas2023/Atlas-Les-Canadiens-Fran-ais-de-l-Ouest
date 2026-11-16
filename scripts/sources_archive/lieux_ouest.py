@@ -1519,6 +1519,12 @@ G.update({
     'Neshoba (Mississippi)': (-89.1, 32.75, 'h', 'Comté de Neshoba (Mississippi)'),
     'Nation chacta (Oklahoma)': (-95.6, 34.4, 'h', 'Nation chacta, Territoire indien (Oklahoma)'),
     'Pontotoc (Mississippi)': (-89.0, 34.25, 'c', 'Pontotoc (Mississippi)'),
+    'Fort Mims (Alabama)': (-87.83, 31.17, 'h', 'Fort Mims, lac Tensaw (Alabama)'),
+    'Burnt Corn Creek (Alabama)': (-87.17, 31.55, 'h', 'Burnt Corn Creek (Alabama)'),
+    'Mount Vernon (Alabama)': (-88.01, 31.09, 'h', 'Mount Vernon / Fort Stoddert (Alabama)'),
+    'Holy Ground (Alabama)': (-86.75, 32.2, 'h', 'Holy Ground (Econochaca), rivière Alabama'),
+    'Benton (Yazoo)': (-90.26, 32.82, 'h', 'Benton, comté de Yazoo (Mississippi)'),
+    'Rivière Jourdan (Hancock)': (-89.42, 30.38, 'h', 'Rivière Jourdan, comté de Hancock (Mississippi)'),
 })
 
 
