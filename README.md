@@ -288,6 +288,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoflouisia00lepa` | 52 |
 | `mmoireshistori01dumo` | 85 |
 | `earlyvoyagesupdo00shea` | 34 |
+| `mmoiresetdocum04marg` | 44 |
 
 
 ## Un point par lieu et adresses précises

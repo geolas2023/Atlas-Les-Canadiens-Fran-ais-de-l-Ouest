@@ -517136,6 +517136,2114 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-tonty-henri-de-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1686.0,
+    "fin": 1686.0,
+    "date_edtf": "1686",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1686. Henri de Tonty descend le fleuve avec 25 Français et laisse une lettre aux Quinipissas pour La Salle. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : fort Saint-Louis des Illinois (Starved Rock), fort du Mississippi ou de La Boulaye (1700), Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 3-5, 124, 168, 275-276, 364-365, 404, 505-515 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "QX-tonty-henri-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1694.0,
+    "fin": 1694.0,
+    "date_edtf": "1694",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1694. Henri de Tonty est coseigneur du fort avec La Forest. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane), fort du Mississippi ou de La Boulaye (1700), Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 3-5, 124, 168, 275-276, 364-365, 404, 505-515 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.75,
+     29.4
+    ]
+   },
+   "properties": {
+    "id": "QX-tonty-henri-de-fort-du-mi",
+    "nom": "Fort du Mississippi ou de La Boulaye (1700) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort du Mississippi ou de La Boulaye (1700), 1700. Henri de Tonty arrive avec des Canadiens et va chez les Tonicas. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane), fort Saint-Louis des Illinois (Starved Rock), Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 3-5, 124, 168, 275-276, 364-365, 404, 505-515 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-tonty-henri-de-mobile",
+    "nom": "Mobile : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Mobile, 1702. Henri de Tonty fait la paix entre Chactas et Chicachas et amène leurs chefs. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane), fort Saint-Louis des Illinois (Starved Rock), fort du Mississippi ou de La Boulaye (1700).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 3-5, 124, 168, 275-276, 364-365, 404, 505-515 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "QX-signataires-de-l-attestation-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Les Signataires de L'attestation des Illinois En 1694",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1694.0,
+    "fin": 1694.0,
+    "date_edtf": "1694",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Les Signataires de L'attestation des Illinois En 1694"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1694. Les Signataires de L'attestation des Illinois En 1694 sont le jésuite Jacques Gravier, Montmidy, Deliette, La Meterie, Bertrand Viau, Michel Aco, De Rozier et La Brisée. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 5 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SIGNATAIRES+DE+L+ATTESTATION+DES+ILLINOIS+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "QX-iberville-pierre-le-moyne-d-pensacola",
+    "nom": "Pensacola (Floride) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Pensacola (Floride), 1699. Pierre Le Moyne d' Iberville sonde la rade et rencontre les Espagnols. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Houmas (Louisiane), fort Maurepas, fort du Mississippi ou de La Boulaye (1700), Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXI-XXXI, 96-163, 348-428, 447-523, 549-618 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=IBERVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.95,
+     30.1
+    ]
+   },
+   "properties": {
+    "id": "QX-iberville-pierre-le-moyne-d-village-de",
+    "nom": "Village des Houmas (Louisiane) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Village des Houmas (Louisiane), 1699. Pierre Le Moyne d' Iberville remonte le Mississippi jusqu'aux Bayogoulas et aux Oumas. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Pensacola (Floride), fort Maurepas, fort du Mississippi ou de La Boulaye (1700), Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXI-XXXI, 96-163, 348-428, 447-523, 549-618 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=IBERVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-iberville-pierre-le-moyne-d-fort-maure",
+    "nom": "Fort Maurepas : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Fort Maurepas, 1699. Pierre Le Moyne d' Iberville fait bâtir le fort de la baie de Biloxi. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Pensacola (Floride), Village des Houmas (Louisiane), fort du Mississippi ou de La Boulaye (1700), Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXI-XXXI, 96-163, 348-428, 447-523, 549-618 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=IBERVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.75,
+     29.4
+    ]
+   },
+   "properties": {
+    "id": "QX-iberville-pierre-le-moyne-d-fort-du-mi",
+    "nom": "Fort du Mississippi ou de La Boulaye (1700) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Fort du Mississippi ou de La Boulaye (1700), 1700. Pierre Le Moyne d' Iberville fonde un poste sur le fleuve et fait la paix entre nations. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Pensacola (Floride), Village des Houmas (Louisiane), fort Maurepas, Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXI-XXXI, 96-163, 348-428, 447-523, 549-618 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=IBERVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "QX-iberville-pierre-le-moyne-d-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1702. Pierre Le Moyne d' Iberville fonde l'établissement de la Mobile. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Pensacola (Floride), Village des Houmas (Louisiane), fort Maurepas, fort du Mississippi ou de La Boulaye (1700).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXI-XXXI, 96-163, 348-428, 447-523, 549-618 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=IBERVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "QX-chasteaumorant-marquis-de-pensacola",
+    "nom": "Pensacola (Floride) : Marquis de Chasteaumorant",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marquis de Chasteaumorant"
+    ],
+    "description": "Pensacola (Floride), 1699. Marquis de Chasteaumorant escorte les frégates, reçoit une lettre du gouverneur espagnol et cède vivres et bétail. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIV, 103-115, 143-155, 217, 241 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=CHASTEAUMORANT",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-surgeres-chevalier-de-fort-maure",
+    "nom": "Fort Maurepas : Chevalier de Surgères",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chevalier de Surgères"
+    ],
+    "description": "Fort Maurepas, 1699. Chevalier de Surgères commande le Marin, trouve un havre près de la Mobile et participe à la construction du fort. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIV, 98-99, 111, 122, 143-145, 168, 284, 381 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SURGÈRES",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-surgeres-chevalier-de-fort-maure-2",
+    "nom": "Fort Maurepas : Chevalier de Surgères",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chevalier de Surgères"
+    ],
+    "description": "Fort Maurepas, 1700. Chevalier de Surgères reçoit l'opposition espagnole. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIV, 98-99, 111, 122, 143-145, 168, 284, 381 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SURGÈRES",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-sauvole-fort-maure",
+    "nom": "Fort Maurepas : Sauvole",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1701.999,
+    "date_edtf": "1699/1701",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sauvole"
+    ],
+    "description": "Fort Maurepas, 1699-1701. Sauvole commande le fort de Biloxi, tient le journal de la garnison et meurt en août 1701. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXXIII, 125, 157, 169, 185, 274, 286, 335, 447-464, 501 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SAUVOLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-sauvole-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Sauvole",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sauvole"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1699. Sauvole reçoit des Mougoulachas la lettre de Tonty. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : fort Maurepas.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXXIII, 125, 157, 169, 185, 274, 286, 335, 447-464, 501 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SAUVOLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "QX-bienville-le-moyne-de-mississipp",
+    "nom": "Embouchure du Mississippi : Le Moyne de Bienville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Le Moyne de Bienville"
+    ],
+    "description": "Embouchure du Mississippi, 1699. Le Moyne de Bienville explore le fleuve, reste en otage chez les Indiens et chasse la corvette anglaise du capitaine Bank. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Natchitoches, Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXVI-XLV, 124-125, 154, 173, 239, 264-270, 361-364, 396-410, 433-460, 504-512 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BIENVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "QX-bienville-le-moyne-de-natchitoch",
+    "nom": "Natchitoches : Le Moyne de Bienville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Moyne de Bienville"
+    ],
+    "description": "Natchitoches, 1700. Le Moyne de Bienville va par terre des Taensas aux Yatachés. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : embouchure du Mississippi, Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXVI-XLV, 124-125, 154, 173, 239, 264-270, 361-364, 396-410, 433-460, 504-512 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BIENVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "QX-bienville-le-moyne-de-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : Le Moyne de Bienville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Moyne de Bienville"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1702. Le Moyne de Bienville dirige la construction du fort de la Mobile. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : embouchure du Mississippi, Natchitoches.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXVI-XLV, 124-125, 154, 173, 239, 264-270, 361-364, 396-410, 433-460, 504-512 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BIENVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-levasseur-russouelle-fort-maure",
+    "nom": "Fort Maurepas : Levasseur Russouelle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Levasseur Russouelle"
+    ],
+    "description": "Fort Maurepas, 1699. Levasseur Russouelle est Canadien, major de la garnison et chef des Canadiens. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Colapissas (rive nord du lac Pontchartrain), Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXXIII, 125, 286, 428, 459, 530 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LEVASSEUR+RUSSOUELLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     30.3
+    ]
+   },
+   "properties": {
+    "id": "QX-levasseur-russouelle-village-de",
+    "nom": "Village des Colapissas (rive nord du lac Pontchartrain) : Levasseur Russouelle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Levasseur Russouelle"
+    ],
+    "description": "Village des Colapissas (rive nord du lac Pontchartrain), 1700. Levasseur Russouelle ramène le chef colapissa. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : fort Maurepas, Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXXIII, 125, 286, 428, 459, 530 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LEVASSEUR+RUSSOUELLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-levasseur-russouelle-mobile",
+    "nom": "Mobile : Levasseur Russouelle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Levasseur Russouelle"
+    ],
+    "description": "Mobile, 1702. Levasseur Russouelle accompagne Sérigny à la prise de possession. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : fort Maurepas, Village des Colapissas (rive nord du lac Pontchartrain).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXXIII, 125, 286, 428, 459, 530 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LEVASSEUR+RUSSOUELLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-officiers-de-la-badine-et-du-mobile",
+    "nom": "Mobile : Les Officiers de la Badine Et du Marin",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Officiers de la Badine Et du Marin"
+    ],
+    "description": "Mobile, 1699. Les Officiers de la Badine Et du Marin sont Lescalette, Desjordy-Moreau, Josselin de Marigny, La Gauchetière, Du Hamel, Villautreys et Hannivel de Sainte-Colombe, qui sondent les passes de Pensacola, de la Mobile et des Pascagoulas. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 50, 96-112, 141-157, 194-195, 230-231, 283-284 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=OFFICIERS+DE+LA+BADINE+ET+DU+MARIN",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "QX-graff-laurent-de-pensacola",
+    "nom": "Pensacola (Floride) : Laurent de Graff",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Laurent de Graff"
+    ],
+    "description": "Pensacola (Floride), 1699. Laurent de Graff guide la flotte et sonde l'entrée de Pensacola. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIV, 92-93, 103, 135-136, 143 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=GRAFF",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-brache-de-mobile",
+    "nom": "Mobile : de Brache",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "de Brache"
+    ],
+    "description": "Mobile, 1699. de Brache sonde les passes et guide les navires vers le havre. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIV, 110-111 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BRACHE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-ricouart-de-fort-maure",
+    "nom": "Fort Maurepas : de Ricouart",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "de Ricouart"
+    ],
+    "description": "Fort Maurepas, 1700. de Ricouart commande à bord en l'absence d'Iberville et secourt les naufragés espagnols. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LV, 111, 381-391, 459 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=RICOUART",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "QX-cateau-mississipp",
+    "nom": "Embouchure du Mississippi : Cateau",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Cateau"
+    ],
+    "description": "Embouchure du Mississippi, 1699. Cateau est pilote et sonde les passes. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXVI, 241-242 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=CATEAU",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-anastase-pere-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Père Anastase",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "religion",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Anastase"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1699. Père Anastase accompagne Iberville, perd son bréviaire et se brouille avec les Bayogoulas. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : fort Maurepas.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIII, 190, 196, 237-242, 273-274, 285-286 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=ANASTASE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-anastase-pere-fort-maure",
+    "nom": "Fort Maurepas : Père Anastase",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "religion",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Père Anastase"
+    ],
+    "description": "Fort Maurepas, 1699. Père Anastase dit la messe aux ouvriers avec l'enseigne Beauharnois. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XXIII, 190, 196, 237-242, 273-274, 285-286 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=ANASTASE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-deschiers-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Deschiers",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Deschiers"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1699. Deschiers tombe malade aux portages. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 186 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=DESCHIERS",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-boisbriant-fort-maure",
+    "nom": "Fort Maurepas : Boisbriant",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Boisbriant"
+    ],
+    "description": "Fort Maurepas, 1700. Boisbriant reçoit une commission de major et part à la recherche du bateau déserteur. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 368-369, 461 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BOISBRIANT",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-crasse-fort-maure",
+    "nom": "Fort Maurepas : Crasse",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Crasse"
+    ],
+    "description": "Fort Maurepas, 1700. Crasse est écrivain du roi et garde les effets du fort. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 369, 534 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=CRASSE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-crasse-mobile",
+    "nom": "Mobile : Crasse",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Crasse"
+    ],
+    "description": "Mobile, 1702. Crasse remet les effets à La Salle. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : fort Maurepas.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 369, 534 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=CRASSE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.03,
+     44.15
+    ]
+   },
+   "properties": {
+    "id": "QX-lesueur-fort-l-hui",
+    "nom": "Fort L'Huillier (rivière Bleue de Terre, Minnesota) : Lesueur",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lesueur"
+    ],
+    "description": "Fort L'Huillier (rivière Bleue de Terre, Minnesota), 1700. Lesueur remonte le Mississippi vers les Sioux. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Mobile.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LXII, 340, 349-352, 366, 403, 418, 533, 587, 605-606 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LESUEUR",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-lesueur-mobile",
+    "nom": "Mobile : Lesueur",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lesueur"
+    ],
+    "description": "Mobile, 1702. Lesueur revient avec des échantillons de cuivre. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Fort L'Huillier (rivière Bleue de Terre, Minnesota).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LXII, 340, 349-352, 366, 403, 418, 533, 587, 605-606 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LESUEUR",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.25,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": "QX-montigny-abbe-de-village-de",
+    "nom": "Village des Taensas (Louisiane) : Abbé de Montigny",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "religion",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Abbé de Montigny"
+    ],
+    "description": "Village des Taensas (Louisiane), 1700. Abbé de Montigny est missionnaire aux Taensas puis s'établit chez les Natchez. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 363, 368, 412-417, 421, 452 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=MONTIGNY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "QX-davion-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Davion",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Davion"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1700. Davion est missionnaire chez les Tonicas et renseigne sur les Akansas. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 363, 418, 429, 452, 481 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=DAVION",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "QX-saint-denis-natchitoch",
+    "nom": "Natchitoches : Saint-Denis",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Saint-Denis"
+    ],
+    "description": "Natchitoches, 1700. Saint-Denis remonte la rivière Marne et accompagne Bienville vers les Cenis. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. XLV, 374, 406, 416, 463-464 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SAINT+DENIS",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "QX-villedieu-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Villedieu",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Villedieu"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1700. Villedieu examine une mine de cuivre entre les Tamaroas et les Illinois. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 375, 471 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=VILLEDIEU",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-duguay-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Duguay",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duguay"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1700. Duguay accompagne Iberville puis va au fort du Mississippi. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Pensacola (Floride).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LVIII, 403, 407, 419, 508, 522 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=DUGUAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "QX-duguay-pensacola",
+    "nom": "Pensacola (Floride) : Duguay",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1701.0,
+    "fin": 1701.0,
+    "date_edtf": "1701",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Duguay"
+    ],
+    "description": "Pensacola (Floride), 1701. Duguay prête un traversier aux Espagnols et commande la Précieuse. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LVIII, 403, 407, 419, 508, 522 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=DUGUAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.75,
+     29.4
+    ]
+   },
+   "properties": {
+    "id": "QX-la-ronde-fort-du-mi",
+    "nom": "Fort du Mississippi ou de La Boulaye (1700) : La Ronde",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Ronde"
+    ],
+    "description": "Fort du Mississippi ou de La Boulaye (1700), 1700. La Ronde est garde-marine et commande le fort du Mississippi. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 403, 418, 423 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LA+RONDE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.75,
+     29.4
+    ]
+   },
+   "properties": {
+    "id": "QX-maltot-sieur-de-fort-du-mi",
+    "nom": "Fort du Mississippi ou de La Boulaye (1700) : Sieur de Maltot",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sieur de Maltot"
+    ],
+    "description": "Fort du Mississippi ou de La Boulaye (1700), 1700. Sieur de Maltot commande le fort avec quatorze hommes. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 405, 421 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=MALTOT",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-officiers-de-biloxi-en-1700--fort-maure",
+    "nom": "Fort Maurepas : Les Officiers de Biloxi En 1700",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Les Officiers de Biloxi En 1700"
+    ],
+    "description": "Fort Maurepas, 1700. Les Officiers de Biloxi En 1700 sont Jordy, Hautemaison et Sainte-Hermine, qui secourent les naufragés espagnols. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 382-390, 424 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=OFFICIERS+DE+BILOXI+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.75,
+     29.4
+    ]
+   },
+   "properties": {
+    "id": "QX-richard-fort-du-mi",
+    "nom": "Fort du Mississippi ou de La Boulaye (1700) : Richard",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Richard"
+    ],
+    "description": "Fort du Mississippi ou de La Boulaye (1700), 1700. Richard est pilote et explore une rivière avec des Indiens. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 406 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=RICHARD",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-chasteaugue-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Chasteaugué",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Chasteaugué"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1700. Chasteaugué accompagne Iberville. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : île au Massacre (lac des Bois).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LVIII, 419, 505-521, 623 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=CHASTEAUGUÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "QX-chasteaugue-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Chasteaugué",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chasteaugué"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1702. Chasteaugué garde le magasin avec dix hommes. D'après Margry, Découvertes et établissements, t. IV. Autres lieux de l'entrée : Village des Bayagoulas (Louisiane).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LVIII, 419, 505-521, 623 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=CHASTEAUGUÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-bordenave-fort-maure",
+    "nom": "Fort Maurepas : Bordenave",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bordenave"
+    ],
+    "description": "Fort Maurepas, 1699. Bordenave est aumônier de la garnison. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 447 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BORDENAVE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "QX-launay-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Launay",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Launay"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1699. Launay dresse une carte du fleuve et témoigne sur les Quinipissas. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 453 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LAUNAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "QX-guyon-fort-maure",
+    "nom": "Fort Maurepas : Guyon",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Guyon"
+    ],
+    "description": "Fort Maurepas, 1699. Guyon est capitaine du traversier venu de Saint-Domingue et livre des vivres. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 455 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=GUYON",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.71,
+     37.15
+    ]
+   },
+   "properties": {
+    "id": "QX-couture-fort-ascen",
+    "nom": "Fort de l'Ascension (Massac) : Couture",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Couture"
+    ],
+    "description": "Fort de l'Ascension (Massac), 1700. Couture est déserteur et conduit des Indiens vers l'Ouabache. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 480 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=COUTURE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.71,
+     37.15
+    ]
+   },
+   "properties": {
+    "id": "QX-juchereau-fort-ascen",
+    "nom": "Fort de l'Ascension (Massac) : Juchereau",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1701.0,
+    "fin": 1701.0,
+    "date_edtf": "1701",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Juchereau"
+    ],
+    "description": "Fort de l'Ascension (Massac), 1701. Juchereau obtient une concession pour des tanneries sur l'Ouabache. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 470-487, 631 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=JUCHEREAU",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "QX-serigny-le-moyne-de-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Le Moyne de Sérigny",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Le Moyne de Sérigny"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1702. Le Moyne de Sérigny commande le Palmier et prend possession de la rivière Mobile. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LVIII, 505, 530 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=SÉRIGNY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-becancourt-mobile",
+    "nom": "Mobile : Bécancourt",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bécancourt"
+    ],
+    "description": "Mobile, 1702. Bécancourt est enseigne et transporte les effets de l'île Massacre à l'établissement. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 506-522 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BÉCANCOURT",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "QX-marigny-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Marigny",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marigny"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1702. Marigny arrive avec un traversier qui s'échoue. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 509 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=MARIGNY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-le-roux-mobile",
+    "nom": "Mobile : Le Roux",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Roux"
+    ],
+    "description": "Mobile, 1702. Le Roux est contremaître charpentier et construit une barque plate. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 492, 506 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LE+ROUX",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-gravier-pere-mobile",
+    "nom": "Mobile : Père Gravier",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "religion",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Gravier"
+    ],
+    "description": "Mobile, 1702. Père Gravier est supérieur des jésuites des Illinois et repart pour les Illinois. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 509, 596 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=GRAVIER",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "QX-pilet-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Pilet",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pilet"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1702. Pilet est maître de la caiche et porte des vivres au Mississippi. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 509, 521 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=PILET",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "QX-la-salle-nicolas-de-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : Nicolas de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas de la Salle"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1702. Nicolas de la Salle est commissaire de la Marine et tient le magasin. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. LX, 497-535 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "QX-girard-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : Girard",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Girard"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1702. Girard est garde-magasin et tient les registres. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 511, 535 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=GIRARD",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-grandville-mobile",
+    "nom": "Mobile : Grandville",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Grandville"
+    ],
+    "description": "Mobile, 1702. Grandville décharge le traversier à la rivière aux Chiens. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 521 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=GRANDVILLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "QX-du-coudray-mobile",
+    "nom": "Mobile : Du Coudray",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "personnage",
+    "debut": 1703.0,
+    "fin": 1703.0,
+    "date_edtf": "1703",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Du Coudray"
+    ],
+    "description": "Mobile, 1703. Du Coudray commande le Pélican envoyé au Mississippi. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 634 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=DU+COUDRAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "QX-blondel-francois-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : François Blondel",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. IV",
+    "theme": "poste",
+    "debut": 1703.0,
+    "fin": 1703.0,
+    "date_edtf": "1703",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Blondel"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1703. François Blondel est enseigne de la compagnie de Chasteaugué. D'après Margry, Découvertes et établissements, t. IV.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV (1694-1703), Paris, Margry IV, p. 623 ; texte intégral : archive.org, mmoiresetdocum04marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. IV",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mmoiresetdocum04marg?q=BLONDEL",
+      "texte": "Lire Margry, Découvertes et établissements, t. IV sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]
