@@ -1086,6 +1086,11 @@ G.update({
     'Village nadote': (-94.55, 32.10, 'h', "village des Nadotes (est du Texas)"),
     'Missions San Xavier': (-97.05, 30.73, 'h', "missions San Xavier (San Gabriel, Texas)"),
     'El Lobanillo': (-93.95, 31.45, 'h', "El Lobanillo (est du Texas)"),
+    'Columbus (Texas)': (-96.54, 29.71, 'c', "Columbus (rivière Colorado, Texas)"),
+    'Lockhart': (-97.67, 29.88, 'c', "Lockhart (Plum Creek, Texas)"),
+    'Matagorda (ville)': (-95.97, 28.69, 'c', "Matagorda (Texas)"),
+    'Cuero': (-97.29, 29.09, 'c', "Cuero (comté de DeWitt, Texas)"),
+    'Granbury': (-97.79, 32.44, 'c', "Granbury (Texas)"),
 })
 
 
