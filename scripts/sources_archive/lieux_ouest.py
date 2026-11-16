@@ -1525,6 +1525,22 @@ G.update({
     'Holy Ground (Alabama)': (-86.75, 32.2, 'h', 'Holy Ground (Econochaca), rivière Alabama'),
     'Benton (Yazoo)': (-90.26, 32.82, 'h', 'Benton, comté de Yazoo (Mississippi)'),
     'Rivière Jourdan (Hancock)': (-89.42, 30.38, 'h', 'Rivière Jourdan, comté de Hancock (Mississippi)'),
+    'Grand Gulf (Mississippi)': (-91.05, 32.03, 'h', 'Grand Gulf, comté de Claiborne (Mississippi)'),
+    'Rivière Yazoo (Mississippi)': (-90.95, 32.42, 'h', 'Rivière Yazoo (Mississippi)'),
+    'Yazoo City (Mississippi)': (-90.41, 32.86, 'c', 'Yazoo City (Mississippi)'),
+    'Grenada (Mississippi)': (-89.81, 33.77, 'c', 'Grenada (Mississippi)'),
+    'Comté de Hancock (Mississippi)': (-89.47, 30.4, 'h', 'Comté de Hancock (Mississippi)'),
+    'Comté de Jackson (Mississippi)': (-88.62, 30.55, 'h', 'Comté de Jackson (Mississippi)'),
+    'Comté de Marion (Mississippi)': (-89.84, 31.25, 'h', 'Comté de Marion, Columbia (Mississippi)'),
+    'Comté de Jefferson (Mississippi)': (-91.06, 31.73, 'h', 'Comté de Jefferson (Mississippi)'),
+    'Comté de Warren (Mississippi)': (-90.85, 32.35, 'h', 'Comté de Warren (Mississippi)'),
+    'Jones Bluff (Tombigbee)': (-88.2, 32.69, 'h', "Jones' Bluff sur la Tombigbee (Epes, Alabama)"),
+    'Dancing Rabbit Creek (Noxubee)': (-88.68, 32.98, 'h', 'Dancing Rabbit Creek, comté de Noxubee (Mississippi)'),
+    'Rivière Amite (Mississippi)': (-90.8, 31.0, 'h', 'Rivière Amite (Mississippi-Louisiane)'),
+    'Moss Point (Mississippi)': (-88.53, 30.41, 'c', 'Moss Point, comté de Jackson (Mississippi)'),
+    'East Pascagoula (Mississippi)': (-88.54, 30.36, 'c', 'East Pascagoula (Mississippi)'),
+    'Magnolia (Mississippi)': (-90.46, 31.14, 'c', 'Magnolia, comté de Pike (Mississippi)'),
+    'Holly Springs (Mississippi)': (-89.45, 34.77, 'c', 'Holly Springs (Mississippi)'),
 })
 
 
