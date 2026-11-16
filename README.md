@@ -217,7 +217,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `reportanexpidit00sitggoog` | 5 |
 | `conquestofnewmex00cookrich` | 6 |
 | `arizonahistorica03univ` (n° 1-3, 1930) | 2 |
-| `historyofarizona03faririch` à `historyofarizona08faririch` | 10 |
+| `historyofarizona03faririch` à `historyofarizona08faririch` | 12 |
 
 
 ## Un point par lieu et adresses précises
