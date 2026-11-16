@@ -183,6 +183,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofwyoming02bart` | 5 |
 | Progressive Men of Wyoming (1903), transcription rootsweb | 3 |
 | `annalsofwyom114192324wyom` à `annalsofwyom514192728wyom` | 43 |
+| `nevcolandwyom00bancroft` (partie Wyoming) | 19 |
 
 
 ## Un point par lieu et adresses précises

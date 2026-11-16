@@ -851,6 +851,10 @@ G.update({
     'Evanston': (-110.96, 41.27, 'c', "Evanston (Wyoming)"),
     'Rawlins': (-107.24, 41.79, 'c', "Rawlins (Wyoming)"),
     'Rock Springs': (-109.2, 41.59, 'c', "Rock Springs (Wyoming)"),
+    'Cheyenne (ville)': (-104.82, 41.14, 'c', "Cheyenne (Wyoming)"),
+    'Little Snake River': (-107.9, 41.0, 'a', "Little Snake River (Wyoming-Colorado)"),
+    'Bighorn Mountains': (-107.3, 44.4, 'a', "Monts Bighorn (Wyoming)"),
+    'Fort Washakie': (-108.88, 43.0, 'c', "Fort Washakie (Wind River)"),
 })
 
 
