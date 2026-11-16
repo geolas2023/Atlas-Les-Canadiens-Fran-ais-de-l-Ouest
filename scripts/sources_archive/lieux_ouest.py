@@ -796,7 +796,13 @@ G.update({
     'Fort Lewis (Montana)': (-110.5, 47.9, 'a', "fort Lewis (haut Missouri, Montana)"),
     'Little Blackfoot': (-112.6, 46.55, 'h', "rivière Little Blackfoot (Montana)"),
     'Saint-Joseph (Missouri)': (-94.85, 39.77, 'c', "Saint-Joseph (Missouri)"),
+    'Portes des Montagnes (Helena)': (-111.85, 46.8, 'a', "Portes des Montagnes (Gates of the Mountains, Missouri)"),
+    'Fort Mitchell (Scotts Bluff)': (-103.7, 41.88, 'a', "fort Mitchell (Scotts Bluff, Nebraska)"),
+    'Monts Bear Paw': (-109.4, 48.2, 'h', "monts Bear Paw (Montana)"),
+    'Grand Lac Salé': (-112.5, 41.1, 'h', "Grand Lac Salé (Utah)"),
+    'Green River (Wyoming)': (-109.6, 41.5, 'h', "rivière Green (Wyoming)"),
 })
+
 
 
 

@@ -172,6 +172,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `contributionstohvol1hist1876rich` | 22 |
 | `contributionstohvol2hist1896rich` | 32 |
 | `contributionstohvol3hist1900rich` | 17 |
+| `contributionstohvol7hist1910rich` | 4 |
+| `contributionstoh08mont` | 5 |
+| `contributionstohvol9hist1923rich` | 6 |
 
 
 ## Un point par lieu et adresses précises
