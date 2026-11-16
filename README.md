@@ -213,6 +213,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `arizonaprehistor01mcclrich` | 17 |
 | `arizonaprehistor02mcclrich` | 8 |
 | `arizonaprehistor03mcclrich` | 20 |
+| `historyofarizona01faririch`, `historyofarizona02faririch` | 7 |
 
 
 ## Un point par lieu et adresses précises

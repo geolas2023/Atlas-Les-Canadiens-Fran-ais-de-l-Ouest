@@ -306404,6 +306404,244 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -111.95,
+     33.12
+    ]
+   },
+   "properties": {
+    "id": "ZF-aubrey-felix-villages-p",
+    "nom": "Villages pimas de la Gila (Arizona) : Felix Aubrey",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1828.999,
+    "date_edtf": "1826/1828",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Felix Aubrey"
+    ],
+    "description": "Villages pimas de la Gila (Arizona), 1826-1828. Felix Aubrey est un Canadien de naissance, d'origine française, trappeur qui ouvre des pistes vers l'Arizona et la Californie et laisse son nom à des lieux. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 1, p. 94, 100 ; texte intégral : archive.org, historyofarizona01faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona01faririch?q=AUBREY",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.3,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": "ZF-leroux-riviere-sa",
+    "nom": "Rivière San Pedro et route de Cooke (Arizona) : Leroux",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Leroux"
+    ],
+    "description": "Rivière San Pedro et route de Cooke (Arizona), 1846. Leroux est le guide en chef du bataillon mormon de Cooke et propose une route vers l'ouest. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 1, p. 137-138 ; texte intégral : archive.org, historyofarizona01faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona01faririch?q=LEROUX",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.7,
+     35.3
+    ]
+   },
+   "properties": {
+    "id": "ZF-marcou-jules-san-franci",
+    "nom": "Monts San Francisco (nord de l'Arizona) : Jules Marcou",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jules Marcou"
+    ],
+    "description": "Monts San Francisco (nord de l'Arizona), 1853. Jules Marcou est géologue et ingénieur des mines de l'exploration ferroviaire de Whipple. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 1, p. 266 ; texte intégral : archive.org, historyofarizona01faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona01faririch?q=MARCOU",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.3,
+     33.38
+    ]
+   },
+   "properties": {
+    "id": "ZF-francais-deux-chameliers-confluent-",
+    "nom": "Confluent de la Gila et de la Salt (Arizona) : Deux chameliers Français",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Deux chameliers Français"
+    ],
+    "description": "Confluent de la Gila et de la Salt (Arizona), 1876. Deux chameliers Français rassemblent une trentaine de chameaux errants au nord de la Salt et de la Gila et les emmènent au Nevada. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 1, p. 360 ; texte intégral : archive.org, historyofarizona01faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona01faririch?q=FRANÇAIS",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.05,
+     31.61
+    ]
+   },
+   "properties": {
+    "id": "ZF-janin-tubac",
+    "nom": "Tubac (Arizona) : Janin",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Janin"
+    ],
+    "description": "Tubac (Arizona), 1863. Janin est un jeune savant du groupe de Butterworth sur la rivière Santa Cruz. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 2, p. 156-161 ; texte intégral : archive.org, historyofarizona02faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona02faririch?q=JANIN",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.47,
+     34.54
+    ]
+   },
+   "properties": {
+    "id": "ZF-buxton-felix-prescott",
+    "nom": "Prescott (Arizona) : Felix Buxton",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1863.999,
+    "date_edtf": "1862/1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Felix Buxton"
+    ],
+    "description": "Prescott (Arizona), 1862-1863. Felix Buxton est inscrit comme venant de France sur le rôle de l'expédition Walker. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 2, p. 242-243 ; texte intégral : archive.org, historyofarizona02faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona02faririch?q=BUXTON",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.6,
+     34.3
+    ]
+   },
+   "properties": {
+    "id": "ZF-cholet-felix-hassayampa",
+    "nom": "District minier Pioneer, Hassayampa (Arizona) : Felix Cholet",
+    "corpus": "archive.org · Farish, History of Arizona (1915-1916)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Felix Cholet"
+    ],
+    "description": "District minier Pioneer, Hassayampa (Arizona), 1863. Felix Cholet figure parmi les premiers prospecteurs du district minier Pioneer. D'après Farish, History of Arizona (1915-1916).",
+    "sources": "T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916, vol. 2, p. 304 ; texte intégral : archive.org, historyofarizona02faririch.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Farish, History of Arizona (1915-1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofarizona02faririch?q=CHOLET",
+      "texte": "Lire Farish, History of Arizona (1915-1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -111.97,
      41.22
     ]
