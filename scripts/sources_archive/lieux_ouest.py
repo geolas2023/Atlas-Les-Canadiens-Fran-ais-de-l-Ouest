@@ -1043,6 +1043,17 @@ G.update({
     'San Marcos (Texas)': (-97.94, 29.88, 'c', "San Marcos (Texas)"),
     'Port Lavaca': (-96.63, 28.62, 'c', "Lavaca (Port Lavaca, Texas)"),
     'Camp de la Leona': (-99.79, 29.17, 'h', "camp de la Leona (Fort Inge, Texas)"),
+    'Villages taovayas': (-97.65, 33.93, 'h', "villages taovayas (Spanish Fort, rivière Rouge, Texas)"),
+    'Villages tawakonis': (-97.15, 31.65, 'h', "villages tawakonis (Tuacanas, Brazos, Texas)"),
+    'Villages kichais': (-95.90, 32.00, 'h', "villages kichais (haute Trinity, Texas)"),
+    'Village yatasi': (-93.85, 32.45, 'h', "village des Yatasis (Louisiane-Texas)"),
+    'Petit Cado': (-93.95, 32.55, 'h', "village du Petit Cado (rivière Rouge)"),
+    'Village hainai': (-94.95, 31.55, 'h', "village des Hainais (Texas)"),
+    'Village nabedache': (-95.25, 31.45, 'h', "village des Nabedaches (San Pedro, Texas)"),
+    'Bucareli': (-95.95, 31.05, 'h', "Nuestra Señora del Pilar de Bucareli (Trinity, Texas)"),
+    'Orcoquisac': (-94.73, 29.81, 'h', "El Orcoquisac (San Agustín de Ahumada, bas Trinity)"),
+    'Villages bidais': (-95.60, 30.75, 'h', "villages bidais (Texas)"),
+    'Villages tonkawas': (-97.40, 30.60, 'h', "villages tonkawas (Tancahues, Texas)"),
 })
 
 
