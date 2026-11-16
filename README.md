@@ -347,6 +347,12 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `travelsthroughth01boss` | 2 |
 | `historicalreview03hemp` | 1 |
 | Andreas et Cutler (1883), transcription kancoll.org | 96 |
+| `collectionsofkan08kans_0` | 9 |
+| `collectionsofkan09kans` | 37 |
+| `collectionsofkan10kans_0` | 8 |
+| `collectionsofkan13kans` | 6 |
+| `collectionsofkan1619kans` | 62 |
+| `collectionsofkan1719kans` | 8 |
 
 
 ## Un point par lieu et adresses précises
