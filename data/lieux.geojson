@@ -368148,6 +368148,2148 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LI-iberville-pierre-le-moyne-d-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Pierre Le Moyne d' Iberville conduit la flotte partie de Brest et fonde la colonie. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 10-12 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=IBERVILLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LI-sauvolle-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Sauvolle",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1701.999,
+    "date_edtf": "1699/1701",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sauvolle"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699-1701. Sauvolle garde le fort de Biloxi et y meurt. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 12 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=SAUVOLLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-bienville-jean-baptiste-le-m-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "evenement",
+    "debut": 1718.0,
+    "fin": 1743.999,
+    "date_edtf": "1718/1743",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "La Nouvelle-Orléans, 1718-1743. Jean-Baptiste Le Moyne de Bienville fonde la ville et y établit le siège de la colonie. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : Bayou Saint-Jean (La Nouvelle-Orléans).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 11-36 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BIENVILLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.09,
+     30.0
+    ]
+   },
+   "properties": {
+    "id": "LI-bienville-jean-baptiste-le-m-bayou-sain",
+    "nom": "Bayou Saint-Jean (La Nouvelle-Orléans) : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Bayou Saint-Jean (La Nouvelle-Orléans), 1736. Jean-Baptiste Le Moyne de Bienville part du bayou Saint-Jean contre les Chicachas. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 11-36 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BIENVILLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-le-blond-de-la-tour-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le Blond De La Tour",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1720.0,
+    "fin": 1720.0,
+    "date_edtf": "1720",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Blond De La Tour"
+    ],
+    "description": "La Nouvelle-Orléans, 1720. Le Blond De La Tour trace les rues, les lots et la place d'Armes. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 17-18 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LE+BLOND+DE+LA+TOUR",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-perier-new-orlean",
+    "nom": "La Nouvelle-Orléans : Perier",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1726.0,
+    "fin": 1733.999,
+    "date_edtf": "1726/1733",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Perier"
+    ],
+    "description": "La Nouvelle-Orléans, 1726-1733. Perier est gouverneur et recommande l'assainissement de la ville. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 27-34, 288 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=PERIER",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "LI-st-denis-natchitoch",
+    "nom": "Natchitoches : St. Denis",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "evenement",
+    "debut": 1731.0,
+    "fin": 1731.0,
+    "date_edtf": "1731~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "St. Denis"
+    ],
+    "description": "Natchitoches, vers 1731. St. Denis combat les Natchez sur la rivière Rouge. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 33 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=ST+DENIS",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-vaudreuil-le-marquis-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le marquis de Vaudreuil",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1743.0,
+    "fin": 1753.999,
+    "date_edtf": "1743/1753",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le marquis de Vaudreuil"
+    ],
+    "description": "La Nouvelle-Orléans, 1743-1753. Le marquis de Vaudreuil tient une cour fastueuse. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 37-38 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=VAUDREUIL",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-kerlerec-new-orlean",
+    "nom": "La Nouvelle-Orléans : Kerlerec",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1753.0,
+    "fin": 1763.999,
+    "date_edtf": "1753/1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Kerlerec"
+    ],
+    "description": "La Nouvelle-Orléans, 1753-1763. Kerlerec est gouverneur, rappelé et embastillé. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 49-50 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=KERLEREC",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-rochemore-new-orlean",
+    "nom": "La Nouvelle-Orléans : Rochemore",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rochemore"
+    ],
+    "description": "La Nouvelle-Orléans, 1758. Rochemore est commissaire ordonnateur et se brouille avec le Conseil. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 58-59 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=ROCHEMORE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-d-abbadie-new-orlean",
+    "nom": "La Nouvelle-Orléans : D'Abbadie",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D'Abbadie"
+    ],
+    "description": "La Nouvelle-Orléans, 1763. D'Abbadie succède à Kerlerec comme directeur général. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 50, 55 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=D+ABBADIE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-milhet-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Milhet",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1765.0,
+    "fin": 1769.999,
+    "date_edtf": "1765/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Milhet"
+    ],
+    "description": "La Nouvelle-Orléans, 1765-1769. Jean Milhet porte la pétition des colons à Paris et finit au Morro de La Havane. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 53-75 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=MILHET",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-foucault-new-orlean",
+    "nom": "La Nouvelle-Orléans : Foucault",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1769.999,
+    "date_edtf": "1766/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Foucault"
+    ],
+    "description": "La Nouvelle-Orléans, 1766-1769. Foucault mène l'opposition aux Espagnols puis dénonce ses complices. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 59-75 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=FOUCAULT",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-aubry-new-orlean",
+    "nom": "La Nouvelle-Orléans : Aubry",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1769.999,
+    "date_edtf": "1766/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Aubry"
+    ],
+    "description": "La Nouvelle-Orléans, 1766-1769. Aubry accepte la cession et périt en mer sur la Garonne. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 55-75 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=AUBRY",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-lafreniere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Lafrénière",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1769.999,
+    "date_edtf": "1766/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lafrénière"
+    ],
+    "description": "La Nouvelle-Orléans, 1766-1769. Lafrénière préside les conjurés chez Madame Pradal et est fusillé place d'Armes. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 60-74 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAFRÉNIÈRE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-pradal-madame-new-orlean",
+    "nom": "La Nouvelle-Orléans : Madame Pradal",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Madame Pradal"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. Madame Pradal reçoit les conjurés. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 65 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=PRADAL",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-conjures-de-1768-les-execute-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les exécutés Conjurés de 1768",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1769.999,
+    "date_edtf": "1768/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les exécutés Conjurés de 1768"
+    ],
+    "description": "La Nouvelle-Orléans, 1768-1769. Les exécutés Conjurés de 1768 soulèvent la ville et sont fusillés : Joseph Milhet, Caresse, Marquis, Noyan. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 65-74 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=CONJURÉS+DE+",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.36,
+     23.13
+    ]
+   },
+   "properties": {
+    "id": "LI-conjures-de-1768-les-deporte-la-havane",
+    "nom": "La Havane (Cuba) : Les déportés Conjurés de 1768",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les déportés Conjurés de 1768"
+    ],
+    "description": "La Havane (Cuba), 1769. Les déportés Conjurés de 1768 sont emprisonnés au Morro : Petit, Poupet, Doucet, Balthasar de Masan, Hardy de Boisblanc. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 65-75 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=CONJURÉS+DE+",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     30.02
+    ]
+   },
+   "properties": {
+    "id": "LI-villere-joseph-cote-des-a",
+    "nom": "Côte des Allemands (Louisiane) : Joseph Villère",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Villère"
+    ],
+    "description": "Côte des Allemands (Louisiane), 1768. Joseph Villère fait saisir l'argent de l'agent espagnol et meurt en détention. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 65, 74, 208 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=VILLÈRE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "LI-bienville-le-lieutenant-de-v-pensacola",
+    "nom": "Pensacola (Floride) : Le lieutenant de vaisseau Bienville",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le lieutenant de vaisseau Bienville"
+    ],
+    "description": "Pensacola (Floride), 1768. Le lieutenant de vaisseau Bienville va chercher l'aide anglaise avec Noyan et meurt à Saint-Domingue. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 65, 69, 75 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BIENVILLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-braud-new-orlean",
+    "nom": "La Nouvelle-Orléans : Braud",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Braud"
+    ],
+    "description": "La Nouvelle-Orléans, 1769. Braud imprime les documents séditieux et est relâché. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 74 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BRAUD",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-deputes-de-1768-le-sassier-e-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le Sassier et St. Lette Députés de 1768",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Sassier et St. Lette Députés de 1768"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. Le Sassier et St. Lette Députés de 1768 portent l'adresse des colons en France. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 70 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=DÉPUTÉS+DE+",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "LI-la-chaise-auguste-de-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : Auguste de la Chaise",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste de la Chaise"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), vers 1794. Auguste de la Chaise est créole et projette une descente sur La Nouvelle-Orléans depuis le Kentucky. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 117 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LA+CHAISE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.12,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "LI-maison-rouge-le-marquis-de-fort-miro-",
+    "nom": "Fort Miro (Monroe, Louisiane) : Le marquis de Maison Rouge",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1795.999,
+    "date_edtf": "1794/1795",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le marquis de Maison Rouge"
+    ],
+    "description": "Fort Miro (Monroe, Louisiane), 1794-1795. Le marquis de Maison Rouge est émigré et reçoit trente mille acres sur la Washita. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 125 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=MAISON+ROUGE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-marigny-de-mandeville-new-orlean",
+    "nom": "La Nouvelle-Orléans : Marigny De Mandeville",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1798.0,
+    "fin": 1798.0,
+    "date_edtf": "1798~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Marigny De Mandeville"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1798. Marigny De Mandeville reçoit le duc d'Orléans et ses frères. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 127, 220 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=MARIGNY+DE+MANDEVILLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-marigny-de-mandeville-new-orlean-2",
+    "nom": "La Nouvelle-Orléans : Marigny De Mandeville",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Marigny De Mandeville"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1806. Marigny De Mandeville voit sa plantation lotie en faubourg Marigny. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 127, 220 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=MARIGNY+DE+MANDEVILLE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-grandpre-constance-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Constance de Grandpré",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1785.0,
+    "fin": 1785.0,
+    "date_edtf": "1785~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Constance de Grandpré"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1785. Constance de Grandpré est créole et épouse le fonctionnaire espagnol Gayarré. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 115 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=GRANDPRÉ",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-louis-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Louis",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1737.0,
+    "fin": 1737.0,
+    "date_edtf": "1737",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Louis"
+    ],
+    "description": "La Nouvelle-Orléans, 1737. Jean Louis est marin mourant dont le legs fonde l'hôpital de charité. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 99-100 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LOUIS",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-debreuil-new-orlean",
+    "nom": "La Nouvelle-Orléans : Debreuil",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Debreuil"
+    ],
+    "description": "La Nouvelle-Orléans, 1758. Debreuil invente une égreneuse de coton et bâtit le premier moulin à sucre. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 108-110 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=DEBREUIL",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-bore-etienne-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Étienne de Boré",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne de Boré"
+    ],
+    "description": "La Nouvelle-Orléans, 1794. Étienne de Boré réussit la granulation du sucre sur sa plantation de Carrollton. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 110-113 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BORÉ",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-destrehan-new-orlean",
+    "nom": "La Nouvelle-Orléans : Destrehan",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1790.0,
+    "fin": 1790.0,
+    "date_edtf": "1790~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Destrehan"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1790. Destrehan est beau-père de Boré et cultive déjà la canne. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 112 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=DESTREHAN",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-laussat-new-orlean",
+    "nom": "La Nouvelle-Orléans : Laussat",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Laussat"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Laussat est préfet colonial et reçoit la colonie pour la France. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 130-133 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAUSSAT",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-poydras-julien-new-orlean",
+    "nom": "La Nouvelle-Orléans : Julien Poydras",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1805. Julien Poydras exhorte les Créoles à apprendre leurs devoirs de citoyens. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 150, 211 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=POYDRAS",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-poydras-julien-new-orlean-2",
+    "nom": "La Nouvelle-Orléans : Julien Poydras",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1810. Julien Poydras achète des lots au faubourg Sainte-Marie. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 150, 211 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=POYDRAS",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.95,
+     29.27
+    ]
+   },
+   "properties": {
+    "id": "LI-audubon-jean-jacques-barataria-",
+    "nom": "Barataria (Grande Terre, Louisiane) : Jean Jacques Audubon",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Jacques Audubon"
+    ],
+    "description": "Barataria (Grande Terre, Louisiane), vers 1820. Jean Jacques Audubon chasse le pélican blanc dans les eaux de Barataria. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 162, 315 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=AUDUBON",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-lafitte-john-new-orlean",
+    "nom": "La Nouvelle-Orléans : John Lafitte",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "John Lafitte"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1808. John Lafitte est forgeron rue Saint-Philippe puis marchand rue Royale. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : Barataria (Grande Terre, Louisiane), Galveston.",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 166-170, 205-206 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAFITTE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.95,
+     29.27
+    ]
+   },
+   "properties": {
+    "id": "LI-lafitte-john-barataria-",
+    "nom": "Barataria (Grande Terre, Louisiane) : John Lafitte",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1814.999,
+    "date_edtf": "1813/1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Lafitte"
+    ],
+    "description": "Barataria (Grande Terre, Louisiane), 1813-1814. John Lafitte dirige les ventes des corsaires et tue un inspecteur des douanes au Temple. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : La Nouvelle-Orléans, Galveston.",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 166-170, 205-206 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAFITTE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.797,
+     29.301
+    ]
+   },
+   "properties": {
+    "id": "LI-lafitte-john-galveston",
+    "nom": "Galveston : John Lafitte",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1820.999,
+    "date_edtf": "1817/1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Lafitte"
+    ],
+    "description": "Galveston, 1817-1820. John Lafitte fait de l'île de Galveston son dépôt. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : La Nouvelle-Orléans, Barataria (Grande Terre, Louisiane).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 166-170, 205-206 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAFITTE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-lafitte-pierre-new-orlean",
+    "nom": "La Nouvelle-Orléans : Pierre Lafitte",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Lafitte"
+    ],
+    "description": "La Nouvelle-Orléans, 1814. Pierre Lafitte est ancien marin de la marine française, emprisonné puis évadé. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 166, 178-179, 205 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAFITTE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.95,
+     29.27
+    ]
+   },
+   "properties": {
+    "id": "LI-dominique-you-barataria-",
+    "nom": "Barataria (Grande Terre, Louisiane) : Dominique You",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dominique You"
+    ],
+    "description": "Barataria (Grande Terre, Louisiane), vers 1812. Dominique You est capitaine corsaire. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : plaine de Chalmette (bataille de La Nouvelle-Orléans), La Nouvelle-Orléans.",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 168, 195, 204-208 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=DOMINIQUE+YOU",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "LI-dominique-you-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : Dominique You",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dominique You"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1815. Dominique You commande l'artillerie de la ligne de Jackson. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : Barataria (Grande Terre, Louisiane), La Nouvelle-Orléans.",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 168, 195, 204-208 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=DOMINIQUE+YOU",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-dominique-you-new-orlean",
+    "nom": "La Nouvelle-Orléans : Dominique You",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dominique You"
+    ],
+    "description": "La Nouvelle-Orléans, 1830. Dominique You est enterré avec les honneurs militaires. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : Barataria (Grande Terre, Louisiane), plaine de Chalmette (bataille de La Nouvelle-Orléans).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 168, 195, 204-208 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=DOMINIQUE+YOU",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.95,
+     29.27
+    ]
+   },
+   "properties": {
+    "id": "LI-beluche-barataria-",
+    "nom": "Barataria (Grande Terre, Louisiane) : Beluche",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beluche"
+    ],
+    "description": "Barataria (Grande Terre, Louisiane), vers 1812. Beluche est capitaine corsaire. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : plaine de Chalmette (bataille de La Nouvelle-Orléans).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 168, 195, 204 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BELUCHE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "LI-beluche-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : Beluche",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beluche"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1815. Beluche commande l'artillerie de la ligne. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : Barataria (Grande Terre, Louisiane).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 168, 195, 204 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BELUCHE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0,
+     29.24
+    ]
+   },
+   "properties": {
+    "id": "LI-rigoult-grande-isl",
+    "nom": "Grande Isle (Louisiane) : Rigoult",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rigoult"
+    ],
+    "description": "Grande Isle (Louisiane), vers 1812. Rigoult est capitaine corsaire dont la vieille maison subsiste. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 168 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=RIGOULT",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-blanque-new-orlean",
+    "nom": "La Nouvelle-Orléans : Blanque",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Blanque"
+    ],
+    "description": "La Nouvelle-Orléans, 1814. Blanque reçoit le paquet anglais de Lafitte. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 178-180 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BLANQUE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "LI-villere-jacques-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : Jacques Villère",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Villère"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1814. Jacques Villère est général de milice, sa plantation voit débarquer les Anglais. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 180, 191-192, 206-216 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=VILLÈRE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-villere-jacques-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jacques Villère",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1820.999,
+    "date_edtf": "1816/1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Villère"
+    ],
+    "description": "La Nouvelle-Orléans, 1816-1820. Jacques Villère est gouverneur et dénonce les pirates. D'après Cable, The Creoles of Louisiana (1885). Autres lieux de l'entrée : plaine de Chalmette (bataille de La Nouvelle-Orléans).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 180, 191-192, 206-216 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=VILLÈRE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-louallier-new-orlean",
+    "nom": "La Nouvelle-Orléans : Louallier",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louallier"
+    ],
+    "description": "La Nouvelle-Orléans, 1814. Louallier est législateur des Opelousas et dénonce le manque de patriotisme. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 186 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LOUALLIER",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "LI-flaujeac-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : Flaujeac",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Flaujeac"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1815. Flaujeac est ancien canonnier de Napoléon et sert une pièce de douze. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 195-196 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=FLAUJEAC",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "LI-la-carriere-latour-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : La Carrière Latour",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "evenement",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Carrière Latour"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1815. La Carrière Latour est ingénieur et témoin de la bataille. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 186, 189 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LA+CARRIÈRE+LATOUR",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.09,
+     30.0
+    ]
+   },
+   "properties": {
+    "id": "LI-lafage-bayou-sain",
+    "nom": "Bayou Saint-Jean (La Nouvelle-Orléans) : Lafage",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "evenement",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lafage"
+    ],
+    "description": "Bayou Saint-Jean (La Nouvelle-Orléans), 1818. Lafage amène une goélette et combat le cotre des douanes Alabama. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 206 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LAFAGE",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-gravier-bertrand-et-marie-new-orlean",
+    "nom": "La Nouvelle-Orléans : Bertrand et Marie Gravier",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1788.0,
+    "fin": 1788.0,
+    "date_edtf": "1788",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bertrand et Marie Gravier"
+    ],
+    "description": "La Nouvelle-Orléans, 1788. Bertrand et Marie Gravier lotissent la villa Gravier en faubourg Sainte-Marie. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 211 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=GRAVIER",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-gravier-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Gravier",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Gravier"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1805. Jean Gravier est le « docteur » Gravier qui vit seul dans les marais et soigne les esclaves. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 213 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=GRAVIER",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-girod-claude-new-orlean",
+    "nom": "La Nouvelle-Orléans : Claude Girod",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Claude Girod"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1810. Claude Girod achète des lots au faubourg Sainte-Marie. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 211 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=GIROD",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-pontalba-la-baronne-new-orlean",
+    "nom": "La Nouvelle-Orléans : La baronne Pontalba",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La baronne Pontalba"
+    ],
+    "description": "La Nouvelle-Orléans, 1850. La baronne Pontalba fait bâtir les édifices de brique de la place d'Armes. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 213, 236 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=PONTALBA",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-pionniers-de-l-instruction-d-new-orlean",
+    "nom": "La Nouvelle-Orléans : Dimitry, Forstall, Gayarré Pionniers de L'instruction",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Dimitry, Forstall, Gayarré Pionniers de L'instruction"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1845. Dimitry, Forstall, Gayarré Pionniers de L'instruction militent pour l'école publique. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 258 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=PIONNIERS+DE+L+INSTRUCTION",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "LI-pauger-m-de-la-balise",
+    "nom": "La Balise (embouchure du Mississippi) : M. de Pauger",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1721.0,
+    "fin": 1721.0,
+    "date_edtf": "1721",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "M. de Pauger"
+    ],
+    "description": "La Balise (embouchure du Mississippi), 1721. M. de Pauger propose de creuser les passes en resserrant le courant. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 264 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=PAUGER",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-yalcour-aime-new-orlean",
+    "nom": "La Nouvelle-Orléans : Yalcour-Aimé",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Yalcour-Aimé"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1850. Yalcour-Aimé écrit sur le sucre et introduit la chaudière à vide. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 293, 308 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=YALCOUR+AIMÉ",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-forstall-e-j-new-orlean",
+    "nom": "La Nouvelle-Orléans : E. J. Forstall",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "E. J. Forstall"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1850. E. J. Forstall écrit l'histoire de la Louisiane d'après les archives françaises. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 293 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=FORSTALL",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-gottschalk-louis-new-orlean",
+    "nom": "La Nouvelle-Orléans : Louis Gottschalk",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Gottschalk"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1850. Louis Gottschalk est compositeur créole de La Nouvelle-Orléans. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 315 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=GOTTSCHALK",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-beauregard-le-general-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le général Beauregard",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Le général Beauregard"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1860. Le général Beauregard est issu d'une vieille lignée créole. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 315 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=BEAUREGARD",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LI-le-carillon-le-journal-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le journal Le Carillon",
+    "corpus": "archive.org · Cable, The Creoles of Louisiana (1885)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le journal Le Carillon"
+    ],
+    "description": "La Nouvelle-Orléans, 1874. Le journal Le Carillon publie une satire électorale en créole, rue Royale. D'après Cable, The Creoles of Louisiana (1885).",
+    "sources": "George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885, p. 318 ; texte intégral : archive.org, creolesoflouisia00cabluoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Cable, The Creoles of Louisiana (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/creolesoflouisia00cabluoft?q=LE+CARILLON",
+      "texte": "Lire Cable, The Creoles of Louisiana (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -111.2,
      35.4
     ]

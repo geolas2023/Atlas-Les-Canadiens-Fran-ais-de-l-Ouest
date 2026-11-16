@@ -1223,6 +1223,7 @@ G.update({
     'Fort Saint-Philippe': (-89.47, 29.36, 'h', "Fort Saint-Philippe (Plaquemines, Louisiane)"),
     'Fort des Petites Coquilles': (-89.75, 30.17, 'h', "Fort des Petites Coquilles (Rigolets, Louisiane)"),
     'Gentilly': (-90.05, 30.01, 'h', "Gentilly (La Nouvelle-Orléans)"),
+    'Grande Isle': (-90.0, 29.24, 'h', "Grande Isle (Louisiane)"),
 })
 
 
