@@ -230,6 +230,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `journeythroughte01olms` | 8 |
 | `ahistorytexasan01winkgoog`, `historyoftexaste04john` | 50 |
 | `TexasInTheMiddle18thC` | 23 |
+| `historyoftexasfr01brow`, `historyoftexasfr02brow` | 11 |
 
 
 ## Un point par lieu et adresses précises
