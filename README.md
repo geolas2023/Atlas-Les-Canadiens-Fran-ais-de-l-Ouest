@@ -210,6 +210,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `arizonanewmex00bancroft` (partie Arizona) | 10 |
 | `soldiersofcrossn00salp` | 22 |
 | `portraitbioarizo00chaprich` | 17 |
+| `arizonaprehistor01mcclrich` | 17 |
+| `arizonaprehistor02mcclrich` | 8 |
+| `arizonaprehistor03mcclrich` | 20 |
 
 
 ## Un point par lieu et adresses précises

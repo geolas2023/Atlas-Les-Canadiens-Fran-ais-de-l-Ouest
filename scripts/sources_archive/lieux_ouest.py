@@ -958,6 +958,21 @@ G.update({
     'Clifton (Arizona)': (-109.30, 33.05, 'c', "Clifton (Arizona)"),
     'Jerome (Arizona)': (-112.11, 34.75, 'c', "Jerome (Arizona)"),
     'Tempe': (-111.94, 33.43, 'c', "Tempe (Arizona)"),
+    'Villages pimas': (-111.95, 33.12, 'a', "villages pimas de la Gila (Arizona)"),
+    'Rich Hill (Arizona)': (-112.75, 34.1, 'a', "Rich Hill et placers de Weaver (Arizona)"),
+    'Confluent Gila-Salt': (-112.3, 33.38, 'a', "confluent de la Gila et de la Salt (Arizona)"),
+    'Tonto Creek': (-111.3, 34.1, 'a', "Tonto Creek et Pleasant Valley (Arizona)"),
+    'Verde Valley': (-111.85, 34.6, 'a', "vallée de la Verde (Arizona)"),
+    'Cocóspera (Sonora)': (-110.7, 30.97, 'c', "Cocóspera (Sonora, Mexique)"),
+    'Guaymas': (-110.9, 27.92, 'c', "Guaymas (Sonora, Mexique)"),
+    'La Paz (Arizona)': (-114.43, 33.68, 'c', "La Paz (comté de Yuma, Arizona)"),
+    'Morenci': (-109.33, 33.08, 'c', "Morenci (Arizona)"),
+    'Flagstaff': (-111.65, 35.2, 'c', "Flagstaff (Arizona)"),
+    'Bisbee': (-109.93, 31.45, 'c', "Bisbee (Arizona)"),
+    'Globe (Arizona)': (-110.79, 33.39, 'c', "Globe (Arizona)"),
+    'Winslow (Arizona)': (-110.7, 35.02, 'c', "Winslow (Arizona)"),
+    'Douglas (Arizona)': (-109.55, 31.34, 'c', "Douglas (Arizona)"),
+    'St. Johns (Arizona)': (-109.36, 34.51, 'c', "St. Johns (Arizona)"),
 })
 
 
