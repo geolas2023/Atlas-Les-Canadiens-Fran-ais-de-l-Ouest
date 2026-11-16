@@ -294,6 +294,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `dcouverteett01marg` | 56 |
 | `dcouverteett02marg` | 38 |
 | `dcouverteett03marg` | 44 |
+| `inacadiaacadians00john` | 9 |
+| `stbernardparishl00stbe` | 8 |
 
 
 ## Un point par lieu et adresses précises
