@@ -939,6 +939,9 @@ G.update({
     'Genoa (Nevada)': (-119.85, 39.0, 'c', "Genoa (Mormon Station, Nevada)"),
     'Truckee River': (-119.6, 39.55, 'a', "rivière Truckee (Nevada)"),
     'Spring Valley (White Pine)': (-114.45, 39.0, 'a', "Spring Valley (comté de White Pine, Nevada)"),
+    'Lake Tahoe': (-120.0, 39.1, 'a', "lac Tahoe (Nevada-Californie)"),
+    'Las Vegas': (-115.14, 36.17, 'c', "Las Vegas (mission mormone, Nevada)"),
+    'Glendale (Sparks)': (-119.75, 39.53, 'c', "Glendale (Truckee Meadows, près de Sparks, Nevada)"),
 })
 
 
