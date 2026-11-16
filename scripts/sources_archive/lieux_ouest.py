@@ -1338,6 +1338,8 @@ G.update({
     'Kenté (baie de Quinte)': (-77.2, 44.1, 'h', 'mission de Kenté (baie de Quinte, Ontario)'),
     'Lac Érié (rive nord)': (-80.5, 42.6, 'h', 'rive nord du lac Érié (Ontario)'),
     'Village de la Kaskaskia (Illinois)': (-88.98, 41.33, 'h', 'grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica)'),
+    'Chastang (Alabama)': (-88.0, 30.98, 'h', 'Chastang Bluff (rivière Mobile, Alabama)'),
+    'Spring Hill (Mobile)': (-88.14, 30.69, 'h', 'Spring Hill, collège Saint-Joseph (Mobile, Alabama)'),
 })
 
 
