@@ -353,6 +353,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `collectionsofkan13kans` | 6 |
 | `collectionsofkan1619kans` | 62 |
 | `collectionsofkan1719kans` | 8 |
+| `collectionsofkan12kans_0` | 2 |
+| Blackmar (1912), transcription ksgenweb.org | 25 |
 
 
 ## Un point par lieu et adresses précises
