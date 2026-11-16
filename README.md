@@ -340,6 +340,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `biographicalhist00sout_0` | 2 |
 | `makersofarkansas01reyn` | 4 |
 | `biographicalpict01hall` | 2 |
+| `journaloftravels00nutt` | 12 |
 
 
 ## Un point par lieu et adresses précises
