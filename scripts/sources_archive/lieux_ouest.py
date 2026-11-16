@@ -1310,6 +1310,8 @@ G.update({
     'Saint-Francisville': (-91.38, 30.78, 'h', "Saint-Francisville (Féliciana)"),
     'Plaquemine Turn (fort)': (-89.5, 29.4, 'h', "Détour de Plaquemines (Louisiane)"),
     'Harvey (Louisiane)': (-90.08, 29.9, 'h', "Harvey (Louisiane)"),
+    'Carrollton (Louisiane)': (-90.13, 29.95, 'h', "Carrollton (La Nouvelle-Orléans)"),
+    'Île Amelia': (-81.46, 30.63, 'h', "Île Amelia (Floride)"),
 })
 
 
