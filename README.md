@@ -360,6 +360,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Ramsey (1853), transcription ldsgenealogy.com | 5 |
 | Albright (1909), transcription ahgp.org | 2 |
 | Goodspeed, Shelby (1887), transcription usgwarchives.us | 7 |
+| `historymiddlete00putngoog` | 6 |
 
 
 ## Un point par lieu et adresses précises
