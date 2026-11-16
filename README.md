@@ -239,6 +239,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `texastexansoradv01foot`, `texastexansoradv02foot` | 1 |
 | `beginningsoftexa00clar` | 11 |
 | `sanantoniodebexa00corn` | 5 |
+| `texasriseprogre01kenngoog` | 4 |
 
 
 ## Un point par lieu et adresses précises
