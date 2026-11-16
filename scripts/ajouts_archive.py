@@ -167,6 +167,7 @@ LIVRES = [
     ('montana_contributions_v8_1917.txt', 'M8', {'court': 'Contributions Montana VIII (1917)', 'ref': "Contributions to the Historical Society of Montana, vol. 8 (1917)"}, 'contributionstoh08mont', lambda nom, ref: ref),
     ('montana_contributions_v9_1923.txt', 'M9', {'court': 'Contributions Montana IX (1923)', 'ref': "Contributions to the Historical Society of Montana, vol. 9 (1923)"}, 'contributionstohvol9hist1923rich', lambda nom, ref: ref),
     ('montana_miller_1894.txt', 'MI', {'court': 'Illustrated History of Montana (1894)', 'ref': "Joaquin Miller (dir.), An Illustrated History of the State of Montana (1894)"}, 'illustratedhisto00mill', lambda nom, ref: ref),
+    ('montana_sanders_1913.txt', 'MS', {'court': 'Sanders (1913)', 'ref': "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol."}, lambda ref: 'historyofmontana11sand' if ref.startswith('vol. 1') else ('historyofmontanab02sand' if ref.startswith('vol. 2') else 'historyofmontana03insand'), lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -288554,6 +288554,890 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -114.1,
+     46.3
+    ]
+   },
+   "properties": {
+    "id": "MS-rivals-francois-bitterroot",
+    "nom": "Vallée de la Bitterroot (Montana) : François Rivals",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Rivals"
+    ],
+    "description": "Vallée de la Bitterroot (Montana), vers 1806. François Rivals serait venu dans l'Ouest avec Lewis et Clark, puis revenu épouser une Tête-Plate, selon sa famille. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 1, p. 91 ; texte intégral : archive.org, historyofmontana11sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana11sand?q=RIVALS",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.2,
+     47.2
+    ]
+   },
+   "properties": {
+    "id": "MS-rivals-michel-vallee-de-",
+    "nom": "Vallée de la Jocko (Montana) : Michel Rivals",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1910.999,
+    "date_edtf": "1870~/1910~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel Rivals"
+    ],
+    "description": "Vallée de la Jocko (Montana), vers 1870-1910. Michel Rivals est le fils de François et interprète du gouvernement pendant près de quarante ans. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 1, p. 91 ; texte intégral : archive.org, historyofmontana11sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana11sand?q=RIVALS",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "MS-leclerc-narcisse-fort-union",
+    "nom": "Fort Union : Narcisse Leclerc",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Narcisse Leclerc"
+    ],
+    "description": "Fort Union, 1832. Narcisse Leclerc est un ancien employé de la compagnie qui monte une cargaison d'alcool qui provoque l'interdiction fédérale, puis est emprisonné à l'instigation de Cabanné. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 1, p. 131 ; texte intégral : archive.org, historyofmontana11sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana11sand?q=LECLERC",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.4,
+     42.1
+    ]
+   },
+   "properties": {
+    "id": "MS-ignace-le-jeune-bear-river",
+    "nom": "Rivière aux Ours (Bear River) : Le jeune Ignace",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Le jeune Ignace"
+    ],
+    "description": "Rivière aux Ours (Bear River), 1839. Le jeune Ignace attend tout l'hiver à l'embouchure de la Bear River pour guider un prêtre chez les Têtes-Plates. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 1, p. 148-149 ; texte intégral : archive.org, historyofmontana11sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana11sand?q=IGNACE",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "MS-ducharme-x-snake-rive",
+    "nom": "Rivière Snake : Ducharme",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ducharme"
+    ],
+    "description": "Rivière Snake, 1839. Ducharme est un trappeur d'une bande de quarante hommes qui prend du castor et franchit la ligne de partage des eaux. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 1, p. 657 ; texte intégral : archive.org, historyofmontana11sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana11sand?q=DUCHARME",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     48.06
+    ]
+   },
+   "properties": {
+    "id": "MS-champaigne-michael-milk-river",
+    "nom": "Rivière au Lait (Milk River) : Michael Champaigne",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michael Champaigne"
+    ],
+    "description": "Rivière au Lait (Milk River), 1848. Michael Champaigne dirige l'un des trois postes ouverts par Culbertson en 1848. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 1, p. 139 ; texte intégral : archive.org, historyofmontana11sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana11sand?q=CHAMPAIGNE",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.94,
+     45.29
+    ]
+   },
+   "properties": {
+    "id": "MS-pepin-simon-virginia-c",
+    "nom": "Virginia City (Montana) : Simon Pepin",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Simon Pepin"
+    ],
+    "description": "Virginia City (Montana), 1863. Simon Pepin, né en 1840 à Saint-Michel (Canada), arrive à Virginia City et travaille pour la compagnie de roulage Diamond R. D'après Sanders (1913). Autres lieux de l'entrée : Havre (Montana).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 881 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=PEPIN",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.68,
+     48.55
+    ]
+   },
+   "properties": {
+    "id": "MS-pepin-simon-havre",
+    "nom": "Havre (Montana) : Simon Pepin",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1913.999,
+    "date_edtf": "1890~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Simon Pepin"
+    ],
+    "description": "Havre (Montana), vers 1890-1913. Simon Pepin, né en 1840 à Saint-Michel (Canada), est le fondateur de Havre, éleveur et président de la Broadwater-Pepin Company. D'après Sanders (1913). Autres lieux de l'entrée : Virginia City (Montana).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 881 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=PEPIN",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.03,
+     46.59
+    ]
+   },
+   "properties": {
+    "id": "MS-des-combes-henry-l-helena",
+    "nom": "Helena (Montana) : Henry L. des Combes",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1864.0,
+    "fin": 1864.0,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry L. des Combes"
+    ],
+    "description": "Helena (Montana), 1864. Henry L. des Combes, né en 1838 à Saint-Louis (comté), est un mineur pionnier qui fonde l'hôtel Overland d'Helena. D'après Sanders (1913). Autres lieux de l'entrée : Belt (Montana).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 945-946 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=DES+COMBES",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.93,
+     47.38
+    ]
+   },
+   "properties": {
+    "id": "MS-des-combes-henry-l-belt-monta",
+    "nom": "Belt (Montana) : Henry L. des Combes",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1900.0,
+    "fin": 1913.999,
+    "date_edtf": "1900~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry L. des Combes"
+    ],
+    "description": "Belt (Montana), vers 1900-1913. Henry L. des Combes, né en 1838 à Saint-Louis (comté), est juge de paix et notaire à Belt. D'après Sanders (1913). Autres lieux de l'entrée : Helena (Montana).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 945-946 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=DES+COMBES",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.84,
+     46.41
+    ]
+   },
+   "properties": {
+    "id": "MS-levalley-dan-miles-city",
+    "nom": "Miles City (Montana) : Dan Levalley",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1913.999,
+    "date_edtf": "1870/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dan Levalley"
+    ],
+    "description": "Miles City (Montana), 1870-1913. Dan Levalley, né en 1849 à Québec (environs), est chasseur et trappeur, puis éleveur, et devient un grand éleveur de moutons du comté de Dawson. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1015-1016 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=LEVALLEY",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.667,
+     47.818
+    ]
+   },
+   "properties": {
+    "id": "MS-de-lorimier-alfred-o-fort-bento",
+    "nom": "Fort Benton : Alfred O. de Lorimier",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "poste",
+    "debut": 1879.0,
+    "fin": 1913.999,
+    "date_edtf": "1879/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alfred O. de Lorimier"
+    ],
+    "description": "Fort Benton, 1879-1913. Alfred O. de Lorimier est le fils d'un Canadien ; ancien commis à Montréal et Chicago, dirige le rayon des tissus de T. C. Power & Brothers et épouse en 1899 Jeanne Marie Gonin, née à Lyon. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1105-1106 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=DE+LORIMIER",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0,
+     46.87
+    ]
+   },
+   "properties": {
+    "id": "MS-harnois-charles-a-missoula",
+    "nom": "Missoula (Montana) : Charles A. Harnois",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1913.999,
+    "date_edtf": "1880~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles A. Harnois"
+    ],
+    "description": "Missoula (Montana), vers 1880-1913. Charles A. Harnois, né en 1857 à Saint-Joseph (Missouri), est le fils d'un Canadien ; ancien mousse de vapeur, possède le théâtre Harnois. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1134-1135 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=HARNOIS",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.08,
+     47.17
+    ]
+   },
+   "properties": {
+    "id": "MS-demers-alexander-l-arlee",
+    "nom": "Arlee (Montana) : Alexander L. Demers",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1913.999,
+    "date_edtf": "1880/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander L. Demers"
+    ],
+    "description": "Arlee (Montana), 1880-1913. Alexander L. Demers, né en 1849 à Montréal, est longtemps maître de poste et principal marchand d'Arlee et possède un ranch voisin. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1138-1139 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=DEMERS",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.71,
+     47.1
+    ]
+   },
+   "properties": {
+    "id": "MS-dion-henry-glendive",
+    "nom": "Glendive (Montana) : Henry Dion",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1878.0,
+    "fin": 1913.999,
+    "date_edtf": "1878/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Dion"
+    ],
+    "description": "Glendive (Montana), 1878-1913. Henry Dion, né en 1846 à Québec, devient le premier shérif du comté de Dawson, puis président de l'Exchange State Bank. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1144-1145 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=DION",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.53,
+     46.0
+    ]
+   },
+   "properties": {
+    "id": "MS-chauvin-joseph-butte",
+    "nom": "Butte (Montana) : Joseph Chauvin",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1913.999,
+    "date_edtf": "1881/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Chauvin"
+    ],
+    "description": "Butte (Montana), 1881-1913. Joseph Chauvin, né en 1848 à Shelburne (Vermont), est courtier et investisseur minier, fonde un commerce de meubles et dirige longtemps le parti républicain local. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1177-1179 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=CHAUVIN",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.77,
+     45.67
+    ]
+   },
+   "properties": {
+    "id": "MS-allard-william-l-laurel-mon",
+    "nom": "Laurel (Montana) : William L. Allard",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1913.999,
+    "date_edtf": "1882/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William L. Allard"
+    ],
+    "description": "Laurel (Montana), 1882-1913. William L. Allard, né en 1852 à Colchester (Vermont), est le fils des Canadiens Peter Allard et Sophia LaPierre ; possède 960 acres et est vice-président de la Laurel State Bank. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1204-1205 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=ALLARD",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.94,
+     46.13
+    ]
+   },
+   "properties": {
+    "id": "MS-bourbonniere-albert-anaconda",
+    "nom": "Anaconda (Montana) : Albert Bourbonniere",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1913.999,
+    "date_edtf": "1883~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Albert Bourbonniere"
+    ],
+    "description": "Anaconda (Montana), vers 1883-1913. Albert Bourbonniere, né en 1858 à Saint-Tysant (Canada), fonde en 1888 un commerce de viande en gros et devient commissaire du comté en 1910. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1245 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=BOURBONNIERE",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.19,
+     46.98
+    ]
+   },
+   "properties": {
+    "id": "MS-wibaux-pierre-wibaux",
+    "nom": "Wibaux (Montana) : Pierre Wibaux",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1913.999,
+    "date_edtf": "1883/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Wibaux"
+    ],
+    "description": "Wibaux (Montana), 1883-1913. Pierre Wibaux, né en 1858 à Roubaix (France), est le « roi du bétail de l'Est du Montana », président de la State National Bank de Miles City ; la ville de Wibaux porte son nom. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 2, p. 1250 ; texte intégral : archive.org, historyofmontanab02sand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontanab02sand?q=WIBAUX",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.31,
+     47.31
+    ]
+   },
+   "properties": {
+    "id": "MS-daigle-sanford-dixon-mont",
+    "nom": "Dixon (Montana) : Sanford Daigle",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1913.999,
+    "date_edtf": "1885/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sanford Daigle"
+    ],
+    "description": "Dixon (Montana), 1885-1913. Sanford Daigle est né en 1867 dans le Maine ; forgeron et charron à Dixon. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1303 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=DAIGLE",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.94,
+     46.13
+    ]
+   },
+   "properties": {
+    "id": "MS-st-jean-felix-ludger-anaconda",
+    "nom": "Anaconda (Montana) : Felix Ludger St. Jean",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1886.0,
+    "fin": 1913.999,
+    "date_edtf": "1886/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Felix Ludger St. Jean"
+    ],
+    "description": "Anaconda (Montana), 1886-1913. Felix Ludger St. Jean, né en 1864 à Sherrington (Canada), est médecin à Anaconda et organise en 1890 une compagnie minière. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1313-1314 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=ST+JEAN",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.7,
+     47.27
+    ]
+   },
+   "properties": {
+    "id": "MS-tintinger-frederick-a-cascade-mo",
+    "nom": "Cascade (Montana) : Frederick A. Tintinger",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1887.0,
+    "fin": 1913.999,
+    "date_edtf": "1887~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Frederick A. Tintinger"
+    ],
+    "description": "Cascade (Montana), vers 1887-1913. Frederick A. Tintinger, né en 1875 à Kossuth (comté, Iowa), est le fils de parents français et agent immobilier et d'assurances. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1331 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=TINTINGER",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.53,
+     46.0
+    ]
+   },
+   "properties": {
+    "id": "MS-chevigny-gilbert-a-butte",
+    "nom": "Butte (Montana) : Gilbert A. Chevigny",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1913.999,
+    "date_edtf": "1889/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gilbert A. Chevigny"
+    ],
+    "description": "Butte (Montana), 1889-1913. Gilbert A. Chevigny, né en 1866 à Holbrook (Massachusetts), est dentiste à Butte et membre du bureau dentaire de l'État. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1438-1439 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=CHEVIGNY",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.84,
+     46.41
+    ]
+   },
+   "properties": {
+    "id": "MS-levalley-ben-miles-city",
+    "nom": "Miles City (Montana) : Ben Levalley",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1913.999,
+    "date_edtf": "1890~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Ben Levalley"
+    ],
+    "description": "Miles City (Montana), vers 1890-1913. Ben Levalley, né en 1867 à Québec, tient une écurie de louage puis est élu shérif du comté de Custer en 1910. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1460 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=LEVALLEY",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.09,
+     46.51
+    ]
+   },
+   "properties": {
+    "id": "MS-dagenais-joseph-stevensvil",
+    "nom": "Stevensville (Montana) : Joseph Dagenais",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1897.0,
+    "fin": 1913.999,
+    "date_edtf": "1897~/1913~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Dagenais"
+    ],
+    "description": "Stevensville (Montana), vers 1897-1913. Joseph Dagenais, né en 1872 à Montréal, est un ancien peintre décorateur, copropriétaire de la pharmacie Wilson & Dagenais. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1501 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=DAGENAIS",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0,
+     46.87
+    ]
+   },
+   "properties": {
+    "id": "MS-besancon-albert-j-missoula",
+    "nom": "Missoula (Montana) : Albert J. Besancon",
+    "corpus": "archive.org · Sanders (1913)",
+    "theme": "personnage",
+    "debut": 1909.0,
+    "fin": 1913.999,
+    "date_edtf": "1909/1913",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Albert J. Besancon"
+    ],
+    "description": "Missoula (Montana), 1909-1913. Albert J. Besancon, né en 1875 à Cornwall Bridge (Connecticut), est le fils d'un Français du Nord, avocat démocrate venu du Dakota du Nord. D'après Sanders (1913).",
+    "sources": "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol., vol. 3, p. 1792 ; texte intégral : archive.org, historyofmontana03insand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Sanders (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmontana03insand?q=BESANCON",
+      "texte": "Lire Sanders (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

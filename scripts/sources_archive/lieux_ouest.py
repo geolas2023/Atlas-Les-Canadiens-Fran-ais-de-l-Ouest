@@ -806,7 +806,19 @@ G.update({
     'Melrose (Montana)': (-112.68, 45.63, 'c', "Melrose (Montana)"),
     'Billings': (-108.5, 45.78, 'c', "Billings (Montana)"),
     'Great Falls (Montana)': (-111.3, 47.505, 'c', "Great Falls (Montana)"),
+    'Havre': (-109.68, 48.55, 'c', "Havre (Montana)"),
+    'Belt (Montana)': (-110.93, 47.38, 'c', "Belt (Montana)"),
+    'Miles City': (-105.84, 46.41, 'c', "Miles City (Montana)"),
+    'Arlee': (-114.08, 47.17, 'c', "Arlee (Montana)"),
+    'Glendive': (-104.71, 47.1, 'c', "Glendive (Montana)"),
+    'Anaconda': (-112.94, 46.13, 'c', "Anaconda (Montana)"),
+    'Laurel (Montana)': (-108.77, 45.67, 'c', "Laurel (Montana)"),
+    'Dixon (Montana)': (-114.31, 47.31, 'c', "Dixon (Montana)"),
+    'Cascade (Montana)': (-111.7, 47.27, 'c', "Cascade (Montana)"),
+    'Wibaux': (-104.19, 46.98, 'c', "Wibaux (Montana)"),
+    'Stevensville': (-114.09, 46.51, 'c', "Stevensville (Montana)"),
 })
+
 
 
 
