@@ -185,6 +185,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `annalsofwyom114192324wyom` à `annalsofwyom514192728wyom` | 43 |
 | `nevcolandwyom00bancroft` (partie Wyoming) | 19 |
 | `annalsofwyom614192930wyom`, `annalsofwyom714193031wyom` | 20 |
+| `historyofutah00bancrich` | 11 |
+| `ashleysmithexplo00daleuoft` | 15 |
+| `reportoftheexplor1845eng` (partie Utah) | 11 |
+| `explorationsurve001853stan` | 12 |
 
 
 ## Un point par lieu et adresses précises
