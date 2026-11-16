@@ -218,6 +218,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `conquestofnewmex00cookrich` | 6 |
 | `arizonahistorica03univ` (n° 1-3, 1930) | 2 |
 | `historyofarizona03faririch` à `historyofarizona08faririch` | 12 |
+| `thenorthmexivol115bancmiss`, `northmexicanst02bancrich` (Texas) | 47 |
+| `historyoftexasfr01yoak`, `historyoftexasfr02yoak` | 50 |
 
 
 ## Un point par lieu et adresses précises
