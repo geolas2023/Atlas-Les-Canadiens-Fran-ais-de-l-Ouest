@@ -1317,6 +1317,9 @@ G.update({
     'Tallulah': (-91.19, 32.41, 'h', "Tallulah (Louisiane)"),
     'Tampico': (-97.86, 22.25, 'h', "Tampico (Mexique)"),
     'Fort Necessity': (-79.587, 39.814, 'h', "Fort Necessity (Pennsylvanie)"),
+    'Colfax (Louisiane)': (-92.69, 31.52, 'h', "Colfax (Louisiane)"),
+    'Fort Louis de la Mobile': (-88.02, 30.92, 'h', "Fort Louis de la Mobile (Old Mobile, 1702-1711)"),
+    'Charleston (Caroline du Sud)': (-79.93, 32.78, 'h', "Charleston (Caroline du Sud)"),
 })
 
 
