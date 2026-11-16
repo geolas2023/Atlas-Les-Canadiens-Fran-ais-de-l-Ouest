@@ -342,6 +342,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `biographicalpict01hall` | 2 |
 | `journaloftravels00nutt` | 12 |
 | `biographicalhist02good` | 9 |
+| `centennialhistor00hern` | 6 |
+| `pioneersandmake00shingoog` | 45 |
+| `travelsthroughth01boss` | 2 |
+| `historicalreview03hemp` | 1 |
 
 
 ## Un point par lieu et adresses précises
