@@ -186,6 +186,7 @@ LIVRES = [
     ('utah_whitney_1892.txt', 'UW', {'court': 'Whitney, History of Utah, vol. 1 (1892)', 'ref': "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892"}, 'historyofutahcom01whit', lambda nom, ref: ref),
     ('utah_tullidge_1886.txt', 'UT', {'court': 'Tullidge, History of Salt Lake City (1886)', 'ref': "E. W. Tullidge, History of Salt Lake City, Salt Lake City, Star Printing Company, 1886"}, 'historyofsaltlak00tull', lambda nom, ref: ref),
     ('utah_harris_1909.txt', 'UC', {'court': 'Harris, The Catholic Church in Utah (1909)', 'ref': "W. R. Harris, The Catholic Church in Utah, Salt Lake City, Intermountain Catholic Press, 1909"}, 'catholicchurchin0000harr_k0t3', lambda nom, ref: ref),
+    ('utah_esshom_1913.txt', 'UE', {'court': 'Esshom, Pioneers and Prominent Men of Utah (1913)', 'ref': "F. Esshom, Pioneers and Prominent Men of Utah, Salt Lake City, Utah Pioneers Book Publishing Company, 1913"}, lambda ref: 'pioneersprominen02essh' if ref.startswith('p. 1084') or ref.startswith('p. 1123') else 'pioneersprominen00esshrich', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
