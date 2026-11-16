@@ -178,6 +178,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `illustratedhisto00mill` | 22 |
 | `historyofmontana11sand`, `historyofmontanab02sand`, `historyofmontana03insand` | 26 |
 | `historyofwyoming00cout` | 65 |
+| `historyofwyoming01bart` | 11 |
+| `bozemantrailhist01heba`, `bozemantrailhist02heba` | 7 |
 
 
 ## Un point par lieu et adresses précises
