@@ -1640,6 +1640,14 @@ G.update({
     'Mill Creek (Johnson)': (-94.86, 39.01, 'h', 'Mill Creek, comté de Johnson (Kansas)'),
     'Salina (Kansas)': (-97.61, 38.84, 'c', 'Salina (Kansas)'),
     'Fort Aubrey (Syracuse)': (-101.67, 37.98, 'h', 'Fort Aubrey, près de Syracuse, comté de Hamilton (Kansas)'),
+    'Saint-Joseph (Cloud)': (-97.47, 39.53, 'c', 'St. Joseph, canton de Shirley, comté de Cloud (Kansas)'),
+    'Aurora (Kansas)': (-97.53, 39.45, 'c', 'Aurora, comté de Cloud (Kansas)'),
+    'Canton Summit (Cloud)': (-97.55, 39.38, 'h', 'canton de Summit, comté de Cloud (Kansas)'),
+    'Canton Buffalo (Cloud)': (-97.85, 39.6, 'h', 'canton de Buffalo, comté de Cloud (Kansas)'),
+    'Miltonvale (Kansas)': (-97.45, 39.35, 'c', 'Miltonvale, comté de Cloud (Kansas)'),
+    'Clay Center (Kansas)': (-97.12, 39.38, 'c', 'Clay Center (Kansas)'),
+    'Lawrence (Kansas)': (-95.24, 38.97, 'c', 'Lawrence (Kansas)'),
+    'Ellsworth (Kansas)': (-98.23, 38.73, 'c', 'Ellsworth (Kansas)'),
 })
 
 
