@@ -1650,6 +1650,9 @@ G.update({
     'Ellsworth (Kansas)': (-98.23, 38.73, 'c', 'Ellsworth (Kansas)'),
     'Comté de Pottawatomie (Kansas)': (-96.3, 39.35, 'h', 'comté de Pottawatomie (Kansas)'),
     'Stockton (Kansas)': (-99.27, 39.44, 'c', 'Stockton, comté de Rooks (Kansas)'),
+    "Eaton's Station (Tennessee)": (-86.8, 36.2, 'h', "station d'Eaton, sur le Cumberland près de Nashville (Tennessee)"),
+    "Deacon's Pond (Palmyra)": (-87.47, 36.42, 'h', "Deacon's Pond, près de Palmyra, comté de Montgomery (Tennessee)"),
+    'Mississippi (frontière du Tennessee)': (-89.9, 35.8, 'h', 'Mississippi le long de la frontière ouest du Tennessee'),
 })
 
 
