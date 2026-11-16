@@ -204,6 +204,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
 | `historyofnevada00ange` | 29 |
 | `historyofstateof00wren` | 16 |
+| `historyofnevada01davirich`, `historyofnevada02davirich` | 17 |
+| `sim_nevada-historical-society-papers_1913-1916` à `_1923-1924` | 4 |
 
 
 ## Un point par lieu et adresses précises
