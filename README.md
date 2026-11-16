@@ -327,6 +327,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `mississippiprovi01missuoft` | 20 |
 | `mississippiterri01missuoft` | 8 |
 | `reportonagricult00miss` | 42 |
+| `mississippicompr03rowl` | 7 |
 
 
 ## Un point par lieu et adresses précises
