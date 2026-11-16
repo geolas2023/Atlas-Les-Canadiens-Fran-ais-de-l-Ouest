@@ -245,6 +245,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `louisianacompris03fort` | 156 |
 | `southwestlouisia00perr` | 403 |
 | `historyoflouisia01gayaiala` | 166 |
+| `historyoflouisia02gayaiala` | 102 |
 
 
 ## Un point par lieu et adresses précises
