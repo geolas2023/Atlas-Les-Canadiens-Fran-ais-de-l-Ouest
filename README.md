@@ -328,6 +328,12 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `mississippiterri01missuoft` | 8 |
 | `reportonagricult00miss` | 42 |
 | `mississippicompr03rowl` | 7 |
+| `publications01arka` | 4 |
+| `publications02arka` | 30 |
+| `publications03arka_0` | 7 |
+| `publications04arka` | 7 |
+| `pictorialhistory00hemp` | 54 |
+| `centennialhistor0001dall` | 46 |
 
 
 ## Un point par lieu et adresses précises
