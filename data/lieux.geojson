@@ -291648,6 +291648,618 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.9,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "WB-la-ramie-jacques-laramie-ri",
+    "nom": "Rivière Laramie : Jacques la Ramie",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques la Ramie"
+    ],
+    "description": "Rivière Laramie, 1821. Jacques la Ramie meurt dans la région ; la rivière, la chaîne, le fort, le comté et la ville portent son nom. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 478, 586 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=LA+RAMIE",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.9,
+     42.35
+    ]
+   },
+   "properties": {
+    "id": "WB-provost-etienne-south-pass",
+    "nom": "Col du Sud (South Pass) : Etienne Provost",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Etienne Provost"
+    ],
+    "description": "Col du Sud (South Pass), vers 1824. Etienne Provost est le Français à qui l'on attribue la découverte du col du Sud. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 478 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=PROVOST",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "WB-gervais-jean-baptiste-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Jean Baptiste Gervais",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Baptiste Gervais"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1830. Jean Baptiste Gervais devient associé de la nouvelle Rocky Mountain Fur Company, qui rachète Smith, Jackson & Sublette. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 105 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=GERVAIS",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.08,
+     42.98
+    ]
+   },
+   "properties": {
+    "id": "WB-bonneville-benjamin-l-e-fort-bonne",
+    "nom": "Fort Bonneville (Green River) : Benjamin L. E. Bonneville",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin L. E. Bonneville"
+    ],
+    "description": "Fort Bonneville (Green River), 1832. Benjamin L. E. Bonneville est un officier né en France qui bâtit près du Horse Creek le fort que les trappeurs surnomment « fort Nonsense ». D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 118 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=BONNEVILLE",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WB-sarpy-john-b-fort-laram",
+    "nom": "Fort Laramie : John B. Sarpy",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "poste",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Sarpy"
+    ],
+    "description": "Fort Laramie, 1839. John B. Sarpy est l'agent de la compagnie qui donne son nom au fort John, futur fort Laramie. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 108 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=SARPY",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "WB-cabanne-john-p-fort-platt",
+    "nom": "Fort Platte : John P. Cabanne",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "John P. Cabanne"
+    ],
+    "description": "Fort Platte, vers 1843. John P. Cabanne voit sa firme Pratte, Cabanné & Cie reprendre le fort Platte. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 108 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=CABANNE",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WB-bissonett-x-fort-laram",
+    "nom": "Fort Laramie : Bissonett",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "poste",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Bissonett"
+    ],
+    "description": "Fort Laramie, vers 1850. Bissonett est l'un des traiteurs établis au fort pour le commerce des peaux avec les Indiens. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 144 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=BISSONETT",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WB-fourier-x-fort-laram",
+    "nom": "Fort Laramie : Fourier",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "poste",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Fourier"
+    ],
+    "description": "Fort Laramie, vers 1850. Fourier est l'un des traiteurs établis au fort pour le commerce des peaux avec les Indiens. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 144 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=FOURIER",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WB-richard-freres-fort-laram",
+    "nom": "Fort Laramie : Frères Richard",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "religion",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Frères Richard"
+    ],
+    "description": "Fort Laramie, vers 1850. Frères Richard sont des traiteurs établis au fort pour le commerce des peaux avec les Indiens. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 144 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=RICHARD",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98,
+     41.93
+    ]
+   },
+   "properties": {
+    "id": "WB-bordeaux-james-bordeaux-w",
+    "nom": "Bordeaux (ranch Hunton, Chugwater, Wyoming) : James Bordeaux",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Bordeaux (ranch Hunton, Chugwater, Wyoming), vers 1860. James Bordeaux donne son nom à la localité de Bordeaux, relais de la piste du fort Laramie aux Black Hills. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 144 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=BORDEAUX",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.26,
+     44.88
+    ]
+   },
+   "properties": {
+    "id": "WB-grouard-frank-dayton-ton",
+    "nom": "Rivière Tongue (Dayton, Wyoming) : Frank Grouard",
+    "corpus": "archive.org · Bartlett (1918)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Frank Grouard"
+    ],
+    "description": "Rivière Tongue (Dayton, Wyoming), 1876. Frank Grouard est le chef éclaireur de Crook et aide à traiter avec Crazy Horse ; le livre le dit d'ascendance huguenote française. D'après Bartlett (1918).",
+    "sources": "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918), p. 148-149 ; texte intégral : archive.org, historyofwyoming01bart.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bartlett (1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming01bart?q=GROUARD",
+      "texte": "Lire Bartlett (1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "WT-provost-etienne-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Etienne Provost",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Etienne Provost"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1825. Etienne Provost est le guide vers qui se tournent les Français du rendez-vous. D'après Hebard et Brininstool (1922).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 1, p. 38 ; texte intégral : archive.org, bozemantrailhist01heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist01heba?q=PROVOST",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WT-guerrier-william-fort-laram",
+    "nom": "Fort Laramie : William Guerrier",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "William Guerrier"
+    ],
+    "description": "Fort Laramie, vers 1842. William Guerrier bâtit avec Seth Ward un magasin de traite en pierre à neuf milles à l'ouest du fort. D'après Hebard et Brininstool (1922).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 1, p. 104 ; texte intégral : archive.org, bozemantrailhist01heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist01heba?q=GUERRIER",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.5,
+     41.8
+    ]
+   },
+   "properties": {
+    "id": "WT-esse-john-fort-halle",
+    "nom": "Fort Halleck (Wyoming) : John Esse",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "poste",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "John Esse"
+    ],
+    "description": "Fort Halleck (Wyoming), 1862. John Esse est un trappeur marié à une Sioux qui offre un festin au groupe de Collins. D'après Hebard et Brininstool (1922).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 1, p. 96 ; texte intégral : archive.org, bozemantrailhist01heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist01heba?q=ESSE",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "WT-richard-x-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : Richard",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "personnage",
+    "debut": 1864.0,
+    "fin": 1864.0,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Richard"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1864. Richard exploite le pont à péage que franchit le convoi de Weaver. D'après Hebard et Brininstool (1922).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 1, p. 226 ; texte intégral : archive.org, bozemantrailhist01heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist01heba?q=RICHARD",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.47,
+     42.67
+    ]
+   },
+   "properties": {
+    "id": "WT-gangnier-baptiste-little-bat-agence-red",
+    "nom": "Agence Red Cloud (Camp Robinson, Nebraska) : Baptiste Gangnier (Little Bat)",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Gangnier (Little Bat)"
+    ],
+    "description": "Agence Red Cloud (Camp Robinson, Nebraska), 1875. Baptiste Gangnier (Little Bat) accompagne le capitaine Cook lors de sa première visite au chef Red Cloud. D'après Hebard et Brininstool (1922). Autres lieux de l'entrée : réserve de Pine Ridge (Dakota du Sud).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 2, p. 185, 189 ; texte intégral : archive.org, bozemantrailhist02heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist02heba?q=GANGNIER",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.56,
+     43.03
+    ]
+   },
+   "properties": {
+    "id": "WT-gangnier-baptiste-little-bat-pine-ridge",
+    "nom": "Réserve de Pine Ridge (Dakota du Sud) : Baptiste Gangnier (Little Bat)",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Gangnier (Little Bat)"
+    ],
+    "description": "Réserve de Pine Ridge (Dakota du Sud), 1890. Baptiste Gangnier (Little Bat) évalue avec Cook l'agitation de la danse des Esprits et conseille la retenue. D'après Hebard et Brininstool (1922). Autres lieux de l'entrée : agence Red Cloud (Camp Robinson, Nebraska).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 2, p. 185, 189 ; texte intégral : archive.org, bozemantrailhist02heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist02heba?q=GANGNIER",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.56,
+     43.03
+    ]
+   },
+   "properties": {
+    "id": "WT-pourier-baptiste-big-bat-pine-ridge",
+    "nom": "Réserve de Pine Ridge (Dakota du Sud) : Baptiste Pourier (Big Bat)",
+    "corpus": "archive.org · Hebard et Brininstool (1922)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Pourier (Big Bat)"
+    ],
+    "description": "Réserve de Pine Ridge (Dakota du Sud), 1890. Baptiste Pourier (Big Bat) sert d'éclaireur avec le capitaine Cook pendant l'agitation de la danse des Esprits. D'après Hebard et Brininstool (1922).",
+    "sources": "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol., vol. 2, p. 190 ; texte intégral : archive.org, bozemantrailhist02heba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hebard et Brininstool (1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/bozemantrailhist02heba?q=POURIER",
+      "texte": "Lire Hebard et Brininstool (1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

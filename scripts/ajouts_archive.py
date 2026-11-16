@@ -169,6 +169,8 @@ LIVRES = [
     ('montana_miller_1894.txt', 'MI', {'court': 'Illustrated History of Montana (1894)', 'ref': "Joaquin Miller (dir.), An Illustrated History of the State of Montana (1894)"}, 'illustratedhisto00mill', lambda nom, ref: ref),
     ('montana_sanders_1913.txt', 'MS', {'court': 'Sanders (1913)', 'ref': "Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol."}, lambda ref: 'historyofmontana11sand' if ref.startswith('vol. 1') else ('historyofmontanab02sand' if ref.startswith('vol. 2') else 'historyofmontana03insand'), lambda nom, ref: ref),
     ('wyoming_coutant_1899.txt', 'WC', {'court': 'Coutant (1899)', 'ref': "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899)"}, 'historyofwyoming00cout', lambda nom, ref: ref),
+    ('wyoming_bartlett_1918.txt', 'WB', {'court': 'Bartlett (1918)', 'ref': "I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918)"}, 'historyofwyoming01bart', lambda nom, ref: ref),
+    ('wyoming_bozeman_1922.txt', 'WT', {'court': 'Hebard et Brininstool (1922)', 'ref': "Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol."}, lambda ref: 'bozemantrailhist01heba' if ref.startswith('vol. 1') else 'bozemantrailhist02heba', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

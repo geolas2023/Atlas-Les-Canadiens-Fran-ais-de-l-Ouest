@@ -832,7 +832,14 @@ G.update({
     'Burnt Ranch (Sweetwater)': (-108.7, 42.33, 'a', "Burnt Ranch (Sweetwater, Wyoming)"),
     "Devil's Gate": (-107.21, 42.45, 'a', "Porte du Diable (Devil's Gate, Sweetwater)"),
     'Black Hills': (-103.75, 44.1, 'h', "Black Hills (collines Noires)"),
+    'Dayton (Tongue River)': (-107.26, 44.88, 'a', "rivière Tongue (Dayton, Wyoming)"),
+    'Bordeaux (Wyoming)': (-104.98, 41.93, 'a', "Bordeaux (ranch Hunton, Chugwater, Wyoming)"),
+    'Fort Halleck': (-106.5, 41.8, 'a', "fort Halleck (Wyoming)"),
+    'Agence Red Cloud': (-103.47, 42.67, 'a', "agence Red Cloud (Camp Robinson, Nebraska)"),
+    'Pine Ridge': (-102.56, 43.03, 'a', "réserve de Pine Ridge (Dakota du Sud)"),
 })
+
+
 
 
 
