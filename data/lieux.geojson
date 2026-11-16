@@ -505406,6 +505406,754 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-laussat-pierre-clement-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Pierre Clément de Laussat",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Clément de Laussat"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Pierre Clément de Laussat est préfet colonial une vingtaine de jours et prône l'autonomie. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 13, 37 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=LAUSSAT",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-bore-etienne-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Étienne de Boré",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne de Boré"
+    ],
+    "description": "La Nouvelle-Orléans, 1804. Étienne de Boré est premier maire et démissionne. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 38 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=BORÉ",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.154,
+     30.451
+    ]
+   },
+   "properties": {
+    "id": "QP-poydras-julien-baton-roug",
+    "nom": "Bâton-Rouge (Louisiane) : Julien Poydras",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1779.0,
+    "fin": 1779.0,
+    "date_edtf": "1779",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "Bâton-Rouge (Louisiane), 1779. Julien Poydras chante en vers la prise de Baton Rouge. D'après Publications of the Louisiana Historical Society, vol. 6 (1912). Autres lieux de l'entrée : La Nouvelle-Orléans, Washington.",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 38, 40 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=POYDRAS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-poydras-julien-new-orlean",
+    "nom": "La Nouvelle-Orléans : Julien Poydras",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Julien Poydras préside la Convention constituante. D'après Publications of the Louisiana Historical Society, vol. 6 (1912). Autres lieux de l'entrée : Bâton-Rouge (Louisiane), Washington.",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 38, 40 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=POYDRAS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.036,
+     38.895
+    ]
+   },
+   "properties": {
+    "id": "QP-poydras-julien-washington",
+    "nom": "Washington : Julien Poydras",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "Washington, 1811. Julien Poydras est délégué territorial et demande l'admission de l'État. D'après Publications of the Louisiana Historical Society, vol. 6 (1912). Autres lieux de l'entrée : Bâton-Rouge (Louisiane), La Nouvelle-Orléans.",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 38, 40 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=POYDRAS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-destrehan-jean-noel-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Noël Destréhan",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "evenement",
+    "debut": 1811.0,
+    "fin": 1812.999,
+    "date_edtf": "1811/1812",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Noël Destréhan"
+    ],
+    "description": "La Nouvelle-Orléans, 1811-1812. Jean Noël Destréhan est délégué à la Convention, s'oppose à l'admission puis refuse le siège de sénateur. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 41-42 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=DESTRÉHAN",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-villere-jacques-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jacques Villeré",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Villeré"
+    ],
+    "description": "La Nouvelle-Orléans, 1812. Jacques Villeré est délégué et candidat au poste de gouverneur. D'après Publications of the Louisiana Historical Society, vol. 6 (1912). Autres lieux de l'entrée : plaine de Chalmette (bataille de La Nouvelle-Orléans).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 31, 42, 45 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=VILLERÉ",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "QP-villere-jacques-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : Jacques Villeré",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "evenement",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Villeré"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1815. Jacques Villeré combat à la bataille. D'après Publications of the Louisiana Historical Society, vol. 6 (1912). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 31, 42, 45 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=VILLERÉ",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-villere-jacques-new-orlean-2",
+    "nom": "La Nouvelle-Orléans : Jacques Villeré",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Villeré"
+    ],
+    "description": "La Nouvelle-Orléans, 1816. Jacques Villeré est élu deuxième gouverneur de l'État. D'après Publications of the Louisiana Historical Society, vol. 6 (1912). Autres lieux de l'entrée : plaine de Chalmette (bataille de La Nouvelle-Orléans).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12-13, 31, 42, 45 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=VILLERÉ",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "QP-officiers-du-bataillon-d-orl-chalmette",
+    "nom": "Plaine de Chalmette (bataille de La Nouvelle-Orléans) : Les Officiers du Bataillon D'orléans",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Les Officiers du Bataillon D'orléans"
+    ],
+    "description": "Plaine de Chalmette (bataille de La Nouvelle-Orléans), 1815. Les Officiers du Bataillon D'orléans sont Plauché, Latour, Dacquin et Lacoste. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 31 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=OFFICIERS+DU+BATAILLON+D+ORLÉANS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.154,
+     30.451
+    ]
+   },
+   "properties": {
+    "id": "QP-depasson-george-baton-roug",
+    "nom": "Bâton-Rouge (Louisiane) : George Depasson",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1810.0,
+    "fin": 1810.0,
+    "date_edtf": "1810",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Depasson"
+    ],
+    "description": "Bâton-Rouge (Louisiane), 1810. George Depasson s'empare de la garnison espagnole avec le capitaine Thomas. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 28 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=DEPASSON",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-fromentin-eligius-new-orlean",
+    "nom": "La Nouvelle-Orléans : Eligius Fromentin",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1812.999,
+    "date_edtf": "1811/1812",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Eligius Fromentin"
+    ],
+    "description": "La Nouvelle-Orléans, 1811-1812. Eligius Fromentin est secrétaire de la Convention et porte la constitution au Congrès. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12, 40-41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=FROMENTIN",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-blanque-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Blanque",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Blanque"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Jean Blanque plaide pour l'admission et rédige la constitution. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=BLANQUE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-cantrelle-michel-new-orlean",
+    "nom": "La Nouvelle-Orléans : Michel Cantrelle",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Cantrelle"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Michel Cantrelle est délégué et membre du comité de rédaction. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12, 41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=CANTRELLE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-guichard-magloire-new-orlean",
+    "nom": "La Nouvelle-Orléans : Magloire Guichard",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Magloire Guichard"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Magloire Guichard plaide pour l'admission. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=GUICHARD",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-bellechasse-colonel-new-orlean",
+    "nom": "La Nouvelle-Orléans : Colonel Bellechasse",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Colonel Bellechasse"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Colonel Bellechasse plaide pour l'admission. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=BELLECHASSE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-marigny-bernard-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Bernard de Marigny",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bernard de Marigny"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Bernard de Marigny est délégué et consigne le débat sur le nom de l'État. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12, 41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=MARIGNY",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-blanc-de-saint-denis-louis-d-new-orlean",
+    "nom": "La Nouvelle-Orléans : Louis de Blanc de Saint-Denis",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis de Blanc de Saint-Denis"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Louis de Blanc de Saint-Denis s'oppose au nom de « Jefferson » pour l'État. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 41 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=BLANC+DE+SAINT+DENIS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-delegues-creoles-de-1811-les-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les Délégués Créoles de 1811",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Délégués Créoles de 1811"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Les Délégués Créoles de 1811 sont Pierre Boissier, Alexander LaBranche et les autres délégués réunis à la maison Tremoulet. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 12 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=DÉLÉGUÉS+CRÉOLES+DE+",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-gouverneurs-creoles-de-louis-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les Gouverneurs Créoles de Louisiane",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1880.999,
+    "date_edtf": "1816/1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Gouverneurs Créoles de Louisiane"
+    ],
+    "description": "La Nouvelle-Orléans, 1816-1880. Les Gouverneurs Créoles de Louisiane sont Villeré, Thibodeaux, Derbigny, Dupré, Roman, Mouton, Hébert et Wiltz. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 13 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=GOUVERNEURS+CRÉOLES+DE+LOUISIANE",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.85,
+     30.03
+    ]
+   },
+   "properties": {
+    "id": "QP-acadiens-exiles-les-cote-acadi",
+    "nom": "Côte acadienne (Cabahannocer, Louisiane) : Les Acadiens Exilés",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1765.0,
+    "fin": 1765.0,
+    "date_edtf": "1765",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Les Acadiens Exilés"
+    ],
+    "description": "Côte acadienne (Cabahannocer, Louisiane), 1765. Les Acadiens Exilés trouvent refuge en Louisiane. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 62 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=ACADIENS+EXILÉS",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "QP-francastel-henri-new-orlean",
+    "nom": "La Nouvelle-Orléans : Henri Francastel",
+    "corpus": "archive.org · Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "theme": "personnage",
+    "debut": 1912.0,
+    "fin": 1912.0,
+    "date_edtf": "1912",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Francastel"
+    ],
+    "description": "La Nouvelle-Orléans, 1912. Henri Francastel est consul général de France et représente Jusserand au centenaire. D'après Publications of the Louisiana Historical Society, vol. 6 (1912).",
+    "sources": "Publications of the Louisiana Historical Society, vol. VI, La Nouvelle-Orléans, Louisiana Historical Society, 1912, PLHS VI, p. 7, 55 ; texte intégral : archive.org, publicationslou03socigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Publications of the Louisiana Historical Society, vol. 6 (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/publicationslou03socigoog?q=FRANCASTEL",
+      "texte": "Lire Publications of the Louisiana Historical Society, vol. 6 (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]
