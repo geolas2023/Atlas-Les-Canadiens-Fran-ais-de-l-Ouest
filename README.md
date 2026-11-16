@@ -176,6 +176,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `contributionstoh08mont` | 5 |
 | `contributionstohvol9hist1923rich` | 6 |
 | `illustratedhisto00mill` | 22 |
+| `historyofmontana11sand`, `historyofmontanab02sand`, `historyofmontana03insand` | 26 |
 
 
 ## Un point par lieu et adresses précises
