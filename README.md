@@ -300,6 +300,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `AHistoryOfTheCatholicChurchV1` | 113 |
 | `ahistorycatholi00sheagoog` | 129 |
 | `historychurchusa03sheauoft` | 137 |
+| `historychurchusa04sheauoft` | 132 |
 
 
 ## Un point par lieu et adresses précises
