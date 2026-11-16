@@ -1299,6 +1299,12 @@ G.update({
     'Poste des Rapides': (-92.45, 31.31, 'h', "Poste des Rapides (Alexandria)"),
     'Manassas': (-77.47, 38.75, 'h', "Manassas (Virginie)"),
     'Point Pleasant (Virginie-Occidentale)': (-82.14, 38.84, 'h', "Point Pleasant (Virginie-Occidentale)"),
+    'Columbus (Kentucky)': (-89.1, 36.76, 'h', "Columbus (Kentucky)"),
+    'Corinth (Mississippi)': (-88.52, 34.93, 'h', "Corinth (Mississippi)"),
+    'Shiloh': (-88.34, 35.15, 'h', "Shiloh (Tennessee)"),
+    'Chattanooga': (-85.31, 35.05, 'h', "Chattanooga (Tennessee)"),
+    'Bayou Grosse Tête': (-91.43, 30.41, 'h', "Bayou Grosse Tête (Louisiane)"),
+    'Bayou Lamourie': (-92.4, 31.2, 'h', "Bayou Lamourie (Louisiane)"),
 })
 
 
