@@ -170,6 +170,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofwashing31banc` (Montana) | 46 |
 | `IndianAndWhiteInTheNW` | 35 |
 | `contributionstohvol1hist1876rich` | 22 |
+| `contributionstohvol2hist1896rich` | 32 |
 
 
 ## Un point par lieu et adresses précises

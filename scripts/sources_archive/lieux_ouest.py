@@ -784,7 +784,17 @@ G.update({
     'Bonner (Montana)': (-113.87, 46.88, 'c', "Bonner (Montana)"),
     'Stinking Water (Ruby)': (-112.1, 45.3, 'h', "rivière Stinking Water (Ruby, Montana)"),
     'Île au Massacre': (-94.83, 49.33, 'a', "île au Massacre (lac des Bois)"),
+    'Fort Owen': (-114.08, 46.52, 'a', "fort Owen (Stevensville, Montana)"),
+    'Grass Valley (Missoula)': (-114.12, 46.93, 'a', "Grass Valley (Missoula, Montana)"),
+    'Vallée de la Jocko': (-114.2, 47.2, 'h', "vallée de la Jocko (Montana)"),
+    'Fort Colville': (-118.07, 48.63, 'a', "fort Colville (Washington)"),
+    'Chutes du Missouri (Great Falls)': (-111.3, 47.5, 'a', "grandes chutes du Missouri (Great Falls, Montana)"),
+    'Virginia City (Montana)': (-111.94, 45.29, 'c', "Virginia City (Montana)"),
+    'Agence des Corbeaux (Mission Creek)': (-110.4, 45.67, 'a', "agence des Corbeaux (Mission Creek, Montana)"),
+    'Embouchure de la Rosebud': (-106.45, 46.27, 'a', "embouchure de la Rosebud (Yellowstone)"),
+    'Embouchure de la Musselshell': (-107.95, 47.5, 'a', "embouchure de la Musselshell (Missouri)"),
 })
+
 
 
 
