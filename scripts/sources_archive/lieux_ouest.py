@@ -1648,6 +1648,8 @@ G.update({
     'Clay Center (Kansas)': (-97.12, 39.38, 'c', 'Clay Center (Kansas)'),
     'Lawrence (Kansas)': (-95.24, 38.97, 'c', 'Lawrence (Kansas)'),
     'Ellsworth (Kansas)': (-98.23, 38.73, 'c', 'Ellsworth (Kansas)'),
+    'Comté de Pottawatomie (Kansas)': (-96.3, 39.35, 'h', 'comté de Pottawatomie (Kansas)'),
+    'Stockton (Kansas)': (-99.27, 39.44, 'c', 'Stockton, comté de Rooks (Kansas)'),
 })
 
 
