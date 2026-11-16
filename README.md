@@ -250,6 +250,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cihm_45095` | 93 |
 | `historicalmemoi00latogoog` | 70 |
 | `creolesoflouisia00cabluoft` | 63 |
+| `historyoflouisia03fortuoft` | 124 |
 | `historyoflouisia04fortuoft` | 75 |
 
 
