@@ -782,7 +782,10 @@ G.update({
     'Butte': (-112.53, 46.0, 'c', "Butte (Montana)"),
     'Lewistown': (-109.43, 47.06, 'c', "Lewistown (Montana)"),
     'Bonner (Montana)': (-113.87, 46.88, 'c', "Bonner (Montana)"),
+    'Stinking Water (Ruby)': (-112.1, 45.3, 'h', "rivière Stinking Water (Ruby, Montana)"),
+    'Île au Massacre': (-94.83, 49.33, 'a', "île au Massacre (lac des Bois)"),
 })
+
 
 
 
