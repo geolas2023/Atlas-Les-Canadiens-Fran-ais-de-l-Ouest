@@ -286,7 +286,6 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `publicationslou06socigoog` | 34 |
 | `louisianahistori10loui` | 18 |
 | `historyoflouisia00lepa` | 52 |
-| `cihm_45094` | 47 |
 
 
 ## Un point par lieu et adresses précises
