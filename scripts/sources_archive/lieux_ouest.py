@@ -1226,6 +1226,7 @@ G.update({
     'Grande Isle': (-90.0, 29.24, 'h', "Grande Isle (Louisiane)"),
     'Mansfield (Louisiane)': (-93.7, 32.04, 'c', "Mansfield (Louisiane)"),
     'Newport News': (-76.47, 37.07, 'c', "Newport News (Virginie)"),
+    'Galveztown': (-90.86, 30.33, 'h', "Galveztown (Louisiane)"),
 })
 
 
