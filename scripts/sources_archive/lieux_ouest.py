@@ -817,7 +817,23 @@ G.update({
     'Cascade (Montana)': (-111.7, 47.27, 'c', "Cascade (Montana)"),
     'Wibaux': (-104.19, 46.98, 'c', "Wibaux (Montana)"),
     'Stevensville': (-114.09, 46.51, 'c', "Stevensville (Montana)"),
+    'Sweetwater (Independence Rock)': (-107.13, 42.49, 'a', "rivière Sweetwater (rocher de l'Indépendance)"),
+    'Platte Bridge (Casper)': (-106.38, 42.85, 'a', "Platte Bridge et bac des Mormons (Casper, Wyoming)"),
+    'Pic Frémont (Wind River)': (-109.55, 43.0, 'a', "pic Frémont et camp Bernier (monts Wind River)"),
+    'Black Fork (Green River)': (-110.2, 41.4, 'h', "Black Fork (Green River, Wyoming)"),
+    'Julesburg': (-102.26, 40.99, 'c', "Julesburg (Platte Sud)"),
+    'Station Saint Mary (Sweetwater)': (-108.4, 42.5, 'a', "station Saint Mary (Sweetwater, Wyoming)"),
+    'Deer Creek (Wyoming)': (-105.86, 42.86, 'a', "Deer Creek (Glenrock, Wyoming)"),
+    'Gué de La Bonta': (-105.5, 42.6, 'a', "gué de La Bonta (Platte Nord, Wyoming)"),
+    'Clear Creek (Powder River)': (-106.7, 44.35, 'h', "Clear Creek (Powder River, Wyoming)"),
+    'Fort Phil Kearny': (-106.83, 44.53, 'a', "fort Phil Kearny (Wyoming)"),
+    'Atlantic City (Wyoming)': (-108.73, 42.5, 'c', "Atlantic City (Wyoming)"),
+    'South Pass City': (-108.8, 42.47, 'c', "South Pass City (Wyoming)"),
+    'Burnt Ranch (Sweetwater)': (-108.7, 42.33, 'a', "Burnt Ranch (Sweetwater, Wyoming)"),
+    "Devil's Gate": (-107.21, 42.45, 'a', "Porte du Diable (Devil's Gate, Sweetwater)"),
+    'Black Hills': (-103.75, 44.1, 'h', "Black Hills (collines Noires)"),
 })
+
 
 
 

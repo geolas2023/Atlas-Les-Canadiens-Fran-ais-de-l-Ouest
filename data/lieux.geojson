@@ -289438,6 +289438,2216 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.9,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "WC-laramie-jacques-laramie-ri",
+    "nom": "Rivière Laramie : Jacques Laramie",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Laramie"
+    ],
+    "description": "Rivière Laramie, vers 1820. Jacques Laramie est un trappeur canadien-français tué par les Indiens sur la rivière qui garde son nom. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 296-299, 699 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LARAMIE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "WC-dorion-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Dorion",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Rivière Snake, 1811. Pierre Dorion est l'interprète de Hunt qui va reconnaître la rivière et la juge innavigable. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 79, 88 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DORION",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "WC-delauney-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Delauney",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Delauney"
+    ],
+    "description": "Rivière Snake, 1811. Pierre Delauney est détaché comme trappeur avec Pierre Detaye, Alexander Carson et Louis St. Michel. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 88 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DELAUNEY",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "WC-detaye-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Detaye",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Detaye"
+    ],
+    "description": "Rivière Snake, 1811. Pierre Detaye est détaché comme trappeur sur le haut de la Snake avec Pierre Delauney. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 88 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DETAYE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "WC-le-clerc-francis-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Francis Le Clerc",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Francis Le Clerc"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1812. Francis Le Clerc propose de tirer au sort un homme à sacrifier ; Stuart le menace. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 106 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LE+CLERC",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "WC-vallar-andri-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Andri Vallar",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Andri Vallar"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1812. Andri Vallar part d'Astoria avec Stuart et traverse le pays de la Green vers l'est. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 102 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=VALLAR",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "WC-lebrache-x-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Lebrache",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lebrache"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1823. Lebrache est tué par les Pieds-Noirs pendant la retraite du groupe de trappeurs de Clements. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 124 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LEBRACHE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1,
+     43.73
+    ]
+   },
+   "properties": {
+    "id": "WC-godin-antoine-pierre-s-h",
+    "nom": "Pierre's Hole : Antoine Godin",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Godin"
+    ],
+    "description": "Pierre's Hole, 1832. Antoine Godin est un Métis canadien qui attire un chef pied-noir dans un guet-apens mortel au début de la bataille. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 139, 200 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GODIN",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.08,
+     42.98
+    ]
+   },
+   "properties": {
+    "id": "WC-cerre-m-s-fort-bonne",
+    "nom": "Fort Bonneville (Green River) : M. S. Cerré",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. S. Cerré"
+    ],
+    "description": "Fort Bonneville (Green River), 1832. M. S. Cerré va troquer de la viande d'hiver chez les Nez-Percés. D'après Coutant (1899). Autres lieux de l'entrée : rivière Bighorn.",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 158, 172-173 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=CERRÉ",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.0,
+     44.9
+    ]
+   },
+   "properties": {
+    "id": "WC-cerre-m-s-bighorn-ri",
+    "nom": "Rivière Bighorn : M. S. Cerré",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "M. S. Cerré"
+    ],
+    "description": "Rivière Bighorn, 1833. M. S. Cerré descend le Bighorn avec les fourrures et trente-six hommes. D'après Coutant (1899). Autres lieux de l'entrée : fort Bonneville (Green River).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 158, 172-173 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=CERRÉ",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.08,
+     42.98
+    ]
+   },
+   "properties": {
+    "id": "WC-matthieu-x-fort-bonne",
+    "nom": "Fort Bonneville (Green River) : Matthieu",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Matthieu"
+    ],
+    "description": "Fort Bonneville (Green River), 1832. Matthieu reçoit la garde des chevaux fourbus, puis son groupe est attaqué. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 158, 162 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=MATTHIEU",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.8,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "WC-gauthier-peter-wind-river",
+    "nom": "Rivière du Vent (Wind River) : Peter Gauthier",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Peter Gauthier"
+    ],
+    "description": "Rivière du Vent (Wind River), vers 1835. Peter Gauthier est un trappeur canadien de l'American Fur Company sur le Bighorn et la Wind River, puis colon en Oregon en 1843. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 203 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GAUTHIER",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.8,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "WC-ojet-paul-wind-river",
+    "nom": "Rivière du Vent (Wind River) : Paul Ojet",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Paul Ojet"
+    ],
+    "description": "Rivière du Vent (Wind River), vers 1835. Paul Ojet est un trappeur canadien de l'American Fur Company, puis colon en Oregon en 1843. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 203 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=OJET",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.2,
+     41.4
+    ]
+   },
+   "properties": {
+    "id": "WC-lajeunesse-basil-black-fork",
+    "nom": "Black Fork (Green River, Wyoming) : Basil Lajeunesse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Basil Lajeunesse"
+    ],
+    "description": "Black Fork (Green River, Wyoming), 1834. Basil Lajeunesse passe une partie de la saison au rendez-vous de la Black Fork. D'après Coutant (1899). Autres lieux de l'entrée : fort Laramie, pic Frémont et camp Bernier (monts Wind River), Porte du Diable (Devil's Gate, Sweetwater), Deer Creek (Glenrock, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 252, 256, 268, 302, 350, 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAJEUNESSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-lajeunesse-basil-fort-laram",
+    "nom": "Fort Laramie : Basil Lajeunesse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Basil Lajeunesse"
+    ],
+    "description": "Fort Laramie, 1835. Basil Lajeunesse s'associe aux trappeurs qui achètent le fort à Campbell et Sublette. D'après Coutant (1899). Autres lieux de l'entrée : Black Fork (Green River, Wyoming), pic Frémont et camp Bernier (monts Wind River), Porte du Diable (Devil's Gate, Sweetwater), Deer Creek (Glenrock, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 252, 256, 268, 302, 350, 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAJEUNESSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.55,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "WC-lajeunesse-basil-pic-fremon",
+    "nom": "Pic Frémont et camp Bernier (monts Wind River) : Basil Lajeunesse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Basil Lajeunesse"
+    ],
+    "description": "Pic Frémont et camp Bernier (monts Wind River), 1842. Basil Lajeunesse est le compagnon favori de Frémont, renvoyé chercher mules et vivres pendant l'ascension. D'après Coutant (1899). Autres lieux de l'entrée : Black Fork (Green River, Wyoming), fort Laramie, Porte du Diable (Devil's Gate, Sweetwater), Deer Creek (Glenrock, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 252, 256, 268, 302, 350, 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAJEUNESSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.21,
+     42.45
+    ]
+   },
+   "properties": {
+    "id": "WC-lajeunesse-basil-devil-s-ga",
+    "nom": "Porte du Diable (Devil's Gate, Sweetwater) : Basil Lajeunesse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Basil Lajeunesse"
+    ],
+    "description": "Porte du Diable (Devil's Gate, Sweetwater), 1858. Basil Lajeunesse ouvre un poste de traite au-dessus de la Porte du Diable. D'après Coutant (1899). Autres lieux de l'entrée : Black Fork (Green River, Wyoming), fort Laramie, pic Frémont et camp Bernier (monts Wind River), Deer Creek (Glenrock, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 252, 256, 268, 302, 350, 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAJEUNESSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.86,
+     42.86
+    ]
+   },
+   "properties": {
+    "id": "WC-lajeunesse-basil-deer-creek",
+    "nom": "Deer Creek (Glenrock, Wyoming) : Basil Lajeunesse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Basil Lajeunesse"
+    ],
+    "description": "Deer Creek (Glenrock, Wyoming), 1862. Basil Lajeunesse est tué par les Indiens, qui emportent ses marchandises et ses mules. D'après Coutant (1899). Autres lieux de l'entrée : Black Fork (Green River, Wyoming), fort Laramie, pic Frémont et camp Bernier (monts Wind River), Porte du Diable (Devil's Gate, Sweetwater).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 252, 256, 268, 302, 350, 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAJEUNESSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.75,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "WC-kiplin-x-black-hill",
+    "nom": "Black Hills (collines Noires) : Kiplin",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1836.999,
+    "date_edtf": "1835/1836",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Kiplin"
+    ],
+    "description": "Black Hills (collines Noires), 1835-1836. Kiplin va avec Sybylle inviter les Sioux à traiter au fort Laramie et revient avec plus de cent loges. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 303 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=KIPLIN",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.75,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "WC-sybylle-x-black-hill",
+    "nom": "Black Hills (collines Noires) : Sybylle",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1836.999,
+    "date_edtf": "1835/1836",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sybylle"
+    ],
+    "description": "Black Hills (collines Noires), 1835-1836. Sybylle va avec Kiplin inviter les Sioux à traiter au fort Laramie. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 303 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=SYBYLLE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "WC-prudhomme-gabriel-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Gabriel Prudhomme",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Prudhomme"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1841. Gabriel Prudhomme sert d'interprète au père De Smet dans le sud-ouest du Wyoming. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 234 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=PRUDHOMME",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-bordeaux-james-fort-laram",
+    "nom": "Fort Laramie : James Bordeaux",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Fort Laramie, 1842. James Bordeaux dirige le fort et accueille Frémont. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 242-244, 304, 323, 343 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BORDEAUX",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-bordeaux-james-fort-laram-2",
+    "nom": "Fort Laramie : James Bordeaux",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Fort Laramie, 1847. James Bordeaux accueille les pionniers mormons de Brigham Young. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 242-244, 304, 323, 343 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BORDEAUX",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-bordeaux-james-fort-laram-3",
+    "nom": "Fort Laramie : James Bordeaux",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Fort Laramie, 1854. James Bordeaux voit son poste pillé par les Sioux après le désastre de Grattan. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 242-244, 304, 323, 343 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BORDEAUX",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "WC-bissonette-joseph-fort-platt",
+    "nom": "Fort Platte : Joseph Bissonette",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Bissonette"
+    ],
+    "description": "Fort Platte, 1842. Joseph Bissonette est un traiteur et interprète qui avertit Frémont des partis de guerre et achète des bœufs aux émigrants. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 246, 249, 331 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BISSONETTE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "WC-chartrain-l-b-fort-platt",
+    "nom": "Fort Platte : L. B. Chartrain",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "L. B. Chartrain"
+    ],
+    "description": "Fort Platte, 1842. L. B. Chartrain porte à Frémont la lettre d'avertissement des chefs. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 249 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=CHARTRAIN",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-lambert-clement-fort-laram",
+    "nom": "Fort Laramie : Clement Lambert",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Lambert"
+    ],
+    "description": "Fort Laramie, 1842. Clement Lambert mène la division principale de Frémont par la fourche nord de la Platte. D'après Coutant (1899). Autres lieux de l'entrée : pic Frémont et camp Bernier (monts Wind River).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 267-268 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAMBERT",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.55,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "WC-lambert-clement-pic-fremon",
+    "nom": "Pic Frémont et camp Bernier (monts Wind River) : Clement Lambert",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Clement Lambert"
+    ],
+    "description": "Pic Frémont et camp Bernier (monts Wind River), 1842. Clement Lambert tombe malade pendant l'ascension. D'après Coutant (1899). Autres lieux de l'entrée : fort Laramie.",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 241, 267-268 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAMBERT",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.55,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "WC-descoteaux-x-pic-fremon",
+    "nom": "Pic Frémont et camp Bernier (monts Wind River) : Descoteaux",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Descoteaux"
+    ],
+    "description": "Pic Frémont et camp Bernier (monts Wind River), 1842. Descoteaux est choisi pour gravir le pic Frémont et tombe malade sur les rochers. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 202, 267-268 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DESCOTEAUX",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "WC-dumes-j-b-fort-platt",
+    "nom": "Fort Platte : J. B. Dumes",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. B. Dumes"
+    ],
+    "description": "Fort Platte, 1842. J. B. Dumes est renvoyé avec Bissonette à cause d'une vieille blessure à la jambe. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 256 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DUMES",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.55,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "WC-bernier-baptiste-pic-fremon",
+    "nom": "Pic Frémont et camp Bernier (monts Wind River) : Baptiste Bernier",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Bernier"
+    ],
+    "description": "Pic Frémont et camp Bernier (monts Wind River), 1842. Baptiste Bernier garde le camp retranché qui porte son nom pendant que Frémont gravit les pics. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 263-264 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BERNIER",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-simmons-theophilus-fort-laram",
+    "nom": "Fort Laramie : Theophilus Simmons",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Theophilus Simmons"
+    ],
+    "description": "Fort Laramie, 1842. Theophilus Simmons renseigne Frémont sur la traite des fourrures. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=SIMMONS",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-matthieu-f-x-fort-laram",
+    "nom": "Fort Laramie : F. X. Matthieu",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. X. Matthieu"
+    ],
+    "description": "Fort Laramie, 1842. F. X. Matthieu se joint aux émigrants du Dr White avec une demi-douzaine de Canadiens. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 331 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=MATTHIEU",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "WC-lajeunesse-francois-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Francois Lajeunesse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Lajeunesse"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1843. Francois Lajeunesse s'enrôle avec Baptiste Tesson dans la deuxième expédition de Frémont. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 274-275, 702 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAJEUNESSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "WC-tesson-baptiste-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Baptiste Tesson",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Tesson"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1843. Baptiste Tesson s'enrôle dans la deuxième expédition de Frémont. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 274-275 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=TESSON",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.8,
+     43.74
+    ]
+   },
+   "properties": {
+    "id": "WC-michaud-x-trois-teto",
+    "nom": "Les Trois Tétons : Michaud",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michaud"
+    ],
+    "description": "Les Trois Tétons, 1843. Michaud est le premier Blanc à tenter, sans succès, l'ascension du Grand Teton. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 711 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=MICHAUD",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-chatillon-henry-fort-laram",
+    "nom": "Fort Laramie : Henry Chatillon",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Chatillon"
+    ],
+    "description": "Fort Laramie, 1846. Henry Chatillon guide Parkman et Shaw et trouve un gué sur le Laramie. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 304-305, 324, 703 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=CHATILLON",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-chatillon-henry-fort-laram-2",
+    "nom": "Fort Laramie : Henry Chatillon",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Chatillon"
+    ],
+    "description": "Fort Laramie, 1854. Henry Chatillon est engagé avec son frère comme guide de l'expédition de Sir George Gore. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 304-305, 324, 703 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=CHATILLON",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-cimoneau-x-fort-laram",
+    "nom": "Fort Laramie : Cimoneau",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Cimoneau"
+    ],
+    "description": "Fort Laramie, 1846. Cimoneau est un chasseur, ami intime de Henry Chatillon. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 304 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=CIMONEAU",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-montalon-x-fort-laram",
+    "nom": "Fort Laramie : Montalon",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Montalon"
+    ],
+    "description": "Fort Laramie, 1846. Montalon est le commis qui lit la lettre d'introduction de Parkman. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 305 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=MONTALON",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-papin-pierre-fort-laram",
+    "nom": "Fort Laramie : Pierre Papin",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Papin"
+    ],
+    "description": "Fort Laramie, 1846. Pierre Papin est le bourgeois habituel du fort, absent lors du passage de Parkman. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 305 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=PAPIN",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.7,
+     41.88
+    ]
+   },
+   "properties": {
+    "id": "WC-fontenelle-x-fort-mitch",
+    "nom": "Fort Mitchell (Scotts Bluff, Nebraska) : Fontenelle",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1849.0,
+    "fin": 1850.999,
+    "date_edtf": "1849~/1850~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Fontenelle"
+    ],
+    "description": "Fort Mitchell (Scotts Bluff, Nebraska), vers 1849-1850. Fontenelle remplace Bruce Husband à la tête du poste de l'American Fur Company. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 317 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=FONTENELLE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.13,
+     42.49
+    ]
+   },
+   "properties": {
+    "id": "WC-ganard-louis-sweetwater",
+    "nom": "Rivière Sweetwater (rocher de l'Indépendance) : Louis Ganard",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Ganard"
+    ],
+    "description": "Rivière Sweetwater (rocher de l'Indépendance), vers 1852. Louis Ganard est un Canadien français qui tient un pont à péage sous le rocher de l'Indépendance. D'après Coutant (1899). Autres lieux de l'entrée : Platte Bridge et bac des Mormons (Casper, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 365-368 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GANARD",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "WC-ganard-louis-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : Louis Ganard",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Ganard"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1858. Louis Ganard bâtit un pont au bac des Mormons et y engloutit 30 000 $. D'après Coutant (1899). Autres lieux de l'entrée : rivière Sweetwater (rocher de l'Indépendance).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 365-368 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GANARD",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.7,
+     42.33
+    ]
+   },
+   "properties": {
+    "id": "WC-lorain-battese-burnt-ranc",
+    "nom": "Burnt Ranch (Sweetwater, Wyoming) : Battese Lorain",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Battese Lorain"
+    ],
+    "description": "Burnt Ranch (Sweetwater, Wyoming), vers 1852. Battese Lorain est engagé pour tenir un poste de traite avec B. F. Lowe. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 700 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LORAIN",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "WC-reshaw-john-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : John Reshaw",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1859.999,
+    "date_edtf": "1858/1859",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "John Reshaw"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1858-1859. John Reshaw tient un pont à péage sept milles en aval du bac des Mormons. D'après Coutant (1899). Autres lieux de l'entrée : Clear Creek (Powder River, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 365-367, 535-536 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=RESHAW",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.7,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "WC-reshaw-john-clear-cree",
+    "nom": "Clear Creek (Powder River, Wyoming) : John Reshaw",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Reshaw"
+    ],
+    "description": "Clear Creek (Powder River, Wyoming), 1866. John Reshaw est l'interprète métis du groupe de Palmer retenu prisonnier par les Cheyennes. D'après Coutant (1899). Autres lieux de l'entrée : Platte Bridge et bac des Mormons (Casper, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 365-367, 535-536 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=RESHAW",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-guerrier-william-fort-laram",
+    "nom": "Fort Laramie : William Guerrier",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Guerrier"
+    ],
+    "description": "Fort Laramie, 1858. William Guerrier est tué le 16 février par l'explosion accidentelle d'un baril de poudre. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 686-687 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GUERRIER",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.26,
+     40.99
+    ]
+   },
+   "properties": {
+    "id": "WC-reni-jules-julesburg",
+    "nom": "Julesburg (Platte Sud) : Jules Reni",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules Reni"
+    ],
+    "description": "Julesburg (Platte Sud), vers 1861. Jules Reni est un propriétaire de ranch qui blesse Slade puis est capturé et tué par lui. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 402-404 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=RENI",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.13,
+     42.49
+    ]
+   },
+   "properties": {
+    "id": "WC-dubois-j-sweetwater",
+    "nom": "Rivière Sweetwater (rocher de l'Indépendance) : J. Dubois",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Dubois"
+    ],
+    "description": "Rivière Sweetwater (rocher de l'Indépendance), 1862. J. Dubois part prospecter vers le Bighorn avec J. Patneese et disparaît. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 638 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DUBOIS",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.4,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "WC-st-clair-chavil-station-sa",
+    "nom": "Station Saint Mary (Sweetwater, Wyoming) : Chavil St. Clair",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chavil St. Clair"
+    ],
+    "description": "Station Saint Mary (Sweetwater, Wyoming), 1865. Chavil St. Clair s'échappe de la station incendiée avec relais et fil télégraphique. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 449 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=ST+CLAIR",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "WC-ganard-phildean-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : Phildean Ganard",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Phildean Ganard"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1865. Phildean Ganard se joint le 26 juillet au détachement de secours ; son magasin abrite l'artillerie. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 471-472 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GANARD",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "WC-ecoffey-frank-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : Frank Ecoffey",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Frank Ecoffey"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1865. Frank Ecoffey se joint au détachement de secours envoyé après le combat de Collins. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 471 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=ECOFFEY",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.38,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "WC-seminoe-jules-platte-bri",
+    "nom": "Platte Bridge et bac des Mormons (Casper, Wyoming) : Jules Seminoe",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jules Seminoe"
+    ],
+    "description": "Platte Bridge et bac des Mormons (Casper, Wyoming), 1865. Jules Seminoe se joint au détachement, puis va de nuit chercher du secours à Deer Creek. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 471, 475 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=SEMINOE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.5,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "WC-janisse-nick-gue-de-la-",
+    "nom": "Gué de La Bonta (Platte Nord, Wyoming) : Nick Janisse",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Nick Janisse"
+    ],
+    "description": "Gué de La Bonta (Platte Nord, Wyoming), 1865. Nick Janisse est un guide de l'expédition de la Powder River qui ne trouve pas de gué praticable. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 507 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=JANISSE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.5,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "WC-bouyer-michel-gue-de-la-",
+    "nom": "Gué de La Bonta (Platte Nord, Wyoming) : Michel Bouyer",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Bouyer"
+    ],
+    "description": "Gué de La Bonta (Platte Nord, Wyoming), 1865. Michel Bouyer est un guide de l'expédition de la Powder River. D'après Coutant (1899). Autres lieux de l'entrée : Clear Creek (Powder River, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 507, 536 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BOUYER",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.7,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "WC-bouyer-michel-clear-cree",
+    "nom": "Clear Creek (Powder River, Wyoming) : Michel Bouyer",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel Bouyer"
+    ],
+    "description": "Clear Creek (Powder River, Wyoming), 1866. Michel Bouyer est un Métis saisi avec le groupe de Palmer par les Cheyennes. D'après Coutant (1899). Autres lieux de l'entrée : gué de La Bonta (Platte Nord, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 507, 536 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BOUYER",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.5,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "WC-ladeau-antoine-gue-de-la-",
+    "nom": "Gué de La Bonta (Platte Nord, Wyoming) : Antoine Ladeau",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Ladeau"
+    ],
+    "description": "Gué de La Bonta (Platte Nord, Wyoming), 1865. Antoine Ladeau est interprète et guide de l'expédition de Connor, d'ascendance française et pawnee. D'après Coutant (1899). Autres lieux de l'entrée : fort Laramie.",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 302, 507, 690 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LADEAU",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-ladeau-antoine-fort-laram",
+    "nom": "Fort Laramie : Antoine Ladeau",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Ladeau"
+    ],
+    "description": "Fort Laramie, 1867. Antoine Ladeau guide le tracé de la nouvelle route et du télégraphe vers Cheyenne. D'après Coutant (1899). Autres lieux de l'entrée : gué de La Bonta (Platte Nord, Wyoming).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 302, 507, 690 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LADEAU",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "WC-ecoffee-jules-fort-laram",
+    "nom": "Fort Laramie : Jules Ecoffee",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "poste",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules Ecoffee"
+    ],
+    "description": "Fort Laramie, 1866. Jules Ecoffee possède le ranch où campe la colonne de Carrington. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 549 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=ECOFFEE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.83,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "WC-gazzous-louis-fort-phil-",
+    "nom": "Fort Phil Kearny (Wyoming) : Louis Gazzous",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Gazzous"
+    ],
+    "description": "Fort Phil Kearny (Wyoming), 1866. Louis Gazzous est un traiteur dit « French Pete », marié à une Sioux, tué le 17 juillet. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 552, 555 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=GAZZOUS",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.95,
+     41.1
+    ]
+   },
+   "properties": {
+    "id": "WC-beauvais-g-p-ranch-beau",
+    "nom": "Ranch Beauvais (gué de Californie, Platte) : G. P. Beauvais",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "G. P. Beauvais"
+    ],
+    "description": "Ranch Beauvais (gué de Californie, Platte), 1867. G. P. Beauvais est le vieux traiteur qui accueille en son ranch la rencontre des commissaires de paix et des Indiens. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 583 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=BEAUVAIS",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.8,
+     42.47
+    ]
+   },
+   "properties": {
+    "id": "WC-deveraux-x-south-pass",
+    "nom": "South Pass City (Wyoming) : Deveraux",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "evenement",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Deveraux"
+    ],
+    "description": "South Pass City (Wyoming), 1868. Deveraux est un vieux Français tué par les Indiens dans son jardin. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 652 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=DEVERAUX",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.73,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "WC-lamoreaux-jules-atlantic-c",
+    "nom": "Atlantic City (Wyoming) : Jules Lamoreaux",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules Lamoreaux"
+    ],
+    "description": "Atlantic City (Wyoming), 1868. Jules Lamoreaux ouvre un magasin sous la tente, puis fait du roulage. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 668 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=LAMOREAUX",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.73,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "WC-poire-louis-atlantic-c",
+    "nom": "Atlantic City (Wyoming) : Louis Poire",
+    "corpus": "archive.org · Coutant (1899)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Poire"
+    ],
+    "description": "Atlantic City (Wyoming), 1869. Louis Poire devient copropriétaire de la mine Caribou. D'après Coutant (1899).",
+    "sources": "C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899), p. 661 ; texte intégral : archive.org, historyofwyoming00cout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Coutant (1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwyoming00cout?q=POIRE",
+      "texte": "Lire Coutant (1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
