@@ -927,6 +927,11 @@ G.update({
     'Belmont (Nevada)': (-116.88, 38.59, 'c', "Belmont (comté de Nye, Nevada)"),
     'Dayton (Nevada)': (-119.59, 39.24, 'c', "Dayton (rivière Carson, Nevada)"),
     'Hamilton (White Pine)': (-115.49, 39.25, 'c', "Hamilton et district de White Pine (Nevada)"),
+    'Golconda (Nevada)': (-117.49, 40.96, 'c', "Golconda (comté de Humboldt, Nevada)"),
+    'Verdi (Nevada)': (-119.99, 39.52, 'c', "Verdi (comté de Washoe, Nevada)"),
+    'Unionville (Nevada)': (-118.13, 40.45, 'c', "Unionville (Nevada)"),
+    'Wells (Nevada)': (-114.96, 41.11, 'c', "Wells et Star Valley (comté d'Elko, Nevada)"),
+    'Austin (Nevada)': (-117.07, 39.49, 'c', "Austin (comté de Lander, Nevada)"),
 })
 
 
