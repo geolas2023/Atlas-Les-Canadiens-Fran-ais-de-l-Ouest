@@ -1305,6 +1305,11 @@ G.update({
     'Chattanooga': (-85.31, 35.05, 'h', "Chattanooga (Tennessee)"),
     'Bayou Grosse Tête': (-91.43, 30.41, 'h', "Bayou Grosse Tête (Louisiane)"),
     'Bayou Lamourie': (-92.4, 31.2, 'h', "Bayou Lamourie (Louisiane)"),
+    'Fort Ascension (Massac)': (-88.71, 37.15, 'h', "Fort de l'Ascension (Massac)"),
+    'Edgard': (-90.56, 30.04, 'h', "Edgard (Louisiane)"),
+    'Saint-Francisville': (-91.38, 30.78, 'h', "Saint-Francisville (Féliciana)"),
+    'Plaquemine Turn (fort)': (-89.5, 29.4, 'h', "Détour de Plaquemines (Louisiane)"),
+    'Harvey (Louisiane)': (-90.08, 29.9, 'h', "Harvey (Louisiane)"),
 })
 
 
