@@ -298,6 +298,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `stbernardparishl00stbe` | 8 |
 | `CatholicHistoryOfAlabamaAndTheFloridasV1` | 56 |
 | `AHistoryOfTheCatholicChurchV1` | 113 |
+| `ahistorycatholi00sheagoog` | 129 |
 
 
 ## Un point par lieu et adresses précises
