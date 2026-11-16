@@ -887,6 +887,19 @@ G.update({
     'Provo (rivière)': (-111.66, 40.23, 'a', "rivière Provo (Utah)"),
     'Fort Douglas': (-111.83, 40.765, 'c', "fort Douglas (Salt Lake City)"),
     'Monts Wasatch': (-111.6, 40.9, 'a', "monts Wasatch (Utah)"),
+    'Ogden': (-111.97, 41.22, 'c', "Ogden (Utah)"),
+    'Logan': (-111.83, 41.74, 'c', "Logan (Utah)"),
+    'Pleasant Green': (-112.08, 40.69, 'c', "Pleasant Green (Magna, Utah)"),
+    'Henefer': (-111.50, 41.02, 'c', "Henefer (comté de Summit, Utah)"),
+    'American Fork': (-111.80, 40.38, 'c', "American Fork (Utah)"),
+    'Spanish Fork': (-111.65, 40.11, 'c', "Spanish Fork (Utah)"),
+    'Orangeville': (-111.05, 39.23, 'c', "Orangeville (comté d'Emery, Utah)"),
+    'Tooele': (-112.30, 40.53, 'c', "Tooele (Utah)"),
+    'Wallsburg': (-111.42, 40.39, 'c', "Wallsburg (Utah)"),
+    'Eden (Utah)': (-111.82, 41.30, 'c', "Eden (comté de Weber, Utah)"),
+    'Vernal': (-109.53, 40.46, 'c', "Vernal (Utah)"),
+    'Brigham City': (-112.02, 41.51, 'c', "Brigham City (Utah)"),
+    'St. George (Utah)': (-113.58, 37.10, 'c', "St. George (Utah)"),
 })
 
 
