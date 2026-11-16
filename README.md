@@ -265,6 +265,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoflouisia0002unse` | 119 |
 | `historyoflouisia0003unse` | 130 |
 | `presentstateofeu00pitt` | 20 |
+| `per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1917-01-08_1_1` | 176 |
 
 
 ## Un point par lieu et adresses précises
