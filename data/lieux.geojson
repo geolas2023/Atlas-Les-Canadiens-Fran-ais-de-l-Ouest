@@ -377430,6 +377430,4290 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "LN-la-salle-robert-cavelier-de-la-balise",
+    "nom": "La Balise (embouchure du Mississippi) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "La Balise (embouchure du Mississippi), 1682. Robert Cavelier de la Salle prend possession de la Louisiane au nom de Louis XIV. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Fort Saint-Louis de La Salle (Garcitas Creek, Texas).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 11-28 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LA+SALLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     28.81
+    ]
+   },
+   "properties": {
+    "id": "LN-la-salle-robert-cavelier-de-fort-saint",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "evenement",
+    "debut": 1685.0,
+    "fin": 1687.999,
+    "date_edtf": "1685/1687",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas), 1685-1687. Robert Cavelier de la Salle conduit la colonie du Texas et y est assassiné. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : La Balise (embouchure du Mississippi).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 11-28 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LA+SALLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.35,
+     33.99
+    ]
+   },
+   "properties": {
+    "id": "LN-marquette-jacques-arkansas-p",
+    "nom": "Poste des Arkansas : Jacques Marquette",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1673.0,
+    "fin": 1673.0,
+    "date_edtf": "1673",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Marquette"
+    ],
+    "description": "Poste des Arkansas, 1673. Jacques Marquette descend le Mississippi avec Joliet. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 11, 15-17 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=MARQUETTE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.35,
+     33.99
+    ]
+   },
+   "properties": {
+    "id": "LN-joliet-louis-arkansas-p",
+    "nom": "Poste des Arkansas : Louis Joliet",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1673.0,
+    "fin": 1673.0,
+    "date_edtf": "1673",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Joliet"
+    ],
+    "description": "Poste des Arkansas, 1673. Louis Joliet codirige le voyage du Mississippi. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 15-16 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=JOLIET",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "LN-tonty-henri-de-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Henri de Tonty",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Henri de Tonty bâtit le fort Crèvecoeur. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Mobile.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 19, 22, 39-40, 51 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=TONTY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-tonty-henri-de-mobile",
+    "nom": "Mobile : Henri de Tonty",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1704.0,
+    "fin": 1704.0,
+    "date_edtf": "1704",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Mobile, 1704. Henri de Tonty meurt de l'épidémie. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Fort Crèvecoeur (Peoria, Illinois).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 19, 22, 39-40, 51 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=TONTY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "LN-hennepin-louis-saint-anth",
+    "nom": "Chutes Saint-Antoine : Louis Hennepin",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Hennepin"
+    ],
+    "description": "Chutes Saint-Antoine, 1680. Louis Hennepin explore la rivière des Illinois et est capturé par les Sioux. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 19-20 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=HENNEPIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "LN-greysolon-du-lhut-saint-anth",
+    "nom": "Chutes Saint-Antoine : Greysolon Du Lhut",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Greysolon Du Lhut"
+    ],
+    "description": "Chutes Saint-Antoine, 1680. Greysolon Du Lhut délivre Hennepin. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 20 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=GREYSOLON+DU+LHUT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "LN-ribourde-le-pere-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Le père Ribourde",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le père Ribourde"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Le père Ribourde est tué par les Iroquois. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 22 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=RIBOURDE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "LN-la-metairie-jacques-de-la-balise",
+    "nom": "La Balise (embouchure du Mississippi) : Jacques de la Metairie",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques de la Metairie"
+    ],
+    "description": "La Balise (embouchure du Mississippi), 1682. Jacques de la Metairie est notaire et dresse l'acte de prise de possession. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 24 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LA+METAIRIE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     28.81
+    ]
+   },
+   "properties": {
+    "id": "LN-membre-zenobe-fort-saint",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas) : Zenobe Membre",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1682.0,
+    "fin": 1689.999,
+    "date_edtf": "1682/1689",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Zenobe Membre"
+    ],
+    "description": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas), 1682-1689. Zenobe Membre est témoin de la prise de possession et meurt au fort Saint-Louis du Texas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 24, 27 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=MEMBRE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     28.81
+    ]
+   },
+   "properties": {
+    "id": "LN-douay-anastase-fort-saint",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas) : Anastase Douay",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1687.0,
+    "fin": 1687.0,
+    "date_edtf": "1687",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Anastase Douay"
+    ],
+    "description": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas), 1687. Anastase Douay accompagne La Salle. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Biloxi (fort Maurepas).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 27-28, 34, 37, 43 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DOUAY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-douay-anastase-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Anastase Douay",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Anastase Douay"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Anastase Douay rejoint Iberville. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Fort Saint-Louis de La Salle (Garcitas Creek, Texas).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 27-28, 34, 37, 43 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DOUAY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "LN-joutel-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Joutel",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1687.0,
+    "fin": 1687.0,
+    "date_edtf": "1687",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joutel"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1687. Joutel rédige la Relation et gagne le fort Saint-Louis des Illinois. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 27-28, 34 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=JOUTEL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     28.81
+    ]
+   },
+   "properties": {
+    "id": "LN-meurtriers-de-la-salle-duhau-fort-saint",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas) : Duhaut, Teissier, Larcheveque Meurtriers de la Salle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "evenement",
+    "debut": 1687.0,
+    "fin": 1687.0,
+    "date_edtf": "1687",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duhaut, Teissier, Larcheveque Meurtriers de la Salle"
+    ],
+    "description": "Fort Saint-Louis de La Salle (Garcitas Creek, Texas), 1687. Duhaut, Teissier, Larcheveque Meurtriers de la Salle assassinent La Salle et ses compagnons. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 28 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=MEURTRIERS+DE+LA+SALLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     35.15
+    ]
+   },
+   "properties": {
+    "id": "LN-prud-homme-pierre-ecores-a-p",
+    "nom": "Écores à Prudhomme (Memphis, Tennessee) : Pierre Prud'homme",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Prud'homme"
+    ],
+    "description": "Écores à Prudhomme (Memphis, Tennessee), 1682. Pierre Prud'homme se perd à la chasse et donne son nom à un fort. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 23 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PRUD+HOMME",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.97,
+     30.21
+    ]
+   },
+   "properties": {
+    "id": "LN-iberville-pierre-le-moyne-d-ship-islan",
+    "nom": "Île aux Vaisseaux (Ship Island) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Île aux Vaisseaux (Ship Island), 1699. Pierre Le Moyne d' Iberville mouille à l'île aux Vaisseaux. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Biloxi (fort Maurepas).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30-49, 135 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=IBERVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-iberville-pierre-le-moyne-d-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Pierre Le Moyne d' Iberville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d' Iberville"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Pierre Le Moyne d' Iberville fonde Biloxi et retrouve l'embouchure du Mississippi. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : île aux Vaisseaux (Ship Island).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30-49, 135 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=IBERVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.95,
+     29.88
+    ]
+   },
+   "properties": {
+    "id": "LN-bienville-jean-baptiste-le-m-detour-des",
+    "nom": "Détour des Anglais (English Turn, Louisiane) : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Détour des Anglais (English Turn, Louisiane), 1699. Jean-Baptiste Le Moyne de Bienville renvoie le capitaine anglais. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Mobile, fort Rosalie (Natchez, Mississippi), La Nouvelle-Orléans.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30-131 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BIENVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-bienville-jean-baptiste-le-m-mobile",
+    "nom": "Mobile : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Mobile, 1702. Jean-Baptiste Le Moyne de Bienville fonde le fort Louis de la Mobile. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Détour des Anglais (English Turn, Louisiane), fort Rosalie (Natchez, Mississippi), La Nouvelle-Orléans.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30-131 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BIENVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LN-bienville-jean-baptiste-le-m-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1716.0,
+    "fin": 1716.0,
+    "date_edtf": "1716",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1716. Jean-Baptiste Le Moyne de Bienville punit les chefs natchez. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Détour des Anglais (English Turn, Louisiane), Mobile, La Nouvelle-Orléans.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30-131 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BIENVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-bienville-jean-baptiste-le-m-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1718.0,
+    "fin": 1743.999,
+    "date_edtf": "1718/1743",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "La Nouvelle-Orléans, 1718-1743. Jean-Baptiste Le Moyne de Bienville fonde la ville et la gouverne. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Détour des Anglais (English Turn, Louisiane), Mobile, fort Rosalie (Natchez, Mississippi).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30-131 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BIENVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-sauvole-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Sauvole",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1701.999,
+    "date_edtf": "1699/1701",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sauvole"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699-1701. Sauvole commande la colonie de Biloxi et tient un journal. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30, 37-47 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SAUVOLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-serigny-joseph-le-moyne-de-mobile",
+    "nom": "Mobile : Joseph Le Moyne de Serigny",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1719.999,
+    "date_edtf": "1702/1719",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Le Moyne de Serigny"
+    ],
+    "description": "Mobile, 1702-1719. Joseph Le Moyne de Serigny commande le Palmier et inspecte la côte. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 34, 47-48, 69 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SERIGNY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "LN-chateauguay-antoine-le-moyne-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Antoine Le Moyne de Chateauguay",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Le Moyne de Chateauguay"
+    ],
+    "description": "Île Dauphine (Alabama), 1702. Antoine Le Moyne de Chateauguay bâtit un magasin à l'île Dauphine. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 34, 47-48 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CHATEAUGUAY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.97,
+     30.21
+    ]
+   },
+   "properties": {
+    "id": "LN-surgeres-le-chevalier-de-ship-islan",
+    "nom": "Île aux Vaisseaux (Ship Island) : Le chevalier de Surgères",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le chevalier de Surgères"
+    ],
+    "description": "Île aux Vaisseaux (Ship Island), 1699. Le chevalier de Surgères commande le Marin. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 35 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SURGÈRES",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-chateaumorant-le-marquis-de-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Le marquis de Chateaumorant",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le marquis de Chateaumorant"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Le marquis de Chateaumorant escorte l'expédition d'Iberville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 35, 37 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CHATEAUMORANT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LN-penicaut-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Penicaut",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1704.0,
+    "fin": 1704.0,
+    "date_edtf": "1704",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Penicaut"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1704. Penicaut est charpentier et chroniqueur, vit chez les Natchez. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Village des Colapissas (rive nord du lac Pontchartrain).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 34, 36, 46, 55-56 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PENICAUT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     30.3
+    ]
+   },
+   "properties": {
+    "id": "LN-penicaut-village-de",
+    "nom": "Village des Colapissas (rive nord du lac Pontchartrain) : Penicaut",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1710.0,
+    "fin": 1710.0,
+    "date_edtf": "1710",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Penicaut"
+    ],
+    "description": "Village des Colapissas (rive nord du lac Pontchartrain), 1710. Penicaut vit chez les Colapissas et leur apprend le français. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : fort Rosalie (Natchez, Mississippi).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 34, 36, 46, 55-56 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PENICAUT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-boisbriant-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Boisbriant",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1702.999,
+    "date_edtf": "1699/1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Boisbriant"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699-1702. Boisbriant est major de Biloxi. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 45, 48, 68, 101 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BOISBRIANT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-boisbriant-new-orlean",
+    "nom": "La Nouvelle-Orléans : Boisbriant",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Boisbriant"
+    ],
+    "description": "La Nouvelle-Orléans, 1724. Boisbriant est gouverneur par intérim. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Biloxi (fort Maurepas).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 45, 48, 68, 101 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BOISBRIANT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-juchereau-de-st-denis-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Juchereau De St. Denis",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Juchereau De St. Denis"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Juchereau De St. Denis accompagne Iberville. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Natchitoches.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 45-46, 61, 79, 113 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=JUCHEREAU+DE+ST+DENIS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "LN-juchereau-de-st-denis-natchitoch",
+    "nom": "Natchitoches : Juchereau De St. Denis",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1715.0,
+    "fin": 1731.999,
+    "date_edtf": "1715/1731",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Juchereau De St. Denis"
+    ],
+    "description": "Natchitoches, 1715-1731. Juchereau De St. Denis fonde Natchitoches et repousse les Natchez. D'après Fortier, A History of Louisiana, vol. 1 (1904). Autres lieux de l'entrée : Biloxi (fort Maurepas).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 45-46, 61, 79, 113 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=JUCHEREAU+DE+ST+DENIS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-de-malton-biloxi",
+    "nom": "Biloxi (fort Maurepas) : De Malton",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "De Malton"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. De Malton arrive avec Iberville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 45 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+MALTON",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-levasseur-russouelle-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Levasseur Russouelle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Levasseur Russouelle"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Levasseur Russouelle est nommé major de Biloxi. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 42 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LEVASSEUR+RUSSOUELLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-le-sueur-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Le Sueur",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1700.999,
+    "date_edtf": "1699/1700",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Sueur"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699-1700. Le Sueur part chercher le cuivre au pays des Sioux. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 30, 45-46 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LE+SUEUR",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.95,
+     29.88
+    ]
+   },
+   "properties": {
+    "id": "LN-secon-detour-des",
+    "nom": "Détour des Anglais (English Turn, Louisiane) : Secon",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Secon"
+    ],
+    "description": "Détour des Anglais (English Turn, Louisiane), 1699. Secon est ingénieur français à bord du navire anglais et remet la pétition des protestants. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 44 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SECON",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-la-salle-nicolas-de-mobile",
+    "nom": "Mobile : Nicolas de la Salle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas de la Salle"
+    ],
+    "description": "Mobile, 1702. Nicolas de la Salle arrive comme commissaire avec sa famille. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 48 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LA+SALLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-bordeneau-le-pere-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Le père Bordeneau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Bordeneau"
+    ],
+    "description": "Biloxi (fort Maurepas), 1699. Le père Bordeneau est aumônier de Biloxi. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 43 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BORDENEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-la-vente-le-cure-de-mobile",
+    "nom": "Mobile : Le curé de la Vente",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1704.0,
+    "fin": 1704.0,
+    "date_edtf": "1704",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le curé de la Vente"
+    ],
+    "description": "Mobile, 1704. Le curé de la Vente arrive avec les vivres et s'oppose à Bienville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 49, 51 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LA+VENTE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-gravier-le-pere-mobile",
+    "nom": "Mobile : Le père Gravier",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Gravier"
+    ],
+    "description": "Mobile, vers 1702. Le père Gravier défend Bienville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 49 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=GRAVIER",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9,
+     30.3
+    ]
+   },
+   "properties": {
+    "id": "LN-picard-village-de",
+    "nom": "Village des Colapissas (rive nord du lac Pontchartrain) : Picard",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1710.0,
+    "fin": 1710.0,
+    "date_edtf": "1710~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Picard"
+    ],
+    "description": "Village des Colapissas (rive nord du lac Pontchartrain), vers 1710. Picard est violoneux chez les Colapissas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 55 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PICARD",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "LN-jalot-natchitoch",
+    "nom": "Natchitoches : Jalot",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1714.0,
+    "fin": 1714.0,
+    "date_edtf": "1714~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jalot"
+    ],
+    "description": "Natchitoches, vers 1714. Jalot est valet de St. Denis et source du récit de Penicaut. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 61 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=JALOT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-de-muys-mobile",
+    "nom": "Mobile : De Muys",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1708.0,
+    "fin": 1708.0,
+    "date_edtf": "1708",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "De Muys"
+    ],
+    "description": "Mobile, 1708. De Muys est nommé gouverneur et meurt à La Havane. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 53 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+MUYS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "LN-lamothe-cadillac-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Lamothe Cadillac",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1713.0,
+    "fin": 1716.999,
+    "date_edtf": "1713/1716",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lamothe Cadillac"
+    ],
+    "description": "Île Dauphine (Alabama), 1713-1716. Lamothe Cadillac est gouverneur et critique Bienville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 57, 60-62 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LAMOTHE+CADILLAC",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "LN-duclos-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Duclos",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1714.0,
+    "fin": 1716.999,
+    "date_edtf": "1714/1716",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duclos"
+    ],
+    "description": "Île Dauphine (Alabama), 1714-1716. Duclos est commissaire et ami de Bienville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 60 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DUCLOS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "LN-de-l-epinay-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : De L'Epinay",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1717.0,
+    "fin": 1717.0,
+    "date_edtf": "1717",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "De L'Epinay"
+    ],
+    "description": "Île Dauphine (Alabama), 1717. De L'Epinay arrive comme gouverneur. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 63 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+L+EPINAY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "LN-hubert-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Hubert",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1717.0,
+    "fin": 1719.999,
+    "date_edtf": "1717/1719",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Hubert"
+    ],
+    "description": "Île Dauphine (Alabama), 1717-1719. Hubert est commissaire puis directeur général. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 63, 68 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=HUBERT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-dubreuil-joseph-new-orlean",
+    "nom": "La Nouvelle-Orléans : Joseph Dubreuil",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1717.0,
+    "fin": 1758.999,
+    "date_edtf": "1717/1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Dubreuil"
+    ],
+    "description": "La Nouvelle-Orléans, 1717-1758. Joseph Dubreuil devient le plus riche planteur, bâtit digues, canaux et le premier moulin à sucre. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 63, 102-103, 134 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DUBREUIL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-d-artaguette-le-jeune-mobile",
+    "nom": "Mobile : Le jeune D'artaguette",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1717.0,
+    "fin": 1717.0,
+    "date_edtf": "1717",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le jeune D'artaguette"
+    ],
+    "description": "Mobile, 1717. Le jeune D'artaguette arrive comme colon. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 63 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=D+ARTAGUETTE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "LN-de-grieux-pensacola",
+    "nom": "Pensacola (Floride) : De Grieux",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "De Grieux"
+    ],
+    "description": "Pensacola (Floride), 1719. De Grieux commande le Comte de Toulouse. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 69 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+GRIEUX",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.914,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "LN-dutisne-kaskaskia",
+    "nom": "Kaskaskia : Dutisne",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Dutisne"
+    ],
+    "description": "Kaskaskia, 1719. Dutisne explore l'Ouest et écrit à Bienville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 69 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DUTISNE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.05,
+     33.55
+    ]
+   },
+   "properties": {
+    "id": "LN-benard-de-la-harpe-poste-des-",
+    "nom": "Poste de La Harpe chez les Nassonites (1719) : Benard De La Harpe",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1720.999,
+    "date_edtf": "1719/1720",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benard De La Harpe"
+    ],
+    "description": "Poste de La Harpe chez les Nassonites (1719), 1719-1720. Benard De La Harpe établit un poste sur la rivière Rouge chez les Cadodaquious. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 69-70, 72 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BENARD+DE+LA+HARPE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "LN-pauger-la-balise",
+    "nom": "La Balise (embouchure du Mississippi) : Pauger",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1723.0,
+    "fin": 1723.0,
+    "date_edtf": "1723",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pauger"
+    ],
+    "description": "La Balise (embouchure du Mississippi), 1723. Pauger est ingénieur et étudie l'embouchure. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 70-71 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PAUGER",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-blondel-de-la-tour-new-orlean",
+    "nom": "La Nouvelle-Orléans : Blondel De La Tour",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1720.0,
+    "fin": 1722.999,
+    "date_edtf": "1720/1722",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Blondel De La Tour"
+    ],
+    "description": "La Nouvelle-Orléans, 1720-1722. Blondel De La Tour est ingénieur en chef et trace la ville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 71-72, 98 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BLONDEL+DE+LA+TOUR",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-de-richebourg-new-orlean",
+    "nom": "La Nouvelle-Orléans : De Richebourg",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1721.0,
+    "fin": 1721.0,
+    "date_edtf": "1721~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "De Richebourg"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1721. De Richebourg commande La Nouvelle-Orléans. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 72 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+RICHEBOURG",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-commandants-de-poste-les-off-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les officiers des années 1720 Commandants de Poste",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1722.0,
+    "fin": 1722.0,
+    "date_edtf": "1722~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Les officiers des années 1720 Commandants de Poste"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1722. Les officiers des années 1720 Commandants de Poste commandent les postes : Marigny de Mandeville, De Loubois, De Saint Denis, De la Marque, Marchand, De Bournion. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 72 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=COMMANDANTS+DE+POSTE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     30.02
+    ]
+   },
+   "properties": {
+    "id": "LN-d-arensbourg-le-chevalier-cote-des-a",
+    "nom": "Côte des Allemands (Louisiane) : Le chevalier D'arensbourg",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1723.0,
+    "fin": 1768.999,
+    "date_edtf": "1723/1768",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le chevalier D'arensbourg"
+    ],
+    "description": "Côte des Allemands (Louisiane), 1723-1768. Le chevalier D'arensbourg commande la Côte des Allemands. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 64, 207 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=D+ARENSBOURG",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "LN-conseil-superieur-les-membre-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Les membres de 1719 Conseil Supérieur",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les membres de 1719 Conseil Supérieur"
+    ],
+    "description": "Biloxi (fort Maurepas), 1719. Les membres de 1719 Conseil Supérieur siègent : Cartier de Baume, Villardo, L'Archambault, Legac, Couture. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 68-69 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CONSEIL+SUPÉRIEUR",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "LN-davion-le-pere-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Le père Davion",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1718.0,
+    "fin": 1718.0,
+    "date_edtf": "1718~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le père Davion"
+    ],
+    "description": "Village des Tunicas (Louisiane), vers 1718. Le père Davion dit la messe aux voyageurs chez les Tunicas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 76 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DAVION",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-charlevoix-le-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père Charlevoix",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1721.0,
+    "fin": 1722.999,
+    "date_edtf": "1721/1722",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Charlevoix"
+    ],
+    "description": "La Nouvelle-Orléans, 1721-1722. Le père Charlevoix décrit La Nouvelle-Orléans et rencontre Le Page. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 73-74, 81 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CHARLEVOIX",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LN-le-page-du-pratz-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Le Page Du Pratz",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1718.0,
+    "fin": 1734.999,
+    "date_edtf": "1718/1734",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Page Du Pratz"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1718-1734. Le Page Du Pratz est colon et auteur, concessionnaire près de La Nouvelle-Orléans puis aux Natchez. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 74-82 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LE+PAGE+DU+PRATZ",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-rossard-new-orlean",
+    "nom": "La Nouvelle-Orléans : Rossard",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rossard"
+    ],
+    "description": "La Nouvelle-Orléans, 1724. Rossard est greffier du Conseil supérieur et certifie le Code noir. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 86-87 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=ROSSARD",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-perier-new-orlean",
+    "nom": "La Nouvelle-Orléans : Perier",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1726.0,
+    "fin": 1731.999,
+    "date_edtf": "1726/1731",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Perier"
+    ],
+    "description": "La Nouvelle-Orléans, 1726-1731. Perier est gouverneur et mène les campagnes contre les Natchez. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 103-104, 113-116 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PERIER",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-de-la-chaise-new-orlean",
+    "nom": "La Nouvelle-Orléans : De La Chaise",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "De La Chaise"
+    ],
+    "description": "La Nouvelle-Orléans, 1724. De La Chaise est commissaire et provoque la chute de Boisbriant. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 104 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+LA+CHAISE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "LN-de-verges-la-balise",
+    "nom": "La Balise (embouchure du Mississippi) : De Verges",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "De Verges"
+    ],
+    "description": "La Balise (embouchure du Mississippi), 1727. De Verges commande la Balise. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 104 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+VERGES",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-beaubois-le-pere-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père de Beaubois",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1726.0,
+    "fin": 1728.999,
+    "date_edtf": "1726/1728",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père de Beaubois"
+    ],
+    "description": "La Nouvelle-Orléans, 1726-1728. Le père de Beaubois est jésuite, fait venir les Ursulines et revendique le grand vicariat. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 104-108 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BEAUBOIS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-petit-le-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père Petit",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1728.0,
+    "fin": 1728.0,
+    "date_edtf": "1728~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Petit"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1728. Le père Petit est jésuite et succède au père de Beaubois. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 108 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PETIT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-raphael-le-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père Raphael",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1728.0,
+    "fin": 1728.0,
+    "date_edtf": "1728~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Raphael"
+    ],
+    "description": "La Nouvelle-Orléans, vers 1728. Le père Raphael est supérieur des capucins. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 107 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=RAPHAEL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-cecile-le-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père Cecile",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Cecile"
+    ],
+    "description": "La Nouvelle-Orléans, 1727. Le père Cecile est capucin et maître d'école. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 108 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CECILE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-tranchepain-de-saint-augusti-new-orlean",
+    "nom": "La Nouvelle-Orléans : Mère Marie Tranchepain de Saint-Augustin",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Mère Marie Tranchepain de Saint-Augustin"
+    ],
+    "description": "La Nouvelle-Orléans, 1727. Mère Marie Tranchepain de Saint-Augustin est supérieure des Ursulines. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 104 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=TRANCHEPAIN+DE+SAINT+AUGUSTIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-hachard-sur-madeleine-new-orlean",
+    "nom": "La Nouvelle-Orléans : Sœur Madeleine Hachard",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1727.0,
+    "fin": 1728.999,
+    "date_edtf": "1727/1728",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sœur Madeleine Hachard"
+    ],
+    "description": "La Nouvelle-Orléans, 1727-1728. Sœur Madeleine Hachard est ursuline et décrit la traversée et la ville. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 104-106 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=HACHARD",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LN-chopart-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Chopart",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "evenement",
+    "debut": 1729.0,
+    "fin": 1729.0,
+    "date_edtf": "1729",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Chopart"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1729. Chopart commande le fort et provoque le massacre par sa cupidité. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 111 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CHOPART",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-de-lery-le-sieur-mobile",
+    "nom": "Mobile : Le sieur de Lery",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1729.0,
+    "fin": 1729.0,
+    "date_edtf": "1729",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le sieur de Lery"
+    ],
+    "description": "Mobile, 1729. Le sieur de Lery est envoyé chez les Chactas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 112 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DE+LERY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LN-navarre-et-mesplet-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Navarre Et Mesplet",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1730.0,
+    "fin": 1730.0,
+    "date_edtf": "1730",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Navarre Et Mesplet"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1730. Navarre Et Mesplet sont pris par les Natchez. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 112 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=NAVARRE+et+MESPLET",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "LN-loubois-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Loubois",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1729.0,
+    "fin": 1730.999,
+    "date_edtf": "1729/1730",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Loubois"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1729-1730. Loubois mène la campagne contre les Natchez et bâtit un fort chez les Tunicas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 112-113 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LOUBOIS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LN-perier-de-salvert-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Perier De Salvert",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1730.0,
+    "fin": 1730.0,
+    "date_edtf": "1730",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Perier De Salvert"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1730. Perier De Salvert amène des renforts. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 114 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PERIER+DE+SALVERT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-le-blanc-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Le Blanc",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1734.0,
+    "fin": 1734.0,
+    "date_edtf": "1734",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Blanc"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1734. Le Blanc conduit les bateaux de vivres. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 119 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LE+BLANC",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-salmon-new-orlean",
+    "nom": "La Nouvelle-Orléans : Salmon",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1732.0,
+    "fin": 1742.999,
+    "date_edtf": "1732/1742",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Salmon"
+    ],
+    "description": "La Nouvelle-Orléans, 1732-1742. Salmon est commissaire ordonnateur et propose hôpital et collège. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 118, 127-130 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SALMON",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-d-artaguette-et-vincennes-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : D'Artaguette Et Vincennes",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "evenement",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "D'Artaguette Et Vincennes"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. D'Artaguette Et Vincennes attaquent les Chicachas et périssent sur le bûcher. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 120-121 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=D+ARTAGUETTE+et+VINCENNES",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-senac-le-pere-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Le père Senac",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le père Senac"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. Le père Senac est jésuite brûlé par les Chicachas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 121 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SENAC",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-officiers-d-ackia-la-campagn-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : La campagne de 1736 Officiers D'ackia",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La campagne de 1736 Officiers D'ackia"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. La campagne de 1736 Officiers D'ackia servent sous Bienville : Delery, D'Hauterive, De Lusser, De Courtillas, Petit, Berthel, De Bombelles, Benac, De Membrede, De Macarty, De St. Pierre, De Velles, De Bouille, Des Marets, De Contre-Coeur, Populus de St. Protais, Pontalba, Vanderek, Montbrun, Volant, Montmolin, Lesueur, St. Martin. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 121 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=OFFICIERS+D+ACKIA",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-noyan-le-chevalier-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Le chevalier Noyan",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le chevalier Noyan"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. Le chevalier Noyan est blessé à Ackia. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 123-124 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=NOYAN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-tues-d-ackia-contre-coeur-lu-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Contre-Coeur, Lusser, Juzan Tués D'ackia",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "evenement",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Contre-Coeur, Lusser, Juzan Tués D'ackia"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. Contre-Coeur, Lusser, Juzan Tués D'ackia sont tués à Ackia. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 123-124 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=TUÉS+D+ACKIA",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "LN-beauchamp-et-favrot-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Beauchamp Et Favrot",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beauchamp Et Favrot"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. Beauchamp Et Favrot couvrent la retraite ; Favrot est blessé. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 124 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BEAUCHAMP+et+FAVROT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     35.15
+    ]
+   },
+   "properties": {
+    "id": "LN-celoron-fort-de-l-",
+    "nom": "Fort de l'Assomption (Memphis, Tennessee) : Celoron",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1739.0,
+    "fin": 1740.999,
+    "date_edtf": "1739/1740",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Celoron"
+    ],
+    "description": "Fort de l'Assomption (Memphis, Tennessee), 1739-1740. Celoron mène les cadets et fait la paix avec les Chicachas. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 125-126 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CELORON",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     35.15
+    ]
+   },
+   "properties": {
+    "id": "LN-renforts-de-1739-buissonnier-fort-de-l-",
+    "nom": "Fort de l'Assomption (Memphis, Tennessee) : Buissonniere, St. Laurent, Louis d'Ayme de Noailles Renforts de 1739",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Buissonniere, St. Laurent, Louis d'Ayme de Noailles Renforts de 1739"
+    ],
+    "description": "Fort de l'Assomption (Memphis, Tennessee), 1739. Buissonniere, St. Laurent, Louis d'Ayme de Noailles Renforts de 1739 amènent des renforts. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 125 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=RENFORTS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-louis-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Louis",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1737.999,
+    "date_edtf": "1736/1737",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Louis"
+    ],
+    "description": "La Nouvelle-Orléans, 1736-1737. Jean Louis est ancien marin dont le legs fonde l'hôpital. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 127-128 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LOUIS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-prat-le-docteur-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le docteur Prat",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le docteur Prat"
+    ],
+    "description": "La Nouvelle-Orléans, 1738. Le docteur Prat est médecin et demande un jardin. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 128 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PRAT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-malo-le-frere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le frère Malo",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1742.0,
+    "fin": 1742.0,
+    "date_edtf": "1742",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le frère Malo"
+    ],
+    "description": "La Nouvelle-Orléans, 1742. Le frère Malo est frère des Écoles chrétiennes et propose des écoles. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 129 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=MALO",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-vaudreuil-le-marquis-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le marquis de Vaudreuil",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1743.0,
+    "fin": 1752.999,
+    "date_edtf": "1743/1752",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le marquis de Vaudreuil"
+    ],
+    "description": "La Nouvelle-Orléans, 1743-1752. Le marquis de Vaudreuil est gouverneur, introduit la canne et édicte des règlements de police. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 131-134 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=VAUDREUIL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     30.02
+    ]
+   },
+   "properties": {
+    "id": "LN-baby-cote-des-a",
+    "nom": "Côte des Allemands (Louisiane) : Baby",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "evenement",
+    "debut": 1748.0,
+    "fin": 1748.0,
+    "date_edtf": "1748",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Baby"
+    ],
+    "description": "Côte des Allemands (Louisiane), 1748. Baby est maître à danser tué par les Indiens. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 131 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BABY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "LN-deruisseau-missouri",
+    "nom": "Haut Missouri : Deruisseau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1743.0,
+    "fin": 1743.0,
+    "date_edtf": "1743",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Deruisseau"
+    ],
+    "description": "Haut Missouri, 1743. Deruisseau obtient le privilège de la traite du Missouri. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 132 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DERUISSEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.16,
+     38.09
+    ]
+   },
+   "properties": {
+    "id": "LN-macarty-fort-de-ch",
+    "nom": "Fort de Chartres (Illinois) : Macarty",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1752.0,
+    "fin": 1752.0,
+    "date_edtf": "1752",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Macarty"
+    ],
+    "description": "Fort de Chartres (Illinois), 1752. Macarty commande le fort de Chartres. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 134 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=MACARTY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-bossu-new-orlean",
+    "nom": "La Nouvelle-Orléans : Bossu",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1751.0,
+    "fin": 1753.999,
+    "date_edtf": "1751/1753",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bossu"
+    ],
+    "description": "La Nouvelle-Orléans, 1751-1753. Bossu est officier et décrit les Créoles. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 134-136 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BOSSU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-kerlerec-new-orlean",
+    "nom": "La Nouvelle-Orléans : Kerlerec",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1753.0,
+    "fin": 1761.999,
+    "date_edtf": "1753/1761",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Kerlerec"
+    ],
+    "description": "La Nouvelle-Orléans, 1753-1761. Kerlerec est gouverneur et règle l'affaire de l'île aux Chats. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 135-138 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=KERLEREC",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.08,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "LN-beaudreau-ile-aux-ch",
+    "nom": "Île aux Chats (Cat Island, Mississippi) : Beaudreau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1757.0,
+    "fin": 1757.0,
+    "date_edtf": "1757",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beaudreau"
+    ],
+    "description": "Île aux Chats (Cat Island, Mississippi), 1757. Beaudreau est planteur libéré par les mutins puis exécuté. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 136-137 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BEAUDREAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-simarre-de-belle-isle-new-orlean",
+    "nom": "La Nouvelle-Orléans : Simarre De Belle-Isle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1760.999,
+    "date_edtf": "1719/1760",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Simarre De Belle-Isle"
+    ],
+    "description": "La Nouvelle-Orléans, 1719-1760. Simarre De Belle-Isle est aventurier et s'oppose à Kerlerec. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 139 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=SIMARRE+DE+BELLE+ISLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-opposants-a-kerlerec-grondel-new-orlean",
+    "nom": "La Nouvelle-Orléans : Grondel, D'Hauterive, D'Herneuville, Marigny de Mandeville Opposants À Kerlerec",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1760.0,
+    "fin": 1760.0,
+    "date_edtf": "1760",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Grondel, D'Hauterive, D'Herneuville, Marigny de Mandeville Opposants À Kerlerec"
+    ],
+    "description": "La Nouvelle-Orléans, 1760. Grondel, D'Hauterive, D'Herneuville, Marigny de Mandeville Opposants À Kerlerec s'opposent au gouverneur. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 139 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=OPPOSANTS+À+KERLEREC",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-rochemore-et-foucault-new-orlean",
+    "nom": "La Nouvelle-Orléans : Rochemore Et Foucault",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1760.0,
+    "fin": 1768.999,
+    "date_edtf": "1760/1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rochemore Et Foucault"
+    ],
+    "description": "La Nouvelle-Orléans, 1760-1768. Rochemore Et Foucault sont commissaires et se querellent avec Kerlerec. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 138, 152-153, 163, 206 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=ROCHEMORE+et+FOUCAULT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-dagobert-et-beaudoin-les-per-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les pères Dagobert Et Beaudoin",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1760.0,
+    "fin": 1760.0,
+    "date_edtf": "1760",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les pères Dagobert Et Beaudoin"
+    ],
+    "description": "La Nouvelle-Orléans, 1760. Les pères Dagobert Et Beaudoin s'opposent dans une querelle religieuse. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 138, 173 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DAGOBERT+et+BEAUDOIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LN-remise-de-mobile-fazende-et--mobile",
+    "nom": "Mobile : Fazende et De Velle Remise de Mobile",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Fazende et De Velle Remise de Mobile"
+    ],
+    "description": "Mobile, 1763. Fazende et De Velle Remise de Mobile remettent Mobile aux Anglais. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 147 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=REMISE+DE+MOBILE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-d-abbadie-new-orlean",
+    "nom": "La Nouvelle-Orléans : D'Abbadie",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D'Abbadie"
+    ],
+    "description": "La Nouvelle-Orléans, 1764. D'Abbadie reçoit l'ordre de cession et accueille Tensas et Alibamons. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 148-150 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=D+ABBADIE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.16,
+     38.09
+    ]
+   },
+   "properties": {
+    "id": "LN-nyon-de-villiers-fort-de-ch",
+    "nom": "Fort de Chartres (Illinois) : Nyon De Villiers",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nyon De Villiers"
+    ],
+    "description": "Fort de Chartres (Illinois), 1764. Nyon De Villiers quitte les Illinois avec officiers et colons. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 151 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=NYON+DE+VILLIERS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.16,
+     38.09
+    ]
+   },
+   "properties": {
+    "id": "LN-st-ange-fort-de-ch",
+    "nom": "Fort de Chartres (Illinois) : St. Ange",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "poste",
+    "debut": 1765.0,
+    "fin": 1765.0,
+    "date_edtf": "1765",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "St. Ange"
+    ],
+    "description": "Fort de Chartres (Illinois), 1765. St. Ange passe le Mississippi et se replie sur Saint-Louis. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 151 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=ST+ANGE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-aubry-new-orlean",
+    "nom": "La Nouvelle-Orléans : Aubry",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1765.0,
+    "fin": 1768.999,
+    "date_edtf": "1765/1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Aubry"
+    ],
+    "description": "La Nouvelle-Orléans, 1765-1768. Aubry succède à D'Abbadie et reconnaît Ulloa. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 152, 168-169, 195-196 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=AUBRY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.83,
+     30.13
+    ]
+   },
+   "properties": {
+    "id": "LN-acadiens-les-arrivees-de-176-saint-mart",
+    "nom": "Saint-Martinville (Attakapas, Louisiane) : Les arrivées de 1764-1766 Acadiens",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1766.999,
+    "date_edtf": "1764/1766",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les arrivées de 1764-1766 Acadiens"
+    ],
+    "description": "Saint-Martinville (Attakapas, Louisiane), 1764-1766. Les arrivées de 1764-1766 Acadiens arrivent de New York, de Saint-Domingue et d'Halifax et sont envoyés aux Attakapas, aux Opelousas et sur le fleuve. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 148, 152-153 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=ACADIENS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-chevaliers-de-saint-louis-le-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les promotions de 1759-1765 Chevaliers de Saint-Louis",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1759.0,
+    "fin": 1765.999,
+    "date_edtf": "1759/1765",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les promotions de 1759-1765 Chevaliers de Saint-Louis"
+    ],
+    "description": "La Nouvelle-Orléans, 1759-1765. Les promotions de 1759-1765 Chevaliers de Saint-Louis sont décorés : Pontalba, Favrot, Marest de la Tour, De Bonille, D'Arensbourg, De Lavergne. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 158-159 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CHEVALIERS+DE+SAINT+LOUIS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-officiers-de-1768-de-macarty-new-orlean",
+    "nom": "La Nouvelle-Orléans : De Macarty, De la Houssaye, Du Barry, Renaud de Coudreau Officiers de 1768",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "De Macarty, De la Houssaye, Du Barry, Renaud de Coudreau Officiers de 1768"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. De Macarty, De la Houssaye, Du Barry, Renaud de Coudreau Officiers de 1768 sont officiers de la colonie. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 158 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=OFFICIERS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-petition-des-negociants-sept-new-orlean",
+    "nom": "La Nouvelle-Orléans : Septembre 1766 Pétition des Négociants",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1766.0,
+    "date_edtf": "1766",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Septembre 1766 Pétition des Négociants"
+    ],
+    "description": "La Nouvelle-Orléans, 1766. Septembre 1766 Pétition des Négociants signent la pétition : Joseph Milhet, Rose, Cantrelle, D. Braud, J. Merrier, L. Ducrest, Petit, Duforest, Toutant Beauregard, L. Boisdore, B. Duplessy, Braquier, P. Caresse, J. Vienne, P. Segond, Durel, Blache, M. et P. Poupet, Estebe, Rodrigue, Sarpy, Papion, Revoil, Guezille, Broussard. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 160-161 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PÉTITION+DES+NÉGOCIANTS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     30.02
+    ]
+   },
+   "properties": {
+    "id": "LN-barnabe-le-pere-cote-des-a",
+    "nom": "Côte des Allemands (Louisiane) : Le père Barnabe",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "religion",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le père Barnabe"
+    ],
+    "description": "Côte des Allemands (Louisiane), 1768. Le père Barnabe est capucin et mène l'opposition aux Espagnols. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 162 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BARNABE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-lafreniere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Lafreniere",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1769.999,
+    "date_edtf": "1764/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lafreniere"
+    ],
+    "description": "La Nouvelle-Orléans, 1764-1769. Lafreniere est procureur général, chef de la révolte, fusillé. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 152, 166-175, 206-226 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LAFRENIERE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-milhet-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Milhet",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1771.999,
+    "date_edtf": "1764/1771",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Milhet"
+    ],
+    "description": "La Nouvelle-Orléans, 1764-1771. Jean Milhet est envoyé en France puis emprisonné au Morro et meurt à Saint-Domingue. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 152, 169, 223-229 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=MILHET",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-conjures-de-1768-les-chefs-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les chefs Conjurés de 1768",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1769.999,
+    "date_edtf": "1768/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les chefs Conjurés de 1768"
+    ],
+    "description": "La Nouvelle-Orléans, 1768-1769. Les chefs Conjurés de 1768 mènent la révolte : Joseph Milhet, Doucet, Noyan, Marquis, Masan, Braquier, Carresse, Petit, Poupet, Hardy de Boisblanc. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 160-175, 222-228 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CONJURÉS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     30.02
+    ]
+   },
+   "properties": {
+    "id": "LN-villere-joseph-cote-des-a",
+    "nom": "Côte des Allemands (Louisiane) : Joseph Villère",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1769.999,
+    "date_edtf": "1768/1769",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Villère"
+    ],
+    "description": "Côte des Allemands (Louisiane), 1768-1769. Joseph Villère mène la milice allemande et acadienne et meurt en détention. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 175-176, 206-207, 215-217 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=VILLÈRE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.85,
+     30.03
+    ]
+   },
+   "properties": {
+    "id": "LN-judice-cote-acadi",
+    "nom": "Côte acadienne (Cabahannocer, Louisiane) : Judice",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Judice"
+    ],
+    "description": "Côte acadienne (Cabahannocer, Louisiane), 1768. Judice commande les Acadiens. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 213 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=JUDICE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-conseillers-de-1768-huchet-d-new-orlean",
+    "nom": "La Nouvelle-Orléans : Huchet de Kernion et Piot de Launay Conseillers de 1768",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Huchet de Kernion et Piot de Launay Conseillers de 1768"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. Huchet de Kernion et Piot de Launay Conseillers de 1768 enquêtent sur Ulloa. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 163, 172-173 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CONSEILLERS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "LN-capitaines-marchands-sarron--la-balise",
+    "nom": "La Balise (embouchure du Mississippi) : Sarron, Lacoste, Chouriac Capitaines Marchands",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sarron, Lacoste, Chouriac Capitaines Marchands"
+    ],
+    "description": "La Balise (embouchure du Mississippi), 1768. Sarron, Lacoste, Chouriac Capitaines Marchands s'échouent dans les passes du fleuve. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 192-193 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=CAPITAINES+MARCHANDS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-lebeau-le-docteur-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le docteur Lebeau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le docteur Lebeau"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. Le docteur Lebeau s'oppose à l'interdiction des briqueteries. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 194 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=LEBEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-pradel-la-veuve-new-orlean",
+    "nom": "La Nouvelle-Orléans : La veuve Pradel",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La veuve Pradel"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. La veuve Pradel reçoit les conjurés sur sa plantation. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 206 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PRADEL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-deputes-de-1768-lesassier-et-new-orlean",
+    "nom": "La Nouvelle-Orléans : Lesassier et St. Lette Députés de 1768",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lesassier et St. Lette Députés de 1768"
+    ],
+    "description": "La Nouvelle-Orléans, 1768. Lesassier et St. Lette Députés de 1768 sont envoyés en France. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 169, 207 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=DÉPUTÉS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-garderat-new-orlean",
+    "nom": "La Nouvelle-Orléans : Garderat",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Garderat"
+    ],
+    "description": "La Nouvelle-Orléans, 1769. Garderat lit la sentence à l'exécution. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 225-226 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=GARDERAT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-reboul-alexandre-new-orlean",
+    "nom": "La Nouvelle-Orléans : Alexandre Reboul",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Reboul"
+    ],
+    "description": "La Nouvelle-Orléans, 1769. Alexandre Reboul est négociant en procès avec la veuve Voisin. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 232-235 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=REBOUL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-voisin-la-veuve-new-orlean",
+    "nom": "La Nouvelle-Orléans : La veuve Voisin",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La veuve Voisin"
+    ],
+    "description": "La Nouvelle-Orléans, 1769. La veuve Voisin se défend avec l'avocat Dessales. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 233-235 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=VOISIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     30.01
+    ]
+   },
+   "properties": {
+    "id": "LN-braziller-gentilly",
+    "nom": "Gentilly (La Nouvelle-Orléans) : Braziller",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Braziller"
+    ],
+    "description": "Gentilly (La Nouvelle-Orléans), 1769. Braziller est accusé de chasser le bétail des Dreux. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 235-237 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=BRAZILLER",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LN-pedesclaux-new-orlean",
+    "nom": "La Nouvelle-Orléans : Pedesclaux",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 1 (1904)",
+    "theme": "personnage",
+    "debut": 1788.0,
+    "fin": 1795.999,
+    "date_edtf": "1788/1795",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pedesclaux"
+    ],
+    "description": "La Nouvelle-Orléans, 1788-1795. Pedesclaux est greffier du Cabildo. D'après Fortier, A History of Louisiana, vol. 1 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904, p. 238, 240 ; texte intégral : archive.org, historyoflouisia01fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 1 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia01fortuoft?q=PEDESCLAUX",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 1 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]
