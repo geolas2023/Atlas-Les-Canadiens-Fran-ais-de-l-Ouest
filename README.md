@@ -237,7 +237,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `southwesternhist10bark`, `17bark`, `19bark`, `20bark` | 20 |
 | `spanishfrenchriv01dunn` | 10 |
 | `texastexansoradv01foot`, `texastexansoradv02foot` | 1 |
-| `beginningsoftexa00clar` | 10 |
+| `beginningsoftexa00clar` | 11 |
+| `sanantoniodebexa00corn` | 5 |
 
 
 ## Un point par lieu et adresses précises
