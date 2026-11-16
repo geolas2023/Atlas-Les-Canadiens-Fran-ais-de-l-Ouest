@@ -232,6 +232,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `TexasInTheMiddle18thC` | 23 |
 | `historyoftexasfr01brow`, `historyoftexasfr02brow` | 11 |
 | `indianwarspionee00brow` | 21 |
+| `journeysrnrober06coxgoog` | 15 |
 
 
 ## Un point par lieu et adresses précises
