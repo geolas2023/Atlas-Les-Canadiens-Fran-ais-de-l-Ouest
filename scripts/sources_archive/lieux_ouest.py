@@ -979,6 +979,7 @@ G.update({
     'Yampai Creek': (-113.3, 35.4, 'a', "Yampai Creek (pays hualapai, Arizona)"),
     'Rivière Colorado (Mohave)': (-114.6, 35.0, 'a', "rivière Colorado au pays mohave (Arizona)"),
     'Col de Guadalupe': (-109.2, 31.4, 'a', "col de Guadalupe et San Bernardino (frontière Arizona-Sonora)"),
+    'Lynx Creek': (-112.35, 34.55, 'a', "Lynx Creek (près de Prescott, Arizona)"),
 })
 
 
