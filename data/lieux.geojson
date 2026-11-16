@@ -517714,6 +517714,2284 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.97,
+     30.21
+    ]
+   },
+   "properties": {
+    "id": "RG-iberville-le-moyne-d-ship-islan",
+    "nom": "Île aux Vaisseaux (Ship Island) : Le Moyne d' Iberville",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Moyne d' Iberville"
+    ],
+    "description": "Île aux Vaisseaux (Ship Island), 1699. Le Moyne d' Iberville mouille à l'île aux Vaisseaux le 10 février et bâtit le fort de Biloxi. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Natchez (fort Rosalie).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XI, XIII, p. 134 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=IBERVILLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "RG-iberville-le-moyne-d-natchez",
+    "nom": "Natchez (fort Rosalie) : Le Moyne d' Iberville",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Moyne d' Iberville"
+    ],
+    "description": "Natchez (fort Rosalie), 1700. Le Moyne d' Iberville trace le site d'un fort et traite avec les Natchez. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : île aux Vaisseaux (Ship Island).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XI, XIII, p. 134 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=IBERVILLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.87,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "RG-sauvolle-biloxi",
+    "nom": "Biloxi (fort Maurepas) : Sauvolle",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1701.0,
+    "fin": 1701.0,
+    "date_edtf": "1701",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sauvolle"
+    ],
+    "description": "Biloxi (fort Maurepas), 1701. Sauvolle commande le fort Maurepas et meurt de la fièvre le 22 juillet. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XIII ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=SAUVOLLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-bienville-jean-baptiste-le-m-mobile",
+    "nom": "Mobile : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1710.0,
+    "fin": 1717.999,
+    "date_edtf": "1710/1717",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Mobile, 1710-1717. Jean-Baptiste Le Moyne de Bienville fonde la Mobile, déplace la capitale et loge des colons chez les Indiens. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XV, p. 118, 126-127, 210, 260, 325 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BIENVILLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-bienville-jean-baptiste-le-m-mobile-2",
+    "nom": "Mobile : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1714.0,
+    "fin": 1714.0,
+    "date_edtf": "1714",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Mobile, 1714. Jean-Baptiste Le Moyne de Bienville abrite les Taensas. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XV, p. 118, 126-127, 210, 260, 325 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BIENVILLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-bienville-jean-baptiste-le-m-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "evenement",
+    "debut": 1723.0,
+    "fin": 1723.0,
+    "date_edtf": "1723",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "La Nouvelle-Orléans, 1723. Jean-Baptiste Le Moyne de Bienville fixe le siège du gouvernement et marque le site de l'église. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Mobile.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XV, p. 118, 126-127, 210, 260, 325 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BIENVILLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-bienville-jean-baptiste-le-m-new-orlean-2",
+    "nom": "La Nouvelle-Orléans : Jean-Baptiste Le Moyne de Bienville",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1742.0,
+    "fin": 1742.0,
+    "date_edtf": "1742",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "La Nouvelle-Orléans, 1742. Jean-Baptiste Le Moyne de Bienville demande un collège au gouvernement. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Mobile.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XV, p. 118, 126-127, 210, 260, 325 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BIENVILLE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RG-tonty-henri-de-mississipp",
+    "nom": "Embouchure du Mississippi : Henri de Tonty",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1686.0,
+    "fin": 1686.0,
+    "date_edtf": "1686",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Embouchure du Mississippi, 1686. Henri de Tonty cherche La Salle sur la côte, trouve la croix et laisse une lettre. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XI, p. 134 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=TONTY",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RG-metairie-jacques-de-mississipp",
+    "nom": "Embouchure du Mississippi : Jacques de Métairie",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques de Métairie"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Jacques de Métairie est notaire et dresse le procès-verbal de La Salle. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XI ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MÉTAIRIE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-hachard-madeleine-new-orlean",
+    "nom": "La Nouvelle-Orléans : Madeleine Hachard",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Madeleine Hachard"
+    ],
+    "description": "La Nouvelle-Orléans, 1727. Madeleine Hachard arrive le 7 août et décrit le tourment des moustiques. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XIII, p. 148, 154 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=HACHARD",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-blondel-mobile",
+    "nom": "Mobile : Blondel",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1709.0,
+    "fin": 1709.0,
+    "date_edtf": "1709",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Blondel"
+    ],
+    "description": "Mobile, 1709. Blondel passe la disette chez les Indiens avec trente soldats. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XV ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BLONDEL",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-le-maire-mobile",
+    "nom": "Mobile : Le Maire",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1723.0,
+    "fin": 1734.999,
+    "date_edtf": "1723/1734",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Maire"
+    ],
+    "description": "Mobile, 1723-1734. Le Maire est premier curé de la Mobile relocalisée et aumônier du fort. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XIV ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=LE+MAIRE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-capucins-de-la-louisiane-les-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les Capucins de la Louisiane",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1734.0,
+    "fin": 1741.999,
+    "date_edtf": "1734/1741",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Capucins de la Louisiane"
+    ],
+    "description": "La Nouvelle-Orléans, 1734-1741. Les Capucins de la Louisiane sont Mathias, supérieur, Philippe, grand vicaire, et Charles de Ramberrillier, nommé supérieur en 1741. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. XIV ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=CAPUCINS+DE+LA+LOUISIANE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-varlet-dominique-mary-mobile",
+    "nom": "Mobile : Dominique Mary Varlet",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1712.0,
+    "fin": 1712.0,
+    "date_edtf": "1712",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dominique Mary Varlet"
+    ],
+    "description": "Mobile, 1712. Dominique Mary Varlet sert six ans à la mission de la Louisiane avant de devenir janséniste. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 117 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=VARLET",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-roulleaux-de-la-vente-henry-mobile",
+    "nom": "Mobile : Henry Roulleaux de la Vente",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1703.0,
+    "fin": 1703.0,
+    "date_edtf": "1703",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Roulleaux de la Vente"
+    ],
+    "description": "Mobile, 1703. Henry Roulleaux de la Vente est nommé curé de la paroisse de la Mobile. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 117 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=ROULLEAUX+DE+LA+VENTE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-huve-alexander-mobile",
+    "nom": "Mobile : Alexander Huve",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1703.0,
+    "fin": 1703.0,
+    "date_edtf": "1703",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander Huve"
+    ],
+    "description": "Mobile, 1703. Alexander Huve est nommé vicaire. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : île Dauphine (Alabama).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 117-118 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=HUVE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "RG-huve-alexander-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Alexander Huve",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1709.0,
+    "fin": 1709.0,
+    "date_edtf": "1709",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexander Huve"
+    ],
+    "description": "Île Dauphine (Alabama), 1709. Alexander Huve est aumônier de l'île Dauphine. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Mobile.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 117-118 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=HUVE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.6,
+     30.97
+    ]
+   },
+   "properties": {
+    "id": "RG-davion-antoine-village-de",
+    "nom": "Village des Tunicas (Louisiane) : Antoine Davion",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1698.0,
+    "fin": 1698.0,
+    "date_edtf": "1698",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Davion"
+    ],
+    "description": "Village des Tunicas (Louisiane), 1698. Antoine Davion œuvre chez les Tunicas. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Mobile.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 117-118, 133 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DAVION",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-davion-antoine-mobile",
+    "nom": "Mobile : Antoine Davion",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1720.0,
+    "fin": 1720.0,
+    "date_edtf": "1720",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Davion"
+    ],
+    "description": "Mobile, 1720. Antoine Davion signe comme vicaire de Québec. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Village des Tunicas (Louisiane).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 117-118, 133 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DAVION",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-courrier-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Père Courrier",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1735.0,
+    "fin": 1735.0,
+    "date_edtf": "1735",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Courrier"
+    ],
+    "description": "La Nouvelle-Orléans, 1735. Père Courrier meurt après avoir servi à la Mobile. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 119 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=COURRIER",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-amand-pere-mobile",
+    "nom": "Mobile : Père Amand",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1738.0,
+    "fin": 1742.999,
+    "date_edtf": "1738/1742",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Amand"
+    ],
+    "description": "Mobile, 1738-1742. Père Amand préside à la bénédiction de l'église rebâtie. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 120 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=AMAND",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-fleurian-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Fleurian",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1726.0,
+    "fin": 1726.0,
+    "date_edtf": "1726",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Fleurian"
+    ],
+    "description": "La Nouvelle-Orléans, 1726. Jean Fleurian est procureur général et remet un registre au frère Matthias. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 121 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=FLEURIAN",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-abjurations-de-1722-les-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les Abjurations de 1722",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1722.0,
+    "fin": 1722.0,
+    "date_edtf": "1722",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Abjurations de 1722"
+    ],
+    "description": "La Nouvelle-Orléans, 1722. Les Abjurations de 1722 sont celles de Madeleine Moyennant et de Jean-Baptiste de Roy, reçues par le frère Matthias. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 121-122 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=ABJURATIONS+DE+",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-divon-fort-conde",
+    "nom": "Fort Condé (Mobile) : Divon",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "poste",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Divon"
+    ],
+    "description": "Fort Condé (Mobile), 1727. Divon commande le fort Condé et est témoin d'une conversion avec le père Le Petit. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 122 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DIVON",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-mornay-francis-de-fort-conde",
+    "nom": "Fort Condé (Mobile) : Francis de Mornay",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "poste",
+    "debut": 1730.0,
+    "fin": 1730.0,
+    "date_edtf": "1730",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis de Mornay"
+    ],
+    "description": "Fort Condé (Mobile), 1730. Francis de Mornay fait les fonctions curiales au fort. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 122-123 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MORNAY",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-mornay-francis-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Francis de Mornay",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1761.0,
+    "fin": 1761.0,
+    "date_edtf": "1761",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis de Mornay"
+    ],
+    "description": "La Nouvelle-Orléans, 1761. Francis de Mornay. Meurt à l'hôpital qu'il dirige. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : fort Condé (Mobile).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 122-123 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MORNAY",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-le-predour-jean-jacques-mobile",
+    "nom": "Mobile : Jean-Jacques Le Predour",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1754.0,
+    "fin": 1763.999,
+    "date_edtf": "1754/1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Jacques Le Predour"
+    ],
+    "description": "Mobile, 1754-1763. Jean-Jacques Le Predour dessert la mission de la Mobile jusqu'à l'expulsion des Jésuites. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 123 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=LE+PREDOUR",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-john-francis-pere-mobile",
+    "nom": "Mobile : Père John Francis",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père John Francis"
+    ],
+    "description": "Mobile, 1763. Père John Francis signe comme curé de la Mobile. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 123 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=JOHN+FRANCIS",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-ferdinand-pere-mobile",
+    "nom": "Mobile : Père Ferdinand",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1769.0,
+    "fin": 1773.999,
+    "date_edtf": "1769/1773",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Ferdinand"
+    ],
+    "description": "Mobile, 1769-1773. Père Ferdinand est capucin acadien et dernier prêtre français de la Mobile. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 123, 161 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=FERDINAND",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "RG-saint-cosme-buisson-de-natchez",
+    "nom": "Natchez (fort Rosalie) : Buisson de Saint-Cosme",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "evenement",
+    "debut": 1707.0,
+    "fin": 1707.0,
+    "date_edtf": "1707",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Buisson de Saint-Cosme"
+    ],
+    "description": "Natchez (fort Rosalie), 1707. Buisson de Saint-Cosme est envoyé chez les Natchez et tué par les Chitimachas. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 133-134 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=SAINT+COSME",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-beaubois-nicholas-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Nicholas de Beaubois",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicholas de Beaubois"
+    ],
+    "description": "La Nouvelle-Orléans, 1727. Nicholas de Beaubois fonde les missions et le couvent des Ursulines. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 125, 147-148 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BEAUBOIS",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "RG-charlevoix-natchez",
+    "nom": "Natchez (fort Rosalie) : Charlevoix",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1721.0,
+    "fin": 1721.0,
+    "date_edtf": "1721",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charlevoix"
+    ],
+    "description": "Natchez (fort Rosalie), 1721. Charlevoix prêche et pose les fondements d'une église. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 140, 147 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=CHARLEVOIX",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "RG-du-poisson-et-souel-natchez",
+    "nom": "Natchez (fort Rosalie) : Du Poisson Et Souel",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "evenement",
+    "debut": 1729.0,
+    "fin": 1729.0,
+    "date_edtf": "1729",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Du Poisson Et Souel"
+    ],
+    "description": "Natchez (fort Rosalie), 1729. Du Poisson Et Souel sont jésuites tués au massacre des Natchez le 28 novembre. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. V, p. 151 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DU+POISSON+ET+SOUEL",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "RG-senat-pere-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Père Senat",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Senat"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1736. Père Senat est brûlé vif le dimanche des Rameaux. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. V ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=SENAT",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-ursulines-de-la-nouvelle-orl-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les Ursulines de la Nouvelle-Orléans",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1733.0,
+    "fin": 1765.999,
+    "date_edtf": "1733/1765",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Ursulines de la Nouvelle-Orléans"
+    ],
+    "description": "La Nouvelle-Orléans, 1733-1765. Les Ursulines de la Nouvelle-Orléans comptent la mère de Tranchepain, morte en 1733, la sœur Angélique Boulanger, qui accueille les Acadiens, et Mary Turpin, première religieuse née en Amérique. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 153-155 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=URSULINES+DE+LA+NOUVELLE+ORLÉANS",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-milhet-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Milhet",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Milhet"
+    ],
+    "description": "La Nouvelle-Orléans, 1764. Jean Milhet va à Paris plaider pour le maintien de la Louisiane française. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 162 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MILHET",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-dagobert-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Père Dagobert",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1768.0,
+    "fin": 1769.999,
+    "date_edtf": "1768/1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Dagobert"
+    ],
+    "description": "La Nouvelle-Orléans, 1768-1769. Père Dagobert est supérieur des Ursulines et accueille O'Reilly. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 163, 178-184 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DAGOBERT",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-morand-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Père Morand",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1759.0,
+    "fin": 1759.0,
+    "date_edtf": "1759",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Morand"
+    ],
+    "description": "La Nouvelle-Orléans, 1759. Père Morand préside la profession d'une Ursuline avec les pères Carette et Le Roy. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 182 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MORAND",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-le-sueur-pierre-mobile",
+    "nom": "Mobile : Pierre Le Sueur",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1751.0,
+    "fin": 1751.0,
+    "date_edtf": "1751",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Sueur"
+    ],
+    "description": "Mobile, 1751. Pierre Le Sueur est major et chevalier de Saint-Louis et meurt à la Mobile. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 190 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=LE+SUEUR",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-olivier-abbe-new-orlean",
+    "nom": "La Nouvelle-Orléans : Abbé Olivier",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1805.0,
+    "fin": 1815.999,
+    "date_edtf": "1805/1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Abbé Olivier"
+    ],
+    "description": "La Nouvelle-Orléans, 1805-1815. Abbé Olivier est vicaire général et aumônier des Ursulines. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 232, 237, 240, 251-252 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=OLIVIER",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-castillon-new-orlean",
+    "nom": "La Nouvelle-Orléans : Castillon",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Castillon"
+    ],
+    "description": "La Nouvelle-Orléans, 1805. Castillon est chef de la municipalité. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 235-236 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=CASTILLON",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.53,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-blanc-antoine-pointe-cou",
+    "nom": "Pointe-Coupée (Louisiane) : Antoine Blanc",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Blanc"
+    ],
+    "description": "Pointe-Coupée (Louisiane), 1818. Antoine Blanc est curé de Pointe Coupée. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 139, 142, 202, 242-243 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BLANC",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-blanc-antoine-new-orlean",
+    "nom": "La Nouvelle-Orléans : Antoine Blanc",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Blanc"
+    ],
+    "description": "La Nouvelle-Orléans, 1850. Antoine Blanc est nommé archevêque. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Pointe-Coupée (Louisiane).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 139, 142, 202, 242-243 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BLANC",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.53,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-dubourg-louis-pointe-cou",
+    "nom": "Pointe-Coupée (Louisiane) : Louis Dubourg",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Dubourg"
+    ],
+    "description": "Pointe-Coupée (Louisiane), 1818. Louis Dubourg visite Pointe Coupée et confirme. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : La Nouvelle-Orléans, Natchitoches.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 136, 139, 244-268, 358-359 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DUBOURG",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-dubourg-louis-new-orlean",
+    "nom": "La Nouvelle-Orléans : Louis Dubourg",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Dubourg"
+    ],
+    "description": "La Nouvelle-Orléans, 1815. Louis Dubourg publie un mandement pendant l'invasion. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Pointe-Coupée (Louisiane), Natchitoches.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 136, 139, 244-268, 358-359 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DUBOURG",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "RG-dubourg-louis-natchitoch",
+    "nom": "Natchitoches : Louis Dubourg",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Dubourg"
+    ],
+    "description": "Natchitoches, 1825. Louis Dubourg administre les derniers sacrements à Mlle de Mézières. D'après Carroll, A Catholic History of Alabama and the Floridas (1908). Autres lieux de l'entrée : Pointe-Coupée (Louisiane), La Nouvelle-Orléans.",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 136, 139, 244-268, 358-359 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=DUBOURG",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.82,
+     29.8
+    ]
+   },
+   "properties": {
+    "id": "RG-blondin-pere-thibodaux",
+    "nom": "Thibodaux (Lafourche, Louisiane) : Père Blondin",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Blondin"
+    ],
+    "description": "Thibodaux (Lafourche, Louisiane), 1800. Père Blondin se noie en allant voir un malade sur le bayou Lafourche. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 142 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=BLONDIN",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.83,
+     30.12
+    ]
+   },
+   "properties": {
+    "id": "RG-viel-pere-poste-des-",
+    "nom": "Poste des Attakapas (Saint-Martinville) : Père Viel",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Viel"
+    ],
+    "description": "Poste des Attakapas (Saint-Martinville), 1800. Père Viel enseigne et traduit le Télémaque en latin. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 143 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=VIEL",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-perche-napoleon-joseph-new-orlean",
+    "nom": "La Nouvelle-Orléans : Napoléon Joseph Perche",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoléon Joseph Perche"
+    ],
+    "description": "La Nouvelle-Orléans, 1843. Napoléon Joseph Perche est aumônier des Ursulines et fonde Le Propagateur catholique. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 217, 237, 242-243, 372-373 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=PERCHE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-perche-napoleon-joseph-new-orlean-2",
+    "nom": "La Nouvelle-Orléans : Napoléon Joseph Perche",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoléon Joseph Perche"
+    ],
+    "description": "La Nouvelle-Orléans, 1870. Napoléon Joseph Perche devient archevêque. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 217, 237, 242-243, 372-373 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=PERCHE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-rouquette-adrien-new-orlean",
+    "nom": "La Nouvelle-Orléans : Adrien Rouquette",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Adrien Rouquette"
+    ],
+    "description": "La Nouvelle-Orléans, 1843. Adrien Rouquette est le premier Créole de La Nouvelle-Orléans entré dans le clergé depuis 1803 et évangélise les Indiens des pinières. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 243, 302 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=ROUQUETTE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-portier-michael-mobile",
+    "nom": "Mobile : Michael Portier",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1859.999,
+    "date_edtf": "1825/1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Portier"
+    ],
+    "description": "Mobile, 1825-1859. Michael Portier est vicaire apostolique puis évêque de la Mobile et fonde le collège de Spring Hill. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. I, p. 191, 213-215, 268-270, 297-299, 314 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=PORTIER",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-victorin-pere-mobile",
+    "nom": "Mobile : Père Victorin",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1728.0,
+    "fin": 1735.999,
+    "date_edtf": "1728/1735",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Victorin"
+    ],
+    "description": "Mobile, 1728-1735. Père Victorin est curé de la Mobile. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 270 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=VICTORIN",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-missionnaires-de-portier-les-mobile",
+    "nom": "Mobile : Les Missionnaires de Portier",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1831.999,
+    "date_edtf": "1830/1831",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Missionnaires de Portier"
+    ],
+    "description": "Mobile, 1830-1831. Les Missionnaires de Portier sont Gabriel Chalon et Mathias Loras, qui parcourent l'Alabama, et le père Ponjade, mort de la fièvre jaune. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 206-208, 297, 350 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MISSIONNAIRES+DE+PORTIER",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.14,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-presidents-de-spring-hill-le-spring-hil",
+    "nom": "Spring Hill, collège Saint-Joseph (Mobile, Alabama) : Les Présidents de Spring Hill",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1847.999,
+    "date_edtf": "1832/1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Les Présidents de Spring Hill"
+    ],
+    "description": "Spring Hill, collège Saint-Joseph (Mobile, Alabama), 1832-1847. Les Présidents de Spring Hill sont les pères Bazin, Mauvernay et Gautrelet. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 207, 298-299 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=PRÉSIDENTS+DE+SPRING+HILL",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-jesuites-de-1847-1848-les-mobile",
+    "nom": "Mobile : Les Jésuites de 1847-1848",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Jésuites de 1847-1848"
+    ],
+    "description": "Mobile, 1847. Les Jésuites de 1847-1848 sont les pères Jourdan, Darius Hubert, de Carrière et Cambiaso. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 284 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=JÉSUITES+DE+",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.05,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "RG-ladaviere-pere-grand-cote",
+    "nom": "Grand Coteau (Louisiane) : Père Ladaviere",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Ladaviere"
+    ],
+    "description": "Grand Coteau (Louisiane), 1840. Père Ladaviere est recteur du collège de Grand Coteau. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 206 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=LADAVIERE",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.0,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "RG-la-croix-pere-de-village-os",
+    "nom": "Villages osages de la rivière Osage : Père de la Croix",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Père de la Croix"
+    ],
+    "description": "Villages osages de la rivière Osage, 1820. Père de la Croix est envoyé chez les Osages et en baptise quarante. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 268 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=LA+CROIX",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-prieur-denis-new-orlean",
+    "nom": "La Nouvelle-Orléans : Denis Prieur",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Denis Prieur"
+    ],
+    "description": "La Nouvelle-Orléans, 1829. Denis Prieur est maire et rétablit l'ordre aux funérailles du père Sedilla. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 247, 280 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=PRIEUR",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-renard-jean-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Renard",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Renard"
+    ],
+    "description": "La Nouvelle-Orléans, 1806. Jean Renard publie la Commercial Gazette. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 261 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=RENARD",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "RG-champmeslin-pensacola",
+    "nom": "Pensacola (Floride) : Champmeslin",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Champmeslin"
+    ],
+    "description": "Pensacola (Floride), 1719. Champmeslin prend Pensacola et brûle le fort et la ville. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 310 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=CHAMPMESLIN",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.0,
+     30.98
+    ]
+   },
+   "properties": {
+    "id": "RG-chastang-jean-chastang-a",
+    "nom": "Chastang Bluff (rivière Mobile, Alabama) : Jean Chastang",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1790.0,
+    "fin": 1790.0,
+    "date_edtf": "1790",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Chastang"
+    ],
+    "description": "Chastang Bluff (rivière Mobile, Alabama), 1790. Jean Chastang est médecin venu de France avec ses deux frères ; une communauté créole naît autour de sa famille. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 339 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=CHASTANG",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     31.76
+    ]
+   },
+   "properties": {
+    "id": "RG-mezieres-athanase-de-natchitoch",
+    "nom": "Natchitoches : Athanase de Mézières",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1776.0,
+    "fin": 1776.0,
+    "date_edtf": "1776",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Athanase de Mézières"
+    ],
+    "description": "Natchitoches, 1776. Athanase de Mézières est lieutenant-gouverneur du poste. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 359 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=MÉZIÈRES",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.49,
+     29.42
+    ]
+   },
+   "properties": {
+    "id": "RG-tronard-marie-san-antoni",
+    "nom": "San Antonio (Texas) : Marie Tronard",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie Tronard"
+    ],
+    "description": "San Antonio (Texas), 1851. Marie Tronard est envoyée fonder le couvent des Ursulines. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 360 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=TRONARD",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "RG-ray-seraphine-new-orlean",
+    "nom": "La Nouvelle-Orléans : Séraphine Ray",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Séraphine Ray"
+    ],
+    "description": "La Nouvelle-Orléans, 1816. Séraphine Ray entre chez les Ursulines et les gouverne près de trente ans. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 140, 216-217, 360 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=RAY",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-d-arreger-madeleine-augustin-mobile",
+    "nom": "Mobile : Madeleine Augustine D'arreger",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Madeleine Augustine D'arreger"
+    ],
+    "description": "Mobile, 1832. Madeleine Augustine D'arreger mène la fondation de la Visitation. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, p. 366-367 ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=D+ARREGER",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "RG-rampon-pere-mobile",
+    "nom": "Mobile : Père Rampon",
+    "corpus": "archive.org · Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Rampon"
+    ],
+    "description": "Mobile, 1848. Père Rampon célèbre le mariage des Semple dans le comté de Clarke. D'après Carroll, A Catholic History of Alabama and the Floridas (1908).",
+    "sources": "Austin Carroll, A Catholic History of Alabama and the Floridas, vol. 1, New York, P. J. Kenedy & Sons, 1908, Carroll I, ch. I ; texte intégral : archive.org, CatholicHistoryOfAlabamaAndTheFloridasV1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Carroll, A Catholic History of Alabama and the Floridas (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/CatholicHistoryOfAlabamaAndTheFloridasV1?q=RAMPON",
+      "texte": "Lire Carroll, A Catholic History of Alabama and the Floridas (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
