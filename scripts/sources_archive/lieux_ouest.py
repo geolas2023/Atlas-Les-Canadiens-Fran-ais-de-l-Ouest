@@ -837,7 +837,22 @@ G.update({
     'Fort Halleck': (-106.5, 41.8, 'a', "fort Halleck (Wyoming)"),
     'Agence Red Cloud': (-103.47, 42.67, 'a', "agence Red Cloud (Camp Robinson, Nebraska)"),
     'Pine Ridge': (-102.56, 43.03, 'a', "réserve de Pine Ridge (Dakota du Sud)"),
+    'Laramie (ville)': (-105.59, 41.31, 'c', "Laramie (Wyoming)"),
+    'Lander': (-108.73, 42.83, 'c', "Lander (Wyoming)"),
+    'Bear Butte': (-103.45, 44.48, 'a', "Bear Butte (Dakota du Sud)"),
+    'Newcastle (Wyoming)': (-104.2, 43.85, 'c', "Newcastle (comté de Weston, Wyoming)"),
+    'Encampment (Wyoming)': (-106.8, 41.2, 'c', "Encampment (Wyoming)"),
+    'Fort Fetterman': (-105.47, 42.84, 'a', "fort Fetterman (Wyoming)"),
+    'Horseshoe Creek': (-105.15, 42.45, 'h', "Horseshoe Creek (Wyoming)"),
+    'Green River (ville)': (-109.47, 41.53, 'c', "Green River (Wyoming), bacs de la rivière"),
+    'Mountain View (Smith Fork)': (-110.34, 41.27, 'a', "Mountain View (Smith's Fork, Wyoming)"),
+    "Henry's Fork (Wyoming)": (-110.0, 41.0, 'h', "Henry's Fork (Wyoming)"),
+    'Hilliard (Wyoming)': (-110.8, 41.15, 'a', "Hilliard (Willow Creek, Wyoming)"),
+    'Evanston': (-110.96, 41.27, 'c', "Evanston (Wyoming)"),
+    'Rawlins': (-107.24, 41.79, 'c', "Rawlins (Wyoming)"),
+    'Rock Springs': (-109.2, 41.59, 'c', "Rock Springs (Wyoming)"),
 })
+
 
 
 

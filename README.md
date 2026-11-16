@@ -180,6 +180,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofwyoming00cout` | 65 |
 | `historyofwyoming01bart` | 11 |
 | `bozemantrailhist01heba`, `bozemantrailhist02heba` | 7 |
+| `historyofwyoming02bart` | 5 |
+| Progressive Men of Wyoming (1903), transcription rootsweb | 3 |
+| `annalsofwyom114192324wyom` à `annalsofwyom514192728wyom` | 43 |
 
 
 ## Un point par lieu et adresses précises
