@@ -1229,6 +1229,9 @@ G.update({
     'Galveztown': (-90.86, 30.33, 'h', "Galveztown (Louisiane)"),
     'Fort Crèvecoeur': (-89.59, 40.64, 'h', "Fort Crèvecoeur (Peoria, Illinois)"),
     'Village des Colapissas': (-89.9, 30.3, 'h', "Village des Colapissas (rive nord du lac Pontchartrain)"),
+    'Fort Caroline': (-81.5, 30.39, 'h', "Fort Caroline (rivière de Mai, Floride)"),
+    'Baie Saint-Joseph': (-85.35, 29.8, 'h', "Baie Saint-Joseph (Floride)"),
+    'Rocher Français (Little Rock)': (-92.27, 34.75, 'h', "Rocher Français (Little Rock, Arkansas)"),
 })
 
 
