@@ -801,7 +801,13 @@ G.update({
     'Monts Bear Paw': (-109.4, 48.2, 'h', "monts Bear Paw (Montana)"),
     'Grand Lac Salé': (-112.5, 41.1, 'h', "Grand Lac Salé (Utah)"),
     'Green River (Wyoming)': (-109.6, 41.5, 'h', "rivière Green (Wyoming)"),
+    'Laurin (Montana)': (-112.08, 45.36, 'c', "Laurin (comté de Madison, Montana)"),
+    'Warm Springs (Montana)': (-112.79, 46.18, 'c', "Warm Springs (comté de Deer Lodge, Montana)"),
+    'Melrose (Montana)': (-112.68, 45.63, 'c', "Melrose (Montana)"),
+    'Billings': (-108.5, 45.78, 'c', "Billings (Montana)"),
+    'Great Falls (Montana)': (-111.3, 47.505, 'c', "Great Falls (Montana)"),
 })
+
 
 
 
