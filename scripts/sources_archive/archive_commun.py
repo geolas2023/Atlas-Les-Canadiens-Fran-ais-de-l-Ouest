@@ -129,9 +129,9 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
             elif lieu.startswith('Fort') or 'House' in lieu: theme = 'poste'
             else: theme = theme_defaut
             if ctx and re.search(r"\b(tué|tuée|massacr|bataille|combat|assassin|noyé|attaque|siège (?:du|de|d.)|capture|prise du fort)", ctx) and theme != 'religion': theme = 'evenement'
-            fem = 'e' if re.search(r'Sœur|Mère|Marie|Zoé|Lisette|Reine|demoiselles|Charlotte|Louise|Josephte|Suzanne|Domitilde|Emilie|Élisabeth|Elizabeth|Henriette|Virginie|Marguerite|Adèle|Julie|Geneviève|Catherine|Paulette|Melanie|Mélanie|Madame|Éléodie|Pauline|Emily|Mary|Elvina|Isabelle|Cesarine|Mariquita|Mlle|Mother|ALSACIENNE|\(f\)', brut) else ''
-            mn = re.match(r'^(\d{4})(?:,\s*(.+))?$', naissance)
-            ne = (f", né{fem} en {mn.group(1)}" + (f" à {mn.group(2)}" if mn.group(2) else '')) if mn else (f", né{fem} à {naissance}" if naissance else '')
+            fem = 'e' if re.search(r'Sœur|Mère|Marie|Zoé|Lisette|Reine|demoiselles|Charlotte|Louise|Josephte|Suzanne|Domitilde|Emilie|Élisabeth|Elizabeth|Henriette|Virginie|Marguerite|Adèle|Julie|Geneviève|Catherine|Paulette|Melanie|Mélanie|Madame|Éléodie|Pauline|Emily|Mary|Elvina|Isabelle|Cesarine|Mariquita|Mlle|Mother|ALSACIENNE|Anna\b|Zoe\b|Eulalie|Fanny|Micaela|Celeste|Lucie|Arthemise|Aglae|Emmeline|Ursule|Felicit|Félicit|Devine|Constance|Madeleine|Jeanne|\(f\)', brut) else ''
+            mn = re.match(r'^((?:c\. )?\d{4})(?:,\s*(.+))?$', naissance)
+            ne = (f", né{fem} " + ('vers ' + mn.group(1)[3:] if mn.group(1).startswith('c. ') else 'en ' + mn.group(1)) + (f" à {mn.group(2)}" if mn.group(2) else '')) if mn else (f", né{fem} à {naissance}" if naissance else '')
             ailleurs = [a for a in autres if a != lieu_fr]
             quand = edtf.replace('/', '-') if '~' not in edtf else 'vers ' + edtf.replace('~', '').replace('/', '-')
             if ctx:
