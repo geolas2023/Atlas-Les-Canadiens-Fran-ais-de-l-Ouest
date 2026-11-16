@@ -291,6 +291,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `mmoiresetdocum04marg` | 44 |
 | `mmoiresetdocum05marg` | 97 |
 | `cihm_09946` | 95 |
+| `dcouverteett01marg` | 56 |
 
 
 ## Un point par lieu et adresses précises
