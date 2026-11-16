@@ -1091,6 +1091,8 @@ G.update({
     'Matagorda (ville)': (-95.97, 28.69, 'c', "Matagorda (Texas)"),
     'Cuero': (-97.29, 29.09, 'c', "Cuero (comté de DeWitt, Texas)"),
     'Granbury': (-97.79, 32.44, 'c', "Granbury (Texas)"),
+    'Poste de Menard (Trinity)': (-97.55, 32.80, 'h', "poste de traite de Menard, McKinney et Williams (affluent de la Trinity, près du comté de Parker)"),
+    'San Augustine': (-94.11, 31.53, 'c', "San Augustine (Texas)"),
 })
 
 

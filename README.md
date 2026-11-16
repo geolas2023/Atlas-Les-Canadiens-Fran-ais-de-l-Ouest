@@ -233,6 +233,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoftexasfr01brow`, `historyoftexasfr02brow` | 11 |
 | `indianwarspionee00brow` | 21 |
 | `journeysrnrober06coxgoog` | 15 |
+| `menwhomadetexasf00dixo` | 5 |
 
 
 ## Un point par lieu et adresses précises
