@@ -276,6 +276,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1926-01_9_1` | 148 |
 | `per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1927-01_10_1` | 109 |
 | `per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1928-01_11_1` | 143 |
+| `per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1929-01_12_1` | 285 |
 
 
 ## Un point par lieu et adresses précises
