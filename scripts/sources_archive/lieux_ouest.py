@@ -1567,6 +1567,8 @@ G.update({
     "Devall's Bluff (Arkansas)": (-91.46, 34.79, 'c', "Devall's Bluff, comté de Prairie (Arkansas)"),
     'Vanndale (Arkansas)': (-90.76, 35.33, 'c', 'Wittsburg et Vanndale, comté de Cross (Arkansas)'),
     'Dardanelle (Arkansas)': (-93.16, 35.22, 'c', 'Dardanelle et le rocher de Dardanelle, comté de Yell (Arkansas)'),
+    'Comptoirs du Verdigris (Oklahoma)': (-95.33, 35.8, 'h', "Comptoirs de traite de l'embouchure du Verdigris, Three Forks (Oklahoma)"),
+    "Village de Clermont (Osages de l'Arkansas)": (-95.6, 36.3, 'h', 'Village osage de Clermont, sur le Verdigris (Oklahoma)'),
 })
 
 
