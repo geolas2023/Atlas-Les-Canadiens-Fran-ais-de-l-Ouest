@@ -199,6 +199,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cityofsaintsacro00burtuoft` | 15 |
 | `historyofutahcom04whit` | 3 |
 | `tullidgeshistori02tull` | 3 |
+| `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 
 
 ## Un point par lieu et adresses précises

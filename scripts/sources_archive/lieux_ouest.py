@@ -905,6 +905,7 @@ G.update({
     'Little Muddy (Wyoming)': (-110.6, 41.45, 'a', "station de Little Muddy Creek (Wyoming)"),
     'Spring Valley (Nevada)': (-114.48, 39.45, 'a', "station de Spring Valley (Nevada, alors territoire d'Utah)"),
     'Camp Floyd': (-112.1, 40.26, 'c', "camp Floyd (Fairfield, Utah)"),
+    'Fort Fred Steele': (-106.94, 41.78, 'c', "fort Fred Steele (Wyoming)"),
 })
 
 

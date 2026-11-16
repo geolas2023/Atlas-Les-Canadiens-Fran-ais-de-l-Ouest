@@ -299910,6 +299910,176 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -111.83,
+     40.765
+    ]
+   },
+   "properties": {
+    "id": "UH-de-trobriand-gen-r-fort-dougl",
+    "nom": "Fort Douglas (Salt Lake City) : Gen. R. de Trobriand",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "theme": "poste",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gen. R. de Trobriand"
+    ],
+    "description": "Fort Douglas (Salt Lake City), 1870. Gen. R. de Trobriand commande la garnison du camp Douglas ; un journal d'Omaha le dit « un Français et un gentilhomme ». D'après Whitney, History of Utah, vol. 2-3 (1893-1898). Autres lieux de l'entrée : Salt Lake City (Great Salt Lake City, Utah), fort Fred Steele (Wyoming).",
+    "sources": "O. F. Whitney, History of Utah, vol. 2 et 3, Salt Lake City, George Q. Cannon & Sons, 1893-1898, vol. 2, p. 493-533, 625 ; texte intégral : archive.org, historyofutahcom02whitrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom02whitrich?q=DE+TROBRIAND",
+      "texte": "Lire Whitney, History of Utah, vol. 2-3 (1893-1898) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UH-de-trobriand-gen-r-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Gen. R. de Trobriand",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gen. R. de Trobriand"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1871. Gen. R. de Trobriand refuse d'ordonner aux troupes de tirer sur la milice qui prépare le défilé du 4 juillet. D'après Whitney, History of Utah, vol. 2-3 (1893-1898). Autres lieux de l'entrée : fort Douglas (Salt Lake City), fort Fred Steele (Wyoming).",
+    "sources": "O. F. Whitney, History of Utah, vol. 2 et 3, Salt Lake City, George Q. Cannon & Sons, 1893-1898, vol. 2, p. 493-533, 625 ; texte intégral : archive.org, historyofutahcom02whitrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom02whitrich?q=DE+TROBRIAND",
+      "texte": "Lire Whitney, History of Utah, vol. 2-3 (1893-1898) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.94,
+     41.78
+    ]
+   },
+   "properties": {
+    "id": "UH-de-trobriand-gen-r-fort-fred-",
+    "nom": "Fort Fred Steele (Wyoming) : Gen. R. de Trobriand",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "theme": "poste",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gen. R. de Trobriand"
+    ],
+    "description": "Fort Fred Steele (Wyoming), 1871. Gen. R. de Trobriand est muté au fort Steele après son refus d'obéir au gouverneur Woods. D'après Whitney, History of Utah, vol. 2-3 (1893-1898). Autres lieux de l'entrée : fort Douglas (Salt Lake City), Salt Lake City (Great Salt Lake City, Utah).",
+    "sources": "O. F. Whitney, History of Utah, vol. 2 et 3, Salt Lake City, George Q. Cannon & Sons, 1893-1898, vol. 2, p. 493-533, 625 ; texte intégral : archive.org, historyofutahcom02whitrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom02whitrich?q=DE+TROBRIAND",
+      "texte": "Lire Whitney, History of Utah, vol. 2-3 (1893-1898) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UH-rochefort-henri-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Henri Rochefort",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Rochefort"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1874. Henri Rochefort passe par Salt Lake City après son évasion de Nouvelle-Calédonie, en route vers l'Europe. D'après Whitney, History of Utah, vol. 2-3 (1893-1898).",
+    "sources": "O. F. Whitney, History of Utah, vol. 2 et 3, Salt Lake City, George Q. Cannon & Sons, 1893-1898, vol. 2, p. 709 ; texte intégral : archive.org, historyofutahcom02whitrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom02whitrich?q=ROCHEFORT",
+      "texte": "Lire Whitney, History of Utah, vol. 2-3 (1893-1898) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UH-hyacinthe-pere-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Père Hyacinthe",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "theme": "religion",
+    "debut": 1884.0,
+    "fin": 1884.0,
+    "date_edtf": "1884~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Père Hyacinthe"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), vers 1884. Père Hyacinthe figure parmi les visiteurs de marque de l'Utah. D'après Whitney, History of Utah, vol. 2-3 (1893-1898).",
+    "sources": "O. F. Whitney, History of Utah, vol. 2 et 3, Salt Lake City, George Q. Cannon & Sons, 1893-1898, vol. 3, p. 256 ; texte intégral : archive.org, historyofutahcom03whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 2-3 (1893-1898)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom03whit?q=HYACINTHE",
+      "texte": "Lire Whitney, History of Utah, vol. 2-3 (1893-1898) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -111.97,
      41.22
     ]
