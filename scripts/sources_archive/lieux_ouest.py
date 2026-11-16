@@ -1316,6 +1316,7 @@ G.update({
     'Montgomery (Alabama)': (-86.3, 32.38, 'h', "Montgomery (Alabama)"),
     'Tallulah': (-91.19, 32.41, 'h', "Tallulah (Louisiane)"),
     'Tampico': (-97.86, 22.25, 'h', "Tampico (Mexique)"),
+    'Fort Necessity': (-79.587, 39.814, 'h', "Fort Necessity (Pennsylvanie)"),
 })
 
 
