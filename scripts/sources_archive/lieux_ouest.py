@@ -1295,6 +1295,8 @@ G.update({
     'Île aux Cornes': (-88.66, 30.24, 'h', "Île aux Cornes (Horn Island)"),
     'Pointe Saint-Antoine': (-90.03, 29.94, 'h', "Pointe Saint-Antoine (Algiers)"),
     'Petit Écore': (-92.95, 31.5, 'h', "Petit Écore (Louisiane)"),
+    'Poste des Attakapas': (-91.83, 30.12, 'h', "Poste des Attakapas (Saint-Martinville)"),
+    'Poste des Rapides': (-92.45, 31.31, 'h', "Poste des Rapides (Alexandria)"),
 })
 
 
