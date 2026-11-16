@@ -197,6 +197,9 @@ LIVRES = [
     ('nevada_davis_1913.txt', 'VD', {'court': 'Davis, The History of Nevada (1913)', 'ref': "S. P. Davis (dir.), The History of Nevada, Reno et Los Angeles, Elms Publishing Company, 1913, 2 vol."}, lambda ref: 'historyofnevada01davirich' if ref.startswith('vol. 1') else 'historyofnevada02davirich', lambda nom, ref: ref),
     ('nevada_nhs_1913.txt', 'VQ', {'court': 'Nevada Historical Society Papers (1913-1926)', 'ref': "Nevada Historical Society Papers, 1913-1926"}, lambda ref: 'sim_nevada-historical-society-papers_' + ref.split(',')[0], lambda nom, ref: ref),
     ('nevada_dequille_1876.txt', 'VE', {'court': 'De Quille, History of the Big Bonanza (1876)', 'ref': "Dan De Quille (W. Wright), History of the Big Bonanza, Hartford, American Publishing Company, 1876"}, 'historyofbigbona00dequ', lambda nom, ref: ref),
+    ('arizona_bancroft_1889.txt', 'ZB', {'court': 'Bancroft, History of Arizona and New Mexico (1889)', 'ref': "H. H. Bancroft, History of Arizona and New Mexico, 1530-1888, San Francisco, The History Company, 1889"}, 'arizonanewmex00bancroft', lambda nom, ref: ref),
+    ('arizona_salpointe_1898.txt', 'ZS', {'court': 'Salpointe, Soldiers of the Cross (1898)', 'ref': "J. B. Salpointe, Soldiers of the Cross: Notes on the Ecclesiastical History of New-Mexico, Arizona and Colorado, Banning, St. Boniface's Industrial School, 1898"}, 'soldiersofcrossn00salp', lambda nom, ref: ref),
+    ('arizona_portrait_1901.txt', 'ZP', {'court': 'Portrait and Biographical Record of Arizona (1901)', 'ref': "Portrait and Biographical Record of Arizona, Chicago, Chapman Publishing Company, 1901"}, 'portraitbioarizo00chaprich', lambda nom, ref: ref),
     ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
 ]
 
