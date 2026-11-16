@@ -932,6 +932,13 @@ G.update({
     'Unionville (Nevada)': (-118.13, 40.45, 'c', "Unionville (Nevada)"),
     'Wells (Nevada)': (-114.96, 41.11, 'c', "Wells et Star Valley (comté d'Elko, Nevada)"),
     'Austin (Nevada)': (-117.07, 39.49, 'c', "Austin (comté de Lander, Nevada)"),
+    'Little High Rock Canyon': (-119.5, 41.25, 'a', "Little High Rock Canyon (nord-ouest du Nevada)"),
+    'Ely (Nevada)': (-114.89, 39.25, 'c', "Ely (comté de White Pine, Nevada)"),
+    'Seven Troughs': (-118.75, 40.47, 'a', "Seven Troughs (comté de Pershing, Nevada)"),
+    'Tonopah': (-117.23, 38.07, 'c', "Tonopah (Nevada)"),
+    'Genoa (Nevada)': (-119.85, 39.0, 'c', "Genoa (Mormon Station, Nevada)"),
+    'Truckee River': (-119.6, 39.55, 'a', "rivière Truckee (Nevada)"),
+    'Spring Valley (White Pine)': (-114.45, 39.0, 'a', "Spring Valley (comté de White Pine, Nevada)"),
 })
 
 

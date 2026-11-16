@@ -194,6 +194,8 @@ LIVRES = [
     ('nevada_fremont_1845.txt', 'VF', {'court': 'Frémont, Report of the Exploring Expedition (1845)', 'ref': "J. C. Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-'44, Washington, Gales and Seaton, 1845"}, 'reportoftheexplor1845eng', lambda nom, ref: ref),
     ('nevada_angel_1881.txt', 'VA', {'court': 'Angel, History of Nevada (1881)', 'ref': "M. Angel (dir.), History of Nevada, with Illustrations and Biographical Sketches, Oakland, Thompson & West, 1881"}, 'historyofnevada00ange', lambda nom, ref: ref),
     ('nevada_wren_1904.txt', 'VW', {'court': 'Wren, A History of the State of Nevada (1904)', 'ref': "T. Wren (dir.), A History of the State of Nevada, Its Resources and People, New York, Lewis Publishing Company, 1904"}, 'historyofstateof00wren', lambda nom, ref: ref),
+    ('nevada_davis_1913.txt', 'VD', {'court': 'Davis, The History of Nevada (1913)', 'ref': "S. P. Davis (dir.), The History of Nevada, Reno et Los Angeles, Elms Publishing Company, 1913, 2 vol."}, lambda ref: 'historyofnevada01davirich' if ref.startswith('vol. 1') else 'historyofnevada02davirich', lambda nom, ref: ref),
+    ('nevada_nhs_1913.txt', 'VQ', {'court': 'Nevada Historical Society Papers (1913-1924)', 'ref': "Nevada Historical Society Papers, 1913-1924"}, lambda ref: 'sim_nevada-historical-society-papers_' + ref.split(',')[0], lambda nom, ref: ref),
     ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
 ]
 
