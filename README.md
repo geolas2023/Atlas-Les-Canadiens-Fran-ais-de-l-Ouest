@@ -359,6 +359,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Hollibaugh (1903), transcription ksgenweb.org | 49 |
 | Ramsey (1853), transcription ldsgenealogy.com | 5 |
 | Albright (1909), transcription ahgp.org | 2 |
+| Goodspeed, Shelby (1887), transcription usgwarchives.us | 7 |
 
 
 ## Un point par lieu et adresses précises
