@@ -157,6 +157,7 @@ LIVRES = [
     ('idaho_desmet_1847.txt', 'IS', {'court': 'De Smet (1847)', 'ref': "Pierre-Jean De Smet, Oregon Missions and Travels over the Rocky Mountains, in 1845-46 (1847)"}, 'OregonMissionsAndTravels', lambda nom, ref: ref),
     ('idaho_elliott_1884.txt', 'IE', {'court': 'Elliott (1884)', 'ref': "H. N. Elliott (éd.), History of Idaho Territory (1884), San Francisco, Wallace W. Elliott & Co."}, 'historyidaho1884', lambda nom, ref: ref),
     ('irving_bonneville_1837.txt', 'IV', {'court': 'Irving, Bonneville (1837)', 'ref': "Washington Irving, The Adventures of Captain Bonneville (1837 ; éd. Putnam, 1852)"}, 'adventuresofcap00irvi', lambda nom, ref: ref),
+    ('idaho_bancroft_1890.txt', 'IK', {'court': 'Bancroft (1890)', 'ref': "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890)"}, 'historyofwashing31banc', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -281924,6 +281924,210 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -117.42,
+     47.66
+    ]
+   },
+   "properties": {
+    "id": "IK-dumas-jacques-spokane-co",
+    "nom": "Comté de Spokane (territoire de Washington) : Jacques Dumas",
+    "corpus": "archive.org · Bancroft (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Dumas"
+    ],
+    "description": "Comté de Spokane (territoire de Washington), 1860. Jacques Dumas est nommé le 17 janvier l'un des trois commissaires du nouveau comté de Spokane. D'après Bancroft (1890).",
+    "sources": "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), p. 404 ; texte intégral : archive.org, historyofwashing31banc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwashing31banc?q=DUMAS",
+      "texte": "Lire Bancroft (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.6,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "IK-canadiens-colons-riviere-cu",
+    "nom": "Rivière Cœur-d'Alène : Colons Canadiens",
+    "corpus": "archive.org · Bancroft (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Colons Canadiens"
+    ],
+    "description": "Rivière Cœur-d'Alène, vers 1860. Colons Canadiens tiennent quelques fermes dans le pays des Cœurs d'Alène. D'après Bancroft (1890).",
+    "sources": "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), p. 403 ; texte intégral : archive.org, historyofwashing31banc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwashing31banc?q=CANADIENS",
+      "texte": "Lire Bancroft (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.6,
+     47.35
+    ]
+   },
+   "properties": {
+    "id": "IK-point-nicolas-mission-du",
+    "nom": "Première mission du Sacré-Cœur (rivière Saint-Joe, Idaho) : Nicolas Point",
+    "corpus": "archive.org · Bancroft (1890)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicolas Point"
+    ],
+    "description": "Première mission du Sacré-Cœur (rivière Saint-Joe, Idaho), vers 1842. Nicolas Point fonde la mission du Sacré-Cœur sur la Saint-Joseph, déplacée en 1846 sur la Cœur-d'Alène. D'après Bancroft (1890).",
+    "sources": "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), p. 562-563 ; texte intégral : archive.org, historyofwashing31banc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwashing31banc?q=POINT",
+      "texte": "Lire Bancroft (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.355,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "IK-joset-joseph-mission-du",
+    "nom": "Mission du Sacré-Cœur (Old Mission, Cataldo, Idaho) : Joseph Joset",
+    "corpus": "archive.org · Bancroft (1890)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Joset"
+    ],
+    "description": "Mission du Sacré-Cœur (Old Mission, Cataldo, Idaho), vers 1846. Joseph Joset succède au père Mengarini et enseigne l'agriculture aux Cœurs d'Alène. D'après Bancroft (1890).",
+    "sources": "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), p. 563 ; texte intégral : archive.org, historyofwashing31banc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwashing31banc?q=JOSET",
+      "texte": "Lire Bancroft (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.83,
+     43.83
+    ]
+   },
+   "properties": {
+    "id": "IK-mesplie-toussaint-boise-basi",
+    "nom": "Bassin de Boise (Idaho City) : Toussaint Mesplie",
+    "corpus": "archive.org · Bancroft (1890)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Toussaint Mesplie"
+    ],
+    "description": "Bassin de Boise (Idaho City), 1863. Toussaint Mesplie consacre la première église élevée en Idaho. D'après Bancroft (1890).",
+    "sources": "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), p. 563 ; texte intégral : archive.org, historyofwashing31banc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwashing31banc?q=MESPLIE",
+      "texte": "Lire Bancroft (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.83,
+     43.83
+    ]
+   },
+   "properties": {
+    "id": "IK-poulin-a-z-boise-basi",
+    "nom": "Bassin de Boise (Idaho City) : A. Z. Poulin",
+    "corpus": "archive.org · Bancroft (1890)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Z. Poulin"
+    ],
+    "description": "Bassin de Boise (Idaho City), 1863. A. Z. Poulin fait bâtir sur Commercial Street, à Idaho City, la première église de l'Idaho. D'après Bancroft (1890).",
+    "sources": "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), p. 563 ; texte intégral : archive.org, historyofwashing31banc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwashing31banc?q=POULIN",
+      "texte": "Lire Bancroft (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
