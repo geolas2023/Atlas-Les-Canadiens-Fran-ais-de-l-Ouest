@@ -1654,6 +1654,7 @@ G.update({
     "Deacon's Pond (Palmyra)": (-87.47, 36.42, 'h', "Deacon's Pond, près de Palmyra, comté de Montgomery (Tennessee)"),
     'Mississippi (frontière du Tennessee)': (-89.9, 35.8, 'h', 'Mississippi le long de la frontière ouest du Tennessee'),
     'Nashoba (Germantown)': (-89.78, 35.09, 'h', 'colonie de Nashoba, rivière Wolf, comté de Shelby (Tennessee)'),
+    'Cold Water (Muscle Shoals)': (-87.7, 34.73, 'h', 'Cold Water, village creek-chicamauga près des Muscle Shoals (Tuscumbia, Alabama)'),
 })
 
 
