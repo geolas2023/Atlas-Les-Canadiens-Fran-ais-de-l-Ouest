@@ -290,6 +290,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `earlyvoyagesupdo00shea` | 34 |
 | `mmoiresetdocum04marg` | 44 |
 | `mmoiresetdocum05marg` | 97 |
+| `cihm_09946` | 95 |
 
 
 ## Un point par lieu et adresses précises

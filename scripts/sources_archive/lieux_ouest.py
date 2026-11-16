@@ -1323,6 +1323,14 @@ G.update({
     'Fort De Russy': (-91.96, 31.16, 'h', "Fort De Russy (Gordon's Landing, rivière Rouge, Louisiane)"),
     "Fort de l'Assomption (Écores à Prud'homme)": (-90.05, 35.15, 'h', "Fort de l'Assomption, écores à Prud'homme (Memphis, 1739)"),
     'Lac Pépin': (-92.25, 44.5, 'h', "Lac Pépin (haut Mississippi)"),
+    'Kekionga (Kiskakon)': (-85.13, 41.08, 'h', 'Kekionga, village miami de Kiskakon (Fort Wayne, Indiana)'),
+    'Pickawillany (Demoiselle)': (-84.25, 40.17, 'h', 'Pickawillany, village de la Demoiselle (Piqua, Ohio)'),
+    'Logstown (Chiningué)': (-80.24, 40.64, 'h', 'Chiningué (Logstown, Pennsylvanie)'),
+    'Sinhioto (Lower Shawnee Town)': (-82.98, 38.73, 'h', 'Sinhioto, village chaouanon (embouchure du Scioto, Ohio)'),
+    'Ouiatanon': (-87.0, 40.43, 'h', 'poste des Ouiatanons (Ouabache, Indiana)'),
+    'Portage de Chatakoin': (-79.4, 42.25, 'h', 'portage de Chatakoin (lac Chautauqua, New York)'),
+    'Villages panis (Platte)': (-97.6, 41.4, 'h', 'villages panis (rivière Platte, Nebraska)'),
+    'Mille Lacs (Izatys)': (-93.65, 46.25, 'h', "lac Mille Lacs, village nadouessioux d'Izatys (Minnesota)"),
 })
 
 
