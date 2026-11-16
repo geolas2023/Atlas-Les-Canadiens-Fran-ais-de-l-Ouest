@@ -167,6 +167,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyidaho1884` | 23 |
 | `adventuresofcap00irvi` | 22 |
 | `historyofwashing31banc` | 6 |
+| `historyofwashing31banc` (Montana) | 46 |
+| `IndianAndWhiteInTheNW` | 35 |
 
 
 ## Un point par lieu et adresses précises

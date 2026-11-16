@@ -158,6 +158,8 @@ LIVRES = [
     ('idaho_elliott_1884.txt', 'IE', {'court': 'Elliott (1884)', 'ref': "H. N. Elliott (éd.), History of Idaho Territory (1884), San Francisco, Wallace W. Elliott & Co."}, 'historyidaho1884', lambda nom, ref: ref),
     ('irving_bonneville_1837.txt', 'IV', {'court': 'Irving, Bonneville (1837)', 'ref': "Washington Irving, The Adventures of Captain Bonneville (1837 ; éd. Putnam, 1852)"}, 'adventuresofcap00irvi', lambda nom, ref: ref),
     ('idaho_bancroft_1890.txt', 'IK', {'court': 'Bancroft (1890)', 'ref': "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890)"}, 'historyofwashing31banc', lambda nom, ref: ref),
+    ('montana_bancroft_1890.txt', 'MK', {'court': 'Bancroft, Montana (1890)', 'ref': "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), partie Montana"}, 'historyofwashing31banc', lambda nom, ref: ref),
+    ('montana_palladino_1922.txt', 'MP', {'court': 'Palladino (1922)', 'ref': "Lawrence B. Palladino, Indian and White in the Northwest: A History of Catholicity in Montana, 1831-1891 (2e éd., 1922)"}, 'IndianAndWhiteInTheNW', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

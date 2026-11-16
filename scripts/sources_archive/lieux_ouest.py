@@ -763,7 +763,28 @@ G.update({
     'Powder River (Oregon)': (-117.6, 44.9, 'h', "rivière Powder (Oregon)"),
     'Mission du Sacré-Cœur (Cataldo)': (-116.355, 47.55, 'a', "mission du Sacré-Cœur (Old Mission, Cataldo, Idaho)"),
     'Spokane (comté)': (-117.42, 47.66, 'a', "comté de Spokane (territoire de Washington)"),
+    'Prickly Pear (Helena)': (-112.03, 46.6, 'a', "vallée de la Prickly Pear (Helena, Montana)"),
+    'Mission Sainte-Marie (Bitterroot)': (-114.09, 46.51, 'a', "mission Sainte-Marie (Stevensville, vallée de la Bitterroot)"),
+    'Bitterroot (vallée)': (-114.1, 46.3, 'h', "vallée de la Bitterroot (Montana)"),
+    'Ruisseau Benetsee (Gold Creek)': (-112.93, 46.59, 'a', "ruisseau Benetsee (Gold Creek, Montana)"),
+    'Big Hole (vallée)': (-113.3, 45.6, 'h', "vallée de la Big Hole (Montana)"),
+    'Sun River (agence)': (-111.75, 47.5, 'a', "rivière Sun (agence des Pieds-Noirs, Montana)"),
+    'Hellgate (vallée)': (-113.95, 46.87, 'h', "vallée de la Hellgate (Missoula, Montana)"),
+    'Mission Saint-Ignace (Montana)': (-114.1, 47.32, 'c', "mission Saint-Ignace (Montana)"),
+    'Frenchtown (Montana)': (-114.23, 47.01, 'c', "Frenchtown (Montana)"),
+    'Deer Lodge (La Barge City)': (-112.73, 46.4, 'c', "Deer Lodge (La Barge City, Montana)"),
+    'Silver Bow': (-112.6, 45.97, 'a', "district de Silver Bow (Montana)"),
+    'Missoula': (-114.0, 46.87, 'c', "Missoula (Montana)"),
+    'Ash Hollow': (-102.12, 41.29, 'a', "Ash Hollow (Platte Nord, Nebraska)"),
+    'Beaverhead': (-112.7, 45.2, 'h', "vallée de la Beaverhead (Montana)"),
+    'Mission Saint-Pierre (Montana)': (-111.95, 47.4, 'a', "mission Saint-Pierre (Missouri, Montana)"),
+    'Helena': (-112.03, 46.59, 'c', "Helena (Montana)"),
+    'Butte': (-112.53, 46.0, 'c', "Butte (Montana)"),
+    'Lewistown': (-109.43, 47.06, 'c', "Lewistown (Montana)"),
+    'Bonner (Montana)': (-113.87, 46.88, 'c', "Bonner (Montana)"),
 })
+
+
 
 
 
