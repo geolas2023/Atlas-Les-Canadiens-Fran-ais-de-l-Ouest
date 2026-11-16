@@ -354,7 +354,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `collectionsofkan1619kans` | 62 |
 | `collectionsofkan1719kans` | 8 |
 | `collectionsofkan12kans_0` | 2 |
-| Blackmar (1912), transcription ksgenweb.org | 25 |
+| Blackmar (1912), transcription ksgenweb.org | 48 |
 | `standardhistoryo01conn` | 32 |
 | Hollibaugh (1903), transcription ksgenweb.org | 49 |
 
