@@ -1297,6 +1297,8 @@ G.update({
     'Petit Écore': (-92.95, 31.5, 'h', "Petit Écore (Louisiane)"),
     'Poste des Attakapas': (-91.83, 30.12, 'h', "Poste des Attakapas (Saint-Martinville)"),
     'Poste des Rapides': (-92.45, 31.31, 'h', "Poste des Rapides (Alexandria)"),
+    'Manassas': (-77.47, 38.75, 'h', "Manassas (Virginie)"),
+    'Point Pleasant (Virginie-Occidentale)': (-82.14, 38.84, 'h', "Point Pleasant (Virginie-Occidentale)"),
 })
 
 
