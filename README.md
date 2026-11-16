@@ -240,6 +240,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `beginningsoftexa00clar` | 11 |
 | `sanantoniodebexa00corn` | 5 |
 | `texasriseprogre01kenngoog` | 4 |
+| `louisianacompris01fort` (Louisiane) | 133 |
 
 
 ## Un point par lieu et adresses précises
