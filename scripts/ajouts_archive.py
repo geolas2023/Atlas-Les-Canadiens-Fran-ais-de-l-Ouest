@@ -160,6 +160,7 @@ LIVRES = [
     ('idaho_bancroft_1890.txt', 'IK', {'court': 'Bancroft (1890)', 'ref': "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890)"}, 'historyofwashing31banc', lambda nom, ref: ref),
     ('montana_bancroft_1890.txt', 'MK', {'court': 'Bancroft, Montana (1890)', 'ref': "Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890), partie Montana"}, 'historyofwashing31banc', lambda nom, ref: ref),
     ('montana_palladino_1922.txt', 'MP', {'court': 'Palladino (1922)', 'ref': "Lawrence B. Palladino, Indian and White in the Northwest: A History of Catholicity in Montana, 1831-1891 (2e éd., 1922)"}, 'IndianAndWhiteInTheNW', lambda nom, ref: ref),
+    ('montana_contributions_v1_1876.txt', 'M1', {'court': 'Contributions Montana I (1876)', 'ref': "Contributions to the Historical Society of Montana, vol. 1 (1876)"}, 'contributionstohvol1hist1876rich', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
