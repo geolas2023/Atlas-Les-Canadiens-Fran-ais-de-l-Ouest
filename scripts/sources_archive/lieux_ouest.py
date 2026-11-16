@@ -761,7 +761,10 @@ G.update({
     'Blackfoot River (Idaho)': (-112.2, 43.1, 'h', "rivière Blackfoot (Idaho)"),
     'Imnaha (Immahah)': (-116.85, 45.55, 'h', "vallée de l'Imnaha (Immahah, Oregon)"),
     'Powder River (Oregon)': (-117.6, 44.9, 'h', "rivière Powder (Oregon)"),
+    'Mission du Sacré-Cœur (Cataldo)': (-116.355, 47.55, 'a', "mission du Sacré-Cœur (Old Mission, Cataldo, Idaho)"),
+    'Spokane (comté)': (-117.42, 47.66, 'a', "comté de Spokane (territoire de Washington)"),
 })
+
 
 
 

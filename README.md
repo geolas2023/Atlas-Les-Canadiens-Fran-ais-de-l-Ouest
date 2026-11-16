@@ -166,6 +166,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `OregonMissionsAndTravels` | 9 |
 | `historyidaho1884` | 23 |
 | `adventuresofcap00irvi` | 22 |
+| `historyofwashing31banc` | 6 |
 
 
 ## Un point par lieu et adresses précises
