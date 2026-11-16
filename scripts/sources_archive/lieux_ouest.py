@@ -1312,6 +1312,8 @@ G.update({
     'Harvey (Louisiane)': (-90.08, 29.9, 'h', "Harvey (Louisiane)"),
     'Carrollton (Louisiane)': (-90.13, 29.95, 'h', "Carrollton (La Nouvelle-Orléans)"),
     'Île Amelia': (-81.46, 30.63, 'h', "Île Amelia (Floride)"),
+    'Fausse-Pointe': (-91.75, 30.05, 'h', "Fausse-Pointe (Attakapas)"),
+    'Montgomery (Alabama)': (-86.3, 32.38, 'h', "Montgomery (Alabama)"),
 })
 
 
