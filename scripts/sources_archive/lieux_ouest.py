@@ -1569,6 +1569,20 @@ G.update({
     'Dardanelle (Arkansas)': (-93.16, 35.22, 'c', 'Dardanelle et le rocher de Dardanelle, comté de Yell (Arkansas)'),
     'Comptoirs du Verdigris (Oklahoma)': (-95.33, 35.8, 'h', "Comptoirs de traite de l'embouchure du Verdigris, Three Forks (Oklahoma)"),
     "Village de Clermont (Osages de l'Arkansas)": (-95.6, 36.3, 'h', 'Village osage de Clermont, sur le Verdigris (Oklahoma)'),
+    'Helena (Arkansas)': (-90.59, 34.53, 'c', 'Helena, comté de Phillips (Arkansas)'),
+    'Brinkley (Arkansas)': (-91.19, 34.89, 'c', 'Brinkley, comté de Monroe (Arkansas)'),
+    'Long View (Arkansas)': (-92.03, 33.28, 'h', "Long View, sur la rivière Saline, comté d'Ashley (Arkansas)"),
+    'Monticello (Arkansas)': (-91.79, 33.63, 'c', 'Monticello, comté de Drew (Arkansas)'),
+    'Tulip (Arkansas)': (-92.85, 34.02, 'h', 'Tulip, comté de Dallas (Arkansas)'),
+    'Comté de Desha (Arkansas)': (-91.25, 33.83, 'h', 'Comté de Desha (Arkansas)'),
+    'Comté de Johnson (Arkansas)': (-93.47, 35.47, 'h', 'Comté de Johnson, Clarksville (Arkansas)'),
+    'Peach Orchard (Arkansas)': (-90.67, 36.28, 'c', 'Peach Orchard, comté de Clay (Arkansas)'),
+    'Mount Olive (Arkansas)': (-92.08, 35.96, 'h', "Mount Olive, comté d'Izard (Arkansas)"),
+    'Pocahontas (Arkansas)': (-90.97, 36.26, 'c', 'Pocahontas, rivière Noire, comté de Randolph (Arkansas)'),
+    'Big Lake (Arkansas)': (-90.1, 35.85, 'h', 'Big Lake et Barfield Point, comté de Mississippi (Arkansas)'),
+    "Frenchman's Bayou (Arkansas)": (-90.15, 35.53, 'h', "Frenchman's Bayou, comté de Mississippi (Arkansas)"),
+    'Osceola (Arkansas)': (-89.97, 35.7, 'c', 'Osceola, comté de Mississippi (Arkansas)'),
+    'Batesville (Arkansas)': (-91.64, 35.77, 'c', "Batesville, comté d'Independence (Arkansas)"),
 })
 
 

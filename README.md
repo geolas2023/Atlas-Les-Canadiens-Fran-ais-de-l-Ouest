@@ -335,12 +335,13 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `pictorialhistory00hemp` | 54 |
 | `centennialhistor0001dall` | 46 |
 | `biographicalhistpjlf00good` | 28 |
-| `biographicalhist00good_0` | 15 |
-| `biographicalhist02good_0` | 2 |
-| `biographicalhist00sout_0` | 2 |
+| `biographicalhist00good_0` | 18 |
+| `biographicalhist02good_0` | 7 |
+| `biographicalhist00sout_0` | 12 |
 | `makersofarkansas01reyn` | 4 |
 | `biographicalpict01hall` | 2 |
 | `journaloftravels00nutt` | 12 |
+| `biographicalhist02good` | 9 |
 
 
 ## Un point par lieu et adresses précises
