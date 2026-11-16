@@ -301,6 +301,17 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `ahistorycatholi00sheagoog` | 129 |
 | `historychurchusa03sheauoft` | 137 |
 | `historychurchusa04sheauoft` | 132 |
+| `publicationsofmi3190unse` | 6 |
+| `publicationsmis05rilegoog` | 4 |
+| `publicationsmis09socigoog` | 6 |
+| `publicationsmis07socigoog` | 17 |
+| `publicationsmis05socigoog` | 17 |
+| `publicationsmis00rilegoog` | 26 |
+| `publicationsmis00socigoog` | 2 |
+| `publicationsmis01socigoog` | 11 |
+| `publicationsofmi12rowl` | 14 |
+| `publicationsofmi04rowl` | 2 |
+| `publicationsofmi0005vari` | 29 |
 
 
 ## Un point par lieu et adresses précises
