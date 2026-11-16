@@ -194,6 +194,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `utah-historical-quarterly_1929-10_2_4` à `_1930-07_3_3` | 6 |
 | `historyofutahcom01whit` | 8 |
 | `historyofsaltlak00tull` | 1 |
+| `catholicchurchin0000harr_k0t3` | 9 |
 
 
 ## Un point par lieu et adresses précises

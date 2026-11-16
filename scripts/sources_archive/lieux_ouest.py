@@ -885,6 +885,8 @@ G.update({
     'Cedar City': (-113.06, 37.68, 'c', "Cedar City (Utah)"),
     'Pilot Peak': (-114.08, 41.02, 'a', "Pilot Peak (frontière Utah-Nevada)"),
     'Provo (rivière)': (-111.66, 40.23, 'a', "rivière Provo (Utah)"),
+    'Fort Douglas': (-111.83, 40.765, 'c', "fort Douglas (Salt Lake City)"),
+    'Monts Wasatch': (-111.6, 40.9, 'a', "monts Wasatch (Utah)"),
 })
 
 
