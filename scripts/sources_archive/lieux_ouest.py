@@ -1322,6 +1322,7 @@ G.update({
     'Charleston (Caroline du Sud)': (-79.93, 32.78, 'h', "Charleston (Caroline du Sud)"),
     'Fort De Russy': (-91.96, 31.16, 'h', "Fort De Russy (Gordon's Landing, rivière Rouge, Louisiane)"),
     "Fort de l'Assomption (Écores à Prud'homme)": (-90.05, 35.15, 'h', "Fort de l'Assomption, écores à Prud'homme (Memphis, 1739)"),
+    'Lac Pépin': (-92.25, 44.5, 'h', "Lac Pépin (haut Mississippi)"),
 })
 
 
