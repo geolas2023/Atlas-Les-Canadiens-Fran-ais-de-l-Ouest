@@ -1637,6 +1637,9 @@ G.update({
     'Bande quapaw (Kansas)': (-94.74, 37.02, 'h', 'bande des Quapaws, comté de Cherokee (Kansas)'),
     'Olathe (Kansas)': (-94.82, 38.88, 'c', 'Olathe (Kansas)'),
     'Réserve kickapoo (Horton)': (-95.64, 39.65, 'h', 'réserve kickapoo, près de Horton (Kansas)'),
+    'Mill Creek (Johnson)': (-94.86, 39.01, 'h', 'Mill Creek, comté de Johnson (Kansas)'),
+    'Salina (Kansas)': (-97.61, 38.84, 'c', 'Salina (Kansas)'),
+    'Fort Aubrey (Syracuse)': (-101.67, 37.98, 'h', 'Fort Aubrey, près de Syracuse, comté de Hamilton (Kansas)'),
 })
 
 
