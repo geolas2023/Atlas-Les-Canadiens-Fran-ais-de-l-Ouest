@@ -346,6 +346,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `pioneersandmake00shingoog` | 45 |
 | `travelsthroughth01boss` | 2 |
 | `historicalreview03hemp` | 1 |
+| Andreas et Cutler (1883), transcription kancoll.org | 96 |
 
 
 ## Un point par lieu et adresses précises

@@ -598736,6 +598736,4256 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -94.85,
+     38.2
+    ]
+   },
+   "properties": {
+    "id": "TI-du-tissenet-comte-de-l",
+    "nom": "Comté de Linn (Kansas) : Du Tissenet",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Du Tissenet"
+    ],
+    "description": "Comté de Linn (Kansas), 1719. Du Tissenet jeune Canadien ; traverse le futur Kansas et visite un village osage. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : rivière Smoky Hill (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 1 ; comté de Linn, part. 1 (« M. Dutisne », officier français envoyé de La Nouvelle-Orléans par Bienville) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.6,
+     38.85
+    ]
+   },
+   "properties": {
+    "id": "TI-du-tissenet-smoky-hill",
+    "nom": "Rivière Smoky Hill (Kansas) : Du Tissenet",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Du Tissenet"
+    ],
+    "description": "Rivière Smoky Hill (Kansas), 1719. Du Tissenet pousse jusqu'aux fourches de la Kansas ; croix élevée le 27 septembre. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : comté de Linn (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 1 ; comté de Linn, part. 1 (« M. Dutisne », officier français envoyé de La Nouvelle-Orléans par Bienville) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.12,
+     39.63
+    ]
+   },
+   "properties": {
+    "id": "TI-de-bourgmont-m-village-de",
+    "nom": "Grand village des Kansas (Canzes) : M. de Bourgmont",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "M. de Bourgmont"
+    ],
+    "description": "Grand village des Kansas (Canzes), 1724. M. de Bourgmont part du village kansa près d'Atchison vers les Padoucas. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : pays des Padoucas.",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 1-3 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.5,
+     38.8
+    ]
+   },
+   "properties": {
+    "id": "TI-de-bourgmont-m-pays-des-p",
+    "nom": "Pays des Padoucas : M. de Bourgmont",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "M. de Bourgmont"
+    ],
+    "description": "Pays des Padoucas, 1724. M. de Bourgmont atteint les Padoucas près de la Smoky Hill. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : grand village des Kansas (Canzes).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 1-3 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.5,
+     38.8
+    ]
+   },
+   "properties": {
+    "id": "TI-gaillard-pays-des-p",
+    "nom": "Pays des Padoucas : Gaillard",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gaillard"
+    ],
+    "description": "Pays des Padoucas, 1724. Gaillard envoyé chez les Padoucas. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.5,
+     38.8
+    ]
+   },
+   "properties": {
+    "id": "TI-quenel-pays-des-p",
+    "nom": "Pays des Padoucas : Quenel",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1724.0,
+    "fin": 1724.0,
+    "date_edtf": "1724",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Quenel"
+    ],
+    "description": "Pays des Padoucas, 1724. Quenel envoyé chez les Padoucas avec Gaillard. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     35.8
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-pierre-comptoirs-",
+    "nom": "Comptoirs de traite de l'embouchure du Verdigris, Three Forks (Oklahoma) : Pierre Choteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1796.0,
+    "fin": 1796.0,
+    "date_edtf": "1796",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Choteau"
+    ],
+    "description": "Comptoirs de traite de l'embouchure du Verdigris, Three Forks (Oklahoma), 1796. Pierre Choteau traite avec la bande osage des Arkansas installée sur le Verdigris. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Indian History ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-francis-four-house",
+    "nom": "Poste des Chouteau (Four Houses), rive nord de la Kaw (Kansas) : Francis Choteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Choteau"
+    ],
+    "description": "Poste des Chouteau (Four Houses), rive nord de la Kaw (Kansas), 1825. Francis Choteau poste de l'American Fur Company sur la rive nord de la Kaw, à 20 milles de l'embouchure ; maison en face de Muncie avec Cyprian Choteau. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Indian History ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-cyprian-four-house",
+    "nom": "Poste des Chouteau (Four Houses), rive nord de la Kaw (Kansas) : Cyprian Choteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Cyprian Choteau"
+    ],
+    "description": "Poste des Chouteau (Four Houses), rive nord de la Kaw (Kansas), 1825. Cyprian Choteau tient avec Francis Choteau la maison en face de Muncie. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Indian History ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.02
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-frederick-mission-cr",
+    "nom": "Mission Creek, comté de Shawnee (Kansas) : Frederick Choteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Frederick Choteau"
+    ],
+    "description": "Mission Creek, comté de Shawnee (Kansas), 1830. Frederick Choteau ouvre un poste de traite chez les Kansas sur la rive ouest du Mission Creek ; remonte ses marchandises en bateau à quille en août, redescend les pelleteries au printemps. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Era of Peace, part. 34 (« Fred ») ; comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-freres-uniontown-",
+    "nom": "Uniontown, poste potawatomi, comté de Shawnee (Kansas) : Choteau (Frères)",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Choteau (Frères)"
+    ],
+    "description": "Uniontown, poste potawatomi, comté de Shawnee (Kansas), 1848. Choteau (Frères) principaux du poste de traite d'Uniontown, tenu par leur agent T. D. S. McDonald. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Council Grove (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; comté de Morris, part. 2 et 7 ; comté de Johnson, part. 1 (maisons de traite chez les Shawnees et les Delawares, 1828-1829) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     38.66
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-freres-council-gr",
+    "nom": "Council Grove (Kansas) : Choteau (Frères)",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Choteau (Frères)"
+    ],
+    "description": "Council Grove (Kansas), 1848. Choteau (Frères) arrivent comme traitants sur la réserve kansa. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Uniontown, poste potawatomi, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; comté de Morris, part. 2 et 7 ; comté de Johnson, part. 1 (maisons de traite chez les Shawnees et les Delawares, 1828-1829) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     38.66
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-freres-council-gr-2",
+    "nom": "Council Grove (Kansas) : Choteau (Frères)",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "religion",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Choteau (Frères)"
+    ],
+    "description": "Council Grove (Kansas), 1854. Choteau (Frères) font commerce à Council Grove. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Uniontown, poste potawatomi, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; comté de Morris, part. 2 et 7 ; comté de Johnson, part. 1 (maisons de traite chez les Shawnees et les Delawares, 1828-1829) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "TI-lessent-clemenent-agence-kan",
+    "nom": "Agence des Kansas sur le Grasshopper, près de Williamstown (Kansas) : Clemenent Lessent",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Clemenent Lessent"
+    ],
+    "description": "Agence des Kansas sur le Grasshopper, près de Williamstown (Kansas), 1830. Clemenent Lessent interprète à la maison de pierre de l'agence, sur le Grasshopper. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Indian History ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "TI-phillibert-gabriel-agence-kan",
+    "nom": "Agence des Kansas sur le Grasshopper, près de Williamstown (Kansas) : Gabriel Phillibert",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Phillibert"
+    ],
+    "description": "Agence des Kansas sur le Grasshopper, près de Williamstown (Kansas), 1830. Gabriel Phillibert forgeron de l'agence kansa. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Indian History ; comté de Jefferson, part. 2 (« Gabe Fillibert », forge du village kansa près de Williamstown) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.68,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "TI-chouteau-trading-po",
+    "nom": "Trading Post, comté de Linn (Kansas) : Chouteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chouteau"
+    ],
+    "description": "Trading Post, comté de Linn (Kansas), 1834. Chouteau établit le poste avec Girard, comme agents de la Northwestern Fur Company ; achète le terrain au Français Jarien. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Linn, part. 1 et 10 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.68,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "TI-girard-trading-po",
+    "nom": "Trading Post, comté de Linn (Kansas) : Girard",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Girard"
+    ],
+    "description": "Trading Post, comté de Linn (Kansas), 1834. Girard fonde le poste avec Chouteau pour la Northwestern Fur Company. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Linn, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.17,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "TI-de-la-croix-rev-charles-mission-os",
+    "nom": "Mission osage (St. Paul), comté de Neosho (Kansas) : Rev. Charles de la Croix",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rev. Charles de la Croix"
+    ],
+    "description": "Mission osage (St. Paul), comté de Neosho (Kansas), 1822. Rev. Charles de la Croix organise des églises chez les Osages ; atteint la Mission osage en mai. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.17,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-james-mission-os",
+    "nom": "Mission osage (St. Paul), comté de Neosho (Kansas) : James Choteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "James Choteau"
+    ],
+    "description": "Mission osage (St. Paul), comté de Neosho (Kansas), 1822. James Choteau baptisé à la Mission osage. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.17,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "TI-daybeau-francis-mission-os",
+    "nom": "Mission osage (St. Paul), comté de Neosho (Kansas) : Francis Daybeau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Daybeau"
+    ],
+    "description": "Mission osage (St. Paul), comté de Neosho (Kansas), 1828. Francis Daybeau métis ; épouse l'Osage Mary. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.17,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "TI-odin-father-mission-os",
+    "nom": "Mission osage (St. Paul), comté de Neosho (Kansas) : Father Odin",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Father Odin"
+    ],
+    "description": "Mission osage (St. Paul), comté de Neosho (Kansas), 1829. Father Odin bâtit une église (une cabane) chez les Osages. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Era of Peace, part. 26 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.11,
+     37.17
+    ]
+   },
+   "properties": {
+    "id": "TI-choteau-edward-oswego-kan",
+    "nom": "Oswego, comté de Labette (Kansas) : Edward Choteau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Edward Choteau"
+    ],
+    "description": "Oswego, comté de Labette (Kansas), 1837. Edward Choteau ouvre avec Gerald Pappin un poste de traite près du village de White Hair. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.11,
+     37.17
+    ]
+   },
+   "properties": {
+    "id": "TI-pappin-gerald-oswego-kan",
+    "nom": "Oswego, comté de Labette (Kansas) : Gerald Pappin",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gerald Pappin"
+    ],
+    "description": "Oswego, comté de Labette (Kansas), 1837. Gerald Pappin coassocié du poste de traite chez les Osages. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3,
+     37.55
+    ]
+   },
+   "properties": {
+    "id": "TI-canville-a-b-canville-c",
+    "nom": "Canville Creek, comté de Neosho (Kansas) : A. B. Canville",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "A. B. Canville"
+    ],
+    "description": "Canville Creek, comté de Neosho (Kansas), 1844. A. B. Canville arrive chez les Osages, s'y marie et s'établit sur le Canville Creek. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1-2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3,
+     37.55
+    ]
+   },
+   "properties": {
+    "id": "TI-canville-a-b-canville-c-2",
+    "nom": "Canville Creek, comté de Neosho (Kansas) : A. B. Canville",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "A. B. Canville"
+    ],
+    "description": "Canville Creek, comté de Neosho (Kansas), 1865. A. B. Canville. Le « traité Canville » est conclu à son poste. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Neosho, part. 1-2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.71,
+     37.84
+    ]
+   },
+   "properties": {
+    "id": "TI-gratiot-charles-fort-scott",
+    "nom": "Fort Scott (Kansas) : Charles Gratiot",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Gratiot"
+    ],
+    "description": "Fort Scott (Kansas), 1837. Charles Gratiot. Son plan de défense de la frontière recommande le site de Fort Scott. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Bourbon, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.25,
+     39.47
+    ]
+   },
+   "properties": {
+    "id": "TI-pensinau-mount-plea",
+    "nom": "Rivière Stranger près de Mount Pleasant, comté d'Atchison (Kansas) : Pensinau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pensinau"
+    ],
+    "description": "Rivière Stranger près de Mount Pleasant, comté d'Atchison (Kansas), 1839. Pensinau « un Français » marié à une Kickapoo, établi sur la Stranger. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté d'Atchison, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.5,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "TI-bijeau-joseph-riviere-ar",
+    "nom": "Rivière Arkansas (Kansas) : Joseph Bijeau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Bijeau"
+    ],
+    "description": "Rivière Arkansas (Kansas), 1820. Joseph Bijeau guide-interprète de l'expédition Long. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 6 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.5,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "TI-ledoux-abram-riviere-ar",
+    "nom": "Rivière Arkansas (Kansas) : Abram Ledoux",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Abram Ledoux"
+    ],
+    "description": "Rivière Arkansas (Kansas), 1820. Abram Ledoux maréchal-ferrant et chasseur du détachement Bell (expédition Long). D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 6 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.5,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "TI-julien-stephen-riviere-ar",
+    "nom": "Rivière Arkansas (Kansas) : Stephen Julien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Stephen Julien"
+    ],
+    "description": "Rivière Arkansas (Kansas), 1820. Stephen Julien interprète du détachement Bell (expédition Long). D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Early Explorations, part. 6 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-gonvil-josette-topeka",
+    "nom": "Topeka (Kansas) : Josette Gonvil",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Josette Gonvil"
+    ],
+    "description": "Topeka (Kansas), 1825. Josette Gonvil fille métisse de Louis Gonvil, traitant français, et d'une Kansa ; section de réserve au traité de 1825 ; épouse Joseph Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-gonvil-julie-topeka",
+    "nom": "Topeka (Kansas) : Julie Gonvil",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julie Gonvil"
+    ],
+    "description": "Topeka (Kansas), 1825. Julie Gonvil fille métisse de Louis Gonvil ; section de réserve au traité de 1825 ; épouse Ahcan Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-gonvil-victoire-topeka",
+    "nom": "Topeka (Kansas) : Victoire Gonvil",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victoire Gonvil"
+    ],
+    "description": "Topeka (Kansas), 1825. Victoire Gonvil fille métisse de Louis Gonvil ; section de réserve au traité de 1825 ; épouse Louis Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-joseph-topeka",
+    "nom": "Topeka (Kansas) : Joseph Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Papan"
+    ],
+    "description": "Topeka (Kansas), 1840. Joseph Papan Canadien ; quitte le Missouri pour la réserve de la rive nord de la Kansas. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; Era of Peace, part. 34 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-joseph-topeka-2",
+    "nom": "Topeka (Kansas) : Joseph Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Papan"
+    ],
+    "description": "Topeka (Kansas), 1842. Joseph Papan fonde le bac Papan avec ses frères. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; Era of Peace, part. 34 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-joseph-topeka-3",
+    "nom": "Topeka (Kansas) : Joseph Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Papan"
+    ],
+    "description": "Topeka (Kansas), 1844. Joseph Papan. La crue emporte maisons et bateaux des Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; Era of Peace, part. 34 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-ahcan-topeka",
+    "nom": "Topeka (Kansas) : Ahcan Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ahcan Papan"
+    ],
+    "description": "Topeka (Kansas), 1840. Ahcan Papan Canadien ; s'établit sur la réserve avec Joseph. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-ahcan-topeka-2",
+    "nom": "Topeka (Kansas) : Ahcan Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ahcan Papan"
+    ],
+    "description": "Topeka (Kansas), 1842. Ahcan Papan cofondateur du bac Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-louis-topeka",
+    "nom": "Topeka (Kansas) : Louis Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Papan"
+    ],
+    "description": "Topeka (Kansas), 1841. Louis Papan Canadien ; rejoint ses frères sur la réserve. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-papan-louis-topeka-2",
+    "nom": "Topeka (Kansas) : Louis Papan",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Papan"
+    ],
+    "description": "Topeka (Kansas), 1842. Louis Papan cofondateur du bac Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-catalon-louis-topeka",
+    "nom": "Topeka (Kansas) : Louis Catalon",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Catalon"
+    ],
+    "description": "Topeka (Kansas), 1848. Louis Catalon s'installe dans le voisinage des Papan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-martell-william-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : William Martell",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Martell"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1847. William Martell colon de la localité. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rossville (Cross Creek), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; comté de Pottawatomie, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-martell-william-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : William Martell",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Martell"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1847. William Martell s'établit près du Cross Creek, réserve potawatomie. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Silver Lake, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; comté de Pottawatomie, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-tacier-antoine-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : Antoine Tacier",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Tacier"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1847. Antoine Tacier colon. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rossville (Cross Creek), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 (« Anthony Tacier ») ; comté de Pottawatomie, part. 1 (« Tasier ») ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-tacier-antoine-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Antoine Tacier",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Tacier"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1847. Antoine Tacier bâtit un pont sur le Cross Creek avec Francis Bergeron. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Silver Lake, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 (« Anthony Tacier ») ; comté de Pottawatomie, part. 1 (« Tasier ») ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-ogee-joseph-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : Joseph Ogee",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Ogee"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1847. Joseph Ogee colon. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Uniontown, poste potawatomi, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "TI-ogee-joseph-uniontown-",
+    "nom": "Uniontown, poste potawatomi, comté de Shawnee (Kansas) : Joseph Ogee",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Ogee"
+    ],
+    "description": "Uniontown, poste potawatomi, comté de Shawnee (Kansas), 1853. Joseph Ogee ouvre un troisième bac avec Louis Ogee au Great Crossing. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Silver Lake, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-trombley-f-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : F. Trombley",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. Trombley"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1847. F. Trombley colon. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-la-frame-joseph-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : Joseph la Frame",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph la Frame"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1850. Joseph la Frame colon. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "TI-ogee-john-uniontown-",
+    "nom": "Uniontown, poste potawatomi, comté de Shawnee (Kansas) : John Ogee",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Ogee"
+    ],
+    "description": "Uniontown, poste potawatomi, comté de Shawnee (Kansas), 1853. John Ogee copropriétaire du deuxième bac du Great Crossing avec Hiram Wells. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-ogee-louis-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Louis Ogee",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Ogee"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1849. Louis Ogee bac à perche sur la Kansas près du Cross Creek, avec Charles Beaubien. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Uniontown, poste potawatomi, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "TI-ogee-louis-uniontown-",
+    "nom": "Uniontown, poste potawatomi, comté de Shawnee (Kansas) : Louis Ogee",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Ogee"
+    ],
+    "description": "Uniontown, poste potawatomi, comté de Shawnee (Kansas), 1853. Louis Ogee troisième bac avec Joseph Ogee. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rossville (Cross Creek), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-charles-h-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Charles H. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles H. Beaubien"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1849. Charles H. Beaubien métis ; bac à perche près du Cross Creek. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Silver Lake, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-charles-h-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : Charles H. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles H. Beaubien"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1858. Charles H. Beaubien meurt sur les terres basses de la Kaw. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rossville (Cross Creek), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-medore-b-topeka",
+    "nom": "Topeka (Kansas) : Medore B. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Medore B. Beaubien"
+    ],
+    "description": "Topeka (Kansas), 1847. Medore B. Beaubien, né à Thompson's Creek, Grand River (Michigan), 15 juillet 1809, traitant et interprète, s'établit sur le Soldier Creek. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Uniontown, poste potawatomi, comté de Shawnee (Kansas), Silver Lake, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-medore-b-uniontown-",
+    "nom": "Uniontown, poste potawatomi, comté de Shawnee (Kansas) : Medore B. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Medore B. Beaubien"
+    ],
+    "description": "Uniontown, poste potawatomi, comté de Shawnee (Kansas), 1850. Medore B. Beaubien, né à Thompson's Creek, Grand River (Michigan), 15 juillet 1809, traitant. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Topeka (Kansas), Silver Lake, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-medore-b-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : Medore B. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Medore B. Beaubien"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1854. Medore B. Beaubien, né à Thompson's Creek, Grand River (Michigan), 15 juillet 1809, cofondateur du site de la ville ; commissaire potawatomi. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Topeka (Kansas), Uniontown, poste potawatomi, comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-john-e-silver-lak",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : John E. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John E. Beaubien"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1847. John E. Beaubien, né à Chicago, 9 août 1837, arrive au Kansas. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "TI-beaubien-john-e-silver-lak-2",
+    "nom": "Silver Lake, comté de Shawnee (Kansas) : John E. Beaubien",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John E. Beaubien"
+    ],
+    "description": "Silver Lake, comté de Shawnee (Kansas), 1882. John E. Beaubien, né à Chicago, 9 août 1837, fermier près de Silver Lake. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-bergeron-francis-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Francis Bergeron",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis Bergeron"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1847. Francis Bergeron s'établit près du Cross Creek ; y bâtit un pont. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-bassho-john-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : John Bassho",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Bassho"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1847. John Bassho s'établit près du Cross Creek, réserve potawatomie. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-nasseau-william-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : William Nasseau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Nasseau"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1847. William Nasseau s'établit près du Cross Creek, réserve potawatomie. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-bellaire-lewis-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Lewis Bellaire",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lewis Bellaire"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1859. Lewis Bellaire cabane au point de paiement des annuités du Cross Creek. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-navarre-anthony-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Anthony Navarre",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Anthony Navarre"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1859. Anthony Navarre cultive une petite ferme au Cross Creek. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Mission Sainte-Marie des Potawatomis (St. Marys, Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-navarre-anthony-mission-sa",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Anthony Navarre",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Anthony Navarre"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1861. Anthony Navarre notable potawatomi présent à la signature du traité. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rossville (Cross Creek), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-navarre-anthony-rossville--2",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Anthony Navarre",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Anthony Navarre"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1871. Anthony Navarre covend le site de Rossville. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Mission Sainte-Marie des Potawatomis (St. Marys, Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 42 et 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-navarre-gregg-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Gregg Navarre",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gregg Navarre"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1881. Gregg Navarre nommé au conseil municipal. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-beseau-joseph-mission-sa",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Joseph Beseau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Beseau"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1875. Joseph Beseau, né à Monroe Co. (Michigan), 21 novembre 1824, arrive à St. Mary's. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rossville (Cross Creek), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.95,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "TI-beseau-joseph-rossville-",
+    "nom": "Rossville (Cross Creek), comté de Shawnee (Kansas) : Joseph Beseau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Beseau"
+    ],
+    "description": "Rossville (Cross Creek), comté de Shawnee (Kansas), 1882. Joseph Beseau, né à Monroe Co. (Michigan), 21 novembre 1824, fermier ; époux d'Adaline Navarre. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Mission Sainte-Marie des Potawatomis (St. Marys, Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 44 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-bertrand-benjamin-h-mission-sa",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Benjamin H. Bertrand",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benjamin H. Bertrand"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1851. Benjamin H. Bertrand « de race française mêlée de sang indien » ; conduit 660 Potawatomis du Michigan ; interprète. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 5 ; comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-bertrand-benjamin-h-mission-sa-2",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Benjamin H. Bertrand",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benjamin H. Bertrand"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1861. Benjamin H. Bertrand présent au traité. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 5 ; comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-bertrand-benjamin-h-mission-sa-3",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Benjamin H. Bertrand",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benjamin H. Bertrand"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1866. Benjamin H. Bertrand trace le site de St. Mary's. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 5 ; comté de Shawnee, part. 42 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.96,
+     38.29
+    ]
+   },
+   "properties": {
+    "id": "TI-bertrand-joseph-sugar-cree",
+    "nom": "Mission de Sugar Creek (Kansas) : Joseph Bertrand",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Bertrand"
+    ],
+    "description": "Mission de Sugar Creek (Kansas), 1840. Joseph Bertrand frère de Benjamin ; s'établit d'abord sur le Sugar Creek, près de Fort Scott. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 5 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-bertrand-adelaide-mission-sa",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Adelaide Bertrand",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Adelaide Bertrand"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1870. Adelaide Bertrand lotit une addition à St. Mary's avec le Dr L. R. Palmer et J. D. Lasley. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 5 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-gailland-father-mission-sa",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : Father Gailland",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Father Gailland"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1848. Father Gailland jésuite, cofondateur de la mission ; parle les langues indienne, anglaise et française. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 5 (imprimé aussi « Rev. Morris Sailland ») ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "TI-miege-j-b-mission-sa",
+    "nom": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas) : J. B. Miege",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "J. B. Miege"
+    ],
+    "description": "Mission Sainte-Marie des Potawatomis (St. Marys, Kansas), 1854. J. B. Miege évêque, vicaire apostolique du Territoire indien. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Leavenworth (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Territorial History, part. 1 ; Era of Peace, part. 26 ; comté de Leavenworth, part. 11 (« Meige ») ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.92,
+     39.31
+    ]
+   },
+   "properties": {
+    "id": "TI-miege-j-b-leavenwort",
+    "nom": "Leavenworth (Kansas) : J. B. Miege",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Miege"
+    ],
+    "description": "Leavenworth (Kansas), 1854. J. B. Miege dit la première messe chez Mme Quinn. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Mission Sainte-Marie des Potawatomis (St. Marys, Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Territorial History, part. 1 ; Era of Peace, part. 26 ; comté de Leavenworth, part. 11 (« Meige ») ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.92,
+     39.31
+    ]
+   },
+   "properties": {
+    "id": "TI-miege-j-b-leavenwort-2",
+    "nom": "Leavenworth (Kansas) : J. B. Miege",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Miege"
+    ],
+    "description": "Leavenworth (Kansas), 1855. J. B. Miege bâtit la première église pour une congrégation blanche. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Mission Sainte-Marie des Potawatomis (St. Marys, Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, Territorial History, part. 1 ; Era of Peace, part. 26 ; comté de Leavenworth, part. 11 (« Meige ») ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.92,
+     39.31
+    ]
+   },
+   "properties": {
+    "id": "TI-defouri-rev-james-h-leavenwort",
+    "nom": "Leavenworth (Kansas) : Rev. James H. Defouri",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1864.0,
+    "fin": 1864.0,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rev. James H. Defouri"
+    ],
+    "description": "Leavenworth (Kansas), 1864. Rev. James H. Defouri assiste le P. Heimann à la cathédrale ; plus tard vicaire général. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Topeka (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Leavenworth, part. 11 ; comté de Shawnee, part. 13 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-defouri-rev-james-h-topeka",
+    "nom": "Topeka (Kansas) : Rev. James H. Defouri",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Rev. James H. Defouri"
+    ],
+    "description": "Topeka (Kansas), vers 1862. Rev. James H. Defouri organise l'église catholique de l'Assomption. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Leavenworth (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Leavenworth, part. 11 ; comté de Shawnee, part. 13 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-shattio-clement-topeka",
+    "nom": "Topeka (Kansas) : Clement Shattio",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Shattio"
+    ],
+    "description": "Topeka (Kansas), 1852. Clement Shattio, né à St. Louis (Missouri), « Frenchman » venu d'Uniontown ; première ferme cultivée par un Blanc dans le canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-shattio-clement-topeka-2",
+    "nom": "Topeka (Kansas) : Clement Shattio",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Shattio"
+    ],
+    "description": "Topeka (Kansas), 1854. Clement Shattio, né à St. Louis (Missouri), achète un claim sur le Shunganunga. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "TI-sarpie-p-e-uniontown-",
+    "nom": "Uniontown, poste potawatomi, comté de Shawnee (Kansas) : P. E. Sarpie",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "P. E. Sarpie"
+    ],
+    "description": "Uniontown, poste potawatomi, comté de Shawnee (Kansas), 1848. P. E. Sarpie traitant établi au poste. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-billard-gilbert-topeka",
+    "nom": "Topeka (Kansas) : Gilbert Billard",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gilbert Billard"
+    ],
+    "description": "Topeka (Kansas), 1854. Gilbert Billard s'établit dans le canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-jondron-j-topeka",
+    "nom": "Topeka (Kansas) : J. Jondron",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. Jondron"
+    ],
+    "description": "Topeka (Kansas), 1854. J. Jondron colon du canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-bernier-antoine-topeka",
+    "nom": "Topeka (Kansas) : Antoine Bernier",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Bernier"
+    ],
+    "description": "Topeka (Kansas), 1855. Antoine Bernier colon du canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-dumez-eugene-topeka",
+    "nom": "Topeka (Kansas) : Eugene Dumez",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Eugene Dumez"
+    ],
+    "description": "Topeka (Kansas), 1855. Eugene Dumez colon du canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-durupt-c-topeka",
+    "nom": "Topeka (Kansas) : C. Durupt",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "C. Durupt"
+    ],
+    "description": "Topeka (Kansas), 1855. C. Durupt colon du canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-campdoras-dr-m-a-topeka",
+    "nom": "Topeka (Kansas) : Dr. M. A. Campdoras",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dr. M. A. Campdoras"
+    ],
+    "description": "Topeka (Kansas), 1855. Dr. M. A. Campdoras colon du canton de Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.7,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "TI-cailloz-john-f-rochester-",
+    "nom": "Rochester (Kansopolis), comté de Shawnee (Kansas) : John F. Cailloz",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John F. Cailloz"
+    ],
+    "description": "Rochester (Kansopolis), comté de Shawnee (Kansas), 1855. John F. Cailloz, né à France, 1817, colon. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Louisville, comté de Pottawatomie (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; comté de Pottawatomie, part. 3 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.32,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "TI-cailloz-john-f-louisville",
+    "nom": "Louisville, comté de Pottawatomie (Kansas) : John F. Cailloz",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John F. Cailloz"
+    ],
+    "description": "Louisville, comté de Pottawatomie (Kansas), 1859. John F. Cailloz, né à France, 1817, fermier à un mille à l'est de Louisville ; marié en France en 1838. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Rochester (Kansopolis), comté de Shawnee (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; comté de Pottawatomie, part. 3 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.7,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "TI-bollotte-e-rochester-",
+    "nom": "Rochester (Kansopolis), comté de Shawnee (Kansas) : E. Bollotte",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "E. Bollotte"
+    ],
+    "description": "Rochester (Kansopolis), comté de Shawnee (Kansas), 1855. E. Bollotte colon. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.7,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "TI-chambourmiere-e-rochester-",
+    "nom": "Rochester (Kansopolis), comté de Shawnee (Kansas) : E. Chambourmiere",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "E. Chambourmiere"
+    ],
+    "description": "Rochester (Kansopolis), comté de Shawnee (Kansas), 1855. E. Chambourmiere colon. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.7,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "TI-malespine-aime-rochester-",
+    "nom": "Rochester (Kansopolis), comté de Shawnee (Kansas) : Aime Malespine",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Aime Malespine"
+    ],
+    "description": "Rochester (Kansopolis), comté de Shawnee (Kansas), 1855. Aime Malespine colon. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.94,
+     38.97
+    ]
+   },
+   "properties": {
+    "id": "TI-la-vore-frank-dover-kans",
+    "nom": "Dover, comté de Shawnee (Kansas) : Frank la Vore",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank la Vore"
+    ],
+    "description": "Dover, comté de Shawnee (Kansas), 1880. Frank la Vore, né à Rapede Parish (Louisiane), 1843, arrive au Kansas ; fermier. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 48 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-picard-g-h-topeka",
+    "nom": "Topeka (Kansas) : G. H. Picard",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "G. H. Picard"
+    ],
+    "description": "Topeka (Kansas), 1869. G. H. Picard, né à Cleveland (Ohio), 1850, médecin, médecin du comté et de la ville. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 32 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-monjeau-rev-c-topeka",
+    "nom": "Topeka (Kansas) : Rev. C. Monjeau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rev. C. Monjeau"
+    ],
+    "description": "Topeka (Kansas), 1874. Rev. C. Monjeau pasteur de la First Baptist Church jusqu'en 1880. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 13 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "TI-garamier-catharine-topeka",
+    "nom": "Topeka (Kansas) : Catharine Garamier",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Catharine Garamier"
+    ],
+    "description": "Topeka (Kansas), 1869. Catharine Garamier membre fondatrice de l'église congrégationaliste de North Topeka. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Shawnee, part. 13 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.32,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "TI-moulin-ferreol-louisville",
+    "nom": "Louisville, comté de Pottawatomie (Kansas) : Ferreol Moulin",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ferreol Moulin"
+    ],
+    "description": "Louisville, comté de Pottawatomie (Kansas), 1871. Ferreol Moulin, né à Grenoble (France), 11 juillet 1826, s'établit sur une ferme, canton de Pottawatomie ; époux d'Augusta Bertrand, mariée à Paris en 1846. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 9 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.57,
+     39.18
+    ]
+   },
+   "properties": {
+    "id": "TI-lambert-frank-manhattan-",
+    "nom": "Manhattan (Kansas) : Frank Lambert",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank Lambert"
+    ],
+    "description": "Manhattan (Kansas), 1866. Frank Lambert, né à Lausanne, 22 juin 1838, s'établit dans le comté de Riley, puis cantons de Blue et St. George. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Pottawatomie, part. 8 (« Lausanne, France » imprimé) ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.71,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "TI-demather-fathers-ogden-kans",
+    "nom": "Ogden, comté de Riley (Kansas) : Fathers Demather",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Fathers Demather"
+    ],
+    "description": "Ogden, comté de Riley (Kansas), 1865. Fathers Demather prêtre de la première église catholique du comté de Riley. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Riley, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.63,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "TI-robetaille-robert-wyandotte-",
+    "nom": "Wyandotte (Kansas City, Kansas) : Robert Robetaille",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert Robetaille"
+    ],
+    "description": "Wyandotte (Kansas City, Kansas), 1859. Robert Robetaille élu trésorier du comté. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Wyandotte, part. 4 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.63,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "TI-boucher-dr-a-w-wyandotte-",
+    "nom": "Wyandotte (Kansas City, Kansas) : Dr. A. W. Boucher",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dr. A. W. Boucher"
+    ],
+    "description": "Wyandotte (Kansas City, Kansas), 1880. Dr. A. W. Boucher, né à Seneca County (Ohio), 10 mai 1850, médecin et chirurgien. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Wyandotte, part. 8 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.63,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "TI-husson-f-g-wyandotte-",
+    "nom": "Wyandotte (Kansas City, Kansas) : F. G. Husson",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. G. Husson"
+    ],
+    "description": "Wyandotte (Kansas City, Kansas), 1882. F. G. Husson, né à Putnam County (Ohio), 18 mars 1819, quincaillier, venu d'El Dorado. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Wyandotte, part. 9 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-lanoue-h-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : H. Lanoue",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "H. Lanoue"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1872. H. Lanoue lance les Concordia Mills, moulin à vapeur. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-letourneau-george-a-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : George A. Letourneau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George A. Letourneau"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1880. George A. Letourneau, né à Kankakee City (Illinois), 1853, comptable des moulins H. Lanoue & Co. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2-3 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-coron-f-l-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : F. L. Coron",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. L. Coron"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1871. F. L. Coron, né à Aurora (Illinois), 1852, quincaillier. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 3 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-larocque-f-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : F. Larocque",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. Larocque"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1882. F. Larocque conseiller municipal. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-belisle-ed-a-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : Ed. A. Belisle",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ed. A. Belisle"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1881. Ed. A. Belisle officier de la loge Lincoln n° 27 des Knights of Pythias. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-beauchamp-g-a-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : G. A. Beauchamp",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "G. A. Beauchamp"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1881. G. A. Beauchamp officier de la loge Lincoln n° 27 des Knights of Pythias. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-perrier-joseph-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : Joseph Perrier",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Perrier"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), vers 1882. Joseph Perrier curé de l'église catholique Notre-Dame. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4,
+     39.59
+    ]
+   },
+   "properties": {
+    "id": "TI-paradis-j-s-clyde-kans",
+    "nom": "Clyde, comté de Cloud (Kansas) : J. S. Paradis",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. S. Paradis"
+    ],
+    "description": "Clyde, comté de Cloud (Kansas), 1873. J. S. Paradis, né à Canada, 26 décembre 1845, fonde le Clyde Local Reporter. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Concordia, comté de Cloud (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 et 4 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.66,
+     39.57
+    ]
+   },
+   "properties": {
+    "id": "TI-paradis-j-s-concordia-",
+    "nom": "Concordia, comté de Cloud (Kansas) : J. S. Paradis",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. S. Paradis"
+    ],
+    "description": "Concordia, comté de Cloud (Kansas), 1875. J. S. Paradis, né à Canada, 26 décembre 1845, y transporte le Watchman. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Clyde, comté de Cloud (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 et 4 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4,
+     39.59
+    ]
+   },
+   "properties": {
+    "id": "TI-paradis-j-s-clyde-kans-2",
+    "nom": "Clyde, comté de Cloud (Kansas) : J. S. Paradis",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. S. Paradis"
+    ],
+    "description": "Clyde, comté de Cloud (Kansas), 1882. J. S. Paradis, né à Canada, 26 décembre 1845, fonde le Clyde Herald. D'après Andreas et Cutler (1883). Autres lieux de l'entrée : Concordia, comté de Cloud (Kansas).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 2 et 4 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4,
+     39.59
+    ]
+   },
+   "properties": {
+    "id": "TI-debray-e-r-clyde-kans",
+    "nom": "Clyde, comté de Cloud (Kansas) : E. R. Debray",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. R. Debray"
+    ],
+    "description": "Clyde, comté de Cloud (Kansas), 1882. E. R. Debray secrétaire municipal. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Cloud, part. 4 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.05,
+     39.73
+    ]
+   },
+   "properties": {
+    "id": "TI-aldolphe-charles-neuchatel-",
+    "nom": "Neuchatel, comté de Nemaha (Kansas) : Charles Aldolphe",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Aldolphe"
+    ],
+    "description": "Neuchatel, comté de Nemaha (Kansas), 1857. Charles Aldolphe s'établit dans le canton de Neuchatel. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Nemaha, part. 2 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.05,
+     39.73
+    ]
+   },
+   "properties": {
+    "id": "TI-bonjour-amie-e-neuchatel-",
+    "nom": "Neuchatel, comté de Nemaha (Kansas) : Amie E. Bonjour",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Amie E. Bonjour"
+    ],
+    "description": "Neuchatel, comté de Nemaha (Kansas), 1857. Amie E. Bonjour s'établit dans le canton de Neuchatel, dont les colons sont « français et suisses ». D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Nemaha, part. 2 et 22 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.05,
+     39.73
+    ]
+   },
+   "properties": {
+    "id": "TI-leroux-jules-neuchatel-",
+    "nom": "Neuchatel, comté de Nemaha (Kansas) : Jules Leroux",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jules Leroux"
+    ],
+    "description": "Neuchatel, comté de Nemaha (Kansas), 1870. Jules Leroux publie l'Étoile du Kansas, mensuel communiste en français, transféré en Iowa en 1876. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Nemaha, part. 22 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.85,
+     38.2
+    ]
+   },
+   "properties": {
+    "id": "TI-laberdy-frank-comte-de-l",
+    "nom": "Comté de Linn (Kansas) : Frank Laberdy",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Frank Laberdy"
+    ],
+    "description": "Comté de Linn (Kansas), 1856. Frank Laberdy s'établit dans le canton de Sheridan. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Linn, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.42,
+     39.86
+    ]
+   },
+   "properties": {
+    "id": "TI-guittard-geo-guittard-s",
+    "nom": "Guittard's Station (Kansas) : Geo. Guittard",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Geo. Guittard"
+    ],
+    "description": "Guittard's Station (Kansas), 1857. Geo. Guittard prend des claims avec ses fils à 2 milles et demi au nord de Beattie. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Marshall, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.35,
+     39.7
+    ]
+   },
+   "properties": {
+    "id": "TI-tremble-louis-vermillion",
+    "nom": "Rivière Vermillion (Barrett), comté de Marshall (Kansas) : Louis Tremble",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Tremble"
+    ],
+    "description": "Rivière Vermillion (Barrett), comté de Marshall (Kansas), vers 1854. Louis Tremble métis potawatomi ; pont à péage au « Independence crossing ». D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Marshall, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.35,
+     39.7
+    ]
+   },
+   "properties": {
+    "id": "TI-changreau-vermillion",
+    "nom": "Rivière Vermillion (Barrett), comté de Marshall (Kansas) : Changreau",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Changreau"
+    ],
+    "description": "Rivière Vermillion (Barrett), comté de Marshall (Kansas), vers 1855. Changreau s'établit près de Louis Tremble avec la troupe de montagnards de McCloskey. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Marshall, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.35,
+     39.7
+    ]
+   },
+   "properties": {
+    "id": "TI-laroche-vermillion",
+    "nom": "Rivière Vermillion (Barrett), comté de Marshall (Kansas) : Laroche",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Laroche"
+    ],
+    "description": "Rivière Vermillion (Barrett), comté de Marshall (Kansas), vers 1855. Laroche s'établit sur la Vermillion avec le groupe Tremble. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Marshall, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "TI-peoria-baptiste-paola-kans",
+    "nom": "Paola, comté de Miami (Kansas) : Baptiste Peoria",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Peoria"
+    ],
+    "description": "Paola, comté de Miami (Kansas), 1854. Baptiste Peoria, né à près de Kaskaskia (Illinois), vers 1800, interprète au traité avec le gouvernement ; parfois chef des tribus confédérées. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Miami, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "TI-dagnette-christmas-paola-kans",
+    "nom": "Paola, comté de Miami (Kansas) : Christmas Dagnette",
+    "corpus": "archive.org · Andreas et Cutler (1883)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Christmas Dagnette"
+    ],
+    "description": "Paola, comté de Miami (Kansas), 1848. Christmas Dagnette, né à près de Terre Haute (Indiana), vers 1800, Win-ris-cah ; interprète, chef de sa tribu au Kansas, y meurt. D'après Andreas et Cutler (1883).",
+    "sources": "A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas, comté de Miami, part. 1 ; transcription en ligne : https://www.kancoll.org/books/cutler/.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Andreas et Cutler (1883)",
+    "voir_aussi": [
+     {
+      "url": "https://www.kancoll.org/books/cutler/",
+      "texte": "Lire Andreas et Cutler (1883) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
