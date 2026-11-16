@@ -1201,6 +1201,19 @@ G.update({
     'Port Barre': (-91.95, 30.56, 'c', "Port Barre (Louisiane)"),
     'Washington (Louisiane)': (-92.06, 30.61, 'c', "Washington (Louisiane)"),
     'Cameron (Louisiane)': (-93.32, 29.8, 'c', "Cameron (Louisiane)"),
+    'Fort Saint-Claude (Yazous)': (-90.88, 32.43, 'h', "Fort Saint-Claude des Yazous (Mississippi)"),
+    'Fort Toulouse (Alibamons)': (-86.25, 32.51, 'h', "Fort Toulouse des Alibamons (Alabama)"),
+    'Pensacola': (-87.22, 30.42, 'c', "Pensacola (Floride)"),
+    'Village des Tunicas': (-91.6, 30.97, 'h', "Village des Tunicas (Louisiane)"),
+    'Pascagoula': (-88.56, 30.37, 'c', "Pascagoula (Mississippi)"),
+    'Baie Saint-Louis': (-89.33, 30.31, 'c', "Baie Saint-Louis (Mississippi)"),
+    'Tchoupitoulas': (-90.17, 29.95, 'h', "Tchoupitoulas (Louisiane)"),
+    'Bayou Saint-Jean': (-90.09, 30.0, 'h', "Bayou Saint-Jean (La Nouvelle-Orléans)"),
+    'Fort Tombecbé': (-88.2, 32.53, 'h', "Fort Tombecbé (Alabama)"),
+    'Écores à Prudhomme': (-90.05, 35.15, 'h', "Écores à Prudhomme (Memphis, Tennessee)"),
+    'Village des Bayagoulas': (-91.18, 30.22, 'h', "Village des Bayagoulas (Louisiane)"),
+    'Cannes Brûlées': (-90.36, 29.98, 'h', "Cannes Brûlées (Kenner, Louisiane)"),
+    'Mexico (ville)': (-99.13, 19.43, 'c', "Mexico (Nouvelle-Espagne)"),
 })
 
 
