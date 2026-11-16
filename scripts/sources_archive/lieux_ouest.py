@@ -973,6 +973,7 @@ G.update({
     'Winslow (Arizona)': (-110.7, 35.02, 'c', "Winslow (Arizona)"),
     'Douglas (Arizona)': (-109.55, 31.34, 'c', "Douglas (Arizona)"),
     'St. Johns (Arizona)': (-109.36, 34.51, 'c', "St. Johns (Arizona)"),
+    'Hassayampa (Pioneer District)': (-112.6, 34.3, 'a', "district minier Pioneer, Hassayampa (Arizona)"),
 })
 
 
