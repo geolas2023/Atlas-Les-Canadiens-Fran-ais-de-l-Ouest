@@ -234,6 +234,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `indianwarspionee00brow` | 21 |
 | `journeysrnrober06coxgoog` | 15 |
 | `menwhomadetexasf00dixo` | 5 |
+| `southwesternhist10bark`, `17bark`, `19bark`, `20bark` | 20 |
 
 
 ## Un point par lieu et adresses précises
