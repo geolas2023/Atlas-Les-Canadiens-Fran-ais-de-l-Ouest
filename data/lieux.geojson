@@ -374506,6 +374506,2930 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-cabildo-de-1769-les-membres--new-orlean",
+    "nom": "La Nouvelle-Orléans : Les membres créoles Cabildo de 1769",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1770.999,
+    "date_edtf": "1769/1770",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les membres créoles Cabildo de 1769"
+    ],
+    "description": "La Nouvelle-Orléans, 1769-1770. Les membres créoles Cabildo de 1769 siègent au premier Cabildo : Dyonisio Brand, Antonio Bienvenu, Pedro Francisco Olivier, Carlos Juan Bautista Fleuriau, Jose Ducros, Juan Bautista Garic, Francisco Maria Reggio, Luis Antonio Lachaise, Juan Luis Trudeau, Luis Ranson, Juan Durel. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 5 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=CABILDO+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.36,
+     29.94
+    ]
+   },
+   "properties": {
+    "id": "LM-simard-de-belille-francisco-saint-char",
+    "nom": "Paroisse Saint-Charles (Côte des Allemands, Louisiane) : Francisco Simard de Belille",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francisco Simard de Belille"
+    ],
+    "description": "Paroisse Saint-Charles (Côte des Allemands, Louisiane), 1769. Francisco Simard de Belille est capitaine de la paroisse Saint-Charles. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=SIMARD+DE+BELILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.56,
+     30.04
+    ]
+   },
+   "properties": {
+    "id": "LM-robin-de-laugni-roberto-saint-jean",
+    "nom": "Paroisse Saint-Jean-Baptiste (Louisiane) : Roberto Robin de Laugni",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Roberto Robin de Laugni"
+    ],
+    "description": "Paroisse Saint-Jean-Baptiste (Louisiane), 1769. Roberto Robin de Laugni est capitaine de milice de la paroisse Saint-Jean-Baptiste. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ROBIN+DE+LAUGNI",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.53,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LM-allain-juan-francisco-pointe-cou",
+    "nom": "Pointe-Coupée (Louisiane) : Juan Francisco Allain",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Juan Francisco Allain"
+    ],
+    "description": "Pointe-Coupée (Louisiane), 1769. Juan Francisco Allain est capitaine de milice de la Pointe Coupée. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ALLAIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.08,
+     30.53
+    ]
+   },
+   "properties": {
+    "id": "LM-fuselier-de-la-claire-gabrie-opelousas",
+    "nom": "Opelousas (Louisiane) : Gabriel Fuselier de la Claire",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Fuselier de la Claire"
+    ],
+    "description": "Opelousas (Louisiane), 1769. Gabriel Fuselier de la Claire commande le poste des Opelousas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=FUSELIER+DE+LA+CLAIRE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.23,
+     30.29
+    ]
+   },
+   "properties": {
+    "id": "LM-tisne-luis-plaquemine",
+    "nom": "Plaquemine (paroisse d'Iberville, Louisiane) : Luis Tisne",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Luis Tisne"
+    ],
+    "description": "Plaquemine (paroisse d'Iberville, Louisiane), 1769. Luis Tisne commande la côte d'Iberville jusqu'à l'Ascension. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=TISNE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.99,
+     30.1
+    ]
+   },
+   "properties": {
+    "id": "LM-judice-luis-donaldsonv",
+    "nom": "Donaldsonville (Louisiane) : Luis Judice",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Luis Judice"
+    ],
+    "description": "Donaldsonville (Louisiane), 1769. Luis Judice est capitaine de milice de la Fourche des Chetimachas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=JUDICE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.85,
+     30.03
+    ]
+   },
+   "properties": {
+    "id": "LM-verret-nicolas-cote-acadi",
+    "nom": "Côte acadienne (Cabahannocer, Louisiane) : Nicolas Verret",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas Verret"
+    ],
+    "description": "Côte acadienne (Cabahannocer, Louisiane), 1769. Nicolas Verret est capitaine de milice du Cabahannocé. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=VERRET",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.45,
+     31.31
+    ]
+   },
+   "properties": {
+    "id": "LM-mardefret-laisarde-estevan-alexandria",
+    "nom": "Alexandria (Rapides, Louisiane) : Estevan Mardefret Laisarde",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Estevan Mardefret Laisarde"
+    ],
+    "description": "Alexandria (Rapides, Louisiane), 1769. Estevan Mardefret Laisarde commande le poste des Rapides. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MARDEFRET+LAISARDE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.042,
+     37.981
+    ]
+   },
+   "properties": {
+    "id": "LM-valle-francisco-sainte-gen",
+    "nom": "Sainte-Geneviève (Missouri) : Francisco Valle",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1769.0,
+    "fin": 1769.0,
+    "date_edtf": "1769",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francisco Valle"
+    ],
+    "description": "Sainte-Geneviève (Missouri), 1769. Francisco Valle commande Sainte-Geneviève des Illinois. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 9 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=VALLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-geneveaux-le-pere-hilaire-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père Hilaire de Geneveaux",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "religion",
+    "debut": 1766.0,
+    "fin": 1772.999,
+    "date_edtf": "1766/1772",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Hilaire de Geneveaux"
+    ],
+    "description": "La Nouvelle-Orléans, 1766-1772. Le père Hilaire de Geneveaux est supérieur des capucins, expulsé puis revenu. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 12-13 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=GENEVEAUX",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-dagobert-le-pere-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le père Dagobert",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "religion",
+    "debut": 1772.0,
+    "fin": 1773.999,
+    "date_edtf": "1772/1773",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le père Dagobert"
+    ],
+    "description": "La Nouvelle-Orléans, 1772-1773. Le père Dagobert est supérieur des capucins, défendu par Unzaga. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 12-16, 104 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DAGOBERT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-aubry-new-orlean",
+    "nom": "La Nouvelle-Orléans : Aubry",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1770.0,
+    "fin": 1770.0,
+    "date_edtf": "1770",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Aubry"
+    ],
+    "description": "La Nouvelle-Orléans, 1770. Aubry s'embarque pour la France et périt dans la Gironde. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 17, 20 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=AUBRY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-bobe-descloseaux-new-orlean",
+    "nom": "La Nouvelle-Orléans : Bobe Descloseaux",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1773.0,
+    "fin": 1773.0,
+    "date_edtf": "1773",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bobe Descloseaux"
+    ],
+    "description": "La Nouvelle-Orléans, 1773. Bobe Descloseaux s'embarque pour le Cap-Français et périt en mer. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 17 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BOBE+DESCLOSEAUX",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-auberville-marie-louise-le-s-new-orlean",
+    "nom": "La Nouvelle-Orléans : Marie Louise le Senechal d' Auberville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1770.0,
+    "fin": 1770.0,
+    "date_edtf": "1770",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie Louise le Senechal d' Auberville"
+    ],
+    "description": "La Nouvelle-Orléans, 1770. Marie Louise le Senechal d' Auberville épouse Francisco Bouligny. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 21 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=AUBERVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.53,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LM-poydras-julien-pointe-cou",
+    "nom": "Pointe-Coupée (Louisiane) : Julien Poydras",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1798.999,
+    "date_edtf": "1768/1798",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "Pointe-Coupée (Louisiane), 1768-1798. Julien Poydras colporte, commerce avec les postes, achète une plantation et reçoit Louis-Philippe. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Bâton-Rouge (Louisiane).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 50, 66-68, 164 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=POYDRAS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.154,
+     30.451
+    ]
+   },
+   "properties": {
+    "id": "LM-poydras-julien-baton-roug",
+    "nom": "Bâton-Rouge (Louisiane) : Julien Poydras",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1779.0,
+    "fin": 1779.0,
+    "date_edtf": "1779",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Poydras"
+    ],
+    "description": "Bâton-Rouge (Louisiane), 1779. Julien Poydras chante la prise de Baton Rouge. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Pointe-Coupée (Louisiane).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 50, 66-68, 164 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=POYDRAS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-villars-et-favre-d-aunoy-new-orlean",
+    "nom": "La Nouvelle-Orléans : Villars Et Favre D'Aunoy",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1777.0,
+    "fin": 1784.999,
+    "date_edtf": "1777/1784",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Villars Et Favre D'Aunoy"
+    ],
+    "description": "La Nouvelle-Orléans, 1777-1784. Villars Et Favre D'Aunoy sont commissaires français chargés des achats pour les îles. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 57, 102 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=VILLARS+et+FAVRE+D+AUNOY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.86,
+     30.33
+    ]
+   },
+   "properties": {
+    "id": "LM-st-maxent-gilbert-antoine-de-galveztown",
+    "nom": "Galveztown (Louisiane) : Gilbert Antoine de St. Maxent",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1778.0,
+    "date_edtf": "1778",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gilbert Antoine de St. Maxent"
+    ],
+    "description": "Galveztown (Louisiane), 1778. Gilbert Antoine de St. Maxent dirige l'établissement des Canariens. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : bayou Manchac (Louisiane).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 60, 64 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ST+MAXENT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.0,
+     30.29
+    ]
+   },
+   "properties": {
+    "id": "LM-st-maxent-gilbert-antoine-de-bayou-manc",
+    "nom": "Bayou Manchac (Louisiane) : Gilbert Antoine de St. Maxent",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1779.0,
+    "fin": 1779.0,
+    "date_edtf": "1779",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gilbert Antoine de St. Maxent"
+    ],
+    "description": "Bayou Manchac (Louisiane), 1779. Gilbert Antoine de St. Maxent entre le premier au fort Bute. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Galveztown (Louisiane).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 60, 64 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ST+MAXENT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-maxent-le-capitaine-maximili-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le capitaine Maximiliano Maxent",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1781.0,
+    "fin": 1781.0,
+    "date_edtf": "1781",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le capitaine Maximiliano Maxent"
+    ],
+    "description": "La Nouvelle-Orléans, 1781. Le capitaine Maximiliano Maxent porte les ordres de Galvez pour l'expédition de Pensacola. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 76 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MAXENT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.86,
+     29.87
+    ]
+   },
+   "properties": {
+    "id": "LM-marigny-de-mandeville-saint-bern",
+    "nom": "Paroisse Saint-Bernard (Louisiane) : Marigny De Mandeville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1778.0,
+    "date_edtf": "1778",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marigny De Mandeville"
+    ],
+    "description": "Paroisse Saint-Bernard (Louisiane), 1778. Marigny De Mandeville dirige l'établissement des Canariens à la Terre aux Bœufs. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : La Nouvelle-Orléans.",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 60, 175 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MARIGNY+DE+MANDEVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-marigny-de-mandeville-new-orlean",
+    "nom": "La Nouvelle-Orléans : Marigny De Mandeville",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1799.0,
+    "fin": 1799.0,
+    "date_edtf": "1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marigny De Mandeville"
+    ],
+    "description": "La Nouvelle-Orléans, 1799. Marigny De Mandeville est colonel de milice. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : paroisse Saint-Bernard (Louisiane).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 60, 175 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MARIGNY+DE+MANDEVILLE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.86,
+     30.33
+    ]
+   },
+   "properties": {
+    "id": "LM-andry-le-capitaine-louis-galveztown",
+    "nom": "Galveztown (Louisiane) : Le capitaine Louis Andry",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1779.999,
+    "date_edtf": "1778/1779",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le capitaine Louis Andry"
+    ],
+    "description": "Galveztown (Louisiane), 1778-1779. Le capitaine Louis Andry laisse inachevés les plans de Galveztown et périt sur la côte du Texas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 61 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ANDRY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-landry-don-andres-new-orlean",
+    "nom": "La Nouvelle-Orléans : Don Andres Landry",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1776.0,
+    "fin": 1776.0,
+    "date_edtf": "1776",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Don Andres Landry"
+    ],
+    "description": "La Nouvelle-Orléans, 1776. Don Andres Landry est adjudant de la place. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 53 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LANDRY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-officiers-du-cabildo-de-1779-new-orlean",
+    "nom": "La Nouvelle-Orléans : Toutant de Beauregard, Duverger, Mazange Officiers du Cabildo de 1779",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1779.0,
+    "fin": 1779.0,
+    "date_edtf": "1779",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Toutant de Beauregard, Duverger, Mazange Officiers du Cabildo de 1779"
+    ],
+    "description": "La Nouvelle-Orléans, 1779. Toutant de Beauregard, Duverger, Mazange Officiers du Cabildo de 1779 sont regidor, alcade et greffier. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 59 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=OFFICIERS+DU+CABILDO+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.0,
+     30.29
+    ]
+   },
+   "properties": {
+    "id": "LM-rieux-vincent-bayou-manc",
+    "nom": "Bayou Manchac (Louisiane) : Vincent Rieux",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "evenement",
+    "debut": 1779.0,
+    "fin": 1779.0,
+    "date_edtf": "1779",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Vincent Rieux"
+    ],
+    "description": "Bayou Manchac (Louisiane), 1779. Vincent Rieux est natif de La Nouvelle-Orléans et capture soixante-dix Anglais avec treize hommes. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 65 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=RIEUX",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "LM-guillemard-gilberto-pensacola",
+    "nom": "Pensacola (Floride) : Gilberto Guillemard",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1779.0,
+    "fin": 1781.999,
+    "date_edtf": "1779/1781",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gilberto Guillemard"
+    ],
+    "description": "Pensacola (Floride), 1779-1781. Gilberto Guillemard est ingénieur volontaire de l'expédition de Galvez. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 64 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=GUILLEMARD",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.154,
+     30.451
+    ]
+   },
+   "properties": {
+    "id": "LM-grandpre-carlos-de-baton-roug",
+    "nom": "Bâton-Rouge (Louisiane) : Carlos de Grandpré",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1779.0,
+    "fin": 1779.0,
+    "date_edtf": "1779",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Carlos de Grandpré"
+    ],
+    "description": "Bâton-Rouge (Louisiane), 1779. Carlos de Grandpré commande Baton Rouge après sa prise. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Natchez (fort Rosalie).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 65, 169 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=GRANDPRÉ",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LM-grandpre-carlos-de-natchez",
+    "nom": "Natchez (fort Rosalie) : Carlos de Grandpré",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1781.0,
+    "fin": 1797.999,
+    "date_edtf": "1781/1797",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Carlos de Grandpré"
+    ],
+    "description": "Natchez (fort Rosalie), 1781-1797. Carlos de Grandpré est lieutenant-gouverneur des Natchez. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Bâton-Rouge (Louisiane).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 65, 169 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=GRANDPRÉ",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "LM-rousseau-pedro-pensacola",
+    "nom": "Pensacola (Floride) : Pedro Rousseau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1781.0,
+    "fin": 1781.0,
+    "date_edtf": "1781",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pedro Rousseau"
+    ],
+    "description": "Pensacola (Floride), 1781. Pedro Rousseau commande le brick Galveztown. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 77, 83, 173 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ROUSSEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "LM-barde-mobile",
+    "nom": "Mobile : Barde",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1780.0,
+    "fin": 1780.0,
+    "date_edtf": "1780",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Barde"
+    ],
+    "description": "Mobile, 1780. Barde escorte le colonel Bouligny au fort Charlotte. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 72 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BARDE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.22,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "LM-escadre-francaise-de-1781-mo-pensacola",
+    "nom": "Pensacola (Floride) : Monteill et Boiderout Escadre Française de 1781",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1781.0,
+    "fin": 1781.0,
+    "date_edtf": "1781",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Monteill et Boiderout Escadre Française de 1781"
+    ],
+    "description": "Pensacola (Floride), 1781. Monteill et Boiderout Escadre Française de 1781 commandent la division française devant Pensacola. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 90-91 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ESCADRE+FRANÇAISE+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.83,
+     30.13
+    ]
+   },
+   "properties": {
+    "id": "LM-de-clouet-le-chevalier-saint-mart",
+    "nom": "Saint-Martinville (Attakapas, Louisiane) : Le chevalier de Clouet",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1787.0,
+    "fin": 1787.0,
+    "date_edtf": "1787",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le chevalier de Clouet"
+    ],
+    "description": "Saint-Martinville (Attakapas, Louisiane), 1787. Le chevalier de Clouet reste chargé du district des Attakapas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 115 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DE+CLOUET",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.08,
+     30.53
+    ]
+   },
+   "properties": {
+    "id": "LM-forstall-nicolas-opelousas",
+    "nom": "Opelousas (Louisiane) : Nicolas Forstall",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1787.0,
+    "fin": 1787.0,
+    "date_edtf": "1787",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Forstall"
+    ],
+    "description": "Opelousas (Louisiane), 1787. Nicolas Forstall est nommé commandant des Opelousas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 115 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=FORSTALL",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LM-la-villebeuvre-juan-de-natchez",
+    "nom": "Natchez (fort Rosalie) : Juan de la Villebeuvre",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1788.0,
+    "fin": 1788.0,
+    "date_edtf": "1788",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Juan de la Villebeuvre"
+    ],
+    "description": "Natchez (fort Rosalie), 1788. Juan de la Villebeuvre est capitaine chargé des missions chez les Indiens. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 120 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LA+VILLEBEUVRE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "LM-wouver-d-arges-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : Wouver D'Arges",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1788.0,
+    "fin": 1788.0,
+    "date_edtf": "1788",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Wouver D'Arges"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1788. Wouver D'Arges propose d'établir des familles du Kentucky. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 131-137 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=WOUVER+D+ARGES",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.53,
+     36.59
+    ]
+   },
+   "properties": {
+    "id": "LM-foucher-pierre-new-madrid",
+    "nom": "Nouvelle-Madrid (Missouri) : Pierre Foucher",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1789.0,
+    "fin": 1789.0,
+    "date_edtf": "1789",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Foucher"
+    ],
+    "description": "Nouvelle-Madrid (Missouri), 1789. Pierre Foucher bâtit le fort et commande le district. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 143 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=FOUCHER",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "LM-la-chaise-auguste-de-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : Auguste de la Chaise",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste de la Chaise"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1794. Auguste de la Chaise est agent de Genet au Kentucky, natif de la Louisiane. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 155 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LA+CHAISE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-duclot-l-new-orlean",
+    "nom": "La Nouvelle-Orléans : L. Duclot",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "L. Duclot"
+    ],
+    "description": "La Nouvelle-Orléans, 1794. L. Duclot imprime le Moniteur de la Louisiane. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 156 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DUCLOT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-bore-jean-etienne-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean Etienne de Boré",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1795.0,
+    "fin": 1804.999,
+    "date_edtf": "1795/1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Etienne de Boré"
+    ],
+    "description": "La Nouvelle-Orléans, 1795-1804. Jean Etienne de Boré né à Kaskaskia, réussit la granulation du sucre et devient maire. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 158-161, 246, 288-292 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BORÉ",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-morim-new-orlean",
+    "nom": "La Nouvelle-Orléans : Morim",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Morim"
+    ],
+    "description": "La Nouvelle-Orléans, 1794. Morim vient de Saint-Domingue et devient le sucrier de Boré. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 160 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MORIM",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-chouteau-auguste-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Auguste Chouteau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Chouteau"
+    ],
+    "description": "Saint-Louis (Missouri), 1764. Auguste Chouteau mène les premiers colons. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : fort Carondelet (Osages).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 164, 173, 304, 308-314 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=CHOUTEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.05,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "LM-chouteau-auguste-fort-caron",
+    "nom": "Fort Carondelet (Osages) : Auguste Chouteau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1799.999,
+    "date_edtf": "1794/1799",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Chouteau"
+    ],
+    "description": "Fort Carondelet (Osages), 1794-1799. Auguste Chouteau finance le fort et obtient la traite des Osages. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 164, 173, 304, 308-314 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=CHOUTEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.05,
+     38.0
+    ]
+   },
+   "properties": {
+    "id": "LM-chouteau-pierre-fort-caron",
+    "nom": "Fort Carondelet (Osages) : Pierre Chouteau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Chouteau"
+    ],
+    "description": "Fort Carondelet (Osages), 1794. Pierre Chouteau aide son frère à bâtir le fort. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 164, 317 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=CHOUTEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-chouteau-pierre-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Chouteau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chouteau"
+    ],
+    "description": "Saint-Louis (Missouri), 1804. Pierre Chouteau inventorie les bâtiments espagnols. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : fort Carondelet (Osages).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 164, 317 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=CHOUTEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.12,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "LM-emigres-royalistes-les-conce-fort-miro-",
+    "nom": "Fort Miro (Monroe, Louisiane) : Les concessionnaires de 1795 Émigrés Royalistes",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1795.0,
+    "fin": 1795.0,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les concessionnaires de 1795 Émigrés Royalistes"
+    ],
+    "description": "Fort Miro (Monroe, Louisiane), 1795. Les concessionnaires de 1795 Émigrés Royalistes reçoivent de grandes concessions : Lassus de St. Vrain, Maison Rouge, Bastrop. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 164 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ÉMIGRÉS+ROYALISTES",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.53,
+     36.59
+    ]
+   },
+   "properties": {
+    "id": "LM-dehault-de-lassus-carlos-new-madrid",
+    "nom": "Nouvelle-Madrid (Missouri) : Carlos Dehault de Lassus",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1799.999,
+    "date_edtf": "1797/1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Carlos Dehault de Lassus"
+    ],
+    "description": "Nouvelle-Madrid (Missouri), 1797-1799. Carlos Dehault de Lassus commande la Nouvelle-Madrid et dresse le recensement. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 166, 176 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DEHAULT+DE+LASSUS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-collot-le-general-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le général Collot",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1796.0,
+    "fin": 1796.0,
+    "date_edtf": "1796",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le général Collot"
+    ],
+    "description": "La Nouvelle-Orléans, 1796. Le général Collot décrit les ressources militaires, est arrêté et expulsé. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 166 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=COLLOT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-marigny-bernard-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Bernard de Marigny",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1798.0,
+    "fin": 1798.0,
+    "date_edtf": "1798",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bernard de Marigny"
+    ],
+    "description": "La Nouvelle-Orléans, 1798. Bernard de Marigny reçoit les princes d'Orléans. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 172, 292 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MARIGNY",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-princes-d-orleans-le-duc-d-o-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le duc d'Orléans et ses frères Princes D'orléans",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "religion",
+    "debut": 1798.0,
+    "fin": 1798.0,
+    "date_edtf": "1798",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le duc d'Orléans et ses frères Princes D'orléans"
+    ],
+    "description": "La Nouvelle-Orléans, 1798. Le duc d'Orléans et ses frères Princes D'orléans sont reçus à La Nouvelle-Orléans. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 67, 171 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=PRINCES+D+ORLÉANS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-marins-de-1799-pedro-roussea-new-orlean",
+    "nom": "La Nouvelle-Orléans : Pedro Rousseau, Guillermo Dupark, Francisco Langlois Marins de 1799",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1799.0,
+    "fin": 1799.0,
+    "date_edtf": "1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pedro Rousseau, Guillermo Dupark, Francisco Langlois Marins de 1799"
+    ],
+    "description": "La Nouvelle-Orléans, 1799. Pedro Rousseau, Guillermo Dupark, Francisco Langlois Marins de 1799 sont cités comme habiles marins. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 173 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MARINS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "LM-delfau-de-pontalba-jean-jose-fort-rosal",
+    "nom": "Fort Rosalie (Natchez, Mississippi) : Jean-Joseph Delfau de Pontalba",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1732.0,
+    "fin": 1760.999,
+    "date_edtf": "1732/1760",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Joseph Delfau de Pontalba"
+    ],
+    "description": "Fort Rosalie (Natchez, Mississippi), 1732-1760. Jean-Joseph Delfau de Pontalba sert aux Natchez, à La Nouvelle-Orléans, aux Tunicas et à la Pointe Coupée. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 187 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DELFAU+DE+PONTALBA",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-broutin-marguerite-magdelein-new-orlean",
+    "nom": "La Nouvelle-Orléans : Marguerite Magdeleine Broutin",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1748.0,
+    "fin": 1748.0,
+    "date_edtf": "1748",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marguerite Magdeleine Broutin"
+    ],
+    "description": "La Nouvelle-Orléans, 1748. Marguerite Magdeleine Broutin épouse Jean-Joseph Delfau de Pontalba. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 187 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BROUTIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.48,
+     30.02
+    ]
+   },
+   "properties": {
+    "id": "LM-delfau-de-pontalba-joseph-xa-cote-des-a",
+    "nom": "Côte des Allemands (Louisiane) : Joseph Xavier Delfau de Pontalba",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1784.0,
+    "fin": 1802.999,
+    "date_edtf": "1784/1802",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Xavier Delfau de Pontalba"
+    ],
+    "description": "Côte des Allemands (Louisiane), 1784-1802. Joseph Xavier Delfau de Pontalba est capitaine du régiment de Louisiane et commande la milice de la Côte des Allemands, auteur d'un mémoire en 1801. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 186-188, 215 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DELFAU+DE+PONTALBA",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-le-breton-jeanne-francoise-l-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jeanne Françoise Louise Le Breton",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1789.0,
+    "fin": 1789.0,
+    "date_edtf": "1789",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jeanne Françoise Louise Le Breton"
+    ],
+    "description": "La Nouvelle-Orléans, 1789. Jeanne Françoise Louise Le Breton épouse Pontalba. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 188 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LE+BRETON",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-delfau-de-pontalba-joseph-xa-new-orlean",
+    "nom": "La Nouvelle-Orléans : Joseph Xavier Celestin Delfau de Pontalba",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Xavier Celestin Delfau de Pontalba"
+    ],
+    "description": "La Nouvelle-Orléans, 1811. Joseph Xavier Celestin Delfau de Pontalba, né en 1791 à La Nouvelle-Orléans, devient page de Napoléon et épouse Micaela Almonester. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 188 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DELFAU+DE+PONTALBA",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-almonester-micaela-leonarda-new-orlean",
+    "nom": "La Nouvelle-Orléans : Micaela Leonarda Almonester",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1850.999,
+    "date_edtf": "1811/1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Micaela Leonarda Almonester"
+    ],
+    "description": "La Nouvelle-Orléans, 1811-1850. Micaela Leonarda Almonester épouse Celestin de Pontalba et bâtit les édifices Pontalba. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 8, 188-189 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ALMONESTER",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-laussat-pierre-clement-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Pierre Clément de Laussat",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Clément de Laussat"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Pierre Clément de Laussat est préfet colonial, reçoit la colonie de l'Espagne et la remet aux Américains. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 179-181, 220-246, 280-293, 334 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LAUSSAT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-laussat-madame-de-new-orlean",
+    "nom": "La Nouvelle-Orléans : Madame de Laussat",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Madame de Laussat"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Madame de Laussat arrive avec ses filles et préside les bals. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 222, 287-288 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LAUSSAT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-ayme-jean-jacques-new-orlean",
+    "nom": "La Nouvelle-Orléans : Jean-Jacques Ayme",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Jacques Ayme"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Jean-Jacques Ayme est commissaire de justice. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 179, 223 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=AYME",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-daugerot-new-orlean",
+    "nom": "La Nouvelle-Orléans : Daugerot",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Daugerot"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Daugerot est secrétaire de Laussat et meurt de la fièvre jaune. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 224, 280, 294-297 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DAUGEROT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-metiers-de-1802-1803-les-ann-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les annonceurs de la ville Métiers de 1802-1803",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1802.0,
+    "fin": 1803.999,
+    "date_edtf": "1802/1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les annonceurs de la ville Métiers de 1802-1803"
+    ],
+    "description": "La Nouvelle-Orléans, 1802-1803. Les annonceurs de la ville Métiers de 1802-1803 annoncent leurs services : Honoré Fortier et Paillet, Mme André, l'architecte Lafon, Mercier et Cie, Laplanche, Lartigue, Duval, Ambroise Pardo, Baligant, Visinier, J. M. Bart, Guillaume, Mme Perrault, Regnier, Meyere, l'abbé Roland. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 217-228 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MÉTIERS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-hebecourt-le-sieur-d-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le sieur d' Hebecourt",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1802.0,
+    "fin": 1802.0,
+    "date_edtf": "1802",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le sieur d' Hebecourt"
+    ],
+    "description": "La Nouvelle-Orléans, 1802. Le sieur d' Hebecourt ouvre une école de latin, de français et de musique. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 216, 219 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=HEBECOURT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-adresse-de-1803-les-habitant-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les habitants de la ville Adresse de 1803",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les habitants de la ville Adresse de 1803"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Les habitants de la ville Adresse de 1803 signent l'adresse de bienvenue à Laussat : J. Lanthois, J. Faurie, M. Fortier, G. Debuys, H. Fortier, Pierre et Ant. Carraby, A. Peytavin, Cavelier père, F. Duplessis, Labatut, Paul Lanusse, Zenon Cavelier, N. Boudousquie, J. B. Dejan, J. F. Merieult, J. Soulie, Lille Sarpy, Joseph Gravier, A. Harang, Joseph Tricou, Etienne Trepagnier, J. Livaudais, P. Derbigny. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 230-231 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ADRESSE+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.56,
+     30.04
+    ]
+   },
+   "properties": {
+    "id": "LM-adresse-de-1803-les-planteur-saint-jean",
+    "nom": "Paroisse Saint-Jean-Baptiste (Louisiane) : Les planteurs de la Côte Adresse de 1803",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les planteurs de la Côte Adresse de 1803"
+    ],
+    "description": "Paroisse Saint-Jean-Baptiste (Louisiane), 1803. Les planteurs de la Côte Adresse de 1803 signent l'adresse des planteurs : Manuel Andry, A. Trouard, Jacques Delagroue, Noel Perret, P. St. Martin fils, Chs. Perret. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 233 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ADRESSE+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-municipalite-de-1803-le-cons-new-orlean",
+    "nom": "La Nouvelle-Orléans : Le conseil de Laussat Municipalité de 1803",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le conseil de Laussat Municipalité de 1803"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Le conseil de Laussat Municipalité de 1803 forme le conseil : Destrehan, Sauvé, Livaudais, Petit Cavelier, Michel Fortier, Villeré, Faurie, Allard, Tureaud, Labatut, Derbigny. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 246 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=MUNICIPALITÉ+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-bellechasse-new-orlean",
+    "nom": "La Nouvelle-Orléans : Bellechasse",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bellechasse"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Bellechasse est colonel de la milice. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 246, 281, 292 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BELLECHASSE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-vinache-new-orlean",
+    "nom": "La Nouvelle-Orléans : Vinache",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Vinache"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Vinache est major du génie et reçoit les commissaires américains. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 277, 285 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=VINACHE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-blanque-new-orlean",
+    "nom": "La Nouvelle-Orléans : Blanque",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Blanque"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Blanque est ami de Laussat et l'escorte. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 277 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BLANQUE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-robin-c-c-new-orlean",
+    "nom": "La Nouvelle-Orléans : C. C. Robin",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "C. C. Robin"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. C. C. Robin est témoin de la passation et décrit les bals. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 240-241, 302 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ROBIN",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-drapeau-de-1803-charpin-legr-new-orlean",
+    "nom": "La Nouvelle-Orléans : Charpin, Legrand, Dusseuil Drapeau de 1803",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charpin, Legrand, Dusseuil Drapeau de 1803"
+    ],
+    "description": "La Nouvelle-Orléans, 1803. Charpin, Legrand, Dusseuil Drapeau de 1803 gardent, portent et amènent le drapeau tricolore. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 285-287 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DRAPEAU+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-poudre-de-1804-les-miliciens-new-orlean",
+    "nom": "La Nouvelle-Orléans : Les miliciens créoles Poudre de 1804",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les miliciens créoles Poudre de 1804"
+    ],
+    "description": "La Nouvelle-Orléans, 1804. Les miliciens créoles Poudre de 1804 reçoivent la poudre de Laussat : Robin de Logny, Boisdore, Villère, Petit, Allard fils, Ducourneau, les frères Hazeur, Boisblanc, Lanthois, Sibeur, Labatut, Bernard Marigny, Rillieux, Bougaud. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 292-293 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=POUDRE+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-bal-de-1804-gauthier-st-avid-new-orlean",
+    "nom": "La Nouvelle-Orléans : Gauthier, St. Avid et Teilh Bal de 1804",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gauthier, St. Avid et Teilh Bal de 1804"
+    ],
+    "description": "La Nouvelle-Orléans, 1804. Gauthier, St. Avid et Teilh Bal de 1804 sont Français pris dans la querelle du bal. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 290 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=BAL+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "LM-lebalch-new-orlean",
+    "nom": "La Nouvelle-Orléans : Lebalch",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lebalch"
+    ],
+    "description": "La Nouvelle-Orléans, 1804. Lebalch est officier de santé venu de Saint-Domingue. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 290 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LEBALCH",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.16,
+     38.09
+    ]
+   },
+   "properties": {
+    "id": "LM-st-ange-de-bellerive-louis-fort-de-ch",
+    "nom": "Fort de Chartres (Illinois) : Louis St. Ange de Bellerive",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1765.0,
+    "fin": 1765.0,
+    "date_edtf": "1765",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis St. Ange de Bellerive"
+    ],
+    "description": "Fort de Chartres (Illinois), 1765. Louis St. Ange de Bellerive commande le fort. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 306, 310 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ST+ANGE+DE+BELLERIVE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-st-ange-de-bellerive-louis-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Louis St. Ange de Bellerive",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1766.0,
+    "date_edtf": "1766",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis St. Ange de Bellerive"
+    ],
+    "description": "Saint-Louis (Missouri), 1766. Louis St. Ange de Bellerive est gouverneur provisoire. D'après Fortier, A History of Louisiana, vol. 2 (1904). Autres lieux de l'entrée : fort de Chartres (Illinois).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 306, 310 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ST+ANGE+DE+BELLERIVE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-laclede-liguest-pierre-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Laclede Liguest",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1764.0,
+    "fin": 1778.999,
+    "date_edtf": "1764/1778",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Laclede Liguest"
+    ],
+    "description": "Saint-Louis (Missouri), 1764-1778. Pierre Laclede Liguest né en Béarn, fonde Saint-Louis et meurt à l'embouchure de l'Arkansas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 308, 314, 342 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LACLEDE+LIGUEST",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.16,
+     38.09
+    ]
+   },
+   "properties": {
+    "id": "LM-nyon-de-villiers-fort-de-ch",
+    "nom": "Fort de Chartres (Illinois) : Nyon De Villiers",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1764.0,
+    "fin": 1764.0,
+    "date_edtf": "1764",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nyon De Villiers"
+    ],
+    "description": "Fort de Chartres (Illinois), 1764. Nyon De Villiers ramène les garnisons à La Nouvelle-Orléans. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 308-310 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=NYON+DE+VILLIERS",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-lefebvre-joseph-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Joseph Lefebvre",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1766.0,
+    "date_edtf": "1766",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Lefebvre"
+    ],
+    "description": "Saint-Louis (Missouri), 1766. Joseph Lefebvre est juge du gouvernement provisoire, natif de France. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 310 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LEFEBVRE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-labusciere-joseph-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Joseph Labusciere",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1766.0,
+    "date_edtf": "1766",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Labusciere"
+    ],
+    "description": "Saint-Louis (Missouri), 1766. Joseph Labusciere est secrétaire et ancien procureur du roi. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 310 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=LABUSCIERE",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-trudeau-zenon-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Zenon Trudeau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1792.0,
+    "fin": 1799.999,
+    "date_edtf": "1792/1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Zenon Trudeau"
+    ],
+    "description": "Saint-Louis (Missouri), 1792-1799. Zenon Trudeau est lieutenant-gouverneur, né au Canada. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 316 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=TRUDEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-trudeau-john-b-saint-loui",
+    "nom": "Saint-Louis (Missouri) : John B. Trudeau",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1780.0,
+    "fin": 1827.999,
+    "date_edtf": "1780/1827",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Trudeau"
+    ],
+    "description": "Saint-Louis (Missouri), 1780-1827. John B. Trudeau est maître d'école du village. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 315 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=TRUDEAU",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-robineau-de-portneuf-felicit-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Felicité Robineau de Portneuf",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1770.0,
+    "fin": 1770.0,
+    "date_edtf": "1770",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Felicité Robineau de Portneuf"
+    ],
+    "description": "Saint-Louis (Missouri), 1770. Felicité Robineau de Portneuf est épouse du gouverneur Piernas. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 313 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=ROBINEAU+DE+PORTNEUF",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "LM-temoins-de-1804-antoine-soul-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Antoine Soulard et Charles Gratiot Témoins de 1804",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Soulard et Charles Gratiot Témoins de 1804"
+    ],
+    "description": "Saint-Louis (Missouri), 1804. Antoine Soulard et Charles Gratiot Témoins de 1804 assistent à la passation de la Haute-Louisiane. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 318 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=TÉMOINS+DE+",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.16,
+     38.09
+    ]
+   },
+   "properties": {
+    "id": "LM-dugue-de-boisbriant-pierre-fort-de-ch",
+    "nom": "Fort de Chartres (Illinois) : Pierre Dugue de Boisbriant",
+    "corpus": "archive.org · Fortier, A History of Louisiana, vol. 2 (1904)",
+    "theme": "poste",
+    "debut": 1720.0,
+    "fin": 1720.0,
+    "date_edtf": "1720",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dugue de Boisbriant"
+    ],
+    "description": "Fort de Chartres (Illinois), 1720. Pierre Dugue de Boisbriant bâtit le fort de Chartres et commande les Illinois. D'après Fortier, A History of Louisiana, vol. 2 (1904).",
+    "sources": "Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904, p. 341 ; texte intégral : archive.org, historyoflouisia02fortuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fortier, A History of Louisiana, vol. 2 (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoflouisia02fortuoft?q=DUGUE+DE+BOISBRIANT",
+      "texte": "Lire Fortier, A History of Louisiana, vol. 2 (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]
