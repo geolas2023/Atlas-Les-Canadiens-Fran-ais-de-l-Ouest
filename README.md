@@ -227,6 +227,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `pictorialhistory01thra` | 17 |
 | `memorialbiograph00lew` | 38 |
 | `earlysettlersind00sowe` | 28 |
+| `journeythroughte01olms` | 8 |
 
 
 ## Un point par lieu et adresses précises

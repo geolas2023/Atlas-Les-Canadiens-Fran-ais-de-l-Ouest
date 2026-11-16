@@ -1058,6 +1058,7 @@ G.update({
     'Hallettsville': (-96.94, 29.44, 'c', "Hallettsville (Texas)"),
     'Denison': (-96.54, 33.76, 'c', "Denison (Texas)"),
     'Canyon du Hondo': (-99.25, 29.65, 'h', "canyon du Hondo (comté de Medina, Texas)"),
+    'Haut Sabinal': (-99.47, 29.65, 'h', "source du Sabinal (comté d'Uvalde, Texas)"),
 })
 
 
