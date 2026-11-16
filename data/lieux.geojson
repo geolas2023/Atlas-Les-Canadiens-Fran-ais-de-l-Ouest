@@ -296986,6 +296986,890 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.85,
+     39.0
+    ]
+   },
+   "properties": {
+    "id": "UR-remy-jules-carson-val",
+    "nom": "Vallée Carson (Genoa, alors territoire d'Utah) : Jules Remy",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jules Remy"
+    ],
+    "description": "Vallée Carson (Genoa, alors territoire d'Utah), 1855. Jules Remy campe près de la colonie mormone et achète un cheval pour son compagnon Brenchley. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861). Autres lieux de l'entrée : Salt Lake City (Great Salt Lake City, Utah), Cedar City (Utah).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 86-87 ; vol. 2, p. 262, 309, 382 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=REMY",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UR-remy-jules-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Jules Remy",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules Remy"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1855. Jules Remy séjourne à Great Salt Lake City et y relève les températures du 26 septembre au 26 octobre. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861). Autres lieux de l'entrée : vallée Carson (Genoa, alors territoire d'Utah), Cedar City (Utah).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 86-87 ; vol. 2, p. 262, 309, 382 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=REMY",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.06,
+     37.68
+    ]
+   },
+   "properties": {
+    "id": "UR-remy-jules-cedar-city",
+    "nom": "Cedar City (Utah) : Jules Remy",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules Remy"
+    ],
+    "description": "Cedar City (Utah), 1855. Jules Remy quitte le territoire d'Utah après un séjour à Cedar City. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861). Autres lieux de l'entrée : vallée Carson (Genoa, alors territoire d'Utah), Salt Lake City (Great Salt Lake City, Utah).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 86-87 ; vol. 2, p. 262, 309, 382 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=REMY",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "UR-winter-dr-carson-riv",
+    "nom": "Rivière Carson (alors territoire d'Utah) : Dr Winter",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Dr Winter"
+    ],
+    "description": "Rivière Carson (alors territoire d'Utah), 1855. Dr Winter est un médecin de père français qui offre du porto aux voyageurs, leur vend du riz et troque des truites avec les Indiens. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 43 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=WINTER",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "UR-franc-comtois-emigrant-carson-riv",
+    "nom": "Rivière Carson (alors territoire d'Utah) : Émigrant Franc-Comtois",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Émigrant Franc-Comtois"
+    ],
+    "description": "Rivière Carson (alors territoire d'Utah), 1855. Émigrant Franc-Comtois est un Français de Franche-Comté qui veille un bœuf mourant sur la route des mines de Californie. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 44-45 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=FRANC+COMTOIS",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UR-hebviot-eugene-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Eugene Hebviot",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Eugene Hebviot"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1855. Eugene Hebviot est un émigrant du Havre converti au mormonisme dont Remy raconte la conversion. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 220-221 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=HEBVIOT",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UR-francaise-une-mormone-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Une Mormone Française",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Une Mormone Française"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1855. Une Mormone Française est abandonnée par son mari après avoir douté de la foi mormone, selon des fonctionnaires fédéraux. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 1, p. 192 ; texte intégral : archive.org, ajourneytogreat01brengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat01brengoog?q=FRANÇAISE",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UR-diguet-victor-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Victor Diguet",
+    "corpus": "archive.org · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Diguet"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1855. Victor Diguet est engagé comme domestique par Remy et l'accompagne sur la route du sud de l'Utah. D'après Remy et Brenchley, A Journey to Great-Salt-Lake City (1861).",
+    "sources": "J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol., vol. 2, p. 299-406 ; texte intégral : archive.org, ajourneytogreat00remygoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Remy et Brenchley, A Journey to Great-Salt-Lake City (1861)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/ajourneytogreat00remygoog?q=DIGUET",
+      "texte": "Lire Remy et Brenchley, A Journey to Great-Salt-Lake City (1861) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.95,
+     40.85
+    ]
+   },
+   "properties": {
+    "id": "UL-provo-brown-s-ho",
+    "nom": "Brown's Hole (Browns Park), Green River : Provo",
+    "corpus": "archive.org · Dellenbaugh, The Romance of the Colorado River (1902)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Provo"
+    ],
+    "description": "Brown's Hole (Browns Park), Green River, 1825. Provo campe à Brown's Hole avec des chevaux et des vivres en abondance quand arrivent les hommes affamés d'Ashley. D'après Dellenbaugh, The Romance of the Colorado River (1902).",
+    "sources": "F. S. Dellenbaugh, The Romance of the Colorado River, New York, G. P. Putnam's Sons, 1902, p. 108, 110 ; texte intégral : archive.org, romanceofcolorad00dell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dellenbaugh, The Romance of the Colorado River (1902)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/romanceofcolorad00dell?q=PROVO",
+      "texte": "Lire Dellenbaugh, The Romance of the Colorado River (1902) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.97,
+     40.43
+    ]
+   },
+   "properties": {
+    "id": "UL-roubidoux-fort-uinta",
+    "nom": "Fort Robidoux (Uintah) : Roubidoux",
+    "corpus": "archive.org · Dellenbaugh, The Romance of the Colorado River (1902)",
+    "theme": "poste",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Roubidoux"
+    ],
+    "description": "Fort Robidoux (Uintah), 1844. Roubidoux voit son fort de la Duchesne, où Frémont fait halte, détruit par les Utes peu après. D'après Dellenbaugh, The Romance of the Colorado River (1902).",
+    "sources": "F. S. Dellenbaugh, The Romance of the Colorado River, New York, G. P. Putnam's Sons, 1902, p. 138 ; texte intégral : archive.org, romanceofcolorad00dell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dellenbaugh, The Romance of the Colorado River (1902)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/romanceofcolorad00dell?q=ROUBIDOUX",
+      "texte": "Lire Dellenbaugh, The Romance of the Colorado River (1902) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62,
+     32.73
+    ]
+   },
+   "properties": {
+    "id": "UL-leroux-antoine-fort-yuma",
+    "nom": "Fort Yuma : Antoine Leroux",
+    "corpus": "archive.org · Dellenbaugh, The Romance of the Colorado River (1902)",
+    "theme": "poste",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Fort Yuma, 1852. Antoine Leroux guide la commission de la frontière de Bartlett dans le pays inondé du bas Colorado. D'après Dellenbaugh, The Romance of the Colorado River (1902).",
+    "sources": "F. S. Dellenbaugh, The Romance of the Colorado River, New York, G. P. Putnam's Sons, 1902, p. 148-149 ; texte intégral : archive.org, romanceofcolorad00dell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Dellenbaugh, The Romance of the Colorado River (1902)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/romanceofcolorad00dell?q=LEROUX",
+      "texte": "Lire Dellenbaugh, The Romance of the Colorado River (1902) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.97,
+     40.43
+    ]
+   },
+   "properties": {
+    "id": "UQ-robidoux-antoine-fort-uinta",
+    "nom": "Fort Robidoux (Uintah) : Antoine Robidoux",
+    "corpus": "archive.org · Utah Historical Quarterly (1929-1930)",
+    "theme": "poste",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Fort Robidoux (Uintah), vers 1835. Antoine Robidoux exploite le fort Uinta dans le nord-est de l'Utah et expédie ses fourrures à Santa Fe. D'après Utah Historical Quarterly (1929-1930).",
+    "sources": "Utah Historical Quarterly, vol. 2 et 3, 1929-1930, vol. 2, n° 4, p. 105 ; vol. 3, n° 1, p. 20 ; texte intégral : archive.org, utah-historical-quarterly_1929-10_2_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Utah Historical Quarterly (1929-1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/utah-historical-quarterly_1929-10_2_4?q=ROBIDOUX",
+      "texte": "Lire Utah Historical Quarterly (1929-1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "UQ-sybille-fort-platt",
+    "nom": "Fort Platte : Sybille",
+    "corpus": "archive.org · Utah Historical Quarterly (1929-1930)",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sybille"
+    ],
+    "description": "Fort Platte, 1843. Sybille reçoit avec Adams et associés au fort Platte le groupe de Boardman pour un bal. D'après Utah Historical Quarterly (1929-1930).",
+    "sources": "Utah Historical Quarterly, vol. 2 et 3, 1929-1930, vol. 2, n° 4, p. 103 ; texte intégral : archive.org, utah-historical-quarterly_1929-10_2_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Utah Historical Quarterly (1929-1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/utah-historical-quarterly_1929-10_2_4?q=SYBILLE",
+      "texte": "Lire Utah Historical Quarterly (1929-1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.39,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "UQ-vasquez-louis-fort-bridg",
+    "nom": "Fort Bridger : Louis Vasquez",
+    "corpus": "archive.org · Utah Historical Quarterly (1929-1930)",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Bridger, 1843. Louis Vasquez accueille Boardman et lui apprend que Sioux et Cheyennes ont volé soixante chevaux. D'après Utah Historical Quarterly (1929-1930).",
+    "sources": "Utah Historical Quarterly, vol. 2 et 3, 1929-1930, vol. 2, n° 4, p. 107 ; texte intégral : archive.org, utah-historical-quarterly_1929-10_2_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Utah Historical Quarterly (1929-1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/utah-historical-quarterly_1929-10_2_4?q=VASQUEZ",
+      "texte": "Lire Utah Historical Quarterly (1929-1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "UQ-laramie-jacques-laramie-ri",
+    "nom": "Rivière Laramie : Jacques Laramie",
+    "corpus": "archive.org · Utah Historical Quarterly (1929-1930)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Laramie"
+    ],
+    "description": "Rivière Laramie, vers 1820. Jacques Laramie est un trappeur libre canadien-français dont le fort, la rivière, le pic et le comté portent le nom. D'après Utah Historical Quarterly (1929-1930).",
+    "sources": "Utah Historical Quarterly, vol. 2 et 3, 1929-1930, vol. 3, n° 2, p. 61 ; texte intégral : archive.org, utah-historical-quarterly_1930-04_3_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Utah Historical Quarterly (1929-1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/utah-historical-quarterly_1930-04_3_2?q=LARAMIE",
+      "texte": "Lire Utah Historical Quarterly (1929-1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.08,
+     41.02
+    ]
+   },
+   "properties": {
+    "id": "UQ-archambeau-pilot-peak",
+    "nom": "Pilot Peak (frontière Utah-Nevada) : Archambeau",
+    "corpus": "archive.org · Utah Historical Quarterly (1929-1930)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Archambeau"
+    ],
+    "description": "Pilot Peak (frontière Utah-Nevada), 1845. Archambeau arrive avant l'aube au camp de Frémont avec la nouvelle d'eau, d'herbe et de bois. D'après Utah Historical Quarterly (1929-1930).",
+    "sources": "Utah Historical Quarterly, vol. 2 et 3, 1929-1930, vol. 3, n° 3, p. 69 ; texte intégral : archive.org, utah-historical-quarterly_1930-07_3_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Utah Historical Quarterly (1929-1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/utah-historical-quarterly_1930-07_3_3?q=ARCHAMBEAU",
+      "texte": "Lire Utah Historical Quarterly (1929-1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "UQ-sarpy-john-b-fort-laram",
+    "nom": "Fort Laramie : John B. Sarpy",
+    "corpus": "archive.org · Utah Historical Quarterly (1929-1930)",
+    "theme": "poste",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Sarpy"
+    ],
+    "description": "Fort Laramie, vers 1836. John B. Sarpy donne son nom au poste de traite rebaptisé fort John. D'après Utah Historical Quarterly (1929-1930).",
+    "sources": "Utah Historical Quarterly, vol. 2 et 3, 1929-1930, vol. 3, n° 3, p. 95 ; texte intégral : archive.org, utah-historical-quarterly_1930-07_3_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Utah Historical Quarterly (1929-1930)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/utah-historical-quarterly_1930-07_3_3?q=SARPY",
+      "texte": "Lire Utah Historical Quarterly (1929-1930) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.66,
+     40.23
+    ]
+   },
+   "properties": {
+    "id": "UW-provost-provo-rivi",
+    "nom": "Rivière Provo (Utah) : Provost",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Provost"
+    ],
+    "description": "Rivière Provo (Utah), vers 1820. Provost est un trappeur qui aurait fréquenté la région et dont la rivière Provo tiendrait son nom. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 293 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=PROVOST",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.08,
+     42.98
+    ]
+   },
+   "properties": {
+    "id": "UW-bonneville-captain-fort-bonne",
+    "nom": "Fort Bonneville (Green River) : Captain Bonneville",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1833.999,
+    "date_edtf": "1832/1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Captain Bonneville"
+    ],
+    "description": "Fort Bonneville (Green River), 1832-1833. Captain Bonneville est un Français de naissance, officier de l'armée américaine en congé, dont les chariots franchissent les Rocheuses. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 294 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=BONNEVILLE",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.39,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "UW-vasquez-fort-bridg",
+    "nom": "Fort Bridger : Vasquez",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Vasquez"
+    ],
+    "description": "Fort Bridger, 1846. Vasquez aurait gardé les lettres qui auraient pu détourner le groupe Donner du raccourci Hastings. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 296, 318 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=VASQUEZ",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.39,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "UW-vasquez-fort-bridg-2",
+    "nom": "Fort Bridger : Vasquez",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "poste",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Vasquez"
+    ],
+    "description": "Fort Bridger, 1847. Vasquez est encore copropriétaire du fort avec Bridger à l'arrivée des pionniers. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 296, 318 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=VASQUEZ",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "UW-laramie-laramie-ri",
+    "nom": "Rivière Laramie : Laramie",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "evenement",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Laramie"
+    ],
+    "description": "Rivière Laramie, vers 1830. Laramie est un trappeur français tué par les Arapahos, dont la rivière et le fort prennent le nom. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 312 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=LARAMIE",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.6,
+     40.95
+    ]
+   },
+   "properties": {
+    "id": "UW-beaumont-charles-platte-pis",
+    "nom": "Rive nord de la Platte, piste des pionniers mormons (Nebraska) : Charles Beaumont",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaumont"
+    ],
+    "description": "Rive nord de la Platte, piste des pionniers mormons (Nebraska), 1847. Charles Beaumont est un traiteur français qui traverse la Platte avec des fourrures et emporte les lettres des pionniers vers l'est. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 309 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=BEAUMONT",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.35,
+     41.7
+    ]
+   },
+   "properties": {
+    "id": "UW-papan-chimney-ro",
+    "nom": "Chimney Rock (Nebraska) : Papan",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Papan"
+    ],
+    "description": "Chimney Rock (Nebraska), 1847. Papan est un agent de l'American Fur Company dont une lettre en français recommande des Sioux aux pionniers. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 311 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=PAPAN",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "UW-bordeaux-james-fort-laram",
+    "nom": "Fort Laramie : James Bordeaux",
+    "corpus": "archive.org · Whitney, History of Utah, vol. 1 (1892)",
+    "theme": "poste",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux"
+    ],
+    "description": "Fort Laramie, 1847. James Bordeaux est un Français qui loue son bac aux pionniers pour quinze dollars et dit avoir été mis en garde par le gouverneur Boggs. D'après Whitney, History of Utah, vol. 1 (1892).",
+    "sources": "O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892, p. 312 ; texte intégral : archive.org, historyofutahcom01whit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Whitney, History of Utah, vol. 1 (1892)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofutahcom01whit?q=BORDEAUX",
+      "texte": "Lire Whitney, History of Utah, vol. 1 (1892) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "UT-trobriand-gen-regis-de-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Gen. Régis de Trobriand",
+    "corpus": "archive.org · Tullidge, History of Salt Lake City (1886)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gen. Régis de Trobriand"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1871. Gen. Régis de Trobriand est un général né en France qui fait sortir ses troupes lors des fêtes rivales du 4 juillet. D'après Tullidge, History of Salt Lake City (1886).",
+    "sources": "E. W. Tullidge, History of Salt Lake City, Salt Lake City, Star Printing Company, 1886, p. 499 ; texte intégral : archive.org, historyofsaltlak00tull.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Tullidge, History of Salt Lake City (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsaltlak00tull?q=TROBRIAND",
+      "texte": "Lire Tullidge, History of Salt Lake City (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
