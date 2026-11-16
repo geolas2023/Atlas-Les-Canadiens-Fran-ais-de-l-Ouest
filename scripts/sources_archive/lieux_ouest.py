@@ -1285,6 +1285,9 @@ G.update({
     'Chaouachas': (-89.93, 29.83, 'h', "Chaouachas (Louisiane)"),
     'Île Sainte-Rose': (-87.0, 30.33, 'h', "Île Sainte-Rose (Pensacola)"),
     'Rivière aux Perles': (-89.6, 30.2, 'h', "Rivière aux Perles (Louisiane)"),
+    'Avoyelles': (-92.05, 31.12, 'h', "Avoyelles (Louisiane)"),
+    'Île Timbalier': (-90.43, 29.07, 'h', "Île Timbalier (Louisiane)"),
+    'Fort Jackson (Louisiane)': (-89.46, 29.36, 'h', "Fort Jackson (Louisiane)"),
 })
 
 
