@@ -1331,6 +1331,13 @@ G.update({
     'Portage de Chatakoin': (-79.4, 42.25, 'h', 'portage de Chatakoin (lac Chautauqua, New York)'),
     'Villages panis (Platte)': (-97.6, 41.4, 'h', 'villages panis (rivière Platte, Nebraska)'),
     'Mille Lacs (Izatys)': (-93.65, 46.25, 'h', "lac Mille Lacs, village nadouessioux d'Izatys (Minnesota)"),
+    'Onnontagué (Onondaga)': (-76.0, 42.95, 'h', 'Onnontagué, village onontagué (Onondaga, New York)'),
+    'Sonnontouan (Seneca)': (-77.5, 42.95, 'h', 'Sonnontouan, villages tsonnontouans (Seneca, New York)'),
+    'Agnié (Mohawk)': (-74.4, 42.95, 'h', 'pays des Agniers (vallée de la Mohawk, New York)'),
+    'Sainte-Marie-des-Hurons': (-79.87, 44.73, 'h', 'Huronie, mission Sainte-Marie (Midland, Ontario)'),
+    'Kenté (baie de Quinte)': (-77.2, 44.1, 'h', 'mission de Kenté (baie de Quinte, Ontario)'),
+    'Lac Érié (rive nord)': (-80.5, 42.6, 'h', 'rive nord du lac Érié (Ontario)'),
+    'Village de la Kaskaskia (Illinois)': (-88.98, 41.33, 'h', 'grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica)'),
 })
 
 

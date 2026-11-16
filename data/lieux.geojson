@@ -528050,6 +528050,2386 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -79.87,
+     44.73
+    ]
+   },
+   "properties": {
+    "id": "RA-champlain-samuel-de-sainte-mar",
+    "nom": "Huronie, mission Sainte-Marie (Midland, Ontario) : Samuel de Champlain",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1615.0,
+    "fin": 1615.0,
+    "date_edtf": "1615",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Samuel de Champlain"
+    ],
+    "description": "Huronie, mission Sainte-Marie (Midland, Ontario), 1615. Samuel de Champlain voyage avec les Récollets au pays des Hurons. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 1 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=CHAMPLAIN",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87,
+     44.73
+    ]
+   },
+   "properties": {
+    "id": "RA-recollets-de-la-huronie-en-1-sainte-mar",
+    "nom": "Huronie, mission Sainte-Marie (Midland, Ontario) : Les Récollets de la Huronie En 1615",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1615.0,
+    "fin": 1615.0,
+    "date_edtf": "1615",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Les Récollets de la Huronie En 1615"
+    ],
+    "description": "Huronie, mission Sainte-Marie (Midland, Ontario), 1615. Les Récollets de la Huronie En 1615 sont les pères Joseph Le Caron et Jean d'Olbeau, qui disent la première messe chez les Hurons. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, mémoire de 1659 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=RÉCOLLETS+DE+LA+HURONIE+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87,
+     44.73
+    ]
+   },
+   "properties": {
+    "id": "RA-biays-nicolas-sainte-mar",
+    "nom": "Huronie, mission Sainte-Marie (Midland, Ontario) : Nicolas Biays",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1625.0,
+    "fin": 1625.0,
+    "date_edtf": "1625",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas Biays"
+    ],
+    "description": "Huronie, mission Sainte-Marie (Midland, Ontario), 1625. Nicolas Biays est récollet, noyé par des Hurons. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 2-3 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=BIAYS",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-jogues-isaac-sault-sain",
+    "nom": "Sault-Sainte-Marie : Isaac Jogues",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1641.0,
+    "fin": 1641.0,
+    "date_edtf": "1641",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isaac Jogues"
+    ],
+    "description": "Sault-Sainte-Marie, 1641. Isaac Jogues voyage avec Raymbault chez les peuples du Sault. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : pays des Agniers (vallée de la Mohawk, New York).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 37, 45-46 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=JOGUES",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.4,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-jogues-isaac-agnie-moha",
+    "nom": "Pays des Agniers (vallée de la Mohawk, New York) : Isaac Jogues",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1646.0,
+    "fin": 1646.0,
+    "date_edtf": "1646",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Isaac Jogues"
+    ],
+    "description": "Pays des Agniers (vallée de la Mohawk, New York), 1646. Isaac Jogues va en mission chez les Agniers avec Bourdon et y est tué l'année suivante. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sault-Sainte-Marie.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 37, 45-46 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=JOGUES",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-raymbault-charles-sault-sain",
+    "nom": "Sault-Sainte-Marie : Charles Raymbault",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1641.0,
+    "fin": 1641.0,
+    "date_edtf": "1641",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Raymbault"
+    ],
+    "description": "Sault-Sainte-Marie, 1641. Charles Raymbault voyage chez les peuples du Sault. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 45-46 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=RAYMBAULT",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "RA-pijart-claude-lake-nipis",
+    "nom": "Lac Nipissing : Claude Pijart",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1641.0,
+    "fin": 1641.0,
+    "date_edtf": "1641",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Claude Pijart"
+    ],
+    "description": "Lac Nipissing, 1641. Claude Pijart instruit les Nipissiriniens. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 45 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=PIJART",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "RA-nicollet-jean-green-bay",
+    "nom": "La Baie (Green Bay) : Jean Nicollet",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1634.0,
+    "fin": 1634.0,
+    "date_edtf": "1634",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Nicollet"
+    ],
+    "description": "La Baie (Green Bay), 1634. Jean Nicollet négocie la paix avec les Gens de mer à la baie des Puants. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 48-50 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=NICOLLET",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.0,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-lemoyne-simon-onnontague",
+    "nom": "Onnontagué, village onontagué (Onondaga, New York) : Simon Lemoyne",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1654.0,
+    "fin": 1661.999,
+    "date_edtf": "1654/1661",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Simon Lemoyne"
+    ],
+    "description": "Onnontagué, village onontagué (Onondaga, New York), 1654-1661. Simon Lemoyne est envoyé chez les Iroquois et hiverne chez eux. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 38-39 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LEMOYNE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.0,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-chaumonot-et-dablon-peres-onnontague",
+    "nom": "Onnontagué, village onontagué (Onondaga, New York) : Pères Chaumonot Et Dablon",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1655.0,
+    "fin": 1655.0,
+    "date_edtf": "1655",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pères Chaumonot Et Dablon"
+    ],
+    "description": "Onnontagué, village onontagué (Onondaga, New York), 1655. Pères Chaumonot Et Dablon vont en mission chez les Onontagués. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 39 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=CHAUMONOT+ET+DABLON",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.0,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-dupuys-onnontague",
+    "nom": "Onnontagué, village onontagué (Onondaga, New York) : Dupuys",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1656.0,
+    "fin": 1656.0,
+    "date_edtf": "1656",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dupuys"
+    ],
+    "description": "Onnontagué, village onontagué (Onondaga, New York), 1656. Dupuys établit un fort au lac Gannentaa avec des jésuites. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 39-40 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DUPUYS",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-des-groseillers-sault-sain",
+    "nom": "Sault-Sainte-Marie : Des Groseillers",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1659.0,
+    "fin": 1659.0,
+    "date_edtf": "1659",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Des Groseillers"
+    ],
+    "description": "Sault-Sainte-Marie, 1659. Des Groseillers hiverne chez la nation du Bœuf au lac Supérieur. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 53-54 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DES+GROSEILLERS",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.9,
+     46.65
+    ]
+   },
+   "properties": {
+    "id": "RA-allouez-claude-chequamego",
+    "nom": "Baie de Chagouamigon (Chequamegon) : Claude Allouez",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1665.0,
+    "fin": 1689.999,
+    "date_edtf": "1665/1689",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Claude Allouez"
+    ],
+    "description": "Baie de Chagouamigon (Chequamegon), 1665-1689. Claude Allouez est missionnaire auprès de vingt-trois nations outaouaises. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 59-65 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=ALLOUEZ",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.4,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-tracy-et-courcelles-agnie-moha",
+    "nom": "Pays des Agniers (vallée de la Mohawk, New York) : Tracy Et Courcelles",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1666.0,
+    "fin": 1666.0,
+    "date_edtf": "1666",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Tracy Et Courcelles"
+    ],
+    "description": "Pays des Agniers (vallée de la Mohawk, New York), 1666. Tracy Et Courcelles attaquent les bourgades agniers. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 40-41, 177 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=TRACY+ET+COURCELLES",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-missionnaires-de-l-iroquoisi-sonnontoua",
+    "nom": "Sonnontouan, villages tsonnontouans (Seneca, New York) : Les Missionnaires de L'iroquoisie En 1667-1668",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1668.0,
+    "fin": 1668.0,
+    "date_edtf": "1668",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Les Missionnaires de L'iroquoisie En 1667-1668"
+    ],
+    "description": "Sonnontouan, villages tsonnontouans (Seneca, New York), 1668. Les Missionnaires de L'iroquoisie En 1667-1668 sont les pères Frémin, Pierson, Bruyas, Garnier, de Carheil et de Lamberville. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 41, 239-243 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MISSIONNAIRES+DE+L+IROQUOISIE+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.5,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "RA-dollier-de-casson-francois-lac-erie-r",
+    "nom": "Rive nord du lac Érié (Ontario) : François Dollier de Casson",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1669.0,
+    "fin": 1670.999,
+    "date_edtf": "1669/1670",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Dollier de Casson"
+    ],
+    "description": "Rive nord du lac Érié (Ontario), 1669-1670. François Dollier de Casson hiverne au bord du lac Érié et prend possession du lac. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 88, 113-150 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DOLLIER+DE+CASSON",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-galinee-rene-de-sonnontoua",
+    "nom": "Sonnontouan, villages tsonnontouans (Seneca, New York) : René de Galinée",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1669.0,
+    "fin": 1669.0,
+    "date_edtf": "1669",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "René de Galinée"
+    ],
+    "description": "Sonnontouan, villages tsonnontouans (Seneca, New York), 1669. René de Galinée arrive à Karontagouat près de Sonnontouan et prend hauteur. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 88, 126, 377 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=GALINÉE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5,
+     42.95
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-robert-cavelier-de-sonnontoua",
+    "nom": "Sonnontouan, villages tsonnontouans (Seneca, New York) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1669.0,
+    "fin": 1669.0,
+    "date_edtf": "1669",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Sonnontouan, villages tsonnontouans (Seneca, New York), 1669. Robert Cavelier de la Salle séjourne à Sonnontouan puis part vers l'Ohio. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : fort Frontenac (Cataracoui), Michillimakinac, Fort Crèvecoeur (Peoria, Illinois), pays des Miamis (rivière Saint-Joseph), embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. II, 93-145, 275-292, 443-536, 569-570 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-robert-cavelier-de-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1675.0,
+    "fin": 1677.999,
+    "date_edtf": "1675/1677",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1675-1677. Robert Cavelier de la Salle obtient la concession du fort Frontenac et le rebâtit en pierre. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sonnontouan, villages tsonnontouans (Seneca, New York), Michillimakinac, Fort Crèvecoeur (Peoria, Illinois), pays des Miamis (rivière Saint-Joseph), embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. II, 93-145, 275-292, 443-536, 569-570 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-robert-cavelier-de-michilimac",
+    "nom": "Michillimakinac : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Michillimakinac, 1679. Robert Cavelier de la Salle mouille au Griffon et fait arrêter des déserteurs. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sonnontouan, villages tsonnontouans (Seneca, New York), fort Frontenac (Cataracoui), Fort Crèvecoeur (Peoria, Illinois), pays des Miamis (rivière Saint-Joseph), embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. II, 93-145, 275-292, 443-536, 569-570 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-robert-cavelier-de-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Robert Cavelier de la Salle bâtit le fort Crèvecœur. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sonnontouan, villages tsonnontouans (Seneca, New York), fort Frontenac (Cataracoui), Michillimakinac, pays des Miamis (rivière Saint-Joseph), embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. II, 93-145, 275-292, 443-536, 569-570 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     41.68
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-robert-cavelier-de-pays-des-m",
+    "nom": "Pays des Miamis (rivière Saint-Joseph) : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1681.0,
+    "fin": 1681.0,
+    "date_edtf": "1681",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Pays des Miamis (rivière Saint-Joseph), 1681. Robert Cavelier de la Salle s'allie aux Miamis. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sonnontouan, villages tsonnontouans (Seneca, New York), fort Frontenac (Cataracoui), Michillimakinac, Fort Crèvecoeur (Peoria, Illinois), embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. II, 93-145, 275-292, 443-536, 569-570 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-robert-cavelier-de-mississipp",
+    "nom": "Embouchure du Mississippi : Robert Cavelier de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robert Cavelier de la Salle"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Robert Cavelier de la Salle prend possession de la Louisiane le 9 avril. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sonnontouan, villages tsonnontouans (Seneca, New York), fort Frontenac (Cataracoui), Michillimakinac, Fort Crèvecoeur (Peoria, Illinois), pays des Miamis (rivière Saint-Joseph).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. II, 93-145, 275-292, 443-536, 569-570 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.5,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "RA-jolliet-louis-lac-erie-r",
+    "nom": "Rive nord du lac Érié (Ontario) : Louis Jolliet",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1669.0,
+    "fin": 1669.0,
+    "date_edtf": "1669",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Jolliet"
+    ],
+    "description": "Rive nord du lac Érié (Ontario), 1669. Louis Jolliet arrive à Tinaouataoua à la recherche d'une mine de cuivre. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : poste des Arkansas.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 81, 143, 255-270, 439 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=JOLLIET",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.35,
+     33.99
+    ]
+   },
+   "properties": {
+    "id": "RA-jolliet-louis-arkansas-p",
+    "nom": "Poste des Arkansas : Louis Jolliet",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1673.0,
+    "fin": 1673.0,
+    "date_edtf": "1673",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Jolliet"
+    ],
+    "description": "Poste des Arkansas, 1673. Louis Jolliet descend le Mississippi jusque vers le 33e degré. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : rive nord du lac Érié (Ontario).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 81, 143, 255-270, 439 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=JOLLIET",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RA-marquette-jacques-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Jacques Marquette",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1673.0,
+    "fin": 1673.0,
+    "date_edtf": "1673",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Marquette"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1673. Jacques Marquette accompagne Jolliet et prévoit la mission des Illinois. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 163, 262-268 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MARQUETTE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "RA-trouve-kente-baie",
+    "nom": "Mission de Kenté (baie de Quinte, Ontario) : Trouvé",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1669.0,
+    "fin": 1669.0,
+    "date_edtf": "1669",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Trouvé"
+    ],
+    "description": "Mission de Kenté (baie de Quinte, Ontario), 1669. Trouvé annonce l'Évangile. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 139, 145-146 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=TROUVÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "RA-fenelon-abbe-de-kente-baie",
+    "nom": "Mission de Kenté (baie de Quinte, Ontario) : Abbé de Fénelon",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "religion",
+    "debut": 1669.0,
+    "fin": 1673.999,
+    "date_edtf": "1669/1673",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Abbé de Fénelon"
+    ],
+    "description": "Mission de Kenté (baie de Quinte, Ontario), 1669-1673. Abbé de Fénelon mène la mission de Kenté et invite les Iroquois à Katarakoui. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 80, 145, 208 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=FÉNELON",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-saint-lusson-daumont-de-sault-sain",
+    "nom": "Sault-Sainte-Marie : Daumont de Saint-Lusson",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1671.0,
+    "fin": 1671.0,
+    "date_edtf": "1671",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Daumont de Saint-Lusson"
+    ],
+    "description": "Sault-Sainte-Marie, 1671. Daumont de Saint-Lusson prend possession des lacs Huron et Supérieur au nom du roi. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 96-98 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=SAINT+LUSSON",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-perrot-nicolas-sault-sain",
+    "nom": "Sault-Sainte-Marie : Nicolas Perrot",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1671.0,
+    "fin": 1671.0,
+    "date_edtf": "1671",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "Sault-Sainte-Marie, 1671. Nicolas Perrot est interprète à la prise de possession. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 97-98 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=PERROT",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-temoins-de-la-prise-de-posse-sault-sain",
+    "nom": "Sault-Sainte-Marie : Les Témoins de la Prise de Possession du Sault",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1671.0,
+    "fin": 1671.0,
+    "date_edtf": "1671",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Témoins de la Prise de Possession du Sault"
+    ],
+    "description": "Sault-Sainte-Marie, 1671. Les Témoins de la Prise de Possession du Sault sont les pères Claude d'Ablon, Gabriel Dreuillettes et André. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 98 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=TÉMOINS+DE+LA+PRISE+DE+POSSESSION+DU+SAULT",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-courcelles-remy-de-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Remy de Courcelles",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1670.0,
+    "fin": 1670.0,
+    "date_edtf": "1670",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Remy de Courcelles"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1670. Remy de Courcelles mène une expédition en bateau au lac Ontario avec l'aumônier Dollier et le sergent Champagne. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 171-187 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=COURCELLES",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-frontenac-comte-de-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Comte de Frontenac",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1673.0,
+    "fin": 1673.0,
+    "date_edtf": "1673",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Comte de Frontenac"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1673. Comte de Frontenac fait bâtir le fort Katarakoui et reçoit les Cinq Nations. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 195-238, 293-297 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=FRONTENAC",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-frontenac-comte-de-fort-front-2",
+    "nom": "Fort Frontenac (Cataracoui) : Comte de Frontenac",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1677.0,
+    "fin": 1677.0,
+    "date_edtf": "1677",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Comte de Frontenac"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1677. Comte de Frontenac passe la revue de la garnison. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 195-238, 293-297 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=FRONTENAC",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-fondation-du-fort-frontenac--fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : La Fondation du Fort Frontenac En 1673",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1673.0,
+    "fin": 1673.0,
+    "date_edtf": "1673",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Fondation du Fort Frontenac En 1673"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1673. La Fondation du Fort Frontenac En 1673 réunit l'abbé d'Urfé, l'interprète Le Moyne, Randin, qui trace le plan, et les officiers Chambly, La Valterie et Morel. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 201-215 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=FONDATION+DU+FORT+FRONTENAC+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-garnison-du-fort-frontenac-e-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : La Garnison du Fort Frontenac En 1677",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1677.0,
+    "fin": 1677.0,
+    "date_edtf": "1677",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Garnison du Fort Frontenac En 1677"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1677. La Garnison du Fort Frontenac En 1677 compte le major La Forest, le sergent La Fleur, le pilote Fontaine et le récollet Louis. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 296, 335 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=GARNISON+DU+FORT+FRONTENAC+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-lebert-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Lebert",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1676.0,
+    "fin": 1676.0,
+    "date_edtf": "1676",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lebert"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1676. Lebert fournit des vivres aux hommes montés à Catarakouy. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 294, 322 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LEBERT",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-cavelier-jean-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Jean Cavelier",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1678.0,
+    "fin": 1678.0,
+    "date_edtf": "1678",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Cavelier"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1678. Jean Cavelier séjourne au fort auprès de sa famille. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 381-382 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=CAVELIER",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-deslauriers-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Deslauriers",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1678.0,
+    "fin": 1678.0,
+    "date_edtf": "1678",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Deslauriers"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1678. Deslauriers déserte avec des soldats en emportant canots et pain. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 395-396 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DESLAURIERS",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "RA-la-motte-sieur-de-fort-niaga",
+    "nom": "Fort Niagara : Sieur de la Motte",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sieur de la Motte"
+    ],
+    "description": "Fort Niagara, 1679. Sieur de la Motte dirige la construction d'une barque et d'un fort avec Hennepin. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 440-443, 576 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+MOTTE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.35,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "RA-tonty-henri-de-sault-sain",
+    "nom": "Sault-Sainte-Marie : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Sault-Sainte-Marie, 1679. Henri de Tonty arrête les déserteurs Hunaut et La Rousselière. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Fort Crèvecoeur (Peoria, Illinois), fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 392, 449-461, 503-511, 586-587, 614 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "RA-tonty-henri-de-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Henri de Tonty commande le fort et négocie avec les Iroquois après la bataille. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sault-Sainte-Marie, fort Saint-Louis des Illinois (Starved Rock).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 392, 449-461, 503-511, 586-587, 614 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RA-tonty-henri-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Henri de Tonty",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri de Tonty"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1684. Henri de Tonty doit quitter le fort sur l'ordre de La Barre. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Sault-Sainte-Marie, Fort Crèvecoeur (Peoria, Illinois).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 392, 449-461, 503-511, 586-587, 614 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=TONTY",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RA-deserteurs-de-michilimackina-michilimac",
+    "nom": "Michillimakinac : Les Déserteurs de Michilimackinac En 1679",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Déserteurs de Michilimackinac En 1679"
+    ],
+    "description": "Michillimakinac, 1679. Les Déserteurs de Michilimackinac En 1679 sont Sainte-Croix, Minime, Le Barbier, Poupart, Hunaut et Roussel dit La Rousselière, partis avec quatre mille livres de marchandises. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 449 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DÉSERTEURS+DE+MICHILIMACKINAC+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RA-creanciers-de-la-salle-les-michilimac",
+    "nom": "Michillimakinac : Les Créanciers de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1679.0,
+    "fin": 1682.999,
+    "date_edtf": "1679/1682",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Créanciers de la Salle"
+    ],
+    "description": "Michillimakinac, 1679-1682. Les Créanciers de la Salle sont Desaintes, Cauchois et Mlle d'Alonne, porteurs de billets. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 428-430 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=CRÉANCIERS+DE+LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RA-gabriel-de-la-ribourde-pere-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Père Gabriel de la Ribourde",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "religion",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Père Gabriel de la Ribourde"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1680. Père Gabriel de la Ribourde est récollet, tué par les Kikapous au bord de la rivière. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XXV, 455, 511-512, 588 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=GABRIEL+DE+LA+RIBOURDE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RA-hennepin-louis-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Louis Hennepin",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Hennepin"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1680. Louis Hennepin arrive avec La Salle chez les Illinois. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : lac Mille Lacs, village nadouessioux d'Izatys (Minnesota).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 466, 478-481, 530, 583 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=HENNEPIN",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "RA-hennepin-louis-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Louis Hennepin",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Hennepin"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Louis Hennepin est pris par les Nadouessioux avec Michel Accault et Picard. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XVI, 466, 478-481, 530, 583 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=HENNEPIN",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "RA-du-luth-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Du Luth",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Du Luth"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Du Luth se rend chez les Nadouessioux avec le déserteur Affart. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 483 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DU+LUTH",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RA-membre-zenobe-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Zénobe Membré",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Zénobe Membré"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1680. Zénobe Membré reste avec Tonty et le secourt après la bataille. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XIX, 503, 510, 548, 590-593 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MEMBRÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RA-membre-zenobe-mississipp",
+    "nom": "Embouchure du Mississippi : Zénobe Membré",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Zénobe Membré"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Zénobe Membré accompagne La Salle. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. XIX, 503, 510, 548, 590-593 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MEMBRÉ",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.98,
+     41.33
+    ]
+   },
+   "properties": {
+    "id": "RA-boisrondet-sieur-de-village-de",
+    "nom": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica) : Sieur de Boisrondet",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sieur de Boisrondet"
+    ],
+    "description": "Grand village des Illinois (Kaskaskia de la rivière des Illinois, Utica), 1680. Sieur de Boisrondet combat avec les Illinois contre les Iroquois. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 509-510, 587, 590-592 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=BOISRONDET",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "RA-autray-sieur-d-fort-niaga",
+    "nom": "Fort Niagara : Sieur d' Autray",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sieur d' Autray"
+    ],
+    "description": "Fort Niagara, 1680. Sieur d' Autray apporte canots et vivres. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : embouchure du Mississippi.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 503, 519, 526, 604-606 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=AUTRAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "RA-autray-sieur-d-mississipp",
+    "nom": "Embouchure du Mississippi : Sieur d' Autray",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sieur d' Autray"
+    ],
+    "description": "Embouchure du Mississippi, 1682. Sieur d' Autray est reçu à coups de flèches à Tangibaho avec Brossard et Hénault. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : fort Niagara.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 503, 519, 526, 604-606 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=AUTRAY",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "RA-la-forest-sieur-de-michilimac",
+    "nom": "Michillimakinac : Sieur de la Forest",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1681.0,
+    "fin": 1681.0,
+    "date_edtf": "1681",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sieur de la Forest"
+    ],
+    "description": "Michillimakinac, 1681. Sieur de la Forest se trouve à Missilimakinak. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : fort Frontenac (Cataracoui).",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 503, 514, 531, 543 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+FOREST",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-la-forest-sieur-de-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Sieur de la Forest",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1681.0,
+    "fin": 1681.0,
+    "date_edtf": "1681",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sieur de la Forest"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1681. Sieur de la Forest s'arrête au fort contre les ordres de La Salle. D'après Margry, Découvertes et établissements, t. I. Autres lieux de l'entrée : Michillimakinac.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 503, 514, 531, 543 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+FOREST",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.48,
+     44.23
+    ]
+   },
+   "properties": {
+    "id": "RA-messier-jacques-fort-front",
+    "nom": "Fort Frontenac (Cataracoui) : Jacques Messier",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Messier"
+    ],
+    "description": "Fort Frontenac (Cataracoui), 1680. Jacques Messier porte le rapport de Tonty sur la désertion avec Nicolas Laurent. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 497 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MESSIER",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.38,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "RA-deserteurs-du-lac-toronto-en-toronto",
+    "nom": "Toronto (York) : Les Déserteurs du Lac Toronto En 1681",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1681.0,
+    "fin": 1681.0,
+    "date_edtf": "1681",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Les Déserteurs du Lac Toronto En 1681"
+    ],
+    "description": "Toronto (York), 1681. Les Déserteurs du Lac Toronto En 1681 sont Gabriel Minime, arrêté, et Grandmaison, enfui avec des pelleteries. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 501 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DÉSERTEURS+DU+LAC+TORONTO+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.25,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": "RA-la-salle-nicolas-de-village-de",
+    "nom": "Village des Taensas (Louisiane) : Nicolas de la Salle",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas de la Salle"
+    ],
+    "description": "Village des Taensas (Louisiane), 1682. Nicolas de la Salle observe les Natchez, les Coroas et les Tinsas. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 558-559 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+SALLE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     35.15
+    ]
+   },
+   "properties": {
+    "id": "RA-prud-homme-pierre-fort-de-l-",
+    "nom": "Fort de l'Assomption, écores à Prud'homme (Memphis, 1739) : Pierre Prud'homme",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Prud'homme"
+    ],
+    "description": "Fort de l'Assomption, écores à Prud'homme (Memphis, 1739), 1682. Pierre Prud'homme est armurier, se perd à la chasse ; le fort porte son nom. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 552, 597-599 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=PRUD+HOMME",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "RA-barbier-gabriel-villages-c",
+    "nom": "Villages chicachas (Tupelo, Mississippi) : Gabriel Barbier",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "evenement",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Barbier"
+    ],
+    "description": "Villages chicachas (Tupelo, Mississippi), 1682. Gabriel Barbier capture deux Chicachas pour retrouver Prud'homme et est blessé au pied. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 560, 598 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=BARBIER",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.12,
+     33.98
+    ]
+   },
+   "properties": {
+    "id": "RA-du-lignon-jean-kappa-arka",
+    "nom": "Village kappa (quapaw) de l'Arkansas : Jean du Lignon",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean du Lignon"
+    ],
+    "description": "Village kappa (quapaw) de l'Arkansas, 1682. Jean du Lignon négocie au village des Akansa. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 599 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DU+LIGNON",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.18,
+     30.22
+    ]
+   },
+   "properties": {
+    "id": "RA-combat-des-quinipissas-en-16-village-de",
+    "nom": "Village des Bayagoulas (Louisiane) : Le Combat des Quinipissas En 1682",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1682.0,
+    "fin": 1682.0,
+    "date_edtf": "1682",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Combat des Quinipissas En 1682"
+    ],
+    "description": "Village des Bayagoulas (Louisiane), 1682. Le Combat des Quinipissas En 1682 met aux prises la sentinelle Colin Crevel, Pignabel et Louis Baron ; André Hénault est otage. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 607-608 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=COMBAT+DES+QUINIPISSAS+EN+",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.05,
+     35.15
+    ]
+   },
+   "properties": {
+    "id": "RA-michel-jean-fort-de-l-",
+    "nom": "Fort de l'Assomption, écores à Prud'homme (Memphis, 1739) : Jean Michel",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Michel"
+    ],
+    "description": "Fort de l'Assomption, écores à Prud'homme (Memphis, 1739), 1683. Jean Michel est chirurgien et saigne La Salle malade. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 611 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MICHEL",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "RA-masse-jean-cahokia",
+    "nom": "Cahokia : Jean Masse",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Masse"
+    ],
+    "description": "Cahokia, 1683. Jean Masse accompagne Tonty chez les Tamaroas. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 612 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=MASSE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RA-duplessis-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Duplessis",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Duplessis"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1680. Duplessis tente de tuer La Salle au portage. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 581 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=DUPLESSIS",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.59,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "RA-leblanc-noel-fort-creve",
+    "nom": "Fort Crèvecoeur (Peoria, Illinois) : Noël Leblanc",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Noël Leblanc"
+    ],
+    "description": "Fort Crèvecoeur (Peoria, Illinois), 1680. Noël Leblanc débauche les hommes laissés au fort. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 584 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LEBLANC",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "RA-renault-green-bay",
+    "nom": "La Baie (Green Bay) : Renault",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "personnage",
+    "debut": 1679.0,
+    "fin": 1679.0,
+    "date_edtf": "1679",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Renault"
+    ],
+    "description": "La Baie (Green Bay), 1679. Renault est canoteur et reste sur place. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 590 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=RENAULT",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RA-baugy-chevalier-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Chevalier de Baugy",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chevalier de Baugy"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1683. Chevalier de Baugy porte à La Salle une lettre de La Barre. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 614 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=BAUGY",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "RA-la-durantaye-sieur-de-fort-saint",
+    "nom": "Fort Saint-Louis des Illinois (Starved Rock) : Sieur de la Durantaye",
+    "corpus": "archive.org · Margry, Découvertes et établissements, t. I",
+    "theme": "poste",
+    "debut": 1684.0,
+    "fin": 1684.0,
+    "date_edtf": "1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Sieur de la Durantaye"
+    ],
+    "description": "Fort Saint-Louis des Illinois (Starved Rock), 1684. Sieur de la Durantaye signifie à Tonty les ordres de La Barre. D'après Margry, Découvertes et établissements, t. I.",
+    "sources": "Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. I : Voyages des Français sur les grands lacs et découverte de l'Ohio et du Mississippi (1614-1684), Paris, Margry I, p. 614 ; texte intégral : archive.org, dcouverteett01marg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Margry, Découvertes et établissements, t. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/dcouverteett01marg?q=LA+DURANTAYE",
+      "texte": "Lire Margry, Découvertes et établissements, t. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.154,
      30.451
     ]
