@@ -1054,6 +1054,9 @@ G.update({
     'Orcoquisac': (-94.73, 29.81, 'h', "El Orcoquisac (San Agustín de Ahumada, bas Trinity)"),
     'Villages bidais': (-95.60, 30.75, 'h', "villages bidais (Texas)"),
     'Villages tonkawas': (-97.40, 30.60, 'h', "villages tonkawas (Tancahues, Texas)"),
+    'Lancaster (Texas)': (-96.76, 32.59, 'c', "Lancaster (comté de Dallas, Texas)"),
+    'Hallettsville': (-96.94, 29.44, 'c', "Hallettsville (Texas)"),
+    'Denison': (-96.54, 33.76, 'c', "Denison (Texas)"),
 })
 
 
