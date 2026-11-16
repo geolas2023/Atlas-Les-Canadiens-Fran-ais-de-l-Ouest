@@ -257,6 +257,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `nouveauxvoyagesa00boss_0` | 79 |
 | `cihm_36229` | 121 |
 | `cihm_36231` | 88 |
+| `historicalcollec00fren_1` | 80 |
 
 
 ## Un point par lieu et adresses précises

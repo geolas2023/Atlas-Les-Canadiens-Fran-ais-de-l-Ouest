@@ -1232,6 +1232,8 @@ G.update({
     'Fort Caroline': (-81.5, 30.39, 'h', "Fort Caroline (rivière de Mai, Floride)"),
     'Baie Saint-Joseph': (-85.35, 29.8, 'h', "Baie Saint-Joseph (Floride)"),
     'Rocher Français (Little Rock)': (-92.27, 34.75, 'h', "Rocher Français (Little Rock, Arkansas)"),
+    "Fort L'Huillier": (-94.03, 44.15, 'h', "Fort L'Huillier (rivière Bleue de Terre, Minnesota)"),
+    'Charlesfort': (-80.68, 32.32, 'h', "Charlesfort (Port Royal, Caroline du Sud)"),
 })
 
 
