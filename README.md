@@ -322,6 +322,11 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `ahistorymississ00mccagoog` | 44 |
 | `biographicalhist11good` | 83 |
 | `biographicalhist21good` | 38 |
+| `cihm_38028` | 38 |
+| `cihm_38029` | 3 |
+| `mississippiprovi01missuoft` | 20 |
+| `mississippiterri01missuoft` | 8 |
+| `reportonagricult00miss` | 42 |
 
 
 ## Un point par lieu et adresses précises

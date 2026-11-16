@@ -1541,6 +1541,7 @@ G.update({
     'East Pascagoula (Mississippi)': (-88.54, 30.36, 'c', 'East Pascagoula (Mississippi)'),
     'Magnolia (Mississippi)': (-90.46, 31.14, 'c', 'Magnolia, comté de Pike (Mississippi)'),
     'Holly Springs (Mississippi)': (-89.45, 34.77, 'c', 'Holly Springs (Mississippi)'),
+    'Fort Stoddert (Alabama)': (-87.98, 31.16, 'h', 'Fort Stoddert, près de Mount Vernon (Alabama)'),
 })
 
 
