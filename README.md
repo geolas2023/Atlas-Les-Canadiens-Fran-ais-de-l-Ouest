@@ -261,6 +261,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `creolefamiliesof00king` | 103 |
 | `histoiredecomit00bard` | 92 |
 | `louisianastudie00fortgoog` | 46 |
+| `neworleansplacep00king` | 61 |
 
 
 ## Un point par lieu et adresses précises
