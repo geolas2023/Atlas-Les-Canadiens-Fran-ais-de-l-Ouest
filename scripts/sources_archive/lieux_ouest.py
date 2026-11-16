@@ -1238,6 +1238,7 @@ G.update({
     'Queue-Tortue': (-92.2, 30.26, 'h', "Bayou Queue de Tortue (Louisiane)"),
     'Grande-Pointe (Saint-Martin)': (-91.8, 30.24, 'h', "Grande-Pointe (Grand Point, paroisse Saint-Martin)"),
     'Anse-à-la-Butte': (-91.88, 30.27, 'h', "Anse-à-la-Butte (paroisse Saint-Martin)"),
+    'Bonfouca': (-89.83, 30.27, 'h', "Bonfouca (paroisse Saint-Tammany, Louisiane)"),
 })
 
 
