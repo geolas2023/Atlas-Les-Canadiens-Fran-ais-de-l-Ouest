@@ -753,7 +753,17 @@ G.update({
     'Clark Fork (Idaho)': (-116.2, 48.15, 'h', "rivière Clark Fork (Pend Oreille, Idaho)"),
     'Boise (ville)': (-116.2, 43.615, 'c', "Boise (Idaho)"),
     'Mission Saint-Ignace (Kalispels)': (-117.3, 48.32, 'a', "mission Saint-Ignace des Kalispels (baie des Pends-d'Oreilles, Usk, Washington)"),
+    'Camas Prairie (Idaho)': (-116.3, 46.05, 'h', "prairie Camas (comté d'Idaho)"),
+    'Placerville (Idaho)': (-115.95, 43.94, 'c', "Placerville (bassin de Boise, Idaho)"),
+    'Bighorn (rivière)': (-108.0, 44.9, 'h', "rivière Bighorn"),
+    'Medicine Lodge (Bighorn)': (-107.55, 44.3, 'a', "Medicine Lodge (monts Bighorn)"),
+    'American Falls': (-112.86, 42.78, 'a', "American Falls (rivière Snake)"),
+    'Blackfoot River (Idaho)': (-112.2, 43.1, 'h', "rivière Blackfoot (Idaho)"),
+    'Imnaha (Immahah)': (-116.85, 45.55, 'h', "vallée de l'Imnaha (Immahah, Oregon)"),
+    'Powder River (Oregon)': (-117.6, 44.9, 'h', "rivière Powder (Oregon)"),
 })
+
+
 
 
 

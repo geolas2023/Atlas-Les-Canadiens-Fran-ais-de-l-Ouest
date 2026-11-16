@@ -155,6 +155,8 @@ LIVRES = [
     ('idaho_driggs_1926.txt', 'ID', {'court': 'Driggs (1926)', 'ref': "B. W. Driggs, History of Teton Valley, Idaho (1926)"}, 'driggs', lambda nom, ref: ref),
     ('idaho_hawley_1920.txt', 'IH', {'court': 'Hawley (1920)', 'ref': "James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920)"}, 'historyofidahoge01hawl', lambda nom, ref: ref),
     ('idaho_desmet_1847.txt', 'IS', {'court': 'De Smet (1847)', 'ref': "Pierre-Jean De Smet, Oregon Missions and Travels over the Rocky Mountains, in 1845-46 (1847)"}, 'OregonMissionsAndTravels', lambda nom, ref: ref),
+    ('idaho_elliott_1884.txt', 'IE', {'court': 'Elliott (1884)', 'ref': "H. N. Elliott (éd.), History of Idaho Territory (1884), San Francisco, Wallace W. Elliott & Co."}, 'historyidaho1884', lambda nom, ref: ref),
+    ('irving_bonneville_1837.txt', 'IV', {'court': 'Irving, Bonneville (1837)', 'ref': "Washington Irving, The Adventures of Captain Bonneville (1837 ; éd. Putnam, 1852)"}, 'adventuresofcap00irvi', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
