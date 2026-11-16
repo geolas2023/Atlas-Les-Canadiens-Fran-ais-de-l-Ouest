@@ -203,6 +203,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
 | `historyofnevada00ange` | 29 |
+| `historyofstateof00wren` | 16 |
 
 
 ## Un point par lieu et adresses précises
