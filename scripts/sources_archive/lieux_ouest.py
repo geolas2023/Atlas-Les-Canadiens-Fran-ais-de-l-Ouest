@@ -1034,6 +1034,15 @@ G.update({
     'Copano': (-97.12, 28.12, 'h', "baie et port de Copano (Texas)"),
     'Bastrop (Texas)': (-97.32, 30.11, 'c', "Bastrop (Texas)"),
     'Fort Saint-Louis de Carlorette': (-94.45, 33.62, 'h', "fort Saint-Louis de Carlorette (village cadodacho, comté de Red River, Texas)"),
+    'Refugio': (-97.27, 28.31, 'c', "Refugio (Texas)"),
+    'Eagle Pass': (-100.50, 28.71, 'c', "Eagle Pass (Texas)"),
+    'Frelsburg': (-96.51, 29.88, 'c', "Frelsburg (Texas)"),
+    'Brazos Santiago': (-97.17, 26.07, 'h', "Brazos Santiago (Texas)"),
+    'Matamoros': (-97.50, 25.87, 'c', "Matamoros (Tamaulipas)"),
+    'San Diego (Texas)': (-98.24, 27.76, 'c', "San Diego (comté de Duval, Texas)"),
+    'San Marcos (Texas)': (-97.94, 29.88, 'c', "San Marcos (Texas)"),
+    'Port Lavaca': (-96.63, 28.62, 'c', "Lavaca (Port Lavaca, Texas)"),
+    'Camp de la Leona': (-99.79, 29.17, 'h', "camp de la Leona (Fort Inge, Texas)"),
 })
 
 
