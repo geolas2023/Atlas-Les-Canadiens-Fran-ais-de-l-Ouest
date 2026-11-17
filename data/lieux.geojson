@@ -658576,6 +658576,1196 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "YA-st-vrain-ceran-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Ceran St Vrain",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "poste",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St Vrain"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1838. Ceran St Vrain bâtit le fort qui porte son nom au confluent de la Cache la Poudre et de la Platte, après avoir commercé vers le Nouveau-Mexique depuis 1824. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : concession Vigil et St. Vrain (Las Animas), Colorado.",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 353, 356-357, 631 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=ST+VRAIN",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.0,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "YA-st-vrain-ceran-concession",
+    "nom": "Concession Vigil et St. Vrain (Las Animas), Colorado : Ceran St Vrain",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ceran St Vrain"
+    ],
+    "description": "Concession Vigil et St. Vrain (Las Animas), Colorado, 1844. Ceran St Vrain obtient avec Cornelio Vigil la concession de Las Animas du gouverneur du Nouveau-Mexique. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : fort Saint-Vrain (South Platte).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 353, 356-357, 631 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=ST+VRAIN",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YA-st-vrain-denver-col",
+    "nom": "Denver (Colorado) : St Vrain",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1859.999,
+    "date_edtf": "1858/1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "St Vrain"
+    ],
+    "description": "Denver (Colorado), 1858-1859. St Vrain magasin St Vrain et James, rue Blake, approvisionné depuis le Nouveau-Mexique. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : Cañon City, Colorado.",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 371, 392 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=ST+VRAIN",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.24,
+     38.44
+    ]
+   },
+   "properties": {
+    "id": "YA-st-vrain-canon-city",
+    "nom": "Cañon City, Colorado : St Vrain",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "St Vrain"
+    ],
+    "description": "Cañon City, Colorado, 1860. St Vrain arpente avec Easterday le site de Cañon City. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 371, 392 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=ST+VRAIN",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82,
+     40.19
+    ]
+   },
+   "properties": {
+    "id": "YA-vasquez-louis-fort-vasqu",
+    "nom": "Fort Vasquez (Platte Sud), Colorado : Louis Vasquez",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Vasquez (Platte Sud), Colorado, 1832. Louis Vasquez poste de traite à la jonction du Vasquez Fork (Clear Creek) et de la Platte ; emploie Beckwourth. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 352, 355 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=VASQUEZ",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     40.22
+    ]
+   },
+   "properties": {
+    "id": "YA-sarpey-peter-a-fort-sarpy",
+    "nom": "Fort Sarpy (Platte Sud), Colorado : Peter A. Sarpey",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter A. Sarpey"
+    ],
+    "description": "Fort Sarpy (Platte Sud), Colorado, vers 1833. Peter A. Sarpey d'une des familles françaises de Saint-Louis ; poste sur la Platte à cinq milles en aval de celui de Vasquez, élevé peu après 1832. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 352-353, 356 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=SARPEY",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YA-maurice-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, vers 1830. Maurice « French trader » venu de Détroit, élève un poste fortifié autour duquel se forme un hameau mexicain de treize cabanes. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 353 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=MAURICE",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YA-beaubien-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Beaubien",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beaubien"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, vers 1840. Beaubien dirige l'établissement d'Adobe Creek sur une grande concession mexicaine, dispersé par les Indiens en 1846. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 356 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=BEAUBIEN",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.42,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "YA-beaubien-charles-concession",
+    "nom": "Concession Beaubien (Sangre de Cristo), San Luis, Colorado : Charles Beaubien",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Beaubien"
+    ],
+    "description": "Concession Beaubien (Sangre de Cristo), San Luis, Colorado, vers 1843. Charles Beaubien. L'un des « deux Canadiens » (avec Miranda) ; établi à Taos peu avant la guerre du Mexique, acquiert au nord de la Red River une vaste étendue en promettant d'y amener des colons. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 594 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=BEAUBIEN",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YA-murat-h-denver-col",
+    "nom": "Denver (Colorado) : H. Murat",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "H. Murat"
+    ],
+    "description": "Denver (Colorado), 1858. H. Murat « le comte », descendant du maréchal Murat, roi de Naples ; barbier, sa femme blanchisseuse ; finit à l'hôpital du comté d'Arapahoe. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 371 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=MURAT",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.22,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "YA-berthoud-e-l-golden-col",
+    "nom": "Golden, Colorado : E. L. Berthoud",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1860.999,
+    "date_edtf": "1859/1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. L. Berthoud"
+    ],
+    "description": "Golden, Colorado, 1859-1860. E. L. Berthoud membre de la compagnie de Boston qui fonde Golden ; achève le relevé du site en 1860. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : col Berthoud, Colorado.",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 381, 518, 551, 620 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=BERTHOUD",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.78,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YA-berthoud-e-l-berthoud-p",
+    "nom": "Col Berthoud, Colorado : E. L. Berthoud",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "E. L. Berthoud"
+    ],
+    "description": "Col Berthoud, Colorado, 1861. E. L. Berthoud explore pour Russell et Holladay une route de Denver vers Salt Lake par le col qui porte son nom. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : Golden, Colorado.",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 381, 518, 551, 620 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=BERTHOUD",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YA-machebeuf-joseph-p-denver-col",
+    "nom": "Denver (Colorado) : Joseph P. Machebeuf",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Denver (Colorado), 1860. Joseph P. Machebeuf arrive avec Raverdy et achève la première église catholique. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 560-562, 612-613 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=MACHEBEUF",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YA-machebeuf-joseph-p-central-ci",
+    "nom": "Central City, Colorado : Joseph P. Machebeuf",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Central City, Colorado, 1860. Joseph P. Machebeuf célèbre les offices. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 560-562, 612-613 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=MACHEBEUF",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YA-machebeuf-joseph-p-central-ci-2",
+    "nom": "Central City, Colorado : Joseph P. Machebeuf",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Central City, Colorado, 1872. Joseph P. Machebeuf évêque, pose la première pierre de l'église catholique. D'après Bancroft, Colorado (1890). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 560-562, 612-613 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=MACHEBEUF",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YA-raverdy-j-r-denver-col",
+    "nom": "Denver (Colorado) : J. R. Raverdy",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. R. Raverdy"
+    ],
+    "description": "Denver (Colorado), 1860. J. R. Raverdy prêtre, arrive avec Machebeuf. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 560-562 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=RAVERDY",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.77,
+     35.58
+    ]
+   },
+   "properties": {
+    "id": "YA-valla-pigeon-s-r",
+    "nom": "Pigeon's Ranch, cañon Apache (Glorieta), Nouveau-Mexique : Valla",
+    "corpus": "archive.org · Bancroft, Colorado (1890)",
+    "theme": "evenement",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Valla"
+    ],
+    "description": "Pigeon's Ranch, cañon Apache (Glorieta), Nouveau-Mexique, 1862. Valla « a Frenchman », propriétaire du ranch où les volontaires du Colorado combattent les Texans. D'après Bancroft, Colorado (1890).",
+    "sources": "H. H. Bancroft, History of Nevada, Colorado, and Wyoming (1890), section Colorado, p. 422 ; texte intégral : archive.org, nevcolandwyom00bancroft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, Colorado (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/nevcolandwyom00bancroft?q=VALLA",
+      "texte": "Lire Bancroft, Colorado (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0,
+     40.6
+    ]
+   },
+   "properties": {
+    "id": "YB-pateros-cache-la-p",
+    "nom": "Rivière Cache la Poudre, Colorado : Pateros",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pateros"
+    ],
+    "description": "Rivière Cache la Poudre, Colorado, 1820. Pateros « a Frenchman » de l'expédition Long, égaré vingt jours avant d'être ramené par des Kiowas ; a donné son nom au Pateros Creek. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 101 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=PATEROS",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "YB-st-vrain-ceran-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Ceran St. Vrain",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "poste",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), vers 1840. Ceran St. Vrain fonde le poste de la vallée de la Platte, relais des chasseurs et trappeurs. D'après Hall I (1889). Autres lieux de l'entrée : Taos.",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 117, 126, 158, 163, 169 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=ST+VRAIN",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "YB-st-vrain-ceran-taos",
+    "nom": "Taos : Ceran St. Vrain",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Taos, 1849. Ceran St. Vrain reçoit Frémont et porte sa lettre à sa femme. D'après Hall I (1889). Autres lieux de l'entrée : fort Saint-Vrain (South Platte).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 117, 126, 158, 163, 169 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=ST+VRAIN",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82,
+     40.19
+    ]
+   },
+   "properties": {
+    "id": "YB-vasquez-louis-fort-vasqu",
+    "nom": "Fort Vasquez (Platte Sud), Colorado : Louis Vasquez",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "poste",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Vasquez (Platte Sud), Colorado, 1832. Louis Vasquez bâtit un poste de traite face à l'embouchure du Clear Creek. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 169 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=VASQUEZ",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YB-maurice-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, vers 1830. Maurice « a French trader » venu de Détroit, établit un poste à Adobe Creek. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 166 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=MAURICE",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YB-baubien-narcisso-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Narcisso Baubien",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "evenement",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Narcisso Baubien"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, vers 1840. Narcisso Baubien fils du juge Baubien, de l'établissement d'Adobe Creek ; tué plus tard lors de l'attaque de Taos. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 166-167 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=BAUBIEN",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.61,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "YB-autobees-charles-pueblo-col",
+    "nom": "Pueblo (El Pueblo), Colorado : Charles Autobees",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "evenement",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Autobees"
+    ],
+    "description": "Pueblo (El Pueblo), Colorado, 1854. Charles Autobees « a French trapper and mountaineer », métis de Saint-Louis ; témoin du massacre de Noël au fort du Pueblo. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 144-145, 168 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=AUTOBEES",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.61,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "YB-autobees-charles-pueblo-col-2",
+    "nom": "Pueblo (El Pueblo), Colorado : Charles Autobees",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Autobees"
+    ],
+    "description": "Pueblo (El Pueblo), Colorado, vers 1858. Charles Autobees trouvé par le capitaine Marcy faisant la traite sur l'Arkansas près du Pueblo. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 144-145, 168 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=AUTOBEES",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.14,
+     40.63
+    ]
+   },
+   "properties": {
+    "id": "YB-janiss-antoine-laporte-co",
+    "nom": "Laporte, Colorado : Antoine Janiss",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Janiss"
+    ],
+    "description": "Laporte, Colorado, 1858. Antoine Janiss vieux trappeur, prospecte avec George A. Jackson sur la Cache la Poudre et fonde le poste de Laporte. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 188 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=JANISS",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.68,
+     38.16
+    ]
+   },
+   "properties": {
+    "id": "YB-leroux-antoine-cochetopa-",
+    "nom": "Col de Cochetopa, Colorado : Antoine Leroux",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Col de Cochetopa, Colorado, 1853. Antoine Leroux guide engagé à Taos pour l'expédition du capitaine Gunnison par les cols du Colorado. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 137 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=LEROUX",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.22,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "YB-berthoud-e-l-golden-col",
+    "nom": "Golden, Colorado : E. L. Berthoud",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1860.999,
+    "date_edtf": "1859/1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. L. Berthoud"
+    ],
+    "description": "Golden, Colorado, 1859-1860. E. L. Berthoud membre de la compagnie de Golden. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 223-225, 396, 410, 427 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=BERTHOUD",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.22,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "YB-berthoud-e-l-golden-col-2",
+    "nom": "Golden, Colorado : E. L. Berthoud",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. L. Berthoud"
+    ],
+    "description": "Golden, Colorado, 1868. E. L. Berthoud ingénieur en chef du Colorado Central, a relevé la route du col Berthoud. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 223-225, 396, 410, 427 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=BERTHOUD",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YB-miege-j-b-denver-col",
+    "nom": "Denver (Colorado) : J. B. Miege",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Miege"
+    ],
+    "description": "Denver (Colorado), 1860. J. B. Miege évêque de Leavenworth, célèbre en juin les premiers offices catholiques de Denver. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 405 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=MIEGE",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YB-machebeuf-j-p-denver-col",
+    "nom": "Denver (Colorado) : J. P. Machebeuf",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. P. Machebeuf"
+    ],
+    "description": "Denver (Colorado), 1860. J. P. Machebeuf arrive en octobre avec Raverdy pour prendre en charge les missions catholiques du territoire. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 405 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=MACHEBEUF",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YB-raverdy-j-b-denver-col",
+    "nom": "Denver (Colorado) : J. B. Raverdy",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Raverdy"
+    ],
+    "description": "Denver (Colorado), 1860. J. B. Raverdy arrive en octobre avec Machebeuf. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 405 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=RAVERDY",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YB-simonin-m-central-ci",
+    "nom": "Central City, Colorado : M. Simonin",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Simonin"
+    ],
+    "description": "Central City, Colorado, 1867. M. Simonin commissaire français de retour de l'Exposition de Paris avec J. P. Whitney, reçu par l'Institut des mineurs. D'après Hall I (1889).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 441 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=SIMONIN",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YB-heine-m-central-ci",
+    "nom": "Central City, Colorado : M. Heine",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Heine"
+    ],
+    "description": "Central City, Colorado, 1867. M. Heine commissaire français de l'Exposition de Paris. D'après Hall I (1889). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 441, 465 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=HEINE",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YB-heine-m-denver-col",
+    "nom": "Denver (Colorado) : M. Heine",
+    "corpus": "archive.org · Hall I (1889)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Heine"
+    ],
+    "description": "Denver (Colorado), 1868. M. Heine promet des capitaux français pour un projet d'usine à gaz et de tramway à Denver. D'après Hall I (1889). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "Frank Hall, History of the State of Colorado, vol. I (1889), p. 441, 465 ; texte intégral : archive.org, historyofstateof01hall.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hall I (1889)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstateof01hall?q=HEINE",
+      "texte": "Lire Hall I (1889) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
