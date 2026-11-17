@@ -416,6 +416,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `centenaryofcatho00webb` | 96 |
 | `SketchesOfTheLifeTimes` | 18 |
 | `centenaryoflouis00durr` | 22 |
+| `collinshistorica01coll` | 9 |
+| `collinshistorica02coll` | 5 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

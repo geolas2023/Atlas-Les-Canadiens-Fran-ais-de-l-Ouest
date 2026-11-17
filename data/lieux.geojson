@@ -672584,6 +672584,584 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -84.75,
+     38.89
+    ]
+   },
+   "properties": {
+    "id": "YT-longueil-big-bone-l",
+    "nom": "Big Bone Lick (comté de Boone), Kentucky : Longueil",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Longueil"
+    ],
+    "description": "Big Bone Lick (comté de Boone), Kentucky, 1739. Longueil descend l'Ohio depuis le Canada avec des troupes françaises et découvre Big Bone Lick. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), Annales, p. 510 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=LONGUEIL",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.27,
+     37.9
+    ]
+   },
+   "properties": {
+    "id": "YT-duchesne-boonesboro",
+    "nom": "Boonesborough, Kentucky : Duchesne",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "evenement",
+    "debut": 1778.0,
+    "fin": 1778.0,
+    "date_edtf": "1778",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Duchesne"
+    ],
+    "description": "Boonesborough, Kentucky, 1778. Duchesne conduit onze Français et quelque 400 Indiens sous Blackfish dans le siège de treize jours en septembre. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), Annales ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=DUCHESNE",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.5,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "YT-la-chaise-lexington-",
+    "nom": "Lexington (Kentucky) : La Chaise",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1794.0,
+    "fin": 1794.0,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Chaise"
+    ],
+    "description": "Lexington (Kentucky), 1794. La Chaise agent français, s'adresse le 14 mai à la société de Lexington au sujet de l'expédition contre les postes espagnols. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), Annales ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=LA+CHAISE",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YT-la-fayette-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : La Fayette",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Fayette"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1825. La Fayette visite le Kentucky : reçu à Louisville, Frankfort, Versailles, Lexington et Maysville. D'après Collins I (1874). Autres lieux de l'entrée : Frankfort, Kentucky.",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 31-32, 412 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=LA+FAYETTE",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.87,
+     38.2
+    ]
+   },
+   "properties": {
+    "id": "YT-la-fayette-frankfort-",
+    "nom": "Frankfort, Kentucky : La Fayette",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Fayette"
+    ],
+    "description": "Frankfort, Kentucky, 1825. La Fayette accueilli en mai. D'après Collins I (1874). Autres lieux de l'entrée : chutes de l'Ohio (Louisville).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 31-32, 412 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=LA+FAYETTE",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.74,
+     38.64
+    ]
+   },
+   "properties": {
+    "id": "YT-la-fayette-george-washington-maysville-",
+    "nom": "Maysville (Limestone), Kentucky : George Washington la Fayette",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Washington la Fayette"
+    ],
+    "description": "Maysville (Limestone), Kentucky, 1825. George Washington la Fayette arrive avec son père. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 32 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=LA+FAYETTE",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.467,
+     37.809
+    ]
+   },
+   "properties": {
+    "id": "YT-badin-stephen-theodore-bardstown-",
+    "nom": "Bardstown (Kentucky) : Stephen Theodore Badin",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Stephen Theodore Badin"
+    ],
+    "description": "Bardstown (Kentucky), 1793. Stephen Theodore Badin missionnaire pendant une trentaine d'années. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 486 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=BADIN",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.6,
+     37.55
+    ]
+   },
+   "properties": {
+    "id": "YT-fournier-rolling-fo",
+    "nom": "Rolling Fork (Kentucky) : Fournier",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1797.0,
+    "date_edtf": "1797",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Fournier"
+    ],
+    "description": "Rolling Fork (Kentucky), 1797. Fournier, né à France, missionnaire arrivé en février. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 487 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=FOURNIER",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.467,
+     37.809
+    ]
+   },
+   "properties": {
+    "id": "YT-salmon-bardstown-",
+    "nom": "Bardstown (Kentucky) : Salmon",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1799.0,
+    "fin": 1799.0,
+    "date_edtf": "1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Salmon"
+    ],
+    "description": "Bardstown (Kentucky), 1799. Salmon, né à France, missionnaire arrivé en février, meurt le 9 novembre. D'après Collins I (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 487 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=SALMON",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.467,
+     37.809
+    ]
+   },
+   "properties": {
+    "id": "YT-flaget-benedict-joseph-bardstown-",
+    "nom": "Bardstown (Kentucky) : Benedict Joseph Flaget",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benedict Joseph Flaget"
+    ],
+    "description": "Bardstown (Kentucky), 1811. Benedict Joseph Flaget, né à Auvergne (France), 1763, premier évêque du Kentucky. D'après Collins I (1874). Autres lieux de l'entrée : chutes de l'Ohio (Louisville).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 488, 490 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=FLAGET",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YT-flaget-benedict-joseph-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : Benedict Joseph Flaget",
+    "corpus": "archive.org · Collins I (1874)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benedict Joseph Flaget"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1850. Benedict Joseph Flaget, né à Auvergne (France), 1763, meurt le 11 février. D'après Collins I (1874). Autres lieux de l'entrée : Bardstown (Kentucky).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. I (1874), p. 488, 490 ; texte intégral : archive.org, collinshistorica01coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins I (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica01coll?q=FLAGET",
+      "texte": "Lire Collins I (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YU-tardiveau-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : Tardiveau",
+    "corpus": "archive.org · Collins II (1874)",
+    "theme": "personnage",
+    "debut": 1782.0,
+    "fin": 1783.999,
+    "date_edtf": "1782/1783",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Tardiveau"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1782-1783. Tardiveau associé d'Honoré dans une entreprise de commerce de Redstone vers La Nouvelle-Orléans et les établissements du Mississippi, transférée à Louisville. D'après Collins II (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. II (1874), p. 358 ; texte intégral : archive.org, collinshistorica02coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins II (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica02coll?q=TARDIVEAU",
+      "texte": "Lire Collins II (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YU-honore-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : Honore",
+    "corpus": "archive.org · Collins II (1874)",
+    "theme": "personnage",
+    "debut": 1782.0,
+    "fin": 1783.999,
+    "date_edtf": "1782/1783",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Honore"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1782-1783. Honore associé de Tardiveau. D'après Collins II (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. II (1874), p. 358 ; texte intégral : archive.org, collinshistorica02coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins II (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica02coll?q=HONORE",
+      "texte": "Lire Collins II (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.81,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "YU-berthoud-james-portland-k",
+    "nom": "Portland et Shippingport (Louisville), Kentucky : James Berthoud",
+    "corpus": "archive.org · Collins II (1874)",
+    "theme": "personnage",
+    "debut": 1803.0,
+    "fin": 1803.0,
+    "date_edtf": "1803",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Berthoud"
+    ],
+    "description": "Portland et Shippingport (Louisville), Kentucky, 1803. James Berthoud achète le site de 45 acres de Shippingport. D'après Collins II (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. II (1874), p. 364 ; texte intégral : archive.org, collinshistorica02coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins II (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica02coll?q=BERTHOUD",
+      "texte": "Lire Collins II (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.81,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "YU-tarascon-louis-a-portland-k",
+    "nom": "Portland et Shippingport (Louisville), Kentucky : Louis A. Tarascon",
+    "corpus": "archive.org · Collins II (1874)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis A. Tarascon"
+    ],
+    "description": "Portland et Shippingport (Louisville), Kentucky, 1806. Louis A. Tarascon, né à France. L'un des « two brothers from France » qui achètent le site de Shippingport. D'après Collins II (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. II (1874), p. 364 ; texte intégral : archive.org, collinshistorica02coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins II (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica02coll?q=TARASCON",
+      "texte": "Lire Collins II (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.81,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "YU-tarascon-louis-a-portland-k-2",
+    "nom": "Portland et Shippingport (Louisville), Kentucky : Louis A. Tarascon",
+    "corpus": "archive.org · Collins II (1874)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1819.999,
+    "date_edtf": "1815/1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis A. Tarascon"
+    ],
+    "description": "Portland et Shippingport (Louisville), Kentucky, 1815-1819. Louis A. Tarascon, né à France, bâtit avec son frère une grande minoterie. D'après Collins II (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. II (1874), p. 364 ; texte intégral : archive.org, collinshistorica02coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins II (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica02coll?q=TARASCON",
+      "texte": "Lire Collins II (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.27,
+     37.9
+    ]
+   },
+   "properties": {
+    "id": "YU-duquesne-boonesboro",
+    "nom": "Boonesborough, Kentucky : Duquesne",
+    "corpus": "archive.org · Collins II (1874)",
+    "theme": "evenement",
+    "debut": 1778.0,
+    "fin": 1778.0,
+    "date_edtf": "1778~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Duquesne"
+    ],
+    "description": "Boonesborough, Kentucky, vers 1778. Duquesne « the Canadian », commande l'attaque indienne et canadienne contre le fort et tend le piège du « traité ». D'après Collins II (1874).",
+    "sources": "Lewis et Richard H. Collins, History of Kentucky, vol. II (1874), p. 529 ; texte intégral : archive.org, collinshistorica02coll.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collins II (1874)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collinshistorica02coll?q=DUQUESNE",
+      "texte": "Lire Collins II (1874) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
