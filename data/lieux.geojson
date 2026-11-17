@@ -768634,6 +768634,686 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "CG-charbonneau-baptiste-charben-bent-s-for",
+    "nom": "Bent's Fort (Fort William), Colorado : Baptiste Charbonneau (« Charbenau »)",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Baptiste Charbonneau (« Charbenau »)"
+    ],
+    "description": "Bent's Fort (Fort William), Colorado, 1844. Baptiste Charbonneau (« Charbenau »), né à fils de Toussaint Charbonneau, l'interprète de Lewis et Clark, « French Canadian », chasseur du fort, « an educated half-breed », selon le manuscrit de W. M. Boggs. D'après Colorado Magazine VII-XII (1930-1935).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, p. 66-67 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "CG-robidoux-antoine-taos",
+    "nom": "Taos : Antoine Robidoux",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Taos, 1842. Antoine Robidoux arrive à Taos avec sa caravane fin août. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : fort Robidoux (Uncompahgre), Saint-Joseph (Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, p. 126-133 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.05,
+     38.75
+    ]
+   },
+   "properties": {
+    "id": "CG-robidoux-antoine-fort-uncom",
+    "nom": "Fort Robidoux (Uncompahgre) : Antoine Robidoux",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Fort Robidoux (Uncompahgre), 1844. Antoine Robidoux. Son poste est détruit par les Utes. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Taos, Saint-Joseph (Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, p. 126-133 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.85,
+     39.77
+    ]
+   },
+   "properties": {
+    "id": "CG-robidoux-antoine-saint-jose",
+    "nom": "Saint-Joseph (Missouri) : Antoine Robidoux",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Saint-Joseph (Missouri), 1845. Antoine Robidoux revient à St. Joseph ; l'année suivante, interprète et guide de Kearny. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Taos, fort Robidoux (Uncompahgre).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, p. 126-133 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "CG-clement-basil-fort-laram",
+    "nom": "Fort Laramie : Basil Clement",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "evenement",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Basil Clement"
+    ],
+    "description": "Fort Laramie, 1841. Basil Clement y va au printemps avec Louis Vasquez ; prend part au combat où périt Fraeb. D'après Colorado Magazine VII-XII (1930-1935).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.07,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-green-rive",
+    "nom": "Rendez-vous de la Green River (Horse Creek) : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Rendez-vous de la Green River (Horse Creek), 1833. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », accompagne Robert Campbell au rendez-vous. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : fort Vasquez (Platte Sud), Colorado, fort Laramie, fort Bridger, Salt Lake City (Great Salt Lake City, Utah), Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82,
+     40.19
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-fort-vasqu",
+    "nom": "Fort Vasquez (Platte Sud), Colorado : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Vasquez (Platte Sud), Colorado, 1837. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada ». Le mur principal du fort est probablement bâti cette année-là. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Laramie, fort Bridger, Salt Lake City (Great Salt Lake City, Utah), Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-fort-laram",
+    "nom": "Fort Laramie : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Laramie, 1841. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », au printemps, avec Basil Clement. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Vasquez (Platte Sud), Colorado, fort Bridger, Salt Lake City (Great Salt Lake City, Utah), Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82,
+     40.19
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-fort-vasqu-2",
+    "nom": "Fort Vasquez (Platte Sud), Colorado : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Vasquez (Platte Sud), Colorado, 1842. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », évacue le fort et quitte le pays. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Laramie, fort Bridger, Salt Lake City (Great Salt Lake City, Utah), Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.39,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-fort-bridg",
+    "nom": "Fort Bridger : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Bridger, vers 1848. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », associé de Jim Bridger au poste de Fort Bridger. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Vasquez (Platte Sud), Colorado, fort Laramie, Salt Lake City (Great Salt Lake City, Utah), Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1849. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », y ouvre un magasin. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Vasquez (Platte Sud), Colorado, fort Laramie, fort Bridger, Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.39,
+     41.32
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-fort-bridg-2",
+    "nom": "Fort Bridger : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Bridger, 1855. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », vend sa part du fort. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Vasquez (Platte Sud), Colorado, fort Laramie, Salt Lake City (Great Salt Lake City, Utah), Westport (auj. Kansas City, Missouri).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.59,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "CG-vasquez-louis-westport-m",
+    "nom": "Westport (auj. Kansas City, Missouri) : Louis Vasquez",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Westport (auj. Kansas City, Missouri), 1859. Louis Vasquez, né à St. Louis, 3 octobre 1798, fils de Benito Vasquez et de Julie Papin, « a French girl from Canada », y vit en septembre, visité par Beckwourth. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : rendez-vous de la Green River (Horse Creek), fort Vasquez (Platte Sud), Colorado, fort Laramie, fort Bridger, Salt Lake City (Great Salt Lake City, Utah).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), VII, s. p. ; VIII, s. p. ; X, p. 14-21 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "CG-reshaw-john-fort-laram",
+    "nom": "Fort Laramie : John Reshaw",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "poste",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Reshaw"
+    ],
+    "description": "Fort Laramie, 1846. John Reshaw traiteur campé à Goshen Hole, guide les Mormons du Mississippi ; son poste est à sept milles en aval du fort. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Pueblo (El Pueblo), Colorado.",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), IX, p. 124-126 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.61,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "CG-reshaw-john-pueblo-col",
+    "nom": "Pueblo (El Pueblo), Colorado : John Reshaw",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Reshaw"
+    ],
+    "description": "Pueblo (El Pueblo), Colorado, 1846. John Reshaw conduit le groupe jusqu'à Pueblo. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : fort Laramie.",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), IX, p. 124-126 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.14,
+     40.63
+    ]
+   },
+   "properties": {
+    "id": "CG-janis-antoine-laporte-co",
+    "nom": "Laporte, Colorado : Antoine Janis",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Janis"
+    ],
+    "description": "Laporte, Colorado, 1863. Antoine Janis interprète et guide ; la compagnie B du 1er de cavalerie du Colorado campe sur son claim, automne. D'après Colorado Magazine VII-XII (1930-1935).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), X, p. 48 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CG-machebeuf-joseph-p-santa-fe",
+    "nom": "Santa Fe : Joseph P. Machebeuf",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Santa Fe, 1860. Joseph P. Machebeuf part pour le Colorado en septembre avec le père Raverdy. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), XII, p. 135 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "CG-machebeuf-joseph-p-denver-col",
+    "nom": "Denver (Colorado) : Joseph P. Machebeuf",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Denver (Colorado), 1860. Joseph P. Machebeuf fonde la mission catholique de Denver. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), XII, p. 135 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CG-raverdy-john-b-santa-fe",
+    "nom": "Santa Fe : John B. Raverdy",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Raverdy"
+    ],
+    "description": "Santa Fe, 1860. John B. Raverdy part pour le Colorado en septembre avec Machebeuf. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), XII, p. 135 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "CG-raverdy-john-b-denver-col",
+    "nom": "Denver (Colorado) : John B. Raverdy",
+    "corpus": "archive.org · Colorado Magazine VII-XII (1930-1935)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Raverdy"
+    ],
+    "description": "Denver (Colorado), 1860. John B. Raverdy arrive avec Machebeuf. D'après Colorado Magazine VII-XII (1930-1935). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org), XII, p. 135 ; transcription en ligne : https://www.historycolorado.org/back-issues.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Colorado Magazine VII-XII (1930-1935)",
+    "voir_aussi": [
+     {
+      "url": "https://www.historycolorado.org/back-issues",
+      "texte": "Lire Colorado Magazine VII-XII (1930-1935) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
