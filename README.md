@@ -504,7 +504,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `WHQ (journals.lib.washington.edu)` | 98 |
 | `washington_bagley_1916` | 10 |
 | `washington_snowden_1909` | 25 |
-| `washington_skagit_1906` | 12 |
+| `washington_skagit_1906` | 18 |
 | `colorado_hafen_overland_1926` | 1 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
