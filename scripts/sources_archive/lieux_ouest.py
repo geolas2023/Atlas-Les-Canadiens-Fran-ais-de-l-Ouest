@@ -1731,6 +1731,10 @@ G.update({
     'Pawnee Rock (Kansas)': (-98.98, 38.27, 'h', 'Pawnee Rock, piste de Santa Fe, Kansas'),
     "Bent's Fort (Colorado)": (-103.43, 38.04, 'h', "Bent's Fort (Fort William), Colorado"),
     'Fort Larned (Kansas)': (-99.22, 38.18, 'h', 'Fort Larned, Pawnee Fork, Kansas'),
+    'Santa Clara (Nouveau-Mexique)': (-106.11, 35.97, 'c', 'Pueblo de Santa Clara, Nouveau-Mexique'),
+    'Cochiti (Nouveau-Mexique)': (-106.35, 35.61, 'c', 'Cañada de Cochiti, Nouveau-Mexique'),
+    'Alameda (Nouveau-Mexique)': (-106.63, 35.18, 'c', 'Alameda, Nouveau-Mexique'),
+    'Cundiyo (Nouveau-Mexique)': (-105.9, 35.95, 'c', 'Cundiyó, Nouveau-Mexique'),
 })
 
 
