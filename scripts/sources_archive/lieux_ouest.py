@@ -2040,6 +2040,10 @@ G.update({
     'Rockford (Washington)': (-117.13, 47.45, 'c', 'Rockford (Washington)'),
     'Mica (Washington)': (-117.2, 47.55, 'c', 'Mica (comté de Spokane, Washington)'),
     'Five Mile Prairie (Spokane)': (-117.45, 47.75, 'h', 'Five Mile Prairie (comté de Spokane, Washington)'),
+    'Wallace (Idaho)': (-115.93, 47.47, 'c', 'Wallace (Idaho)'),
+    'Rosalia (Washington)': (-117.37, 47.24, 'c', 'Rosalia (Washington)'),
+    'Wilbur (Washington)': (-118.7, 47.76, 'c', 'Wilbur (Washington)'),
+    'St. Joe (Idaho)': (-116.33, 47.3, 'c', 'St. Joe (Idaho)'),
 })
 
 
