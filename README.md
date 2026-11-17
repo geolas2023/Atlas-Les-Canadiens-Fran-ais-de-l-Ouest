@@ -420,6 +420,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `collinshistorica02coll` | 5 |
 | `historicaltribut00howl` | 8 |
 | `memorialhistoryo02john` | 1 |
+| `lesfranaisenca00levy` | 240 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
