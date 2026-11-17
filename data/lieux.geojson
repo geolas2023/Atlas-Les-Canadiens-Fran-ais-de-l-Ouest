@@ -698832,6 +698832,992 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AA-rolland-a-san-franci",
+    "nom": "San Francisco : A. Rolland",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Rolland"
+    ],
+    "description": "San Francisco, 1849. A. Rolland, né à Berthier (Canada), 1826, débarque le 10 déc. du brick Thomas P. Hart. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : Stockton, Californie.",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 306-307 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=ROLLAND",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29,
+     37.96
+    ]
+   },
+   "properties": {
+    "id": "AA-rolland-a-stockton-c",
+    "nom": "Stockton, Californie : A. Rolland",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Rolland"
+    ],
+    "description": "Stockton, Californie, vers 1890. A. Rolland, né à Berthier (Canada), 1826, nouveautés et vêtements, puis restaurant de la gare. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 306-307 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=ROLLAND",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.94,
+     40.73
+    ]
+   },
+   "properties": {
+    "id": "AA-jahant-peter-f-weavervill",
+    "nom": "Weaverville (comté de Trinity), Californie : Peter F. Jahant",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter F. Jahant"
+    ],
+    "description": "Weaverville (comté de Trinity), Californie, 1850. Peter F. Jahant, né à France, 1827, arrivé vers juillet, venu de l'Ohio. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : Stockton, Californie, comté de San Joaquin (Californie).",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 467 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=JAHANT",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29,
+     37.96
+    ]
+   },
+   "properties": {
+    "id": "AA-jahant-peter-f-stockton-c",
+    "nom": "Stockton, Californie : Peter F. Jahant",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter F. Jahant"
+    ],
+    "description": "Stockton, Californie, 1865. Peter F. Jahant, né à France, 1827, écurie de louage jusqu'en 1871. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : Weaverville (comté de Trinity), Californie, comté de San Joaquin (Californie).",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 467 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=JAHANT",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25,
+     37.93
+    ]
+   },
+   "properties": {
+    "id": "AA-jahant-peter-f-san-joaqui",
+    "nom": "Comté de San Joaquin (Californie) : Peter F. Jahant",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter F. Jahant"
+    ],
+    "description": "Comté de San Joaquin (Californie), vers 1890. Peter F. Jahant, né à France, 1827, ranch de 540 acres, township de Liberty. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : Weaverville (comté de Trinity), Californie, Stockton, Californie.",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 467 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=JAHANT",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AA-vinet-peter-california",
+    "nom": "Californie : Peter Vinet",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter Vinet"
+    ],
+    "description": "Californie, vers 1849. Peter Vinet, né à Charente, 1822, arrivé avec sa femme à la découverte de l'or, après le Mexique (1839). D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : comté de San Joaquin (Californie).",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 646-647 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=VINET",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25,
+     37.93
+    ]
+   },
+   "properties": {
+    "id": "AA-vinet-peter-san-joaqui",
+    "nom": "Comté de San Joaquin (Californie) : Peter Vinet",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter Vinet"
+    ],
+    "description": "Comté de San Joaquin (Californie), 1859. Peter Vinet, né à Charente, 1822, premières terres du township de Dent, 1 760 acres en 1889, blé. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : Californie.",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 646-647 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=VINET",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AA-gremaux-eugene-california",
+    "nom": "Californie : Eugene Gremaux",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Eugene Gremaux"
+    ],
+    "description": "Californie, 1855. Eugene Gremaux, né à Bas-Canada, 1830, mines de Robert Creek. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : comté de San Joaquin (Californie).",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 654 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=GREMAUX",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25,
+     37.93
+    ]
+   },
+   "properties": {
+    "id": "AA-gremaux-eugene-san-joaqui",
+    "nom": "Comté de San Joaquin (Californie) : Eugene Gremaux",
+    "corpus": "archive.org · Illustrated History of San Joaquin County",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Eugene Gremaux"
+    ],
+    "description": "Comté de San Joaquin (Californie), 1867. Eugene Gremaux, né à Bas-Canada, 1830, ranch de 142 acres du township de Douglass, près de Waterloo. D'après Illustrated History of San Joaquin County. Autres lieux de l'entrée : Californie.",
+    "sources": "An Illustrated History of San Joaquin County (Lewis, 1890), p. 654 ; texte intégral : archive.org, illustratedhisto00chic.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Illustrated History of San Joaquin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00chic?q=GREMAUX",
+      "texte": "Lire Illustrated History of San Joaquin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AB-brinck-h-w-san-franci",
+    "nom": "San Francisco : H. W. Brinck",
+    "corpus": "archive.org · Munro-Fraser, History of Solano County",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "H. W. Brinck"
+    ],
+    "description": "San Francisco, 1873. H. W. Brinck, né à France, 1844, arrivé à l'automne. D'après Munro-Fraser, History of Solano County. Autres lieux de l'entrée : comté de Solano (Californie).",
+    "sources": "J. P. Munro-Fraser, History of Solano County (1879), p. 455 ; texte intégral : archive.org, historyofsolanoc00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Munro-Fraser, History of Solano County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolanoc00munr?q=BRINCK",
+      "texte": "Lire Munro-Fraser, History of Solano County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "AB-brinck-h-w-solano-com",
+    "nom": "Comté de Solano (Californie) : H. W. Brinck",
+    "corpus": "archive.org · Munro-Fraser, History of Solano County",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "H. W. Brinck"
+    ],
+    "description": "Comté de Solano (Californie), 1874. H. W. Brinck, né à France, 1844, ranch de 210 acres, township de Vacaville. D'après Munro-Fraser, History of Solano County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "J. P. Munro-Fraser, History of Solano County (1879), p. 455 ; texte intégral : archive.org, historyofsolanoc00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Munro-Fraser, History of Solano County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolanoc00munr?q=BRINCK",
+      "texte": "Lire Munro-Fraser, History of Solano County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "AB-brinck-william-solano-com",
+    "nom": "Comté de Solano (Californie) : William Brinck",
+    "corpus": "archive.org · Munro-Fraser, History of Solano County",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "William Brinck"
+    ],
+    "description": "Comté de Solano (Californie), 1874. William Brinck, né à Alsace, 1849, rancher avec son frère. D'après Munro-Fraser, History of Solano County.",
+    "sources": "J. P. Munro-Fraser, History of Solano County (1879), p. 455 ; texte intégral : archive.org, historyofsolanoc00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Munro-Fraser, History of Solano County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolanoc00munr?q=BRINCK",
+      "texte": "Lire Munro-Fraser, History of Solano County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24,
+     37.77
+    ]
+   },
+   "properties": {
+    "id": "AB-prevost-l-alameda-ca",
+    "nom": "Alameda (l'Encinal), Californie : L. Prevost",
+    "corpus": "archive.org · Munro-Fraser, History of Solano County",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "L. Prevost"
+    ],
+    "description": "Alameda (l'Encinal), Californie, 1853. L. Prevost, né à Belgique, 1827, d'abord dans le comté d'Alameda. D'après Munro-Fraser, History of Solano County. Autres lieux de l'entrée : comté de Solano (Californie).",
+    "sources": "J. P. Munro-Fraser, History of Solano County (1879), p. 485 ; texte intégral : archive.org, historyofsolanoc00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Munro-Fraser, History of Solano County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolanoc00munr?q=PREVOST",
+      "texte": "Lire Munro-Fraser, History of Solano County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "AB-prevost-l-solano-com",
+    "nom": "Comté de Solano (Californie) : L. Prevost",
+    "corpus": "archive.org · Munro-Fraser, History of Solano County",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "L. Prevost"
+    ],
+    "description": "Comté de Solano (Californie), vers 1879. L. Prevost, né à Belgique, 1827, fermier du township de Denverton. D'après Munro-Fraser, History of Solano County. Autres lieux de l'entrée : Alameda (l'Encinal), Californie.",
+    "sources": "J. P. Munro-Fraser, History of Solano County (1879), p. 485 ; texte intégral : archive.org, historyofsolanoc00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Munro-Fraser, History of Solano County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolanoc00munr?q=PREVOST",
+      "texte": "Lire Munro-Fraser, History of Solano County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AC-brun-jean-adolph-california",
+    "nom": "Californie : Jean Adolph Brun",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Adolph Brun"
+    ],
+    "description": "Californie, 1874. Jean Adolph Brun, né à France, 1845, arrivé en septembre. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : Oakville (comté de Napa), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 396-397 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=BRUN",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4,
+     38.44
+    ]
+   },
+   "properties": {
+    "id": "AC-brun-jean-adolph-oakville-c",
+    "nom": "Oakville (comté de Napa), Californie : Jean Adolph Brun",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Adolph Brun"
+    ],
+    "description": "Oakville (comté de Napa), Californie, 1877. Jean Adolph Brun, né à France, 1845, vigneron, associé de Jean Chaix, chai d'Oakville. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 396-397 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=BRUN",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AC-haeckl-louis-san-franci",
+    "nom": "San Francisco : Louis Haeckl",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Haeckl"
+    ],
+    "description": "San Francisco, 1866. Louis Haeckl, né à Strasbourg, 1832, arrivé en novembre. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : vallée de Napa, Californie, Calistoga (comté de Napa), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 487-488 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=HAECKL",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "AC-haeckl-louis-napa-calif",
+    "nom": "Vallée de Napa, Californie : Louis Haeckl",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Haeckl"
+    ],
+    "description": "D'après Palmer, History of Napa and Lake Counties, Louis Haeckl, né à Strasbourg, 1832, est associé à ce lieu (vallée de Napa, Californie) en 1868. Autres lieux de l'entrée : San Francisco, Calistoga (comté de Napa), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 487-488 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=HAECKL",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.58,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AC-haeckl-louis-calistoga-",
+    "nom": "Calistoga (comté de Napa), Californie : Louis Haeckl",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Haeckl"
+    ],
+    "description": "Calistoga (comté de Napa), Californie, 1873. Louis Haeckl, né à Strasbourg, 1832, tient le Star Hotel, administrateur scolaire. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : San Francisco, vallée de Napa, Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 487-488 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=HAECKL",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.38,
+     37.98
+    ]
+   },
+   "properties": {
+    "id": "AC-laurent-jean-sonora-cal",
+    "nom": "Sonora (comté de Tuolumne), Californie : Jean Laurent",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Laurent"
+    ],
+    "description": "D'après Palmer, History of Napa and Lake Counties, Jean Laurent, né à Bordeaux, 1837, est associé à ce lieu (Sonora (comté de Tuolumne), Californie) en 1852. Autres lieux de l'entrée : St. Helena (comté de Napa), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 512 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=LAURENT",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.47,
+     38.51
+    ]
+   },
+   "properties": {
+    "id": "AC-laurent-jean-st-helena-",
+    "nom": "St. Helena (comté de Napa), Californie : Jean Laurent",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Laurent"
+    ],
+    "description": "St. Helena (comté de Napa), Californie, vers 1881. Jean Laurent, né à Bordeaux, 1837, commerce de vins sur sa propriété. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : Sonora (comté de Tuolumne), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 512 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=LAURENT",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AC-lazarus-leopold-san-franci",
+    "nom": "San Francisco : Leopold Lazarus",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Leopold Lazarus"
+    ],
+    "description": "San Francisco, 1850. Leopold Lazarus, né à France, 1827, arrivé en décembre. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : St. Helena (comté de Napa), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 517 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=LAZARUS",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.47,
+     38.51
+    ]
+   },
+   "properties": {
+    "id": "AC-lazarus-leopold-st-helena-",
+    "nom": "St. Helena (comté de Napa), Californie : Leopold Lazarus",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Leopold Lazarus"
+    ],
+    "description": "St. Helena (comté de Napa), Californie, vers 1881. Leopold Lazarus, né à France, 1827, négociant, agent de Wells Fargo, trésorier de la ville ; épouse Julia Stratis, née en France. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : San Francisco.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 517 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=LAZARUS",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AC-paccaud-louis-san-franci",
+    "nom": "San Francisco : Louis Paccaud",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Paccaud"
+    ],
+    "description": "San Francisco, 1852. Louis Paccaud, né à Suisse, 1829, arrivé en juillet, jeunesse passée à Paris ; mines du comté de Yuba. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : vallée de Napa, Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 536-537 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=PACCAUD",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "AC-paccaud-louis-napa-calif",
+    "nom": "Vallée de Napa, Californie : Louis Paccaud",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Paccaud"
+    ],
+    "description": "Vallée de Napa, Californie, vers 1881. Louis Paccaud, né à Suisse, 1829, fermier, puis librairie et mercerie. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : San Francisco.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 536-537 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=PACCAUD",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02,
+     39.26
+    ]
+   },
+   "properties": {
+    "id": "AC-pellet-henry-alphonse-nevada-cit",
+    "nom": "Nevada City, Californie : Henry Alphonse Pellet",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Alphonse Pellet"
+    ],
+    "description": "Nevada City, Californie, 1850. Henry Alphonse Pellet, né à Neuchâtel, 1828, arrivé par terre le 16 sept., mineur. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : vallée de Napa, Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 540-542 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=PELLET",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "AC-pellet-henry-alphonse-napa-calif",
+    "nom": "Vallée de Napa, Californie : Henry Alphonse Pellet",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Alphonse Pellet"
+    ],
+    "description": "Vallée de Napa, Californie, 1853. Henry Alphonse Pellet, né à Neuchâtel, 1828, premier moulin à farine à vapeur du comté ; vigneron. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : Nevada City, Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 540-542 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=PELLET",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AC-straus-jules-e-san-franci",
+    "nom": "San Francisco : Jules E. Straus",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules E. Straus"
+    ],
+    "description": "San Francisco, 1865. Jules E. Straus, né à Alsace, 1844, arrivé en avril. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : St. Helena (comté de Napa), Californie.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 567 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=STRAUS",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.47,
+     38.51
+    ]
+   },
+   "properties": {
+    "id": "AC-straus-jules-e-st-helena-",
+    "nom": "St. Helena (comté de Napa), Californie : Jules E. Straus",
+    "corpus": "archive.org · Palmer, History of Napa and Lake Counties",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules E. Straus"
+    ],
+    "description": "St. Helena (comté de Napa), Californie, vers 1881. Jules E. Straus, né à Alsace, 1844, épouse Janett Levy, née en France. D'après Palmer, History of Napa and Lake Counties. Autres lieux de l'entrée : San Francisco.",
+    "sources": "L. L. Palmer, History of Napa and Lake Counties (1881), p. 567 ; texte intégral : archive.org, historyofnapalak00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Napa and Lake Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofnapalak00palm?q=STRAUS",
+      "texte": "Lire Palmer, History of Napa and Lake Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
