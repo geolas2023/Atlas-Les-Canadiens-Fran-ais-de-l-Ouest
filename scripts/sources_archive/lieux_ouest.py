@@ -2091,6 +2091,10 @@ G.update({
     'Westport (Missouri)': (-94.59, 39.05, 'c', 'Westport (auj. Kansas City, Missouri)'),
     'Cold Spring (Santa Fe Trail)': (-102.45, 36.85, 'h', 'Cold Spring (route du Cimarron, Oklahoma)'),
     'Garo (Colorado)': (-105.93, 39.17, 'c', 'Garo (comté de Park, Colorado)'),
+    'Huerfano Butte (Colorado)': (-104.84, 37.75, 'h', 'Huerfano Butte et Butte Valley (comté de Huerfano, Colorado)'),
+    'Poste de Gerry (South Platte)': (-104.55, 40.4, 'a', "poste de traite d'Elbridge Gerry (South Platte, Colorado)"),
+    'Mariavalle (Big Thompson, Colorado)': (-104.95, 40.4, 'c', 'Mariavalle (Miravalle City), sur le Big Thompson (Colorado)'),
+    'Fort Wallace (Kansas)': (-101.59, 38.91, 'a', 'Fort Wallace (Kansas)'),
 })
 
 
