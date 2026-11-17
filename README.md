@@ -385,6 +385,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `arizonanewmex00bancroft` (Nouveau-Mexique) | 22 |
 | `historyofmilitar00twit` | 8 |
 | `lifeofrightrever00howl` | 35 |
+| `cu31924105349660` | 20 |
+| `illustratedhisto00readrich` | 50 |
 
 
 ## Un point par lieu et adresses précises
