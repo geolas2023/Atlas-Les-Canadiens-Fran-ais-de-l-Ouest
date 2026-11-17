@@ -391,6 +391,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `histnewmexico00prin` | 17 |
 | `oldsantaftrailst00inma` | 9 |
 | `commerceofprairi01greg` | 1 |
+| `spanisharchiveso01twituoft` | 22 |
+| `spanisharchiveso02twituoft` | 17 |
 
 
 ## Un point par lieu et adresses précises
