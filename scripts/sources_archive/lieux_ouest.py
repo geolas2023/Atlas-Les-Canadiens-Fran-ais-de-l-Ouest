@@ -1793,6 +1793,9 @@ G.update({
     'Big Timbers (Colorado)': (-102.75, 38.08, 'h', "Big Timbers, villages cheyennes de l'Arkansas, Colorado"),
     'Purgatoire (Colorado)': (-103.2, 38.03, 'h', 'embouchure de la Purgatoire, Colorado'),
     'Brighton (Colorado)': (-104.82, 39.99, 'h', 'Platte Sud, à 18 milles en aval de Denver (Brighton), Colorado'),
+    'De Beque (Colorado)': (-108.21, 39.33, 'c', 'De Beque (comté de Mesa), Colorado'),
+    'Carbondale (Colorado)': (-107.21, 39.4, 'c', 'Carbondale, Colorado'),
+    'Alamosa (Colorado)': (-105.87, 37.47, 'c', 'Alamosa, Colorado'),
 })
 
 
