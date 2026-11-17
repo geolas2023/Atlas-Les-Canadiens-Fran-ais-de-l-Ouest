@@ -2085,6 +2085,9 @@ G.update({
     'Galena (Washington)': (-121.4, 47.95, 'c', 'Galena (district de Silver Creek, comté de Snohomish, Washington)'),
     'Sauk City (Washington)': (-121.57, 48.43, 'c', 'Sauk City (comté de Skagit, Washington)'),
     'La Conner (Washington)': (-122.5, 48.39, 'c', 'La Conner (comté de Skagit, Washington)'),
+    'Fort Jackson (Colorado)': (-104.82, 40.21, 'a', 'Fort Jackson (South Platte, Colorado)'),
+    'El Cuartelejo (Kansas)': (-100.92, 38.67, 'a', 'El Cuartelejo (comté de Scott, Kansas)'),
+    'Fort Massachusetts (Colorado)': (-105.4, 37.53, 'a', 'Fort Massachusetts (vallée de San Luis, Colorado)'),
 })
 
 

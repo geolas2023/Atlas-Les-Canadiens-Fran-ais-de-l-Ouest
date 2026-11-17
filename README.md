@@ -506,6 +506,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `washington_snowden_1909` | 25 |
 | `washington_skagit_1906` | 18 |
 | `colorado_hafen_overland_1926` | 1 |
+| `colorado_magazine_1923_1929` | 13 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
