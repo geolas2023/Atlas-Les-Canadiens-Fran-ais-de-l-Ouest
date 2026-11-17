@@ -1861,6 +1861,8 @@ G.update({
     'Pomona (Californie)': (-117.75, 34.06, 'c', 'Pomona (Californie)'),
     'Puente (Californie)': (-117.95, 34.03, 'h', 'La Puente (Californie)'),
     'Wilmington (Californie)': (-118.26, 33.78, 'c', 'Wilmington (Los Angeles), Californie'),
+    'Tuolumne (comté)': (-120.25, 37.95, 'h', 'comté de Tuolumne (Californie)'),
+    'Chinese Camp (Californie)': (-120.43, 37.87, 'c', 'Chinese Camp (comté de Tuolumne), Californie'),
 })
 
 
