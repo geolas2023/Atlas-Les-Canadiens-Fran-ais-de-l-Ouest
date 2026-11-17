@@ -715492,6 +715492,754 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "AW-ozouf-a-e-san-jose",
+    "nom": "San José (Californie) : A. E. Ozouf",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. E. Ozouf"
+    ],
+    "description": "San José (Californie), 1850. A. E. Ozouf, né à Paris (France), né en 1832, vient avec son père, y reste environ deux ans. D'après Western Oregon (1904). Autres lieux de l'entrée : Scottsburg (comté de Douglas, Oregon), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 210 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=OZOUF",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.82,
+     43.66
+    ]
+   },
+   "properties": {
+    "id": "AW-ozouf-a-e-scottsburg",
+    "nom": "Scottsburg (comté de Douglas, Oregon) : A. E. Ozouf",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. E. Ozouf"
+    ],
+    "description": "Scottsburg (comté de Douglas, Oregon), 1859. A. E. Ozouf, né à Paris (France), s'établit en mai comme finisseur de cuir à la tannerie Haynes & Brainard, associé puis seul propriétaire en 1874, vend en 1886. D'après Western Oregon (1904). Autres lieux de l'entrée : San José (Californie), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 210 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=OZOUF",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.5,
+     43.4
+    ]
+   },
+   "properties": {
+    "id": "AW-ozouf-a-e-umpqua-riv",
+    "nom": "Rivière Umpqua (Oregon) : A. E. Ozouf",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1887.0,
+    "fin": 1887.0,
+    "date_edtf": "1887",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "A. E. Ozouf"
+    ],
+    "description": "Rivière Umpqua (Oregon), 1887. A. E. Ozouf, né à Paris (France), revenu d'un voyage en France, se fait cultivateur, environ 2 500 acres sur l'Umpqua. D'après Western Oregon (1904). Autres lieux de l'entrée : San José (Californie), Scottsburg (comté de Douglas, Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 210 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=OZOUF",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.11
+    ]
+   },
+   "properties": {
+    "id": "AW-provost-d-b-gervais-or",
+    "nom": "Gervais (Oregon) : D. B. Provost",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D. B. Provost"
+    ],
+    "description": "Gervais (Oregon), 1870. D. B. Provost, né à près de Montréal, né en 1852, d'une vieille famille française ; loue une ferme à la prairie française jusqu'en 1873. D'après Western Oregon (1904). Autres lieux de l'entrée : Bellevue (comté de Yamhill, Oregon), Ashland (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 314 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=PROVOST",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.43,
+     45.07
+    ]
+   },
+   "properties": {
+    "id": "AW-provost-d-b-bellevue-y",
+    "nom": "Bellevue (comté de Yamhill, Oregon) : D. B. Provost",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D. B. Provost"
+    ],
+    "description": "Bellevue (comté de Yamhill, Oregon), 1874. D. B. Provost, né à près de Montréal, boucher à Bellevue, propriétaire d'environ 800 acres près de Sheridan, jusqu'en 1890. D'après Western Oregon (1904). Autres lieux de l'entrée : Gervais (Oregon), Ashland (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 314 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=PROVOST",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.71,
+     42.19
+    ]
+   },
+   "properties": {
+    "id": "AW-provost-d-b-ashland-or",
+    "nom": "Ashland (Oregon) : D. B. Provost",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1893.0,
+    "fin": 1893.0,
+    "date_edtf": "1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D. B. Provost"
+    ],
+    "description": "Ashland (Oregon), 1893. D. B. Provost, né à près de Montréal, quincaillier (Kenney & Provost), puis président des Ashland Iron Works. D'après Western Oregon (1904). Autres lieux de l'entrée : Gervais (Oregon), Bellevue (comté de Yamhill, Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 314 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=PROVOST",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.71,
+     42.19
+    ]
+   },
+   "properties": {
+    "id": "AW-provost-d-b-ashland-or-2",
+    "nom": "Ashland (Oregon) : D. B. Provost",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1902.0,
+    "fin": 1902.0,
+    "date_edtf": "1902",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D. B. Provost"
+    ],
+    "description": "Ashland (Oregon), 1902. D. B. Provost, né à près de Montréal, élu maire d'Ashland en décembre. D'après Western Oregon (1904). Autres lieux de l'entrée : Gervais (Oregon), Bellevue (comté de Yamhill, Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 314 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=PROVOST",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8,
+     45.26
+    ]
+   },
+   "properties": {
+    "id": "AW-laraut-n-pere-butteville",
+    "nom": "Butteville (comté de Marion, Oregon) : N. Laraut (père)",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "religion",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "N. Laraut (père)"
+    ],
+    "description": "Butteville (comté de Marion, Oregon), 1851. N. Laraut (père), né à près de Montréal, né en 1824 ; hiverne chez F. X. Matthieu ; fait le premier battage à la machine près de Butteville. D'après Western Oregon (1904). Autres lieux de l'entrée : Yreka (Californie), comté de Josephine (Oregon), Roseburg (Oregon), mines de la rivière Rogue (Oregon), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 461 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LARAUT",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.63,
+     41.73
+    ]
+   },
+   "properties": {
+    "id": "AW-laraut-n-pere-yreka-cali",
+    "nom": "Yreka (Californie) : N. Laraut (père)",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "religion",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "N. Laraut (père)"
+    ],
+    "description": "Yreka (Californie), 1851. N. Laraut (père), né à près de Montréal, travaille aux mines d'Yreka. D'après Western Oregon (1904). Autres lieux de l'entrée : Butteville (comté de Marion, Oregon), comté de Josephine (Oregon), Roseburg (Oregon), mines de la rivière Rogue (Oregon), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 461 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LARAUT",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.6,
+     42.4
+    ]
+   },
+   "properties": {
+    "id": "AW-laraut-n-pere-josephine-",
+    "nom": "Comté de Josephine (Oregon) : N. Laraut (père)",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "religion",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "N. Laraut (père)"
+    ],
+    "description": "Comté de Josephine (Oregon), 1853. N. Laraut (père), né à près de Montréal, convoi de mulets aux mines d'Eureka jusqu'en 1853. D'après Western Oregon (1904). Autres lieux de l'entrée : Butteville (comté de Marion, Oregon), Yreka (Californie), Roseburg (Oregon), mines de la rivière Rogue (Oregon), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 461 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LARAUT",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.34,
+     43.22
+    ]
+   },
+   "properties": {
+    "id": "AW-laraut-n-pere-roseburg-o",
+    "nom": "Roseburg (Oregon) : N. Laraut (père)",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "religion",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "N. Laraut (père)"
+    ],
+    "description": "Roseburg (Oregon), 1854. N. Laraut (père), né à près de Montréal, concession de 160 acres près de Wardton, à l'ouest de Roseburg. D'après Western Oregon (1904). Autres lieux de l'entrée : Butteville (comté de Marion, Oregon), Yreka (Californie), comté de Josephine (Oregon), mines de la rivière Rogue (Oregon), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 461 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LARAUT",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3,
+     42.45
+    ]
+   },
+   "properties": {
+    "id": "AW-laraut-n-pere-rogue-rive",
+    "nom": "Mines de la rivière Rogue (Oregon) : N. Laraut (père)",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "religion",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "N. Laraut (père)"
+    ],
+    "description": "Mines de la rivière Rogue (Oregon), 1855. N. Laraut (père), né à près de Montréal, transporte des vivres pour les troupes pendant la guerre de la Rogue, 1855-1856. D'après Western Oregon (1904). Autres lieux de l'entrée : Butteville (comté de Marion, Oregon), Yreka (Californie), comté de Josephine (Oregon), Roseburg (Oregon), rivière Umpqua (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 461 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LARAUT",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.5,
+     43.4
+    ]
+   },
+   "properties": {
+    "id": "AW-laraut-n-pere-umpqua-riv",
+    "nom": "Rivière Umpqua (Oregon) : N. Laraut (père)",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "religion",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "N. Laraut (père)"
+    ],
+    "description": "Rivière Umpqua (Oregon), 1870. N. Laraut (père), né à près de Montréal, achète 480 acres sur la North Umpqua. D'après Western Oregon (1904). Autres lieux de l'entrée : Butteville (comté de Marion, Oregon), Yreka (Californie), comté de Josephine (Oregon), Roseburg (Oregon), mines de la rivière Rogue (Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 461 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LARAUT",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-fort-laram",
+    "nom": "Fort Laramie : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Fort Laramie, 1842. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, né en 1818, ancien de l'American Fur Company, se joint au premier convoi d'émigrants. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Hall, vallée de la Willamette, Champoeg (Campement de Sable, Oregon), Butteville (comté de Marion, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.47,
+     43.01
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-fort-hall",
+    "nom": "Fort Hall : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Fort Hall, 1842. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, quitte le convoi avec six autres et passe à la CBH. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, vallée de la Willamette, Champoeg (Campement de Sable, Oregon), Butteville (comté de Marion, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-willamette",
+    "nom": "Vallée de la Willamette : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Vallée de la Willamette, 1842. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, s'établit chez Etien Lucien. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, fort Hall, Champoeg (Campement de Sable, Oregon), Butteville (comté de Marion, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.88,
+     45.25
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-champoeg-o",
+    "nom": "Champoeg (Campement de Sable, Oregon) : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Champoeg (Campement de Sable, Oregon), 1843. Francois Xavier Matthieu, né à Terrebonne, près de Montréal. L'un des 52 votants pour le gouvernement provisoire, le premier à passer du côté américain le 2 mai. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, fort Hall, vallée de la Willamette, Butteville (comté de Marion, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-willamette-2",
+    "nom": "Vallée de la Willamette : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Vallée de la Willamette, 1844. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, achète une concession de 640 acres près d'Aurora ; épouse Rosalie Aussant le 15 avril. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, fort Hall, Champoeg (Campement de Sable, Oregon), Butteville (comté de Marion, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8,
+     45.26
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-butteville",
+    "nom": "Butteville (comté de Marion, Oregon) : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Butteville (comté de Marion, Oregon), 1851. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, ouvre un magasin général, vendu en 1866. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, fort Hall, vallée de la Willamette, Champoeg (Campement de Sable, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-oregon",
+    "nom": "Oregon : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Oregon, 1874. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, député démocrate à la législature, de nouveau en 1878. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, fort Hall, vallée de la Willamette, Champoeg (Campement de Sable, Oregon), Butteville (comté de Marion, Oregon).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.88,
+     45.25
+    ]
+   },
+   "properties": {
+    "id": "AW-matthieu-francois-xavier-champoeg-o-2",
+    "nom": "Champoeg (Campement de Sable, Oregon) : Francois Xavier Matthieu",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1901.0,
+    "fin": 1901.0,
+    "date_edtf": "1901",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Xavier Matthieu"
+    ],
+    "description": "Champoeg (Campement de Sable, Oregon), 1901. Francois Xavier Matthieu, né à Terrebonne, près de Montréal, honoré au monument de Champoeg comme dernier survivant des votants. D'après Western Oregon (1904). Autres lieux de l'entrée : fort Laramie, fort Hall, vallée de la Willamette, Butteville (comté de Marion, Oregon), Oregon.",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=MATTHIEU",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "AW-lucien-etien-willamette",
+    "nom": "Vallée de la Willamette : Etien Lucien",
+    "corpus": "archive.org · Western Oregon (1904)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Etien Lucien"
+    ],
+    "description": "Vallée de la Willamette, 1811. Etien Lucien, né à Canada, « Canadien de naissance », établi dans la vallée, reçoit Matthieu en 1842. D'après Western Oregon (1904).",
+    "sources": "Portrait and Biographical Record of Western Oregon (1904), Chicago, Chapman Publishing Company, p. 593-595 ; texte intégral : archive.org, portraitbiographwo00inchap.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Western Oregon (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/portraitbiographwo00inchap?q=LUCIEN",
+      "texte": "Lire Western Oregon (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
