@@ -1850,6 +1850,9 @@ G.update({
     'Salinas (Californie)': (-121.66, 36.68, 'c', 'vallée de la Salinas, Californie'),
     'San Fernando (Californie)': (-118.44, 34.28, 'c', 'San Fernando, Californie'),
     'Cache Creek (Californie)': (-121.75, 38.72, 'h', 'Cache Creek (rio de Jesus Maria), Californie'),
+    'San Juan Capistrano (Californie)': (-117.66, 33.5, 'c', 'mission San Juan Capistrano, Californie'),
+    'Point Reyes (Californie)': (-122.95, 38.0, 'h', 'pointe Reyes, Californie'),
+    'Carquinez (Californie)': (-122.2, 38.06, 'h', 'détroit et baie de Carquinez, Californie'),
 })
 
 
