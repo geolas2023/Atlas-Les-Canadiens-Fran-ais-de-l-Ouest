@@ -457,6 +457,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofsolanoc00munr` | 3 |
 | `historyofnapalak00palm` | 7 |
 | `illustratedhisto00davi` | 7 |
+| `cu31924051210965` | 6 |
+| `historyofstockto00tink` | 3 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
