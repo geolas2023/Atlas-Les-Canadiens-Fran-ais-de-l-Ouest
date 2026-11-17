@@ -2032,6 +2032,9 @@ G.update({
     'Douglas (comté, Washington)': (-119.7, 47.7, 'h', 'comté de Douglas (Washington)'),
     'Waterville (Washington)': (-120.07, 47.65, 'c', 'Waterville (Washington)'),
     'Lamona (Washington)': (-118.48, 47.36, 'c', 'Lamona (Washington)'),
+    'Yakima City (Washington)': (-120.48, 46.55, 'c', 'Yakima City (Union Gap, Washington)'),
+    'North Yakima (Washington)': (-120.51, 46.6, 'c', 'North Yakima (Yakima, Washington)'),
+    'Ellensburg (Washington)': (-120.55, 46.99, 'c', 'Ellensburg / vallée de la Kittitas (Washington)'),
 })
 
 
