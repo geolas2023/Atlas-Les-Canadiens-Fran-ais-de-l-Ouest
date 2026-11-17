@@ -2036,6 +2036,10 @@ G.update({
     'North Yakima (Washington)': (-120.51, 46.6, 'c', 'North Yakima (Yakima, Washington)'),
     'Ellensburg (Washington)': (-120.55, 46.99, 'c', 'Ellensburg / vallée de la Kittitas (Washington)'),
     'Dayton (Washington)': (-117.98, 46.32, 'c', 'Dayton (Washington)'),
+    'Cheney (Washington)': (-117.58, 47.49, 'c', 'Cheney (Washington)'),
+    'Rockford (Washington)': (-117.13, 47.45, 'c', 'Rockford (Washington)'),
+    'Mica (Washington)': (-117.2, 47.55, 'c', 'Mica (comté de Spokane, Washington)'),
+    'Five Mile Prairie (Spokane)': (-117.45, 47.75, 'h', 'Five Mile Prairie (comté de Spokane, Washington)'),
 })
 
 
