@@ -617708,6 +617708,244 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -86.8,
+     36.2
+    ]
+   },
+   "properties": {
+    "id": "UJ-de-mumbrune-capt-eaton-s-st",
+    "nom": "Station d'Eaton, sur le Cumberland près de Nashville (Tennessee) : Capt. de Mumbrune",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "personnage",
+    "debut": 1775.0,
+    "fin": 1775.0,
+    "date_edtf": "1775",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Capt. de Mumbrune"
+    ],
+    "description": "Station d'Eaton, sur le Cumberland près de Nashville (Tennessee), 1775. Capt. de Mumbrune « a Frenchman who hunted in this country » ; chasse et dresse une cabane sur le Cumberland. D'après Haywood, Civil and Political History of Tennessee (1823). Autres lieux de l'entrée : Deacon's Pond, près de Palmyra, comté de Montgomery (Tennessee), Nashville (Tennessee).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 94-95, 365 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=DE+MUMBRUNE",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.47,
+     36.42
+    ]
+   },
+   "properties": {
+    "id": "UJ-de-mumbrune-capt-deacon-s-p",
+    "nom": "Deacon's Pond, près de Palmyra, comté de Montgomery (Tennessee) : Capt. de Mumbrune",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "personnage",
+    "debut": 1777.0,
+    "fin": 1777.0,
+    "date_edtf": "1777",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Capt. de Mumbrune"
+    ],
+    "description": "Deacon's Pond, près de Palmyra, comté de Montgomery (Tennessee), 1777. Capt. de Mumbrune redescend la rivière puis remonte le Wabash jusqu'au poste Vincennes. D'après Haywood, Civil and Political History of Tennessee (1823). Autres lieux de l'entrée : station d'Eaton, sur le Cumberland près de Nashville (Tennessee), Nashville (Tennessee).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 94-95, 365 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=DE+MUMBRUNE",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.78,
+     36.16
+    ]
+   },
+   "properties": {
+    "id": "UJ-de-mumbrune-capt-nashville-",
+    "nom": "Nashville (Tennessee) : Capt. de Mumbrune",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "evenement",
+    "debut": 1792.0,
+    "fin": 1792.0,
+    "date_edtf": "1792",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Capt. de Mumbrune"
+    ],
+    "description": "Nashville (Tennessee), 1792. Capt. de Mumbrune « Capt. Demumbrane », ancien habitant de Kaskaskia et capitaine de Clark ; reçoit les plans d'attaque des Cherokees et les transmet aux établissements du Cumberland. D'après Haywood, Civil and Political History of Tennessee (1823). Autres lieux de l'entrée : station d'Eaton, sur le Cumberland près de Nashville (Tennessee), Deacon's Pond, près de Palmyra, comté de Montgomery (Tennessee).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 94-95, 365 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=DE+MUMBRUNE",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.78,
+     36.16
+    ]
+   },
+   "properties": {
+    "id": "UJ-derogue-nashville-",
+    "nom": "Nashville (Tennessee) : Derogue",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "evenement",
+    "debut": 1792.0,
+    "fin": 1792.0,
+    "date_edtf": "1792",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Derogue"
+    ],
+    "description": "Nashville (Tennessee), 1792. Derogue « Frenchman from Canada » ; messager des Espagnols auprès des Creeks et des Cherokees, renseigne le général Robertson sur l'attaque projetée. D'après Haywood, Civil and Political History of Tennessee (1823).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 365-366 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=DEROGUE",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.78,
+     36.16
+    ]
+   },
+   "properties": {
+    "id": "UJ-fagot-mr-nashville-",
+    "nom": "Nashville (Tennessee) : Mr. Fagot",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "evenement",
+    "debut": 1792.0,
+    "fin": 1792.0,
+    "date_edtf": "1792",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Mr. Fagot"
+    ],
+    "description": "Nashville (Tennessee), 1792. Mr. Fagot employeur de Derogue ; aurait averti le commandant espagnol d'une attaque des colons contre les postes espagnols. D'après Haywood, Civil and Political History of Tennessee (1823).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 366 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=FAGOT",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.2,
+     32.55
+    ]
+   },
+   "properties": {
+    "id": "UJ-olivier-capt-little-tal",
+    "nom": "Little Tallassee, nation creek (Alabama) : Capt. Olivier",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "personnage",
+    "debut": 1792.0,
+    "fin": 1792.0,
+    "date_edtf": "1792",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Capt. Olivier"
+    ],
+    "description": "Little Tallassee, nation creek (Alabama), 1792. Capt. Olivier Français, capitaine de l'armée espagnole envoyé dans la nation creek pour diriger les villages contre les États-Unis. D'après Haywood, Civil and Political History of Tennessee (1823).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 356 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=OLIVIER",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.13,
+     35.53
+    ]
+   },
+   "properties": {
+    "id": "UJ-perrault-mr-chota-tenn",
+    "nom": "Chota, capitale cherokee sur la Little Tennessee (Tennessee) : Mr. Perrault",
+    "corpus": "archive.org · Haywood, Civil and Political History of Tennessee (1823)",
+    "theme": "personnage",
+    "debut": 1787.0,
+    "fin": 1787.0,
+    "date_edtf": "1787",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mr. Perrault"
+    ],
+    "description": "Chota, capitale cherokee sur la Little Tennessee (Tennessee), 1787. Mr. Perrault rencontre deux cents Creeks sur la route de Nashville aux Cherokees et tente en vain de les détourner avec la lettre de Robertson. D'après Haywood, Civil and Political History of Tennessee (1823).",
+    "sources": "John Haywood, The Civil and Political History of the State of Tennessee (1823 ; réimpr. Nashville, 1891), p. 237 ; texte intégral : archive.org, civilpoliticalhi00hayw.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Haywood, Civil and Political History of Tennessee (1823)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/civilpoliticalhi00hayw?q=PERRAULT",
+      "texte": "Lire Haywood, Civil and Political History of Tennessee (1823) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
