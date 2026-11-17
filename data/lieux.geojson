@@ -741264,6 +741264,856 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.464,
+     46.042
+    ]
+   },
+   "properties": {
+    "id": "BP-brouillet-vicaire-general-waiilatpu",
+    "nom": "Waiilatpu (mission Whitman) : Brouillet (Vicaire Général)",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Brouillet (Vicaire Général)"
+    ],
+    "description": "Waiilatpu (mission Whitman), 1847. Brouillet (Vicaire Général) visite la mission au lendemain du massacre et enterre les victimes. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 33 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=BROUILLET+vicaire+général+",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BP-conoyer-capitaine-walla-wall",
+    "nom": "Fort Walla Walla : Conoyer (Capitaine)",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Conoyer (Capitaine)"
+    ],
+    "description": "Fort Walla Walla, 1856. Conoyer (Capitaine) commande les éclaireurs pendant la campagne de Walla Walla. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 42 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=CONOYER+capitaine+",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6,
+     46.6
+    ]
+   },
+   "properties": {
+    "id": "BP-dubeau-l-l-lewis-comt",
+    "nom": "Comté de Lewis (Washington) : L. L. Dubeau",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "L. L. Dubeau"
+    ],
+    "description": "Comté de Lewis (Washington), 1861. L. L. Dubeau premier lieutenant des Lewis County Rangers, juin 1861. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 57 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=DUBEAU",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.42,
+     47.58
+    ]
+   },
+   "properties": {
+    "id": "BP-lapray-joseph-lincoln-co",
+    "nom": "Comté de Lincoln (Washington) : Joseph Lapray",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Lapray"
+    ],
+    "description": "Comté de Lincoln (Washington), 1888. Joseph Lapray parmi les principaux contribuables du comté ; pont Lapray sur la Spokane. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 67, 88 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=LAPRAY",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.98,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "BP-ringuett-frank-sprague-wa",
+    "nom": "Sprague (Washington) : Frank Ringuett",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1887.0,
+    "fin": 1887.0,
+    "date_edtf": "1887",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank Ringuett"
+    ],
+    "description": "Sprague (Washington), 1887. Frank Ringuett soldat de la troupe A de Sprague, imprimé « Ringuit ». D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : comté de Lincoln (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 88, 178 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=RINGUETT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.42,
+     47.58
+    ]
+   },
+   "properties": {
+    "id": "BP-ringuett-frank-lincoln-co",
+    "nom": "Comté de Lincoln (Washington) : Frank Ringuett",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Frank Ringuett"
+    ],
+    "description": "Comté de Lincoln (Washington), 1888. Frank Ringuett parmi les principaux contribuables du comté. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Sprague (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 88, 178 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=RINGUETT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.15,
+     47.65
+    ]
+   },
+   "properties": {
+    "id": "BP-prudhomme-j-a-davenport-",
+    "nom": "Davenport (Washington) : J. A. Prudhomme",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1898.0,
+    "fin": 1898.0,
+    "date_edtf": "1898",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. A. Prudhomme"
+    ],
+    "description": "Davenport (Washington), 1898. J. A. Prudhomme sous-lieutenant de la compagnie de milice formée le 28 mai. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), s. p. ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=PRUDHOMME",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.88,
+     47.67
+    ]
+   },
+   "properties": {
+    "id": "BP-gravelle-alphonse-reardan-wa",
+    "nom": "Reardan (Washington) : Alphonse Gravelle",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alphonse Gravelle"
+    ],
+    "description": "Reardan (Washington), 1889. Alphonse Gravelle fonde avec A. M. Gannon un bureau de poste sur la ligne du Seattle, Lake Shore & Eastern, 18 mai 1889. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 189 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GRAVELLE",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "BP-matthew-f-x-willamette",
+    "nom": "Vallée de la Willamette : F. X. Matthew",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "F. X. Matthew"
+    ],
+    "description": "Vallée de la Willamette, 1842. F. X. Matthew, né à Montréal, 1818, de parents natifs de France, arrive en Oregon au service de l'American Fur Company ; plus tard juge de paix, commissaire de comté et législateur territorial ; épouse Rosa Ossiant. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 225, 257 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=MATTHEW",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1,
+     46.24
+    ]
+   },
+   "properties": {
+    "id": "BP-bittner-joseph-e-dr-pasco-wash",
+    "nom": "Pasco (Washington) : Joseph E. Bittner (Dr)",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph E. Bittner (Dr)"
+    ],
+    "description": "Pasco (Washington), 1889. Joseph E. Bittner (Dr), né à Québec, 1862, fils de Joseph G. Bittner et de Domitilde (Ioncas), natifs de Québec, médecin. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Sprague (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 226 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=BITTNER",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.98,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "BP-bittner-joseph-e-dr-sprague-wa",
+    "nom": "Sprague (Washington) : Joseph E. Bittner (Dr)",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1896.0,
+    "fin": 1896.0,
+    "date_edtf": "1896",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph E. Bittner (Dr)"
+    ],
+    "description": "Sprague (Washington), 1896. Joseph E. Bittner (Dr), né à Québec, 1862, fils de Joseph G. Bittner et de Domitilde (Ioncas), natifs de Québec, s'établit à Sprague. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Pasco (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 226 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=BITTNER",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.48,
+     47.36
+    ]
+   },
+   "properties": {
+    "id": "BP-calliott-william-lamona-was",
+    "nom": "Lamona (Washington) : William Calliott",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Calliott"
+    ],
+    "description": "Lamona (Washington), 1888. William Calliott, né à comté de Sainte-Geneviève (Missouri), 1859, fils de Jule et Emily (Simino) Calliott, homestead près de Lamona ; cultivateur. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 260-261 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=CALLIOTT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.52,
+     47.76
+    ]
+   },
+   "properties": {
+    "id": "BP-greenwood-raphael-creston-wa",
+    "nom": "Creston (Washington) : Raphael Greenwood",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1893.0,
+    "fin": 1893.0,
+    "date_edtf": "1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Raphael Greenwood"
+    ],
+    "description": "Creston (Washington), 1893. Raphael Greenwood, né à Trois-Rivières, 1841, d'ancêtres paternels venus de France ; épouse Celina Raboin, s'établit dans le comté de Lincoln, ferme à deux milles au sud de Creston. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 308 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GREENWOOD",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.42,
+     47.66
+    ]
+   },
+   "properties": {
+    "id": "BP-proulx-napoleon-spokane-wa",
+    "nom": "Spokane (Washington) : Napoleon Proulx",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1885.0,
+    "date_edtf": "1885",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoleon Proulx"
+    ],
+    "description": "Spokane (Washington), 1885. Napoleon Proulx, né à Canada, 1853, fils de William et Dinis (Brunet) Proulx, arrive ; boulangerie à Medical Lake. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Almira (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 368 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=PROULX",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.94,
+     47.71
+    ]
+   },
+   "properties": {
+    "id": "BP-proulx-napoleon-almira-was",
+    "nom": "Almira (Washington) : Napoleon Proulx",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoleon Proulx"
+    ],
+    "description": "Almira (Washington), 1890. Napoleon Proulx, né à Canada, 1853, fils de William et Dinis (Brunet) Proulx, homestead au nord d'Almira. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Spokane (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 368 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=PROULX",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.42,
+     47.66
+    ]
+   },
+   "properties": {
+    "id": "BP-proulx-napoleon-spokane-wa-2",
+    "nom": "Spokane (Washington) : Napoleon Proulx",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1900.0,
+    "fin": 1900.0,
+    "date_edtf": "1900",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoleon Proulx"
+    ],
+    "description": "Spokane (Washington), 1900. Napoleon Proulx, né à Canada, 1853, fils de William et Dinis (Brunet) Proulx, y installe sa famille. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Almira (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 368 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=PROULX",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.42,
+     47.66
+    ]
+   },
+   "properties": {
+    "id": "BP-dumas-amelia-mrs-proulx-spokane-wa",
+    "nom": "Spokane (Washington) : Amelia Dumas (Mrs. Proulx)",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1900.0,
+    "fin": 1900.0,
+    "date_edtf": "1900",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Amelia Dumas (Mrs. Proulx)"
+    ],
+    "description": "Spokane (Washington), 1900. Amelia Dumas (Mrs. Proulx), né à Canada, épouse de Napoleon Proulx, mariés en juin 1875. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 368 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=DUMAS",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.88,
+     47.67
+    ]
+   },
+   "properties": {
+    "id": "BP-gravelle-alfred-reardan-wa",
+    "nom": "Reardan (Washington) : Alfred Gravelle",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1904.0,
+    "fin": 1904.0,
+    "date_edtf": "1904~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Alfred Gravelle"
+    ],
+    "description": "Reardan (Washington), vers 1904. Alfred Gravelle, né à Montréal, 1854, fils d'Octave Gravelle, né au Canada « d'extraction française », homestead au sud-ouest de Reardan, puis terre de la gare Gravelle ; résidence à Spokane. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 447 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GRAVELLE",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BP-sarasin-joseph-walla-wall",
+    "nom": "Fort Walla Walla : Joseph Sarasin",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Sarasin"
+    ],
+    "description": "Fort Walla Walla, 1879. Joseph Sarasin, né à Saint-Jean (Canada), 1850, fils de Levi Sarasin, Canadien d'ascendance française, arrive. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Davenport (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 500 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=SARASIN",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.15,
+     47.65
+    ]
+   },
+   "properties": {
+    "id": "BP-sarasin-joseph-davenport-",
+    "nom": "Davenport (Washington) : Joseph Sarasin",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Sarasin"
+    ],
+    "description": "Davenport (Washington), 1879. Joseph Sarasin, né à Saint-Jean (Canada), 1850, fils de Levi Sarasin, Canadien d'ascendance française, s'établit en juin sur sa ferme au nord de Davenport. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : fort Walla Walla.",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 500 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=SARASIN",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.11,
+     47.69
+    ]
+   },
+   "properties": {
+    "id": "BP-alboucq-leon-hartline-w",
+    "nom": "Hartline (Washington) : Leon Alboucq",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1902.0,
+    "fin": 1902.0,
+    "date_edtf": "1902",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Leon Alboucq"
+    ],
+    "description": "Hartline (Washington), 1902. Leon Alboucq, né à Mont-Saint-Jean (Aisne, France), 1864, fils d'Alexis et Aglae (Jerard) Alboucq, quitte son homestead à huit milles au nord pour ouvrir un commerce à Hartline ; ancien soldat de l'armée française, émigré en 1889. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 626-627 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=ALBOUCQ",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     47.7
+    ]
+   },
+   "properties": {
+    "id": "BP-guibert-antoine-douglas-co",
+    "nom": "Comté de Douglas (Washington) : Antoine Guibert",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1886.0,
+    "fin": 1886.0,
+    "date_edtf": "1886",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Guibert"
+    ],
+    "description": "Comté de Douglas (Washington), 1886. Antoine Guibert, né à Paris, 1861, fils d'Antoine Guibert (sud-ouest de la France) et de Barthilda Honvanx (Dunkerque), prend une terre au printemps. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : Waterville (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 696-697 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GUIBERT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07,
+     47.65
+    ]
+   },
+   "properties": {
+    "id": "BP-guibert-antoine-waterville",
+    "nom": "Waterville (Washington) : Antoine Guibert",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Guibert"
+    ],
+    "description": "Waterville (Washington), 1890. Antoine Guibert, né à Paris, 1861, fils d'Antoine Guibert (sud-ouest de la France) et de Barthilda Honvanx (Dunkerque). Sa famille s'y installe. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : comté de Douglas (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 696-697 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GUIBERT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07,
+     47.65
+    ]
+   },
+   "properties": {
+    "id": "BP-guibert-antoine-waterville-2",
+    "nom": "Waterville (Washington) : Antoine Guibert",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1891.0,
+    "fin": 1891.0,
+    "date_edtf": "1891",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Guibert"
+    ],
+    "description": "Waterville (Washington), 1891. Antoine Guibert, né à Paris, 1861, fils d'Antoine Guibert (sud-ouest de la France) et de Barthilda Honvanx (Dunkerque), ouvre une bijouterie ; épouse Maria Michaels à Bruxelles. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : comté de Douglas (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 696-697 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GUIBERT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07,
+     47.65
+    ]
+   },
+   "properties": {
+    "id": "BP-guibert-antoine-waterville-3",
+    "nom": "Waterville (Washington) : Antoine Guibert",
+    "corpus": "archive.org · Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "theme": "personnage",
+    "debut": 1897.0,
+    "fin": 1897.0,
+    "date_edtf": "1897",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Guibert"
+    ],
+    "description": "Waterville (Washington), 1897. Antoine Guibert, né à Paris, 1861, fils d'Antoine Guibert (sud-ouest de la France) et de Barthilda Honvanx (Dunkerque), revient le 4 juillet. D'après Big Bend 1904 (Lincoln, Douglas, Adams, Franklin). Autres lieux de l'entrée : comté de Douglas (Washington).",
+    "sources": "An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee), p. 696-697 ; texte intégral : archive.org, illustratedhisto01stee.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Big Bend 1904 (Lincoln, Douglas, Adams, Franklin)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto01stee?q=GUIBERT",
+      "texte": "Lire Big Bend 1904 (Lincoln, Douglas, Adams, Franklin) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
