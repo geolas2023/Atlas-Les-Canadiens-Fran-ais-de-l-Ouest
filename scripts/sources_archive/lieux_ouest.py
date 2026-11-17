@@ -1857,6 +1857,10 @@ G.update({
     'Siskiyou (Californie)': (-122.63, 41.73, 'h', 'comté de Siskiyou (Yreka), Californie'),
     'San Jacinto (Californie)': (-116.96, 33.78, 'h', 'rancho San Jacinto (Californie)'),
     'Santa Monica (Californie)': (-118.49, 34.02, 'c', 'Santa Monica (Californie)'),
+    'Pasadena (Californie)': (-118.14, 34.15, 'c', 'Pasadena (Californie)'),
+    'Pomona (Californie)': (-117.75, 34.06, 'c', 'Pomona (Californie)'),
+    'Puente (Californie)': (-117.95, 34.03, 'h', 'La Puente (Californie)'),
+    'Wilmington (Californie)': (-118.26, 33.78, 'c', 'Wilmington (Los Angeles), Californie'),
 })
 
 
