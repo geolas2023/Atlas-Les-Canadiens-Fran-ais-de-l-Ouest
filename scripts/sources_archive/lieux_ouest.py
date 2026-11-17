@@ -1869,6 +1869,8 @@ G.update({
     'Alviso (Californie)': (-121.97, 37.43, 'c', 'Alviso (Californie)'),
     'Los Gatos (Californie)': (-121.96, 37.23, 'c', 'Los Gatos (Californie)'),
     'Almaden (Californie)': (-121.83, 37.18, 'h', 'New Almaden (Californie)'),
+    'Alameda (Californie)': (-122.24, 37.77, 'c', "Alameda (l'Encinal), Californie"),
+    'Nevada (comté, Californie)': (-120.9, 39.3, 'h', 'comté de Nevada (Californie)'),
 })
 
 
