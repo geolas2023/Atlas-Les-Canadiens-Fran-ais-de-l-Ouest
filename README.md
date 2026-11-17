@@ -453,6 +453,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofamadorc00maso` | 4 |
 | `historyofsanluis00ange` | 13 |
 | `historyofsantaba00maso` | 5 |
+| `illustratedhisto00chic` | 4 |
+| `historyofsolanoc00munr` | 3 |
+| `historyofnapalak00palm` | 7 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

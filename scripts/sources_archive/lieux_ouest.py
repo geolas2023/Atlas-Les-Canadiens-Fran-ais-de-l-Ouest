@@ -1907,6 +1907,12 @@ G.update({
     'Côte de Californie': (-120.9, 35.2, 'a', 'côte des comtés de San Luis Obispo et Santa Barbara (Californie)'),
     'Santa Barbara (comté)': (-120.2, 34.6, 'h', 'comté de Santa Barbara (Gaviota, Las Cruces), Californie'),
     'Ventura (comté)': (-119.05, 34.3, 'h', 'comté de Ventura (vallée de la Santa Clara), Californie'),
+    'San Joaquin (comté)': (-121.25, 37.93, 'h', 'comté de San Joaquin (Californie)'),
+    'Weaverville (Californie)': (-122.94, 40.73, 'c', 'Weaverville (comté de Trinity), Californie'),
+    'Solano (comté)': (-121.9, 38.27, 'h', 'comté de Solano (Californie)'),
+    'St. Helena (Californie)': (-122.47, 38.51, 'c', 'St. Helena (comté de Napa), Californie'),
+    'Calistoga (Californie)': (-122.58, 38.58, 'c', 'Calistoga (comté de Napa), Californie'),
+    'Oakville (Californie)': (-122.4, 38.44, 'c', 'Oakville (comté de Napa), Californie'),
 })
 
 
