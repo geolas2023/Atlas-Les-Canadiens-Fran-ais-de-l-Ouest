@@ -1796,6 +1796,16 @@ G.update({
     'De Beque (Colorado)': (-108.21, 39.33, 'c', 'De Beque (comté de Mesa), Colorado'),
     'Carbondale (Colorado)': (-107.21, 39.4, 'c', 'Carbondale, Colorado'),
     'Alamosa (Colorado)': (-105.87, 37.47, 'c', 'Alamosa, Colorado'),
+    'Portland (Kentucky)': (-85.81, 38.27, 'c', 'Portland et Shippingport (Louisville), Kentucky'),
+    'Nazareth (Kentucky)': (-85.47, 37.85, 'h', 'Nazareth (Sœurs de la Charité), près de Bardstown, Kentucky'),
+    'Gethsemani (Kentucky)': (-85.53, 37.66, 'h', 'abbaye de Gethsemani (comté de Nelson), Kentucky'),
+    'Fairfield (Kentucky)': (-85.38, 37.93, 'c', 'Fairfield (comté de Nelson), Kentucky'),
+    'Raywick (Kentucky)': (-85.43, 37.56, 'c', 'Raywick, Kentucky'),
+    'Lebanon (Kentucky)': (-85.25, 37.57, 'c', 'Lebanon, Kentucky'),
+    'Georgetown (Kentucky)': (-84.56, 38.21, 'c', 'Georgetown (comté de Scott), Kentucky'),
+    'Elizabethtown (Kentucky)': (-85.86, 37.69, 'c', 'Elizabethtown (comté de Hardin), Kentucky'),
+    'Shepherdsville (Kentucky)': (-85.72, 37.99, 'c', 'Shepherdsville (comté de Bullitt), Kentucky'),
+    'Paroquet Springs (Kentucky)': (-85.7, 38.01, 'h', 'Paroquet Springs (comté de Bullitt), Kentucky'),
 })
 
 
