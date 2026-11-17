@@ -502,6 +502,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofpugetso01pros` | 13 |
 | `washingtonhistor14wash` | 8 |
 | `WHQ (journals.lib.washington.edu)` | 98 |
+| `washington_bagley_1916` | 10 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

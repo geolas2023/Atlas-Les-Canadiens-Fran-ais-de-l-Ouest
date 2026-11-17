@@ -2068,6 +2068,7 @@ G.update({
     'Rivière Chehalis (Washington)': (-123.2, 46.9, 'h', 'rivière Chehalis (Washington)'),
     'Fourche de la Spokane': (-118.33, 47.9, 'h', 'fourche (embouchure) de la Spokane'),
     'Puget Sound': (-122.9, 47.1, 'h', 'Puget Sound (fond du détroit)'),
+    'Bryant (Washington)': (-122.17, 48.24, 'c', 'Bryant (comté de Snohomish, Washington)'),
 })
 
 
