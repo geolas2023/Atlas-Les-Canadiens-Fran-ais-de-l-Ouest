@@ -644806,6 +644806,2284 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VO-beaubien-charles-hipolyte-tr-taos",
+    "nom": "Taos : Charles Hipolyte Trotier, Sieur de Beaubien",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Hipolyte Trotier, Sieur de Beaubien"
+    ],
+    "description": "Taos, 1823. Charles Hipolyte Trotier, Sieur de Beaubien, né à Trois-Rivières (Canada), « Carlos Beaubien », traiteur établi à Taos. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique, Santa Fe.",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 84, 148-155, 266-269 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=BEAUBIEN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.92,
+     36.51
+    ]
+   },
+   "properties": {
+    "id": "VO-beaubien-charles-hipolyte-tr-concession",
+    "nom": "Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique : Charles Hipolyte Trotier, Sieur de Beaubien",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Hipolyte Trotier, Sieur de Beaubien"
+    ],
+    "description": "Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique, vers 1841. Charles Hipolyte Trotier, Sieur de Beaubien, né à Trois-Rivières (Canada), concession accordée par le gouverneur Armijo, avec Guadalupe Miranda. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Taos, Santa Fe.",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 84, 148-155, 266-269 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=BEAUBIEN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-beaubien-charles-hipolyte-tr-santa-fe",
+    "nom": "Santa Fe : Charles Hipolyte Trotier, Sieur de Beaubien",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Hipolyte Trotier, Sieur de Beaubien"
+    ],
+    "description": "Santa Fe, 1846. Charles Hipolyte Trotier, Sieur de Beaubien, né à Trois-Rivières (Canada), nommé juge de la cour supérieure par Kearny le 22 septembre. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Taos, Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique.",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 84, 148-155, 266-269 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=BEAUBIEN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-beaubien-charles-hipolyte-tr-santa-fe-2",
+    "nom": "Santa Fe : Charles Hipolyte Trotier, Sieur de Beaubien",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Hipolyte Trotier, Sieur de Beaubien"
+    ],
+    "description": "Santa Fe, 1848. Charles Hipolyte Trotier, Sieur de Beaubien, né à Trois-Rivières (Canada), signe la pétition au Congrès du 14 octobre. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Taos, Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique.",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 84, 148-155, 266-269 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=BEAUBIEN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VO-beaubien-charles-hipolyte-tr-taos-2",
+    "nom": "Taos : Charles Hipolyte Trotier, Sieur de Beaubien",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1864.0,
+    "fin": 1864.0,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Hipolyte Trotier, Sieur de Beaubien"
+    ],
+    "description": "Taos, 1864. Charles Hipolyte Trotier, Sieur de Beaubien, né à Trois-Rivières (Canada), y meurt le 10 février. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique, Santa Fe.",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 84, 148-155, 266-269 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=BEAUBIEN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VO-beaubien-narcisco-taos",
+    "nom": "Taos : Narcisco Beaubien",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Narcisco Beaubien"
+    ],
+    "description": "Taos, 1847. Narcisco Beaubien fils de Charles Beaubien, tué par les insurgés après s'être caché dans une écurie. D'après Twitchell, Military Occupation of New Mexico (1909).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 126 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=BEAUBIEN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-st-vrain-ceran-santa-fe",
+    "nom": "Santa Fe : Ceran St. Vrain",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Santa Fe, 1847. Ceran St. Vrain capitaine d'une compagnie de volontaires levée parmi les commis et charretiers de Santa Fe ; associé de Charles Bent. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Taos, fort Union (Nouveau-Mexique).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 128-134, 161, 181, 280, 299-301, 320, 333 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=ST+VRAIN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VO-st-vrain-ceran-taos",
+    "nom": "Taos : Ceran St. Vrain",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Taos, 1847. Ceran St. Vrain combat à La Cañada, à Embudo et à Taos sous Price. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Santa Fe, fort Union (Nouveau-Mexique).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 128-134, 161, 181, 280, 299-301, 320, 333 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=ST+VRAIN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-st-vrain-ceran-santa-fe-2",
+    "nom": "Santa Fe : Ceran St. Vrain",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Santa Fe, 1850. Ceran St. Vrain candidat malheureux à l'élection de juin. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Taos, fort Union (Nouveau-Mexique).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 128-134, 161, 181, 280, 299-301, 320, 333 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=ST+VRAIN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-st-vrain-ceran-santa-fe-3",
+    "nom": "Santa Fe : Ceran St. Vrain",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Santa Fe, 1855. Ceran St. Vrain commande le bataillon de volontaires. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Taos, fort Union (Nouveau-Mexique).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 128-134, 161, 181, 280, 299-301, 320, 333 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=ST+VRAIN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.97,
+     35.9
+    ]
+   },
+   "properties": {
+    "id": "VO-st-vrain-ceran-fort-union",
+    "nom": "Fort Union (Nouveau-Mexique) : Ceran St. Vrain",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "poste",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Fort Union (Nouveau-Mexique), 1861. Ceran St. Vrain colonel du 1er de cavalerie du Nouveau-Mexique, démissionne. D'après Twitchell, Military Occupation of New Mexico (1909). Autres lieux de l'entrée : Santa Fe, Taos.",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 128-134, 161, 181, 280, 299-301, 320, 333 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=ST+VRAIN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "VO-morin-captain-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Captain Morin",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Captain Morin"
+    ],
+    "description": "Mora, Nouveau-Mexique, 1847. Captain Morin. « of Platte », mène quelque 200 hommes à Mora, qu'il incendie pour venger le frère de David Waldo. D'après Twitchell, Military Occupation of New Mexico (1909).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 331, 333 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=MORIN",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-clement-antoine-santa-fe",
+    "nom": "Santa Fe : Antoine Clement",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Clement"
+    ],
+    "description": "Santa Fe, 1846. Antoine Clement « old Canadian hunter », trappeur qui accompagne la colonne de Kearny jusqu'à Santa Fe. D'après Twitchell, Military Occupation of New Mexico (1909).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 382-383 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=CLEMENT",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-chouteau-edmund-f-santa-fe",
+    "nom": "Santa Fe : Edmund F. Chouteau",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Edmund F. Chouteau"
+    ],
+    "description": "Santa Fe, 1846. Edmund F. Chouteau premier lieutenant de la batterie A du bataillon d'artillerie Clark (Missouri), puis campagne de Doniphan. D'après Twitchell, Military Occupation of New Mexico (1909).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 382, 391 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=CHOUTEAU",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-gratiot-john-r-santa-fe",
+    "nom": "Santa Fe : John R. Gratiot",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John R. Gratiot"
+    ],
+    "description": "Santa Fe, 1846. John R. Gratiot sergent puis sous-lieutenant de la batterie A de Saint-Louis. D'après Twitchell, Military Occupation of New Mexico (1909).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 382 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=GRATIOT",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VO-lamy-j-b-santa-fe",
+    "nom": "Santa Fe : J. B. Lamy",
+    "corpus": "archive.org · Twitchell, Military Occupation of New Mexico (1909)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Lamy"
+    ],
+    "description": "Santa Fe, 1850. J. B. Lamy établit le diocèse de Santa Fe. D'après Twitchell, Military Occupation of New Mexico (1909).",
+    "sources": "R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909, p. 224 ; texte intégral : archive.org, historyofmilitar00twit.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Twitchell, Military Occupation of New Mexico (1909)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmilitar00twit?q=LAMY",
+      "texte": "Lire Twitchell, Military Occupation of New Mexico (1909) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-machebeuf-joseph-p-santa-fe",
+    "nom": "Santa Fe : Joseph P. Machebeuf",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Santa Fe, 1851. Joseph P. Machebeuf arrive avec Lamy, vicaire général ; « I was an Auvergnat ». D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 153-233, 286-297, 409-418 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MACHEBEUF",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-machebeuf-joseph-p-santa-fe-2",
+    "nom": "Santa Fe : Joseph P. Machebeuf",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Santa Fe, 1852. Joseph P. Machebeuf achète une maison à un Français de Saint-Louis. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 153-233, 286-297, 409-418 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MACHEBEUF",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-machebeuf-joseph-p-denver-col",
+    "nom": "Denver (Colorado) : Joseph P. Machebeuf",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Denver (Colorado), 1860. Joseph P. Machebeuf fonde la mission de Pike's Peak. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 153-233, 286-297, 409-418 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MACHEBEUF",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-machebeuf-joseph-p-denver-col-2",
+    "nom": "Denver (Colorado) : Joseph P. Machebeuf",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph P. Machebeuf"
+    ],
+    "description": "Denver (Colorado), 1889. Joseph P. Machebeuf premier évêque de Denver, y meurt. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 153-233, 286-297, 409-418 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MACHEBEUF",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-lamy-santa-fe",
+    "nom": "Santa Fe : Lamy",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lamy"
+    ],
+    "description": "Santa Fe, 1851. Lamy vicaire apostolique du Nouveau-Mexique. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 153-233, 380-405 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=LAMY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-lamy-santa-fe-2",
+    "nom": "Santa Fe : Lamy",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lamy"
+    ],
+    "description": "Santa Fe, 1888. Lamy archevêque, ami de toujours de Machebeuf, meurt le 13 février. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 153-233, 380-405 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=LAMY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-pinard-santa-fe",
+    "nom": "Santa Fe : Pinard",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pinard"
+    ],
+    "description": "Santa Fe, 1851. Pinard probablement du voyage depuis le Texas avec Lamy et Machebeuf. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Las Vegas (mission mormone, Nevada).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 159, 241 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=PINARD",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.14,
+     36.17
+    ]
+   },
+   "properties": {
+    "id": "VP-pinard-las-vegas",
+    "nom": "Las Vegas (mission mormone, Nevada) : Pinard",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pinard"
+    ],
+    "description": "Las Vegas (mission mormone, Nevada), 1858. Pinard appelé auprès du père Avel mourant, arrive trop tard. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 159, 241 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=PINARD",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.776,
+     34.66
+    ]
+   },
+   "properties": {
+    "id": "VP-juillard-belen-nouv",
+    "nom": "Belén, Nouveau-Mexique : Juillard",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Juillard"
+    ],
+    "description": "Belén, Nouveau-Mexique, 1854. Juillard curé de Belén, arrivé avec le groupe français de Lamy. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 199, 212, 248 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=JUILLARD",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.69,
+     34.91
+    ]
+   },
+   "properties": {
+    "id": "VP-martin-isleta-nou",
+    "nom": "Pueblo d'Isleta, Nouveau-Mexique : Martin",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Martin"
+    ],
+    "description": "Pueblo d'Isleta, Nouveau-Mexique, 1854. Martin curé d'Isleta. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 199 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MARTIN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-avel-stephen-santa-fe",
+    "nom": "Santa Fe : Stephen Avel",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Stephen Avel"
+    ],
+    "description": "Santa Fe, 1854. Stephen Avel ordonné à Clermont, vicaire à Santa Fe. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Mora, Nouveau-Mexique.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 199, 240 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=AVEL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "VP-avel-stephen-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Stephen Avel",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Stephen Avel"
+    ],
+    "description": "Mora, Nouveau-Mexique, 1858. Stephen Avel curé, empoisonné à Mora. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 199, 240 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=AVEL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-vaure-santa-fe",
+    "nom": "Santa Fe : Vaure",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Vaure"
+    ],
+    "description": "Santa Fe, 1854. Vaure jeune sous-diacre, meurt peu après son arrivée. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 199 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=VAURE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.65,
+     35.08
+    ]
+   },
+   "properties": {
+    "id": "VP-paulet-albuquerqu",
+    "nom": "Albuquerque : Paulet",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paulet"
+    ],
+    "description": "Albuquerque, 1856. Paulet curé d'Albuquerque. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 218, 298 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=PAULET",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.65,
+     35.08
+    ]
+   },
+   "properties": {
+    "id": "VP-paulet-albuquerqu-2",
+    "nom": "Albuquerque : Paulet",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paulet"
+    ],
+    "description": "Albuquerque, 1861. Paulet toujours à Albuquerque. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 218, 298 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=PAULET",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.97,
+     35.9
+    ]
+   },
+   "properties": {
+    "id": "VP-guerin-fort-union",
+    "nom": "Fort Union (Nouveau-Mexique) : Guerin",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "poste",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Guerin"
+    ],
+    "description": "Fort Union (Nouveau-Mexique), 1856. Guerin ancien condisciple de Machebeuf, rencontré près du fort. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Mora, Nouveau-Mexique.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 217-218, 303 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=GUERIN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "VP-guerin-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Guerin",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Guerin"
+    ],
+    "description": "Mora, Nouveau-Mexique, 1862. Guerin prêtre de la paroisse de Mora. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : fort Union (Nouveau-Mexique).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 217-218, 303 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=GUERIN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-eguillon-p-santa-fe",
+    "nom": "Santa Fe : P. Eguillon",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "P. Eguillon"
+    ],
+    "description": "Santa Fe, vers 1854. P. Eguillon prêtre venu de France. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 256, 382 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=EGUILLON",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-eguillon-p-santa-fe-2",
+    "nom": "Santa Fe : P. Eguillon",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "P. Eguillon"
+    ],
+    "description": "Santa Fe, 1875. P. Eguillon prêche en espagnol lors de la remise du pallium. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 256, 382 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=EGUILLON",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.65,
+     35.08
+    ]
+   },
+   "properties": {
+    "id": "VP-coudert-j-m-albuquerqu",
+    "nom": "Albuquerque : J. M. Coudert",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1858.999,
+    "date_edtf": "1856/1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. M. Coudert"
+    ],
+    "description": "Albuquerque, 1856-1858. J. M. Coudert venu du séminaire de Montferrand, vicaire à Albuquerque puis à Santa Fe. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212-227 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=COUDERT",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-truchard-santa-fe",
+    "nom": "Santa Fe : Truchard",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1858.999,
+    "date_edtf": "1856/1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Truchard"
+    ],
+    "description": "Santa Fe, 1856-1858. Truchard séminariste de Montferrand, puis vicaire à Santa Fe et curé de la cathédrale. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212-227, 380 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=TRUCHARD",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-fialon-santa-fe",
+    "nom": "Santa Fe : Fialon",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Fialon"
+    ],
+    "description": "Santa Fe, 1856. Fialon séminariste venu de Montferrand. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212, 214 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=FIALON",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-fayet-santa-fe",
+    "nom": "Santa Fe : Fayet",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Fayet"
+    ],
+    "description": "Santa Fe, 1856. Fayet séminariste venu de Montferrand. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=FAYET",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-ralliere-santa-fe",
+    "nom": "Santa Fe : Ralliere",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ralliere"
+    ],
+    "description": "Santa Fe, 1856. Ralliere séminariste venu de Montferrand. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 212 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=RALLIERE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-ussel-gabriel-santa-fe",
+    "nom": "Santa Fe : Gabriel Ussel",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Ussel"
+    ],
+    "description": "Santa Fe, 1856. Gabriel Ussel séminariste venu de Montferrand. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Taos, Arroyo Hondo, Nouveau-Mexique, Walsenburg, Colorado.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 211-236, 298-315, 348, 380-400 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=USSEL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VP-ussel-gabriel-taos",
+    "nom": "Taos : Gabriel Ussel",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1864.999,
+    "date_edtf": "1861/1864",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Ussel"
+    ],
+    "description": "Taos, 1861-1864. Gabriel Ussel curé de Taos ; va chercher Machebeuf à Denver ; visite sa famille en France en 1864. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe, Arroyo Hondo, Nouveau-Mexique, Walsenburg, Colorado.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 211-236, 298-315, 348, 380-400 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=USSEL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.66,
+     36.53
+    ]
+   },
+   "properties": {
+    "id": "VP-ussel-gabriel-arroyo-hon",
+    "nom": "Arroyo Hondo, Nouveau-Mexique : Gabriel Ussel",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Ussel"
+    ],
+    "description": "Arroyo Hondo, Nouveau-Mexique, 1868. Gabriel Ussel curé. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe, Taos, Walsenburg, Colorado.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 211-236, 298-315, 348, 380-400 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=USSEL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.78,
+     37.62
+    ]
+   },
+   "properties": {
+    "id": "VP-ussel-gabriel-walsenburg",
+    "nom": "Walsenburg, Colorado : Gabriel Ussel",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Ussel"
+    ],
+    "description": "Walsenburg, Colorado, 1876. Gabriel Ussel curé de Walsenburg. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe, Taos, Arroyo Hondo, Nouveau-Mexique.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 211-236, 298-315, 348, 380-400 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=USSEL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-lebrun-santa-fe",
+    "nom": "Santa Fe : Lebrun",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Lebrun"
+    ],
+    "description": "Santa Fe, vers 1857. Lebrun curé de la cathédrale. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Albuquerque.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 225 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=LEBRUN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.65,
+     35.08
+    ]
+   },
+   "properties": {
+    "id": "VP-lebrun-albuquerqu",
+    "nom": "Albuquerque : Lebrun",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lebrun"
+    ],
+    "description": "Albuquerque, 1858. Lebrun curé d'Albuquerque. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Santa Fe.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 225 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=LEBRUN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-lamy-mademoiselle-santa-fe",
+    "nom": "Santa Fe : Mademoiselle Lamy",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Mademoiselle Lamy"
+    ],
+    "description": "Santa Fe, 1858. Mademoiselle Lamy nièce de l'évêque, élève à Santa Fe, plus tard sœur de Lorette et mère vicaire générale. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 222-223 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=LAMY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VP-beaubien-charles-taos",
+    "nom": "Taos : Charles Beaubien",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Beaubien"
+    ],
+    "description": "Taos, vers 1855. Charles Beaubien catholique de la vallée de Taos, hôte et allié de Machebeuf. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 231-233 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=BEAUBIEN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VP-st-vrain-ceran-taos",
+    "nom": "Taos : Ceran St. Vrain",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Taos, vers 1855. Ceran St. Vrain catholique de la vallée de Taos, allié de Lamy. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 231, 273 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=ST+VRAIN",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-raverdy-john-b-denver-col",
+    "nom": "Denver (Colorado) : John B. Raverdy",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Raverdy"
+    ],
+    "description": "Denver (Colorado), 1860. John B. Raverdy quitte Santa Fe avec Machebeuf en septembre, vicaire à Denver. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 288-290, 321-326, 334-379, 393, 409-410 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=RAVERDY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "VP-raverdy-john-b-central-ci",
+    "nom": "Central City, Colorado : John B. Raverdy",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Raverdy"
+    ],
+    "description": "Central City, Colorado, 1866. John B. Raverdy curé à partir du 1er juin. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 288-290, 321-326, 334-379, 393, 409-410 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=RAVERDY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-raverdy-john-b-denver-col-2",
+    "nom": "Denver (Colorado) : John B. Raverdy",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Raverdy"
+    ],
+    "description": "Denver (Colorado), 1889. John B. Raverdy vicaire général, meurt peu après les funérailles de l'évêque. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 288-290, 321-326, 334-379, 393, 409-410 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=RAVERDY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "VP-salpointe-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Salpointe",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Salpointe"
+    ],
+    "description": "Mora, Nouveau-Mexique, 1862. Salpointe curé, héberge Machebeuf et Ussel. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 301-303, 353-358 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=SALPOINTE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "VP-jouvenceau-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Jouvenceau",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jouvenceau"
+    ],
+    "description": "Mora, Nouveau-Mexique, 1862. Jouvenceau prêtre de la paroisse de Mora. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 303 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=JOUVENCEAU",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.92,
+     36.51
+    ]
+   },
+   "properties": {
+    "id": "VP-maxwell-lucieu-concession",
+    "nom": "Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique : Lucieu Maxwell",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1864.0,
+    "fin": 1864.0,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lucieu Maxwell"
+    ],
+    "description": "Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique, 1864. Lucieu Maxwell reçoit les voyageurs à son ranch de Cimarron. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 302 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MAXWELL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-faure-john-denver-col",
+    "nom": "Denver (Colorado) : John Faure",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1867.999,
+    "date_edtf": "1866/1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Faure"
+    ],
+    "description": "Denver (Colorado), 1866-1867. John Faure vicaire de Machebeuf, parle peu l'anglais, retourne au Nouveau-Mexique. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 326 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=FAURE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-matthonet-denver-col",
+    "nom": "Denver (Colorado) : Matthonet",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1868.999,
+    "date_edtf": "1867/1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Matthonet"
+    ],
+    "description": "Denver (Colorado), 1867-1868. Matthonet « young French priest ». D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 338 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MATTHONET",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-garassu-robert-a-denver-col",
+    "nom": "Denver (Colorado) : Robert A. Garassu",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert A. Garassu"
+    ],
+    "description": "Denver (Colorado), 1869. Robert A. Garassu ordonné à Baltimore, premier prêtre ordonné pour le Colorado. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 353 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=GARASSU",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "VP-bourion-h-denver-col",
+    "nom": "Denver (Colorado) : H. Bourion",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "H. Bourion"
+    ],
+    "description": "Denver (Colorado), 1869. H. Bourion prêtre de Denver, missions de l'Utah. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 353, 363, 375 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=BOURION",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.02,
+     37.09
+    ]
+   },
+   "properties": {
+    "id": "VP-roily-michael-conejos-co",
+    "nom": "Conejos, Colorado : Michael Roily",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1871.999,
+    "date_edtf": "1866/1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Roily"
+    ],
+    "description": "Conejos, Colorado, 1866-1871. Michael Roily curé de Conejos. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 237, 353, 372 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=ROILY",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.53,
+     36.98
+    ]
+   },
+   "properties": {
+    "id": "VP-merle-louis-costilla-n",
+    "nom": "Costilla, Nouveau-Mexique : Louis Merle",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Merle"
+    ],
+    "description": "Costilla, Nouveau-Mexique, 1869. Louis Merle prêtre de Costilla. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Walsenburg, Colorado.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 353, 383 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MERLE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.78,
+     37.62
+    ]
+   },
+   "properties": {
+    "id": "VP-merle-louis-walsenburg",
+    "nom": "Walsenburg, Colorado : Louis Merle",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Merle"
+    ],
+    "description": "Walsenburg, Colorado, 1876. Louis Merle curé, meurt en septembre des suites d'un accident de voiture. D'après Howlett, Life of Bishop Machebeuf (1908). Autres lieux de l'entrée : Costilla, Nouveau-Mexique.",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 353, 383 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=MERLE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.02,
+     37.09
+    ]
+   },
+   "properties": {
+    "id": "VP-domergue-philibert-conejos-co",
+    "nom": "Conejos, Colorado : Philibert Domergue",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Philibert Domergue"
+    ],
+    "description": "Conejos, Colorado, vers 1871. Philibert Domergue, né à Saint-Flour, ordonné à Rennes en 1869, envoyé dans une paroisse mexicaine du sud ; part pour le Nouveau-Mexique quand les jésuites prennent la région. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 360, 365, 386 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=DOMERGUE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.02,
+     37.09
+    ]
+   },
+   "properties": {
+    "id": "VP-percevault-joseph-conejos-co",
+    "nom": "Conejos, Colorado : Joseph Percevault",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Percevault"
+    ],
+    "description": "Conejos, Colorado, vers 1871. Joseph Percevault ordonné à Rennes en 1869 ; part pour le Nouveau-Mexique à l'arrivée des jésuites. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 360, 386 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=PERCEVAULT",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.02,
+     37.09
+    ]
+   },
+   "properties": {
+    "id": "VP-guyot-francis-conejos-co",
+    "nom": "Conejos, Colorado : Francis Guyot",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis Guyot"
+    ],
+    "description": "Conejos, Colorado, vers 1871. Francis Guyot ordonné à Rennes en 1869 ; part pour le Nouveau-Mexique à l'arrivée des jésuites. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 360, 386 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=GUYOT",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.5,
+     37.17
+    ]
+   },
+   "properties": {
+    "id": "VP-pitaval-j-b-trinidad-c",
+    "nom": "Trinidad, Colorado : J. B. Pitaval",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Pitaval"
+    ],
+    "description": "Trinidad, Colorado, vers 1871. J. B. Pitaval prêtre dans la région de Conejos et Trinidad. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 386 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=PITAVAL",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VP-bourgade-santa-fe",
+    "nom": "Santa Fe : Bourgade",
+    "corpus": "archive.org · Howlett, Life of Bishop Machebeuf (1908)",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1885.0,
+    "date_edtf": "1885",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bourgade"
+    ],
+    "description": "Santa Fe, 1885. Bourgade sacré à Santa Fe évêque de l'Arizona. D'après Howlett, Life of Bishop Machebeuf (1908).",
+    "sources": "W. J. Howlett, Life of the Right Reverend Joseph P. Machebeuf, Pueblo (Colorado), Franklin Press, 1908, p. 396-397 ; texte intégral : archive.org, lifeofrightrever00howl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Howlett, Life of Bishop Machebeuf (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lifeofrightrever00howl?q=BOURGADE",
+      "texte": "Lire Howlett, Life of Bishop Machebeuf (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
