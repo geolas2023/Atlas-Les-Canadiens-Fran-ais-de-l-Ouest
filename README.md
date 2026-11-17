@@ -488,6 +488,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `quarterlyoforego13oreg` | 70 |
 | `quarterlyoforego15oreg` | 4 |
 | `quarterlyoforego04oreg` | 10 |
+| `illustratedhisto00hine` | 16 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
