@@ -1917,6 +1917,7 @@ G.update({
     'Sebastopol (Californie)': (-122.82, 38.4, 'c', 'Sebastopol (comté de Sonoma), Californie'),
     'Fulton (Californie)': (-122.77, 38.49, 'c', 'Fulton (comté de Sonoma), Californie'),
     'French Camp (Californie)': (-121.27, 37.88, 'c', 'French Camp (Campo de los Franceses), comté de San Joaquin, Californie'),
+    'Sutter (comté)': (-121.69, 39.03, 'h', 'comté de Sutter (Yuba City), Californie'),
 })
 
 

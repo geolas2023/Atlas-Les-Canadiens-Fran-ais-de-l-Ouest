@@ -700600,6 +700600,414 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "AG-covillaud-charles-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Charles Covillaud",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Covillaud"
+    ],
+    "description": "Rivière Yuba, Californie, 1849. Charles Covillaud garde la moitié de Cordua et Cie, magasin de Sicard Flat ; achète le ranch Nye le 27 sept. ; Marysville tient son nom de sa femme Mary Murphy, épousée en 1848. D'après Delay, History of Yuba and Sutter Counties. Autres lieux de l'entrée : Marysville, Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 63-77 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=COVILLAUD",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.59,
+     39.15
+    ]
+   },
+   "properties": {
+    "id": "AG-covillaud-charles-marysville",
+    "nom": "Marysville, Californie : Charles Covillaud",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Covillaud"
+    ],
+    "description": "Marysville, Californie, 1851. Charles Covillaud échevin du premier conseil municipal. D'après Delay, History of Yuba and Sutter Counties. Autres lieux de l'entrée : rivière Yuba, Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 63-77 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=COVILLAUD",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "AG-sicard-theodore-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Theodore Sicard",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Theodore Sicard"
+    ],
+    "description": "Rivière Yuba, Californie, 1848. Theodore Sicard achète des terres de Patterson. D'après Delay, History of Yuba and Sutter Counties. Autres lieux de l'entrée : Marysville, Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 63-70 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=SICARD",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.59,
+     39.15
+    ]
+   },
+   "properties": {
+    "id": "AG-sicard-theodore-marysville",
+    "nom": "Marysville, Californie : Theodore Sicard",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Theodore Sicard"
+    ],
+    "description": "Marysville, Californie, 1850. Theodore Sicard reçoit avec Covillaud, Ramirez et Sampson les actes de Sutter pour le site de la ville. D'après Delay, History of Yuba and Sutter Counties. Autres lieux de l'entrée : rivière Yuba, Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 63-70 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=SICARD",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.59,
+     39.15
+    ]
+   },
+   "properties": {
+    "id": "AG-le-plonjean-august-marysville",
+    "nom": "Marysville, Californie : August Le Plonjean",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "August Le Plonjean"
+    ],
+    "description": "Marysville, Californie, 1849. August Le Plonjean arpente en décembre le site de Yubaville, futur Marysville. D'après Delay, History of Yuba and Sutter Counties.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 67 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=LE+PLONJEAN",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.59,
+     39.15
+    ]
+   },
+   "properties": {
+    "id": "AG-pigne-dupuytren-j-b-marysville",
+    "nom": "Marysville, Californie : J. B. Pigne-Dupuytren",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Pigne-Dupuytren"
+    ],
+    "description": "Marysville, Californie, 1851. J. B. Pigne-Dupuytren docteur, vice-consul de France. D'après Delay, History of Yuba and Sutter Counties.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 76 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=PIGNE+DUPUYTREN",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6,
+     39.3
+    ]
+   },
+   "properties": {
+    "id": "AG-rouelle-feather-ri",
+    "nom": "Rivière Feather, Californie : Rouelle",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rouelle"
+    ],
+    "description": "Rivière Feather, Californie, 1848. Rouelle quitte sa place de la Yuba pour la Feather. D'après Delay, History of Yuba and Sutter Counties.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 63 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=ROUELLE",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AG-ohleyer-george-california",
+    "nom": "Californie : George Ohleyer",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Ohleyer"
+    ],
+    "description": "Californie, 1852. George Ohleyer, né à Alsace, 1831, mines. D'après Delay, History of Yuba and Sutter Counties. Autres lieux de l'entrée : rivière Yuba, Californie, comté de Sutter (Yuba City), Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 259 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=OHLEYER",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "AG-ohleyer-george-yuba-calif",
+    "nom": "Rivière Yuba, Californie : George Ohleyer",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Ohleyer"
+    ],
+    "description": "D'après Delay, History of Yuba and Sutter Counties, George Ohleyer, né à Alsace, 1831, est associé à ce lieu (rivière Yuba, Californie) en 1856. Autres lieux de l'entrée : Californie, comté de Sutter (Yuba City), Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 259 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=OHLEYER",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69,
+     39.03
+    ]
+   },
+   "properties": {
+    "id": "AG-ohleyer-george-sutter-com",
+    "nom": "Comté de Sutter (Yuba City), Californie : George Ohleyer",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Ohleyer"
+    ],
+    "description": "Comté de Sutter (Yuba City), Californie, 1865. George Ohleyer, né à Alsace, 1831, rédacteur du Sutter County Farmer, superviseur, député (1886-1888), chef du mouvement contre les débris miniers ; meurt le 15 août 1896. D'après Delay, History of Yuba and Sutter Counties. Autres lieux de l'entrée : Californie, rivière Yuba, Californie.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 259 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=OHLEYER",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "AG-labadie-peter-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Peter Labadie",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter Labadie"
+    ],
+    "description": "Rivière Yuba, Californie, 1852. Peter Labadie, né à Montréal, 1822, venu en char à bœufs ; marchand pionnier à l'Indiana Ranch, puis ranch de Maple Spring. D'après Delay, History of Yuba and Sutter Counties.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 522 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=LABADIE",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "AG-meilot-margaret-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Margaret Meilot",
+    "corpus": "archive.org · Delay, History of Yuba and Sutter Counties",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Margaret Meilot"
+    ],
+    "description": "Rivière Yuba, Californie, 1852. Margaret Meilot, né à Lorraine, épouse de Peter Labadie, venue avec la famille. D'après Delay, History of Yuba and Sutter Counties.",
+    "sources": "P. J. Delay, History of Yuba and Sutter Counties (1924), p. 522 ; texte intégral : archive.org, historyofyubasut00dela.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Delay, History of Yuba and Sutter Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofyubasut00dela?q=MEILOT",
+      "texte": "Lire Delay, History of Yuba and Sutter Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
