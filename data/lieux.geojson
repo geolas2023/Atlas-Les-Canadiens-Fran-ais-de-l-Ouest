@@ -701960,6 +701960,448 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AL-vioget-jean-san-franci",
+    "nom": "San Francisco : Jean Vioget",
+    "corpus": "archive.org · J. S. Hittell, History of the City of San Francisco",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Vioget"
+    ],
+    "description": "San Francisco, 1839. Jean Vioget dresse le premier plan d'arpentage de Yerba Buena. D'après J. S. Hittell, History of the City of San Francisco.",
+    "sources": "J. S. Hittell, A History of the City of San Francisco (1878), p. 86-87 ; texte intégral : archive.org, historyofcityofs00hitt.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "J. S. Hittell, History of the City of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcityofs00hitt?q=VIOGET",
+      "texte": "Lire J. S. Hittell, History of the City of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "AL-duflot-de-mofras-los-angele",
+    "nom": "Los Angeles : Duflot De Mofras",
+    "corpus": "archive.org · J. S. Hittell, History of the City of San Francisco",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Duflot De Mofras"
+    ],
+    "description": "Los Angeles, 1842. Duflot De Mofras visite la ville ; auteur d'un ouvrage sur l'Oregon et la Californie, rangé parmi les Britanniques et Français qui convoitent la province. D'après J. S. Hittell, History of the City of San Francisco.",
+    "sources": "J. S. Hittell, A History of the City of San Francisco (1878), p. 96, 98 ; texte intégral : archive.org, historyofcityofs00hitt.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "J. S. Hittell, History of the City of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcityofs00hitt?q=DUFLOT+DE+MOFRAS",
+      "texte": "Lire J. S. Hittell, History of the City of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AL-raousset-boulbon-gaston-de-san-franci",
+    "nom": "San Francisco : Gaston de Raousset Boulbon",
+    "corpus": "archive.org · J. S. Hittell, History of the City of San Francisco",
+    "theme": "evenement",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Gaston de Raousset Boulbon"
+    ],
+    "description": "San Francisco, vers 1852. Gaston de Raousset Boulbon, né à Provence, comte, organise depuis San Francisco ses expéditions françaises en Sonora (1851-1854) ; fusillé à Guaymas un 12 août, après les combats. D'après J. S. Hittell, History of the City of San Francisco.",
+    "sources": "J. S. Hittell, A History of the City of San Francisco (1878), p. 185, 187-196 ; texte intégral : archive.org, historyofcityofs00hitt.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "J. S. Hittell, History of the City of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcityofs00hitt?q=RAOUSSET+BOULBON",
+      "texte": "Lire J. S. Hittell, History of the City of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AL-dillon-san-franci",
+    "nom": "San Francisco : Dillon",
+    "corpus": "archive.org · J. S. Hittell, History of the City of San Francisco",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dillon"
+    ],
+    "description": "San Francisco, 1853. Dillon consul de France, soutient Raousset ; arrêté avec Del Valle, procès sans verdict. D'après J. S. Hittell, History of the City of San Francisco.",
+    "sources": "J. S. Hittell, A History of the City of San Francisco (1878), p. 192-193, 209-210 ; texte intégral : archive.org, historyofcityofs00hitt.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "J. S. Hittell, History of the City of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcityofs00hitt?q=DILLON",
+      "texte": "Lire J. S. Hittell, History of the City of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AL-mezzara-san-franci",
+    "nom": "San Francisco : Mezzara",
+    "corpus": "archive.org · J. S. Hittell, History of the City of San Francisco",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Mezzara"
+    ],
+    "description": "San Francisco, vers 1870. Mezzara « Madame Mezzara », infirmière de la commission sanitaire, reçoit des dons californiens pour la France pendant la guerre franco-allemande ; décorée par le gouvernement français. D'après J. S. Hittell, History of the City of San Francisco.",
+    "sources": "J. S. Hittell, A History of the City of San Francisco (1878), p. 385 ; texte intégral : archive.org, historyofcityofs00hitt.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "J. S. Hittell, History of the City of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcityofs00hitt?q=MEZZARA",
+      "texte": "Lire J. S. Hittell, History of the City of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "AM-angulo-pedro-santa-barb",
+    "nom": "Santa Barbara, Californie : Pedro Angulo",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pedro Angulo"
+    ],
+    "description": "Santa Barbara, Californie, 1825. Pedro Angulo commandant du brick Aquila, se dit Français et parle mal l'espagnol. D'après T. H. Hittell, History of California II.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 69 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=ANGULO",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AM-duflot-de-mofras-california",
+    "nom": "Californie : Duflot De Mofras",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duflot De Mofras"
+    ],
+    "description": "Californie, 1841. Duflot De Mofras attaché de la légation de France au Mexique, chargé d'explorer les Californies et l'Oregon (1840-1842) ; réclame justice pour le meurtre de Dubose. D'après T. H. Hittell, History of California II.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 288, 291-293, 310 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=DUFLOT+DE+MOFRAS",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.46,
+     38.29
+    ]
+   },
+   "properties": {
+    "id": "AM-dubose-pierre-sonoma-cal",
+    "nom": "Sonoma, Californie : Pierre Dubose",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "evenement",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Dubose"
+    ],
+    "description": "Sonoma, Californie, 1840. Pierre Dubose « a Frenchman », assassiné. D'après T. H. Hittell, History of California II.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 310 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=DUBOSE",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "AM-cambuston-henry-monterey-c",
+    "nom": "Monterey, Californie : Henry Cambuston",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Cambuston"
+    ],
+    "description": "Monterey, Californie, 1844. Henry Cambuston condamné en avril pour avoir acheté des marchandises de contrebande au baleinier français Ganges. D'après T. H. Hittell, History of California II.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 341 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=CAMBUSTON",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "AM-richard-pierre-monterey-c",
+    "nom": "Monterey, Californie : Pierre Richard",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Richard"
+    ],
+    "description": "Monterey, Californie, 1844. Pierre Richard condamné avec Cambuston pour l'affaire du baleinier Ganges. D'après T. H. Hittell, History of California II.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 341 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=RICHARD",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AM-prudon-victor-california",
+    "nom": "Californie : Victor Prudon",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Victor Prudon"
+    ],
+    "description": "Californie, 1834. Victor Prudon venu du Mexique avec la colonie Hijar. D'après T. H. Hittell, History of California II. Autres lieux de l'entrée : Monterey, Californie, Sonoma, Californie.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 397, 408, 427-430 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=PRUDON",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "AM-prudon-victor-monterey-c",
+    "nom": "Monterey, Californie : Victor Prudon",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Prudon"
+    ],
+    "description": "Monterey, Californie, 1846. Victor Prudon signe la déclaration de la junte du 2 avril. D'après T. H. Hittell, History of California II. Autres lieux de l'entrée : Californie, Sonoma, Californie.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 397, 408, 427-430 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=PRUDON",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.46,
+     38.29
+    ]
+   },
+   "properties": {
+    "id": "AM-prudon-victor-sonoma-cal",
+    "nom": "Sonoma, Californie : Victor Prudon",
+    "corpus": "archive.org · T. H. Hittell, History of California II",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Prudon"
+    ],
+    "description": "Sonoma, Californie, 1846. Victor Prudon lieutenant-colonel, fait prisonnier par les insurgés du Bear Flag le 14 juin. D'après T. H. Hittell, History of California II. Autres lieux de l'entrée : Californie, Monterey, Californie.",
+    "sources": "T. H. Hittell, History of California, vol. II (1885), p. 397, 408, 427-430 ; texte intégral : archive.org, historyofcalifor02hittuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "T. H. Hittell, History of California II",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcalifor02hittuoft?q=PRUDON",
+      "texte": "Lire T. H. Hittell, History of California II sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
