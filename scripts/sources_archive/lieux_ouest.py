@@ -2099,6 +2099,7 @@ G.update({
     'Fort Lupton (Colorado)': (-104.81, 40.08, 'a', 'Fort Lupton (Fort Lancaster), South Platte'),
     'Embudo (Nouveau-Mexique)': (-105.96, 36.21, 'c', 'Embudo (Nouveau-Mexique)'),
     'Rio Colorado (Questa, Nouveau-Mexique)': (-105.59, 36.7, 'c', 'Rio Colorado (auj. Questa, Nouveau-Mexique)'),
+    'Manitou Springs (Colorado)': (-104.92, 38.86, 'h', 'Manitou Springs (Fontaine-qui-bouille), au pied du pic Pikes'),
 })
 
 
