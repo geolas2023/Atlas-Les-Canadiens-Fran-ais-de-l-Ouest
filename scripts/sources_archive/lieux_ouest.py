@@ -1737,6 +1737,14 @@ G.update({
     'Cundiyo (Nouveau-Mexique)': (-105.9, 35.95, 'c', 'Cundiyó, Nouveau-Mexique'),
     'Fort Craig (Nouveau-Mexique)': (-106.98, 33.64, 'h', 'Fort Craig, Nouveau-Mexique'),
     'Santa Rita (Nouveau-Mexique)': (-108.07, 32.8, 'h', 'Mine de cuivre de Santa Rita, Nouveau-Mexique'),
+    'Las Vegas (Nouveau-Mexique)': (-105.22, 35.59, 'c', 'Las Vegas, Nouveau-Mexique'),
+    'Pinos Altos (Nouveau-Mexique)': (-108.22, 32.86, 'c', 'Pinos Altos, Nouveau-Mexique'),
+    'San Marcial (Nouveau-Mexique)': (-106.99, 33.69, 'c', 'San Marcial, Nouveau-Mexique'),
+    'Lincoln (Nouveau-Mexique)': (-105.38, 33.49, 'c', 'Lincoln (Rio Bonito), Nouveau-Mexique'),
+    'Fruitland (Nouveau-Mexique)': (-108.4, 36.74, 'c', 'Fruitland, Nouveau-Mexique'),
+    'El Gallo (San Rafael)': (-107.88, 35.11, 'c', 'El Gallo, près de San Rafael (ancien fort Wingate), Nouveau-Mexique'),
+    'Vermejo (Nouveau-Mexique)': (-104.75, 36.75, 'h', 'Vermejo, Nouveau-Mexique'),
+    'Wagon Mound (Nouveau-Mexique)': (-104.71, 36.01, 'c', 'Wagon Mound, Nouveau-Mexique'),
 })
 
 
