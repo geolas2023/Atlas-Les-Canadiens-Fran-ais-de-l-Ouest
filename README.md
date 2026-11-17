@@ -435,6 +435,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoftuolumn00lang` | 20 |
 | `historyofsantacl00munr` | 19 |
 | `historyofalamed00munr` | 7 |
+| `historyofmontere00elli` | 3 |
+| `historyofplacerc00ange` | 8 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

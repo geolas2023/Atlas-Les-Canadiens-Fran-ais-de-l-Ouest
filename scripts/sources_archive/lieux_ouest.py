@@ -1871,6 +1871,10 @@ G.update({
     'Almaden (Californie)': (-121.83, 37.18, 'h', 'New Almaden (Californie)'),
     'Alameda (Californie)': (-122.24, 37.77, 'c', "Alameda (l'Encinal), Californie"),
     'Nevada (comté, Californie)': (-120.9, 39.3, 'h', 'comté de Nevada (Californie)'),
+    'Hollister (Californie)': (-121.4, 36.85, 'c', 'Hollister (Californie)'),
+    'Vallée de San Joaquin': (-120.5, 37.2, 'a', 'vallée de San Joaquin (Californie)'),
+    'Auburn (Californie)': (-121.08, 38.9, 'c', 'Auburn (Dry Diggings), Californie'),
+    'Bear River (Californie)': (-121.35, 38.98, 'h', 'rivière Bear (comtés de Placer et Yuba), Californie'),
 })
 
 
