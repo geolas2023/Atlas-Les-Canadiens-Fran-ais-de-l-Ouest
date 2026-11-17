@@ -425,6 +425,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `worksofhuberthow20bancrich` | 9 |
 | `worksofhuberthow21bancrich` | 41 |
 | `worksofhuberthow22bancrich` | 19 |
+| `explorationterri01duflrich` | 27 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
