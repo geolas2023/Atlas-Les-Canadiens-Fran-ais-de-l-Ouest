@@ -396,10 +396,12 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `oldsantafemagazi01unse_1` | 25 |
 | `oldsantafemagazi02unse` | 4 |
 | `oldsantafemagazi03unse` | 17 |
-| `newmexicohistori01univrich` | 19 |
+| `newmexicohistori01univrich` | 15 |
 | `newmexicohistori02univrich` | 11 |
 | `newmexicohistori04univrich` | 5 |
-| `historyofnewmexi01paci` | 44 |
+| `historyofnewmexi01paci` | 22 |
+| `nevcolandwyom00bancroft` (Colorado) | 12 |
+| `historyofstateof01hall` | 14 |
 
 
 ## Un point par lieu et adresses précises

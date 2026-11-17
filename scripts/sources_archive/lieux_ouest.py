@@ -1745,6 +1745,18 @@ G.update({
     'El Gallo (San Rafael)': (-107.88, 35.11, 'c', 'El Gallo, près de San Rafael (ancien fort Wingate), Nouveau-Mexique'),
     'Vermejo (Nouveau-Mexique)': (-104.75, 36.75, 'h', 'Vermejo, Nouveau-Mexique'),
     'Wagon Mound (Nouveau-Mexique)': (-104.71, 36.01, 'c', 'Wagon Mound, Nouveau-Mexique'),
+    'Pueblo (Colorado)': (-104.61, 38.27, 'c', 'Pueblo (El Pueblo), Colorado'),
+    'Golden (Colorado)': (-105.22, 39.76, 'c', 'Golden, Colorado'),
+    'Adobe Creek (Colorado)': (-103.95, 38.15, 'h', "Adobe Creek, vallée de l'Arkansas, Colorado"),
+    'Cache la Poudre (Colorado)': (-105.0, 40.6, 'h', 'rivière Cache la Poudre, Colorado'),
+    'Laporte (Colorado)': (-105.14, 40.63, 'c', 'Laporte, Colorado'),
+    'Fort Vasquez (Colorado)': (-104.82, 40.19, 'h', 'fort Vasquez (Platte Sud), Colorado'),
+    'Fort Sarpy (Colorado)': (-104.8, 40.22, 'h', 'fort Sarpy (Platte Sud), Colorado'),
+    'Cochetopa Pass (Colorado)': (-106.68, 38.16, 'h', 'col de Cochetopa, Colorado'),
+    'Berthoud Pass (Colorado)': (-105.78, 39.8, 'h', 'col Berthoud, Colorado'),
+    'Concession Las Animas (Colorado)': (-104.0, 37.7, 'h', 'concession Vigil et St. Vrain (Las Animas), Colorado'),
+    'Concession Sangre de Cristo (San Luis)': (-105.42, 37.2, 'h', 'concession Beaubien (Sangre de Cristo), San Luis, Colorado'),
+    'Cañon City (Colorado)': (-105.24, 38.44, 'c', 'Cañon City, Colorado'),
 })
 
 
