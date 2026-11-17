@@ -1671,6 +1671,11 @@ G.update({
     'Fort Claiborne (Alabama)': (-87.51, 31.55, 'h', 'Fort Claiborne, comté de Monroe, Alabama'),
     'Greensboro (Alabama)': (-87.6, 32.7, 'c', 'Greensboro, Alabama'),
     'Chehaw (Creeks)': (-84.1, 31.6, 'h', 'Chehaw, village creek, sur la Flint'),
+    'Florence (Alabama)': (-87.68, 34.8, 'c', 'Florence, Alabama'),
+    'Tuscaloosa (Alabama)': (-87.57, 33.21, 'c', 'Tuscaloosa (Tuskaloosa), Alabama'),
+    'Tuskegee (Alabama)': (-85.69, 32.42, 'c', 'Tuskegee, Alabama'),
+    'Fort Mitchell (Alabama)': (-85.02, 32.35, 'h', 'Fort Mitchell, comté de Russell, Alabama'),
+    'Cahaba (Alabama)': (-87.1, 32.32, 'h', "Cahaba, ancienne capitale de l'Alabama"),
 })
 
 
