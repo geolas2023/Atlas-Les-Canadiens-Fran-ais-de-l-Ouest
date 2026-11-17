@@ -661687,7 +661687,7 @@
     "personnages": [
      "Edward L. Berthoud"
     ],
-    "description": "Golden, Colorado, 1860. Edward L. Berthoud, né à Genève (Suisse), 1838, arrive en mars, relève le site de Golden ; découvre le col qui porte son nom ; ingénieur en chef du Colorado Central. D'après Hall IV (1895).",
+    "description": "Golden, Colorado, 1860. Edward L. Berthoud, né à Genève (Suisse), arrive en mars, relève le site de Golden ; découvre le col qui porte son nom ; ingénieur en chef du Colorado Central. D'après Hall IV (1895).",
     "sources": "Frank Hall, History of the State of Colorado, vol. IV (1895), p. 869-870 ; texte intégral : archive.org, historyofstateof04hall.",
     "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
     "livre": "Hall IV (1895)",
@@ -662307,6 +662307,1570 @@
      {
       "url": "https://archive.org/details/historyofstateof04hall?q=CHARPIOT",
       "texte": "Lire Hall IV (1895) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YF-maisonneuve-jean-de-la-denver-col",
+    "nom": "Denver (Colorado) : Jean de la Maisonneuve",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1799.0,
+    "fin": 1799.0,
+    "date_edtf": "1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean de la Maisonneuve"
+    ],
+    "description": "Denver (Colorado), 1799. Jean de la Maisonneuve conduit de Saint-Louis un parti de traite par le Missouri et la Platte avec le Suisse Preneloupe ; atteint le site de Denver le 20 juillet. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 163 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=MAISONNEUVE",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "YF-la-lande-baptiste-santa-fe",
+    "nom": "Santa Fe : Baptiste la Lande",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste la Lande"
+    ],
+    "description": "Santa Fe, 1804. Baptiste la Lande intendant du marchand William Morrison de Kaskaskia, porte ses marchandises à Santa Fe et garde le produit ; épie plus tard Pike. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 65, 165-166 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=LA+LANDE",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     38.4
+    ]
+   },
+   "properties": {
+    "id": "YF-parteau-haut-arkan",
+    "nom": "Haut Arkansas, Colorado : Parteau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Parteau"
+    ],
+    "description": "Haut Arkansas, Colorado, 1813. Parteau. L'un des « Frenchmen » trappant avec Ezekiel Williams ; réfugié chez les Arapahoes, tué plus tard par les Crows. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 166, 170 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=PARTEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     38.4
+    ]
+   },
+   "properties": {
+    "id": "YF-phillebert-haut-arkan",
+    "nom": "Haut Arkansas, Colorado : Phillebert",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Phillebert"
+    ],
+    "description": "Haut Arkansas, Colorado, 1814. Phillebert traiteur de Saint-Louis, amène dix-huit trappeurs français au Colorado et cache ses fourrures sur le haut Arkansas. D'après Smiley (1913). Autres lieux de l'entrée : Taos.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-168 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=PHILLEBERT",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "YF-phillebert-taos",
+    "nom": "Taos : Phillebert",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1816.999,
+    "date_edtf": "1815/1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Phillebert"
+    ],
+    "description": "Taos, 1815-1816. Phillebert se joint à Chouteau et De Munn ; repart avec De Munn pour Saint-Louis en février 1816. D'après Smiley (1913). Autres lieux de l'entrée : haut Arkansas, Colorado.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-168 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=PHILLEBERT",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     38.4
+    ]
+   },
+   "properties": {
+    "id": "YF-chouteau-auguste-pierre-haut-arkan",
+    "nom": "Haut Arkansas, Colorado : Auguste Pierre Chouteau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Auguste Pierre Chouteau"
+    ],
+    "description": "Haut Arkansas, Colorado, 1815. Auguste Pierre Chouteau s'associe avec De Munn et part pour les montagnes du Colorado avec quelque quarante-cinq Français engagés. D'après Smiley (1913). Autres lieux de l'entrée : Chouteau's Island, rivière Arkansas, Kansas, Santa Fe.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-171 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=CHOUTEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.3,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "YF-chouteau-auguste-pierre-chouteau-s",
+    "nom": "Chouteau's Island, rivière Arkansas, Kansas : Auguste Pierre Chouteau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Auguste Pierre Chouteau"
+    ],
+    "description": "Chouteau's Island, rivière Arkansas, Kansas, 1816. Auguste Pierre Chouteau. Ses hommes, attaqués par les Pawnees, tiennent l'île qui prendra son nom. D'après Smiley (1913). Autres lieux de l'entrée : haut Arkansas, Colorado, Santa Fe.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-171 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=CHOUTEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "YF-chouteau-auguste-pierre-santa-fe",
+    "nom": "Santa Fe : Auguste Pierre Chouteau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Pierre Chouteau"
+    ],
+    "description": "Santa Fe, 1817. Auguste Pierre Chouteau arrêté et confiné à Santa Fe. D'après Smiley (1913). Autres lieux de l'entrée : haut Arkansas, Colorado, Chouteau's Island, rivière Arkansas, Kansas.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-171 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=CHOUTEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "YF-de-munn-jules-taos",
+    "nom": "Taos : Jules de Munn",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1816.999,
+    "date_edtf": "1815/1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules de Munn"
+    ],
+    "description": "Taos, 1815-1816. Jules de Munn demande une licence de trappe espagnole. D'après Smiley (1913). Autres lieux de l'entrée : ruisseau Huerfano, Santa Fe.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-170 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=DE+MUNN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "YF-de-munn-jules-huerfano",
+    "nom": "Ruisseau Huerfano : Jules de Munn",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jules de Munn"
+    ],
+    "description": "Ruisseau Huerfano, 1817. Jules de Munn arrêté à l'embouchure du Huerfano. D'après Smiley (1913). Autres lieux de l'entrée : Taos, Santa Fe.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-170 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=DE+MUNN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "YF-de-munn-jules-santa-fe",
+    "nom": "Santa Fe : Jules de Munn",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jules de Munn"
+    ],
+    "description": "Santa Fe, 1817. Jules de Munn jugé en cour martiale et expulsé ; relate le procès à William Clark le 25 novembre. D'après Smiley (1913). Autres lieux de l'entrée : Taos, ruisseau Huerfano.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 167-170 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=DE+MUNN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "YF-bijeau-joseph-huerfano",
+    "nom": "Ruisseau Huerfano : Joseph Bijeau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Bijeau"
+    ],
+    "description": "Ruisseau Huerfano, 1820. Joseph Bijeau guide français du major Long, chasseur et trappeur depuis six ans, lui montre le Huerfano. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 170 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=BIJEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     38.4
+    ]
+   },
+   "properties": {
+    "id": "YF-st-vrain-ceran-haut-arkan",
+    "nom": "Haut Arkansas, Colorado : Ceran St. Vrain",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Haut Arkansas, Colorado, 1826. Ceran St. Vrain Français de Saint-Louis, associé des Bent dans leur premier poste au-dessus du Fountain Creek. D'après Smiley (1913). Autres lieux de l'entrée : fort Saint-Vrain (South Platte), Mora, Nouveau-Mexique.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 174, 184-185 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=ST+VRAIN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "YF-st-vrain-ceran-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Ceran St. Vrain",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1838. Ceran St. Vrain bâtit le fort sur la Platte Sud. D'après Smiley (1913). Autres lieux de l'entrée : haut Arkansas, Colorado, Mora, Nouveau-Mexique.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 174, 184-185 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=ST+VRAIN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "YF-st-vrain-ceran-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Ceran St. Vrain",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Mora, Nouveau-Mexique, 1870. Ceran St. Vrain meurt en octobre. D'après Smiley (1913). Autres lieux de l'entrée : haut Arkansas, Colorado, fort Saint-Vrain (South Platte).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 174, 184-185 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=ST+VRAIN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "YF-st-vrain-marcellus-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Marcellus St. Vrain",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1843.999,
+    "date_edtf": "1842/1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcellus St. Vrain"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1842-1843. Marcellus St. Vrain frère de Ceran, reçoit Frémont au fort. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 184 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=ST+VRAIN",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YF-le-doux-maurice-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice Le Doux",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice Le Doux"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, 1830. Maurice Le Doux traiteur français venu de Détroit, bâtit ses quartiers au confluent de l'Adobe Creek et de l'Arkansas. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 174-175 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=LE+DOUX",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YF-le-doux-maurice-adobe-cree-2",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice Le Doux",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice Le Doux"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, 1838. Maurice Le Doux toujours à son poste, s'entremet dans une querelle entre Arapahoes et Utes. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 174-175 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=LE+DOUX",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82,
+     40.19
+    ]
+   },
+   "properties": {
+    "id": "YF-vasquez-louis-fort-vasqu",
+    "nom": "Fort Vasquez (Platte Sud), Colorado : Louis Vasquez",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Vasquez (Platte Sud), Colorado, 1833. Louis Vasquez traiteur franco-espagnol né à Saint-Louis (« Benito » ; « Vaskiss »), bâtit un poste de cotonnier face à l'embouchure du Clear Creek. D'après Smiley (1913). Autres lieux de l'entrée : fort Saint-Vrain (South Platte).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 181-182 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=VASQUEZ",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "YF-vasquez-louis-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Louis Vasquez",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), 1839. Louis Vasquez trouvé par Wislizenus en affaires avec Sublette. D'après Smiley (1913). Autres lieux de l'entrée : fort Vasquez (Platte Sud), Colorado.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 181-182 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=VASQUEZ",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     40.22
+    ]
+   },
+   "properties": {
+    "id": "YF-sarpy-peter-a-fort-sarpy",
+    "nom": "Fort Sarpy (Platte Sud), Colorado : Peter A. Sarpy",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter A. Sarpy"
+    ],
+    "description": "Fort Sarpy (Platte Sud), Colorado, vers 1835. Peter A. Sarpy d'une famille de Saint-Louis d'extraction française, bâtit un petit poste de rondins sur la Platte Sud. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 182 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=SARPY",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.05,
+     38.75
+    ]
+   },
+   "properties": {
+    "id": "YF-roubideau-antoine-fort-uncom",
+    "nom": "Fort Robidoux (Uncompahgre) : Antoine Roubideau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Roubideau"
+    ],
+    "description": "Fort Robidoux (Uncompahgre), 1824. Antoine Roubideau traiteur français de Saint-Louis, déjà établi sur la Gunnison près de l'Uncompahgre ; poste plus tard détruit par les Utes. D'après Smiley (1913). Autres lieux de l'entrée : fort Robidoux (Uintah).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 185-186, 201 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=ROUBIDEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.97,
+     40.43
+    ]
+   },
+   "properties": {
+    "id": "YF-roubideau-antoine-fort-uinta",
+    "nom": "Fort Robidoux (Uintah) : Antoine Roubideau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "poste",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Roubideau"
+    ],
+    "description": "Fort Robidoux (Uintah), 1844. Antoine Roubideau. Son poste de l'Uinta. D'après Smiley (1913). Autres lieux de l'entrée : fort Robidoux (Uncompahgre).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 185-186, 201 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=ROUBIDEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0,
+     40.6
+    ]
+   },
+   "properties": {
+    "id": "YF-janise-antoine-cache-la-p",
+    "nom": "Rivière Cache la Poudre, Colorado : Antoine Janise",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Janise"
+    ],
+    "description": "Rivière Cache la Poudre, Colorado, 1858. Antoine Janise « French petty trader » (ou Jeunesse), campé avec les Arapahoes de Bald Wolf ; noyau d'une ville de cabanes d'hiver. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 220, 240 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=JANISE",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0,
+     40.6
+    ]
+   },
+   "properties": {
+    "id": "YF-janise-nicholas-cache-la-p",
+    "nom": "Rivière Cache la Poudre, Colorado : Nicholas Janise",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicholas Janise"
+    ],
+    "description": "Rivière Cache la Poudre, Colorado, 1858. Nicholas Janise « French petty trader », avec Antoine Janise. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 220, 240 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=JANISE",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.18,
+     39.87
+    ]
+   },
+   "properties": {
+    "id": "YF-trudeau-pierre-beecher-is",
+    "nom": "Île Beecher, fourche Arikaree de la Republican, Colorado : Pierre Trudeau",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "evenement",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Trudeau"
+    ],
+    "description": "Île Beecher, fourche Arikaree de la Republican, Colorado, 1868. Pierre Trudeau pendant le siège des éclaireurs de Forsyth, part de nuit avec Jack Stilwell chercher du secours au fort Wallace. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 432 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=TRUDEAU",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "YF-autobeas-charles-huerfano",
+    "nom": "Ruisseau Huerfano : Charles Autobeas",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Autobeas"
+    ],
+    "description": "Ruisseau Huerfano, 1853. Charles Autobeas vieux trappeur « of French extraction », établi au confluent du Huerfano et de l'Arkansas où des Mexicains le rejoignent ; Frémont passe en 1853. D'après Smiley (1913). Autres lieux de l'entrée : Pueblo (El Pueblo), Colorado.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 24, 571-572 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=AUTOBEAS",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.61,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "YF-autobeas-charles-pueblo-col",
+    "nom": "Pueblo (El Pueblo), Colorado : Charles Autobeas",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Autobeas"
+    ],
+    "description": "Pueblo (El Pueblo), Colorado, 1858. Charles Autobeas vit sur l'Arkansas selon Marcy. D'après Smiley (1913). Autres lieux de l'entrée : ruisseau Huerfano.",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 24, 571-572 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=AUTOBEAS",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.88,
+     38.48
+    ]
+   },
+   "properties": {
+    "id": "YF-lauzon-f-c-montrose-c",
+    "nom": "Montrose, vallée de l'Uncompahgre, Colorado : F. C. Lauzon",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1894.0,
+    "fin": 1894.0,
+    "date_edtf": "1894",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. C. Lauzon"
+    ],
+    "description": "Montrose, vallée de l'Uncompahgre, Colorado, 1894. F. C. Lauzon initiateur du projet d'irrigation du tunnel de la Gunnison, réunit les fonds du premier relevé. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 586-587 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=LAUZON",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YF-poulot-denver-col",
+    "nom": "Denver (Colorado) : Poulot",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1899.0,
+    "fin": 1899.0,
+    "date_edtf": "1899",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Poulot"
+    ],
+    "description": "Denver (Colorado), 1899. Poulot avec Voilleque, étudie le pigment jaune du sud-ouest du Colorado, qui se révèle être la carnotite. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 547 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=POULOT",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YF-voilleque-denver-col",
+    "nom": "Denver (Colorado) : Voilleque",
+    "corpus": "archive.org · Smiley (1913)",
+    "theme": "personnage",
+    "debut": 1899.0,
+    "fin": 1899.0,
+    "date_edtf": "1899",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Voilleque"
+    ],
+    "description": "Denver (Colorado), 1899. Voilleque avec Poulot, étudie le minerai qui sera nommé carnotite. D'après Smiley (1913).",
+    "sources": "Jerome C. Smiley, Semi-Centennial History of the State of Colorado, vol. I (1913), p. 547 ; texte intégral : archive.org, semicentennialhi01smil.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Smiley (1913)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/semicentennialhi01smil?q=VOILLEQUE",
+      "texte": "Lire Smiley (1913) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.54,
+     39.78
+    ]
+   },
+   "properties": {
+    "id": "YG-chatillon-henry-russell-gu",
+    "nom": "Russell Gulch (comté de Gilpin), Colorado : Henry Chatillon",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Chatillon"
+    ],
+    "description": "Russell Gulch (comté de Gilpin), Colorado, 1860. Henry Chatillon, né à Carondelet (Saint-Louis, Missouri), 1832, arrive au Colorado, mineur et propriétaire d'un moulin à quartz. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 445-446 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=CHATILLON",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YG-chatillon-henry-central-ci",
+    "nom": "Central City, Colorado : Henry Chatillon",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Chatillon"
+    ],
+    "description": "Central City, Colorado, 1863. Henry Chatillon, né à Carondelet (Saint-Louis, Missouri), 1832, greffier du district minier de Nevada. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Russell Gulch (comté de Gilpin), Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 445-446 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=CHATILLON",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.54,
+     39.78
+    ]
+   },
+   "properties": {
+    "id": "YG-chatillon-henry-russell-gu-2",
+    "nom": "Russell Gulch (comté de Gilpin), Colorado : Henry Chatillon",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1864.0,
+    "fin": 1870.999,
+    "date_edtf": "1864/1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Chatillon"
+    ],
+    "description": "Russell Gulch (comté de Gilpin), Colorado, 1864-1870. Henry Chatillon, né à Carondelet (Saint-Louis, Missouri), 1832, mines et prospection. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 445-446 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=CHATILLON",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YG-beauzy-jean-b-idaho-spri",
+    "nom": "Idaho Springs, Colorado : Jean B. Beauzy",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean B. Beauzy"
+    ],
+    "description": "Idaho Springs, Colorado, 1863. Jean B. Beauzy, né à Saint-Chamond (Loire, France), 1818, ancien affineur d'or et d'argent à Newark, prospecteur et découvreur de filons ; président de l'Idaho Springs Gold and Silver Mining Company. D'après Clear Creek and Boulder (1880).",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 495 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=BEAUZY",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.49,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YG-faivre-denis-black-hawk",
+    "nom": "Black Hawk, Colorado : Denis Faivre",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Denis Faivre"
+    ],
+    "description": "Black Hawk, Colorado, 1860. Denis Faivre, né à Northampton (Pennsylvanie), 1827, bâtit le moulin Currier & Faivre ; magasin à Denver la même année. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Idaho Springs, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 276, 509 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=FAIVRE",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YG-faivre-denis-idaho-spri",
+    "nom": "Idaho Springs, Colorado : Denis Faivre",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Denis Faivre"
+    ],
+    "description": "Idaho Springs, Colorado, 1862. Denis Faivre, né à Northampton (Pennsylvanie), 1827, marchand, conduit des convois de bœufs ; commissaire du comté de 1874 à 1878. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Black Hawk, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 276, 509 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=FAIVRE",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.22,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "YG-berthoud-edward-l-golden-col",
+    "nom": "Golden, Colorado : Edward L. Berthoud",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Edward L. Berthoud"
+    ],
+    "description": "Golden, Colorado, 1860. Edward L. Berthoud, né à Genève (Suisse), 1828, arrive à Golden City, mineur jusqu'en 1861. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : col Berthoud, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 353, 550-551 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=BERTHOUD",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.78,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YG-berthoud-edward-l-berthoud-p",
+    "nom": "Col Berthoud, Colorado : Edward L. Berthoud",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Edward L. Berthoud"
+    ],
+    "description": "Col Berthoud, Colorado, 1861. Edward L. Berthoud, né à Genève (Suisse), 1828, découvre en mai le col qui porte son nom et relève une route vers Provo. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Golden, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 353, 550-551 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=BERTHOUD",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.22,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "YG-berthoud-edward-l-golden-col-2",
+    "nom": "Golden, Colorado : Edward L. Berthoud",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Edward L. Berthoud"
+    ],
+    "description": "Golden, Colorado, 1866. Edward L. Berthoud, né à Genève (Suisse), 1828, adjudant et officier du génie du 2e de cavalerie du Colorado jusqu'en 1866, puis ingénieur en chef et secrétaire du Colorado Central. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : col Berthoud, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 353, 550-551 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=BERTHOUD",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.51,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YG-arnett-anthony-central-ci",
+    "nom": "Central City, Colorado : Anthony Arnett",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Anthony Arnett"
+    ],
+    "description": "Central City, Colorado, 1860. Anthony Arnett, né à France, 1819, arrivé en 1859, achète du bétail et fait le roulage de Golden à Central City ; bâtit un hôtel près de Central City. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Boulder, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 606-607 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=ARNETT",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.27,
+     40.01
+    ]
+   },
+   "properties": {
+    "id": "YG-arnett-anthony-boulder-co",
+    "nom": "Boulder, Colorado : Anthony Arnett",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Anthony Arnett"
+    ],
+    "description": "Boulder, Colorado, 1867. Anthony Arnett, né à France, 1819, tient la Boulder House jusqu'en 1867. D'après Clear Creek and Boulder (1880). Autres lieux de l'entrée : Central City, Colorado.",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 606-607 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=ARNETT",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.7,
+     39.71
+    ]
+   },
+   "properties": {
+    "id": "YG-raverdy-georgetown",
+    "nom": "Georgetown, Colorado : Raverdy",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Raverdy"
+    ],
+    "description": "Georgetown, Colorado, vers 1868. Raverdy prêtre catholique de Georgetown avec le père Foley. D'après Clear Creek and Boulder (1880).",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 284 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=RAVERDY",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     40.7
+    ]
+   },
+   "properties": {
+    "id": "YG-le-fevre-john-north-park",
+    "nom": "North Park, Colorado : John Le Fevre",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Le Fevre"
+    ],
+    "description": "North Park, Colorado, 1872. John Le Fevre chef d'un parti de prospecteurs menacé par la bande ute de Colorow. D'après Clear Creek and Boulder (1880).",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 162 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=LE+FEVRE",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.6,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "YG-dumont-john-m-dumont-col",
+    "nom": "Dumont (ancienne Mill City), comté de Clear Creek, Colorado : John M. Dumont",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John M. Dumont"
+    ],
+    "description": "Dumont (ancienne Mill City), comté de Clear Creek, Colorado, 1880. John M. Dumont pionnier et propriétaire des mines Hukill, Neath et Lone Tree ; Mill City prend son nom. D'après Clear Creek and Boulder (1880).",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 297-298, 328, 335-336 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=DUMONT",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.49,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "YG-germain-g-black-hawk",
+    "nom": "Black Hawk, Colorado : G. Germain",
+    "corpus": "archive.org · Clear Creek and Boulder (1880)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "G. Germain"
+    ],
+    "description": "Black Hawk, Colorado, 1862. G. Germain électeur à la réunion qui organise la commission scolaire de Black Hawk en novembre. D'après Clear Creek and Boulder (1880).",
+    "sources": "History of Clear Creek and Boulder Valleys, Colorado (1880), p. 237 ; texte intégral : archive.org, historyofclearcr00olba.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Clear Creek and Boulder (1880)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofclearcr00olba?q=GERMAIN",
+      "texte": "Lire Clear Creek and Boulder (1880) sur archive.org →"
      }
     ]
    }
