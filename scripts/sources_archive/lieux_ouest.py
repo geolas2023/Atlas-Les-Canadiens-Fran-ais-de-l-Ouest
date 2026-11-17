@@ -1657,6 +1657,9 @@ G.update({
     'Cold Water (Muscle Shoals)': (-87.7, 34.73, 'h', 'Cold Water, village creek-chicamauga près des Muscle Shoals (Tuscumbia, Alabama)'),
     'Memphis (Tennessee)': (-90.05, 35.149, 'c', 'Memphis (Tennessee)'),
     'Knoxville (Tennessee)': (-83.92, 35.96, 'c', 'Knoxville (Tennessee)'),
+    'Nickajack (Tennessee)': (-85.62, 35.0, 'h', 'Nickajack, villages chicamaugas du Tennessee inférieur (Tennessee)'),
+    'Lookout Mountain Town': (-85.35, 34.98, 'h', 'Lookout Mountain Town, ville chicamauga (frontière Tennessee-Géorgie)'),
+    'Rivière Cumberland (Tennessee)': (-87.2, 36.45, 'h', 'rivière Cumberland (Tennessee)'),
 })
 
 
