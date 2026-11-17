@@ -1786,6 +1786,7 @@ G.update({
     'Russell Gulch (Colorado)': (-105.54, 39.78, 'c', 'Russell Gulch (comté de Gilpin), Colorado'),
     'Black Hawk (Colorado)': (-105.49, 39.8, 'c', 'Black Hawk, Colorado'),
     'Boulder (Colorado)': (-105.27, 40.01, 'c', 'Boulder, Colorado'),
+    'Bijou Creek (Colorado)': (-103.95, 40.25, 'h', 'embouchure du Bijou Creek (Platte Sud), Colorado'),
 })
 
 
