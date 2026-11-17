@@ -699818,6 +699818,380 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AD-lemay-victor-san-franci",
+    "nom": "San Francisco : Victor Lemay",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Lemay"
+    ],
+    "description": "San Francisco, 1868. Victor Lemay, né à Sainte-Émilie (Québec), 1838, débarque le 28 janv. par Panama. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : Sacramento, Californie.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 296 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=LEMAY",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-lemay-victor-sacramento",
+    "nom": "Sacramento, Californie : Victor Lemay",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Lemay"
+    ],
+    "description": "Sacramento, Californie, 1868. Victor Lemay, né à Sainte-Émilie (Québec), 1838, menuisier des ateliers du Central Pacific, contremaître général du service des wagons en 1889. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 296 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=LEMAY",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AD-sermonet-george-san-franci",
+    "nom": "San Francisco : George Sermonet",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Sermonet"
+    ],
+    "description": "San Francisco, 1867. George Sermonet, né à Dambach (Alsace), 1838, débarque le 25 oct. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : Sacramento, Californie.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 303 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=SERMONET",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-sermonet-george-sacramento",
+    "nom": "Sacramento, Californie : George Sermonet",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Sermonet"
+    ],
+    "description": "Sacramento, Californie, 1867. George Sermonet, né à Dambach (Alsace), 1838, épicier en gros et détail, 700 Eighth Street. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 303 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=SERMONET",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-bauquier-joseph-sacramento",
+    "nom": "Sacramento, Californie : Joseph Bauquier",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Bauquier"
+    ],
+    "description": "Sacramento, Californie, 1853. Joseph Bauquier, né à Haute-Saône, 1814, venu par les plaines ; entrepreneur de terrassement ; épouse Catharine Granjean, de la même région. D'après Davis, Illustrated History of Sacramento County.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 313 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=BAUQUIER",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AD-fritsch-john-san-franci",
+    "nom": "San Francisco : John Fritsch",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Fritsch"
+    ],
+    "description": "D'après Davis, Illustrated History of Sacramento County, John Fritsch, né à près de Strasbourg, 1815, est associé à ce lieu (San Francisco) en 1852. Autres lieux de l'entrée : Sacramento, Californie.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), notice « Fritsch » ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=FRITSCH",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-fritsch-john-sacramento",
+    "nom": "Sacramento, Californie : John Fritsch",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Fritsch"
+    ],
+    "description": "Sacramento, Californie, 1855. John Fritsch, né à près de Strasbourg, 1815, artisan, retiré. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), notice « Fritsch » ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=FRITSCH",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AD-routier-joseph-san-franci",
+    "nom": "San Francisco : Joseph Routier",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Routier"
+    ],
+    "description": "San Francisco, 1853. Joseph Routier, né à Somme, 1825, débarque le 31 mai, après la verrerie du Val-Saint-Lambert et Paris. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : Sacramento, Californie.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 705 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=ROUTIER",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-routier-joseph-sacramento",
+    "nom": "Sacramento, Californie : Joseph Routier",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Routier"
+    ],
+    "description": "Sacramento, Californie, 1853. Joseph Routier, né à Somme, 1825, vigne et verger du capitaine Folsom, puis arboriculteur et vigneron ; sénateur d'État, juge de paix, président de la commission des pêches ; épouse Léonide Jadin, née en France. D'après Davis, Illustrated History of Sacramento County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 705 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=ROUTIER",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-jean-adolph-sacramento",
+    "nom": "Sacramento, Californie : Adolph Jean",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Adolph Jean"
+    ],
+    "description": "Sacramento, Californie, 1874. Adolph Jean, né à France, fermier du township de Brighton, venu par Québec, Toronto et Detroit ; terre sur l'American River vers 1879. D'après Davis, Illustrated History of Sacramento County.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), p. 611 ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=JEAN",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.49,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AD-buesseau-marie-sacramento",
+    "nom": "Sacramento, Californie : Marie Buesseau",
+    "corpus": "archive.org · Davis, Illustrated History of Sacramento County",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie Buesseau"
+    ],
+    "description": "Sacramento, Californie, 1852. Marie Buesseau, née à Lorraine, épouse de John B. Calio, fermier du township de Sutter. D'après Davis, Illustrated History of Sacramento County.",
+    "sources": "W. J. Davis, An Illustrated History of Sacramento County (1890), notice « Calio » ; texte intégral : archive.org, illustratedhisto00davi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Davis, Illustrated History of Sacramento County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00davi?q=BUESSEAU",
+      "texte": "Lire Davis, Illustrated History of Sacramento County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
