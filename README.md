@@ -393,6 +393,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `commerceofprairi01greg` | 1 |
 | `spanisharchiveso01twituoft` | 22 |
 | `spanisharchiveso02twituoft` | 17 |
+| `oldsantafemagazi01unse_1` | 25 |
+| `oldsantafemagazi02unse` | 4 |
+| `oldsantafemagazi03unse` | 17 |
 
 
 ## Un point par lieu et adresses précises
