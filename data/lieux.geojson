@@ -615362,6 +615362,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -83.92,
+     35.96
+    ]
+   },
+   "properties": {
+    "id": "TT-louis-philippe-fils-aine-du--knoxville-",
+    "nom": "Knoxville (Tennessee) : Louis-Philippe (Fils Aîné Du Duc D'Orléans)",
+    "corpus": "archive.org · Ramsey, Annals of Tennessee (1853)",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1797.0,
+    "date_edtf": "1797",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-Philippe (Fils Aîné Du Duc D'Orléans)"
+    ],
+    "description": "Knoxville (Tennessee), 1797. Louis-Philippe (Fils Aîné Du Duc D'Orléans) arrive à Knoxville avec ses deux frères puis repart vers l'ouest par Tellico, Fort Grainger et Nashville. D'après Ramsey, Annals of Tennessee (1853).",
+    "sources": "J. G. M. Ramsey, The Annals of Tennessee to the End of the Eighteenth Century, Charleston, J. Russell, 1853, p. 687 ; transcription en ligne : https://ldsgenealogy.com/TN/The-Annals-of-Tennessee-to-the-End-of-the-Eighteenth-Century-Comprising-Its-Settlement-as-the.htm.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Ramsey, Annals of Tennessee (1853)",
+    "voir_aussi": [
+     {
+      "url": "https://ldsgenealogy.com/TN/The-Annals-of-Tennessee-to-the-End-of-the-Eighteenth-Century-Comprising-Its-Settlement-as-the.htm",
+      "texte": "Lire Ramsey, Annals of Tennessee (1853) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -86.78,
      36.16
     ]
