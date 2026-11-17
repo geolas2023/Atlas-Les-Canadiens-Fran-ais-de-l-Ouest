@@ -1980,6 +1980,8 @@ G.update({
     'Vallée de la Rogue (Oregon)': (-122.95, 42.42, 'h', 'vallée de la rivière Rogue (Oregon)'),
     'Port Orford (Oregon)': (-124.5, 42.75, 'c', 'Port Orford (Oregon)'),
     'Douglas (comté, Oregon)': (-123.3, 43.2, 'h', 'comté de Douglas (Oregon)'),
+    'Scappoose (Oregon)': (-122.88, 45.75, 'c', 'Scappoose (Oregon)'),
+    'Spokane Falls': (-117.42, 47.66, 'a', 'chutes de la Spokane'),
 })
 
 
