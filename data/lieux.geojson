@@ -716240,6 +716240,2420 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AX-pillet-astoria",
+    "nom": "Astoria (fort Astoria) : Pillet",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pillet"
+    ],
+    "description": "Astoria (fort Astoria), 1811. Pillet commis, part d'Astoria le 22 juillet avec McLennan et des voyageurs canadiens, puis renvoyé à Astoria. D'après Ross 1849. Autres lieux de l'entrée : pays des Kootenais.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 10, 103, 145, 213 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=PILLET",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "AX-pillet-kootenai",
+    "nom": "Pays des Kootenais : Pillet",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pillet"
+    ],
+    "description": "Pays des Kootenais, vers 1812. Pillet commis du groupe Clarke envoyé chez les Kootenais contre Mantour de la Compagnie du Nord-Ouest. D'après Ross 1849. Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 10, 103, 145, 213 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=PILLET",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "AX-boulard-the-dalles",
+    "nom": "Les Dalles : Boulard",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Boulard"
+    ],
+    "description": "Les Dalles, 1811. Boulard Canadien qui a appris quelques mots de la langue, échangé au groupe de Thompson près des Long Narrows. D'après Ross 1849. Autres lieux de l'entrée : Kamloops (fort Thompson).",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 114, 200 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=BOULARD",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.34,
+     50.67
+    ]
+   },
+   "properties": {
+    "id": "AX-boulard-kamloops",
+    "nom": "Kamloops (fort Thompson) : Boulard",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Boulard"
+    ],
+    "description": "Kamloops (fort Thompson), vers 1812. Boulard second de confiance de Stuart, son amourette manque de causer une querelle avec les Indiens. D'après Ross 1849. Autres lieux de l'entrée : Les Dalles.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 114, 200 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=BOULARD",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "AX-montigny-fort-okana",
+    "nom": "Fort Okanagan : Montigny",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "poste",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Montigny"
+    ],
+    "description": "Fort Okanagan, 1811. Montigny accompagne David Stuart vers le nord, aux sources de l'Okanagan et à la rivière Thompson, à l'automne. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 145 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=MONTIGNY",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-clappine-snake-rive",
+    "nom": "Rivière Snake : Clappine",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "evenement",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Clappine"
+    ],
+    "description": "Rivière Snake, vers 1811. Clappine de l'expédition Hunt, noyé. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 181 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=CLAPPINE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-prevost-snake-rive",
+    "nom": "Rivière Snake : Prevost",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Prevost"
+    ],
+    "description": "Rivière Snake, vers 1811. Prevost de l'expédition Hunt, rendu fou par la faim, se noie. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 181 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=PREVOST",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-carrier-snake-rive",
+    "nom": "Rivière Snake : Carrier",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Carrier"
+    ],
+    "description": "Rivière Snake, vers 1811. Carrier de l'expédition Hunt, reste en arrière et périt. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 181 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=CARRIER",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "AX-le-clerc-francis-walla-wall",
+    "nom": "Fort Walla Walla : Francis Le Clerc",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Francis Le Clerc"
+    ],
+    "description": "Fort Walla Walla, 1812. Francis Le Clerc du groupe de Robert Stuart qui part pour Saint-Louis le 31 juillet ; propose en octobre de tirer au sort celui qui doit mourir. D'après Ross 1849. Autres lieux de l'entrée : rivière Snake.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 199, 231, 279-280 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LE+CLERC",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-le-clerc-francis-snake-rive",
+    "nom": "Rivière Snake : Francis Le Clerc",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Le Clerc"
+    ],
+    "description": "Rivière Snake, vers 1813. Francis Le Clerc blessé lors de l'attaque des trappeurs de Reed, meurt dans la nuit. D'après Ross 1849. Autres lieux de l'entrée : fort Walla Walla.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 199, 231, 279-280 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LE+CLERC",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "AX-vallar-andre-walla-wall",
+    "nom": "Fort Walla Walla : Andre Vallar",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Andre Vallar"
+    ],
+    "description": "Fort Walla Walla, 1812. Andre Vallar du groupe de Robert Stuart qui part pour Saint-Louis le 31 juillet. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 199 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=VALLAR",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "AX-jacques-fort-okana",
+    "nom": "Fort Okanagan : Jacques",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "poste",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques"
+    ],
+    "description": "Fort Okanagan, vers 1812. Jacques. Le « sage Jacques », dont la poire à poudre explose pendant un voyage d'hiver. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 207 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=JACQUES",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.34,
+     50.67
+    ]
+   },
+   "properties": {
+    "id": "AX-la-rocque-m-kamloops",
+    "nom": "Kamloops (fort Thompson) : La Rocque (M.)",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "La Rocque (M.)"
+    ],
+    "description": "Kamloops (fort Thompson), vers 1812. La Rocque (M.) commis de la Compagnie du Nord-Ouest en charge à She Whaps. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 206 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LA+ROCQUE+M+",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "AX-mantour-kootenai",
+    "nom": "Pays des Kootenais : Mantour",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mantour"
+    ],
+    "description": "Pays des Kootenais, vers 1812. Mantour de la Compagnie du Nord-Ouest, adversaire de Pillet chez les Kootenais. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 213 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=MANTOUR",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "AX-pion-spokane-ho",
+    "nom": "Spokane House : Pion",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "poste",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pion"
+    ],
+    "description": "Spokane House, 1813. Pion commis nouvellement promu, laissé en charge du poste de Spokane en mai. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 214-215 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=PION",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-dubreuil-snake-rive",
+    "nom": "Rivière Snake : Dubreuil",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dubreuil"
+    ],
+    "description": "Rivière Snake, vers 1812. Dubreuil. L'un des sept trappeurs canadiens qui pillent les caches. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=DUBREUIL",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-delaunay-snake-rive",
+    "nom": "Rivière Snake : Delaunay",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Delaunay"
+    ],
+    "description": "Rivière Snake, vers 1812. Delaunay. L'un des sept trappeurs qui pillent les caches. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218, 278 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=DELAUNAY",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-delaunay-snake-rive-2",
+    "nom": "Rivière Snake : Delaunay",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Delaunay"
+    ],
+    "description": "Rivière Snake, vers 1813. Delaunay tué en trappant, sa chevelure vue chez les Indiens. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218, 278 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=DELAUNAY",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-saint-michel-snake-rive",
+    "nom": "Rivière Snake : Saint-Michel",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Saint-Michel"
+    ],
+    "description": "Rivière Snake, vers 1812. Saint-Michel. L'un des sept trappeurs qui pillent les caches. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=SAINT+MICHEL",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-turcotte-snake-rive",
+    "nom": "Rivière Snake : Turcotte",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Turcotte"
+    ],
+    "description": "Rivière Snake, vers 1812. Turcotte. L'un des sept trappeurs qui pillent les caches, révèle ensuite le vol à McKenzie. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=TURCOTTE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-landrie-snake-rive",
+    "nom": "Rivière Snake : Landrie",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Landrie"
+    ],
+    "description": "Rivière Snake, vers 1812. Landrie. L'un des sept trappeurs qui pillent les caches. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218, 278 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LANDRIE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-landrie-snake-rive-2",
+    "nom": "Rivière Snake : Landrie",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Landrie"
+    ],
+    "description": "Rivière Snake, vers 1813. Landrie meurt d'une chute de cheval. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218, 278 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LANDRIE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-la-chapelle-snake-rive",
+    "nom": "Rivière Snake : La Chapelle",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Chapelle"
+    ],
+    "description": "Rivière Snake, vers 1812. La Chapelle. Le forgeron, l'un des sept trappeurs qui pillent les caches. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218, 278-279 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LA+CHAPELLE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-la-chapelle-snake-rive-2",
+    "nom": "Rivière Snake : La Chapelle",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Chapelle"
+    ],
+    "description": "Rivière Snake, vers 1813. La Chapelle volé puis tué avec Rezner et Dorion. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 218, 278-279 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LA+CHAPELLE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.97,
+     45.2
+    ]
+   },
+   "properties": {
+    "id": "AX-jervais-willamette",
+    "nom": "Vallée de la Willamette : Jervais",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jervais"
+    ],
+    "description": "Vallée de la Willamette, vers 1812. Jervais bat un Indien au village de Wa-come-app, ce qui attire des menaces contre McKenzie. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 237 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=JERVAIS",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.0,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "AX-roi-riviere-pl",
+    "nom": "Rivière Platte : Roi",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Roi"
+    ],
+    "description": "Rivière Platte, 1813. Roi traiteur indien avec Dornin sur la Platte, en avril. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 233 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=ROI",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-besner-snake-rive",
+    "nom": "Rivière Snake : Besner",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Besner"
+    ],
+    "description": "Rivière Snake, 1812. Besner trappeur équipé par Hunt, signalé avec Hoback et Robinson. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 228, 277 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=BESNER",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05,
+     46.28
+    ]
+   },
+   "properties": {
+    "id": "AX-laframboise-cap-disapp",
+    "nom": "Cap Disappointment (embouchure du Columbia) : Laframboise",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Laframboise"
+    ],
+    "description": "Cap Disappointment (embouchure du Columbia), 1813. Laframboise. L'interprète, déguisé en Chinook, envoyé au cap voir si la voile est britannique ou américaine. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 256-257 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=LAFRAMBOISE",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AX-franchere-m-astoria",
+    "nom": "Astoria (fort Astoria) : Franchere (M.)",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Franchere (M.)"
+    ],
+    "description": "Astoria (fort Astoria), 1813. Franchere (M.) Canadien de Montréal, ancien commis américain, passe à la Compagnie du Nord-Ouest. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 255-256, 264, 276 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=FRANCHERE+M+",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AX-franchere-m-astoria-2",
+    "nom": "Astoria (fort Astoria) : Franchere (M.)",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Franchere (M.)"
+    ],
+    "description": "Astoria (fort Astoria), 1814. Franchere (M.) part avec le convoi de Montréal. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 255-256, 264, 276 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=FRANCHERE+M+",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     45.65
+    ]
+   },
+   "properties": {
+    "id": "AX-plessis-cascades-c",
+    "nom": "Les Cascades du Columbia : Plessis",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Plessis"
+    ],
+    "description": "Les Cascades du Columbia, 1814. Plessis blessé à l'oreille d'une flèche près des Cascades, en janvier. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 263 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=PLESSIS",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AX-dorion-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Dorion",
+    "corpus": "archive.org · Ross 1849",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Rivière Snake, vers 1813. Pierre Dorion. L'interprète, trappeur, volé et tué avec La Chapelle et Rezner ; récit de sa femme. D'après Ross 1849.",
+    "sources": "Ross, Alexander (1849), Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder and Co., p. 277-279 ; texte intégral : archive.org, adventuresoffirs00ross.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Ross 1849",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/adventuresoffirs00ross?q=DORION",
+      "texte": "Lire Ross 1849 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AY-pillet-astoria",
+    "nom": "Astoria (fort Astoria) : Pillet",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pillet"
+    ],
+    "description": "Astoria (fort Astoria), vers 1811. Pillet. L'un des quatre commis du groupe de David Stuart parti vers l'intérieur le 23 juillet. D'après Irving, Astoria I (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 104 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=PILLET",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AY-montigny-astoria",
+    "nom": "Astoria (fort Astoria) : Montigny",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Montigny"
+    ],
+    "description": "Astoria (fort Astoria), vers 1811. Montigny commis du groupe de David Stuart parti le 23 juillet. D'après Irving, Astoria I (1836). Autres lieux de l'entrée : fort Okanagan.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 104, 126 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=MONTIGNY",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "AY-montigny-fort-okana",
+    "nom": "Fort Okanagan : Montigny",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "poste",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Montigny"
+    ],
+    "description": "Fort Okanagan, vers 1811. Montigny. L'un des quatre hommes gardés par Stuart à son poste de l'Okanagan. D'après Irving, Astoria I (1836). Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 104, 126 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=MONTIGNY",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AY-brugiere-regis-astoria",
+    "nom": "Astoria (fort Astoria) : Regis Brugiere",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Regis Brugiere"
+    ],
+    "description": "Astoria (fort Astoria), vers 1811. Regis Brugiere « Créole canadien », trappeur libre engagé à Astoria, arrivé le 5 octobre. D'après Irving, Astoria I (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 126-127 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=BRUGIERE",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "AY-dorion-pierre-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Saint-Louis (Missouri), vers 1811. Pierre Dorion interprète métis pour les Sioux, engagé par Hunt pour 300 dollars par an, fuit une dette de whisky envers la Missouri Fur Company. D'après Irving, Astoria I (1836). Autres lieux de l'entrée : fort Osage (Sibley), villages arikaras (embouchure de la Grand River, Dakota du Sud), les Trois Tétons.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 149-153, 160-169, 195, 204-205, 235, 247-251, 283 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.19,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "AY-dorion-pierre-fort-osage",
+    "nom": "Fort Osage (Sibley) : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "poste",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Fort Osage (Sibley), vers 1811. Pierre Dorion retrouve de vieux camarades, renseigne sur les guerres des Osages. D'après Irving, Astoria I (1836). Autres lieux de l'entrée : Saint-Louis (Missouri), villages arikaras (embouchure de la Grand River, Dakota du Sud), les Trois Tétons.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 149-153, 160-169, 195, 204-205, 235, 247-251, 283 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.55,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "AY-dorion-pierre-villages-a",
+    "nom": "Villages arikaras (embouchure de la Grand River, Dakota du Sud) : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Villages arikaras (embouchure de la Grand River, Dakota du Sud), vers 1811. Pierre Dorion querelle avec Manuel Lisa, tire ses pistolets. D'après Irving, Astoria I (1836). Autres lieux de l'entrée : Saint-Louis (Missouri), fort Osage (Sibley), les Trois Tétons.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 149-153, 160-169, 195, 204-205, 235, 247-251, 283 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.8,
+     43.74
+    ]
+   },
+   "properties": {
+    "id": "AY-dorion-pierre-trois-teto",
+    "nom": "Les Trois Tétons : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Les Trois Tétons, vers 1811. Pierre Dorion. Sa femme et ses deux enfants suivent le groupe Hunt jusqu'au camp de chasse des Snakes. D'après Irving, Astoria I (1836). Autres lieux de l'entrée : Saint-Louis (Missouri), fort Osage (Sibley), villages arikaras (embouchure de la Grand River, Dakota du Sud).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 149-153, 160-169, 195, 204-205, 235, 247-251, 283 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.8,
+     43.74
+    ]
+   },
+   "properties": {
+    "id": "AY-gardpie-trois-teto",
+    "nom": "Les Trois Tétons : Gardpie",
+    "corpus": "archive.org · Irving, Astoria I (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Gardpie"
+    ],
+    "description": "Les Trois Tétons, vers 1811. Gardpie chasseur, s'égare un soir avec Carson et Dorion puis rejoint le groupe. D'après Irving, Astoria I (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, p. 247 ; texte intégral : archive.org, astoriaoranecdo02irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria I (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo02irvigoog?q=GARDPIE",
+      "texte": "Lire Irving, Astoria I (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-dorion-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Rivière Snake, 1811. Pierre Dorion. L'interprète, refuse de sacrifier son cheval ; sa femme accouche en route fin décembre. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : Les Dalles.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 10-11, 52-63, 72, 213, 254 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-dorion-pierre-the-dalles",
+    "nom": "Les Dalles : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Les Dalles, vers 1812. Pierre Dorion. Son cheval est volé à Wish-ram en février. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : rivière Snake.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 10-11, 52-63, 72, 213, 254 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-dorion-pierre-snake-rive-2",
+    "nom": "Rivière Snake : Pierre Dorion",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Rivière Snake, vers 1813. Pierre Dorion chasseur du groupe de Reed, tué en trappant avec Rezner et Le Clerc, d'après le récit de sa femme. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : Les Dalles.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 10-11, 52-63, 72, 213, 254 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DORION",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-saint-michel-louis-snake-rive",
+    "nom": "Rivière Snake : Louis Saint-Michel",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Saint-Michel"
+    ],
+    "description": "Rivière Snake, vers 1811. Louis Saint-Michel trappeur détaché avec Alexander Carson le 28 septembre. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 11, 125 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=SAINT+MICHEL",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-detaye-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Detaye",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Detaye"
+    ],
+    "description": "Rivière Snake, vers 1811. Pierre Detaye trappeur détaché avec Pierre Delaunay le 28 septembre. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 11, 125, 196 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DETAYE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-detaye-pierre-snake-rive-2",
+    "nom": "Rivière Snake : Pierre Detaye",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "evenement",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Detaye"
+    ],
+    "description": "Rivière Snake, vers 1812. Pierre Detaye tué par les Crows en trappant. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 11, 125, 196 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DETAYE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-delaunay-pierre-snake-rive",
+    "nom": "Rivière Snake : Pierre Delaunay",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Delaunay"
+    ],
+    "description": "Rivière Snake, vers 1811. Pierre Delaunay trappeur détaché avec Pierre Detaye. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 11, 125, 196, 213, 254 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DELAUNAY",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-delaunay-pierre-snake-rive-2",
+    "nom": "Rivière Snake : Pierre Delaunay",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Delaunay"
+    ],
+    "description": "Rivière Snake, vers 1812. Pierre Delaunay rejoint le camp snake puis le groupe de Reed, le quitte de mauvaise humeur et disparaît. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 11, 125, 196, 213, 254 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DELAUNAY",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.24,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-clappine-antoine-caldron-li",
+    "nom": "Caldron Linn (rivière Snake) : Antoine Clappine",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "evenement",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Clappine"
+    ],
+    "description": "Caldron Linn (rivière Snake), 1811. Antoine Clappine « l'un des plus précieux voyageurs », timonier, noyé le 28 octobre quand le canot de Crooks fait naufrage. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 17-24 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=CLAPPINE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-sardepie-snake-rive",
+    "nom": "Rivière Snake : Sardepie",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sardepie"
+    ],
+    "description": "Rivière Snake, 1811. Sardepie Canadien, fait passer de la viande en canot de peau au groupe affamé de Crooks le 6 décembre. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 44-49 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=SARDEPIE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-le-clerc-francis-snake-rive",
+    "nom": "Rivière Snake : Francis Le Clerc",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Le Clerc"
+    ],
+    "description": "Rivière Snake, 1811. Francis Le Clerc Canadien affamé, passe la rivière avec Crooks en décembre. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 44-49, 111, 155-162 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LE+CLERC",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AZ-le-clerc-francis-astoria",
+    "nom": "Astoria (fort Astoria) : Francis Le Clerc",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis Le Clerc"
+    ],
+    "description": "Astoria (fort Astoria), vers 1812. Francis Le Clerc. L'un des quatre guides canadiens de Robert Stuart. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : rivière Snake.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 44-49, 111, 155-162 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LE+CLERC",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-le-clerc-francis-snake-rive-2",
+    "nom": "Rivière Snake : Francis Le Clerc",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Le Clerc"
+    ],
+    "description": "Rivière Snake, vers 1812. Francis Le Clerc propose de tirer au sort celui qui sera mangé ; tue un bison avec Valine. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : Astoria (fort Astoria).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 44-49, 111, 155-162 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LE+CLERC",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-prevost-jean-baptiste-snake-rive",
+    "nom": "Rivière Snake : Jean Baptiste Prevost",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Baptiste Prevost"
+    ],
+    "description": "Rivière Snake, 1811. Jean Baptiste Prevost « pauvre Canadien » rendu fou par la faim, renverse le canot et se noie en décembre. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 52-53 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=PREVOST",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-delaunay-joseph-snake-rive",
+    "nom": "Rivière Snake : Joseph Delaunay",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Delaunay"
+    ],
+    "description": "Rivière Snake, 1811. Joseph Delaunay fait passer les vivres en canot et refuse Prevost à bord. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 53 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DELAUNAY",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-dubreuil-jean-baptiste-snake-rive",
+    "nom": "Rivière Snake : Jean Baptiste Dubreuil",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Baptiste Dubreuil"
+    ],
+    "description": "Rivière Snake, 1811. Jean Baptiste Dubreuil Canadien resté avec Crooks et John Day fin décembre. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 53, 195 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DUBREUIL",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-dubreuil-jean-baptiste-snake-rive-2",
+    "nom": "Rivière Snake : Jean Baptiste Dubreuil",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Baptiste Dubreuil"
+    ],
+    "description": "Rivière Snake, vers 1812. Jean Baptiste Dubreuil quitte Crooks en mars, épuisé, gagne le camp snake. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 53, 195 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DUBREUIL",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2,
+     45.5
+    ]
+   },
+   "properties": {
+    "id": "AZ-carriere-michael-montagnes-",
+    "nom": "Montagnes Bleues (Oregon) : Michael Carriere",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michael Carriere"
+    ],
+    "description": "Montagnes Bleues (Oregon), vers 1812. Michael Carriere épuisé, mis à cheval, disparaît pendant la traversée des montagnes Bleues. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 58, 63-65, 121 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=CARRIERE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-la-bonte-snake-rive",
+    "nom": "Rivière Snake : La Bonte",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Bonte"
+    ],
+    "description": "Rivière Snake, 1811. La Bonte Canadien épuisé, hissé à cheval, Hunt porte son ballot. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 59 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LA+BONTE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "AZ-yallar-andri-astoria",
+    "nom": "Astoria (fort Astoria) : Andri Yallar",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Andri Yallar"
+    ],
+    "description": "Astoria (fort Astoria), vers 1812. Andri Yallar. L'un des quatre guides canadiens de Robert Stuart. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 111 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=YALLAR",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-valine-snake-rive",
+    "nom": "Rivière Snake : Valine",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Valine"
+    ],
+    "description": "Rivière Snake, vers 1812. Valine Canadien, tue un jeune bison avec Le Clerc en octobre. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 162 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=VALINE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.0,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "AZ-domin-m-riviere-pl",
+    "nom": "Rivière Platte : Domin (M.)",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Domin (M.)"
+    ],
+    "description": "Rivière Platte, vers 1813. Domin (M.) traiteur indien venu de Saint-Louis, au village otoe près de la Platte, échange un canot contre le vieux cheval. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 183 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DOMIN+M+",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.0,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "AZ-roi-m-riviere-pl",
+    "nom": "Rivière Platte : Roi (M.)",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Roi (M.)"
+    ],
+    "description": "Rivière Platte, vers 1813. Roi (M.) traiteur indien venu de Saint-Louis, au village otoe près de la Platte. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 183 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=ROI+M+",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.24,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-turcotte-jean-baptiste-caldron-li",
+    "nom": "Caldron Linn (rivière Snake) : Jean Baptiste Turcotte",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Baptiste Turcotte"
+    ],
+    "description": "Caldron Linn (rivière Snake), vers 1812. Jean Baptiste Turcotte voyageur, quitte Crooks en février, aide les Snakes à trouver les caches. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : rivière Snake.",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 194, 213, 256 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=TURCOTTE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-turcotte-jean-baptiste-snake-rive",
+    "nom": "Rivière Snake : Jean Baptiste Turcotte",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Baptiste Turcotte"
+    ],
+    "description": "Rivière Snake, vers 1813. Jean Baptiste Turcotte affecté au pays de la Snake avec Reed. D'après Irving, Astoria II (1836). Autres lieux de l'entrée : Caldron Linn (rivière Snake).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 194, 213, 256 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=TURCOTTE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-la-chapelle-andre-snake-rive",
+    "nom": "Rivière Snake : André la Chapelle",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "André la Chapelle"
+    ],
+    "description": "Rivière Snake, vers 1812. André la Chapelle voyageur, partage le sort de Turcotte. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 194, 213, 256 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LA+CHAPELLE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-la-chapelle-andre-snake-rive-2",
+    "nom": "Rivière Snake : André la Chapelle",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "André la Chapelle"
+    ],
+    "description": "Rivière Snake, vers 1813. André la Chapelle affecté au pays de la Snake avec Reed. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 194, 213, 256 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LA+CHAPELLE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-landry-francis-snake-rive",
+    "nom": "Rivière Snake : Francis Landry",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Landry"
+    ],
+    "description": "Rivière Snake, vers 1812. Francis Landry voyageur, partage le sort de Turcotte ; affecté au groupe de Reed, meurt à l'automne. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 194, 213, 254 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LANDRY",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-le-clerc-gilles-snake-rive",
+    "nom": "Rivière Snake : Gilles Le Clerc",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gilles Le Clerc"
+    ],
+    "description": "Rivière Snake, vers 1813. Gilles Le Clerc voyageur du groupe de Reed, blessé lors de l'attaque où périt Dorion, meurt pendant la fuite de la femme de Dorion. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 213, 254-255 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=LE+CLERC",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "AZ-de-la-pierre-joe-the-dalles",
+    "nom": "Les Dalles : Joe de la Pierre",
+    "corpus": "archive.org · Irving, Astoria II (1836)",
+    "theme": "personnage",
+    "debut": 1813.0,
+    "fin": 1813.0,
+    "date_edtf": "1813~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joe de la Pierre"
+    ],
+    "description": "Les Dalles, vers 1813. Joe de la Pierre. Le cuisinier, traverse avec Alfred Seton jusqu'au village de Wish-ram pour réclamer le fusil de Reed. D'après Irving, Astoria II (1836).",
+    "sources": "Irving, Washington (1836), Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, p. 203 ; texte intégral : archive.org, astoriaoranecdo00irvigoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Irving, Astoria II (1836)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/astoriaoranecdo00irvigoog?q=DE+LA+PIERRE",
+      "texte": "Lire Irving, Astoria II (1836) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]

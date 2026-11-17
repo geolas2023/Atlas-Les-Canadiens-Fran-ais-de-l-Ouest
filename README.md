@@ -474,6 +474,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyoforegon02banc` | 27 |
 | `historyoforegon100gray` | 35 |
 | `portraitbiographwo00inchap` | 5 |
+| `adventuresoffirs00ross` | 25 |
+| `astoriaoranecdo02irvigoog` | 5 |
+| `astoriaoranecdo00irvigoog` | 21 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
