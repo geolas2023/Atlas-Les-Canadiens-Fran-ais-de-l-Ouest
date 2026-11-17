@@ -463,6 +463,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `annalsofsanfranc00soul` | 5 |
 | `historyofsolan00greg` | 9 |
 | `historyofsanjoaq00tink` | 7 |
+| `historyofcityofs00hitt` | 5 |
+| `historyofcalifor02hittuoft` | 6 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
