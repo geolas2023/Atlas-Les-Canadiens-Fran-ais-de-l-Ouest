@@ -396,6 +396,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `oldsantafemagazi01unse_1` | 25 |
 | `oldsantafemagazi02unse` | 4 |
 | `oldsantafemagazi03unse` | 17 |
+| `newmexicohistori01univrich` | 19 |
+| `newmexicohistori02univrich` | 11 |
+| `newmexicohistori04univrich` | 5 |
 
 
 ## Un point par lieu et adresses précises
