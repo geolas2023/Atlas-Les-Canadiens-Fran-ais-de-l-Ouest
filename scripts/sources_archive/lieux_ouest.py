@@ -1913,6 +1913,10 @@ G.update({
     'St. Helena (Californie)': (-122.47, 38.51, 'c', 'St. Helena (comté de Napa), Californie'),
     'Calistoga (Californie)': (-122.58, 38.58, 'c', 'Calistoga (comté de Napa), Californie'),
     'Oakville (Californie)': (-122.4, 38.44, 'c', 'Oakville (comté de Napa), Californie'),
+    'Glen Ellen (Californie)': (-122.52, 38.36, 'c', 'Glen Ellen (comté de Sonoma), Californie'),
+    'Sebastopol (Californie)': (-122.82, 38.4, 'c', 'Sebastopol (comté de Sonoma), Californie'),
+    'Fulton (Californie)': (-122.77, 38.49, 'c', 'Fulton (comté de Sonoma), Californie'),
+    'French Camp (Californie)': (-121.27, 37.88, 'c', 'French Camp (Campo de los Franceses), comté de San Joaquin, Californie'),
 })
 
 
