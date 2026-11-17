@@ -1735,6 +1735,8 @@ G.update({
     'Cochiti (Nouveau-Mexique)': (-106.35, 35.61, 'c', 'Cañada de Cochiti, Nouveau-Mexique'),
     'Alameda (Nouveau-Mexique)': (-106.63, 35.18, 'c', 'Alameda, Nouveau-Mexique'),
     'Cundiyo (Nouveau-Mexique)': (-105.9, 35.95, 'c', 'Cundiyó, Nouveau-Mexique'),
+    'Fort Craig (Nouveau-Mexique)': (-106.98, 33.64, 'h', 'Fort Craig, Nouveau-Mexique'),
+    'Santa Rita (Nouveau-Mexique)': (-108.07, 32.8, 'h', 'Mine de cuivre de Santa Rita, Nouveau-Mexique'),
 })
 
 
