@@ -2100,6 +2100,9 @@ G.update({
     'Embudo (Nouveau-Mexique)': (-105.96, 36.21, 'c', 'Embudo (Nouveau-Mexique)'),
     'Rio Colorado (Questa, Nouveau-Mexique)': (-105.59, 36.7, 'c', 'Rio Colorado (auj. Questa, Nouveau-Mexique)'),
     'Manitou Springs (Colorado)': (-104.92, 38.86, 'h', 'Manitou Springs (Fontaine-qui-bouille), au pied du pic Pikes'),
+    'Monts Sangre de Cristo (Colorado)': (-105.45, 37.6, 'h', 'monts Sangre de Cristo (Colorado)'),
+    'Conifer (Colorado)': (-105.3, 39.52, 'c', 'Conifer et Pleasant Park (comté de Jefferson, Colorado)'),
+    'La Sal Creek (Colorado)': (-108.97, 38.3, 'h', 'La Sal Creek (comté de Montrose, Colorado)'),
 })
 
 
