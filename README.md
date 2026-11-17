@@ -373,6 +373,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `mobileoffiveflag00hami` | 42 |
 | `historyofalabama01owen` | 23 |
 | `historyofalabama02owen` | 38 |
+| `transactionsofal04alab` | 320 |
 
 
 ## Un point par lieu et adresses précises

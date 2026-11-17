@@ -1676,6 +1676,7 @@ G.update({
     'Tuskegee (Alabama)': (-85.69, 32.42, 'c', 'Tuskegee, Alabama'),
     'Fort Mitchell (Alabama)': (-85.02, 32.35, 'h', 'Fort Mitchell, comté de Russell, Alabama'),
     'Cahaba (Alabama)': (-87.1, 32.32, 'h', "Cahaba, ancienne capitale de l'Alabama"),
+    'Aigleville (Marengo)': (-87.88, 32.47, 'h', "Aigleville, établissement de la colonie de la Vigne et de l'Olivier, comté de Marengo"),
 })
 
 
