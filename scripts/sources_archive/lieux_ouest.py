@@ -1933,6 +1933,14 @@ G.update({
     'Lewis (comté, Washington)': (-122.6, 46.6, 'h', 'comté de Lewis (Washington)'),
     'Rivière Walla Walla': (-118.6, 46.05, 'a', 'rivière Walla Walla (Washington)'),
     'Rogue River (mines, Oregon)': (-123.3, 42.45, 'h', 'mines de la rivière Rogue (Oregon)'),
+    'Fort Umpqua (Oregon)': (-123.88, 43.68, 'a', 'fort Umpqua (Oregon)'),
+    "Vallée de l'Umpqua (Oregon)": (-123.3, 43.3, 'h', "vallée de l'Umpqua (Oregon)"),
+    'Île Sauvie (Oregon)': (-122.83, 45.7, 'a', 'île Sauvie (île Wapato, Oregon)'),
+    'Tumwater (Washington)': (-122.9, 47.01, 'c', 'chutes Des Chutes (Tumwater, Washington)'),
+    'Little Dalles (Columbia)': (-117.95, 48.85, 'a', 'Little Dalles du Columbia (Washington)'),
+    'Salem (Oregon)': (-123.035, 44.94, 'c', 'Salem (Oregon)'),
+    'Rivière Salmon (Oregon)': (-123.95, 45.05, 'a', "embouchure de la rivière Salmon (côte de l'Oregon)"),
+    'East Portland (Oregon)': (-122.65, 45.52, 'c', 'East Portland (Oregon)'),
 })
 
 
