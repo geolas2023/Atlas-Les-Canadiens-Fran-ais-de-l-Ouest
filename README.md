@@ -374,6 +374,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofalabama01owen` | 23 |
 | `historyofalabama02owen` | 38 |
 | `transactionsofal04alab` | 320 |
+| `transactionsofal02alab` | 2 |
+| `transactionsofal03alab` | 10 |
 
 
 ## Un point par lieu et adresses précises
