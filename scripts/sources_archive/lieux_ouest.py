@@ -1880,6 +1880,10 @@ G.update({
     'Sierra (comté, Californie)': (-120.6, 39.58, 'h', 'comté de Sierra (Californie)'),
     'Frenchtown (Yuba, Californie)': (-121.27, 39.32, 'c', 'Frenchtown (comté de Yuba), Californie'),
     'Hock Farm (Californie)': (-121.62, 39.05, 'h', 'Hock Farm de Sutter, sur la Feather (Californie)'),
+    'Scott Bar (Californie)': (-123.0, 41.74, 'c', 'Scott Bar (comté de Siskiyou), Californie'),
+    'Little Shasta (Californie)': (-122.38, 41.71, 'c', 'Little Shasta (comté de Siskiyou), Californie'),
+    'Placerville (Californie)': (-120.8, 38.73, 'c', 'Placerville (Hangtown), Californie'),
+    'Vallée du Sacramento': (-121.9, 39.4, 'a', 'vallée du Sacramento (Californie)'),
 })
 
 
