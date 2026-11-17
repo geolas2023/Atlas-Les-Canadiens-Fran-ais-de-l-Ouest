@@ -464,7 +464,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofsolan00greg` | 9 |
 | `historyofsanjoaq00tink` | 7 |
 | `historyofcityofs00hitt` | 5 |
-| `historyofcalifor02hittuoft` | 6 |
+| `historyofcalifor02hittuoft` | 11 |
+| `historyofcalifor03hitt` | 10 |
+| `historyofcalifor04hitt` | 1 |
+| `historyofcalifor01hitt` | 1 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
