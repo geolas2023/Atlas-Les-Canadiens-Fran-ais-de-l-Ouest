@@ -387,6 +387,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `lifeofrightrever00howl` | 35 |
 | `cu31924105349660` | 20 |
 | `illustratedhisto00readrich` | 50 |
+| `aconcisehistory00pringoog` | 24 |
+| `histnewmexico00prin` | 17 |
 
 
 ## Un point par lieu et adresses précises
