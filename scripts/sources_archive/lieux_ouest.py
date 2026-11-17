@@ -1875,6 +1875,11 @@ G.update({
     'Vallée de San Joaquin': (-120.5, 37.2, 'a', 'vallée de San Joaquin (Californie)'),
     'Auburn (Californie)': (-121.08, 38.9, 'c', 'Auburn (Dry Diggings), Californie'),
     'Bear River (Californie)': (-121.35, 38.98, 'h', 'rivière Bear (comtés de Placer et Yuba), Californie'),
+    'Grass Valley (Californie)': (-121.06, 39.22, 'c', 'Grass Valley (Californie)'),
+    'French Corral (Californie)': (-121.16, 39.31, 'c', 'French Corral (comté de Nevada), Californie'),
+    'Sierra (comté, Californie)': (-120.6, 39.58, 'h', 'comté de Sierra (Californie)'),
+    'Frenchtown (Yuba, Californie)': (-121.27, 39.32, 'c', 'Frenchtown (comté de Yuba), Californie'),
+    'Hock Farm (Californie)': (-121.62, 39.05, 'h', 'Hock Farm de Sutter, sur la Feather (Californie)'),
 })
 
 
