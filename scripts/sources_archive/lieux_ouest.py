@@ -1806,6 +1806,10 @@ G.update({
     'Elizabethtown (Kentucky)': (-85.86, 37.69, 'c', 'Elizabethtown (comté de Hardin), Kentucky'),
     'Shepherdsville (Kentucky)': (-85.72, 37.99, 'c', 'Shepherdsville (comté de Bullitt), Kentucky'),
     'Paroquet Springs (Kentucky)': (-85.7, 38.01, 'h', 'Paroquet Springs (comté de Bullitt), Kentucky'),
+    'Big Bone Lick (Kentucky)': (-84.75, 38.89, 'h', 'Big Bone Lick (comté de Boone), Kentucky'),
+    'Boonesborough (Kentucky)': (-84.27, 37.9, 'c', 'Boonesborough, Kentucky'),
+    'Frankfort (Kentucky)': (-84.87, 38.2, 'c', 'Frankfort, Kentucky'),
+    'Maysville (Kentucky)': (-83.74, 38.64, 'c', 'Maysville (Limestone), Kentucky'),
 })
 
 
