@@ -500,6 +500,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `illustratedhisto00lyma` | 29 |
 | `historyofyakimav01lyma` | 88 |
 | `historyofpugetso01pros` | 13 |
+| `washingtonhistor14wash` | 8 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

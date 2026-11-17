@@ -2063,6 +2063,8 @@ G.update({
     'Yakima (comté, Washington)': (-120.5, 46.5, 'h', 'comté de Yakima (Washington)'),
     'Shelton (Washington)': (-123.1, 47.21, 'c', 'Shelton (Washington)'),
     'Everett (Washington)': (-122.2, 47.98, 'c', 'Everett (Washington)'),
+    'Toledo (Washington)': (-122.85, 46.44, 'c', 'Toledo (comté de Lewis, Washington)'),
+    'Sumner (Washington)': (-122.24, 47.2, 'c', 'Sumner (Washington)'),
 })
 
 
