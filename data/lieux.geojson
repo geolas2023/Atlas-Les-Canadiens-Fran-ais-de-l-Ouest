@@ -767512,6 +767512,142 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.68,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "CE-berthoud-e-l-captain-e-l-ber-empire-col",
+    "nom": "Empire City (comté de Clear Creek, Colorado) : E. L. Berthoud (« Captain E. L. Berthoud »)",
+    "corpus": "archive.org · Hafen 1926 (Overland Mail)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. L. Berthoud (« Captain E. L. Berthoud »)"
+    ],
+    "description": "Empire City (comté de Clear Creek, Colorado), 1861. E. L. Berthoud (« Captain E. L. Berthoud »). Son groupe d'exploration se rassemble à Empire City le 6 mai. D'après Hafen 1926 (Overland Mail). Autres lieux de l'entrée : col Berthoud, Colorado, Denver (Colorado), Salt Lake City (Great Salt Lake City, Utah).",
+    "sources": "Hafen, LeRoy R., The Overland Mail, 1849-1869, A. H. Clark, 1926 (archive.org : hafen-overland-mail-1926), p. 220-223, 229 ; texte intégral : archive.org, hafen-overland-mail-1926.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hafen 1926 (Overland Mail)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/hafen-overland-mail-1926?q=BERTHOUD",
+      "texte": "Lire Hafen 1926 (Overland Mail) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.78,
+     39.8
+    ]
+   },
+   "properties": {
+    "id": "CE-berthoud-e-l-captain-e-l-ber-berthoud-p",
+    "nom": "Col Berthoud, Colorado : E. L. Berthoud (« Captain E. L. Berthoud »)",
+    "corpus": "archive.org · Hafen 1926 (Overland Mail)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "E. L. Berthoud (« Captain E. L. Berthoud »)"
+    ],
+    "description": "Col Berthoud, Colorado, 1861. E. L. Berthoud (« Captain E. L. Berthoud ») découvre le col qui porte son nom en remontant la fourche nord du Clear Creek, mai. D'après Hafen 1926 (Overland Mail). Autres lieux de l'entrée : Empire City (comté de Clear Creek, Colorado), Denver (Colorado), Salt Lake City (Great Salt Lake City, Utah).",
+    "sources": "Hafen, LeRoy R., The Overland Mail, 1849-1869, A. H. Clark, 1926 (archive.org : hafen-overland-mail-1926), p. 220-223, 229 ; texte intégral : archive.org, hafen-overland-mail-1926.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hafen 1926 (Overland Mail)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/hafen-overland-mail-1926?q=BERTHOUD",
+      "texte": "Lire Hafen 1926 (Overland Mail) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "CE-berthoud-e-l-captain-e-l-ber-denver-col",
+    "nom": "Denver (Colorado) : E. L. Berthoud (« Captain E. L. Berthoud »)",
+    "corpus": "archive.org · Hafen 1926 (Overland Mail)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. L. Berthoud (« Captain E. L. Berthoud »)"
+    ],
+    "description": "Denver (Colorado), 1861. E. L. Berthoud (« Captain E. L. Berthoud ») part le 6 juillet avec James Bridger pour reconnaître la route de Salt Lake. D'après Hafen 1926 (Overland Mail). Autres lieux de l'entrée : Empire City (comté de Clear Creek, Colorado), col Berthoud, Colorado, Salt Lake City (Great Salt Lake City, Utah).",
+    "sources": "Hafen, LeRoy R., The Overland Mail, 1849-1869, A. H. Clark, 1926 (archive.org : hafen-overland-mail-1926), p. 220-223, 229 ; texte intégral : archive.org, hafen-overland-mail-1926.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hafen 1926 (Overland Mail)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/hafen-overland-mail-1926?q=BERTHOUD",
+      "texte": "Lire Hafen 1926 (Overland Mail) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.89,
+     40.76
+    ]
+   },
+   "properties": {
+    "id": "CE-berthoud-e-l-captain-e-l-ber-salt-lake-",
+    "nom": "Salt Lake City (Great Salt Lake City, Utah) : E. L. Berthoud (« Captain E. L. Berthoud »)",
+    "corpus": "archive.org · Hafen 1926 (Overland Mail)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. L. Berthoud (« Captain E. L. Berthoud »)"
+    ],
+    "description": "Salt Lake City (Great Salt Lake City, Utah), 1861. E. L. Berthoud (« Captain E. L. Berthoud ») y date son rapport du 4 août. D'après Hafen 1926 (Overland Mail). Autres lieux de l'entrée : Empire City (comté de Clear Creek, Colorado), col Berthoud, Colorado, Denver (Colorado).",
+    "sources": "Hafen, LeRoy R., The Overland Mail, 1849-1869, A. H. Clark, 1926 (archive.org : hafen-overland-mail-1926), p. 220-223, 229 ; texte intégral : archive.org, hafen-overland-mail-1926.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hafen 1926 (Overland Mail)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/hafen-overland-mail-1926?q=BERTHOUD",
+      "texte": "Lire Hafen 1926 (Overland Mail) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
