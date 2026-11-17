@@ -357,7 +357,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Blackmar (1912), transcription ksgenweb.org | 48 |
 | `standardhistoryo01conn` | 32 |
 | Hollibaugh (1903), transcription ksgenweb.org | 49 |
-| Ramsey (1853), transcription ldsgenealogy.com | 5 |
+| Ramsey (1853), transcription ldsgenealogy.com | 6 |
 | Albright (1909), transcription ahgp.org | 2 |
 | Goodspeed, Shelby (1887), transcription usgwarchives.us | 7 |
 | `historymiddlete00putngoog` | 6 |

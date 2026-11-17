@@ -1656,6 +1656,7 @@ G.update({
     'Nashoba (Germantown)': (-89.78, 35.09, 'h', 'colonie de Nashoba, rivière Wolf, comté de Shelby (Tennessee)'),
     'Cold Water (Muscle Shoals)': (-87.7, 34.73, 'h', 'Cold Water, village creek-chicamauga près des Muscle Shoals (Tuscumbia, Alabama)'),
     'Memphis (Tennessee)': (-90.05, 35.149, 'c', 'Memphis (Tennessee)'),
+    'Knoxville (Tennessee)': (-83.92, 35.96, 'c', 'Knoxville (Tennessee)'),
 })
 
 
