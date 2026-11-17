@@ -370,6 +370,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofalabama01pick` | 72 |
 | `historyofalabama04pick` | 19 |
 | `cu31924028794042` | 28 |
+| `mobileoffiveflag00hami` | 42 |
 
 
 ## Un point par lieu et adresses précises
