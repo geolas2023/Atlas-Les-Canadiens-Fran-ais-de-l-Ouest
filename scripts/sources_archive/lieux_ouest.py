@@ -2022,6 +2022,16 @@ G.update({
     'Asotin (Washington)': (-117.05, 46.34, 'c', 'Asotin (Washington)'),
     'Polk (comté, Oregon)': (-123.4, 44.9, 'h', 'comté de Polk (Oregon)'),
     'Dry Creek (Walla Walla)': (-118.25, 46.1, 'h', 'Dry Creek, comté de Walla Walla (Washington)'),
+    'Sprague (Washington)': (-117.98, 47.3, 'c', 'Sprague (Washington)'),
+    'Davenport (Washington)': (-118.15, 47.65, 'c', 'Davenport (Washington)'),
+    'Reardan (Washington)': (-117.88, 47.67, 'c', 'Reardan (Washington)'),
+    'Creston (Washington)': (-118.52, 47.76, 'c', 'Creston (Washington)'),
+    'Almira (Washington)': (-118.94, 47.71, 'c', 'Almira (Washington)'),
+    'Pasco (Washington)': (-119.1, 46.24, 'c', 'Pasco (Washington)'),
+    'Hartline (Washington)': (-119.11, 47.69, 'c', 'Hartline (Washington)'),
+    'Douglas (comté, Washington)': (-119.7, 47.7, 'h', 'comté de Douglas (Washington)'),
+    'Waterville (Washington)': (-120.07, 47.65, 'c', 'Waterville (Washington)'),
+    'Lamona (Washington)': (-118.48, 47.36, 'c', 'Lamona (Washington)'),
 })
 
 
