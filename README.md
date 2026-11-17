@@ -450,6 +450,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofsantacr00will` | 2 |
 | `historyofsantacr00harr` | 1 |
 | `historyofmercedc00park` | 1 |
+| `historyofamadorc00maso` | 4 |
+| `historyofsanluis00ange` | 13 |
+| `historyofsantaba00maso` | 5 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

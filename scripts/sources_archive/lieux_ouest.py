@@ -1900,6 +1900,13 @@ G.update({
     'Gold Bluff (Californie)': (-124.08, 41.38, 'a', 'Gold Bluff (côte du comté de Humboldt), Californie'),
     'Crescent City (Californie)': (-124.2, 41.76, 'c', 'Crescent City (comté de Del Norte), Californie'),
     'Kern (comté)': (-118.7, 35.35, 'h', 'comté de Kern (Californie)'),
+    'Jackson (Californie)': (-120.77, 38.35, 'c', "Jackson (comté d'Amador), Californie"),
+    'Lancha Plana (Californie)': (-120.92, 38.23, 'c', "Lancha Plana (comté d'Amador), Californie"),
+    'Amador (comté)': (-120.65, 38.45, 'h', "comté d'Amador (Californie)"),
+    'Cayucos (Californie)': (-120.89, 35.44, 'c', 'Cayucos (comté de San Luis Obispo), Californie'),
+    'Côte de Californie': (-120.9, 35.2, 'a', 'côte des comtés de San Luis Obispo et Santa Barbara (Californie)'),
+    'Santa Barbara (comté)': (-120.2, 34.6, 'h', 'comté de Santa Barbara (Gaviota, Las Cruces), Californie'),
+    'Ventura (comté)': (-119.05, 34.3, 'h', 'comté de Ventura (vallée de la Santa Clara), Californie'),
 })
 
 

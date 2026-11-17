@@ -697982,6 +697982,856 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.77,
+     38.35
+    ]
+   },
+   "properties": {
+    "id": "WX-sompayrac-jackson-ca",
+    "nom": "Jackson (comté d'Amador), Californie : Sompayrac",
+    "corpus": "archive.org · Mason, History of Amador County",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sompayrac"
+    ],
+    "description": "Jackson (comté d'Amador), Californie, 1851. Sompayrac « French merchant », crie « Hang him! » à la pendaison de Nelson. D'après Mason, History of Amador County.",
+    "sources": "J. D. Mason, History of Amador County (1881), p. 171 ; texte intégral : archive.org, historyofamadorc00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Amador County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofamadorc00maso?q=SOMPAYRAC",
+      "texte": "Lire Mason, History of Amador County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.92,
+     38.23
+    ]
+   },
+   "properties": {
+    "id": "WX-frank-lancha-pla",
+    "nom": "Lancha Plana (comté d'Amador), Californie : Frank",
+    "corpus": "archive.org · Mason, History of Amador County",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank"
+    ],
+    "description": "Lancha Plana (comté d'Amador), Californie, vers 1850. Frank « French Canadian », ouvre le premier magasin. D'après Mason, History of Amador County.",
+    "sources": "J. D. Mason, History of Amador County (1881), p. 196 ; texte intégral : archive.org, historyofamadorc00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Amador County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofamadorc00maso?q=FRANK",
+      "texte": "Lire Mason, History of Amador County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.65,
+     38.45
+    ]
+   },
+   "properties": {
+    "id": "WX-martin-catherine-amador-com",
+    "nom": "Comté d'Amador (Californie) : Catherine Martin",
+    "corpus": "archive.org · Mason, History of Amador County",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Catherine Martin"
+    ],
+    "description": "Comté d'Amador (Californie), 1853. Catherine Martin, née à Canada, 1830, « of French descent », épouse de Stephen Finn (mariés au Canada en 1852), d'abord dans l'El Dorado ; ranch Finn réputé pour son hospitalité. D'après Mason, History of Amador County.",
+    "sources": "J. D. Mason, History of Amador County (1881), notice « Finn » ; texte intégral : archive.org, historyofamadorc00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Amador County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofamadorc00maso?q=MARTIN",
+      "texte": "Lire Mason, History of Amador County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.65,
+     38.45
+    ]
+   },
+   "properties": {
+    "id": "WX-duhem-c-amador-com",
+    "nom": "Comté d'Amador (Californie) : C. Duhem",
+    "corpus": "archive.org · Mason, History of Amador County",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "C. Duhem"
+    ],
+    "description": "Comté d'Amador (Californie), vers 1859. C. Duhem, né à Paris, souscripteur, arrivé dans le comté vers 1859. D'après Mason, History of Amador County.",
+    "sources": "J. D. Mason, History of Amador County (1881), annuaire des souscripteurs ; texte intégral : archive.org, historyofamadorc00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Amador County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofamadorc00maso?q=DUHEM",
+      "texte": "Lire Mason, History of Amador County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "WY-la-perouse-monterey-c",
+    "nom": "Monterey, Californie : La Perouse",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1786.0,
+    "fin": 1786.0,
+    "date_edtf": "1786",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Perouse"
+    ],
+    "description": "Monterey, Californie, 1786. La Perouse navigateur français, visite la côte et décrit la mission. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 30-31 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=LA+PEROUSE",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "WY-duflot-de-mofras-california",
+    "nom": "Californie : Duflot De Mofras",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duflot De Mofras"
+    ],
+    "description": "Californie, 1840. Duflot De Mofras attaché de la légation de France au Mexique, envoyé reconnaître la Californie. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 48 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=DUFLOT+DE+MOFRAS",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "WY-guys-monterey-c",
+    "nom": "Monterey, Californie : Guys",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Guys"
+    ],
+    "description": "Monterey, Californie, vers 1845. Guys « M. Guys », consul de France à Monterey. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 74 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=GUYS",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     39.4
+    ]
+   },
+   "properties": {
+    "id": "WY-laframboise-michael-vallee-du-",
+    "nom": "Vallée du Sacramento (Californie) : Michael Laframboise",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michael Laframboise"
+    ],
+    "description": "Vallée du Sacramento (Californie), 1832. Michael Laframboise conduit une bande de trappeurs venue du nord. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 95 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=LAFRAMBOISE",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66,
+     35.28
+    ]
+   },
+   "properties": {
+    "id": "WY-covarrubias-jose-m-san-luis-o",
+    "nom": "San Luis Obispo, Californie : Jose M. Covarrubias",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jose M. Covarrubias"
+    ],
+    "description": "San Luis Obispo, Californie, 1849. Jose M. Covarrubias, né à France, délégué du district à la Convention constitutionnelle, 40 ans, ranchero, 23 ans en Californie. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 118 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=COVARRUBIAS",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "WY-sansevain-pedro-san-jose",
+    "nom": "San José (Californie) : Pedro Sansevain",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pedro Sansevain"
+    ],
+    "description": "San José (Californie), 1849. Pedro Sansevain, né à France, délégué à la Convention constitutionnelle, 37 ans. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 118 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=SANSEVAIN",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66,
+     35.28
+    ]
+   },
+   "properties": {
+    "id": "WY-obiesa-pedro-san-luis-o",
+    "nom": "San Luis Obispo, Californie : Pedro Obiesa",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "evenement",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pedro Obiesa"
+    ],
+    "description": "San Luis Obispo, Californie, 1857. Pedro Obiesa, né à provinces basques de France, bouvier basque français, assassiné près du Nacimiento à la fin de l'année. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 294, 303 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=OBIESA",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66,
+     35.28
+    ]
+   },
+   "properties": {
+    "id": "WY-graciano-san-luis-o",
+    "nom": "San Luis Obispo, Californie : Graciano",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "evenement",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Graciano"
+    ],
+    "description": "San Luis Obispo, Californie, 1857. Graciano, né à provinces basques de France, bouvier basque français, assassiné près du Nacimiento. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 294, 303 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=GRACIANO",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.66,
+     33.5
+    ]
+   },
+   "properties": {
+    "id": "WY-baratie-bartolo-san-juan-c",
+    "nom": "Mission San Juan Capistrano, Californie : Bartolo Baratie",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "evenement",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bartolo Baratie"
+    ],
+    "description": "Mission San Juan Capistrano, Californie, 1858. Bartolo Baratie Français d'Oakland, assassiné lors du vol du 12 mai. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), chap. XXXII (comité de vigilance) ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=BARATIE",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.66,
+     33.5
+    ]
+   },
+   "properties": {
+    "id": "WY-borel-m-j-san-juan-c",
+    "nom": "Mission San Juan Capistrano, Californie : M. J. Borel",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "evenement",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. J. Borel"
+    ],
+    "description": "Mission San Juan Capistrano, Californie, 1858. M. J. Borel Français d'Oakland, assassiné le 12 mai. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), chap. XXXII (comité de vigilance) ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=BOREL",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66,
+     35.28
+    ]
+   },
+   "properties": {
+    "id": "WY-simmler-john-jacob-san-luis-o",
+    "nom": "San Luis Obispo, Californie : John Jacob Simmler",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Jacob Simmler"
+    ],
+    "description": "San Luis Obispo, Californie, 1852. John Jacob Simmler, né à Mulhouse, 1826, arrivé de Mazatlán ; maître de poste, juge de paix, premier juge de police, administrateur scolaire et municipal. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 314-315 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=SIMMLER",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89,
+     35.44
+    ]
+   },
+   "properties": {
+    "id": "WY-badasci-james-cayucos-ca",
+    "nom": "Cayucos (comté de San Luis Obispo), Californie : James Badasci",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1883.0,
+    "date_edtf": "1883~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "James Badasci"
+    ],
+    "description": "Cayucos (comté de San Luis Obispo), Californie, vers 1883. James Badasci, né à Suisse romande, c. 1849, « Franco-Switzerland », d'abord dans le comté de Marin. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 345 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=BADASCI",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9,
+     35.2
+    ]
+   },
+   "properties": {
+    "id": "WY-cessac-pierre-de-cote-de-ca",
+    "nom": "Côte des comtés de San Luis Obispo et Santa Barbara (Californie) : Pierre de Cessac",
+    "corpus": "archive.org · Angel, History of San Luis Obispo County",
+    "theme": "personnage",
+    "debut": 1878.0,
+    "fin": 1878.0,
+    "date_edtf": "1878~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre de Cessac"
+    ],
+    "description": "Côte des comtés de San Luis Obispo et Santa Barbara (Californie), vers 1878. Pierre de Cessac comte, savant « in the service of France », fouille des sépultures indiennes de la côte. D'après Angel, History of San Luis Obispo County.",
+    "sources": "M. Angel, History of San Luis Obispo County (1883), p. 24 ; texte intégral : archive.org, historyofsanluis00ange.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Angel, History of San Luis Obispo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanluis00ange?q=CESSAC",
+      "texte": "Lire Angel, History of San Luis Obispo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "WZ-bouchard-monterey-c",
+    "nom": "Monterey, Californie : Bouchard",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "evenement",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bouchard"
+    ],
+    "description": "Monterey, Californie, 1818. Bouchard « a Frenchman », capitaine du corsaire de Buenos Aires qui attaque Monterey, le ranch Ortega et San Juan Capistrano. D'après Mason, History of Santa Barbara County.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 38-39 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=BOUCHARD",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "WZ-smith-john-f-santa-barb",
+    "nom": "Santa Barbara, Californie : John F. Smith",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John F. Smith"
+    ],
+    "description": "Santa Barbara, Californie, 1833. John F. Smith, né à France, capitaine, bâtit la première maison de bois de Santa Barbara ; meurt en 1860. D'après Mason, History of Santa Barbara County.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 49 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=SMITH",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "WZ-covarrubias-jose-maria-california",
+    "nom": "Californie : Jose Maria Covarrubias",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jose Maria Covarrubias"
+    ],
+    "description": "Californie, 1826. Jose Maria Covarrubias, né à France, émigré au Mexique en 1817. D'après Mason, History of Santa Barbara County. Autres lieux de l'entrée : Santa Barbara, Californie.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 119-121 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=COVARRUBIAS",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "WZ-covarrubias-jose-maria-santa-barb",
+    "nom": "Santa Barbara, Californie : Jose Maria Covarrubias",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jose Maria Covarrubias"
+    ],
+    "description": "Santa Barbara, Californie, 1861. Jose Maria Covarrubias, né à France, secrétaire du gouvernement départemental, membre de la Convention et de la première législature ; élu juge de comté en 1861 ; meurt le 1er avril 1870. D'après Mason, History of Santa Barbara County. Autres lieux de l'entrée : Californie.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 119-121 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=COVARRUBIAS",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2,
+     34.6
+    ]
+   },
+   "properties": {
+    "id": "WZ-baron-pedro-santa-barb",
+    "nom": "Comté de Santa Barbara (Gaviota, Las Cruces), Californie : Pedro Baron",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pedro Baron"
+    ],
+    "description": "Comté de Santa Barbara (Gaviota, Las Cruces), Californie, 1860. Pedro Baron, né à Payssons (France), 1830, marchand à Las Cruces. D'après Mason, History of Santa Barbara County.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 281 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=BARON",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2,
+     34.6
+    ]
+   },
+   "properties": {
+    "id": "WZ-baron-pedro-santa-barb-2",
+    "nom": "Comté de Santa Barbara (Gaviota, Las Cruces), Californie : Pedro Baron",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pedro Baron"
+    ],
+    "description": "Comté de Santa Barbara (Gaviota, Las Cruces), Californie, 1872. Pedro Baron, né à Payssons (France), 1830, éleveur sur son ranch près de Gaviota. D'après Mason, History of Santa Barbara County.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 281 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=BARON",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.16,
+     32.72
+    ]
+   },
+   "properties": {
+    "id": "WZ-palin-san-diego-",
+    "nom": "San Diego, Californie : Palin",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Palin"
+    ],
+    "description": "San Diego, Californie, 1869. Palin, né à Saint-Jean (Canada), 1847, arrivé par Panama ; « descendant of one of the old French families who settled in Canada ». D'après Mason, History of Santa Barbara County. Autres lieux de l'entrée : comté de Ventura (vallée de la Santa Clara), Californie.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 390 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=PALIN",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.05,
+     34.3
+    ]
+   },
+   "properties": {
+    "id": "WZ-palin-ventura-co",
+    "nom": "Comté de Ventura (vallée de la Santa Clara), Californie : Palin",
+    "corpus": "archive.org · Mason, History of Santa Barbara County",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Palin"
+    ],
+    "description": "Comté de Ventura (vallée de la Santa Clara), Californie, 1873. Palin, né à Saint-Jean (Canada), 1847, fermier et éleveur dans la vallée de la Santa Clara, près de Springville. D'après Mason, History of Santa Barbara County. Autres lieux de l'entrée : San Diego, Californie.",
+    "sources": "J. D. Mason, History of Santa Barbara County (1883), p. 390 ; texte intégral : archive.org, historyofsantaba00maso.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Mason, History of Santa Barbara County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantaba00maso?q=PALIN",
+      "texte": "Lire Mason, History of Santa Barbara County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
