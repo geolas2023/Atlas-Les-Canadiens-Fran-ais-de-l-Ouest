@@ -2013,6 +2013,15 @@ G.update({
     'Nespelem (Washington)': (-118.97, 48.17, 'c', 'Nespelem (Washington)'),
     'Mission Saint-François-Régis (Colville)': (-117.95, 48.66, 'a', 'mission Saint-François-Régis, vallée de la Colville (Washington)'),
     'Okanogan (comté, Washington)': (-119.7, 48.5, 'h', "comté d'Okanogan (Washington)"),
+    'Walla Walla (Washington)': (-118.34, 46.065, 'c', 'Walla Walla (ville, Washington)'),
+    'Frenchtown (Walla Walla)': (-118.47, 46.05, 'h', 'Frenchtown, rivière Walla Walla (Washington)'),
+    'Rivière Touchet (Washington)': (-118.5, 46.2, 'h', 'rivière Touchet (Washington)'),
+    'Waitsburg (Washington)': (-118.15, 46.27, 'c', 'Waitsburg (Washington)'),
+    'Pendleton (Oregon)': (-118.79, 45.67, 'c', 'Pendleton (Oregon)'),
+    'Colfax (Washington)': (-117.36, 46.88, 'c', 'Colfax (Washington)'),
+    'Asotin (Washington)': (-117.05, 46.34, 'c', 'Asotin (Washington)'),
+    'Polk (comté, Oregon)': (-123.4, 44.9, 'h', 'comté de Polk (Oregon)'),
+    'Dry Creek (Walla Walla)': (-118.25, 46.1, 'h', 'Dry Creek, comté de Walla Walla (Washington)'),
 })
 
 
