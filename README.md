@@ -414,6 +414,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historycolorad05stat` | 2 |
 | `sketchesofearlyc00spal` | 9 |
 | `centenaryofcatho00webb` | 96 |
+| `SketchesOfTheLifeTimes` | 18 |
+| `centenaryoflouis00durr` | 22 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
