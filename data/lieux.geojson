@@ -673468,6 +673468,142 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YW-bouchet-m-louisville",
+    "nom": "Chutes de l'Ohio (Louisville) : M. Bouchet",
+    "corpus": "archive.org · Johnston, Memorial History of Louisville II (1896)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Bouchet"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1853. M. Bouchet, né à Clermont (Puy-de-Dôme, France), 1826, arrive au printemps avec la douzaine d'ecclésiastiques recrutés par Spalding, ordonné prêtre en septembre. D'après Johnston, Memorial History of Louisville II (1896). Autres lieux de l'entrée : Bardstown (Kentucky).",
+    "sources": "J. Stoddard Johnston, Memorial History of Louisville, vol. II (1896), p. 533-534 ; texte intégral : archive.org, memorialhistoryo02john.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Johnston, Memorial History of Louisville II (1896)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialhistoryo02john?q=BOUCHET",
+      "texte": "Lire Johnston, Memorial History of Louisville II (1896) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.467,
+     37.809
+    ]
+   },
+   "properties": {
+    "id": "YW-bouchet-m-bardstown-",
+    "nom": "Bardstown (Kentucky) : M. Bouchet",
+    "corpus": "archive.org · Johnston, Memorial History of Louisville II (1896)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1861.999,
+    "date_edtf": "1853/1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Bouchet"
+    ],
+    "description": "Bardstown (Kentucky), 1853-1861. M. Bouchet, né à Clermont (Puy-de-Dôme, France), 1826, missionnaire des comtés d'Union et de Nelson. D'après Johnston, Memorial History of Louisville II (1896). Autres lieux de l'entrée : chutes de l'Ohio (Louisville).",
+    "sources": "J. Stoddard Johnston, Memorial History of Louisville, vol. II (1896), p. 533-534 ; texte intégral : archive.org, memorialhistoryo02john.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Johnston, Memorial History of Louisville II (1896)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialhistoryo02john?q=BOUCHET",
+      "texte": "Lire Johnston, Memorial History of Louisville II (1896) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YW-bouchet-m-louisville-2",
+    "nom": "Chutes de l'Ohio (Louisville) : M. Bouchet",
+    "corpus": "archive.org · Johnston, Memorial History of Louisville II (1896)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Bouchet"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1861. M. Bouchet, né à Clermont (Puy-de-Dôme, France), 1826, appelé à la cathédrale par Spalding, charges sous Spalding et Lavialle. D'après Johnston, Memorial History of Louisville II (1896). Autres lieux de l'entrée : Bardstown (Kentucky).",
+    "sources": "J. Stoddard Johnston, Memorial History of Louisville, vol. II (1896), p. 533-534 ; texte intégral : archive.org, memorialhistoryo02john.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Johnston, Memorial History of Louisville II (1896)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialhistoryo02john?q=BOUCHET",
+      "texte": "Lire Johnston, Memorial History of Louisville II (1896) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.76,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "YW-bouchet-m-louisville-3",
+    "nom": "Chutes de l'Ohio (Louisville) : M. Bouchet",
+    "corpus": "archive.org · Johnston, Memorial History of Louisville II (1896)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Bouchet"
+    ],
+    "description": "Chutes de l'Ohio (Louisville), 1870. M. Bouchet, né à Clermont (Puy-de-Dôme, France), 1826, vicaire général du diocèse sous McCloskey ; rédacteur du Record. D'après Johnston, Memorial History of Louisville II (1896). Autres lieux de l'entrée : Bardstown (Kentucky).",
+    "sources": "J. Stoddard Johnston, Memorial History of Louisville, vol. II (1896), p. 533-534 ; texte intégral : archive.org, memorialhistoryo02john.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Johnston, Memorial History of Louisville II (1896)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialhistoryo02john?q=BOUCHET",
+      "texte": "Lire Johnston, Memorial History of Louisville II (1896) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
