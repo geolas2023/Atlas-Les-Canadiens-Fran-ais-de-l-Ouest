@@ -696860,6 +696860,550 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "XN-silberhorn-charles-t-san-franci",
+    "nom": "San Francisco : Charles T. Silberhorn",
+    "corpus": "archive.org · Palmer, History of Mendocino County",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles T. Silberhorn"
+    ],
+    "description": "San Francisco, 1849. Charles T. Silberhorn, né à Strasbourg, 1817, arrivé le 4 juillet. D'après Palmer, History of Mendocino County. Autres lieux de l'entrée : comté de Mendocino (Californie).",
+    "sources": "L. L. Palmer, History of Mendocino County (1880), p. 571-572 ; texte intégral : archive.org, historyofmendoci00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Mendocino County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmendoci00palm?q=SILBERHORN",
+      "texte": "Lire Palmer, History of Mendocino County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.4,
+     39.3
+    ]
+   },
+   "properties": {
+    "id": "XN-silberhorn-charles-t-mendocino-",
+    "nom": "Comté de Mendocino (Californie) : Charles T. Silberhorn",
+    "corpus": "archive.org · Palmer, History of Mendocino County",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles T. Silberhorn"
+    ],
+    "description": "Comté de Mendocino (Californie), vers 1880. Charles T. Silberhorn, né à Strasbourg, 1817, établi dans les townships de Calpella et Little Lake. D'après Palmer, History of Mendocino County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "L. L. Palmer, History of Mendocino County (1880), p. 571-572 ; texte intégral : archive.org, historyofmendoci00palm.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Palmer, History of Mendocino County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmendoci00palm?q=SILBERHORN",
+      "texte": "Lire Palmer, History of Mendocino County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WL-lauff-charles-august-san-franci",
+    "nom": "San Francisco : Charles August Lauff",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles August Lauff"
+    ],
+    "description": "D'après History of Marin County, Charles August Lauff, né à Strasbourg, 1822, est associé à ce lieu (San Francisco) en 1844. Autres lieux de l'entrée : Bolinas (comté de Marin), Californie.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 422 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=LAUFF",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.69,
+     37.91
+    ]
+   },
+   "properties": {
+    "id": "WL-lauff-charles-august-bolinas-ca",
+    "nom": "Bolinas (comté de Marin), Californie : Charles August Lauff",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles August Lauff"
+    ],
+    "description": "Bolinas (comté de Marin), Californie, vers 1880. Charles August Lauff, né à Strasbourg, 1822, établi à Bolinas. D'après History of Marin County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 422 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=LAUFF",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "WL-dessart-john-p-california",
+    "nom": "Californie : John P. Dessart",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John P. Dessart"
+    ],
+    "description": "D'après History of Marin County, John P. Dessart, né à Belgique, 1849, est associé à ce lieu (Californie) en 1875. Autres lieux de l'entrée : Novato (comté de Marin), Californie.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 441 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=DESSART",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.57,
+     38.11
+    ]
+   },
+   "properties": {
+    "id": "WL-dessart-john-p-novato-cal",
+    "nom": "Novato (comté de Marin), Californie : John P. Dessart",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John P. Dessart"
+    ],
+    "description": "Novato (comté de Marin), Californie, 1877. John P. Dessart, né à Belgique, 1849, commis de J. B. Faggiano. D'après History of Marin County. Autres lieux de l'entrée : Californie.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 441 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=DESSART",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WL-bresson-joseph-san-franci",
+    "nom": "San Francisco : Joseph Bresson",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Bresson"
+    ],
+    "description": "D'après History of Marin County, Joseph Bresson, né à France, 1843, est associé à ce lieu (San Francisco) en 1866. Autres lieux de l'entrée : comté de Marin (Californie).",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 460 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=BRESSON",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     38.05
+    ]
+   },
+   "properties": {
+    "id": "WL-bresson-joseph-marin-comt",
+    "nom": "Comté de Marin (Californie) : Joseph Bresson",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Bresson"
+    ],
+    "description": "Comté de Marin (Californie), 1871. Joseph Bresson, né à France, 1843, ranch de 727 acres. D'après History of Marin County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 460 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=BRESSON",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.53,
+     37.97
+    ]
+   },
+   "properties": {
+    "id": "WL-grosjean-c-san-rafael",
+    "nom": "San Rafael (Californie) : C. Grosjean",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "C. Grosjean"
+    ],
+    "description": "San Rafael (Californie), 1872. C. Grosjean, né à Savoie, 1839, commerce de spiritueux. D'après History of Marin County.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 463-464 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=GROSJEAN",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "WL-guay-john-california",
+    "nom": "Californie : John Guay",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Guay"
+    ],
+    "description": "Californie, 1858. John Guay, né à Canada, 1839, mines de Weaverville (Trinity). D'après History of Marin County. Autres lieux de l'entrée : Tomales (comté de Marin), Californie.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 495 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=GUAY",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "WL-guay-john-tomales-ca",
+    "nom": "Tomales (comté de Marin), Californie : John Guay",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "John Guay"
+    ],
+    "description": "Tomales (comté de Marin), Californie, vers 1880. John Guay, né à Canada, 1839, établi à Tomales. D'après History of Marin County. Autres lieux de l'entrée : Californie.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 495 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=GUAY",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WL-israel-charles-s-san-franci",
+    "nom": "San Francisco : Charles S. Israel",
+    "corpus": "archive.org · History of Marin County",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles S. Israel"
+    ],
+    "description": "San Francisco, 1877. Charles S. Israel, né à Thionville, 1852, artiste, rédacteur et propriétaire du San Francisco Punch. D'après History of Marin County.",
+    "sources": "History of Marin County (Alley, Bowen, 1880), p. 499 ; texte intégral : archive.org, historyofmarinco00munr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Marin County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmarinco00munr?q=ISRAEL",
+      "texte": "Lire History of Marin County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WM-blum-simon-san-franci",
+    "nom": "San Francisco : Simon Blum",
+    "corpus": "archive.org · History of Contra Costa County",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Simon Blum"
+    ],
+    "description": "San Francisco, 1853. Simon Blum, né à La Belle (France), 1834, arrivé le 20 fév. ; épouse Leontine Alexandre, née en France, en 1861. D'après History of Contra Costa County. Autres lieux de l'entrée : Martinez (Californie).",
+    "sources": "History of Contra Costa County (Slocum, 1882), p. 510-511 ; texte intégral : archive.org, historyofcontrco00munrrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Contra Costa County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcontrco00munrrich?q=BLUM",
+      "texte": "Lire History of Contra Costa County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13,
+     38.02
+    ]
+   },
+   "properties": {
+    "id": "WM-blum-simon-martinez-c",
+    "nom": "Martinez (Californie) : Simon Blum",
+    "corpus": "archive.org · History of Contra Costa County",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Simon Blum"
+    ],
+    "description": "Martinez (Californie), 1854. Simon Blum, né à La Belle (France), 1834, négociant (S. Blum et frère). D'après History of Contra Costa County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Contra Costa County (Slocum, 1882), p. 510-511 ; texte intégral : archive.org, historyofcontrco00munrrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Contra Costa County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcontrco00munrrich?q=BLUM",
+      "texte": "Lire History of Contra Costa County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WM-jacob-david-san-franci",
+    "nom": "San Francisco : David Jacob",
+    "corpus": "archive.org · History of Contra Costa County",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "David Jacob"
+    ],
+    "description": "D'après History of Contra Costa County, David Jacob, né à France, 1836, est associé à ce lieu (San Francisco) en 1866. Autres lieux de l'entrée : San Pablo (comté de Contra Costa), Californie.",
+    "sources": "History of Contra Costa County (Slocum, 1882), p. 585 ; texte intégral : archive.org, historyofcontrco00munrrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Contra Costa County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcontrco00munrrich?q=JACOB",
+      "texte": "Lire History of Contra Costa County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35,
+     37.96
+    ]
+   },
+   "properties": {
+    "id": "WM-jacob-david-san-pablo-",
+    "nom": "San Pablo (comté de Contra Costa), Californie : David Jacob",
+    "corpus": "archive.org · History of Contra Costa County",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "David Jacob"
+    ],
+    "description": "San Pablo (comté de Contra Costa), Californie, vers 1882. David Jacob, né à France, 1836, négociant et maître de poste ; épouse Jeanne Boris, née en France. D'après History of Contra Costa County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Contra Costa County (Slocum, 1882), p. 585 ; texte intégral : archive.org, historyofcontrco00munrrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Contra Costa County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofcontrco00munrrich?q=JACOB",
+      "texte": "Lire History of Contra Costa County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]

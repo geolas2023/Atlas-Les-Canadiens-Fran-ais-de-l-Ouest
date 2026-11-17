@@ -1884,6 +1884,14 @@ G.update({
     'Little Shasta (Californie)': (-122.38, 41.71, 'c', 'Little Shasta (comté de Siskiyou), Californie'),
     'Placerville (Californie)': (-120.8, 38.73, 'c', 'Placerville (Hangtown), Californie'),
     'Vallée du Sacramento': (-121.9, 39.4, 'a', 'vallée du Sacramento (Californie)'),
+    'Mendocino (comté)': (-123.4, 39.3, 'h', 'comté de Mendocino (Californie)'),
+    'Bolinas (Californie)': (-122.69, 37.91, 'c', 'Bolinas (comté de Marin), Californie'),
+    'Novato (Californie)': (-122.57, 38.11, 'c', 'Novato (comté de Marin), Californie'),
+    'San Rafael (Californie)': (-122.53, 37.97, 'c', 'San Rafael (Californie)'),
+    'Tomales (Californie)': (-122.9, 38.25, 'c', 'Tomales (comté de Marin), Californie'),
+    'Marin (comté)': (-122.7, 38.05, 'h', 'comté de Marin (Californie)'),
+    'Martinez (Californie)': (-122.13, 38.02, 'c', 'Martinez (Californie)'),
+    'San Pablo (Californie)': (-122.35, 37.96, 'c', 'San Pablo (comté de Contra Costa), Californie'),
 })
 
 
