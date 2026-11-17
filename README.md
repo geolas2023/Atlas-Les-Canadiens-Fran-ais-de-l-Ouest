@@ -367,6 +367,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `tennesseehistori04tennuoft` | 4 |
 | `tennesseehistori05tennuoft` | 1 |
 | `civilpoliticalhi00hayw` | 5 |
+| `historyofalabama01pick` | 72 |
+| `historyofalabama04pick` | 19 |
 
 
 ## Un point par lieu et adresses précises

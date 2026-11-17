@@ -1662,6 +1662,15 @@ G.update({
     'Rivière Cumberland (Tennessee)': (-87.2, 36.45, 'h', 'rivière Cumberland (Tennessee)'),
     'Little Tallassee (Creek)': (-86.2, 32.55, 'h', 'Little Tallassee, nation creek (Alabama)'),
     'Chota (Tennessee)': (-84.13, 35.53, 'h', 'Chota, capitale cherokee sur la Little Tennessee (Tennessee)'),
+    'Rivière Tombigbee (Alabama)': (-88.05, 31.7, 'h', 'Rivière Tombigbee, Alabama'),
+    'Rivière Perdido': (-87.4, 30.45, 'h', 'Rivière Perdido, frontière Alabama-Floride'),
+    'Baie de Mobile': (-88.0, 30.5, 'h', 'Baie de Mobile, Alabama'),
+    'Confluence Tombigbee-Alabama': (-87.95, 31.13, 'h', "Confluent de la Tombigbee et de l'Alabama"),
+    'Hickory Ground (Alabama)': (-86.22, 32.53, 'h', 'Hickory Ground (Odchiapofa), près de Wetumpka, Alabama'),
+    'Murder Creek (Conecuh)': (-87.05, 31.2, 'h', 'Murder Creek, comté de Conecuh, Alabama'),
+    'Fort Claiborne (Alabama)': (-87.51, 31.55, 'h', 'Fort Claiborne, comté de Monroe, Alabama'),
+    'Greensboro (Alabama)': (-87.6, 32.7, 'c', 'Greensboro, Alabama'),
+    'Chehaw (Creeks)': (-84.1, 31.6, 'h', 'Chehaw, village creek, sur la Flint'),
 })
 
 
