@@ -412,6 +412,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historycolorad03stat` | 4 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
+| `historyofcityofd00inolba` | 10 |
 
 
 ## Un point par lieu et adresses précises
