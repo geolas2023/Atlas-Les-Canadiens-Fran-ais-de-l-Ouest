@@ -2055,6 +2055,12 @@ G.update({
     'Moxee (Washington)': (-120.38, 46.56, 'h', 'vallée de la Moxee (Washington)'),
     'Fort Simcoe (Washington)': (-120.84, 46.36, 'a', 'fort Simcoe (réserve yakima, Washington)'),
     'College Place (Washington)': (-118.39, 46.04, 'c', 'College Place (Washington)'),
+    'Selah (Washington)': (-120.53, 46.65, 'c', 'Selah (Washington)'),
+    'Wapato (Washington)': (-120.42, 46.45, 'c', "Wapato / mission d'Aleshecas (Washington)"),
+    'Cle Elum (Washington)': (-120.94, 47.2, 'c', 'Cle Elum (Washington)'),
+    'Sunnyside (Washington)': (-120.0, 46.32, 'c', 'Sunnyside (Washington)'),
+    'Naches (Washington)': (-120.7, 46.73, 'c', 'Naches (Washington)'),
+    'Yakima (comté, Washington)': (-120.5, 46.5, 'h', 'comté de Yakima (Washington)'),
 })
 
 
