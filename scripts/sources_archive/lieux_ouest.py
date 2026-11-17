@@ -2082,6 +2082,9 @@ G.update({
     'Oso (Washington)': (-121.92, 48.27, 'c', 'Oso (comté de Snohomish, Washington)'),
     'Index (Washington)': (-121.55, 47.82, 'c', 'Index (comté de Snohomish, Washington)'),
     'Empire (Colorado)': (-105.68, 39.76, 'c', 'Empire City (comté de Clear Creek, Colorado)'),
+    'Galena (Washington)': (-121.4, 47.95, 'c', 'Galena (district de Silver Creek, comté de Snohomish, Washington)'),
+    'Sauk City (Washington)': (-121.57, 48.43, 'c', 'Sauk City (comté de Skagit, Washington)'),
+    'La Conner (Washington)': (-122.5, 48.39, 'c', 'La Conner (comté de Skagit, Washington)'),
 })
 
 
