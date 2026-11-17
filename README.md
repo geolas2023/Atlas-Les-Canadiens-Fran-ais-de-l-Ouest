@@ -421,6 +421,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historicaltribut00howl` | 8 |
 | `memorialhistoryo02john` | 1 |
 | `lesfranaisenca00levy` | 240 |
+| `worksofhuberthow19bancrich` | 30 |
+| `worksofhuberthow20bancrich` | 9 |
+| `worksofhuberthow21bancrich` | 41 |
+| `worksofhuberthow22bancrich` | 19 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
