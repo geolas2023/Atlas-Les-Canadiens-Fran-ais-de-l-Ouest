@@ -701212,6 +701212,448 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AJ-jeanmonod-auguste-san-franci",
+    "nom": "San Francisco : Auguste Jeanmonod",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Jeanmonod"
+    ],
+    "description": "D'après Gregory, History of Solano and Napa Counties, Auguste Jeanmonod, né à Neuchâtel, 1840, est associé à ce lieu (San Francisco) en 1868. Autres lieux de l'entrée : vallée de Napa, Californie.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 476-477 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=JEANMONOD",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "AJ-jeanmonod-auguste-napa-calif",
+    "nom": "Vallée de Napa, Californie : Auguste Jeanmonod",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1912.0,
+    "fin": 1912.0,
+    "date_edtf": "1912~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Jeanmonod"
+    ],
+    "description": "Vallée de Napa, Californie, vers 1912. Auguste Jeanmonod, né à Neuchâtel, 1840, vigneron et vinificateur de la vallée de Napa. D'après Gregory, History of Solano and Napa Counties. Autres lieux de l'entrée : San Francisco.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 476-477 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=JEANMONOD",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.38,
+     37.98
+    ]
+   },
+   "properties": {
+    "id": "AJ-laurent-jean-sonora-cal",
+    "nom": "Sonora (comté de Tuolumne), Californie : Jean Laurent",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Laurent"
+    ],
+    "description": "D'après Gregory, History of Solano and Napa Counties, Jean Laurent, né à Bordeaux, 1837, est associé à ce lieu (Sonora (comté de Tuolumne), Californie) en 1852. Autres lieux de l'entrée : St. Helena (comté de Napa), Californie.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 613 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=LAURENT",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.47,
+     38.51
+    ]
+   },
+   "properties": {
+    "id": "AJ-laurent-jean-st-helena-",
+    "nom": "St. Helena (comté de Napa), Californie : Jean Laurent",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1912.0,
+    "fin": 1912.0,
+    "date_edtf": "1912~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Laurent"
+    ],
+    "description": "St. Helena (comté de Napa), Californie, vers 1912. Jean Laurent, né à Bordeaux, 1837, vigneron, ranch près de St. Helena. D'après Gregory, History of Solano and Napa Counties. Autres lieux de l'entrée : Sonora (comté de Tuolumne), Californie.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 613 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=LAURENT",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AJ-vorbe-ephrem-san-franci",
+    "nom": "San Francisco : Ephrem Vorbe",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1912.0,
+    "fin": 1912.0,
+    "date_edtf": "1912~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Ephrem Vorbe"
+    ],
+    "description": "San Francisco, vers 1912. Ephrem Vorbe, né à Doubs, 1840, venu par Panama ; caissier de la Swiss-American Bank, puis retiré au ranch St. George, comté de Napa. D'après Gregory, History of Solano and Napa Counties.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 629 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=VORBE",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "AJ-callizo-joseph-napa-calif",
+    "nom": "Vallée de Napa, Californie : Joseph Callizo",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1884.0,
+    "fin": 1884.0,
+    "date_edtf": "1884",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Callizo"
+    ],
+    "description": "Vallée de Napa, Californie, 1884. Joseph Callizo, né à Oloron (Basses-Pyrénées), 1856, contremaître du domaine Parrott près de St. Helena. D'après Gregory, History of Solano and Napa Counties.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 887 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=CALLIZO",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "AJ-saviez-frank-california",
+    "nom": "Californie : Frank Saviez",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1883.0,
+    "date_edtf": "1883",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Frank Saviez"
+    ],
+    "description": "Californie, 1883. Frank Saviez, né à Midi de la France, 1850, bûcheron près de Duncan's Mills, puis comté de Sonoma. D'après Gregory, History of Solano and Napa Counties. Autres lieux de l'entrée : Calistoga (comté de Napa), Californie.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 887-888 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=SAVIEZ",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.58,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AJ-saviez-frank-calistoga-",
+    "nom": "Calistoga (comté de Napa), Californie : Frank Saviez",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1893.0,
+    "fin": 1893.0,
+    "date_edtf": "1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank Saviez"
+    ],
+    "description": "Calistoga (comté de Napa), Californie, 1893. Frank Saviez, né à Midi de la France, 1850, vigneron et arboriculteur, ranch Cedar Lane à Larkmead. D'après Gregory, History of Solano and Napa Counties. Autres lieux de l'entrée : Californie.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 887-888 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=SAVIEZ",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.58,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AJ-drouit-frank-calistoga-",
+    "nom": "Calistoga (comté de Napa), Californie : Frank Drouit",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank Drouit"
+    ],
+    "description": "Calistoga (comté de Napa), Californie, 1889. Frank Drouit, né à France, 1855, ancien mineur de charbon et d'argent, fermier près de St. Helena. D'après Gregory, History of Solano and Napa Counties.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 892-893 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=DROUIT",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AJ-bolomey-a-henry-san-franci",
+    "nom": "San Francisco : A. Henry Bolomey",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1899.0,
+    "fin": 1899.0,
+    "date_edtf": "1899",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Henry Bolomey"
+    ],
+    "description": "San Francisco, 1899. A. Henry Bolomey, né à Suisse, 1865, chimiste ; ranch Redwood de la vallée de Dry Creek. D'après Gregory, History of Solano and Napa Counties.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 992 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=BOLOMEY",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.47,
+     38.51
+    ]
+   },
+   "properties": {
+    "id": "AJ-crochat-germain-st-helena-",
+    "nom": "St. Helena (comté de Napa), Californie : Germain Crochat",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Germain Crochat"
+    ],
+    "description": "St. Helena (comté de Napa), Californie, 1870. Germain Crochat, né à France, 1822, venu par Panama, distillateur chez Krug ; copropriétaire d'un ranch de 750 acres avec chai et distillerie dans la vallée de Conn. D'après Gregory, History of Solano and Napa Counties.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 1006-1007 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=CROCHAT",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AJ-pacheteau-j-san-franci",
+    "nom": "San Francisco : J. Pacheteau",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. Pacheteau"
+    ],
+    "description": "San Francisco, 1875. J. Pacheteau, né à France, négociant en vins et restaurateur. D'après Gregory, History of Solano and Napa Counties. Autres lieux de l'entrée : Calistoga (comté de Napa), Californie.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 1040-1041 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=PACHETEAU",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.58,
+     38.58
+    ]
+   },
+   "properties": {
+    "id": "AJ-pacheteau-j-calistoga-",
+    "nom": "Calistoga (comté de Napa), Californie : J. Pacheteau",
+    "corpus": "archive.org · Gregory, History of Solano and Napa Counties",
+    "theme": "personnage",
+    "debut": 1912.0,
+    "fin": 1912.0,
+    "date_edtf": "1912~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "J. Pacheteau"
+    ],
+    "description": "Calistoga (comté de Napa), Californie, vers 1912. J. Pacheteau, né à France, ranch du comté de Napa. D'après Gregory, History of Solano and Napa Counties. Autres lieux de l'entrée : San Francisco.",
+    "sources": "T. Gregory, History of Solano and Napa Counties (1912), p. 1040-1041 ; texte intégral : archive.org, historyofsolan00greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregory, History of Solano and Napa Counties",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsolan00greg?q=PACHETEAU",
+      "texte": "Lire Gregory, History of Solano and Napa Counties sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]

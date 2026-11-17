@@ -461,6 +461,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofstockto00tink` | 3 |
 | `historyofyubasut00dela` | 8 |
 | `annalsofsanfranc00soul` | 5 |
+| `historyofsolan00greg` | 9 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
