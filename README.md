@@ -378,6 +378,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `transactionsofal04alab` | 320 |
 | `transactionsofal02alab` | 2 |
 | `transactionsofal03alab` | 10 |
+| `memorialrecordof00tayl` | 9 |
+| `memorialrecordof21tayl` | 7 |
+| `memorialrecordof22tayl` | 7 |
 
 
 ## Un point par lieu et adresses précises
