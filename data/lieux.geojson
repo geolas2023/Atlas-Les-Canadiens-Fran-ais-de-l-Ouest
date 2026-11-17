@@ -732594,6 +732594,720 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BM-pambrun-m-walla-wall",
+    "nom": "Fort Walla Walla : Pambrun (M.)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pambrun (M.)"
+    ],
+    "description": "Fort Walla Walla, 1834. Pambrun (M.) en charge du fort pour la CBH, refuse des vivres au capitaine Bonneville. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=PAMBRUN+M+",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BM-bonneville-capitaine-walla-wall",
+    "nom": "Fort Walla Walla : Bonneville (Capitaine)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bonneville (Capitaine)"
+    ],
+    "description": "Fort Walla Walla, 1834. Bonneville (Capitaine) « de parents français », né à New York, au fort Walla Walla. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BONNEVILLE+capitaine+",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.625
+    ]
+   },
+   "properties": {
+    "id": "BM-blanchet-francis-n-abbe-fort-vanco",
+    "nom": "Fort Vancouver : Francis N. Blanchet (abbé)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis N. Blanchet (abbé)"
+    ],
+    "description": "Fort Vancouver, 1838. Francis N. Blanchet (abbé) venu de Montréal par voie de terre avec Demers ; « sujets britanniques, quoique français ». D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BLANCHET",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.625
+    ]
+   },
+   "properties": {
+    "id": "BM-demers-modest-abbe-fort-vanco",
+    "nom": "Fort Vancouver : Modest Demers (abbé)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Modest Demers (abbé)"
+    ],
+    "description": "Fort Vancouver, 1838. Modest Demers (abbé) arrive avec Blanchet. D'après Hines, Washington (1893). Autres lieux de l'entrée : Nisqually.",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=DEMERS",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "BM-demers-modest-abbe-nisqually",
+    "nom": "Nisqually : Modest Demers (abbé)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "religion",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Modest Demers (abbé)"
+    ],
+    "description": "Nisqually, 1839. Modest Demers (abbé) célèbre la première messe au fort de la CBH le 22 avril. D'après Hines, Washington (1893). Autres lieux de l'entrée : fort Vancouver.",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=DEMERS",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BM-blanchet-a-m-a-abbe-walla-wall",
+    "nom": "Fort Walla Walla : A. M. A. Blanchet (abbé)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "religion",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "A. M. A. Blanchet (abbé)"
+    ],
+    "description": "Fort Walla Walla, 1847. A. M. A. Blanchet (abbé) arrive vers septembre avec trois prêtres pour fonder une mission près de Waiilatpu. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., vers p. 192 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BLANCHET",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BM-brouillet-abbe-walla-wall",
+    "nom": "Fort Walla Walla : Brouillet (Abbé)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "religion",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Brouillet (Abbé)"
+    ],
+    "description": "Fort Walla Walla, 1847. Brouillet (Abbé) arrive avec Blanchet. D'après Hines, Washington (1893). Autres lieux de l'entrée : Mission Saint-Joseph d'Ahtanum (Yakima, Washington).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., vers p. 192 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BROUILLET+abbé+",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7,
+     46.55
+    ]
+   },
+   "properties": {
+    "id": "BM-brouillet-abbe-mission-ah",
+    "nom": "Mission Saint-Joseph d'Ahtanum (Yakima, Washington) : Brouillet (Abbé)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "religion",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Brouillet (Abbé)"
+    ],
+    "description": "Mission Saint-Joseph d'Ahtanum (Yakima, Washington), 1855. Brouillet (Abbé) écrit à l'agent Olney sur la situation des Yakimas. D'après Hines, Washington (1893). Autres lieux de l'entrée : fort Walla Walla.",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., vers p. 192 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BROUILLET+abbé+",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     45.65
+    ]
+   },
+   "properties": {
+    "id": "BM-bourbon-cascades-c",
+    "nom": "Les Cascades du Columbia : Bourbon",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "evenement",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bourbon"
+    ],
+    "description": "Les Cascades du Columbia, 1856. Bourbon métis, atteint d'une balle en montant à bord du vapeur Mary lors de l'attaque du 26 mars. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BOURBON",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.42,
+     47.66
+    ]
+   },
+   "properties": {
+    "id": "BM-rene-j-b-r-p-s-j-spokane-wa",
+    "nom": "Spokane (Washington) : J. B. Rene (R. P., s. j.)",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1891.0,
+    "fin": 1891.0,
+    "date_edtf": "1891",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Rene (R. P., s. j.)"
+    ],
+    "description": "Spokane (Washington), 1891. J. B. Rene (R. P., s. j.), né à Montrevault (France), né en 1841, nommé président du collège Gonzaga le 2 avril. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., vers p. 340 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=RENE",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "BM-lefevre-andrew-walla-wall",
+    "nom": "Fort Walla Walla : Andrew Lefevre",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Andrew Lefevre"
+    ],
+    "description": "Fort Walla Walla, 1862. Andrew Lefevre, né à Montréal, né en 1824 de Peter et Margaret (Osea) Lefevre, natifs du Canada ; épouse Annie Foriest, native du Canada. D'après Hines, Washington (1893). Autres lieux de l'entrée : Medical Lake (Washington).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 343 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=LEFEVRE",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.68,
+     47.57
+    ]
+   },
+   "properties": {
+    "id": "BM-lefevre-andrew-medical-la",
+    "nom": "Medical Lake (Washington) : Andrew Lefevre",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Andrew Lefevre"
+    ],
+    "description": "Medical Lake (Washington), 1872. Andrew Lefevre, né à Montréal, fonde le site de la ville ; marchand de biens. D'après Hines, Washington (1893). Autres lieux de l'entrée : fort Walla Walla.",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 343 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=LEFEVRE",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.42,
+     47.66
+    ]
+   },
+   "properties": {
+    "id": "BM-ayatte-marie-l-spokane-wa",
+    "nom": "Spokane (Washington) : Marie L. Ayatte",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie L. Ayatte"
+    ],
+    "description": "Spokane (Washington), 1889. Marie L. Ayatte « de Montréal », épouse l'avocat D. D. Brown. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=AYATTE",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.95,
+     46.72
+    ]
+   },
+   "properties": {
+    "id": "BM-dumon-john-h-centralia-",
+    "nom": "Centralia (Washington) : John H. Dumon",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John H. Dumon"
+    ],
+    "description": "Centralia (Washington), 1888. John H. Dumon, né à Michigan, né en 1850 de parents canadiens, John F. et Sarah (Rice) Dumon ; médecin. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 420 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=DUMON",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33,
+     47.606
+    ]
+   },
+   "properties": {
+    "id": "BM-baillargeon-a-seattle",
+    "nom": "Seattle : A. Baillargeon",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Baillargeon"
+    ],
+    "description": "Seattle, 1882. A. Baillargeon, né à Québec, né en 1856, d'ascendance française ; marchand de nouveautés, la Lace House. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 590-591 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BAILLARGEON",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33,
+     47.606
+    ]
+   },
+   "properties": {
+    "id": "BM-baillargeon-a-seattle-2",
+    "nom": "Seattle : A. Baillargeon",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Baillargeon"
+    ],
+    "description": "Seattle, 1889. A. Baillargeon, né à Québec. Son magasin est détruit dans l'incendie du 6 juin. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 590-591 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BAILLARGEON",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.44,
+     47.25
+    ]
+   },
+   "properties": {
+    "id": "BM-prevost-george-tacoma-was",
+    "nom": "Tacoma (Washington) : George Prevost",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1889.0,
+    "date_edtf": "1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Prevost"
+    ],
+    "description": "Tacoma (Washington), 1889. George Prevost associé de Prevost & Pfeiffer, fabricants de meubles de bureau. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 771 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=PREVOST",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6,
+     46.6
+    ]
+   },
+   "properties": {
+    "id": "BM-bernier-julien-lewis-comt",
+    "nom": "Comté de Lewis (Washington) : Julien Bernier",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1893.0,
+    "fin": 1893.0,
+    "date_edtf": "1893~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Julien Bernier"
+    ],
+    "description": "Comté de Lewis (Washington), vers 1893. Julien Bernier né en 1844, cultivateur ; fils de Marcel Bernier, né en 1818 dans l'actuel comté de Spokane, et de Celie. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 778 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=BERNIER",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6,
+     46.6
+    ]
+   },
+   "properties": {
+    "id": "BM-plomando-simon-lewis-comt",
+    "nom": "Comté de Lewis (Washington) : Simon Plomando",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1893.0,
+    "fin": 1893.0,
+    "date_edtf": "1893~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Simon Plomando"
+    ],
+    "description": "Comté de Lewis (Washington), vers 1893. Simon Plomando établi depuis seize ans dans le comté de Lewis ; marié à Mary Feron, née à Vancouver (Colombie-Britannique). D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., s. p. ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=PLOMANDO",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     47.04
+    ]
+   },
+   "properties": {
+    "id": "BM-ouellette-l-p-olympia-wa",
+    "nom": "Olympia (Washington) : L. P. Ouellette",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1883.0,
+    "date_edtf": "1883",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "L. P. Ouellette"
+    ],
+    "description": "Olympia (Washington), 1883. L. P. Ouellette, né à Sandwich (Ontario), né en 1855, arpenteur. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 813-814 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=OUELLETTE",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     47.04
+    ]
+   },
+   "properties": {
+    "id": "BM-ouellette-l-p-olympia-wa-2",
+    "nom": "Olympia (Washington) : L. P. Ouellette",
+    "corpus": "archive.org · Hines, Washington (1893)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "L. P. Ouellette"
+    ],
+    "description": "Olympia (Washington), 1890. L. P. Ouellette, né à Sandwich (Ontario), élu arpenteur du comté de Thurston à l'automne. D'après Hines, Washington (1893).",
+    "sources": "Hines, H. K. (1893), An Illustrated History of the State of Washington, Chicago, Lewis Publishing Co., p. 813-814 ; texte intégral : archive.org, illustratedhisto00hine.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hines, Washington (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/illustratedhisto00hine?q=OUELLETTE",
+      "texte": "Lire Hines, Washington (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]

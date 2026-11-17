@@ -1982,6 +1982,10 @@ G.update({
     'Douglas (comté, Oregon)': (-123.3, 43.2, 'h', 'comté de Douglas (Oregon)'),
     'Scappoose (Oregon)': (-122.88, 45.75, 'c', 'Scappoose (Oregon)'),
     'Spokane Falls': (-117.42, 47.66, 'a', 'chutes de la Spokane'),
+    'Spokane (Washington)': (-117.42, 47.66, 'c', 'Spokane (Washington)'),
+    'Tacoma (Washington)': (-122.44, 47.25, 'c', 'Tacoma (Washington)'),
+    'Centralia (Washington)': (-122.95, 46.72, 'c', 'Centralia (Washington)'),
+    'Medical Lake (Washington)': (-117.68, 47.57, 'c', 'Medical Lake (Washington)'),
 })
 
 
