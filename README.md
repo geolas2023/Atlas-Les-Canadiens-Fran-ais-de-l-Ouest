@@ -429,6 +429,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `voyageautourdumo02duha` | 4 |
 | `voyagesencalifor00sain` | 7 |
 | `worksofhuberthow24bancrich` | 12 |
+| `voyageencaliforn00auge` | 30 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
