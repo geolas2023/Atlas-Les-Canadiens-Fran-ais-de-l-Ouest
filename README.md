@@ -361,6 +361,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | Albright (1909), transcription ahgp.org | 2 |
 | Goodspeed, Shelby (1887), transcription usgwarchives.us | 7 |
 | `historymiddlete00putngoog` | 6 |
+| `historyofdavidso00clay` | 12 |
+| `standardhistoryo00youn` | 19 |
 
 
 ## Un point par lieu et adresses précises
