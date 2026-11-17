@@ -1863,6 +1863,12 @@ G.update({
     'Wilmington (Californie)': (-118.26, 33.78, 'c', 'Wilmington (Los Angeles), Californie'),
     'Tuolumne (comté)': (-120.25, 37.95, 'h', 'comté de Tuolumne (Californie)'),
     'Chinese Camp (Californie)': (-120.43, 37.87, 'c', 'Chinese Camp (comté de Tuolumne), Californie'),
+    'Coloma (Californie)': (-120.89, 38.8, 'c', 'Coloma (moulin de Sutter), Californie'),
+    'Mayfield (Californie)': (-122.14, 37.43, 'c', 'Mayfield (Palo Alto), Californie'),
+    'Mountain View (Californie)': (-122.08, 37.39, 'c', 'Mountain View (Californie)'),
+    'Alviso (Californie)': (-121.97, 37.43, 'c', 'Alviso (Californie)'),
+    'Los Gatos (Californie)': (-121.96, 37.23, 'c', 'Los Gatos (Californie)'),
+    'Almaden (Californie)': (-121.83, 37.18, 'h', 'New Almaden (Californie)'),
 })
 
 
