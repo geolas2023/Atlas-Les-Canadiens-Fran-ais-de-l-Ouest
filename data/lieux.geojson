@@ -697404,6 +697404,584 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WO-garnot-hilar-san-franci",
+    "nom": "San Francisco : Hilar Garnot",
+    "corpus": "archive.org · History of San Mateo County",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hilar Garnot"
+    ],
+    "description": "San Francisco, 1851. Hilar Garnot, né à France, 1820, arrivé le 20 déc. par le cap Horn. D'après History of San Mateo County. Autres lieux de l'entrée : Millbrae (comté de San Mateo), Californie.",
+    "sources": "History of San Mateo County (Alley, 1883), p. 290 ; texte intégral : archive.org, historyofsanmate00sanf.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of San Mateo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanmate00sanf?q=GARNOT",
+      "texte": "Lire History of San Mateo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.39,
+     37.6
+    ]
+   },
+   "properties": {
+    "id": "WO-garnot-hilar-millbrae-c",
+    "nom": "Millbrae (comté de San Mateo), Californie : Hilar Garnot",
+    "corpus": "archive.org · History of San Mateo County",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hilar Garnot"
+    ],
+    "description": "Millbrae (comté de San Mateo), Californie, 1854. Hilar Garnot, né à France, 1820, magasin général ; juge de paix élu en 1872. D'après History of San Mateo County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of San Mateo County (Alley, 1883), p. 290 ; texte intégral : archive.org, historyofsanmate00sanf.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of San Mateo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanmate00sanf?q=GARNOT",
+      "texte": "Lire History of San Mateo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.39,
+     37.6
+    ]
+   },
+   "properties": {
+    "id": "WO-le-cornec-j-millbrae-c",
+    "nom": "Millbrae (comté de San Mateo), Californie : J. Le Cornec",
+    "corpus": "archive.org · History of San Mateo County",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. Le Cornec"
+    ],
+    "description": "Millbrae (comté de San Mateo), Californie, 1875. J. Le Cornec, né à France, 1852, commis au magasin d'H. Garnot. D'après History of San Mateo County.",
+    "sources": "History of San Mateo County (Alley, 1883), p. 290 ; texte intégral : archive.org, historyofsanmate00sanf.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of San Mateo County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsanmate00sanf?q=LE+CORNEC",
+      "texte": "Lire History of San Mateo County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08,
+     41.38
+    ]
+   },
+   "properties": {
+    "id": "WQ-du-bertrand-e-gold-bluff",
+    "nom": "Gold Bluff (côte du comté de Humboldt), Californie : E. du Bertrand",
+    "corpus": "archive.org · History of Humboldt County",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "E. du Bertrand"
+    ],
+    "description": "Gold Bluff (côte du comté de Humboldt), Californie, vers 1850. E. du Bertrand pionnier de Trinidad, découvreur des Gold Bluffs. D'après History of Humboldt County.",
+    "sources": "History of Humboldt County (Elliott, 1882), chap. « The Klamath and Trinity Gold Mines », p. 149-150 ; texte intégral : archive.org, historyofhumbold00wwel.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Humboldt County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofhumbold00wwel?q=DU+BERTRAND",
+      "texte": "Lire History of Humboldt County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WQ-brizard-alexander-san-franci",
+    "nom": "San Francisco : Alexander Brizard",
+    "corpus": "archive.org · History of Humboldt County",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander Brizard"
+    ],
+    "description": "D'après History of Humboldt County, Alexander Brizard, né à Bordeaux, est associé à ce lieu (San Francisco) en 1848. Autres lieux de l'entrée : Arcata (Uniontown), Californie.",
+    "sources": "History of Humboldt County (Elliott, 1882), p. 148, 177-178 ; texte intégral : archive.org, historyofhumbold00wwel.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Humboldt County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofhumbold00wwel?q=BRIZARD",
+      "texte": "Lire History of Humboldt County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08,
+     40.87
+    ]
+   },
+   "properties": {
+    "id": "WQ-brizard-alexander-arcata-cal",
+    "nom": "Arcata (Uniontown), Californie : Alexander Brizard",
+    "corpus": "archive.org · History of Humboldt County",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander Brizard"
+    ],
+    "description": "Arcata (Uniontown), Californie, 1850. Alexander Brizard, né à Bordeaux, négociant, magasin général d'Uniontown. D'après History of Humboldt County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Humboldt County (Elliott, 1882), p. 148, 177-178 ; texte intégral : archive.org, historyofhumbold00wwel.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Humboldt County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofhumbold00wwel?q=BRIZARD",
+      "texte": "Lire History of Humboldt County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WQ-chartin-clement-san-franci",
+    "nom": "San Francisco : Clement Chartin",
+    "corpus": "archive.org · History of Humboldt County",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Chartin"
+    ],
+    "description": "San Francisco, 1869. Clement Chartin, né à France, 1827, arrivé le 1er août. D'après History of Humboldt County. Autres lieux de l'entrée : Blue Lake (comté de Humboldt), Californie.",
+    "sources": "History of Humboldt County (Elliott, 1882), p. 124, 128, 188 ; texte intégral : archive.org, historyofhumbold00wwel.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Humboldt County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofhumbold00wwel?q=CHARTIN",
+      "texte": "Lire History of Humboldt County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.98,
+     40.88
+    ]
+   },
+   "properties": {
+    "id": "WQ-chartin-clement-blue-lake-",
+    "nom": "Blue Lake (comté de Humboldt), Californie : Clement Chartin",
+    "corpus": "archive.org · History of Humboldt County",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Chartin"
+    ],
+    "description": "Blue Lake (comté de Humboldt), Californie, 1871. Clement Chartin, né à France, 1827, fermier et hôtelier du lieu de villégiature de Blue Lake ; épouse Antoinelle Deschatre, née en France. D'après History of Humboldt County. Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Humboldt County (Elliott, 1882), p. 124, 128, 188 ; texte intégral : archive.org, historyofhumbold00wwel.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Humboldt County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofhumbold00wwel?q=CHARTIN",
+      "texte": "Lire History of Humboldt County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7,
+     35.35
+    ]
+   },
+   "properties": {
+    "id": "WR-godey-alexis-kern-comte",
+    "nom": "Comté de Kern (Californie) : Alexis Godey",
+    "corpus": "archive.org · History of Tulare County",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexis Godey"
+    ],
+    "description": "Comté de Kern (Californie), vers 1855. Alexis Godey guide de Frémont, établi dans le comté de Kern après la dernière expédition. D'après History of Tulare County.",
+    "sources": "History of Tulare County (Elliott, 1883), p. 82, 222 ; texte intégral : archive.org, historyoftularec00wwel.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Tulare County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyoftularec00wwel?q=GODEY",
+      "texte": "Lire History of Tulare County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08,
+     41.38
+    ]
+   },
+   "properties": {
+    "id": "WS-bertrand-gold-bluff",
+    "nom": "Gold Bluff (côte du comté de Humboldt), Californie : Bertrand",
+    "corpus": "archive.org · Bledsoe, History of Del Norte County",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bertrand"
+    ],
+    "description": "Gold Bluff (côte du comté de Humboldt), Californie, 1850. Bertrand Bertrand et Nordhamer prennent le premier claim minier de Gold Bluff. D'après Bledsoe, History of Del Norte County.",
+    "sources": "A. J. Bledsoe, History of Del Norte County (1881), p. 137 ; texte intégral : archive.org, historyofdelnort00bled.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bledsoe, History of Del Norte County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofdelnort00bled?q=BERTRAND",
+      "texte": "Lire Bledsoe, History of Del Norte County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2,
+     41.76
+    ]
+   },
+   "properties": {
+    "id": "WS-vallard-a-crescent-c",
+    "nom": "Crescent City (comté de Del Norte), Californie : A. Vallard",
+    "corpus": "archive.org · Bledsoe, History of Del Norte County",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Vallard"
+    ],
+    "description": "Crescent City (comté de Del Norte), Californie, vers 1881. A. Vallard « a prominent French citizen », éponyme de Vallardville dans les Bald Hills. D'après Bledsoe, History of Del Norte County.",
+    "sources": "A. J. Bledsoe, History of Del Norte County (1881), p. 45 ; texte intégral : archive.org, historyofdelnort00bled.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bledsoe, History of Del Norte County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofdelnort00bled?q=VALLARD",
+      "texte": "Lire Bledsoe, History of Del Norte County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "WU-gagnon-michael-san-franci",
+    "nom": "San Francisco : Michael Gagnon",
+    "corpus": "archive.org · History of Santa Cruz County (1879)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Gagnon"
+    ],
+    "description": "San Francisco, 1849. Michael Gagnon, né à Saint-Roch (Canada), 1824, arrivé le 6 sept. ; mines du Nevada. D'après History of Santa Cruz County (1879). Autres lieux de l'entrée : Watsonville, Californie.",
+    "sources": "History of Santa Cruz County (Elliott, 1879), p. 91 ; texte intégral : archive.org, historyofsantacr00will.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Santa Cruz County (1879)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantacr00will?q=GAGNON",
+      "texte": "Lire History of Santa Cruz County (1879) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76,
+     36.91
+    ]
+   },
+   "properties": {
+    "id": "WU-gagnon-michael-watsonvill",
+    "nom": "Watsonville, Californie : Michael Gagnon",
+    "corpus": "archive.org · History of Santa Cruz County (1879)",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Gagnon"
+    ],
+    "description": "Watsonville, Californie, vers 1879. Michael Gagnon, né à Saint-Roch (Canada), 1824, fermier près de Watsonville. D'après History of Santa Cruz County (1879). Autres lieux de l'entrée : San Francisco.",
+    "sources": "History of Santa Cruz County (Elliott, 1879), p. 91 ; texte intégral : archive.org, historyofsantacr00will.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Santa Cruz County (1879)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantacr00will?q=GAGNON",
+      "texte": "Lire History of Santa Cruz County (1879) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76,
+     36.91
+    ]
+   },
+   "properties": {
+    "id": "WU-de-st-paul-gustave-watsonvill",
+    "nom": "Watsonville, Californie : Gustave de St. Paul",
+    "corpus": "archive.org · History of Santa Cruz County (1879)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gustave de St. Paul"
+    ],
+    "description": "Watsonville, Californie, 1875. Gustave de St. Paul, né à Isny, près de Paris, 1852, marchand de spiritueux, vins et tabac, rue Main ; aux États-Unis depuis avril 1873. D'après History of Santa Cruz County (1879).",
+    "sources": "History of Santa Cruz County (Elliott, 1879), p. 90 ; texte intégral : archive.org, historyofsantacr00will.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Santa Cruz County (1879)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantacr00will?q=DE+ST+PAUL",
+      "texte": "Lire History of Santa Cruz County (1879) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.48,
+     37.86
+    ]
+   },
+   "properties": {
+    "id": "WV-pelessier-joseph-sausalito-",
+    "nom": "Sausalito, Californie : Joseph Pelessier",
+    "corpus": "archive.org · Harrison, History of Santa Cruz County",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Pelessier"
+    ],
+    "description": "Sausalito, Californie, 1845. Joseph Pelessier, né à Paris, 1828, débarque le 25 déc. D'après Harrison, History of Santa Cruz County. Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie.",
+    "sources": "E. S. Harrison, History of Santa Cruz County (1892), p. 250 ; texte intégral : archive.org, historyofsantacr00harr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Harrison, History of Santa Cruz County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantacr00harr?q=PELESSIER",
+      "texte": "Lire Harrison, History of Santa Cruz County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "WV-pelessier-joseph-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Joseph Pelessier",
+    "corpus": "archive.org · Harrison, History of Santa Cruz County",
+    "theme": "personnage",
+    "debut": 1892.0,
+    "fin": 1892.0,
+    "date_edtf": "1892~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Pelessier"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, vers 1892. Joseph Pelessier, né à Paris, 1828, fermier et mineur ; épouse en 1852 une fille de Vallejo, puis Anita Estrada. D'après Harrison, History of Santa Cruz County. Autres lieux de l'entrée : Sausalito, Californie.",
+    "sources": "E. S. Harrison, History of Santa Cruz County (1892), p. 250 ; texte intégral : archive.org, historyofsantacr00harr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Harrison, History of Santa Cruz County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsantacr00harr?q=PELESSIER",
+      "texte": "Lire Harrison, History of Santa Cruz County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.44,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "WW-devron-louis-snelling-c",
+    "nom": "Snelling (comté de Merced), Californie : Louis Devron",
+    "corpus": "archive.org · History of Merced County",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Devron"
+    ],
+    "description": "Snelling (comté de Merced), Californie, 1863. Louis Devron « a bull-headed Frenchman », s'enfuit du ranch de S. R. Gavin ; avis de récompense du 9 mai. D'après History of Merced County.",
+    "sources": "History of Merced County, p. 130 ; texte intégral : archive.org, historyofmercedc00park.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Merced County",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofmercedc00park?q=DEVRON",
+      "texte": "Lire History of Merced County sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
