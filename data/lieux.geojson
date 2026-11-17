@@ -682070,6 +682070,4086 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "YY-anselin-alfred-san-franci",
+    "nom": "San Francisco : Alfred Anselin",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1853.999,
+    "date_edtf": "1843/1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alfred Anselin"
+    ],
+    "description": "San Francisco, 1843-1853. Alfred Anselin « French », chirurgien du bataillon fijo au presidio ; meurt au rancho San Benito. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 699 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=ANSELIN",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-archambeau-auguste-california",
+    "nom": "Californie : Auguste Archambeau",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1847.999,
+    "date_edtf": "1845/1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Auguste Archambeau"
+    ],
+    "description": "Californie, 1845-1847. Auguste Archambeau « Canadian », montagnard de Frémont, soldat de la compagnie A du bataillon de Californie. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 700 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=ARCHAMBEAU",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "YY-arclisson-estevan-santa-barb",
+    "nom": "Santa Barbara, Californie : Esteván Arclisson",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1850.999,
+    "date_edtf": "1840/1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Esteván Arclisson"
+    ],
+    "description": "Santa Barbara, Californie, 1840-1850. Esteván Arclisson « French », traiteur au Rincón ; alcalde en 1848. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 701 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=ARCLISSON",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "YY-atillan-pierre-monterey-c",
+    "nom": "Monterey, Californie : Pierre Atillan",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Atillan"
+    ],
+    "description": "Monterey, Californie, 1841. Pierre Atillan « French », marin marié à une Indienne, patron de canot de la douane et collecteur de taxes. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 702 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=ATILLAN",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-badeau-francois-california",
+    "nom": "Californie : Francois Badeau",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francois Badeau"
+    ],
+    "description": "Californie, 1844. Francois Badeau. L'un des « Fremont's Canadians ». D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 707 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BADEAU",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.11,
+     34.1
+    ]
+   },
+   "properties": {
+    "id": "YY-bachelot-alexis-san-gabrie",
+    "nom": "Mission San Gabriel, Californie : Alexis Bachelot",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1838.999,
+    "date_edtf": "1832/1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexis Bachelot"
+    ],
+    "description": "Mission San Gabriel, Californie, 1832-1838. Alexis Bachelot « French », préfet apostolique des îles Sandwich en exil. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 707 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BACHELOT",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YY-baric-charles-los-angele",
+    "nom": "Los Angeles : Charles Baric",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Baric"
+    ],
+    "description": "Los Angeles, 1834. Charles Baric « French » venu du Mexique avec la colonie Híjar et Padrés, traiteur. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 710 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BARIC",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.47,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "YY-baptiste-jean-sutter-s-f",
+    "nom": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie : Jean Baptiste",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1848.999,
+    "date_edtf": "1846/1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Baptiste"
+    ],
+    "description": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie, 1846-1848. Jean Baptiste « French » venu du Nouveau-Mexique, l'un des premiers mineurs. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BAPTISTE",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.46,
+     38.29
+    ]
+   },
+   "properties": {
+    "id": "YY-beaulieu-olivier-sonoma-cal",
+    "nom": "Sonoma, Californie : Olivier Beaulieu",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Olivier Beaulieu"
+    ],
+    "description": "Sonoma, Californie, 1844. Olivier Beaulieu « Canadian » de la première expédition de Frémont, puis colon à Sonoma, à la Nouvelle-Helvétie et près de San José. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 713 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BEAULIEU",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-bolbeda-louis-california",
+    "nom": "Californie : Louis Bolbeda",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Bolbeda"
+    ],
+    "description": "Californie, 1826. Louis Bolbeda « French », trappeur de Jedediah Smith resté en Californie. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 724 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BOLBEDA",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29,
+     38.3
+    ]
+   },
+   "properties": {
+    "id": "YY-bonaparte-napa-calif",
+    "nom": "Vallée de Napa, Californie : Bonaparte",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Bonaparte"
+    ],
+    "description": "Vallée de Napa, Californie, vers 1830. Bonaparte « Frenchman », associé de Yount dans la vallée de Napa. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 723 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BONAPARTE",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YY-bonechu-louis-los-angele",
+    "nom": "Los Angeles : Louis Bonechu",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Bonechu"
+    ],
+    "description": "Los Angeles, 1824. Louis Bonechu « French », vigneron. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 724 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BONECHU",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "YY-bouchard-hypolite-monterey-c",
+    "nom": "Monterey, Californie : Hypolite Bouchard",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "evenement",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hypolite Bouchard"
+    ],
+    "description": "Monterey, Californie, 1818. Hypolite Bouchard « French », commandant du corsaire insurgé de Buenos Aires qui attaque la côte. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 726 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BOUCHARD",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YY-bouchet-louis-los-angele",
+    "nom": "Los Angeles : Louis Bouchet",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Bouchet"
+    ],
+    "description": "Los Angeles, 1828. Louis Bouchet « French », tonnelier, naturalisé en 1831, vigneron associé de W. L. Hill. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 726 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BOUCHET",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YY-bouet-jean-los-angele",
+    "nom": "Los Angeles : Jean Bouet",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Bouet"
+    ],
+    "description": "Los Angeles, 1848. Jean Bouet « French », traiteur de 30 ans. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 726 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BOUET",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "YY-bouzet-e-de-monterey-c",
+    "nom": "Monterey, Californie : E. de Bouzet",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. de Bouzet"
+    ],
+    "description": "Monterey, Californie, 1846. E. de Bouzet « French », commandant de la corvette française Brillante. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 726 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=BOUZET",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "YY-cambuston-henri-monterey-c",
+    "nom": "Monterey, Californie : Henri Cambuston",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Cambuston"
+    ],
+    "description": "Monterey, Californie, 1841. Henri Cambuston « Frenchman from Mex. », instituteur ; condamné pour contrebande, querelle avec le préfet Castro. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 740 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CAMBUSTON",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-carrion-manuel-california",
+    "nom": "Californie : Manuel Carrion",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Manuel Carrion"
+    ],
+    "description": "Californie, 1837. Manuel Carrion « Frenchman ». D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 747 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CARRION",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-cebet-pierre-jean-california",
+    "nom": "Californie : Pierre Jean Cebet",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1831.0,
+    "fin": 1831.0,
+    "date_edtf": "1831",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Jean Cebet"
+    ],
+    "description": "Californie, 1831. Pierre Jean Cebet « Frenchman », reçoit une carta en octobre. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Cebet ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CEBET",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.47,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "YY-chana-claude-sutter-s-f",
+    "nom": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie : Claude Chana",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Claude Chana"
+    ],
+    "description": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie, 1846. Claude Chana « French cooper » venu de La Nouvelle-Orléans et du Missouri, au service de Sutter. D'après Bancroft, California II (1885). Autres lieux de l'entrée : Wheatland (rancho Nemshas, Bear River), Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Chana ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CHANA",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.43,
+     39.01
+    ]
+   },
+   "properties": {
+    "id": "YY-chana-claude-wheatland-",
+    "nom": "Wheatland (rancho Nemshas, Bear River), Californie : Claude Chana",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Claude Chana"
+    ],
+    "description": "Wheatland (rancho Nemshas, Bear River), Californie, 1882. Claude Chana propriétaire du rancho Nemshas sur la Bear River ; meurt à Wheatland. D'après Bancroft, California II (1885). Autres lieux de l'entrée : fort Sutter (Nouvelle-Helvétie), Sacramento, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Chana ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CHANA",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YY-charlefoux-los-angele",
+    "nom": "Los Angeles : Charlefoux",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1840.999,
+    "date_edtf": "1837/1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charlefoux"
+    ],
+    "description": "Los Angeles, 1837-1840. Charlefoux « Canadian from N. Mex. », conduit un parti de trappeurs et de traiteurs au secours de Bandini et des sureños contre Alvarado. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Charlefoux ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CHARLEFOUX",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "YY-colombet-clement-san-jose",
+    "nom": "San José (Californie) : Clement Colombet",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Colombet"
+    ],
+    "description": "San José (Californie), 1844. Clement Colombet « Frenchman », tient un hôtel à San José ; fait et perd une fortune aux mines ; vit aux Warm Springs en 1881. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Colombet ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=COLOMBET",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "YY-covarrubias-jose-maria-santa-barb",
+    "nom": "Santa Barbara, Californie : Jose Maria Covarrubias",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jose Maria Covarrubias"
+    ],
+    "description": "Santa Barbara, Californie, 1834. Jose Maria Covarrubias, né à France, « nat. of France », venu avec la colonie Híjar et Padrés, commissaire de sécularisation, secrétaire de la diputación et juge ; meurt en 1870. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Covarrubias ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=COVARRUBIAS",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.59,
+     39.15
+    ]
+   },
+   "properties": {
+    "id": "YY-covillaud-charles-marysville",
+    "nom": "Marysville, Californie : Charles Covillaud",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Covillaud"
+    ],
+    "description": "Marysville, Californie, 1846. Charles Covillaud, né à France, « nat. of France », immigrant par terre, régisseur du rancho de Cordua, cofondateur de Marysville ; meurt en 1867. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Covillaud ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=COVILLAUD",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-curler-anastase-california",
+    "nom": "Californie : Anastase Curler",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Anastase Curler"
+    ],
+    "description": "Californie, 1830. Anastase Curler « French trapper » du parti de Young. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, Pioneer Register (entrée « Curler ») ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CURLER",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54,
+     36.85
+    ]
+   },
+   "properties": {
+    "id": "YY-deleisseques-olivier-san-juan-b",
+    "nom": "San Juan Bautista, Californie : Olivier Deleisseques",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Olivier Deleisseques"
+    ],
+    "description": "San Juan Bautista, Californie, 1838. Olivier Deleisseques « Frenchman » du district de Monterey, achète le verger de San Juan Bautista en 1846. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 778 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=DELEISSEQUES",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "YY-desforges-auguste-san-jose",
+    "nom": "San José (Californie) : Auguste Desforges",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Desforges"
+    ],
+    "description": "San José (Californie), 1840. Auguste Desforges « Frenchman » de la colonie Híjar et Padrés (1834), alcalde auxiliaire de San José, au rancho Palo Colorado. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 779 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=DESFORGES",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YY-dubosc-pierre-california",
+    "nom": "Californie : Pierre Dubosc",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "evenement",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dubosc"
+    ],
+    "description": "Californie, 1840. Pierre Dubosc « Frenchman » tué par un Indien au rancho de McIntosh. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 785 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=DUBOSC",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "YY-duhaut-cilly-auguste-monterey-c",
+    "nom": "Monterey, Californie : Auguste Duhaut-Cilly",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1828.999,
+    "date_edtf": "1827/1828",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Duhaut-Cilly"
+    ],
+    "description": "Monterey, Californie, 1827-1828. Auguste Duhaut-Cilly capitaine d'un navire marchand français, auteur du Voyage autour du monde. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 785 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=DUHAUT+CILLY",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "YY-durand-st-vrain-santa-barb",
+    "nom": "Santa Barbara, Californie : St Vrain Durand",
+    "corpus": "archive.org · Bancroft, California II (1885)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "St Vrain Durand"
+    ],
+    "description": "Santa Barbara, Californie, 1845. St Vrain Durand « Canadian » venu de l'Orégon avec McMahon et Clyman, scieur, l'un des hommes de Talbot à Santa Barbara, compagnie A du bataillon de Californie. D'après Bancroft, California II (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. II (1885), Pioneer Register, p. 786 ; texte intégral : archive.org, worksofhuberthow19bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California II (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow19bancrich?q=DURAND",
+      "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "YZ-fallon-thomas-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Thomas Fallon",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Fallon"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1844. Thomas Fallon « Canadian » à Branciforte. D'après Bancroft, California III (1885). Autres lieux de l'entrée : San José (Californie).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 733-734 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=FALLON",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "YZ-fallon-thomas-san-jose",
+    "nom": "San José (Californie) : Thomas Fallon",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Fallon"
+    ],
+    "description": "San José (Californie), 1846. Thomas Fallon hisse le drapeau américain à San José, compagnie F du bataillon de Californie. D'après Bancroft, California III (1885). Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 733-734 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=FALLON",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "YZ-fallon-thomas-san-jose-2",
+    "nom": "San José (Californie) : Thomas Fallon",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Thomas Fallon"
+    ],
+    "description": "San José (Californie), 1851. Thomas Fallon maire de San José. D'après Bancroft, California III (1885). Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 733-734 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=FALLON",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "YZ-felix-hipolito-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Hipolito Felix",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hipolito Felix"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1845. Hipolito Felix « French » de 27 ans à Branciforte. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 735 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=FELIX",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "YZ-fleury-ernest-de-california",
+    "nom": "Californie : Ernest de Fleury",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ernest de Fleury"
+    ],
+    "description": "Californie, 1848. Ernest de Fleury voyageur et officier français, aurait visité la Californie. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 740 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=FLEURY",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YZ-florin-joseph-los-angele",
+    "nom": "Los Angeles : Joseph Florin",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Florin"
+    ],
+    "description": "Los Angeles, 1833. Joseph Florin « Canadian » venu de Colombie, jardinier, marié ; à Los Angeles en 1836 et 1840. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 741 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=FLORIN",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.47,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "YZ-gendreau-francois-sutter-s-f",
+    "nom": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie : Francois Gendreau",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1848.999,
+    "date_edtf": "1844/1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Gendreau"
+    ],
+    "description": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie, 1844-1848. Francois Gendreau « Canadian » au service de Sutter, commande une compagnie indienne en 1846. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 752-753 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=GENDREAU",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "YZ-giraudeau-los-angele",
+    "nom": "Los Angeles : Giraudeau",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Giraudeau"
+    ],
+    "description": "Los Angeles, 1841. Giraudeau « French », viticulteur nommé par Mofras. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 757 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=GIRAUDEAU",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "YZ-gourville-jean-monterey-c",
+    "nom": "Monterey, Californie : Jean Gourville",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Gourville"
+    ],
+    "description": "Monterey, Californie, 1836. Jean Gourville « Fr. », journalier de 27 ans au rancho Los Verjeles. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 762 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=GOURVILLE",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "YZ-guy-omnes-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Omnes Guy",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Omnes Guy"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1842. Omnes Guy « Fr. », scieur, naturalisé en 1844. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 772 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=GUY",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75,
+     38.72
+    ]
+   },
+   "properties": {
+    "id": "YZ-hardy-thomas-m-cache-cree",
+    "nom": "Cache Creek (rio de Jesus Maria), Californie : Thomas M. Hardy",
+    "corpus": "archive.org · Bancroft, California III (1885)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Thomas M. Hardy"
+    ],
+    "description": "Cache Creek (rio de Jesus Maria), Californie, 1843. Thomas M. Hardy « Canadian », charpentier et traducteur, établi près de l'embouchure du Cache Creek ; se noie dans la baie de Suisun. D'après Bancroft, California III (1885).",
+    "sources": "H. H. Bancroft, History of California, vol. III (1885), Pioneer Register, p. 775 ; texte intégral : archive.org, worksofhuberthow20bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California III (1885)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow20bancrich?q=HARDY",
+      "texte": "Lire Bancroft, California III (1885) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-janssens-victor-eugene-augus-monterey-c",
+    "nom": "Monterey, Californie : Victor Eugene Auguste Janssens",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Eugene Auguste Janssens"
+    ],
+    "description": "Monterey, Californie, 1834. Victor Eugene Auguste Janssens, né à Belgique, venu à 17 ans avec la colonie Híjar et Padrés, boutiquier et distillateur, naturalisé en 1841. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Santa Barbara, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Janssens ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=JANSSENS",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "ZA-janssens-victor-eugene-augus-santa-barb",
+    "nom": "Santa Barbara, Californie : Victor Eugene Auguste Janssens",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Eugene Auguste Janssens"
+    ],
+    "description": "Santa Barbara, Californie, vers 1845. Victor Eugene Auguste Janssens, né à Belgique, associé de Lataillade, concessionnaire de Lomas de la Purificación. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Monterey, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Janssens ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=JANSSENS",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZA-jonvera-louis-san-jose",
+    "nom": "San José (Californie) : Louis Jonvera",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Jonvera"
+    ],
+    "description": "San José (Californie), 1829. Louis Jonvera « Frenchman » de 28 ans. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Jonvera ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=JONVERA",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-jourdain-etienne-los-angele",
+    "nom": "Los Angeles : Etienne Jourdain",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Etienne Jourdain"
+    ],
+    "description": "Los Angeles, 1847. Etienne Jourdain « Fr. ». D'après Bancroft, California IV (1886). Autres lieux de l'entrée : San Francisco.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Jourdain ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=JOURDAIN",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-jourdain-etienne-san-franci",
+    "nom": "San Francisco : Etienne Jourdain",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Etienne Jourdain"
+    ],
+    "description": "San Francisco, 1848. Etienne Jourdain agent consulaire français. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Los Angeles.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Jourdain ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=JOURDAIN",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZA-juan-ricardo-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Ricardo Juan",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ricardo Juan"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1845. Ricardo Juan « Frenchman » de 28 ans à Branciforte. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Juan ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=JUAN",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "ZA-lacousse-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Lacousse",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lacousse"
+    ],
+    "description": "Rivière Yuba, Californie, 1848. Lacousse « Canadian », mineur de la Bear River et des Mormon Diggings. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 703 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LACOUSSE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZA-lafleur-louis-san-jose",
+    "nom": "San José (Californie) : Louis Lafleur",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Lafleur"
+    ],
+    "description": "San José (Californie), 1846. Louis Lafleur « Canadian », enrôlé à San José dans la compagnie G du bataillon de Californie. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : rivière Yuba, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 703 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LAFLEUR",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "ZA-lafleur-louis-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Louis Lafleur",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Lafleur"
+    ],
+    "description": "Rivière Yuba, Californie, 1848. Louis Lafleur se noie dans la Yuba en décembre. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : San José (Californie).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 703 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LAFLEUR",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZA-lajeunesse-basil-california",
+    "nom": "Californie : Basil Lajeunesse",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "evenement",
+    "debut": 1845.0,
+    "fin": 1846.999,
+    "date_edtf": "1845/1846",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Basil Lajeunesse"
+    ],
+    "description": "Californie, 1845-1846. Basil Lajeunesse « Canadian trapper » de l'expédition de Frémont, tué par les Indiens en avril 1846. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 704 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LAJEUNESSE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-lamoreux-louis-los-angele",
+    "nom": "Los Angeles : Louis Lamoreux",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Lamoreux"
+    ],
+    "description": "Los Angeles, 1840. Louis Lamoreux « Canadian » charpentier de 37 ans. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 704 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LAMOREUX",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZA-lapierre-louis-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Louis Lapierre",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Lapierre"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1845. Louis Lapierre « Canadian » du parti de Frémont, construit une goélette pour Sainsevain à Santa Cruz. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LAPIERRE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-la-perouse-jean-f-g-monterey-c",
+    "nom": "Monterey, Californie : Jean F. G. la Perouse",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1786.0,
+    "fin": 1786.0,
+    "date_edtf": "1786",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean F. G. la Perouse"
+    ],
+    "description": "Monterey, Californie, 1786. Jean F. G. la Perouse navigateur français, auteur du récit de voyage. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LA+PEROUSE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZA-la-rocque-geo-california",
+    "nom": "Californie : Geo. la Rocque",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1849.999,
+    "date_edtf": "1848/1849",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Geo. la Rocque"
+    ],
+    "description": "Californie, 1848-1849. Geo. la Rocque « Canadian » venu de l'Orégon sur le Henry, mineur ; rentre en Orégon en 1849. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 707 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LA+ROCQUE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-lecoq-martin-monterey-c",
+    "nom": "Monterey, Californie : Martin Lecoq",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Martin Lecoq"
+    ],
+    "description": "Monterey, Californie, 1834. Martin Lecoq « Frenchman ». D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 710 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LECOQ",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.86,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZA-legendre-louis-russian-ri",
+    "nom": "Vallée de la Russian River, Californie : Louis Legendre",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Legendre"
+    ],
+    "description": "Vallée de la Russian River, Californie, 1847. Louis Legendre « Fr. », colon du canton de la Russian River, assassiné après 1852. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 711 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEGENDRE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-leroy-joseph-monterey-c",
+    "nom": "Monterey, Californie : Joseph Leroy",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Leroy"
+    ],
+    "description": "Monterey, Californie, 1836. Joseph Leroy « Frenchman » de 29 ans au rancho Los Verjeles, peut-être chasseur de loutres en 1839-40. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEROY",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "ZA-leroy-r-santa-barb",
+    "nom": "Santa Barbara, Californie : R. Leroy",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "R. Leroy"
+    ],
+    "description": "Santa Barbara, Californie, 1839. R. Leroy « Fr. », chirurgien à Santa Barbara et Monterey. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEROY",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-lepage-francois-san-franci",
+    "nom": "San Francisco : Francois Lepage",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Lepage"
+    ],
+    "description": "San Francisco, 1842. Francois Lepage « Frenchman », titulaire d'une carta ; vend son lot à James Lick en 1848. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEPAGE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-lepage-nicholas-san-franci",
+    "nom": "San Francisco : Nicholas Lepage",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicholas Lepage"
+    ],
+    "description": "San Francisco, 1842. Nicholas Lepage frère de Francois, titulaire d'une carta. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEPAGE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.48,
+     37.86
+    ]
+   },
+   "properties": {
+    "id": "ZA-levelain-chas-sausalito-",
+    "nom": "Sausalito, Californie : Chas Levelain",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1844.999,
+    "date_edtf": "1843/1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chas Levelain"
+    ],
+    "description": "Sausalito, Californie, 1843-1844. Chas Levelain « French boy », mousse du Ferdinand. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : San Francisco.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEVELAIN",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-levelain-chas-san-franci",
+    "nom": "San Francisco : Chas Levelain",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Chas Levelain"
+    ],
+    "description": "San Francisco, 1849. Chas Levelain résident. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Sausalito, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 712 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LEVELAIN",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-limantour-joseph-yves-san-franci",
+    "nom": "San Francisco : Joseph Yves Limantour",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1853.999,
+    "date_edtf": "1841/1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Yves Limantour"
+    ],
+    "description": "San Francisco, 1841-1853. Joseph Yves Limantour « Fr. » traiteur au Mexique, séjours en 1841-42, 1843-44, 1847, 1852-53 ; revendique des terres. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 714 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LIMANTOUR",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-lunia-joseph-monterey-c",
+    "nom": "Monterey, Californie : Joseph Lunia",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Lunia"
+    ],
+    "description": "Monterey, Californie, 1834. Joseph Lunia « Frenchman ». D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Lunia ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=LUNIA",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZA-magnent-ollivier-san-jose",
+    "nom": "San José (Californie) : Ollivier Magnent",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ollivier Magnent"
+    ],
+    "description": "San José (Californie), 1844. Ollivier Magnent « Canadian » du parti Stevens, bâtit un moulin à farine à San José. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Magnent ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MAGNENT",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-mascarel-joseph-los-angele",
+    "nom": "Los Angeles : Joseph Mascarel",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Mascarel"
+    ],
+    "description": "Los Angeles, 1844. Joseph Mascarel « French ». D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Mascarel ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MASCAREL",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-mascarel-joseph-los-angele-2",
+    "nom": "Los Angeles : Joseph Mascarel",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Mascarel"
+    ],
+    "description": "Los Angeles, 1865. Joseph Mascarel maire de Los Angeles. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Mascarel ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MASCAREL",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.11,
+     34.1
+    ]
+   },
+   "properties": {
+    "id": "ZA-maube-arno-san-gabrie",
+    "nom": "Mission San Gabriel, Californie : Arno Maube",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Arno Maube"
+    ],
+    "description": "Mission San Gabriel, Californie, 1843. Arno Maube « French », concessionnaire de terres près de San Gabriel. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Maube ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MAUBE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZA-maube-arno-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Arno Maube",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Arno Maube"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1847. Arno Maube à Santa Cruz. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : mission San Gabriel, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Maube ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MAUBE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-mathurin-louis-san-franci",
+    "nom": "San Francisco : Louis Mathurin",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1841.999,
+    "date_edtf": "1840/1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Mathurin"
+    ],
+    "description": "San Francisco, 1840-1841. Louis Mathurin « Fr. sailor » arrivé en 1833. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Mathurin ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MATHURIN",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-mofras-eugene-duflot-de-monterey-c",
+    "nom": "Monterey, Californie : Eugene Duflot de Mofras",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1842.999,
+    "date_edtf": "1841/1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Eugene Duflot de Mofras"
+    ],
+    "description": "Monterey, Californie, 1841-1842. Eugene Duflot de Mofras attaché français de la légation du Mexique, chargé par son gouvernement de rapporter sur la Californie et l'Orégon. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 742 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MOFRAS",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-moerenhaut-jacob-antonio-monterey-c",
+    "nom": "Monterey, Californie : Jacob Antonio Moerenhaut",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1848.999,
+    "date_edtf": "1846/1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacob Antonio Moerenhaut"
+    ],
+    "description": "Monterey, Californie, 1846-1848. Jacob Antonio Moerenhaut, né à Belgique, consul de France. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 742 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MOERENHAUT",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZA-moz-francois-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Francois Moz",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Moz"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1833. Francois Moz « Canadian », tanneur à Zayante, naturalisé en 1840. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Moz ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MOZ",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "ZA-moulton-joseph-santa-barb",
+    "nom": "Santa Barbara, Californie : Joseph Moulton",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Moulton"
+    ],
+    "description": "Santa Barbara, Californie, 1846. Joseph Moulton « French Creole », laissé à Santa Barbara avec la garnison de Talbot. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 746 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MOULTON",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-murel-jean-b-monterey-c",
+    "nom": "Monterey, Californie : Jean B. Murel",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean B. Murel"
+    ],
+    "description": "Monterey, Californie, 1836. Jean B. Murel « Fr. », domestique d'Estrada. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 748 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MUREL",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-murielle-pierre-monterey-c",
+    "nom": "Monterey, Californie : Pierre Murielle",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Murielle"
+    ],
+    "description": "Monterey, Californie, 1838. Pierre Murielle « Fr. », domestique de Herrera, 19 ans. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 748 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MURIELLE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.16,
+     32.72
+    ]
+   },
+   "properties": {
+    "id": "ZA-mutrel-jean-baptiste-san-diego-",
+    "nom": "San Diego, Californie : Jean Baptiste Mutrel",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Baptiste Mutrel"
+    ],
+    "description": "San Diego, Californie, 1827. Jean Baptiste Mutrel « French pilot ». D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Monterey, Californie, Los Angeles.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 751 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MUTREL",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-mutrel-jean-baptiste-monterey-c",
+    "nom": "Monterey, Californie : Jean Baptiste Mutrel",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Baptiste Mutrel"
+    ],
+    "description": "Monterey, Californie, vers 1840. Jean Baptiste Mutrel pilote et convoyeur de bétail à Buenavista. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : San Diego, Californie, Los Angeles.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 751 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MUTREL",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-mutrel-jean-baptiste-los-angele",
+    "nom": "Los Angeles : Jean Baptiste Mutrel",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Baptiste Mutrel"
+    ],
+    "description": "Los Angeles, 1846. Jean Baptiste Mutrel résident. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : San Diego, Californie, Monterey, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 751 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=MUTREL",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZA-nunez-jose-antonio-california",
+    "nom": "Californie : Jose Antonio Nunez",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jose Antonio Nunez"
+    ],
+    "description": "Californie, 1833. Jose Antonio Nunez « Fr. sailor » du Gelvichis, meurt avant décembre 1834. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Nunez ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=NUNEZ",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZA-ombis-julian-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Julian Ombis",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julian Ombis"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1845. Julian Ombis « a Frenchman » au recensement de Branciforte. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Ombis ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=OMBIS",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-olivier-pierre-monterey-c",
+    "nom": "Monterey, Californie : Pierre Olivier",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Olivier"
+    ],
+    "description": "Monterey, Californie, 1834. Pierre Olivier « Frenchman of the H. & P. colony ». D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 758 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=OLIVIER",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-olivier-pierre-monterey-c-2",
+    "nom": "Monterey, Californie : Pierre Olivier",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Olivier"
+    ],
+    "description": "Monterey, Californie, 1842. Pierre Olivier tenancier de saloon, puis établi près de San Juan. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, p. 758 ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=OLIVIER",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54,
+     36.85
+    ]
+   },
+   "properties": {
+    "id": "ZA-pauaud-clement-san-juan-b",
+    "nom": "San Juan Bautista, Californie : Clement Pauaud",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clement Pauaud"
+    ],
+    "description": "San Juan Bautista, Californie, 1846. Clement Pauaud « Frenchman », achète un moulin de la vallée de la Salinas ; revendique des terres jusqu'en 1853. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Pauaud ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PAUAUD",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZA-pombert-louis-california",
+    "nom": "Californie : Louis Pombert",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Pombert"
+    ],
+    "description": "Californie, 1826. Louis Pombert « Canadian », trappeur de Jedediah Smith. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : San José (Californie), Castroville, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Pombert ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=POMBERT",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZA-pombert-louis-san-jose",
+    "nom": "San José (Californie) : Louis Pombert",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Pombert"
+    ],
+    "description": "San José (Californie), 1836. Louis Pombert sergent de la compagnie de Graham. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Californie, Castroville, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Pombert ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=POMBERT",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76,
+     36.77
+    ]
+   },
+   "properties": {
+    "id": "ZA-pombert-louis-castrovill",
+    "nom": "Castroville, Californie : Louis Pombert",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Pombert"
+    ],
+    "description": "Castroville, Californie, 1847. Louis Pombert à Castroville. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Californie, San José (Californie).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Pombert ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=POMBERT",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZA-pinard-j-b-san-jose",
+    "nom": "San José (Californie) : J. B. Pinard",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. B. Pinard"
+    ],
+    "description": "San José (Californie), 1848. J. B. Pinard « Canadian farmer », à San José de 1858 à 1876. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Pinard ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PINARD",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-prudhomme-leon-i-los-angele",
+    "nom": "Los Angeles : Leon I. Prudhomme",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Leon I. Prudhomme"
+    ],
+    "description": "Los Angeles, vers 1835. Leon I. Prudhomme « Fr. » tonnelier, revendique les ranchos Habra et Topanga ; meurt en 1871. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Prudhomme ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PRUDHOMME",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.11,
+     34.1
+    ]
+   },
+   "properties": {
+    "id": "ZA-prudon-victor-san-gabrie",
+    "nom": "Mission San Gabriel, Californie : Victor Prudon",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Prudon"
+    ],
+    "description": "Mission San Gabriel, Californie, 1834. Victor Prudon « Frenchman », instituteur de la colonie. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : Los Angeles.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Prudon ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PRUDON",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZA-prudon-victor-los-angele",
+    "nom": "Los Angeles : Victor Prudon",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Prudon"
+    ],
+    "description": "Los Angeles, 1836. Victor Prudon président des vigilants ; secrétaire d'Alvarado et capitaine de milice en 1837-38. D'après Bancroft, California IV (1886). Autres lieux de l'entrée : mission San Gabriel, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Prudon ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PRUDON",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZA-plino-louis-monterey-c",
+    "nom": "Monterey, Californie : Louis Plino",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Plino"
+    ],
+    "description": "Monterey, Californie, 1836. Louis Plino « French », domestique d'Abrego, 38 ans. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Plino ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PLINO",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "ZA-pioche-f-l-a-san-franci",
+    "nom": "San Francisco : F. L. A. Pioche",
+    "corpus": "archive.org · Bancroft, California IV (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. L. A. Pioche"
+    ],
+    "description": "San Francisco, 1848. F. L. A. Pioche « Frenchman » venu du Chili, négociant et financier ; se suicide en 1872. D'après Bancroft, California IV (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. IV (1886), Pioneer Register, Pioneer Register (entrée « Pioche ») ; texte intégral : archive.org, worksofhuberthow21bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California IV (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow21bancrich?q=PIOCHE",
+      "texte": "Lire Bancroft, California IV (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZC-richards-pierre-monterey-c",
+    "nom": "Monterey, Californie : Pierre Richards",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Richards"
+    ],
+    "description": "Monterey, Californie, 1844. Pierre Richards « French », condamné pour achat de marchandises de contrebande. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 693 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=RICHARDS",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.44,
+     34.28
+    ]
+   },
+   "properties": {
+    "id": "ZC-rouelle-jean-b-san-fernan",
+    "nom": "San Fernando, Californie : Jean B. Rouelle",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean B. Rouelle"
+    ],
+    "description": "San Fernando, Californie, 1842. Jean B. Rouelle « Canadian » venu du Nouveau-Mexique, trappeur, découvreur d'or dans la région de San Fernando. D'après Bancroft, California V (1886). Autres lieux de l'entrée : rivière Feather, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=ROUELLE",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6,
+     39.3
+    ]
+   },
+   "properties": {
+    "id": "ZC-rouelle-jean-b-feather-ri",
+    "nom": "Rivière Feather, Californie : Jean B. Rouelle",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean B. Rouelle"
+    ],
+    "description": "Rivière Feather, Californie, 1848. Jean B. Rouelle dans la vallée du Sacramento et sur la Feather. D'après Bancroft, California V (1886). Autres lieux de l'entrée : San Fernando, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=ROUELLE",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZC-rouleau-francois-monterey-c",
+    "nom": "Monterey, Californie : Francois Rouleau",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Rouleau"
+    ],
+    "description": "Monterey, Californie, 1836. Francois Rouleau « French », journalier au rancho Los Verjeles. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=ROULEAU",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZC-roussillon-charles-los-angele",
+    "nom": "Los Angeles : Charles Roussillon",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Roussillon"
+    ],
+    "description": "Los Angeles, 1843. Charles Roussillon « French », traiteur. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=ROUSSILLON",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZC-roussillon-charles-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Charles Roussillon",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Roussillon"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1846. Charles Roussillon moulin et commerce de bois, construit une goélette ; associé de Sainsevain en 1847-48. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Los Angeles.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 705 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=ROUSSILLON",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZC-saint-germain-baptiste-california",
+    "nom": "Californie : Baptiste Saint Germain",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1831.0,
+    "fin": 1831.0,
+    "date_edtf": "1831",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Baptiste Saint Germain"
+    ],
+    "description": "Californie, 1831. Baptiste Saint Germain « French » venu du Nouveau-Mexique, sans doute avec Wolfskill. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 709 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SAINT+GERMAIN",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "ZC-sainsevain-pierre-santa-barb",
+    "nom": "Santa Barbara, Californie : Pierre Sainsevain",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Sainsevain"
+    ],
+    "description": "Santa Barbara, Californie, 1839. Pierre Sainsevain « French », charpentier. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie, San José (Californie).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 708-709 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SAINSEVAIN",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZC-sainsevain-pierre-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Pierre Sainsevain",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Sainsevain"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, vers 1845. Pierre Sainsevain scierie et moulin à farine. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Santa Barbara, Californie, San José (Californie).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 708-709 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SAINSEVAIN",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZC-sainsevain-pierre-san-jose",
+    "nom": "San José (Californie) : Pierre Sainsevain",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Sainsevain"
+    ],
+    "description": "San José (Californie), 1849. Pierre Sainsevain membre de la convention constitutionnelle. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Santa Barbara, Californie, Santa Cruz et Branciforte, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 708-709 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SAINSEVAIN",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.47,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "ZC-salines-sutter-s-f",
+    "nom": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie : Salines",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Salines"
+    ],
+    "description": "Fort Sutter (Nouvelle-Helvétie), Sacramento, Californie, 1842. Salines « Frenchman » au service de Sutter. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 709 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SALINES",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZC-sicard-pierre-theodore-monterey-c",
+    "nom": "Monterey, Californie : Pierre Theodore Sicard",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Theodore Sicard"
+    ],
+    "description": "Monterey, Californie, 1833. Pierre Theodore Sicard « Fr. » marin et charpentier. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Wheatland (rancho Nemshas, Bear River), Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Sicard ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SICARD",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.43,
+     39.01
+    ]
+   },
+   "properties": {
+    "id": "ZC-sicard-pierre-theodore-wheatland-",
+    "nom": "Wheatland (rancho Nemshas, Bear River), Californie : Pierre Theodore Sicard",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Theodore Sicard"
+    ],
+    "description": "Wheatland (rancho Nemshas, Bear River), Californie, vers 1845. Pierre Theodore Sicard concessionnaire du rancho Nemshas sur la Bear River, mineur et traiteur. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Monterey, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Sicard ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SICARD",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZC-seis-cuartillas-theodore-monterey-c",
+    "nom": "Monterey, Californie : Theodore Seis Cuartillas",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Theodore Seis Cuartillas"
+    ],
+    "description": "Monterey, Californie, 1834. Theodore Seis Cuartillas « French » charpentier. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Seis Cuartillas ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SEIS+CUARTILLAS",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "ZC-scheuer-pierre-monterey-c",
+    "nom": "Monterey, Californie : Pierre Scheuer",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Scheuer"
+    ],
+    "description": "Monterey, Californie, 1834. Pierre Scheuer « Fr. » maçon de 27 ans, marié à Maria J. Garcia. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Scheuer ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SCHEUER",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7,
+     34.42
+    ]
+   },
+   "properties": {
+    "id": "ZC-smith-john-f-santa-barb",
+    "nom": "Santa Barbara, Californie : John F. Smith",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John F. Smith"
+    ],
+    "description": "Santa Barbara, Californie, 1838. John F. Smith « Fr. » charpentier venu des îles Sandwich, bâtit la première maison de bois de Santa Barbara ; meurt en 1866. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Smith ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=SMITH",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZC-tibeau-los-angele",
+    "nom": "Los Angeles : Tibeau",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Tibeau"
+    ],
+    "description": "Los Angeles, 1841. Tibeau « French Canadian » joueur venu du Nouveau-Mexique avec le parti Workman ; meurt au retour en 1842. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Tibeau ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=TIBEAU",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZC-talmayr-louis-auguste-los-angele",
+    "nom": "Los Angeles : Louis Auguste Talmayr",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Auguste Talmayr"
+    ],
+    "description": "Los Angeles, 1836. Louis Auguste Talmayr « Fr. » charpentier de 22 ans venu du Pérou. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Talmayr ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=TALMAYR",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZC-turcote-francois-california",
+    "nom": "Californie : Francois Turcote",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francois Turcote"
+    ],
+    "description": "Californie, 1830. Francois Turcote « Canadian », trappeur du parti de Young. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, Pioneer Register (entrée « Turcote ») ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=TURCOTE",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZC-valois-antoine-los-angele",
+    "nom": "Los Angeles : Antoine Valois",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Valois"
+    ],
+    "description": "Los Angeles, 1846. Antoine Valois « Frenchman ». D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 759 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=VALOIS",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "ZC-vignes-jean-louis-los-angele",
+    "nom": "Los Angeles : Jean Louis Vignes",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1831.0,
+    "fin": 1831.0,
+    "date_edtf": "1831",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Louis Vignes"
+    ],
+    "description": "Los Angeles, 1831. Jean Louis Vignes « Fr. cooper and distiller », vigneron et vinificateur ; meurt en 1862. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 762 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=VIGNES",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03,
+     36.97
+    ]
+   },
+   "properties": {
+    "id": "ZC-vignes-pierre-e-santa-cruz",
+    "nom": "Santa Cruz et Branciforte, Californie : Pierre E. Vignes",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre E. Vignes"
+    ],
+    "description": "Santa Cruz et Branciforte, Californie, 1845. Pierre E. Vignes « Fr. » à Branciforte. D'après Bancroft, California V (1886). Autres lieux de l'entrée : San José (Californie).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 763 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=VIGNES",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89,
+     37.34
+    ]
+   },
+   "properties": {
+    "id": "ZC-vignes-pierre-e-san-jose",
+    "nom": "San José (Californie) : Pierre E. Vignes",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre E. Vignes"
+    ],
+    "description": "San José (Californie), 1847. Pierre E. Vignes à San José. D'après Bancroft, California V (1886). Autres lieux de l'entrée : Santa Cruz et Branciforte, Californie.",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 763 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=VIGNES",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.25
+    ]
+   },
+   "properties": {
+    "id": "ZC-verrot-joseph-yuba-calif",
+    "nom": "Rivière Yuba, Californie : Joseph Verrot",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Verrot"
+    ],
+    "description": "Rivière Yuba, Californie, 1844. Joseph Verrot « Canadian » du parti de Frémont resté en Californie, dans la région de la Yuba. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 762 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=VERROT",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "ZC-zerman-john-napoleon-california",
+    "nom": "Californie : John Napoleon Zerman",
+    "corpus": "archive.org · Bancroft, California V (1886)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Napoleon Zerman"
+    ],
+    "description": "Californie, 1849. John Napoleon Zerman « Fr. », ancien lieutenant à Waterloo, vétéran de la guerre du Mexique. D'après Bancroft, California V (1886).",
+    "sources": "H. H. Bancroft, History of California, vol. V (1886), Pioneer Register, p. 784 ; texte intégral : archive.org, worksofhuberthow22bancrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bancroft, California V (1886)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/worksofhuberthow22bancrich?q=ZERMAN",
+      "texte": "Lire Bancroft, California V (1886) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
