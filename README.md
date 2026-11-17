@@ -471,6 +471,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historicalsketch00blan` | 33 |
 | `historyofwillame00lang` | 44 |
 | `historyoforegon01banc` | 103 |
+| `historyoforegon02banc` | 27 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
