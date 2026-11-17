@@ -400,8 +400,11 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `newmexicohistori02univrich` | 11 |
 | `newmexicohistori04univrich` | 5 |
 | `historyofnewmexi01paci` | 22 |
-| `nevcolandwyom00bancroft` (Colorado) | 12 |
+| `nevcolandwyom00bancroft` (partie Colorado) | 12 |
 | `historyofstateof01hall` | 14 |
+| `historyofstateof02hall` | 5 |
+| `historyofstateof03hall` | 11 |
+| `historyofstateof04hall` | 39 |
 
 
 ## Un point par lieu et adresses précises
