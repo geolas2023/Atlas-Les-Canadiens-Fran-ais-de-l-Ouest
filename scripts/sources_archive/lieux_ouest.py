@@ -1853,6 +1853,9 @@ G.update({
     'San Juan Capistrano (Californie)': (-117.66, 33.5, 'c', 'mission San Juan Capistrano, Californie'),
     'Point Reyes (Californie)': (-122.95, 38.0, 'h', 'pointe Reyes, Californie'),
     'Carquinez (Californie)': (-122.2, 38.06, 'h', 'détroit et baie de Carquinez, Californie'),
+    'Oakland (Californie)': (-122.27, 37.8, 'c', 'Oakland (Californie)'),
+    'Siskiyou (Californie)': (-122.63, 41.73, 'h', 'comté de Siskiyou (Yreka), Californie'),
+    'San Jacinto (Californie)': (-116.96, 33.78, 'h', 'rancho San Jacinto (Californie)'),
 })
 
 
