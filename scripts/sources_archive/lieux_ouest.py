@@ -2061,6 +2061,8 @@ G.update({
     'Sunnyside (Washington)': (-120.0, 46.32, 'c', 'Sunnyside (Washington)'),
     'Naches (Washington)': (-120.7, 46.73, 'c', 'Naches (Washington)'),
     'Yakima (comté, Washington)': (-120.5, 46.5, 'h', 'comté de Yakima (Washington)'),
+    'Shelton (Washington)': (-123.1, 47.21, 'c', 'Shelton (Washington)'),
+    'Everett (Washington)': (-122.2, 47.98, 'c', 'Everett (Washington)'),
 })
 
 
