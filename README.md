@@ -408,6 +408,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `semicentennialhi01smil` | 20 |
 | `historyofclearcr00olba` | 9 |
 | `historycolorad01stat` | 17 |
+| `historycolorad02stat` | 9 |
+| `historycolorad03stat` | 4 |
+| `wahtoyahtaostrai00garr` | 18 |
+| `scenesinrockymou00sage` | 4 |
 
 
 ## Un point par lieu et adresses précises

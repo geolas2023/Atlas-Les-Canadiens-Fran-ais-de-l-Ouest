@@ -1787,6 +1787,11 @@ G.update({
     'Black Hawk (Colorado)': (-105.49, 39.8, 'c', 'Black Hawk, Colorado'),
     'Boulder (Colorado)': (-105.27, 40.01, 'c', 'Boulder, Colorado'),
     'Bijou Creek (Colorado)': (-103.95, 40.25, 'h', 'embouchure du Bijou Creek (Platte Sud), Colorado'),
+    'La Veta (Colorado)': (-105.01, 37.51, 'c', 'La Veta (Cucharas), Colorado'),
+    'Fairplay (Colorado)': (-106.0, 39.22, 'c', 'Fairplay, South Park, Colorado'),
+    'Fort Mann (Kansas)': (-100.05, 37.76, 'h', 'fort Mann, rivière Arkansas (Kansas)'),
+    'Big Timbers (Colorado)': (-102.75, 38.08, 'h', "Big Timbers, villages cheyennes de l'Arkansas, Colorado"),
+    'Purgatoire (Colorado)': (-103.2, 38.03, 'h', 'embouchure de la Purgatoire, Colorado'),
 })
 
 
