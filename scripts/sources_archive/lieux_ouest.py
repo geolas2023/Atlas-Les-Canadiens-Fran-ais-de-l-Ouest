@@ -2070,6 +2070,17 @@ G.update({
     'Puget Sound': (-122.9, 47.1, 'h', 'Puget Sound (fond du détroit)'),
     'Bryant (Washington)': (-122.17, 48.24, 'c', 'Bryant (comté de Snohomish, Washington)'),
     'Prairie Newaukum': (-122.85, 46.6, 'h', 'prairie Newaukum (comté de Lewis, Washington)'),
+    'Fortson (Washington)': (-121.83, 48.26, 'c', 'Fortson (comté de Snohomish, Washington)'),
+    'Darrington (Washington)': (-121.6, 48.25, 'c', 'Darrington (comté de Snohomish, Washington)'),
+    'Big Lake (Washington)': (-122.24, 48.4, 'c', 'Big Lake (comté de Skagit, Washington)'),
+    'Mukilteo (Washington)': (-122.3, 47.95, 'c', 'Mukilteo (comté de Snohomish, Washington)'),
+    'Whatcom (Washington)': (-122.49, 48.75, 'c', 'Whatcom (auj. Bellingham, Washington)'),
+    'Edison (Washington)': (-122.44, 48.56, 'c', 'Edison (comté de Skagit, Washington)'),
+    'Sedro-Woolley (Washington)': (-122.24, 48.5, 'c', 'Sedro-Woolley (comté de Skagit, Washington)'),
+    'Mount Vernon (Washington)': (-122.33, 48.42, 'c', 'Mount Vernon (comté de Skagit, Washington)'),
+    'Stanwood (Washington)': (-122.37, 48.24, 'c', 'Stanwood (comté de Snohomish, Washington)'),
+    'Oso (Washington)': (-121.92, 48.27, 'c', 'Oso (comté de Snohomish, Washington)'),
+    'Index (Washington)': (-121.55, 47.82, 'c', 'Index (comté de Snohomish, Washington)'),
 })
 
 
