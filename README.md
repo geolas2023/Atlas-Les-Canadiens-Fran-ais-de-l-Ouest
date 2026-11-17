@@ -501,7 +501,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofyakimav01lyma` | 88 |
 | `historyofpugetso01pros` | 13 |
 | `washingtonhistor14wash` | 8 |
-| `WHQ (journals.lib.washington.edu)` | 57 |
+| `WHQ (journals.lib.washington.edu)` | 85 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
