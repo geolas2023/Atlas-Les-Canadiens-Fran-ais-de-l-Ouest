@@ -2095,6 +2095,10 @@ G.update({
     'Poste de Gerry (South Platte)': (-104.55, 40.4, 'a', "poste de traite d'Elbridge Gerry (South Platte, Colorado)"),
     'Mariavalle (Big Thompson, Colorado)': (-104.95, 40.4, 'c', 'Mariavalle (Miravalle City), sur le Big Thompson (Colorado)'),
     'Fort Wallace (Kansas)': (-101.59, 38.91, 'a', 'Fort Wallace (Kansas)'),
+    'Hardscrabble (Colorado)': (-105.0, 38.3, 'c', 'Hardscrabble (comté de Fremont, Colorado)'),
+    'Fort Lupton (Colorado)': (-104.81, 40.08, 'a', 'Fort Lupton (Fort Lancaster), South Platte'),
+    'Embudo (Nouveau-Mexique)': (-105.96, 36.21, 'c', 'Embudo (Nouveau-Mexique)'),
+    'Rio Colorado (Questa, Nouveau-Mexique)': (-105.59, 36.7, 'c', 'Rio Colorado (auj. Questa, Nouveau-Mexique)'),
 })
 
 
