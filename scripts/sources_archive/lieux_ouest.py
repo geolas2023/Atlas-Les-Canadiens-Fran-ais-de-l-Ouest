@@ -1711,6 +1711,22 @@ G.update({
     'Walsenburg (Colorado)': (-104.78, 37.62, 'c', 'Walsenburg, Colorado'),
     'Conejos (Colorado)': (-106.02, 37.09, 'c', 'Conejos, Colorado'),
     'Trinidad (Colorado)': (-104.5, 37.17, 'c', 'Trinidad, Colorado'),
+    'Springer (Nouveau-Mexique)': (-104.59, 36.36, 'c', 'Springer, Nouveau-Mexique'),
+    'Elizabethtown (Nouveau-Mexique)': (-105.28, 36.62, 'c', 'Elizabethtown, Nouveau-Mexique'),
+    'Cimarron (Nouveau-Mexique)': (-104.92, 36.51, 'c', 'Cimarron, Nouveau-Mexique'),
+    'Raton (Nouveau-Mexique)': (-104.44, 36.9, 'c', 'Raton, Nouveau-Mexique'),
+    'White Oaks (Nouveau-Mexique)': (-105.74, 33.75, 'c', 'White Oaks, Nouveau-Mexique'),
+    'Blanco (Nouveau-Mexique)': (-107.82, 36.72, 'c', 'Blanco, Nouveau-Mexique'),
+    'Chaperito (Nouveau-Mexique)': (-104.93, 35.37, 'c', 'Chaperito, Nouveau-Mexique'),
+    'El Rito (Nouveau-Mexique)': (-106.19, 36.34, 'c', 'El Rito, Nouveau-Mexique'),
+    'Folsom (Nouveau-Mexique)': (-103.92, 36.85, 'c', 'Folsom, Nouveau-Mexique'),
+    'Manzano (Nouveau-Mexique)': (-106.35, 34.65, 'c', 'Manzano, Nouveau-Mexique'),
+    'Monticello (Nouveau-Mexique)': (-107.43, 33.4, 'c', 'Monticello, Nouveau-Mexique'),
+    'Peñasco (Nouveau-Mexique)': (-105.68, 36.17, 'c', 'Peñasco, Nouveau-Mexique'),
+    'Puerto de Luna (Nouveau-Mexique)': (-104.62, 34.83, 'c', 'Puerto de Luna, Nouveau-Mexique'),
+    'San Antonio (Nouveau-Mexique)': (-106.87, 33.92, 'c', 'San Antonio, Nouveau-Mexique'),
+    'Watrous (Nouveau-Mexique)': (-104.98, 35.79, 'c', 'Watrous, Nouveau-Mexique'),
+    'Tiguex (Bernalillo)': (-106.56, 35.33, 'h', 'Province de Tiguex, près de Bernalillo, Nouveau-Mexique'),
 })
 
 
