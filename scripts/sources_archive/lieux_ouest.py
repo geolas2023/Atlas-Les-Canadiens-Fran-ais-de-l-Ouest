@@ -1677,6 +1677,9 @@ G.update({
     'Fort Mitchell (Alabama)': (-85.02, 32.35, 'h', 'Fort Mitchell, comté de Russell, Alabama'),
     'Cahaba (Alabama)': (-87.1, 32.32, 'h', "Cahaba, ancienne capitale de l'Alabama"),
     'Aigleville (Marengo)': (-87.88, 32.47, 'h', "Aigleville, établissement de la colonie de la Vigne et de l'Olivier, comté de Marengo"),
+    'Tuscumbia (Alabama)': (-87.7, 34.73, 'c', 'Tuscumbia, Alabama'),
+    'Selma (Alabama)': (-87.02, 32.41, 'c', 'Selma, Alabama'),
+    'Marion Junction (Alabama)': (-87.24, 32.43, 'h', 'Marion Junction, comté de Dallas, Alabama'),
 })
 
 
