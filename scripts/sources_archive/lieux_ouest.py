@@ -1973,6 +1973,13 @@ G.update({
     'Newport (Oregon)': (-124.05, 44.64, 'c', 'Newport (Oregon)'),
     'Hillsboro (Oregon)': (-122.99, 45.52, 'c', 'Hillsboro (Oregon)'),
     'Mount Tabor (Portland)': (-122.6, 45.51, 'c', 'Mount Tabor (Portland, Oregon)'),
+    'Albany (Oregon)': (-123.1, 44.64, 'c', 'Albany (Oregon)'),
+    'Woodburn (Oregon)': (-122.86, 45.14, 'c', 'Woodburn (Oregon)'),
+    'Marion (comté, Oregon)': (-122.8, 44.9, 'h', 'comté de Marion (Oregon)'),
+    'French Settlement (Douglas, Oregon)': (-123.47, 43.27, 'a', 'French Settlement (comté de Douglas, Oregon)'),
+    'Vallée de la Rogue (Oregon)': (-122.95, 42.42, 'h', 'vallée de la rivière Rogue (Oregon)'),
+    'Port Orford (Oregon)': (-124.5, 42.75, 'c', 'Port Orford (Oregon)'),
+    'Douglas (comté, Oregon)': (-123.3, 43.2, 'h', 'comté de Douglas (Oregon)'),
 })
 
 
