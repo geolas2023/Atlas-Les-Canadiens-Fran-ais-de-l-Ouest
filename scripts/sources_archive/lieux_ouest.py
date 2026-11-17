@@ -1918,6 +1918,21 @@ G.update({
     'Fulton (Californie)': (-122.77, 38.49, 'c', 'Fulton (comté de Sonoma), Californie'),
     'French Camp (Californie)': (-121.27, 37.88, 'c', 'French Camp (Campo de los Franceses), comté de San Joaquin, Californie'),
     'Sutter (comté)': (-121.69, 39.03, 'h', 'comté de Sutter (Yuba City), Californie'),
+    'Champoeg (Oregon)': (-122.88, 45.25, 'c', 'Champoeg (Campement de Sable, Oregon)'),
+    'Clackamas (Oregon)': (-122.6, 45.4, 'a', 'Clackamas (Oregon)'),
+    'Île Whidbey': (-122.6, 48.2, 'a', 'île Whidbey (Washington)'),
+    'Butteville (Oregon)': (-122.8, 45.26, 'c', 'Butteville (comté de Marion, Oregon)'),
+    'Monts Siskiyou': (-122.6, 42.07, 'a', 'monts Siskiyou (frontière Oregon-Californie)'),
+    'Tucannon (Washington)': (-117.8, 46.4, 'a', 'rivière Tukannon (Washington)'),
+    'Pine Creek (Rosalia, Washington)': (-117.37, 47.24, 'a', 'Pine Creek, près de Rosalia (Washington)'),
+    'Galice Creek (Oregon)': (-123.6, 42.57, 'a', 'Galice Creek (rivière Rogue, Oregon)'),
+    'Gold Beach (Oregon)': (-124.42, 42.41, 'c', 'Gold Beach (Oregon)'),
+    'Yamhill (comté, Oregon)': (-123.25, 45.25, 'h', 'comté de Yamhill (Oregon)'),
+    'Rivière Palouse': (-118.2, 46.6, 'h', 'rivière Palouse (Washington)'),
+    'Montagnes Bleues (Oregon)': (-118.2, 45.5, 'h', 'montagnes Bleues (Oregon)'),
+    'Lewis (comté, Washington)': (-122.6, 46.6, 'h', 'comté de Lewis (Washington)'),
+    'Rivière Walla Walla': (-118.6, 46.05, 'a', 'rivière Walla Walla (Washington)'),
+    'Rogue River (mines, Oregon)': (-123.3, 42.45, 'h', 'mines de la rivière Rogue (Oregon)'),
 })
 
 
