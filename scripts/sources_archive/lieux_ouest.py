@@ -1892,6 +1892,14 @@ G.update({
     'Marin (comté)': (-122.7, 38.05, 'h', 'comté de Marin (Californie)'),
     'Martinez (Californie)': (-122.13, 38.02, 'c', 'Martinez (Californie)'),
     'San Pablo (Californie)': (-122.35, 37.96, 'c', 'San Pablo (comté de Contra Costa), Californie'),
+    'Millbrae (Californie)': (-122.39, 37.6, 'c', 'Millbrae (comté de San Mateo), Californie'),
+    'Arcata (Californie)': (-124.08, 40.87, 'c', 'Arcata (Uniontown), Californie'),
+    'Trinidad (Californie)': (-124.14, 41.06, 'c', 'Trinidad (comté de Humboldt), Californie'),
+    'Blue Lake (Californie)': (-123.98, 40.88, 'c', 'Blue Lake (comté de Humboldt), Californie'),
+    'Humboldt (comté)': (-123.9, 40.7, 'h', 'comté de Humboldt (Californie)'),
+    'Gold Bluff (Californie)': (-124.08, 41.38, 'a', 'Gold Bluff (côte du comté de Humboldt), Californie'),
+    'Crescent City (Californie)': (-124.2, 41.76, 'c', 'Crescent City (comté de Del Norte), Californie'),
+    'Kern (comté)': (-118.7, 35.35, 'h', 'comté de Kern (Californie)'),
 })
 
 

@@ -443,6 +443,13 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofmendoci00palm` | 1 |
 | `historyofmarinco00munr` | 6 |
 | `historyofcontrco00munrrich` | 2 |
+| `historyofsanmate00sanf` | 2 |
+| `historyofhumbold00wwel` | 3 |
+| `historyoftularec00wwel` | 1 |
+| `historyofdelnort00bled` | 2 |
+| `historyofsantacr00will` | 2 |
+| `historyofsantacr00harr` | 1 |
+| `historyofmercedc00park` | 1 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
