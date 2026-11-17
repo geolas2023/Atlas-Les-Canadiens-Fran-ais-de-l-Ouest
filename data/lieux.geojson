@@ -701008,6 +701008,210 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.89,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "AI-gasquet-luis-monterey-c",
+    "nom": "Monterey, Californie : Luis Gasquet",
+    "corpus": "archive.org · Annals of San Francisco",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Luis Gasquet"
+    ],
+    "description": "Monterey, Californie, vers 1845. Luis Gasquet « Don Luis Gasquet », premier consul de France en Californie, arrivé du Mexique vers le 10 mai, parti en 1847. D'après Annals of San Francisco.",
+    "sources": "Soulé, Gihon et Nisbet, The Annals of San Francisco (1855), p. 127 ; texte intégral : archive.org, annalsofsanfranc00soul.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Annals of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/annalsofsanfranc00soul?q=GASQUET",
+      "texte": "Lire Annals of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.243,
+     34.052
+    ]
+   },
+   "properties": {
+    "id": "AI-limantour-jose-yves-los-angele",
+    "nom": "Los Angeles : Jose Yves Limantour",
+    "corpus": "archive.org · Annals of San Francisco",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jose Yves Limantour"
+    ],
+    "description": "Los Angeles, 1843. Jose Yves Limantour « a Frenchman by birth », traitant, prête au gouverneur Micheltorena et en obtient une concession. D'après Annals of San Francisco. Autres lieux de l'entrée : San Francisco.",
+    "sources": "Soulé, Gihon et Nisbet, The Annals of San Francisco (1855), p. 429 ; texte intégral : archive.org, annalsofsanfranc00soul.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Annals of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/annalsofsanfranc00soul?q=LIMANTOUR",
+      "texte": "Lire Annals of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AI-limantour-jose-yves-san-franci",
+    "nom": "San Francisco : Jose Yves Limantour",
+    "corpus": "archive.org · Annals of San Francisco",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jose Yves Limantour"
+    ],
+    "description": "San Francisco, 1853. Jose Yves Limantour présente sa revendication sur les terres de Yerba Buena. D'après Annals of San Francisco. Autres lieux de l'entrée : Los Angeles.",
+    "sources": "Soulé, Gihon et Nisbet, The Annals of San Francisco (1855), p. 429 ; texte intégral : archive.org, annalsofsanfranc00soul.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Annals of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/annalsofsanfranc00soul?q=LIMANTOUR",
+      "texte": "Lire Annals of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AI-dillon-patrice-san-franci",
+    "nom": "San Francisco : Patrice Dillon",
+    "corpus": "archive.org · Annals of San Francisco",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Patrice Dillon"
+    ],
+    "description": "San Francisco, 1854. Patrice Dillon consul de France, cité comme témoin au procès du consul du Mexique. D'après Annals of San Francisco.",
+    "sources": "Soulé, Gihon et Nisbet, The Annals of San Francisco (1855), p. 532-535 ; texte intégral : archive.org, annalsofsanfranc00soul.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Annals of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/annalsofsanfranc00soul?q=DILLON",
+      "texte": "Lire Annals of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AI-grisar-e-san-franci",
+    "nom": "San Francisco : E. Grisar",
+    "corpus": "archive.org · Annals of San Francisco",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "E. Grisar"
+    ],
+    "description": "San Francisco, 1853. E. Grisar un des organisateurs de la compagnie de pompiers La Fayette Hook and Ladder no 2, formée par des citoyens français. D'après Annals of San Francisco.",
+    "sources": "Soulé, Gihon et Nisbet, The Annals of San Francisco (1855), p. 624 ; texte intégral : archive.org, annalsofsanfranc00soul.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Annals of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/annalsofsanfranc00soul?q=GRISAR",
+      "texte": "Lire Annals of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42,
+     37.775
+    ]
+   },
+   "properties": {
+    "id": "AI-paul-san-franci",
+    "nom": "San Francisco : Paul",
+    "corpus": "archive.org · Annals of San Francisco",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul"
+    ],
+    "description": "San Francisco, vers 1854. Paul « M. Paul », directeur du théâtre français de l'Adelphi, rue Dupont. D'après Annals of San Francisco.",
+    "sources": "Soulé, Gihon et Nisbet, The Annals of San Francisco (1855), p. 658 ; texte intégral : archive.org, annalsofsanfranc00soul.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Annals of San Francisco",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/annalsofsanfranc00soul?q=PAUL",
+      "texte": "Lire Annals of San Francisco sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
