@@ -439,6 +439,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofplacerc00ange` | 8 |
 | `historyofnevadac00well` | 13 |
 | `historyofyubacou00cham` | 14 |
+| `historyofsiskiyo00well` | 17 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
