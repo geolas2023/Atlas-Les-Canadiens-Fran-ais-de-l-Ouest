@@ -509,6 +509,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `colorado_magazine_1923_1929` | 13 |
 | `colorado_magazine_1930_1935` | 8 |
 | `colorado_magazine_1936_1938` | 5 |
+| `colorado_magazine_1939_1948` | 27 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

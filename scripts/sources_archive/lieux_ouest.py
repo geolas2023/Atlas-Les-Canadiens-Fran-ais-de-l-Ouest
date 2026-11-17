@@ -2090,6 +2090,7 @@ G.update({
     'Fort Massachusetts (Colorado)': (-105.4, 37.53, 'a', 'Fort Massachusetts (vallée de San Luis, Colorado)'),
     'Westport (Missouri)': (-94.59, 39.05, 'c', 'Westport (auj. Kansas City, Missouri)'),
     'Cold Spring (Santa Fe Trail)': (-102.45, 36.85, 'h', 'Cold Spring (route du Cimarron, Oklahoma)'),
+    'Garo (Colorado)': (-105.93, 39.17, 'c', 'Garo (comté de Park, Colorado)'),
 })
 
 
