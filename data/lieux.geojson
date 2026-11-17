@@ -760321,8 +760321,42 @@
     "personnages": [
      "St. Martin"
     ],
-    "description": "Fort Colville (Washington), 1835. St. Martin « serviteur retraité », même mission que Cartier. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XVI, p. 102 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "description": "Fort Colville (Washington), 1835. St. Martin « serviteur retraité », même mission que Cartier. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : chutes de la Chaudière (Kettle Falls).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XVI, p. 102 ; V, p. 166, 176 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "CA-st-martin-kettle-fal",
+    "nom": "Chutes de la Chaudière (Kettle Falls) : St. Martin",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "evenement",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "St. Martin"
+    ],
+    "description": "Chutes de la Chaudière (Kettle Falls), 1825. St. Martin passager avec sa femme et son enfant dans le convoi de John Work, septembre ; plus tard noyé. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fort Colville (Washington).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XVI, p. 102 ; V, p. 166, 176 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -762293,8 +762327,8 @@
     "personnages": [
      "Pierre Charles"
     ],
-    "description": "Nisqually, 1833. Pierre Charles serviteur, chasseur et guide de la CBH ; accompagne Heron à l'île Whidbey. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz.",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "description": "Nisqually, 1833. Pierre Charles serviteur, chasseur et guide de la CBH ; accompagne Heron à l'île Whidbey. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz, Puget Sound (fond du détroit).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -762327,8 +762361,8 @@
     "personnages": [
      "Pierre Charles"
     ],
-    "description": "Nisqually, 1834. Pierre Charles chasse dans les îles du Sound, février. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz.",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "description": "Nisqually, 1834. Pierre Charles chasse dans les îles du Sound, février. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz, Puget Sound (fond du détroit).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -762361,8 +762395,42 @@
     "personnages": [
      "Pierre Charles"
     ],
-    "description": "Cowlitz, 1841. Pierre Charles retiré sur le Cowlitz, guide le groupe Johnson de l'expédition Wilkes à travers les Cascades. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually.",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "description": "Cowlitz, 1841. Pierre Charles retiré sur le Cowlitz, guide le groupe Johnson de l'expédition Wilkes à travers les Cascades. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually, Puget Sound (fond du détroit).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     47.1
+    ]
+   },
+   "properties": {
+    "id": "CA-charles-pierre-puget-soun",
+    "nom": "Puget Sound (fond du détroit) : Pierre Charles",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Charles"
+    ],
+    "description": "Puget Sound (fond du détroit), 1824. Pierre Charles traiteur de l'expédition de James McMillan vers le Puget Sound, tue des wapitis en décembre (journal de John Work). D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually, Cowlitz.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -762839,6 +762907,1264 @@
     ],
     "description": "Colville (comté de Stevens, Washington), 1863. Joseph Lafleur, né à sang-mêlé okanagan, participe à la poursuite de Charlie Harper. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
     "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XVI, p. 199-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2,
+     46.9
+    ]
+   },
+   "properties": {
+    "id": "CA-annamour-riviere-ch",
+    "nom": "Rivière Chehalis (Washington) : Annamour",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Annamour"
+    ],
+    "description": "Rivière Chehalis (Washington), 1824. Annamour « Mr. Annamour », commis de l'expédition McMillan, novembre-décembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2,
+     46.9
+    ]
+   },
+   "properties": {
+    "id": "CA-patvin-vandit-riviere-ch",
+    "nom": "Rivière Chehalis (Washington) : Vandit Patvin",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Vandit Patvin"
+    ],
+    "description": "Rivière Chehalis (Washington), 1824. Vandit Patvin boiteux, renvoyé par le Cowlitz le 30 novembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "CA-laframbois-cowlitz",
+    "nom": "Cowlitz : Laframbois",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Laframbois"
+    ],
+    "description": "Cowlitz, 1824. Laframbois interprète de l'expédition McMillan, 30 novembre-1er décembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "CA-michel-cowlitz",
+    "nom": "Cowlitz : Michel",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel"
+    ],
+    "description": "Cowlitz, 1824. Michel interprète, envoyé vers le Cowlitz le 27 décembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), III (Journal of John Work, 1824) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-laprade-fort-okana",
+    "nom": "Fort Okanagan : Laprade",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Laprade"
+    ],
+    "description": "Fort Okanagan, 1825. Laprade, né à « métis », 26-27 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 101-102 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-robideaux-robbie-do-fort-okana",
+    "nom": "Fort Okanagan : Robideaux (« Robbie Do »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robideaux (« Robbie Do »)"
+    ],
+    "description": "Fort Okanagan, 1825. Robideaux (« Robbie Do »), né à « métis », 29 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 102 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-gregoire-e-fort-okana",
+    "nom": "Fort Okanagan : E. Gregoire",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "E. Gregoire"
+    ],
+    "description": "Fort Okanagan, 1825. E. Gregoire 27 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 102 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-moreau-j-fort-okana",
+    "nom": "Fort Okanagan : J. Moreau",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Moreau"
+    ],
+    "description": "Fort Okanagan, 1825. J. Moreau 27 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 102 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-valle-a-spokane-ho",
+    "nom": "Spokane House : A. Valle",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "A. Valle"
+    ],
+    "description": "Spokane House, 1825. A. Valle homme libre, vers le 3 septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 115 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-curvais-spokane-ho",
+    "nom": "Spokane House : Curvais",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Curvais"
+    ],
+    "description": "Spokane House, 1825. Curvais homme libre, vers le 3 septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 115 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.33,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "CA-l-etang-pierre-p-l-etang-fourche-de",
+    "nom": "Fourche (embouchure) de la Spokane : Pierre L'etang (« P. L'Etang »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre L'etang (« P. L'Etang »)"
+    ],
+    "description": "Fourche (embouchure) de la Spokane, 1825. Pierre L'etang (« P. L'Etang ») guide, 5 août ; doit rester aux chutes. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : chutes de la Chaudière (Kettle Falls), lac Pend Oreille (Idaho).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 104, 166 ; VI, p. 45 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "CA-l-etang-pierre-p-l-etang-kettle-fal",
+    "nom": "Chutes de la Chaudière (Kettle Falls) : Pierre L'etang (« P. L'Etang »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre L'etang (« P. L'Etang »)"
+    ],
+    "description": "Chutes de la Chaudière (Kettle Falls), 1825. Pierre L'etang (« P. L'Etang ») 19 septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fourche (embouchure) de la Spokane, lac Pend Oreille (Idaho).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 104, 166 ; VI, p. 45 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.4,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-l-etang-pierre-p-l-etang-lac-pend-o",
+    "nom": "Lac Pend Oreille (Idaho) : Pierre L'etang (« P. L'Etang »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre L'etang (« P. L'Etang »)"
+    ],
+    "description": "Lac Pend Oreille (Idaho), 1826. Pierre L'etang (« P. L'Etang ») portage des Kootenays, 28 août. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fourche (embouchure) de la Spokane, chutes de la Chaudière (Kettle Falls).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 104, 166 ; VI, p. 45 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "CA-la-bonte-l-la-bentie-la-bont-kettle-fal",
+    "nom": "Chutes de la Chaudière (Kettle Falls) : L. la Bonte (« La Bentie », « La Bonta »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "L. la Bonte (« La Bentie », « La Bonta »)"
+    ],
+    "description": "Chutes de la Chaudière (Kettle Falls), 1825. L. la Bonte (« La Bentie », « La Bonta ») charpentier, 5-10 août et septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Spokane House.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 105, 107, 166, 267 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-la-bonte-l-la-bentie-la-bont-spokane-ho",
+    "nom": "Spokane House : L. la Bonte (« La Bentie », « La Bonta »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "L. la Bonte (« La Bentie », « La Bonta »)"
+    ],
+    "description": "Spokane House, 1826. L. la Bonte (« La Bentie », « La Bonta ») 14 janvier. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : chutes de la Chaudière (Kettle Falls).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 105, 107, 166, 267 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     46.06
+    ]
+   },
+   "properties": {
+    "id": "CA-la-course-p-walla-wall",
+    "nom": "Fort Walla Walla : P. la Course",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "P. la Course"
+    ],
+    "description": "Fort Walla Walla, 1825. P. la Course batelier au fort Nez-Percés, 29 juin. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 87 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.6,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "CA-le-course-riviere-cu",
+    "nom": "Rivière Cœur-d'Alène : Le Course",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Le Course"
+    ],
+    "description": "Rivière Cœur-d'Alène, 1825. Le Course plaine des Cœurs-d'Alène, 15 novembre et 6 décembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fourche (embouchure) de la Spokane.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 180, 188, 283 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.33,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "CA-le-course-fourche-de",
+    "nom": "Fourche (embouchure) de la Spokane : Le Course",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Course"
+    ],
+    "description": "Fourche (embouchure) de la Spokane, 1826. Le Course 2-9 avril. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : rivière Cœur-d'Alène.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 180, 188, 283 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "CA-proveau-j-b-kettle-fal",
+    "nom": "Chutes de la Chaudière (Kettle Falls) : J. B. Proveau",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. B. Proveau"
+    ],
+    "description": "Chutes de la Chaudière (Kettle Falls), 1825. J. B. Proveau trace le bâtiment des chutes de la Chaudière, septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fourche (embouchure) de la Spokane.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 166, 174 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.33,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "CA-proveau-j-b-fourche-de",
+    "nom": "Fourche (embouchure) de la Spokane : J. B. Proveau",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "J. B. Proveau"
+    ],
+    "description": "Fourche (embouchure) de la Spokane, 1825. J. B. Proveau 22 octobre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : chutes de la Chaudière (Kettle Falls).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 166, 174 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-rivet-francois-revit-rivit-spokane-ho",
+    "nom": "Spokane House : François Rivet (« Revit », « Rivit »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Rivet (« Revit », « Rivit »)"
+    ],
+    "description": "Spokane House, 1825. François Rivet (« Revit », « Rivit ») interprète, 21 septembre ; s'établit plus tard à la French Prairie. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fourche (embouchure) de la Spokane, rivière Pend Oreille (Idaho).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 167 (n. 68), 279-284 ; VI, p. 48 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-rivet-francois-revit-rivit-spokane-ho-2",
+    "nom": "Spokane House : François Rivet (« Revit », « Rivit »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Rivet (« Revit », « Rivit »)"
+    ],
+    "description": "Spokane House, 1826. François Rivet (« Revit », « Rivit ») 19-21 mars. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : fourche (embouchure) de la Spokane, rivière Pend Oreille (Idaho).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 167 (n. 68), 279-284 ; VI, p. 48 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.33,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "CA-rivet-francois-revit-rivit-fourche-de",
+    "nom": "Fourche (embouchure) de la Spokane : François Rivet (« Revit », « Rivit »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Rivet (« Revit », « Rivit »)"
+    ],
+    "description": "Fourche (embouchure) de la Spokane, 1826. François Rivet (« Revit », « Rivit ») 13 avril. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Spokane House, rivière Pend Oreille (Idaho).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 167 (n. 68), 279-284 ; VI, p. 48 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.9,
+     48.2
+    ]
+   },
+   "properties": {
+    "id": "CA-rivet-francois-revit-rivit-riviere-pe",
+    "nom": "Rivière Pend Oreille (Idaho) : François Rivet (« Revit », « Rivit »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Rivet (« Revit », « Rivit »)"
+    ],
+    "description": "Rivière Pend Oreille (Idaho), 1826. François Rivet (« Revit », « Rivit ») 12 septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Spokane House, fourche (embouchure) de la Spokane.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 167 (n. 68), 279-284 ; VI, p. 48 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-soteaux-spokane-ho",
+    "nom": "Spokane House : Soteaux",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Soteaux"
+    ],
+    "description": "Spokane House, 1825. Soteaux homme libre, 21 octobre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 174 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-faneant-spokane-ho",
+    "nom": "Spokane House : Faneant",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Faneant"
+    ],
+    "description": "Spokane House, 1825. Faneant 26 octobre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 168 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-canotte-spokane-ho",
+    "nom": "Spokane House : Canotte",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1825.0,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Canotte"
+    ],
+    "description": "Spokane House, 1825. Canotte 12 novembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 179 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.33,
+     47.9
+    ]
+   },
+   "properties": {
+    "id": "CA-paget-a-fourche-de",
+    "nom": "Fourche (embouchure) de la Spokane : A. Paget",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "A. Paget"
+    ],
+    "description": "Fourche (embouchure) de la Spokane, 1826. A. Paget 13 avril. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 284 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-ignace-spokane-ho",
+    "nom": "Spokane House : Ignace",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ignace"
+    ],
+    "description": "Spokane House, 1826. Ignace 2 avril. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 282 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.6,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "CA-martin-riviere-cu",
+    "nom": "Rivière Cœur-d'Alène : Martin",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Martin"
+    ],
+    "description": "Rivière Cœur-d'Alène, 1826. Martin portage des Cœurs-d'Alène, 27 mars. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 281 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-bonenfant-spokane-ho",
+    "nom": "Spokane House : Bonenfant",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bonenfant"
+    ],
+    "description": "Spokane House, 1826. Bonenfant déserteur, 27 mars-2 avril. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 281-282 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-chalifoux-chilifaux-spokane-ho",
+    "nom": "Spokane House : Chalifoux (« Chilifaux »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Chalifoux (« Chilifaux »)"
+    ],
+    "description": "Spokane House, 1826. Chalifoux (« Chilifaux ») au fort et à la fourche, 7-8 mars. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : lac Pend Oreille (Idaho).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 277, 281 ; VI, p. 42-43 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.4,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-chalifoux-chilifaux-lac-pend-o",
+    "nom": "Lac Pend Oreille (Idaho) : Chalifoux (« Chilifaux »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Chalifoux (« Chilifaux »)"
+    ],
+    "description": "Lac Pend Oreille (Idaho), 1826. Chalifoux (« Chilifaux ») avec Dechamp, 24 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Spokane House.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 277, 281 ; VI, p. 42-43 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-pere-de-jolie-fille-spokane-ho",
+    "nom": "Spokane House : Père De Jolie Fille",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "religion",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Père De Jolie Fille"
+    ],
+    "description": "Spokane House, 1826. Père De Jolie Fille 16 mars. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 278-279 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-pambrun-pambin-fort-okana",
+    "nom": "Fort Okanagan : Pambrun (« Pambin »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pambrun (« Pambin »)"
+    ],
+    "description": "Fort Okanagan, 1826. Pambrun (« Pambin ») 3-7 juin. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), V, p. 285 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9,
+     45.65
+    ]
+   },
+   "properties": {
+    "id": "CA-cortin-j-cascades-c",
+    "nom": "Les Cascades du Columbia : J. Cortin",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Cortin"
+    ],
+    "description": "Les Cascades du Columbia, 1826. J. Cortin 8 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI, p. 28-29 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.4,
+     48.1
+    ]
+   },
+   "properties": {
+    "id": "CA-dechamp-lac-pend-o",
+    "nom": "Lac Pend Oreille (Idaho) : Dechamp",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dechamp"
+    ],
+    "description": "Lac Pend Oreille (Idaho), 1826. Dechamp avec Chalifoux, 24 juillet. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI, p. 42-43 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [

@@ -2065,6 +2065,9 @@ G.update({
     'Everett (Washington)': (-122.2, 47.98, 'c', 'Everett (Washington)'),
     'Toledo (Washington)': (-122.85, 46.44, 'c', 'Toledo (comté de Lewis, Washington)'),
     'Sumner (Washington)': (-122.24, 47.2, 'c', 'Sumner (Washington)'),
+    'Rivière Chehalis (Washington)': (-123.2, 46.9, 'h', 'rivière Chehalis (Washington)'),
+    'Fourche de la Spokane': (-118.33, 47.9, 'h', 'fourche (embouchure) de la Spokane'),
+    'Puget Sound': (-122.9, 47.1, 'h', 'Puget Sound (fond du détroit)'),
 })
 
 
