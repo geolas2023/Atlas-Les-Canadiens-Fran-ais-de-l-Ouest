@@ -1705,6 +1705,12 @@ G.update({
     'Concession Maxwell (Cimarron)': (-104.92, 36.51, 'h', 'Concession Beaubien-Miranda (Maxwell), Cimarron, Nouveau-Mexique'),
     'Valencia (Nouveau-Mexique)': (-106.7, 34.8, 'c', 'Valencia, Nouveau-Mexique'),
     'Fort Sumner (Bosque Redondo)': (-104.25, 34.4, 'h', 'Fort Sumner (Bosque Redondo), Nouveau-Mexique'),
+    'Isleta (Nouveau-Mexique)': (-106.69, 34.91, 'c', "Pueblo d'Isleta, Nouveau-Mexique"),
+    'Arroyo Hondo (Nouveau-Mexique)': (-105.66, 36.53, 'c', 'Arroyo Hondo, Nouveau-Mexique'),
+    'Costilla (Nouveau-Mexique)': (-105.53, 36.98, 'c', 'Costilla, Nouveau-Mexique'),
+    'Walsenburg (Colorado)': (-104.78, 37.62, 'c', 'Walsenburg, Colorado'),
+    'Conejos (Colorado)': (-106.02, 37.09, 'c', 'Conejos, Colorado'),
+    'Trinidad (Colorado)': (-104.5, 37.17, 'c', 'Trinidad, Colorado'),
 })
 
 
