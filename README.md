@@ -477,6 +477,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `adventuresoffirs00ross` | 25 |
 | `astoriaoranecdo02irvigoog` | 5 |
 | `astoriaoranecdo00irvigoog` | 21 |
+| `cihm_15234` | 13 |
+| `centennialhistor01gast` | 89 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

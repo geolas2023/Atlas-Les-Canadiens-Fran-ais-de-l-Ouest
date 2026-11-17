@@ -1954,6 +1954,7 @@ G.update({
     'Cap Disappointment': (-124.05, 46.28, 'a', 'cap Disappointment (embouchure du Columbia)'),
     'Rivière Platte': (-100.0, 41.0, 'h', 'rivière Platte'),
     'Villages arikaras (Missouri)': (-100.55, 45.55, 'a', 'villages arikaras (embouchure de la Grand River, Dakota du Sud)'),
+    'Canemah (Oregon)': (-122.61, 45.345, 'c', "Canemah (près d'Oregon City, Oregon)"),
 })
 
 
