@@ -1660,6 +1660,8 @@ G.update({
     'Nickajack (Tennessee)': (-85.62, 35.0, 'h', 'Nickajack, villages chicamaugas du Tennessee inférieur (Tennessee)'),
     'Lookout Mountain Town': (-85.35, 34.98, 'h', 'Lookout Mountain Town, ville chicamauga (frontière Tennessee-Géorgie)'),
     'Rivière Cumberland (Tennessee)': (-87.2, 36.45, 'h', 'rivière Cumberland (Tennessee)'),
+    'Little Tallassee (Creek)': (-86.2, 32.55, 'h', 'Little Tallassee, nation creek (Alabama)'),
+    'Chota (Tennessee)': (-84.13, 35.53, 'h', 'Chota, capitale cherokee sur la Little Tennessee (Tennessee)'),
 })
 
 
