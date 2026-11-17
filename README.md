@@ -484,6 +484,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `centennialhistor04gast` | 11 |
 | `portraitbiographwvor00chap` | 8 |
 | `historyofsouther00wall` | 33 |
+| `quarterlyoforego01oreg` | 48 |
+| `quarterlyoforego13oreg` | 70 |
+| `quarterlyoforego15oreg` | 4 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
