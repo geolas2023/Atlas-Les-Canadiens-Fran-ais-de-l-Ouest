@@ -440,6 +440,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofnevadac00well` | 13 |
 | `historyofyubacou00cham` | 14 |
 | `historyofsiskiyo00well` | 17 |
+| `historyofmendoci00palm` | 1 |
+| `historyofmarinco00munr` | 6 |
+| `historyofcontrco00munrrich` | 2 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
