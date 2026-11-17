@@ -405,6 +405,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofstateof02hall` | 5 |
 | `historyofstateof03hall` | 11 |
 | `historyofstateof04hall` | 39 |
+| `semicentennialhi01smil` | 20 |
+| `historyofclearcr00olba` | 9 |
 
 
 ## Un point par lieu et adresses précises

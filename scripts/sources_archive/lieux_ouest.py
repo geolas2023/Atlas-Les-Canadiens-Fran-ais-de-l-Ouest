@@ -1777,6 +1777,15 @@ G.update({
     'Buena Vista (Colorado)': (-106.13, 38.84, 'c', 'Buena Vista, Colorado'),
     'Dallas Creek (Colorado)': (-107.8, 38.18, 'h', "Dallas Creek, vallée de l'Uncompahgre, Colorado"),
     'San Luis (Colorado)': (-105.42, 37.2, 'c', 'San Luis (comté de Costilla), Colorado'),
+    'Haut Arkansas (Colorado)': (-105.3, 38.4, 'h', 'haut Arkansas, Colorado'),
+    'Beecher Island (Colorado)': (-102.18, 39.87, 'h', 'île Beecher, fourche Arikaree de la Republican, Colorado'),
+    'Montrose (Colorado)': (-107.88, 38.48, 'c', "Montrose, vallée de l'Uncompahgre, Colorado"),
+    'North Park (Colorado)': (-106.3, 40.7, 'h', 'North Park, Colorado'),
+    'Dumont (Colorado)': (-105.6, 39.76, 'c', 'Dumont (ancienne Mill City), comté de Clear Creek, Colorado'),
+    'Idaho Springs (Colorado)': (-105.51, 39.74, 'c', 'Idaho Springs, Colorado'),
+    'Russell Gulch (Colorado)': (-105.54, 39.78, 'c', 'Russell Gulch (comté de Gilpin), Colorado'),
+    'Black Hawk (Colorado)': (-105.49, 39.8, 'c', 'Black Hawk, Colorado'),
+    'Boulder (Colorado)': (-105.27, 40.01, 'c', 'Boulder, Colorado'),
 })
 
 
