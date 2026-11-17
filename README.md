@@ -381,6 +381,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `memorialrecordof00tayl` | 9 |
 | `memorialrecordof21tayl` | 7 |
 | `memorialrecordof22tayl` | 7 |
+| `soldiersofcrossn00salp` (Nouveau-Mexique) | 66 |
+| `arizonanewmex00bancroft` (Nouveau-Mexique) | 22 |
 
 
 ## Un point par lieu et adresses précises
