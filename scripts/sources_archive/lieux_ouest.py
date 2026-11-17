@@ -2035,6 +2035,7 @@ G.update({
     'Yakima City (Washington)': (-120.48, 46.55, 'c', 'Yakima City (Union Gap, Washington)'),
     'North Yakima (Washington)': (-120.51, 46.6, 'c', 'North Yakima (Yakima, Washington)'),
     'Ellensburg (Washington)': (-120.55, 46.99, 'c', 'Ellensburg / vallée de la Kittitas (Washington)'),
+    'Dayton (Washington)': (-117.98, 46.32, 'c', 'Dayton (Washington)'),
 })
 
 
