@@ -490,6 +490,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `quarterlyoforego04oreg` | 10 |
 | `illustratedhisto00hine` | 16 |
 | `illustratedhisto00stee` | 82 |
+| `historicsketches00gilb` | 72 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
