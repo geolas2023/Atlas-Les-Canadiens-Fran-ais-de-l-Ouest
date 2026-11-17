@@ -1943,6 +1943,14 @@ G.update({
     'East Portland (Oregon)': (-122.65, 45.52, 'c', 'East Portland (Oregon)'),
     'Mont Hood (Oregon)': (-121.7, 45.37, 'a', 'mont Hood (Oregon)'),
     'Monts Warner (Californie)': (-120.2, 41.6, 'a', 'monts Warner (nord-est de la Californie)'),
+    'Scottsburg (Oregon)': (-123.82, 43.66, 'c', 'Scottsburg (comté de Douglas, Oregon)'),
+    'Ashland (Oregon)': (-122.71, 42.19, 'c', 'Ashland (Oregon)'),
+    'Bellevue (Yamhill, Oregon)': (-123.43, 45.07, 'c', 'Bellevue (comté de Yamhill, Oregon)'),
+    'Roseburg (Oregon)': (-123.34, 43.22, 'c', 'Roseburg (Oregon)'),
+    'Yreka (Californie)': (-122.63, 41.73, 'c', 'Yreka (Californie)'),
+    'Josephine (comté, Oregon)': (-123.6, 42.4, 'h', 'comté de Josephine (Oregon)'),
+    'Aurora (Oregon)': (-122.76, 45.23, 'c', 'Aurora (comté de Marion, Oregon)'),
+    'Umpqua (rivière, Oregon)': (-123.5, 43.4, 'h', 'rivière Umpqua (Oregon)'),
 })
 
 
