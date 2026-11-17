@@ -732220,6 +732220,380 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.68,
+     45.52
+    ]
+   },
+   "properties": {
+    "id": "BL-blanchet-archeveque-portland",
+    "nom": "Portland : Blanchet (Archevêque)",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Blanchet (Archevêque)"
+    ],
+    "description": "Portland, 1852. Blanchet (Archevêque) dédie la première église catholique de Portland, élevée en 1851. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 66 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=BLANCHET+archevêque+",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.831,
+     46.188
+    ]
+   },
+   "properties": {
+    "id": "BL-mofras-astoria",
+    "nom": "Astoria (fort Astoria) : Mofras",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Mofras"
+    ],
+    "description": "Astoria (fort Astoria), 1841. Mofras décrit Astoria comme une misérable installation de squatters. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 131 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=MOFRAS",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "BL-gervais-joseph-oregon",
+    "nom": "Oregon : Joseph Gervais",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Gervais"
+    ],
+    "description": "Oregon, 1811. Joseph Gervais inscrit au premier registre paroissial catholique comme venu avec Hunt en 1811. D'après OHQ IV (1903). Autres lieux de l'entrée : Salem (Oregon).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 243-244, 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=GERVAIS",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.035,
+     44.94
+    ]
+   },
+   "properties": {
+    "id": "BL-gervais-joseph-salem-oreg",
+    "nom": "Salem (Oregon) : Joseph Gervais",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Gervais"
+    ],
+    "description": "Salem (Oregon), 1846. Joseph Gervais « trappeur canadien », guide du comité qui examine la piste des Cascades à partir d'une réunion tenue à Salem. D'après OHQ IV (1903). Autres lieux de l'entrée : Oregon.",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 243-244, 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=GERVAIS",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "BL-lucier-oregon",
+    "nom": "Oregon : Lucier",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lucier"
+    ],
+    "description": "Oregon, 1811. Lucier inscrit au premier registre paroissial catholique comme venu avec Hunt en 1811. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=LUCIER",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "BL-labonte-oregon",
+    "nom": "Oregon : Labonte",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Labonte"
+    ],
+    "description": "Oregon, 1811. Labonte inscrit au premier registre paroissial catholique comme venu avec Hunt en 1811. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=LABONTE",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "BL-dubruil-oregon",
+    "nom": "Oregon : Dubruil",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Dubruil"
+    ],
+    "description": "Oregon, 1811. Dubruil inscrit au premier registre paroissial catholique comme venu avec Hunt en 1811. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=DUBRUIL",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.63
+    ]
+   },
+   "properties": {
+    "id": "BL-labonte-louis-vancouver-",
+    "nom": "Vancouver (Washington) : Louis Labonte",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Labonte"
+    ],
+    "description": "Vancouver (Washington), 1856. Louis Labonte sert sous le capitaine Robert Newell pendant la guerre indienne ; avait vécu à Scappoose. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 264-266 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=LABONTE",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "BL-degrett-philip-oregon",
+    "nom": "Oregon : Philip Degrett",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Philip Degrett"
+    ],
+    "description": "Oregon, 1805. Philip Degrett de la troupe de Lewis et Clark, mort et enterré plus tard à la French settlement. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=DEGRETT",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "BL-rivet-francis-oregon",
+    "nom": "Oregon : Francis Rivet",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Rivet"
+    ],
+    "description": "Oregon, 1805. Francis Rivet de la troupe de Lewis et Clark, mort et enterré plus tard à la French settlement. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 389 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=RIVET",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.606,
+     45.357
+    ]
+   },
+   "properties": {
+    "id": "BL-le-breton-g-w-oregon-cit",
+    "nom": "Oregon City : G. W. Le Breton",
+    "corpus": "archive.org · OHQ IV (1903)",
+    "theme": "evenement",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "G. W. Le Breton"
+    ],
+    "description": "Oregon City, 1844. G. W. Le Breton greffier du tribunal, atteint à l'épaule lors de l'attaque d'un Indien, aide à le maîtriser. D'après OHQ IV (1903).",
+    "sources": "The Quarterly of the Oregon Historical Society, vol. IV (1903), p. 406 ; texte intégral : archive.org, quarterlyoforego04oreg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "OHQ IV (1903)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/quarterlyoforego04oreg?q=LE+BRETON",
+      "texte": "Lire OHQ IV (1903) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
