@@ -651470,6 +651470,482 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VV-la-lande-santa-fe",
+    "nom": "Santa Fe : La Lande",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Lande"
+    ],
+    "description": "Santa Fe, 1804. La Lande « French creole », agent d'un marchand de Kaskaskia, premier à tenter le commerce de Santa Fe. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 27-28 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=LA+LANDE",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.3,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "VV-chouteau-auguste-p-chouteau-s",
+    "nom": "Chouteau's Island, rivière Arkansas, Kansas : Auguste P. Chouteau",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1815.0,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Auguste P. Chouteau"
+    ],
+    "description": "Chouteau's Island, rivière Arkansas, Kansas, 1815. Auguste P. Chouteau traiteur et chef de trappeurs sur le haut Arkansas, à l'île qui porte son nom. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 38-46, 75 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=CHOUTEAU",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.98,
+     38.27
+    ]
+   },
+   "properties": {
+    "id": "VV-st-vrain-ceran-pawnee-roc",
+    "nom": "Pawnee Rock, piste de Santa Fe, Kansas : Ceran St. Vrain",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Pawnee Rock, piste de Santa Fe, Kansas, 1826. Ceran St. Vrain mène la charge contre les Pawnees. D'après Inman, The Old Santa Fé Trail (1897). Autres lieux de l'entrée : Bent's Fort (Fort William), Colorado, Mora, Nouveau-Mexique, Taos, Santa Fe.",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 124-131, 189, 295, 341, 389, 403-410 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=ST+VRAIN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "VV-st-vrain-ceran-bent-s-for",
+    "nom": "Bent's Fort (Fort William), Colorado : Ceran St. Vrain",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Bent's Fort (Fort William), Colorado, 1836. Ceran St. Vrain copropriétaire avec les Bent d'une caravane d'Independence au fort. D'après Inman, The Old Santa Fé Trail (1897). Autres lieux de l'entrée : Pawnee Rock, piste de Santa Fe, Kansas, Mora, Nouveau-Mexique, Taos, Santa Fe.",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 124-131, 189, 295, 341, 389, 403-410 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=ST+VRAIN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "VV-st-vrain-ceran-mora-nouve",
+    "nom": "Mora, Nouveau-Mexique : Ceran St. Vrain",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Mora, Nouveau-Mexique, vers 1845. Ceran St. Vrain possède une caravane de fret et un magasin à Mora. D'après Inman, The Old Santa Fé Trail (1897). Autres lieux de l'entrée : Pawnee Rock, piste de Santa Fe, Kansas, Bent's Fort (Fort William), Colorado, Taos, Santa Fe.",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 124-131, 189, 295, 341, 389, 403-410 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=ST+VRAIN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VV-st-vrain-ceran-taos",
+    "nom": "Taos : Ceran St. Vrain",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Taos, 1847. Ceran St. Vrain commande les cavaliers et combat au corps à corps à Taos. D'après Inman, The Old Santa Fé Trail (1897). Autres lieux de l'entrée : Pawnee Rock, piste de Santa Fe, Kansas, Bent's Fort (Fort William), Colorado, Mora, Nouveau-Mexique, Santa Fe.",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 124-131, 189, 295, 341, 389, 403-410 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=ST+VRAIN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VV-st-vrain-ceran-santa-fe",
+    "nom": "Santa Fe : Ceran St. Vrain",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Santa Fe, 1862. Ceran St. Vrain colonel des volontaires du Nouveau-Mexique. D'après Inman, The Old Santa Fé Trail (1897). Autres lieux de l'entrée : Pawnee Rock, piste de Santa Fe, Kansas, Bent's Fort (Fort William), Colorado, Mora, Nouveau-Mexique, Taos.",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 124-131, 189, 295, 341, 389, 403-410 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=ST+VRAIN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VV-beaubien-judge-taos",
+    "nom": "Taos : Judge Beaubien",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Judge Beaubien"
+    ],
+    "description": "Taos, 1847. Judge Beaubien juge président du district au procès des insurgés. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 117, 124, 132 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=BEAUBIEN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VV-beaubien-narcisse-taos",
+    "nom": "Taos : Narcisse Beaubien",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Narcisse Beaubien"
+    ],
+    "description": "Taos, 1847. Narcisse Beaubien fils du juge, tué lors du soulèvement. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 117, 124 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=BEAUBIEN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VV-brown-baptiste-taos",
+    "nom": "Taos : Baptiste Brown",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Brown"
+    ],
+    "description": "Taos, 1847. Baptiste Brown « a Frenchman », juré au procès des insurgés ; ancien trappeur avec Kit Carson, « a Canadian who spoke villanous French ». D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 133-136, 269-270 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=BROWN",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "VV-leroux-joaquin-taos",
+    "nom": "Taos : Joaquin Leroux",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joaquin Leroux"
+    ],
+    "description": "Taos, 1847. Joaquin Leroux éclaireur et guide de l'expédition du major Greer, jure contre lui en mauvais français. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 163-165 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=LEROUX",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "VV-rosalie-bent-s-for",
+    "nom": "Bent's Fort (Fort William), Colorado : Rosalie",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rosalie"
+    ],
+    "description": "Bent's Fort (Fort William), Colorado, vers 1846. Rosalie Française-Indienne, épouse du charpentier du fort. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 397 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=ROSALIE",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.22,
+     38.18
+    ]
+   },
+   "properties": {
+    "id": "VV-gurrier-ed-fort-larne",
+    "nom": "Fort Larned, Pawnee Fork, Kansas : Ed Gurrier",
+    "corpus": "archive.org · Inman, The Old Santa Fé Trail (1897)",
+    "theme": "poste",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ed Gurrier"
+    ],
+    "description": "Fort Larned, Pawnee Fork, Kansas, 1867. Ed Gurrier métis cheyenne, interprète et éclaireur du gouvernement lors de l'expédition Hancock. D'après Inman, The Old Santa Fé Trail (1897).",
+    "sources": "Henry Inman, The Old Santa Fé Trail: The Story of a Great Highway, Topeka, Crane & Company, 1899 (1re éd. 1897), p. 464-470 ; texte intégral : archive.org, oldsantaftrailst00inma.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Inman, The Old Santa Fé Trail (1897)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/oldsantaftrailst00inma?q=GURRIER",
+      "texte": "Lire Inman, The Old Santa Fé Trail (1897) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "VX-la-lande-santa-fe",
+    "nom": "Santa Fe : La Lande",
+    "corpus": "archive.org · Gregg, Commerce of the Prairies (1844), vol. I",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Lande"
+    ],
+    "description": "Santa Fe, 1804. La Lande créole français envoyé par Morrison de Kaskaskia ; garde les marchandises et s'établit au Nouveau-Mexique jusqu'à sa mort. D'après Gregg, Commerce of the Prairies (1844), vol. I.",
+    "sources": "Josiah Gregg, Commerce of the Prairies, vol. I, Philadelphie, J. W. Moore, 1850 (1re éd. 1844), p. 18 ; texte intégral : archive.org, commerceofprairi01greg.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Gregg, Commerce of the Prairies (1844), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/commerceofprairi01greg?q=LA+LANDE",
+      "texte": "Lire Gregg, Commerce of the Prairies (1844), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]

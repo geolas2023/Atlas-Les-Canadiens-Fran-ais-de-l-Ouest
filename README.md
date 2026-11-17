@@ -389,6 +389,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `illustratedhisto00readrich` | 50 |
 | `aconcisehistory00pringoog` | 24 |
 | `histnewmexico00prin` | 17 |
+| `oldsantaftrailst00inma` | 9 |
+| `commerceofprairi01greg` | 1 |
 
 
 ## Un point par lieu et adresses précises

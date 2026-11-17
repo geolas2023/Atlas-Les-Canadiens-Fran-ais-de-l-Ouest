@@ -1727,6 +1727,10 @@ G.update({
     'San Antonio (Nouveau-Mexique)': (-106.87, 33.92, 'c', 'San Antonio, Nouveau-Mexique'),
     'Watrous (Nouveau-Mexique)': (-104.98, 35.79, 'c', 'Watrous, Nouveau-Mexique'),
     'Tiguex (Bernalillo)': (-106.56, 35.33, 'h', 'Province de Tiguex, près de Bernalillo, Nouveau-Mexique'),
+    "Chouteau's Island (Kansas)": (-101.3, 37.92, 'h', "Chouteau's Island, rivière Arkansas, Kansas"),
+    'Pawnee Rock (Kansas)': (-98.98, 38.27, 'h', 'Pawnee Rock, piste de Santa Fe, Kansas'),
+    "Bent's Fort (Colorado)": (-103.43, 38.04, 'h', "Bent's Fort (Fort William), Colorado"),
+    'Fort Larned (Kansas)': (-99.22, 38.18, 'h', 'Fort Larned, Pawnee Fork, Kansas'),
 })
 
 
