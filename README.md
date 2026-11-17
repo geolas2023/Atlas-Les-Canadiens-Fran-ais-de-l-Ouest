@@ -470,6 +470,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofcalifor01hitt` | 1 |
 | `historicalsketch00blan` | 33 |
 | `historyofwillame00lang` | 44 |
+| `historyoforegon01banc` | 103 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
