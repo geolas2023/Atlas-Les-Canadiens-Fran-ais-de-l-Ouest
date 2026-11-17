@@ -1792,6 +1792,7 @@ G.update({
     'Fort Mann (Kansas)': (-100.05, 37.76, 'h', 'fort Mann, rivière Arkansas (Kansas)'),
     'Big Timbers (Colorado)': (-102.75, 38.08, 'h', "Big Timbers, villages cheyennes de l'Arkansas, Colorado"),
     'Purgatoire (Colorado)': (-103.2, 38.03, 'h', 'embouchure de la Purgatoire, Colorado'),
+    'Brighton (Colorado)': (-104.82, 39.99, 'h', 'Platte Sud, à 18 milles en aval de Denver (Brighton), Colorado'),
 })
 
 
