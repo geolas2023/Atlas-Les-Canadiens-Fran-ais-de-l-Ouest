@@ -761035,8 +761035,8 @@
     "personnages": [
      "Jacques Raphael Finlay (« Jocko »)"
     ],
-    "description": "Spokane House, 1810. Jacques Raphael Finlay (« Jocko ») chargé par David Thompson de bâtir Spokane House, 7 mai 1810. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XIII, p. 198-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "description": "Spokane House, 1810. Jacques Raphael Finlay (« Jocko »), né à vers 1768, mère probablement saulteuse, chargé par David Thompson de bâtir Spokane House, 7 mai 1810, et commis en charge jusqu'en 1812. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 163-167 ; XIII, p. 198-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -761069,8 +761069,42 @@
     "personnages": [
      "Jacques Raphael Finlay (« Jocko »)"
     ],
-    "description": "Spokane House, 1811. Jacques Raphael Finlay (« Jocko ») en charge du poste à l'arrivée de Thompson en juin. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XIII, p. 198-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "description": "Spokane House, 1811. Jacques Raphael Finlay (« Jocko »), né à vers 1768, mère probablement saulteuse, en charge du poste à l'arrivée de Thompson en juin. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 163-167 ; XIII, p. 198-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-finlay-jacques-raphael-jocko-spokane-ho-3",
+    "nom": "Spokane House : Jacques Raphael Finlay (« Jocko »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Raphael Finlay (« Jocko »)"
+    ],
+    "description": "Spokane House, 1826. Jacques Raphael Finlay (« Jocko »), né à vers 1768, mère probablement saulteuse, vit au vieux Spokane House, où John Work et David Douglas le rencontrent. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 163-167 ; XIII, p. 198-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -761528,6 +761562,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-lapoitrie-j-bte-nisqually",
+    "nom": "Nisqually : J. Bte. Lapoitrie",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Bte. Lapoitrie"
+    ],
+    "description": "Nisqually, 1849. J. Bte. Lapoitrie convois de blé du Cowlitz et de Newaukum vers Tinalquot, barrage sur la Sequallitch. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XI-XIII, passim ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.9,
      46.5
     ]
@@ -761567,7 +761635,7 @@
     ]
    },
    "properties": {
-    "id": "CA-lapoitrie-j-bte-nisqually",
+    "id": "CA-lapoitrie-j-bte-nisqually-2",
     "nom": "Nisqually : J. Bte. Lapoitrie",
     "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "theme": "personnage",
@@ -761741,6 +761809,74 @@
     "nom": "Olympia (Washington) : Pascal Ricard (père)",
     "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pascal Ricard (père)"
+    ],
+    "description": "Olympia (Washington), 1848. Pascal Ricard (père) fonde la mission Saint-Joseph le 14 juin 1848 près de Priest Point. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-ricard-pascal-pere-nisqually",
+    "nom": "Nisqually : Pascal Ricard (père)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "religion",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pascal Ricard (père)"
+    ],
+    "description": "Nisqually, 1849. Pascal Ricard (père) vient voir Mr. Douglas en mai, avec le père Lempfrit. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Olympia (Washington).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     47.04
+    ]
+   },
+   "properties": {
+    "id": "CA-ricard-pascal-pere-olympia-wa-2",
+    "nom": "Olympia (Washington) : Pascal Ricard (père)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "religion",
     "debut": 1851.0,
     "fin": 1851.0,
     "date_edtf": "1851",
@@ -761749,7 +761885,7 @@
     "personnages": [
      "Pascal Ricard (père)"
     ],
-    "description": "Olympia (Washington), 1851. Pascal Ricard (père) prêtre de la mission Saint-Joseph, reçoit du bœuf de Nisqually en janvier. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "description": "Olympia (Washington), 1851. Pascal Ricard (père) prêtre de la mission Saint-Joseph, reçoit du bœuf de Nisqually en janvier. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually.",
     "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
@@ -761772,6 +761908,40 @@
    },
    "properties": {
     "id": "CA-bastien-isaac-nisqually",
+    "nom": "Nisqually : Isaac Bastien",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Isaac Bastien"
+    ],
+    "description": "Nisqually, 1849. Isaac Bastien imprimé « Bastien », travaille au nouvel abattoir, 11 août. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-bastien-isaac-nisqually-2",
     "nom": "Nisqually : Isaac Bastien",
     "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "theme": "personnage",
@@ -761911,6 +762081,40 @@
     "nom": "Nisqually : Lecaille",
     "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lecaille"
+    ],
+    "description": "Nisqually, 1849. Lecaille imprimé « L'caille », envoie 80 moutons à Tinalquot, 19 mars. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X ; XIII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-lecaille-nisqually-2",
+    "nom": "Nisqually : Lecaille",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
     "debut": 1851.0,
     "fin": 1851.0,
     "date_edtf": "1851",
@@ -761920,7 +762124,7 @@
      "Lecaille"
     ],
     "description": "Nisqually, 1851. Lecaille porte lettres et comptes des serviteurs à Victoria, septembre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
-    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XIII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X ; XIII ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
@@ -762023,6 +762227,618 @@
     ],
     "description": "Nisqually, 1852. Modeste Demers (évêque) évêque de l'île de Vancouver, arrive au poste le 18 août. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
     "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XV ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.55,
+     47.78
+    ]
+   },
+   "properties": {
+    "id": "CA-kinville-michel-spokane-ho",
+    "nom": "Spokane House : Michel Kinville",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "poste",
+    "debut": 1811.0,
+    "fin": 1811.0,
+    "date_edtf": "1811",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Kinville"
+    ],
+    "description": "Spokane House, 1811. Michel Kinville en charge de Lake Indian House sur la Kootenay, reçoit l'ordre le 14 novembre d'abandonner le poste et d'en porter les marchandises à Spokane House. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 165 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-charles-pierre-nisqually",
+    "nom": "Nisqually : Pierre Charles",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Charles"
+    ],
+    "description": "Nisqually, 1833. Pierre Charles serviteur, chasseur et guide de la CBH ; accompagne Heron à l'île Whidbey. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-charles-pierre-nisqually-2",
+    "nom": "Nisqually : Pierre Charles",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Charles"
+    ],
+    "description": "Nisqually, 1834. Pierre Charles chasse dans les îles du Sound, février. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Cowlitz.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "CA-charles-pierre-cowlitz",
+    "nom": "Cowlitz : Pierre Charles",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Charles"
+    ],
+    "description": "Cowlitz, 1841. Pierre Charles retiré sur le Cowlitz, guide le groupe Johnson de l'expédition Wilkes à travers les Cascades. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-ouvrie-william-j-b-ouvrie-nisqually",
+    "nom": "Nisqually : William Ouvrie (« J. B. Ouvrie »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "William Ouvrie (« J. B. Ouvrie »)"
+    ],
+    "description": "Nisqually, 1833. William Ouvrie (« J. B. Ouvrie ») serviteur : paquets de castor, voyage au fort Langley, planches de cèdre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : île Whidbey (Washington).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6,
+     48.2
+    ]
+   },
+   "properties": {
+    "id": "CA-ouvrie-william-j-b-ouvrie-ile-whidbe",
+    "nom": "Île Whidbey (Washington) : William Ouvrie (« J. B. Ouvrie »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "William Ouvrie (« J. B. Ouvrie »)"
+    ],
+    "description": "Île Whidbey (Washington), 1833. William Ouvrie (« J. B. Ouvrie ») envoyé en décembre fonder un poste sur l'île Whidbey. D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : Nisqually.",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-ouvrie-william-j-b-ouvrie-nisqually-2",
+    "nom": "Nisqually : William Ouvrie (« J. B. Ouvrie »)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "William Ouvrie (« J. B. Ouvrie »)"
+    ],
+    "description": "Nisqually, 1834. William Ouvrie (« J. B. Ouvrie ») traite chez les Klallams, rivière « Ouvre » (Duwamish). D'après Washington Historical Quarterly, 1906-1928 (articles choisis). Autres lieux de l'entrée : île Whidbey (Washington).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     47.01
+    ]
+   },
+   "properties": {
+    "id": "CA-vivet-louis-tumwater-w",
+    "nom": "Chutes Des Chutes (Tumwater, Washington) : Louis Vivet",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Vivet"
+    ],
+    "description": "Chutes Des Chutes (Tumwater, Washington), 1833. Louis Vivet arrive à la Chute avec des marchandises de traite, 30 juillet ; ancien de l'expédition McMillan de 1824. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-bourgeau-nisqually",
+    "nom": "Nisqually : Bourgeau",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bourgeau"
+    ],
+    "description": "Nisqually, 1833. Bourgeau serviteur, ramène les bœufs près de la Grand Prairie ; probablement Alexis Aubuchou, de l'expédition McMillan. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), VI (Journal of Occurrences at Nisqually House) ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-thibeault-nisqually",
+    "nom": "Nisqually : Thibeault",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Thibeault"
+    ],
+    "description": "Nisqually, 1849. Thibeault serviteur : bétail, bœufs sauvages, garde de la porte lors de l'affray du 1er mai. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 205-230 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "CA-ledoux-louis-cowlitz",
+    "nom": "Cowlitz : Louis Ledoux",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Ledoux"
+    ],
+    "description": "Cowlitz, 1849. Louis Ledoux part de Nisqually pour le Cowlitz le 19 mars. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 205-230 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-farron-dominique-nisqually",
+    "nom": "Nisqually : Dominique Farron",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Dominique Farron"
+    ],
+    "description": "Nisqually, 1849. Dominique Farron arrive du Cowlitz le 13 mai. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 205-230 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-chirouse-eugene-casimir-pere-nisqually",
+    "nom": "Nisqually : Eugene Casimir Chirouse (père)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "religion",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Eugene Casimir Chirouse (père)"
+    ],
+    "description": "Nisqually, 1849. Eugene Casimir Chirouse (père) arrive avec Blanchet le 25 avril ; missionnaire oblat chez les Yakimas. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 205-230 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-blanchet-a-m-a-eveque-nisqually",
+    "nom": "Nisqually : A. M. A. Blanchet (évêque)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "A. M. A. Blanchet (évêque)"
+    ],
+    "description": "Nisqually, 1849. A. M. A. Blanchet (évêque) arrive avec le père Chirouse le 25 avril. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 205-230 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-lempfrit-pere-nisqually",
+    "nom": "Nisqually : Lempfrit (Père)",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "religion",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lempfrit (Père)"
+    ],
+    "description": "Nisqually, 1849. Lempfrit (Père) prêtre, vient avec Ricard en mai et part avec le groupe de Douglas le 1er juin. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), X, p. 205-230 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7,
+     47.07
+    ]
+   },
+   "properties": {
+    "id": "CA-pambrun-thomas-nisqually",
+    "nom": "Nisqually : Thomas Pambrun",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Thomas Pambrun"
+    ],
+    "description": "Nisqually, 1849. Thomas Pambrun accompagne un groupe armé, octobre. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XI ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.905,
+     48.546
+    ]
+   },
+   "properties": {
+    "id": "CA-martin-joseph-colville-w",
+    "nom": "Colville (comté de Stevens, Washington) : Joseph Martin",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Martin"
+    ],
+    "description": "Colville (comté de Stevens, Washington), 1863. Joseph Martin, né à « Canadien français », participe à la poursuite de Charlie Harper. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XVI, p. 199-201 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
+    "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
+    "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "voir_aussi": [
+     {
+      "url": "https://journals.lib.washington.edu/index.php/WHQ",
+      "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.905,
+     48.546
+    ]
+   },
+   "properties": {
+    "id": "CA-lafleur-joseph-colville-w",
+    "nom": "Colville (comté de Stevens, Washington) : Joseph Lafleur",
+    "corpus": "archive.org · Washington Historical Quarterly, 1906-1928 (articles choisis)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Lafleur"
+    ],
+    "description": "Colville (comté de Stevens, Washington), 1863. Joseph Lafleur, né à sang-mêlé okanagan, participe à la poursuite de Charlie Harper. D'après Washington Historical Quarterly, 1906-1928 (articles choisis).",
+    "sources": "The Washington Historical Quarterly, vol. I-XIX, Seattle, 1906-1928 (journals.lib.washington.edu/index.php/WHQ), XVI, p. 199-200 ; transcription en ligne : https://journals.lib.washington.edu/index.php/WHQ.",
     "note": "Repérage dans la transcription en ligne du livre, à vérifier dans l'original ; localisation attribuée par l'atlas.",
     "livre": "Washington Historical Quarterly, 1906-1928 (articles choisis)",
     "voir_aussi": [
