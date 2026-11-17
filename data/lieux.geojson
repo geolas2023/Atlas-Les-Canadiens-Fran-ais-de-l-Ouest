@@ -639298,6 +639298,890 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VG-bienville-jean-baptiste-le-m-mobile",
+    "nom": "Mobile : Jean Baptiste Le Moyne, sieur de Bienville",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "evenement",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Baptiste Le Moyne, sieur de Bienville"
+    ],
+    "description": "Mobile, 1702. Jean Baptiste Le Moyne, sieur de Bienville, né à Montréal, 1680, fonde l'établissement et gouverne la colonie, Mobile restant siège du gouvernement jusqu'en 1723. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Fort Toulouse des Alibamons (Alabama).",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 149 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=BIENVILLE",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "VG-bienville-jean-baptiste-le-m-fort-toulo",
+    "nom": "Fort Toulouse des Alibamons (Alabama) : Jean Baptiste Le Moyne, sieur de Bienville",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "poste",
+    "debut": 1714.0,
+    "fin": 1714.0,
+    "date_edtf": "1714",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Baptiste Le Moyne, sieur de Bienville"
+    ],
+    "description": "Fort Toulouse des Alibamons (Alabama), 1714. Jean Baptiste Le Moyne, sieur de Bienville, né à Montréal, 1680, établit le fort. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Mobile.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 149 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=BIENVILLE",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.0,
+     30.5
+    ]
+   },
+   "properties": {
+    "id": "VG-iberville-pierre-le-moyne-si-baie-de-mo",
+    "nom": "Baie de Mobile, Alabama : Pierre le Moyne, sieur de Iberville",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre le Moyne, sieur de Iberville"
+    ],
+    "description": "Baie de Mobile, Alabama, 1699. Pierre le Moyne, sieur de Iberville, né à Montréal, 1661, explore la baie. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : île Dauphine (Alabama), Mobile.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 878 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=IBERVILLE",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "VG-iberville-pierre-le-moyne-si-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Pierre le Moyne, sieur de Iberville",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre le Moyne, sieur de Iberville"
+    ],
+    "description": "Île Dauphine (Alabama), 1699. Pierre le Moyne, sieur de Iberville, né à Montréal, 1661, reconnaît l'île Massacre. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Baie de Mobile, Alabama, Mobile.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 878 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=IBERVILLE",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VG-iberville-pierre-le-moyne-si-mobile",
+    "nom": "Mobile : Pierre le Moyne, sieur de Iberville",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1701.0,
+    "fin": 1701.0,
+    "date_edtf": "1701",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre le Moyne, sieur de Iberville"
+    ],
+    "description": "Mobile, 1701. Pierre le Moyne, sieur de Iberville, né à Montréal, 1661, premier gouverneur de la Louisiane, fait occuper Mobile et l'île Dauphine. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Baie de Mobile, Alabama, île Dauphine (Alabama).",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 878 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=IBERVILLE",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VG-bossu-f-mobile",
+    "nom": "Mobile : F. Bossu",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "F. Bossu"
+    ],
+    "description": "Mobile, 1758. F. Bossu capitaine des troupes de la marine, renvoyé à Mobile par Kerlerec. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Fort Tombecbé (Alabama), Fort Toulouse des Alibamons (Alabama).",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 175 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=BOSSU",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.2,
+     32.53
+    ]
+   },
+   "properties": {
+    "id": "VG-bossu-f-fort-tombe",
+    "nom": "Fort Tombecbé (Alabama) : F. Bossu",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "poste",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "F. Bossu"
+    ],
+    "description": "Fort Tombecbé (Alabama), 1758. F. Bossu conduit un convoi au fort. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Mobile, Fort Toulouse des Alibamons (Alabama).",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 175 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=BOSSU",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "VG-bossu-f-fort-toulo",
+    "nom": "Fort Toulouse des Alibamons (Alabama) : F. Bossu",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "poste",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "F. Bossu"
+    ],
+    "description": "Fort Toulouse des Alibamons (Alabama), 1758. F. Bossu remonte l'Alabama et la Coosa jusqu'au fort. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Mobile, Fort Tombecbé (Alabama).",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 175 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=BOSSU",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.836,
+     32.517
+    ]
+   },
+   "properties": {
+    "id": "VG-lefebvre-desnouettes-charles-demopolis-",
+    "nom": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama) : Charles Lefebvre Desnouettes",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "evenement",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Lefebvre Desnouettes"
+    ],
+    "description": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama), vers 1818. Charles Lefebvre Desnouettes, né en 1773, lieutenant général et comte, l'un des plus riches émigrés français de Demopolis ; noyé en 1823 au large de l'Irlande. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 483 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=LEFEBVRE+DESNOUETTES",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.836,
+     32.517
+    ]
+   },
+   "properties": {
+    "id": "VG-chaudron-julius-de-la-g-demopolis-",
+    "nom": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama) : Julius de la G. Chaudron",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julius de la G. Chaudron"
+    ],
+    "description": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama), 1819. Julius de la G. Chaudron, né à Philadelphie, 1799. Pionnier de la colonie française de la Vigne et de l'Olivier, dont il est le dernier survivant. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Marion Junction, comté de Dallas, Alabama.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 315, 322 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=CHAUDRON",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.24,
+     32.43
+    ]
+   },
+   "properties": {
+    "id": "VG-chaudron-julius-de-la-g-marion-jun",
+    "nom": "Marion Junction, comté de Dallas, Alabama : Julius de la G. Chaudron",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Julius de la G. Chaudron"
+    ],
+    "description": "Marion Junction, comté de Dallas, Alabama, 1877. Julius de la G. Chaudron, né à Philadelphie, 1799, y meurt le 4 mars. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3. Autres lieux de l'entrée : Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama).",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 315, 322 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=CHAUDRON",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.57,
+     33.21
+    ]
+   },
+   "properties": {
+    "id": "VG-deloffre-andre-tuscaloosa",
+    "nom": "Tuscaloosa (Tuskaloosa), Alabama : Andre Deloffre",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1865.999,
+    "date_edtf": "1855/1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Andre Deloffre"
+    ],
+    "description": "Tuscaloosa (Tuskaloosa), Alabama, 1855-1865. Andre Deloffre professeur de langues modernes à l'Université de l'Alabama. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 478 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=DELOFFRE",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.7,
+     34.73
+    ]
+   },
+   "properties": {
+    "id": "VG-desprez-william-tuscumbia-",
+    "nom": "Tuscumbia, Alabama : William Desprez",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1878.0,
+    "fin": 1878.0,
+    "date_edtf": "1878",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Desprez"
+    ],
+    "description": "Tuscumbia, Alabama, 1878. William Desprez, né à Paris, médecin, pionnier catholique du nord de l'Alabama ; y meurt le 16 octobre. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 483-484 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=DESPREZ",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VG-hausman-jacques-c-montgomery",
+    "nom": "Montgomery (Alabama) : Jacques C. Hausman",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques C. Hausman"
+    ],
+    "description": "Montgomery (Alabama), 1867. Jacques C. Hausman, né à Haguenau, 1818, négociant en gros, commissaire à l'Exposition de Paris. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 770 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=HAUSMAN",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VG-hausman-jacques-c-montgomery-2",
+    "nom": "Montgomery (Alabama) : Jacques C. Hausman",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1886.0,
+    "fin": 1886.0,
+    "date_edtf": "1886",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques C. Hausman"
+    ],
+    "description": "Montgomery (Alabama), 1886. Jacques C. Hausman, né à Haguenau, 1818, y meurt. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 770 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=HAUSMAN",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VG-hausman-caroline-j-montgomery",
+    "nom": "Montgomery (Alabama) : Caroline J. Hausman",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Caroline J. Hausman"
+    ],
+    "description": "Montgomery (Alabama), 1861. Caroline J. Hausman, né à Saverne, 1832, fonde et préside la Hebrew Ladies Benevolent Society. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 770 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=HAUSMAN",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VG-hausman-caroline-j-montgomery-2",
+    "nom": "Montgomery (Alabama) : Caroline J. Hausman",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1901.0,
+    "fin": 1901.0,
+    "date_edtf": "1901",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Caroline J. Hausman"
+    ],
+    "description": "Montgomery (Alabama), 1901. Caroline J. Hausman, né à Saverne, 1832, y meurt. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 770 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=HAUSMAN",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VG-gaboury-joseph-a-montgomery",
+    "nom": "Montgomery (Alabama) : Joseph A. Gaboury",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1885.0,
+    "date_edtf": "1885",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph A. Gaboury"
+    ],
+    "description": "Montgomery (Alabama), 1885. Joseph A. Gaboury, né à près de Montréal, 1852, ingénieur, construit le premier réseau de tramway électrique réussi des États-Unis. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 3, p. 623-624 ; texte intégral : archive.org, historyalabamaa02owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa02owengoog?q=GABOURY",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 3 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VH-loeb-jacques-montgomery",
+    "nom": "Montgomery (Alabama) : Jacques Loeb",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1912.999,
+    "date_edtf": "1872/1912",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Loeb"
+    ],
+    "description": "Montgomery (Alabama), 1872-1912. Jacques Loeb, né à Reichshoffen, 1855, négociant en gros, épicerie et nouveautés ; y meurt. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, p. 1061 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=LOEB",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.0,
+     32.3
+    ]
+   },
+   "properties": {
+    "id": "VH-milfort-leclerc-coweta-cre",
+    "nom": "Coweta et Cusseta, villages creeks de la Chattahoochee : Leclerc Milfort",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1776.0,
+    "fin": 1776.0,
+    "date_edtf": "1776",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Leclerc Milfort"
+    ],
+    "description": "Coweta et Cusseta, villages creeks de la Chattahoochee, 1776. Leclerc Milfort, né à Tiriles-Moutiers, près de Mézières, c. 1750, s'établit chez les Creeks après un duel en France ; vingt ans dans la nation, au Hickory Ground et à Little Tallassee ; tustenuggee, chef de guerre. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, p. 1199 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=MILFORT",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VH-portier-michael-mobile",
+    "nom": "Mobile : Michael Portier",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1826.0,
+    "fin": 1826.0,
+    "date_edtf": "1826",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michael Portier"
+    ],
+    "description": "Mobile, 1826. Michael Portier, né à Montbrison, 1795, sacré évêque, premier évêque de Mobile. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, p. 1380 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=PORTIER",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.02,
+     32.41
+    ]
+   },
+   "properties": {
+    "id": "VH-savary-joseph-selma-alab",
+    "nom": "Selma, Alabama : Joseph Savary",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Savary"
+    ],
+    "description": "Selma, Alabama, 1871. Joseph Savary, né à France, 1788, ancien tambour de l'armée de Napoléon, établi d'abord dans le comté de Marengo ; y meurt le 6 août. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, vol. 4 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=SAVARY",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VH-sanguinetti-paul-montgomery",
+    "nom": "Montgomery (Alabama) : Paul Sanguinetti",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Paul Sanguinetti"
+    ],
+    "description": "Montgomery (Alabama), 1867. Paul Sanguinetti, né à Corse, 1847, s'établit à Montgomery. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, vol. 4 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=SANGUINETTI",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VH-sanguinetti-paul-montgomery-2",
+    "nom": "Montgomery (Alabama) : Paul Sanguinetti",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Paul Sanguinetti"
+    ],
+    "description": "Montgomery (Alabama), 1874. Paul Sanguinetti, né à Corse, 1847, officier d'ordonnance de l'état-major du gouverneur Houston. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, vol. 4 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=SANGUINETTI",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VH-st-paul-henry-mobile",
+    "nom": "Mobile : Henry St. Paul",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry St. Paul"
+    ],
+    "description": "Mobile, vers 1865. Henry St. Paul, né à Anvers, 1815, fils d'un Parisien, enfance à Paris ; avocat à La Nouvelle-Orléans dès 1841, puis à Mobile après la guerre. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, p. 1609 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=ST+PAUL",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VH-robert-paul-jones-mobile",
+    "nom": "Mobile : Paul Jones Robert",
+    "corpus": "archive.org · Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul Jones Robert"
+    ],
+    "description": "Mobile, 1879. Paul Jones Robert journaliste, avocat et linguiste de La Nouvelle-Orléans, fils d'un natif de France ; épouse Kate Ayers à Battles Wharf. D'après Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4.",
+    "sources": "Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 4, p. 1445 ; texte intégral : archive.org, historyalabamaa03owengoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyalabamaa03owengoog?q=ROBERT",
+      "texte": "Lire Owen, History of Alabama and Dictionary of Alabama Biography (1921), vol. 4 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
