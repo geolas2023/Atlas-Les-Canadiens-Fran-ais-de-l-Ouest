@@ -432,6 +432,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `voyageencaliforn00auge` | 30 |
 | `historyoflosange00wils` | 28 |
 | `illustratedhistoflacty00lewi` | 39 |
+| `historyoftuolumn00lang` | 20 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
