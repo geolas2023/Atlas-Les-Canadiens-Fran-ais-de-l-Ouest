@@ -663880,6 +663880,720 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -103.22,
+     38.07
+    ]
+   },
+   "properties": {
+    "id": "YH-mallet-las-animas",
+    "nom": "Las Animas (comté de Bent), Colorado : Mallet",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Mallet"
+    ],
+    "description": "Las Animas (comté de Bent), Colorado, 1739. Mallet. Les frères Mallet, traiteurs français, remontent la Platte et traversent le Colorado jusqu'à l'Arkansas près de la Purgatoire, puis gagnent Santa Fe. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 266 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=MALLET",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "YH-satren-pierre-santa-fe",
+    "nom": "Santa Fe : Pierre Satren",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1749.0,
+    "fin": 1749.0,
+    "date_edtf": "1749",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Satren"
+    ],
+    "description": "Santa Fe, 1749. Pierre Satren conduit un parti à Santa Fe par la route de l'Arkansas à travers le Colorado. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 266 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=SATREN",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "YH-chapuis-jean-santa-fe",
+    "nom": "Santa Fe : Jean Chapuis",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1751.0,
+    "fin": 1751.0,
+    "date_edtf": "1751",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Chapuis"
+    ],
+    "description": "Santa Fe, 1751. Jean Chapuis muni d'une commission du fort de Chartres, propose un commerce de caravanes entre les Illinois et Santa Fe ; arrêté et détenu des mois à Mexico. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 266-267 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=CHAPUIS",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.24,
+     38.44
+    ]
+   },
+   "properties": {
+    "id": "YH-vasquez-a-f-canon-city",
+    "nom": "Cañon City, Colorado : A. F. Vasquez",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1807.999,
+    "date_edtf": "1806/1807",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "A. F. Vasquez"
+    ],
+    "description": "Cañon City, Colorado, 1806-1807. A. F. Vasquez « Baroney », d'une famille française de Saint-Louis, interprète de Pike, laissé au fortin pour garder chevaux et bagages. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 284, 286-287 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=VASQUEZ",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YH-vasquez-a-pike-denver-col",
+    "nom": "Denver (Colorado) : A. Pike Vasquez",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "A. Pike Vasquez"
+    ],
+    "description": "Denver (Colorado), vers 1860. A. Pike Vasquez fils de l'interprète de Pike, homme d'affaires de Denver. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 287 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=VASQUEZ",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82,
+     40.19
+    ]
+   },
+   "properties": {
+    "id": "YH-vasquez-louis-fort-vasqu",
+    "nom": "Fort Vasquez (Platte Sud), Colorado : Louis Vasquez",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Vasquez"
+    ],
+    "description": "Fort Vasquez (Platte Sud), Colorado, 1837. Louis Vasquez frère de l'interprète de Pike, traiteur ; bâtit le fort Vasquez avec Andrew Sublette. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 287, 309, 324 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=VASQUEZ",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "YH-phillebert-huerfano",
+    "nom": "Ruisseau Huerfano : Phillebert",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1816.999,
+    "date_edtf": "1814/1816",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Phillebert"
+    ],
+    "description": "Ruisseau Huerfano, 1814-1816. Phillebert mène des partis de trappeurs sur l'Arkansas et le Huerfano ; cède son équipement à Chouteau et De Munn. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 301-302 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=PHILLEBERT",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     37.7
+    ]
+   },
+   "properties": {
+    "id": "YH-chouteau-a-p-huerfano",
+    "nom": "Ruisseau Huerfano : A. P. Chouteau",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1815.0,
+    "fin": 1817.999,
+    "date_edtf": "1815/1817",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "A. P. Chouteau"
+    ],
+    "description": "Ruisseau Huerfano, 1815-1817. A. P. Chouteau dirige la trappe sur le haut Arkansas et le Huerfano ; marchandises confisquées à Santa Fe. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 302-303 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=CHOUTEAU",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     38.4
+    ]
+   },
+   "properties": {
+    "id": "YH-bijeau-haut-arkan",
+    "nom": "Haut Arkansas, Colorado : Bijeau",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1817.999,
+    "date_edtf": "1816/1817",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Bijeau"
+    ],
+    "description": "Haut Arkansas, Colorado, 1816-1817. Bijeau Canadien français, trappeur du parti Chouteau-De Munn. D'après History of Colorado I (1927). Autres lieux de l'entrée : Denver (Colorado).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 291, 293, 303 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=BIJEAU",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "YH-bijeau-denver-col",
+    "nom": "Denver (Colorado) : Bijeau",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bijeau"
+    ],
+    "description": "Denver (Colorado), 1820. Bijeau guide et interprète de l'expédition Long. D'après History of Colorado I (1927). Autres lieux de l'entrée : haut Arkansas, Colorado.",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 291, 293, 303 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=BIJEAU",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YH-ledoux-maurice-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice Ledoux",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice Ledoux"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, vers 1830. Maurice Ledoux traiteur français venu de Détroit, tient un poste près de l'Arkansas. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 321-322 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=LEDOUX",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YH-ledoux-maurice-adobe-cree-2",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice Ledoux",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice Ledoux"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, 1838. Maurice Ledoux repousse une bande de Sioux et d'Arapahoes. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 321-322 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=LEDOUX",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YH-ledoux-maurice-adobe-cree-3",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Maurice Ledoux",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice Ledoux"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, 1843. Maurice Ledoux rencontré par Frémont. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 321-322 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=LEDOUX",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     40.7
+    ]
+   },
+   "properties": {
+    "id": "YH-gervais-jean-baptiste-north-park",
+    "nom": "North Park, Colorado : Jean Baptiste Gervais",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Baptiste Gervais"
+    ],
+    "description": "North Park, Colorado, 1830. Jean Baptiste Gervais mène avec Henry Fraeb un parti de trappeurs dans les North et Middle Parks et sur la Yampa. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 314 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=GERVAIS",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.05,
+     38.75
+    ]
+   },
+   "properties": {
+    "id": "YH-robidoux-fort-uncom",
+    "nom": "Fort Robidoux (Uncompahgre) : Robidoux",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "poste",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robidoux"
+    ],
+    "description": "Fort Robidoux (Uncompahgre), 1824. Robidoux trappeur et traiteur, bâtit le fort Robidoux sur la Gunnison. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 308, 315, 325, 330, 337 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=ROBIDOUX",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.05,
+     38.75
+    ]
+   },
+   "properties": {
+    "id": "YH-robidoux-fort-uncom-2",
+    "nom": "Fort Robidoux (Uncompahgre) : Robidoux",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Robidoux"
+    ],
+    "description": "Fort Robidoux (Uncompahgre), 1842. Robidoux Sage voyage avec lui depuis Taos ; Whitman passe à son fort. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 308, 315, 325, 330, 337 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=ROBIDOUX",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "YH-st-vrain-ceran-fort-saint",
+    "nom": "Fort Saint-Vrain (South Platte) : Ceran St. Vrain",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "poste",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain"
+    ],
+    "description": "Fort Saint-Vrain (South Platte), vers 1838. Ceran St. Vrain associé de Bent & St. Vrain, fort Saint-Vrain sur la Platte Sud. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 309, 316, 325 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=ST+VRAIN",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     38.15
+    ]
+   },
+   "properties": {
+    "id": "YH-beaubien-adobe-cree",
+    "nom": "Adobe Creek, vallée de l'Arkansas, Colorado : Beaubien",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Beaubien"
+    ],
+    "description": "Adobe Creek, vallée de l'Arkansas, Colorado, vers 1840. Beaubien dirige l'établissement d'Adobe Creek. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 322 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=BEAUBIEN",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.95,
+     40.25
+    ]
+   },
+   "properties": {
+    "id": "YH-charbonneau-bijou-cree",
+    "nom": "Embouchure du Bijou Creek (Platte Sud), Colorado : Charbonneau",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charbonneau"
+    ],
+    "description": "Embouchure du Bijou Creek (Platte Sud), Colorado, 1842. Charbonneau « half-breed Frenchman », mène un parti de trappeurs de Bent et St. Vrain qui garde ses fourrures sur une île près de l'embouchure du Bijou. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 329-330 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=CHARBONNEAU",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.9,
+     37.6
+    ]
+   },
+   "properties": {
+    "id": "YH-leroux-antoine-san-luis-v",
+    "nom": "Vallée de San Luis : Antoine Leroux",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Leroux"
+    ],
+    "description": "Vallée de San Luis, 1853. Antoine Leroux guide engagé à Taos par le lieutenant Beckwith pour l'expédition Gunnison. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 347 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=LEROUX",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.18,
+     39.87
+    ]
+   },
+   "properties": {
+    "id": "YH-truedeau-pierre-beecher-is",
+    "nom": "Île Beecher, fourche Arikaree de la Republican, Colorado : Pierre Truedeau",
+    "corpus": "archive.org · History of Colorado I (1927)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Truedeau"
+    ],
+    "description": "Île Beecher, fourche Arikaree de la Republican, Colorado, 1868. Pierre Truedeau « experienced trapper », porte le message de détresse de l'île Beecher. D'après History of Colorado I (1927).",
+    "sources": "History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado, p. 412 ; texte intégral : archive.org, historycolorad01stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "History of Colorado I (1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historycolorad01stat?q=TRUEDEAU",
+      "texte": "Lire History of Colorado I (1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
