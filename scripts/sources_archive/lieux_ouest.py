@@ -1951,6 +1951,9 @@ G.update({
     'Josephine (comté, Oregon)': (-123.6, 42.4, 'h', 'comté de Josephine (Oregon)'),
     'Aurora (Oregon)': (-122.76, 45.23, 'c', 'Aurora (comté de Marion, Oregon)'),
     'Umpqua (rivière, Oregon)': (-123.5, 43.4, 'h', 'rivière Umpqua (Oregon)'),
+    'Cap Disappointment': (-124.05, 46.28, 'a', 'cap Disappointment (embouchure du Columbia)'),
+    'Rivière Platte': (-100.0, 41.0, 'h', 'rivière Platte'),
+    'Villages arikaras (Missouri)': (-100.55, 45.55, 'a', 'villages arikaras (embouchure de la Grand River, Dakota du Sud)'),
 })
 
 
