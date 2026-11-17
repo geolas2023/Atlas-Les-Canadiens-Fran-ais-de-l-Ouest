@@ -363,6 +363,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historymiddlete00putngoog` | 6 |
 | `historyofdavidso00clay` | 12 |
 | `standardhistoryo00youn` | 19 |
+| `tennesseehistori02tennuoft` | 8 |
+| `tennesseehistori04tennuoft` | 4 |
+| `tennesseehistori05tennuoft` | 1 |
 
 
 ## Un point par lieu et adresses précises
