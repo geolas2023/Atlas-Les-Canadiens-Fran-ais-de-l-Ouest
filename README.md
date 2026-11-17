@@ -495,6 +495,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofwashing01hawt` | 16 |
 | `lymanshistoryofo01lyma` | 72 |
 | `illustratedhisto00edwa` | 34 |
+| `historyofcityofs01durh` | 66 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
