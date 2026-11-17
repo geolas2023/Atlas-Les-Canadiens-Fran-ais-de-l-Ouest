@@ -640182,6 +640182,890 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "VJ-iberville-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Iberville",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1699.0,
+    "fin": 1699.0,
+    "date_edtf": "1699~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Iberville"
+    ],
+    "description": "Île Dauphine (Alabama), vers 1699. Iberville visite l'île et la baie de Mobile. D'après Memorial Record of Alabama (1893), vol. I. Autres lieux de l'entrée : Fort Louis de la Mobile (Old Mobile, 1702-1711).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 33-34, 98 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=IBERVILLE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "VJ-iberville-fort-louis",
+    "nom": "Fort Louis de la Mobile (Old Mobile, 1702-1711) : Iberville",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.0,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Iberville"
+    ],
+    "description": "Fort Louis de la Mobile (Old Mobile, 1702-1711), 1702. Iberville fonde le fort Saint-Louis de la Mobile près de la Dog River. D'après Memorial Record of Alabama (1893), vol. I. Autres lieux de l'entrée : île Dauphine (Alabama).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 33-34, 98 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=IBERVILLE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VJ-bienville-mobile",
+    "nom": "Mobile : Bienville",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1711.0,
+    "fin": 1711.0,
+    "date_edtf": "1711",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bienville"
+    ],
+    "description": "Mobile, 1711. Bienville transporte Mobile sur son site actuel. D'après Memorial Record of Alabama (1893), vol. I. Autres lieux de l'entrée : Fort Toulouse des Alibamons (Alabama).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 33-35, 98-99 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=BIENVILLE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "VJ-bienville-fort-toulo",
+    "nom": "Fort Toulouse des Alibamons (Alabama) : Bienville",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "poste",
+    "debut": 1714.0,
+    "fin": 1714.0,
+    "date_edtf": "1714",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Bienville"
+    ],
+    "description": "Fort Toulouse des Alibamons (Alabama), 1714. Bienville établit le fort Toulouse. D'après Memorial Record of Alabama (1893), vol. I. Autres lieux de l'entrée : Mobile.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 33-35, 98-99 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=BIENVILLE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "VJ-serigny-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Serigny",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "evenement",
+    "debut": 1719.0,
+    "fin": 1719.0,
+    "date_edtf": "1719",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Serigny"
+    ],
+    "description": "Île Dauphine (Alabama), 1719. Serigny repousse avec les troupes françaises une attaque près de l'île. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 99 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=SERIGNY",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.836,
+     32.517
+    ]
+   },
+   "properties": {
+    "id": "VJ-lefebvre-desnouettes-charles-demopolis-",
+    "nom": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama) : Charles, Count Lefebvre-Desnouettes",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles, Count Lefebvre-Desnouettes"
+    ],
+    "description": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama), 1818. Charles, Count Lefebvre-Desnouettes chef de la colonie française du Marengo, ancien aide de camp de Napoléon. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 49 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=LEFEBVRE+DESNOUETTES",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.836,
+     32.517
+    ]
+   },
+   "properties": {
+    "id": "VJ-peniers-m-demopolis-",
+    "nom": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama) : M. Peniers",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "M. Peniers"
+    ],
+    "description": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama), vers 1818. M. Peniers colon du Marengo, ancien membre républicain de l'Assemblée nationale. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 49 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=PENIERS",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.836,
+     32.517
+    ]
+   },
+   "properties": {
+    "id": "VJ-raoul-nicholas-colonel-demopolis-",
+    "nom": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama) : Nicholas, Colonel Raoul",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicholas, Colonel Raoul"
+    ],
+    "description": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama), vers 1818. Nicholas, Colonel Raoul colon réduit à tenir un bac. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 49 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=RAOUL",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.836,
+     32.517
+    ]
+   },
+   "properties": {
+    "id": "VJ-cluis-i-i-demopolis-",
+    "nom": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama) : I. I. Cluis",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "I. I. Cluis"
+    ],
+    "description": "Demopolis / White Bluff, colonie de la Vigne et de l'Olivier (Alabama), vers 1818. I. I. Cluis colon, ancien aide du maréchal Lefebvre ; finit ses jours à Mobile. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 49 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=CLUIS",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.57,
+     33.21
+    ]
+   },
+   "properties": {
+    "id": "VJ-doloffre-andre-tuscaloosa",
+    "nom": "Tuscaloosa (Tuskaloosa), Alabama : Andre Doloffre",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1865.999,
+    "date_edtf": "1855/1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Andre Doloffre"
+    ],
+    "description": "Tuscaloosa (Tuskaloosa), Alabama, 1855-1865. Andre Doloffre professeur de langues modernes puis bibliothécaire de l'Université de l'Alabama. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 159, 161 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=DOLOFFRE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VJ-gaboury-joseph-a-montgomery",
+    "nom": "Montgomery (Alabama) : Joseph A. Gaboury",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. I",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1885.0,
+    "date_edtf": "1885",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph A. Gaboury"
+    ],
+    "description": "Montgomery (Alabama), 1885. Joseph A. Gaboury, né à près de Montréal, 1852, ingénieur et entrepreneur ferroviaire, propriétaire du tramway de la capitale, qu'il électrifie. D'après Memorial Record of Alabama (1893), vol. I.",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. I, p. 594 ; texte intégral : archive.org, memorialrecordof00tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. I",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof00tayl?q=GABOURY",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. I sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VK-bienville-mobile",
+    "nom": "Mobile : Bienville",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1702.0,
+    "fin": 1711.999,
+    "date_edtf": "1702/1711",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bienville"
+    ],
+    "description": "Mobile, 1702-1711. Bienville gouverneur de la colonie de Mobile. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 236 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=BIENVILLE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VK-davion-antony-mobile",
+    "nom": "Mobile : Antony Davion",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1704.0,
+    "fin": 1704.0,
+    "date_edtf": "1704~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Antony Davion"
+    ],
+    "description": "Mobile, vers 1704. Antony Davion missionnaire venu du Canada ; bâtit la première église de l'Alabama. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 236 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=DAVION",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VK-de-la-vente-henry-r-rev-mobile",
+    "nom": "Mobile : Henry R., Rev. de la Vente",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1703.0,
+    "fin": 1710.999,
+    "date_edtf": "1703/1710",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry R., Rev. de la Vente"
+    ],
+    "description": "Mobile, 1703-1710. Henry R., Rev. de la Vente premier curé résidant de Mobile, rentré ensuite en France. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 237 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=DE+LA+VENTE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VK-huve-alexander-rev-mobile",
+    "nom": "Mobile : Alexander, Rev. Huve",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1703.0,
+    "fin": 1727.999,
+    "date_edtf": "1703/1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander, Rev. Huve"
+    ],
+    "description": "Mobile, 1703-1727. Alexander, Rev. Huve vicaire à Mobile, rentré ensuite en France. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 237 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=HUVE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "VK-le-maire-rev-ile-dauphi",
+    "nom": "Île Dauphine (Alabama) : Rev. Le Maire",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1708.0,
+    "fin": 1710.999,
+    "date_edtf": "1708/1710",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rev. Le Maire"
+    ],
+    "description": "Île Dauphine (Alabama), 1708-1710. Rev. Le Maire aumônier du fort de l'île Dauphine. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 237 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=LE+MAIRE",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VK-gourney-p-h-prof-montgomery",
+    "nom": "Montgomery (Alabama) : P. H., Prof. Gourney",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "P. H., Prof. Gourney"
+    ],
+    "description": "Montgomery (Alabama), 1865. P. H., Prof. Gourney « accomplished Frenchman », propriétaire du journal pour enfants The Friend. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 196 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=GOURNEY",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6,
+     32.7
+    ]
+   },
+   "properties": {
+    "id": "VK-stollenwerck-louis-a-greensboro",
+    "nom": "Greensboro, Alabama : Louis A. Stollenwerck",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1831.999,
+    "date_edtf": "1818/1831",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis A. Stollenwerck"
+    ],
+    "description": "Greensboro, Alabama, 1818-1831. Louis A. Stollenwerck venu de France ; avocat, conseil de ses compatriotes immigrés ; y meurt en 1831. D'après Memorial Record of Alabama (1893), vol. II (1re partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 336 ; texte intégral : archive.org, memorialrecordof21tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (1re partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof21tayl?q=STOLLENWERCK",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (1re partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VL-marechal-charles-mobile",
+    "nom": "Mobile : Charles Marechal",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1862.999,
+    "date_edtf": "1854/1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Marechal"
+    ],
+    "description": "Mobile, 1854-1862. Charles Marechal, né à Verdun, 1810, ancien soldat d'Algérie ; enseigne les langues modernes dans les écoles publiques, puis s'engage dans la Garde française. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 558 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=MARECHAL",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VL-rohmer-francis-j-b-m-d-mobile",
+    "nom": "Mobile : Francis J. B., M.D. Rohmer",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francis J. B., M.D. Rohmer"
+    ],
+    "description": "Mobile, 1857. Francis J. B., M.D. Rohmer, né à Alsace, médecin, après avoir exercé en Louisiane ; membre des sociétés médicales de Mobile et de l'Alabama. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 581-582 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=ROHMER",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "VL-juzan-amante-mobile",
+    "nom": "Mobile : Amante Juzan",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Amante Juzan"
+    ],
+    "description": "Mobile, 1862. Amante Juzan, né à Mobile, née de parents français, mère du juge Harry T. Toulmin ; y meurt. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 607 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=JUZAN",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VL-loeb-jacob-montgomery",
+    "nom": "Montgomery (Alabama) : Jacob Loeb",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacob Loeb"
+    ],
+    "description": "Montgomery (Alabama), 1856. Jacob Loeb, né à Alsace, 1842, commis, puis épicier. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 708 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=LOEB",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VL-loeb-jaques-montgomery",
+    "nom": "Montgomery (Alabama) : Jaques Loeb",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jaques Loeb"
+    ],
+    "description": "Montgomery (Alabama), vers 1872. Jaques Loeb, né à Alsace, 1855, négociant en épicerie et nouveautés (Winter & Loeb). D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 709 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=LOEB",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VL-nicrosi-john-b-montgomery",
+    "nom": "Montgomery (Alabama) : John B. Nicrosi",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John B. Nicrosi"
+    ],
+    "description": "Montgomery (Alabama), 1859. John B. Nicrosi, né à Corse, 1842, arrive à Montgomery, commis chez Juan & Co. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 722 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=NICROSI",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VL-nicrosi-john-b-montgomery-2",
+    "nom": "Montgomery (Alabama) : John B. Nicrosi",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1891.999,
+    "date_edtf": "1871/1891",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John B. Nicrosi"
+    ],
+    "description": "Montgomery (Alabama), 1871-1891. John B. Nicrosi, né à Corse, 1842, confiseur avec son frère P. M. Nicrosi. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 722 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=NICROSI",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3,
+     32.38
+    ]
+   },
+   "properties": {
+    "id": "VL-nicrosi-p-m-montgomery",
+    "nom": "Montgomery (Alabama) : P. M. Nicrosi",
+    "corpus": "archive.org · Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1891.999,
+    "date_edtf": "1871/1891",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "P. M. Nicrosi"
+    ],
+    "description": "Montgomery (Alabama), 1871-1891. P. M. Nicrosi confiseur avec son frère John B. ; y meurt en 1891. D'après Memorial Record of Alabama (1893), vol. II (2e partie).",
+    "sources": "Memorial Record of Alabama (Madison, Wis., Brant & Fuller, 1893), vol. II, p. 722 ; texte intégral : archive.org, memorialrecordof22tayl.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Memorial Record of Alabama (1893), vol. II (2e partie)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/memorialrecordof22tayl?q=NICROSI",
+      "texte": "Lire Memorial Record of Alabama (1893), vol. II (2e partie) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.18,
      30.22
     ]
