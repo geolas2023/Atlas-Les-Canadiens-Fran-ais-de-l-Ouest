@@ -430,6 +430,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `voyagesencalifor00sain` | 7 |
 | `worksofhuberthow24bancrich` | 12 |
 | `voyageencaliforn00auge` | 30 |
+| `historyoflosange00wils` | 28 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |

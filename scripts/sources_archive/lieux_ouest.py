@@ -1856,6 +1856,7 @@ G.update({
     'Oakland (Californie)': (-122.27, 37.8, 'c', 'Oakland (Californie)'),
     'Siskiyou (Californie)': (-122.63, 41.73, 'h', 'comté de Siskiyou (Yreka), Californie'),
     'San Jacinto (Californie)': (-116.96, 33.78, 'h', 'rancho San Jacinto (Californie)'),
+    'Santa Monica (Californie)': (-118.49, 34.02, 'c', 'Santa Monica (Californie)'),
 })
 
 
