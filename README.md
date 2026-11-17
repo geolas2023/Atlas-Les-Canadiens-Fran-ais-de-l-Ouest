@@ -399,6 +399,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `newmexicohistori01univrich` | 19 |
 | `newmexicohistori02univrich` | 11 |
 | `newmexicohistori04univrich` | 5 |
+| `historyofnewmexi01paci` | 44 |
 
 
 ## Un point par lieu et adresses précises
