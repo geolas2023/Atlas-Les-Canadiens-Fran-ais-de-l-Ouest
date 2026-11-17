@@ -2054,6 +2054,7 @@ G.update({
     'Toppenish (Washington)': (-120.31, 46.38, 'c', 'Toppenish (Washington)'),
     'Moxee (Washington)': (-120.38, 46.56, 'h', 'vallée de la Moxee (Washington)'),
     'Fort Simcoe (Washington)': (-120.84, 46.36, 'a', 'fort Simcoe (réserve yakima, Washington)'),
+    'College Place (Washington)': (-118.39, 46.04, 'c', 'College Place (Washington)'),
 })
 
 
