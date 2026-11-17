@@ -418,6 +418,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `centenaryoflouis00durr` | 22 |
 | `collinshistorica01coll` | 9 |
 | `collinshistorica02coll` | 5 |
+| `historicaltribut00howl` | 8 |
 | `wahtoyahtaostrai00garr` | 18 |
 | `scenesinrockymou00sage` | 4 |
 | `historyofcityofd00inolba` | 10 |
