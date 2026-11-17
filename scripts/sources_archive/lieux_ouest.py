@@ -2044,6 +2044,16 @@ G.update({
     'Rosalia (Washington)': (-117.37, 47.24, 'c', 'Rosalia (Washington)'),
     'Wilbur (Washington)': (-118.7, 47.76, 'c', 'Wilbur (Washington)'),
     'St. Joe (Idaho)': (-116.33, 47.3, 'c', 'St. Joe (Idaho)'),
+    'Goldendale (Washington)': (-120.82, 45.82, 'c', 'Goldendale (Washington)'),
+    'Roslyn (Washington)': (-121.0, 47.22, 'c', 'Roslyn (Washington)'),
+    'Bickleton (Washington)': (-120.3, 46.0, 'c', 'Bickleton (Washington)'),
+    'Swauk (Washington)': (-120.67, 47.25, 'h', 'district minier de la Swauk (comté de Kittitas, Washington)'),
+    'Klickitat (comté, Washington)': (-120.8, 45.9, 'h', 'comté de Klickitat (Washington)'),
+    'Mabton (Washington)': (-119.99, 46.21, 'c', 'Mabton (Washington)'),
+    'Tampico (Washington)': (-120.85, 46.53, 'c', 'Tampico (comté de Yakima, Washington)'),
+    'Toppenish (Washington)': (-120.31, 46.38, 'c', 'Toppenish (Washington)'),
+    'Moxee (Washington)': (-120.38, 46.56, 'h', 'vallée de la Moxee (Washington)'),
+    'Fort Simcoe (Washington)': (-120.84, 46.36, 'a', 'fort Simcoe (réserve yakima, Washington)'),
 })
 
 
