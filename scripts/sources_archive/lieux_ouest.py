@@ -1941,6 +1941,8 @@ G.update({
     'Salem (Oregon)': (-123.035, 44.94, 'c', 'Salem (Oregon)'),
     'Rivière Salmon (Oregon)': (-123.95, 45.05, 'a', "embouchure de la rivière Salmon (côte de l'Oregon)"),
     'East Portland (Oregon)': (-122.65, 45.52, 'c', 'East Portland (Oregon)'),
+    'Mont Hood (Oregon)': (-121.7, 45.37, 'a', 'mont Hood (Oregon)'),
+    'Monts Warner (Californie)': (-120.2, 41.6, 'a', 'monts Warner (nord-est de la Californie)'),
 })
 
 
