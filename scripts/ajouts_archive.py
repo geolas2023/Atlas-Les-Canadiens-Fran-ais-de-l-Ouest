@@ -530,6 +530,8 @@ LIVRES = [
     ('kingsbury_dakota_v5_1915.txt', 'DS', {'court': 'Kingsbury et Smith, South Dakota, vol. V (1915)', 'ref': "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. V, Chicago, S. J. Clarke, 1915"}, 'historyofdakotat05king', lambda nom, ref: ref),
     ('nd_arnold_grand_forks_1921.txt', 'DT', {'court': 'Arnold, Forty Years in North Dakota (1921)', 'ref': "Henry V. Arnold, Forty Years in North Dakota in Relation to Grand Forks County, Larimore, 1921"}, 'fortyyearsinnort00arno', lambda nom, ref: ref),
     ('armstrong_empire_builders_1901.txt', 'DU', {'court': 'Armstrong, Early Empire Builders of the Great West (1901)', 'ref': "Moses K. Armstrong, The Early Empire Builders of the Great West, Saint Paul, 1901"}, 'empirebuildersof00arms', lambda nom, ref: ref),
+    ('kingsbury_dakota_v3_1915.txt', 'DV', {'court': 'Kingsbury et Smith, South Dakota, vol. III (1915)', 'ref': "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. III, Chicago, S. J. Clarke, 1915"}, 'historyofdakotat03king', lambda nom, ref: ref),
+    ('hind_expedition_v1_1860.txt', 'DW', {'court': 'Hind, Red River Exploring Expedition, vol. I (1860)', 'ref': "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860"}, 'narrativeofcanad01hind', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

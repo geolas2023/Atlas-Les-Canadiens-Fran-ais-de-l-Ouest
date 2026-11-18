@@ -833354,6 +833354,244 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -96.56,
+     42.6
+    ]
+   },
+   "properties": {
+    "id": "DV-boucher-pierre-abbe-jefferson-",
+    "nom": "Jefferson (Dakota du Sud) : Pierre Boucher (abbé)",
+    "corpus": "archive.org · Kingsbury et Smith, South Dakota, vol. III (1915)",
+    "theme": "religion",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Boucher (abbé)"
+    ],
+    "description": "Jefferson (Dakota du Sud), 1867. Pierre Boucher (abbé) envoyé par Mgr Grace auprès des catholiques français établis dans la pointe sud-est du Dakota ; fonde l'église Saint-Pierre et bâtit la première église catholique permanente du Dakota du Sud. D'après Kingsbury et Smith, South Dakota, vol. III (1915).",
+    "sources": "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. III, Chicago, S. J. Clarke, 1915, p. 944-945 ; texte intégral : archive.org, historyofdakotat03king.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kingsbury et Smith, South Dakota, vol. III (1915)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofdakotat03king/page/944/mode/1up?q=BOUCHER",
+      "texte": "Lire Kingsbury et Smith, South Dakota, vol. III (1915) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.85,
+     43.23
+    ]
+   },
+   "properties": {
+    "id": "DV-charbonneau-agence-de-",
+    "nom": "Agence de Rosebud (Dakota du Sud) : Charbonneau",
+    "corpus": "archive.org · Kingsbury et Smith, South Dakota, vol. III (1915)",
+    "theme": "personnage",
+    "debut": 1903.0,
+    "fin": 1903.0,
+    "date_edtf": "1903",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charbonneau"
+    ],
+    "description": "Agence de Rosebud (Dakota du Sud), 1903. Charbonneau sème un champ de luzerne de trente acres, sans plante-abri. D'après Kingsbury et Smith, South Dakota, vol. III (1915).",
+    "sources": "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. III, Chicago, S. J. Clarke, 1915, p. 514 ; texte intégral : archive.org, historyofdakotat03king.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kingsbury et Smith, South Dakota, vol. III (1915)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofdakotat03king/page/514/mode/1up?q=CHARBONNEAU",
+      "texte": "Lire Kingsbury et Smith, South Dakota, vol. III (1915) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DW-chone-jean-pierre-abbe-fort-willi",
+    "nom": "Fort William (lac Supérieur) : Jean-Pierre Choné (abbé)",
+    "corpus": "archive.org · Hind, Red River Exploring Expedition, vol. I (1860)",
+    "theme": "religion",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Pierre Choné (abbé)"
+    ],
+    "description": "Fort William (lac Supérieur), 1857. Jean-Pierre Choné (abbé) missionnaire de la mission de l'Immaculée-Conception ; prêche en français devant l'expédition. D'après Hind, Red River Exploring Expedition, vol. I (1860).",
+    "sources": "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860, p. 23-30 ; texte intégral : archive.org, narrativeofcanad01hind.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hind, Red River Exploring Expedition, vol. I (1860)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/narrativeofcanad01hind/page/23/mode/1up?q=CHONÉ",
+      "texte": "Lire Hind, Red River Exploring Expedition, vol. I (1860) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.887
+    ]
+   },
+   "properties": {
+    "id": "DW-gladieux-pierre-fort-garry",
+    "nom": "Fort Garry : Pierre Gladieux",
+    "corpus": "archive.org · Hind, Red River Exploring Expedition, vol. I (1860)",
+    "theme": "poste",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gladieux"
+    ],
+    "description": "Fort Garry, 1857. Pierre Gladieux « natif » français établi sur la rive droite de la rivière Rouge, à cinq milles au sud du fort ; ferme prospère ; héberge l'expédition sans rien demander avant de partir chasser le bison. D'après Hind, Red River Exploring Expedition, vol. I (1860).",
+    "sources": "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860, p. 164-165, 183 ; texte intégral : archive.org, narrativeofcanad01hind.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hind, Red River Exploring Expedition, vol. I (1860)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/narrativeofcanad01hind/page/164/mode/1up?q=GLADIEUX",
+      "texte": "Lire Hind, Red River Exploring Expedition, vol. I (1860) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.887
+    ]
+   },
+   "properties": {
+    "id": "DW-bruneau-francois-fort-garry",
+    "nom": "Fort Garry : François Bruneau",
+    "corpus": "archive.org · Hind, Red River Exploring Expedition, vol. I (1860)",
+    "theme": "poste",
+    "debut": 1859.0,
+    "fin": 1859.0,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Bruneau"
+    ],
+    "description": "Fort Garry, 1859. François Bruneau président d'une cour de district, siège à la cour trimestrielle générale le 15 décembre. D'après Hind, Red River Exploring Expedition, vol. I (1860).",
+    "sources": "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860, p. 183 ; texte intégral : archive.org, narrativeofcanad01hind.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hind, Red River Exploring Expedition, vol. I (1860)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/narrativeofcanad01hind/page/183/mode/1up?q=BRUNEAU",
+      "texte": "Lire Hind, Red River Exploring Expedition, vol. I (1860) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.68,
+     47.96
+    ]
+   },
+   "properties": {
+    "id": "DW-chabot-francois-grand-port",
+    "nom": "Grand-Portage : François Chabot",
+    "corpus": "archive.org · Hind, Red River Exploring Expedition, vol. I (1860)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Chabot"
+    ],
+    "description": "Grand-Portage, 1858. François Chabot voyageur d'origine canadienne-française engagé par l'expédition. D'après Hind, Red River Exploring Expedition, vol. I (1860).",
+    "sources": "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860, p. 275 ; texte intégral : archive.org, narrativeofcanad01hind.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hind, Red River Exploring Expedition, vol. I (1860)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/narrativeofcanad01hind/page/275/mode/1up?q=CHABOT",
+      "texte": "Lire Hind, Red River Exploring Expedition, vol. I (1860) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.68,
+     47.96
+    ]
+   },
+   "properties": {
+    "id": "DW-louis-charles-grand-port",
+    "nom": "Grand-Portage : Charles Louis",
+    "corpus": "archive.org · Hind, Red River Exploring Expedition, vol. I (1860)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Louis"
+    ],
+    "description": "Grand-Portage, 1858. Charles Louis voyageur canadien-français engagé par l'expédition. D'après Hind, Red River Exploring Expedition, vol. I (1860).",
+    "sources": "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860, p. 275 ; texte intégral : archive.org, narrativeofcanad01hind.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hind, Red River Exploring Expedition, vol. I (1860)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/narrativeofcanad01hind/page/275/mode/1up?q=LOUIS",
+      "texte": "Lire Hind, Red River Exploring Expedition, vol. I (1860) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
