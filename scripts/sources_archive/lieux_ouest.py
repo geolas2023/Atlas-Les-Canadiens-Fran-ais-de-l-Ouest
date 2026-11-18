@@ -2319,6 +2319,7 @@ G.update({
     'Comté de Minnehaha (Dakota du Sud)': (-96.8, 43.67, 'c', "Comté de Minnehaha (Dakota du Sud)"),
     'Parker (Dakota du Sud)': (-97.14, 43.4, 'h', "Parker (Dakota du Sud)"),
     'Richland (Dakota du Sud)': (-96.63, 42.75, 'h', "Richland (comté d'Union, Dakota du Sud)"),
+    'Embouchure du ruisseau Chapelle (Dakota du Sud)': (-99.95, 44.27, 'h', "Embouchure du ruisseau Chapelle (Dakota du Sud)"),
 })
 
 
