@@ -2417,6 +2417,8 @@ G.update({
     'Lac Como (Saint Paul)': (-93.15, 44.98, 'h', "lac Como (comté de Ramsey)"),
     'Canton St. George (Benton)': (-94.05, 45.62, 'h', "canton de St. George (comté de Benton)"),
     'Belle Plaine (Minnesota)': (-93.77, 44.62, 'h', "Belle Plaine (vallée de la Minnesota)"),
+    'Carrière de pipestone (Minnesota)': (-96.32, 44.01, 'h', "carrière de pipestone, Coteau des Prairies"),
+    'Fort Saint-Pierre (lac à la Pluie)': (-93.40, 48.60, 'h', "Fort Saint-Pierre au pied du lac à la Pluie"),
 })
 
 
