@@ -880648,6 +880648,244 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -93.08,
+     45.02
+    ]
+   },
+   "properties": {
+    "id": "GL-gervais-pierre-little-can",
+    "nom": "Little Canada (Petit-Canada) : Pierre Gervais",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, II (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gervais"
+    ],
+    "description": "Little Canada (Petit-Canada), 1844. Pierre Gervais fonde avec son frère Benjamin le village de Little Canada, ou St. John's City, bientôt rejoint par d'autres fermiers canadiens-français; première église catholique en 1852. D'après Castle, History of St. Paul and Vicinity, II (1912).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. II, Chicago et New York, The Lewis Publishing Company, 1912., p. 632 ; texte intégral : archive.org, historyofstpaulv02cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, II (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv02cast/page/632/mode/1up?q=GERVAIS",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, II (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.08,
+     45.02
+    ]
+   },
+   "properties": {
+    "id": "GL-gervais-benjamin-little-can",
+    "nom": "Little Canada (Petit-Canada) : Benjamin Gervais",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, II (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin Gervais"
+    ],
+    "description": "Little Canada (Petit-Canada), 1844. Benjamin Gervais cofondateur du village. D'après Castle, History of St. Paul and Vicinity, II (1912).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. II, Chicago et New York, The Lewis Publishing Company, 1912., p. 632 ; texte intégral : archive.org, historyofstpaulv02cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, II (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv02cast/page/632/mode/1up?q=GERVAIS",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, II (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GM-auger-joseph-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph Auger",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, III (1912)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Auger"
+    ],
+    "description": "Saint-Paul (Minnesota), 1852. Joseph Auger, né à Montréal, arrive au printemps avec sa femme et trois enfants. D'après Castle, History of St. Paul and Vicinity, III (1912). Autres lieux de l'entrée : canton de White Bear (comté de Ramsey).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912., p. 820 ; texte intégral : archive.org, historyofstpaulv03cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, III (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv03cast/page/820/mode/1up?q=AUGER",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, III (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.01,
+     45.08
+    ]
+   },
+   "properties": {
+    "id": "GM-auger-joseph-white-bear",
+    "nom": "Canton de White Bear (comté de Ramsey) : Joseph Auger",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, III (1912)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Auger"
+    ],
+    "description": "Canton de White Bear (comté de Ramsey), 1852. Joseph Auger, né à Montréal, bâtit sa maison sur quatre-vingts acres et y finit ses jours. D'après Castle, History of St. Paul and Vicinity, III (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912., p. 820 ; texte intégral : archive.org, historyofstpaulv03cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, III (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv03cast/page/820/mode/1up?q=AUGER",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, III (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GM-bazille-charles-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Charles Bazille",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, III (1912)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Bazille"
+    ],
+    "description": "Saint-Paul (Minnesota), 1843. Charles Bazille, né en 1812 à Nicolet, arrive à l'automne avec le capitaine Louis Robert; bâtit le premier bâtiment de charpente et le premier moulin à farine; donne le terrain du capitole. D'après Castle, History of St. Paul and Vicinity, III (1912).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912., p. 865 ; texte intégral : archive.org, historyofstpaulv03cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, III (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv03cast/page/865/mode/1up?q=BAZILLE",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, III (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GM-franchere-gabriel-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Gabriel Franchere",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, III (1912)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Franchere"
+    ],
+    "description": "Saint-Paul (Minnesota), 1862. Gabriel Franchere, né en 1786 à Montréal, cofondateur d'Astoria; meurt chez son beau-fils John S. Prince. D'après Castle, History of St. Paul and Vicinity, III (1912).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912., p. 1005 ; texte intégral : archive.org, historyofstpaulv03cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, III (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv03cast/page/1005/mode/1up?q=FRANCHERE",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, III (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GM-michaud-desire-h-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Desire H. Michaud",
+    "corpus": "archive.org · Castle, History of St. Paul and Vicinity, III (1912)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Desire H. Michaud"
+    ],
+    "description": "Saint-Paul (Minnesota), 1876. Desire H. Michaud, né en 1855 à comté de Joliette, arrive en mars et travaille pour son cousin Narcisse Michaud. D'après Castle, History of St. Paul and Vicinity, III (1912).",
+    "sources": "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912., p. 1198 ; texte intégral : archive.org, historyofstpaulv03cast.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Castle, History of St. Paul and Vicinity, III (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofstpaulv03cast/page/1198/mode/1up?q=MICHAUD",
+      "texte": "Lire Castle, History of St. Paul and Vicinity, III (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

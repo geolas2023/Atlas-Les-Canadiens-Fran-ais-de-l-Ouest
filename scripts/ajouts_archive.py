@@ -618,6 +618,8 @@ LIVRES = [
     ('mn_fritsche_brown_county_1916.txt', 'GI', {'court': 'Fritsche, History of Brown County, 1916', 'ref': "Fritsche, L. A. (dir.), History of Brown County, Minnesota, Indianapolis, B. F. Bowen & Company, 1916."}, 'mn-brown-1915-fritsche-1', lambda nom, ref: ref),
     ('mn_rose_lyon_county_1912.txt', 'GJ', {'court': 'Rose, An Illustrated History of Lyon County, 1912', 'ref': "Rose, Arthur P., An Illustrated History of Lyon County, Minnesota, Marshall, Northern History Publishing Company, 1912."}, 'illustratedhistolcm00rose', lambda nom, ref: ref),
     ('mn_newson_pen_pictures_1886.txt', 'GK', {'court': 'Newson, Pen Pictures of St. Paul, I (1886)', 'ref': "Newson, T. M., Pen Pictures of St. Paul, Minnesota, and Biographical Sketches of Old Settlers, vol. I, Saint Paul, publié par l'auteur, 1886."}, 'penpicturesofstp01news', lambda nom, ref: ref),
+    ('mn_castle_saint_paul_1912_v2.txt', 'GL', {'court': 'Castle, History of St. Paul and Vicinity, II (1912)', 'ref': "Castle, Henry A., History of St. Paul and Vicinity, vol. II, Chicago et New York, The Lewis Publishing Company, 1912."}, 'historyofstpaulv02cast', lambda nom, ref: ref),
+    ('mn_castle_saint_paul_1912_v3.txt', 'GM', {'court': 'Castle, History of St. Paul and Vicinity, III (1912)', 'ref': "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912."}, 'historyofstpaulv03cast', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
