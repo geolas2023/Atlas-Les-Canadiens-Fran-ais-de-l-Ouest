@@ -208,6 +208,10 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `collectionsofsta06stat_0` | 3 |
 | `collectionsofsta07stat` | 17 |
 | `earlyhistoryofno01loun` | 40 |
+| `northdakotahisto02loun` | 7 |
+| `northdakotahisto03loun` | 7 |
+| `illustratedalbum00alde_0` | 30 |
+| `historyofredrive01chicuoft` | 64 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
