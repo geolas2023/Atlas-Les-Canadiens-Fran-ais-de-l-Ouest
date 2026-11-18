@@ -2343,6 +2343,13 @@ G.update({
     'Fort Primeau (au-dessus de Fort Pierre)': (-100.42, 44.47, 'h', "Fort Primeau (au-dessus de Fort Pierre)"),
     'Agence Santee (Nebraska)': (-97.85, 42.83, 'h', "Agence Santee (Nebraska)"),
     'Embouchure de la Powder (Yellowstone)': (-105.07, 46.75, 'h', "Embouchure de la Powder (Yellowstone)"),
+    'Point Douglas (Minnesota)': (-92.82, 44.75, 'h', "Point Douglas (Minnesota)"),
+    'Pig\'s Eye (Saint Paul)': (-93.03, 44.93, 'h', "Pig's Eye (Grand Marais, Saint Paul)"),
+    'Wabasha (Minnesota)': (-92.03, 44.38, 'h', "Wabasha (Minnesota)"),
+    'Fort Saint-Antoine (lac Pépin)': (-92.0, 44.42, 'h', "Fort Saint-Antoine (lac Pépin, rive est)"),
+    'Île Pelée (Prairie Island)': (-92.65, 44.63, 'h', "Île Pelée (Prairie Island, Minnesota)"),
+    'Chaska (Minnesota)': (-93.6, 44.79, 'h', "Chaska (Minnesota)"),
+    'Fort Ridgely (Minnesota)': (-94.73, 44.45, 'h', "Fort Ridgely (Minnesota)"),
 })
 
 
