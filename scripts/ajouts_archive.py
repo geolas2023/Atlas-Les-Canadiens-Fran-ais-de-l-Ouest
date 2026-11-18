@@ -524,6 +524,7 @@ LIVRES = [
     ('rrv_history_1909.txt', 'DM', {'court': 'History of the Red River Valley, vol. I (1909)', 'ref': "History of the Red River Valley, Past and Present, vol. I, Grand Forks, Herald / Chicago, C. F. Cooper, 1909"}, 'historyofredrive01chicuoft', lambda nom, ref: ref),
     ('nd_trinka_1920.txt', 'DN', {'court': 'Trinka, Out Where the West Begins (1920)', 'ref': "Zena Irma Trinka, Out Where the West Begins, Being the Early and Romantic History of North Dakota, Saint Paul, Pioneer Company, 1920"}, 'outwherewestbeg00tringoog', lambda nom, ref: ref),
     ('nd_history_people_v1_1917.txt', 'DO', {'court': 'Lounsberry, North Dakota History and People, vol. I (1917)', 'ref': "C. A. Lounsberry, North Dakota History and People, vol. I, Chicago, S. J. Clarke, 1917"}, 'northdakotahisto01loun', lambda nom, ref: ref),
+    ('kingsbury_dakota_v1_1915.txt', 'DP', {'court': 'Kingsbury, History of Dakota Territory, vol. I (1915)', 'ref': "George W. Kingsbury, History of Dakota Territory, vol. I, Chicago, S. J. Clarke, 1915"}, 'historyofdakotaterr01king', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
