@@ -606,6 +606,10 @@ LIVRES = [
     ('mn_curtiss_wedge_wright_county_1915_v1.txt', 'FW', {'court': 'Curtiss-Wedge, History of Wright County, I (1915)', 'ref': "Curtiss-Wedge, Franklyn, History of Wright County, Minnesota, vol. I, Chicago, H. C. Cooper Jr. & Co., 1915."}, 'historyofwrightc01curt', lambda nom, ref: ref),
     ('mn_curtiss_wedge_wright_county_1915_v2.txt', 'FX', {'court': 'Curtiss-Wedge, History of Wright County, II (1915)', 'ref': "Curtiss-Wedge, Franklyn, History of Wright County, Minnesota, vol. II, Chicago, H. C. Cooper Jr. & Co., 1915."}, 'historyofwrightc02curt', lambda nom, ref: ref),
     ('mn_wilcox_becker_county_1907.txt', 'FY', {'court': 'Wilcox, A Pioneer History of Becker County, 1907', 'ref': "Wilcox, Alvin H., A Pioneer History of Becker County, Minnesota, Saint Paul, Pioneer Press Company, 1907."}, 'pioneerhistoryof00wilc', lambda nom, ref: ref),
+    ('mn_curtiss_wedge_rice_steele_1910_v1.txt', 'FZ', {'court': 'Curtiss-Wedge, History of Rice and Steele Counties, I (1910)', 'ref': "Curtiss-Wedge, Franklyn (dir.), History of Rice and Steele Counties, Minnesota, vol. I, Chicago, H. C. Cooper Jr. & Co., 1910."}, 'historyofriceste01curt', lambda nom, ref: ref),
+    ('mn_curtiss_wedge_rice_steele_1910_v2.txt', 'GA', {'court': 'Curtiss-Wedge, History of Rice and Steele Counties, II (1910)', 'ref': "Curtiss-Wedge, Franklyn (dir.), History of Rice and Steele Counties, Minnesota, vol. II, Chicago, H. C. Cooper Jr. & Co., 1910."}, 'historyofriceste02curt', lambda nom, ref: ref),
+    ('mn_curtiss_wedge_wabasha_county_1920.txt', 'GB', {'court': 'Curtiss-Wedge, History of Wabasha County, 1920', 'ref': "Curtiss-Wedge, Franklyn, et al., History of Wabasha County, Minnesota, Winona, H. C. Cooper Jr. & Co., 1920."}, 'historyofwabasha00curt', lambda nom, ref: ref),
+    ('mn_curtiss_wedge_renville_county_1916_v1.txt', 'GC', {'court': 'Curtiss-Wedge, History of Renville County, I (1916)', 'ref': "Curtiss-Wedge, Franklyn (dir.), The History of Renville County, Minnesota, vol. I, Chicago, H. C. Cooper Jr. & Co., 1916."}, 'historyofrenvill01curt', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
