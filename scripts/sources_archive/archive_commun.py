@@ -126,6 +126,50 @@ def url_page(idf, ref, livre, brut, lien_recherche=True):
     if lien_recherche and q: url += f"?q={q}"
     return url
 
+
+_CM = None
+def url_colomag(ref):
+    """PDF du numéro de The Colorado Magazine contenant la page citée (volume romain, p. N)."""
+    global _CM
+    if _CM is None:
+        _CM = {}
+        MO = {'Jan': 'January', 'Feb': 'February', 'Mar': 'March', 'Apr': 'April', 'May': 'May', 'Jun': 'June', 'Jul': 'July', 'Aug': 'August',
+              'Sep': 'September', 'Oct': 'October', 'Nov': 'November', 'Dec': 'December', 'Win': 'Winter', 'Spr': 'Spring', 'Sum': 'Summer', 'Fal': 'Fall'}
+        import os
+        for v, n, d, mo, an, a, b in re.findall(r'(\d+)\.(\d+):(\d):([A-Za-z]{3})(\d\d):(\d+)-(\d+)', open(os.path.join(os.path.dirname(__file__), 'colorado_magazine_numeros.txt')).read()):
+            fol = {'8': '2018', '9': '2019', '7': '2017', '0': '2020'}[d]
+            year = ('19' + an)
+            _CM.setdefault(int(v), []).append((int(n), int(b), f"https://www.historycolorado.org/sites/default/files/media/document/{fol}/ColoradoMagazine_v{v}n{n}_{MO[mo]}{year}.pdf"))
+        for v in _CM: _CM[v].sort()
+    m = re.search(r'\b([IVXL]{1,7}),\s*p\.\s*(\d+)', ref)
+    if not m: return None
+    vals = {'I': 1, 'V': 5, 'X': 10, 'L': 50}; tot = 0; prev = 0
+    for c in reversed(m.group(1)):
+        x = vals[c]; tot = tot - x if x < prev else tot + x; prev = max(prev, x)
+    page = int(m.group(2)); nums = _CM.get(tot)
+    if not nums: return None
+    for n, fin, url in nums:
+        if page <= fin: return url
+    return nums[-1][2]
+
+def url_whq(ref):
+    """Article du Washington Historical Quarterly contenant la page citée (ou désigné par son titre)."""
+    import os
+    R = {'I': 1, 'V': 5, 'X': 10}
+    m = re.match(r'\s*([XVI]+)\b', ref)
+    if not m: return None
+    tot = 0; prev = 0
+    for c in reversed(m.group(1)):
+        x = R[c]; tot = tot - x if x < prev else tot + x; prev = max(prev, x)
+    pm = re.search(r'p\.\s*(\d+)', ref); page = int(pm.group(1)) if pm else None
+    for l in open(os.path.join(os.path.dirname(__file__), 'whq_articles.txt')):
+        if l.startswith('#') or not l.strip(): continue
+        c = l.strip().split('|'); v = int(c[0]); a, _, b = c[1].partition('-'); a = int(a); b = int(b or a)
+        if v != tot: continue
+        if (page is not None and a <= page <= b) or (page is None and len(c) > 3 and c[3].lower() in ref.lower()):
+            return 'https://journals.lib.washington.edu/index.php/WHQ/article/view/' + c[2]
+    return None
+
 def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, theme_defaut='personnage', contextes=None):
     """Construit les fiches d'un livre. citer(nom_brut, ref) → texte de la référence (ex. « s.v. LAGIMODIÈRE »)."""
     out, inconnus, sans_date = [], set(), 0
@@ -184,7 +228,7 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
                     + (f" Autres lieux de l'entrée : {', '.join(dict.fromkeys(ailleurs))}." if ailleurs else ''))
             idf = ident(ref) if callable(ident) else ident
             web = idf.startswith('http')  # livre absent d'archive.org : transcription en ligne
-            url = idf if web else url_page(idf, citer(brut, ref), livre, brut, lien_recherche)
+            url = (url_colomag(citer(brut, ref)) or idf) if idf.startswith('https://www.historycolorado.org') else (url_whq(citer(brut, ref)) or idf) if idf.startswith('https://journals.lib.washington.edu') else (idf if web else url_page(idf, citer(brut, ref), livre, brut, lien_recherche))
             d, f, prec = bornes(edtf)
             out.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": {
                 "id": ident_fiche, "nom": f"{lieu_fr[0].upper() + lieu_fr[1:]} : {nom}", "corpus": f"{CORPUS} · {livre['court']}", "theme": theme,
@@ -193,5 +237,5 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
                 "sources": f"{livre['ref']}, {citer(brut, ref)} ; " + (f"transcription en ligne : {idf}." if web else f"texte intégral : archive.org, {idf}."),
                 "note": ("Repérage dans la transcription en ligne du livre, à vérifier dans l'original" if web else "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre") + " ; localisation attribuée par l'atlas.",
                 "livre": livre['court'], "_brut": brut,
-                "voir_aussi": [{"url": url, "texte": f"Lire {livre['court']} " + ("(transcription en ligne) →" if web else "sur archive.org →")}]}})
+                "voir_aussi": [{"url": url, "texte": (f"Lire le numéro (PDF) de {livre['court']} →" if url.endswith('.pdf') else "Lire l'article (PDF) du Washington Historical Quarterly →" if '/WHQ/article/' in url else f"Lire {livre['court']} " + ("(transcription en ligne) →" if web else "sur archive.org →"))}]}})
     return out, inconnus, sans_date
