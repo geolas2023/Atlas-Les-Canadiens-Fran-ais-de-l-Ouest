@@ -878676,6 +878676,380 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -92.25,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "GH-penechon-lac-pepin",
+    "nom": "Lac Pépin (haut Mississippi) : Penechon",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1745.0,
+    "fin": 1745.0,
+    "date_edtf": "1745",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Penechon"
+    ],
+    "description": "Lac Pépin (haut Mississippi), 1745. Penechon traiteur canadien-français au temps du fort Beauharnois; son fils, né d'une épouse indienne, devient chef d'une bande, le « Fils de Pinchon » de Pike. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 41 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/41/mode/1up?q=PENECHON",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-la-grue-saint-anth",
+    "nom": "Chutes Saint-Antoine : La Grue",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Grue"
+    ],
+    "description": "Chutes Saint-Antoine, 1839. La Grue voyageur canadien-français laissé par Franklin Steele à la garde de sa cabane avec sa femme jusqu'au drame de l'automne 1839. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 60 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/60/mode/1up?q=LA+GRUE",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-rondo-joseph-saint-anth",
+    "nom": "Chutes Saint-Antoine : Joseph Rondo",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rondo"
+    ],
+    "description": "Chutes Saint-Antoine, 1842. Joseph Rondo réfugié de la rivière Rouge expulsé de la réserve de Fort Snelling; revendication au nord de celle de Carpenter; querelle avec Bottineau en 1845. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 62-63 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/62/mode/1up?q=RONDO",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-bottineau-pierre-saint-anth",
+    "nom": "Chutes Saint-Antoine : Pierre Bottineau",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Chutes Saint-Antoine, 1845. Pierre Bottineau propriétaire de l'ancienne concession Pettijohn. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 62-63 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/62/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-turpin-baptiste-saint-anth",
+    "nom": "Chutes Saint-Antoine : Baptiste Turpin",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Turpin"
+    ],
+    "description": "Chutes Saint-Antoine, 1845. Baptiste Turpin voyageur métis français occupant l'ancienne maison Pettijohn. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 63 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/63/mode/1up?q=TURPIN",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-st-martin-paschal-saint-anth",
+    "nom": "Chutes Saint-Antoine : Paschal St. Martin",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paschal St. Martin"
+    ],
+    "description": "Chutes Saint-Antoine, 1845. Paschal St. Martin Canadien français; revendication en aval de la concession Pettijohn avec Sauverre St. Martin. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 63 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/63/mode/1up?q=ST+MARTIN",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-st-martin-sauverre-saint-anth",
+    "nom": "Chutes Saint-Antoine : Sauverre St. Martin",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sauverre St. Martin"
+    ],
+    "description": "Chutes Saint-Antoine, 1845. Sauverre St. Martin Canadien français; revendication avec Paschal St. Martin. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 63 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/63/mode/1up?q=ST+MARTIN",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-reasche-joseph-saint-anth",
+    "nom": "Chutes Saint-Antoine : Joseph Reasche",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Reasche"
+    ],
+    "description": "Chutes Saint-Antoine, 1845. Joseph Reasche occupe la cabane de Steele, la seule à toit de bardeaux; presque tous les chefs de foyer sont alors canadiens-français ou métis. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 63 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/63/mode/1up?q=REASCHE",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.58,
+     45.04
+    ]
+   },
+   "properties": {
+    "id": "GH-deziel-godfrey-medina-min",
+    "nom": "Medina, près de Long Lake et Lenz (comté de Hennepin) : Godfrey Deziel",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Godfrey Deziel"
+    ],
+    "description": "Medina, près de Long Lake et Lenz (comté de Hennepin), 1865. Godfrey Deziel, né à près de Québec, ferme près de Hamel avec sa femme Anastasia Lalonde, de Montréal; meurt en 1874. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 286 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/286/mode/1up?q=DEZIEL",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GH-young-charles-saint-anth",
+    "nom": "Chutes Saint-Antoine : Charles Young",
+    "corpus": "archive.org · Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Young"
+    ],
+    "description": "Chutes Saint-Antoine, 1852. Charles Young, né en 1819 à Saint-Martin, premier charpentier de St. Anthony, avec sa femme Margaret Gibeau; y meurt le 1er décembre 1883. D'après Compendium of History and Biography of Minneapolis and Hennepin County, 1914.",
+    "sources": "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914., p. 553 ; texte intégral : archive.org, compendiumofhist01holc.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Compendium of History and Biography of Minneapolis and Hennepin County, 1914",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/compendiumofhist01holc/page/553/mode/1up?q=YOUNG",
+      "texte": "Lire Compendium of History and Biography of Minneapolis and Hennepin County, 1914 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.73,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "GI-la-framboise-joseph-fort-ridge",
+    "nom": "Fort Ridgely (Minnesota) : Joseph la Framboise",
+    "corpus": "archive.org · Fritsche, History of Brown County, 1916",
+    "theme": "poste",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Framboise"
+    ],
+    "description": "Fort Ridgely (Minnesota), 1854. Joseph la Framboise traiteur canadien-français marié à une Indienne, à quatre milles du fort; accueille les colons venus de Chicago, leur montre le site de New Ulm et les aide pendant l'hiver en face de Milford. D'après Fritsche, History of Brown County, 1916.",
+    "sources": "Fritsche, L. A. (dir.), History of Brown County, Minnesota, Indianapolis, B. F. Bowen & Company, 1916., p. 128, 182-183 ; texte intégral : archive.org, mn-brown-1915-fritsche-1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Fritsche, History of Brown County, 1916",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/mn-brown-1915-fritsche-1/page/128/mode/1up?q=LA+FRAMBOISE",
+      "texte": "Lire Fritsche, History of Brown County, 1916 sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
