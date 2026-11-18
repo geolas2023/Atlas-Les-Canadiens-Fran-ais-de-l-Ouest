@@ -572,6 +572,9 @@ LIVRES = [
     ('mn_collections_v9_1901.txt', 'EN', {'court': 'Collections of the Minnesota Historical Society, vol. IX (1901)', 'ref': "Collections of the Minnesota Historical Society, vol. IX, Saint Paul, 1901"}, 'collections09minnuoft', lambda nom, ref: ref),
     ('mn_collections_v10_1_1905.txt', 'EO', {'court': 'Collections of the Minnesota Historical Society, vol. X, partie I (1905)', 'ref': "Collections of the Minnesota Historical Society, vol. X, partie I, Saint Paul, 1905"}, 'p1collections10minnuoft', lambda nom, ref: ref),
     ('mn_collections_v10_2_1905.txt', 'EP', {'court': 'Collections of the Minnesota Historical Society, vol. X, partie II (1905)', 'ref': "Collections of the Minnesota Historical Society, vol. X, partie II, Saint Paul, 1905"}, 'p2collections10minnuoft', lambda nom, ref: ref),
+    ('mn_brower_itasca_1904.txt', 'EQ', {'court': 'Brower, Itasca State Park (1904)', 'ref': "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904"}, 'collectionsofmin11minn', lambda nom, ref: ref),
+    ('mn_collections_v12_1908.txt', 'ER', {'court': 'Collections of the Minnesota Historical Society, vol. XII (1908)', 'ref': "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908"}, 'collections12minnuoft', lambda nom, ref: ref),
+    ('mn_upham_biographies_1912.txt', 'ES', {'court': 'Upham et Dunlap, Minnesota Biographies (1912)', 'ref': "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912"}, 'collections14minnuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
