@@ -2423,6 +2423,14 @@ G.update({
     'Medina (Minnesota)': (-93.58, 45.04, 'h', "Medina, près de Long Lake et Lenz (comté de Hennepin)"),
     'Long Lake (Minnesota)': (-93.57, 44.99, 'h', "Long Lake (comté de Hennepin)"),
     'Corcoran (Minnesota)': (-93.58, 45.10, 'h', "canton de Corcoran (comté de Hennepin)"),
+    'Old Crossing (rivière Red Lake)': (-96.42, 47.86, 'h', "Old Crossing de la rivière Red Lake, près de Huot (traité de 1863)"),
+    'East Grand Forks (Minnesota)': (-97.02, 47.93, 'c', "East Grand Forks, ancienne Red River Junction (comté de Polk)"),
+    'Mentor (Minnesota)': (-96.14, 47.70, 'h', "Mentor (comté de Polk)"),
+    'Saint Joseph (Minnesota)': (-94.32, 45.56, 'h', "village de St. Joseph (comté de Stearns)"),
+    'St. Michael (Minnesota)': (-93.66, 45.21, 'h', "St. Michael (comté de Wright)"),
+    'Staples (Minnesota)': (-94.79, 46.36, 'h', "Staples (comté de Todd)"),
+    'Pierz (Minnesota)': (-94.10, 45.98, 'h', "Pierz (comté de Morrison)"),
+    'Swanville (Minnesota)': (-94.64, 45.92, 'h', "Swanville (comté de Morrison)"),
 })
 
 
