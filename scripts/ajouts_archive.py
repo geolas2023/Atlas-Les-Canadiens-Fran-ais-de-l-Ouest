@@ -561,6 +561,9 @@ LIVRES = [
     ('mooney_ghost_dance_1896.txt', 'EC', {'court': 'Mooney, The Ghost-Dance Religion (1896)', 'ref': "James Mooney, The Ghost-Dance Religion and the Sioux Outbreak of 1890, Fourteenth Annual Report of the Bureau of Ethnology, Washington, 1896"}, 'ghostdancesioux00moonrich', lambda nom, ref: ref),
     ('brady_indian_fights_1904.txt', 'ED', {'court': 'Brady, Indian Fights and Fighters (1904)', 'ref': "Cyrus Townsend Brady, Indian Fights and Fighters, New York, McClure, Phillips & Co., 1904"}, 'indianfightsandf00bradiala', lambda nom, ref: ref),
     ('welsh_sioux_ponka_1872.txt', 'EE', {'court': 'Welsh, Visit to the Sioux and Ponka Indians (1872)', 'ref': "William Welsh, Report of a Visit to the Sioux and Ponka Indians of the Missouri River, Washington, Government Printing Office, 1872"}, 'reportofvisittos02wels', lambda nom, ref: ref),
+    ('mn_collections_v1_1872.txt', 'EF', {'court': 'Collections of the Minnesota Historical Society, vol. I (1872)', 'ref': "Collections of the Minnesota Historical Society, vol. I (1850-1856), réimpression, Saint Paul, 1872"}, 'collections01minnuoft', lambda nom, ref: ref),
+    ('mn_collections_v2_1889.txt', 'EG', {'court': 'Collections of the Minnesota Historical Society, vol. II (1889)', 'ref': "Collections of the Minnesota Historical Society, vol. II (1860-1867), réimpression, Saint Paul, 1889"}, 'collections02minnuoft', lambda nom, ref: ref),
+    ('mn_collections_v3_1880.txt', 'EH', {'court': 'Collections of the Minnesota Historical Society, vol. III (1880)', 'ref': "Collections of the Minnesota Historical Society, vol. III (1870-1880), Saint Paul, 1880"}, 'collections03minnuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
