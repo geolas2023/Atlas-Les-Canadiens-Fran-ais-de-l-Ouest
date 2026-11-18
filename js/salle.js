@@ -1,3 +1,5 @@
+const FFT = 'https://archive.org/details/frenchfurtraders0000unse';
+const lienSrc = t => esc(t || '').replace(/(French Fur Traders and Voyageurs in the American West[^;]*?)\b(pp?\. (\d+)[^;.]*)/, (m, a, b, n) => `${a}<a href="${FFT}/page/${n}/mode/1up" target="_blank" rel="noopener">${b}</a>`);
 // Salle de lecture multi-personnages : un onglet, une carte de parcours et une échelle de temps par personnage.
 // Données : data/personnages/index.json et data/personnages/<id>.geojson
 const CERT = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
@@ -32,7 +34,7 @@ async function ouvrir(id, etapeId) {
   document.documentElement.style.setProperty('--perso', P.couleur);
   document.querySelectorAll('#onglets button').forEach(b => { const on = b.dataset.id === id; b.classList.toggle('actif', on); b.setAttribute('aria-selected', on); if (on) b.scrollIntoView({ inline: 'nearest', block: 'nearest' }); });
   $('#titre-perso').textContent = P.nom;
-  $('#sous-titre').textContent = `${P.vie || ''} · notice de ${P.auteur}, p. ${P.pages}`;
+  $('#sous-titre').innerHTML = `${esc(P.vie || '')} · notice de ${esc(P.auteur)}, <a href="${FFT}/page/${parseInt(P.pages)}/mode/1up" target="_blank" rel="noopener" title="French Fur Traders and Voyageurs in the American West sur archive.org (emprunt)">p. ${esc(P.pages)}</a>`;
   document.title = `Salle de lecture — ${P.nom}`;
   courant = -1;
   recit(); frise(); majCarte();
@@ -56,7 +58,7 @@ function fiche(i) {
     <div class="filet">✦</div>
     <p class="description">${esc(p.description)}</p>
     ${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}
-    <p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p>`;
+    <p class="sources"><strong>Sources.</strong> ${lienSrc(p.sources)}</p>`;
   document.querySelectorAll('.etape').forEach(el => el.classList.toggle('active', +el.dataset.i === i));
   document.querySelectorAll('#frise .marque').forEach(el => el.classList.toggle('active', +el.dataset.i === i));
   $('#etape-courante').textContent = `${p.ordre}. ${p.date_edtf}`;

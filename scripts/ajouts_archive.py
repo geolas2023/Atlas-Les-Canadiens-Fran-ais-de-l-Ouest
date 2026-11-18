@@ -1,7 +1,7 @@
 # Corpus « Bibliothèque archive.org » : dépouillement des livres du domaine public d'archive.org sur les francophones
 # d'Amérique du Nord hors Québec (novembre 2026, en cours, par lots). Un fichier texte par livre dans scripts/sources_archive/.
 # Idempotent : retire toutes les fiches du corpus puis les recrée. À lancer après ajouts_2026_11b.py et avant hub.py.
-import json, os, sys, collections
+import json, os, sys, collections, re
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(R, 'scripts', 'sources_archive'))
 from archive_commun import fiches_livre, lire_contextes, CORPUS
@@ -21,7 +21,7 @@ LIVRES = [
     ('tasse_1878.txt', 'TA',
      {'court': 'Tassé (1878)',
       'ref': "Tassé, Joseph (1878), Les Canadiens de l'Ouest, Montréal, Compagnie d'imprimerie canadienne, 2 tomes"},
-     lambda ref: 'cihm_33779' if ref.startswith('t. II') else 'cihm_33778',
+     lambda ref: 'lescanadiensdelo02tass' if ref.startswith('t. II') else 'lescanadiensdelo01tassuoft',
      lambda nom, ref: ref),
     ('billon_1886.txt', 'BI',
      {'court': 'Billon (1886)',
@@ -600,6 +600,42 @@ for f in nouv:
         p['voir_aussi'].append({"url": "https://geolas2023.github.io/Atlas-Aubry/index.html#lieu=L31", "texte": "La mort d'Aubry dans l'Atlas Aubry →"})
     if p['corpus'].endswith('Tassé (1878)') and 'François-Xavier Aubry' in p['personnages']:
         p['voir_aussi'].append({"url": "https://geolas2023.github.io/Atlas-Aubry/", "texte": "Aubry dans l'Atlas Aubry →"})
+# Liens vers la page citée pour les fiches des autres corpus quand le livre est en ligne (archive.org)
+MM_VOL = {1: 'mountainmenfurtr0001lero', 2: 'bwb_S0-EBP-007', 3: 'bwb_S0-EBP-008', 4: 'bwb_S0-EBP-009', 5: 'bwb_W8-BTU-569',
+          6: 'mountainmenfurtr0006lero', 7: 'mountainmenfurtr0007lero', 8: 'bwb_W8-BTU-570', 9: 'mountainmenfurtr0009lero'}
+MARGRY = {'I': 'dcouverteett01marg', 'II': 'dcouverteett02marg', 'III': 'dcouverteett03marg', 'IV': 'mmoiresetdocum04marg', 'V': 'mmoiresetdocum05marg', 'VI': 'cihm_09946'}
+ROMN = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
+def lien_livre(p):
+    src = p.get('sources') or ''
+    nom = (p.get('personnages') or [''])[0]
+    nn = re.sub(r',?\s*\b(Sr|Jr|fils|père|II|III)\.?\s*$', '', re.sub(r'\(.*?\)|«.*?»', '', nom)).strip()
+    q = re.sub(r'[^A-Za-zÀ-ÿ]+', '+', nn.split(' ')[-1]).strip('+') if nn else ''
+    mp = re.search(r'mention p\.\s*(\d+)', src) or re.search(r'(?<!app\. )\bpp?\.\s*(\d+)', src)
+    idf = texte = None
+    if src.startswith('Tassé, Joseph (1878)'):
+        idf = 'lescanadiensdelo02tass' if 't. II' in src else 'lescanadiensdelo01tassuoft'; texte = 'Lire Tassé (1878) sur archive.org →'
+    elif 'Margry' in src and 'Découvertes' in src:
+        mt = re.search(r'\bt\. ([IV]+)\b', src)
+        if mt and mt.group(1) in MARGRY: idf = MARGRY[mt.group(1)]; texte = f"Lire Margry, t. {mt.group(1)}, sur archive.org →"
+    elif src.startswith('Johnson, William Henry (1905), French Pathfinders'):
+        idf = 'frenchpathfinder00john'; texte = 'Lire Johnson, French Pathfinders (1905), sur archive.org →'
+    elif 'French Fur Traders and Voyageurs' in src:
+        idf = 'frenchfurtraders0000unse'; texte = 'Hafen, French Fur Traders and Voyageurs, sur archive.org (emprunt) →'; mp = None
+    elif 'The Mountain Men and the Fur Trade' in src:
+        mv = re.search(r'vol\. (\d+|[IVX]+)\b', src)
+        v = (int(mv.group(1)) if mv.group(1).isdigit() else ROMN.get(mv.group(1))) if mv else None
+        if v in MM_VOL: idf = MM_VOL[v]; texte = f"Hafen, The Mountain Men, vol. {v}, sur archive.org (emprunt) →"
+    if not idf: return None
+    url = f"https://archive.org/details/{idf}" + (f"/page/{mp.group(1)}/mode/1up" if mp else '') + (f"?q={q}" if q else '')
+    return {"url": url, "texte": texte}
+n_liens = 0
+for f in garde:
+    pp = f['properties']
+    auto = lambda v: v.get('texte', '').endswith('(emprunt) →') or re.match(r'Lire (Tassé \(1878\)|Margry, t\.|Johnson, French)', v.get('texte', ''))
+    if pp.get('voir_aussi') and not all(auto(v) for v in pp['voir_aussi']): continue
+    l = lien_livre(pp)
+    if l: pp['voir_aussi'] = [l]; n_liens += 1
+print(f"  liens ajoutés aux autres corpus : {n_liens}")
 d['features'] = garde + nouv
 json.dump(d, open(f'{R}/data/lieux.geojson', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 for b in bilan:
