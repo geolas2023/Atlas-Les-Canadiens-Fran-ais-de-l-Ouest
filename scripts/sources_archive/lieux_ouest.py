@@ -2445,6 +2445,7 @@ G.update({
     'Lida (Minnesota)': (-95.98, 46.58, 'h', "canton de Lida (comté d'Otter Tail)"),
     'Ghent (Minnesota)': (-95.89, 44.51, 'h', "Ghent (comté de Lyon)"),
     'White Bear (Minnesota)': (-93.01, 45.08, 'h', "canton de White Bear (comté de Ramsey)"),
+    'Shakopee (Minnesota)': (-93.53, 44.80, 'h', "Shakopee, village de Little Six (comté de Scott)"),
 })
 
 
