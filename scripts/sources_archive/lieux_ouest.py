@@ -2455,6 +2455,8 @@ G.update({
     'Two Rivers (Wisconsin)': (-87.57, 44.15, 'h', "Two Rivers (comté de Manitowoc)"),
     'McGregor (Iowa)': (-91.17, 43.02, 'h', "McGregor, concession espagnole de Giard"),
     'Skunk Grove (Wisconsin)': (-87.90, 42.73, 'h', "Skunk Grove, canton de Mount Pleasant (comté de Racine)"),
+    'Île Mackinac': (-84.62, 45.85, 'c', "Île Mackinac (Michigan)"),
+    'Grand Haven (Michigan)': (-86.23, 43.06, 'c', "Grand Haven, embouchure de la rivière Grand (Michigan)"),
 })
 
 
