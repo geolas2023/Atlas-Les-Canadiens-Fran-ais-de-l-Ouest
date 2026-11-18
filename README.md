@@ -199,6 +199,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `cityofsaintsacro00burtuoft` | 15 |
 | `historyofutahcom04whit` | 3 |
 | `tullidgeshistori02tull` | 3 |
+| `compendiumhistor00chic` | 34 |
+| `ndcollections01nortuoft` | 224 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |

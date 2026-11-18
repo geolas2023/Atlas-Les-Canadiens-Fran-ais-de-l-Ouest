@@ -509,6 +509,8 @@ LIVRES = [
     ('arizona_cooke_1878.txt', 'ZK', {'court': 'Cooke, The Conquest of New Mexico and California (1878)', 'ref': "P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878"}, 'conquestofnewmex00cookrich', lambda nom, ref: ref),
     ('arizona_ahr_1930.txt', 'ZH', {'court': 'Arizona Historical Review (1930)', 'ref': "Arizona Historical Review, vol. 3, 1930"}, 'arizonahistorica03univ', lambda nom, ref: ref),
     ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
+    ('nd_compendium_1900.txt', 'DA', {'court': 'Compendium of History and Biography of North Dakota (1900)', 'ref': "Compendium of History and Biography of North Dakota, Chicago, George A. Ogle & Co., 1900"}, 'compendiumhistor00chic', lambda nom, ref: ref),
+    ('nd_collections_v1_1906.txt', 'DB', {'court': 'Collections of the State Historical Society of North Dakota, vol. I (1906)', 'ref': "Collections of the State Historical Society of North Dakota, vol. I, Bismarck, 1906"}, 'ndcollections01nortuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
