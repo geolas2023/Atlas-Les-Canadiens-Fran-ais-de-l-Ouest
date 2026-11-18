@@ -595,6 +595,8 @@ LIVRES = [
     ('mn_history_upper_mississippi_1881_p2.txt', 'FK', {'court': 'History of the Upper Mississippi Valley, 1881 (2e partie)', 'ref': "Winchell, Neill, Williams et Bryant, History of the Upper Mississippi Valley, Minneapolis, Minnesota Historical Company, 1881, 2e partie."}, 'historyofuppermi02winc', lambda nom, ref: ref),
     ('mn_folwell_history_v1_1921.txt', 'FL', {'court': 'Folwell, A History of Minnesota, I (1921)', 'ref': "Folwell, William Watts, A History of Minnesota, vol. I, Saint Paul, Minnesota Historical Society, 1921."}, 'cu31924009091392', lambda nom, ref: ref),
     ('mn_folwell_history_v2_1924.txt', 'FM', {'court': 'Folwell, A History of Minnesota, II (1924)', 'ref': "Folwell, William Watts, A History of Minnesota, vol. II, Saint Paul, Minnesota Historical Society, 1924."}, 'historyofminneso02folw', lambda nom, ref: ref),
+    ('mn_history_hennepin_county_1881.txt', 'FN', {'court': 'History of Hennepin County, 1881', 'ref': "Neill, Edward D., History of Hennepin County and the City of Minneapolis, avec J. Fletcher Williams, Outlines of the History of Minnesota, Minneapolis, North Star Publishing Company, 1881."}, 'mn-fillmore-1882-neill', lambda nom, ref: ref),
+    ('mn_history_otter_tail_county_1916_v1.txt', 'FO', {'court': 'History of Otter Tail County, I (1916)', 'ref': "Mason, John W. (dir.), History of Otter Tail County, Minnesota, vol. I, Indianapolis, B. F. Bowen & Company, 1916."}, 'mn-otter-tail-1916-mason-1', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

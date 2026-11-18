@@ -2419,6 +2419,10 @@ G.update({
     'Belle Plaine (Minnesota)': (-93.77, 44.62, 'h', "Belle Plaine (vallée de la Minnesota)"),
     'Carrière de pipestone (Minnesota)': (-96.32, 44.01, 'h', "carrière de pipestone, Coteau des Prairies"),
     'Fort Saint-Pierre (lac à la Pluie)': (-93.40, 48.60, 'h', "Fort Saint-Pierre au pied du lac à la Pluie"),
+    'Dayton (Minnesota)': (-93.51, 45.24, 'h', "Dayton (comtés de Hennepin et Wright)"),
+    'Medina (Minnesota)': (-93.58, 45.04, 'h', "Medina, près de Long Lake et Lenz (comté de Hennepin)"),
+    'Long Lake (Minnesota)': (-93.57, 44.99, 'h', "Long Lake (comté de Hennepin)"),
+    'Corcoran (Minnesota)': (-93.58, 45.10, 'h', "canton de Corcoran (comté de Hennepin)"),
 })
 
 
