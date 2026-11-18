@@ -2443,6 +2443,7 @@ G.update({
     'Little Rock (Minnesota)': (-94.66, 44.43, 'h', "poste de Little Rock sur la Minnesota (comté de Nicollet)"),
     'Hawk Creek (Minnesota)': (-95.43, 44.78, 'h', "ruisseau Hawk (comté de Renville)"),
     'Lida (Minnesota)': (-95.98, 46.58, 'h', "canton de Lida (comté d'Otter Tail)"),
+    'Ghent (Minnesota)': (-95.89, 44.51, 'h', "Ghent (comté de Lyon)"),
 })
 
 
