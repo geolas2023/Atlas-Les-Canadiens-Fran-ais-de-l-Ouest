@@ -855080,6 +855080,4494 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "EQ-accault-michael-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Michael Accault",
+    "corpus": "archive.org · Brower, Itasca State Park (1904)",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michael Accault"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Michael Accault envoyé par La Salle le 29 février depuis le fort Crèvecœur avec Auguelle et Hennepin, canot chargé de marchandises. D'après Brower, Itasca State Park (1904).",
+    "sources": "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904, p. 44 ; texte intégral : archive.org, collectionsofmin11minn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Brower, Itasca State Park (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsofmin11minn/page/44/mode/1up?q=ACCAULT",
+      "texte": "Lire Brower, Itasca State Park (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.65,
+     46.25
+    ]
+   },
+   "properties": {
+    "id": "EQ-auguelle-anthony-mille-lacs",
+    "nom": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota) : Anthony Auguelle",
+    "corpus": "archive.org · Brower, Itasca State Park (1904)",
+    "theme": "personnage",
+    "debut": 1680.0,
+    "fin": 1680.0,
+    "date_edtf": "1680",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Anthony Auguelle"
+    ],
+    "description": "Lac Mille Lacs, village nadouessioux d'Izatys (Minnesota), 1680. Anthony Auguelle compagnon d'Accault. D'après Brower, Itasca State Park (1904).",
+    "sources": "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904, p. 44 ; texte intégral : archive.org, collectionsofmin11minn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Brower, Itasca State Park (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsofmin11minn/page/44/mode/1up?q=AUGUELLE",
+      "texte": "Lire Brower, Itasca State Park (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     55.1
+    ]
+   },
+   "properties": {
+    "id": "EQ-lasiur-lac-la-ron",
+    "nom": "Lac la Ronge : Lasiur",
+    "corpus": "archive.org · Brower, Itasca State Park (1904)",
+    "theme": "personnage",
+    "debut": 1780.0,
+    "fin": 1780.0,
+    "date_edtf": "1780",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lasiur"
+    ],
+    "description": "Lac la Ronge, 1780. Lasiur tue avec Pierrepont le traiteur Waddin, selon la lettre de William Morrison. D'après Brower, Itasca State Park (1904).",
+    "sources": "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904, p. 47 ; texte intégral : archive.org, collectionsofmin11minn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Brower, Itasca State Park (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsofmin11minn/page/47/mode/1up?q=LASIUR",
+      "texte": "Lire Brower, Itasca State Park (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3,
+     55.1
+    ]
+   },
+   "properties": {
+    "id": "EQ-pierrepont-lac-la-ron",
+    "nom": "Lac la Ronge : Pierrepont",
+    "corpus": "archive.org · Brower, Itasca State Park (1904)",
+    "theme": "personnage",
+    "debut": 1780.0,
+    "fin": 1780.0,
+    "date_edtf": "1780",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierrepont"
+    ],
+    "description": "Lac la Ronge, 1780. Pierrepont impliqué dans la mort de Waddin. D'après Brower, Itasca State Park (1904).",
+    "sources": "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904, p. 47 ; texte intégral : archive.org, collectionsofmin11minn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Brower, Itasca State Park (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsofmin11minn/page/47/mode/1up?q=PIERREPONT",
+      "texte": "Lire Brower, Itasca State Park (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.19,
+     47.22
+    ]
+   },
+   "properties": {
+    "id": "EQ-nicollet-lac-itasca",
+    "nom": "Lac Itasca (lac La Biche des traiteurs) : Nicollet",
+    "corpus": "archive.org · Brower, Itasca State Park (1904)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicollet"
+    ],
+    "description": "Lac Itasca (lac La Biche des traiteurs), 1836. Nicollet astronome français; découvre et explore le « Mississippi enfant » le 29 août. D'après Brower, Itasca State Park (1904).",
+    "sources": "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904, p. 48 ; texte intégral : archive.org, collectionsofmin11minn.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Brower, Itasca State Park (1904)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsofmin11minn/page/48/mode/1up?q=NICOLLET",
+      "texte": "Lire Brower, Itasca State Park (1904) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.65,
+     44.63
+    ]
+   },
+   "properties": {
+    "id": "ER-le-sueur-pierre-charles-ile-pelee-",
+    "nom": "Île Pelée (Prairie Island, Minnesota) : Pierre Charles Le Sueur",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1695.0,
+    "fin": 1695.0,
+    "date_edtf": "1695",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Charles Le Sueur"
+    ],
+    "description": "Île Pelée (Prairie Island, Minnesota), 1695. Pierre Charles Le Sueur établit sur l'ordre de Frontenac un poste fortifié, refuge des explorateurs. D'après Collections of the Minnesota Historical Society, vol. XII (1908). Autres lieux de l'entrée : Fort L'Huillier (rivière Bleue de Terre, Minnesota).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 150, 282-290, 490 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/150/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.03,
+     44.15
+    ]
+   },
+   "properties": {
+    "id": "ER-le-sueur-pierre-charles-fort-l-hui",
+    "nom": "Fort L'Huillier (rivière Bleue de Terre, Minnesota) : Pierre Charles Le Sueur",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Charles Le Sueur"
+    ],
+    "description": "Fort L'Huillier (rivière Bleue de Terre, Minnesota), 1700. Pierre Charles Le Sueur fonde le fort au confluent de la Blue Earth et de la Le Sueur, abandonné en 1701. D'après Collections of the Minnesota Historical Society, vol. XII (1908). Autres lieux de l'entrée : Île Pelée (Prairie Island, Minnesota).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 150, 282-290, 490 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/150/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ER-boucher-la-perriere-du-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : La Perrière du Boucher",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "poste",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "La Perrière du Boucher"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1727. La Perrière du Boucher mène de Montréal l'expédition qui bâtit le fort à la Pointe au Sable sur le lac Pépin. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 150 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/150/mode/1up?q=BOUCHER",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "ER-gingras-antoine-pembina",
+    "nom": "Pembina : Antoine Gingras",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Gingras"
+    ],
+    "description": "Pembina, vers 1851. Antoine Gingras élu de Pembina à la Chambre territoriale avec Rolette; vient en cariole à chiens, dix-huit jours de route. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 118-119 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/118/mode/1up?q=GINGRAS",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "ER-rolette-joseph-pembina",
+    "nom": "Pembina : Joseph Rolette",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rolette"
+    ],
+    "description": "Pembina, vers 1851. Joseph Rolette représentant de Pembina. D'après Collections of the Minnesota Historical Society, vol. XII (1908). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 10-15, 118 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/10/mode/1up?q=ROLETTE",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ER-rolette-joseph-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph Rolette",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rolette"
+    ],
+    "description": "Saint-Paul (Minnesota), 1857. Joseph Rolette cache le projet de loi déplaçant la capitale. D'après Collections of the Minnesota Historical Society, vol. XII (1908). Autres lieux de l'entrée : Pembina.",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 10-15, 118 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/10/mode/1up?q=ROLETTE",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.265,
+     44.978
+    ]
+   },
+   "properties": {
+    "id": "ER-bottineau-pierre-minneapoli",
+    "nom": "Minneapolis (Minnesota) : Pierre Bottineau",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Minneapolis (Minnesota), 1847. Pierre Bottineau. Sa maison au bord du fleuve au-dessus de l'île Nicollet, avec deux ou trois cabanes de squatters français et métis, forme presque tout l'établissement des chutes. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 236 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/236/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.99,
+     43.62
+    ]
+   },
+   "properties": {
+    "id": "ER-la-framboise-joseph-springfiel",
+    "nom": "Springfield (aujourd'hui Jackson), rivière Des Moines : Joseph la Framboise",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "evenement",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Framboise"
+    ],
+    "description": "Springfield (aujourd'hui Jackson), rivière Des Moines, 1857. Joseph la Framboise guide du capitaine Bee envoyé du fort Ridgely après le massacre d'Inkpaduta. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 273 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/273/mode/1up?q=LA+FRAMBOISE",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9,
+     45.03
+    ]
+   },
+   "properties": {
+    "id": "ER-renville-joseph-lac-qui-pa",
+    "nom": "Lac-qui-Parle : Joseph Renville",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Renville"
+    ],
+    "description": "Lac-qui-Parle, 1834. Joseph Renville traiteur à mère dakota, interprète et guide de Pike dans sa jeunesse, le plus influent chez les Dakotas du haut Minnesota. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 332-334 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/332/mode/1up?q=RENVILLE",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.95,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "ER-provencalle-louis-traverse-d",
+    "nom": "Traverse-des-Sioux : Louis Provencalle",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Provencalle"
+    ],
+    "description": "Traverse-des-Sioux, 1834. Louis Provencalle dit Le Blanc ou Skadan; natif du Canada, y tient le poste trente ou quarante ans; Prescott s'installe en concurrence. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 334-336 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/334/mode/1up?q=PROVENCALLE",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ER-faribault-jean-baptiste-mendota",
+    "nom": "Mendota : Jean-Baptiste Faribault",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Faribault"
+    ],
+    "description": "Mendota, vers 1834. Jean-Baptiste Faribault trafique à Carver et réside surtout à Mendota. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 338 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/338/mode/1up?q=FARIBAULT",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ER-faribault-alexandre-mendota",
+    "nom": "Mendota : Alexandre Faribault",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1834.0,
+    "fin": 1834.0,
+    "date_edtf": "1834~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Faribault"
+    ],
+    "description": "Mendota, vers 1834. Alexandre Faribault trafique sur la rivière Cannon. D'après Collections of the Minnesota Historical Society, vol. XII (1908). Autres lieux de l'entrée : Faribault (comté de Rice).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 338 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/338/mode/1up?q=FARIBAULT",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.27,
+     44.29
+    ]
+   },
+   "properties": {
+    "id": "ER-faribault-alexandre-faribault-",
+    "nom": "Faribault (comté de Rice) : Alexandre Faribault",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexandre Faribault"
+    ],
+    "description": "Faribault (comté de Rice), 1882. Alexandre Faribault fondateur de la ville, y meurt. D'après Collections of the Minnesota Historical Society, vol. XII (1908). Autres lieux de l'entrée : Mendota.",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 338 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/338/mode/1up?q=FARIBAULT",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.25,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "ER-rock-louis-ou-roche-lac-pepin",
+    "nom": "Lac Pépin (haut Mississippi) : Louis Rock (ou ROCHE)",
+    "corpus": "archive.org · Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Rock (ou ROCHE)"
+    ],
+    "description": "Lac Pépin (haut Mississippi), 1837. Louis Rock (ou ROCHE) Canadien français au bas du lac, traite avec la bande Kiuksa; hôte de l'auteur au printemps. D'après Collections of the Minnesota Historical Society, vol. XII (1908).",
+    "sources": "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908, p. 338 ; texte intégral : archive.org, collections12minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Collections of the Minnesota Historical Society, vol. XII (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections12minnuoft/page/338/mode/1up?q=ROCK",
+      "texte": "Lire Collections of the Minnesota Historical Society, vol. XII (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.27,
+     44.29
+    ]
+   },
+   "properties": {
+    "id": "ES-antoine-charles-faribault-",
+    "nom": "Faribault (comté de Rice) : Charles Antoine",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Antoine"
+    ],
+    "description": "Faribault (comté de Rice), 1847. Charles Antoine, né en 1794 à Québec, ancien traiteur de fourrures et éclaireur près du fort Snelling, s'y établit, puis possède une ferme à Mendota. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 18 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/18/mode/1up?q=ANTOINE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0,
+     49.28
+    ]
+   },
+   "properties": {
+    "id": "ES-aulneau-jean-pierre-fort-saint",
+    "nom": "Fort Saint-Charles (lac des Bois) : Jean-Pierre Aulneau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1735.0,
+    "fin": 1735.0,
+    "date_edtf": "1735",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Pierre Aulneau"
+    ],
+    "description": "Fort Saint-Charles (lac des Bois), 1735. Jean-Pierre Aulneau, né en 1705, jésuite, missionnaire des Cris. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : île au Massacre (lac des Bois).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 24 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/24/mode/1up?q=AULNEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "ES-aulneau-jean-pierre-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Jean-Pierre Aulneau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "evenement",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Pierre Aulneau"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1736. Jean-Pierre Aulneau, né en 1705, massacré le 6 juin par les Sioux avec le fils aîné de La Vérendrye et vingt autres Français. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Saint-Charles (lac des Bois).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 24 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/24/mode/1up?q=AULNEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-bailly-alexis-mendota",
+    "nom": "Mendota : Alexis Bailly",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexis Bailly"
+    ],
+    "description": "Mendota, 1821. Alexis Bailly, né en 1798, Métis, français et quart outaouais, instruit à Montréal, entre dans la traite des fourrures. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Wabasha (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 28 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/28/mode/1up?q=BAILLY",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.03,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "ES-bailly-alexis-wabasha-mi",
+    "nom": "Wabasha (Minnesota) : Alexis Bailly",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexis Bailly"
+    ],
+    "description": "Wabasha (Minnesota), 1861. Alexis Bailly, né en 1798, meurt le 3 juin. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 28 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/28/mode/1up?q=BAILLY",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-bazille-charles-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Charles Bazille",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Bazille"
+    ],
+    "description": "Saint-Paul (Minnesota), 1844. Charles Bazille, né en 1812 à Montréal, charpentier puis briquetier; donne le terrain du premier capitole. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 40 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/40/mode/1up?q=BAZILLE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.45,
+     47.8
+    ]
+   },
+   "properties": {
+    "id": "ES-beaudette-joseph-gentilly-m",
+    "nom": "Gentilly (Minnesota) : Joseph Beaudette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Beaudette"
+    ],
+    "description": "Gentilly (Minnesota), 1876. Joseph Beaudette, né en 1829 à Québec, prend une terre et nomme le village d'après son village natal. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Crookston (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAUDETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.608,
+     47.774
+    ]
+   },
+   "properties": {
+    "id": "ES-beaudette-joseph-crookston-",
+    "nom": "Crookston (Minnesota) : Joseph Beaudette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1888.0,
+    "fin": 1888.0,
+    "date_edtf": "1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Beaudette"
+    ],
+    "description": "Crookston (Minnesota), 1888. Joseph Beaudette, né en 1829 à Québec, s'y installe. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Gentilly (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAUDETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-beaudro-john-b-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : John B. Beaudro",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Beaudro"
+    ],
+    "description": "Saint-Paul (Minnesota), 1848. John B. Beaudro, né en 1824 à Sorel, s'établit; prend un homestead au lac Como en 1850. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Red Lake Falls (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAUDRO",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.274,
+     47.882
+    ]
+   },
+   "properties": {
+    "id": "ES-beaudro-john-b-red-lake-f",
+    "nom": "Red Lake Falls (Minnesota) : John B. Beaudro",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Beaudro"
+    ],
+    "description": "Red Lake Falls (Minnesota), 1877. John B. Beaudro, né en 1824 à Sorel, s'y installe; y meurt en 1901. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAUDRO",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.21,
+     47.34
+    ]
+   },
+   "properties": {
+    "id": "ES-beaulieu-charles-h-bena-minne",
+    "nom": "Bena (comté de Cass) : Charles H. Beaulieu",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1904.0,
+    "fin": 1904.0,
+    "date_edtf": "1904",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles H. Beaulieu"
+    ],
+    "description": "Bena (comté de Cass), 1904. Charles H. Beaulieu, né en 1836 à La Pointe, officier d'une compagnie d'Ojibwés du 9e Minnesota pendant la guerre de Sécession; agent indien à Leech Lake après 1877. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAULIEU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.84,
+     47.1
+    ]
+   },
+   "properties": {
+    "id": "ES-beaulieu-clement-hudon-terre-blan",
+    "nom": "Terre-Blanche (White Earth) : Clement Hudon Beaulieu",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Clement Hudon Beaulieu"
+    ],
+    "description": "Terre-Blanche (White Earth), 1873. Clement Hudon Beaulieu, né en 1811 à Lac Flambeau, d'ascendance française et ojibwée, ancien traiteur à Crow Wing; s'y établit; y meurt en 1893. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAULIEU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.84,
+     47.1
+    ]
+   },
+   "properties": {
+    "id": "ES-beaulieu-paul-h-terre-blan",
+    "nom": "Terre-Blanche (White Earth) : Paul H. Beaulieu",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1897.0,
+    "fin": 1897.0,
+    "date_edtf": "1897",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Paul H. Beaulieu"
+    ],
+    "description": "Terre-Blanche (White Earth), 1897. Paul H. Beaulieu, né en 1820 à Michilimackinac, d'origine française et indienne, interprète réputé, grande influence chez les Ojibwés; y meurt. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAULIEU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-beaumette-william-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : William Beaumette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Beaumette"
+    ],
+    "description": "Saint-Paul (Minnesota), 1870. William Beaumette, né vers 1800, venu de la colonie de Selkirk au fort Snelling puis à Mendota; vit plus de vingt ans à Saint Paul et y meurt. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 42 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/42/mode/1up?q=BEAUMETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "ES-belcourt-george-antoine-pembina",
+    "nom": "Pembina : George Antoine Belcourt",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Antoine Belcourt"
+    ],
+    "description": "Pembina, 1830. George Antoine Belcourt, né en 1803, prêtre, missionnaire des Indiens de la Rivière-Rouge, réside à Pembina. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 44 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/44/mode/1up?q=BELCOURT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.806,
+     45.056
+    ]
+   },
+   "properties": {
+    "id": "ES-bonin-joseph-stillwater",
+    "nom": "Stillwater (Minnesota) : Joseph Bonin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Bonin"
+    ],
+    "description": "Stillwater (Minnesota), 1839. Joseph Bonin, né en 1820 à Montréal, employé de l'American Fur Company, s'établit près de Stillwater. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 64 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/64/mode/1up?q=BONIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.18,
+     44.89
+    ]
+   },
+   "properties": {
+    "id": "ES-bottineau-pierre-fort-snell",
+    "nom": "Fort Snelling : Pierre Bottineau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Fort Snelling, 1837. Pierre Bottineau, né en 1817 à Red River, fils d'un traiteur français et d'une Ojibwée; guide et interprète. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota), chutes Saint-Antoine, Red Lake Falls (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 65-66 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/65/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-bottineau-pierre-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Pierre Bottineau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Saint-Paul (Minnesota), vers 1840. Pierre Bottineau, né en 1817 à Red River, y vit six ans. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling, chutes Saint-Antoine, Red Lake Falls (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 65-66 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/65/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "ES-bottineau-pierre-saint-anth",
+    "nom": "Chutes Saint-Antoine : Pierre Bottineau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Chutes Saint-Antoine, vers 1846. Pierre Bottineau, né en 1817 à Red River, s'y installe. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling, Saint-Paul (Minnesota), Red Lake Falls (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 65-66 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/65/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.274,
+     47.882
+    ]
+   },
+   "properties": {
+    "id": "ES-bottineau-pierre-red-lake-f",
+    "nom": "Red Lake Falls (Minnesota) : Pierre Bottineau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1895.0,
+    "fin": 1895.0,
+    "date_edtf": "1895",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Red Lake Falls (Minnesota), 1895. Pierre Bottineau, né en 1817 à Red River, y meurt le 27 juillet. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling, Saint-Paul (Minnesota), chutes Saint-Antoine.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 65-66 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/65/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ES-boucher-rene-sieur-de-la-per-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : René, sieur de la Perrière Boucher",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "René, sieur de la Perrière Boucher"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1727. René, sieur de la Perrière Boucher, né en 1668 à Trois-Rivières, bâtit le fort sur le lac Pépin. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 67 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/67/mode/1up?q=BOUCHER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.03,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "ES-buisson-joseph-wabasha-mi",
+    "nom": "Wabasha (Minnesota) : Joseph Buisson",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Buisson"
+    ],
+    "description": "Wabasha (Minnesota), 1839. Joseph Buisson, né en 1797 à Montréal, traiteur de l'American Fur Company, l'un des fondateurs de la ville; y meurt en 1857. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 90 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/90/mode/1up?q=BUISSON",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.06,
+     45.16
+    ]
+   },
+   "properties": {
+    "id": "ES-cardinal-clement-centervill",
+    "nom": "Ruisseau Clearwater près de Centerville (comté d'Anoka) : Clément Cardinal",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Clément Cardinal"
+    ],
+    "description": "Ruisseau Clearwater près de Centerville (comté d'Anoka), 1863. Clément Cardinal, né en 1837, traiteur de fourrures, soldat du 5e Minnesota en 1862, s'établit dans le comté d'Anoka. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 105 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/105/mode/1up?q=CARDINAL",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.65,
+     45.4
+    ]
+   },
+   "properties": {
+    "id": "ES-chenvert-bruno-riviere-sa",
+    "nom": "Rivière Sainte-Croix : Bruno Chenvert",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Bruno Chenvert"
+    ],
+    "description": "Rivière Sainte-Croix, 1845. Bruno Chenvert, né en 1821 à Québec, arrive au Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Traverse-des-Sioux.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 117 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/117/mode/1up?q=CHENVERT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.95,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "ES-chenvert-bruno-traverse-d",
+    "nom": "Traverse-des-Sioux : Bruno Chenvert",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Bruno Chenvert"
+    ],
+    "description": "Traverse-des-Sioux, 1851. Bruno Chenvert, né en 1821 à Québec, traiteur au service d'Henry M. Rice; y meurt en 1877. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : rivière Sainte-Croix.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 117 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/117/mode/1up?q=CHENVERT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-courturier-maxcell-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Maxcell Courturier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Maxcell Courturier"
+    ],
+    "description": "Saint-Paul (Minnesota), 1846. Maxcell Courturier, né en 1816 à Sorel, voyageur de l'American Fur Company puis employé de J. R. Brown; prend une concession; réside ensuite dans l'île Gray Cloud. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 145 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/145/mode/1up?q=COURTURIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ES-de-gonnor-nicholas-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : Nicholas de Gonnor",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicholas de Gonnor"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1727. Nicholas de Gonnor, né en 1691, jésuite, fonde avec Guignas la mission sioux. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 171 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/171/mode/1up?q=DE+GONNOR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-de-mair-xavier-mendota",
+    "nom": "Mendota : Xavier de Mair",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Xavier de Mair"
+    ],
+    "description": "Mendota, 1838. Xavier de Mair, né en 1813 à Red River, s'y établit. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota), Saint Peter.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 172 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/172/mode/1up?q=DE+MAIR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-de-mair-xavier-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Xavier de Mair",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Xavier de Mair"
+    ],
+    "description": "Saint-Paul (Minnesota), 1840. Xavier de Mair, né en 1813 à Red River, possède une concession. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota, Saint Peter.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 172 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/172/mode/1up?q=DE+MAIR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.96,
+     44.32
+    ]
+   },
+   "properties": {
+    "id": "ES-de-mair-xavier-saint-pete",
+    "nom": "Saint Peter : Xavier de Mair",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Xavier de Mair"
+    ],
+    "description": "Saint Peter, 1852. Xavier de Mair, né en 1813 à Red River, y vit jusqu'en 1877. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota, Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 172 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/172/mode/1up?q=DE+MAIR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "ES-de-noyon-jacques-rainy-lake",
+    "nom": "Lac la Pluie : Jacques de Noyon",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1688.0,
+    "fin": 1688.0,
+    "date_edtf": "1688~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques de Noyon"
+    ],
+    "description": "Lac la Pluie, vers 1688. Jacques de Noyon, né à Trois-Rivières, traverse la frontière nord du Minnesota, hiverne sur la rivière à la Pluie. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 173 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/173/mode/1up?q=DE+NOYON",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-dugas-william-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : William Dugas",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Dugas"
+    ],
+    "description": "Saint-Paul (Minnesota), 1844. William Dugas, né en 1809 à Trois-Rivières, arrive. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : chutes Saint-Antoine.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 189 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/189/mode/1up?q=DUGAS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "ES-dugas-william-saint-anth",
+    "nom": "Chutes Saint-Antoine : William Dugas",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Dugas"
+    ],
+    "description": "Chutes Saint-Antoine, 1846. William Dugas, né en 1809 à Trois-Rivières, prend une concession; tient hôtel et bac; député territorial en 1849. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 189 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/189/mode/1up?q=DUGAS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-faribault-alexandre-mendota",
+    "nom": "Mendota : Alexandre Faribault",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Faribault"
+    ],
+    "description": "Mendota, 1821. Alexandre Faribault, né en 1806 à Prairie du Chien, arrive au Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Faribault (comté de Rice).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 216 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/216/mode/1up?q=FARIBAULT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.27,
+     44.29
+    ]
+   },
+   "properties": {
+    "id": "ES-faribault-alexandre-faribault-",
+    "nom": "Faribault (comté de Rice) : Alexandre Faribault",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1882.0,
+    "fin": 1882.0,
+    "date_edtf": "1882",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexandre Faribault"
+    ],
+    "description": "Faribault (comté de Rice), 1882. Alexandre Faribault, né en 1806 à Prairie du Chien. Fondateur de la ville, où il bâtit la première maison; y meurt. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 216 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/216/mode/1up?q=FARIBAULT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-faribault-jean-baptiste-mendota",
+    "nom": "Mendota : Jean-Baptiste Faribault",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Faribault"
+    ],
+    "description": "Mendota, vers 1806. Jean-Baptiste Faribault, né en 1774 à Berthier, après dix ans d'agence pour la traite, s'établit à son compte; premier Blanc à cultiver la terre au Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Faribault (comté de Rice).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 216 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/216/mode/1up?q=FARIBAULT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.27,
+     44.29
+    ]
+   },
+   "properties": {
+    "id": "ES-faribault-jean-baptiste-faribault-",
+    "nom": "Faribault (comté de Rice) : Jean-Baptiste Faribault",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Faribault"
+    ],
+    "description": "Faribault (comté de Rice), 1860. Jean-Baptiste Faribault, né en 1774 à Berthier, y meurt le 20 août. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 216 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/216/mode/1up?q=FARIBAULT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.608,
+     47.774
+    ]
+   },
+   "properties": {
+    "id": "ES-fontaine-louis-crookston-",
+    "nom": "Crookston (Minnesota) : Louis Fontaine",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1878.0,
+    "fin": 1878.0,
+    "date_edtf": "1878",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Fontaine"
+    ],
+    "description": "Crookston (Minnesota), 1878. Louis Fontaine, né en 1840 à Québec, soldat du 4e Minnesota, marchand. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 231 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/231/mode/1up?q=FONTAINE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.36,
+     45.98
+    ]
+   },
+   "properties": {
+    "id": "ES-fortier-george-m-little-fal",
+    "nom": "Little Falls : George M. Fortier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1881.0,
+    "fin": 1881.0,
+    "date_edtf": "1881",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George M. Fortier"
+    ],
+    "description": "Little Falls, 1881. George M. Fortier, né en 1857, médecin diplômé de Montréal. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 233 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/233/mode/1up?q=FORTIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-galtier-lucien-mendota",
+    "nom": "Mendota : Lucien Galtier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Galtier"
+    ],
+    "description": "Mendota, 1840. Lucien Galtier, née en 1811, ordonné à Dubuque, s'établit à Mendota. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 246 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/246/mode/1up?q=GALTIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-galtier-lucien-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Lucien Galtier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Galtier"
+    ],
+    "description": "Saint-Paul (Minnesota), 1841. Lucien Galtier, née en 1811, bâtit la chapelle dédiée à saint Paul, d'où le nom de la ville. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 246 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/246/mode/1up?q=GALTIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "ES-gervais-benjamin-red-river",
+    "nom": "Rivière-Rouge : Benjamin Gervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1812.0,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Gervais"
+    ],
+    "description": "Rivière-Rouge, 1812. Benjamin Gervais, né en 1786 à Rivière-du-Loup, s'établit dans la colonie de Selkirk. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling, Saint-Paul (Minnesota), New Canada (comté de Ramsey).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 252 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/252/mode/1up?q=GERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.18,
+     44.89
+    ]
+   },
+   "properties": {
+    "id": "ES-gervais-benjamin-fort-snell",
+    "nom": "Fort Snelling : Benjamin Gervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin Gervais"
+    ],
+    "description": "Fort Snelling, 1827. Benjamin Gervais, né en 1786 à Rivière-du-Loup, arrive. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Rivière-Rouge, Saint-Paul (Minnesota), New Canada (comté de Ramsey).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 252 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/252/mode/1up?q=GERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-gervais-benjamin-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Benjamin Gervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1838.0,
+    "fin": 1838.0,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Benjamin Gervais"
+    ],
+    "description": "Saint-Paul (Minnesota), 1838. Benjamin Gervais, né en 1786 à Rivière-du-Loup, expulsé de la réserve militaire, ouvre une ferme. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Rivière-Rouge, fort Snelling, New Canada (comté de Ramsey).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 252 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/252/mode/1up?q=GERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.05,
+     45.03
+    ]
+   },
+   "properties": {
+    "id": "ES-gervais-benjamin-new-canada",
+    "nom": "New Canada (comté de Ramsey) : Benjamin Gervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Benjamin Gervais"
+    ],
+    "description": "New Canada (comté de Ramsey), 1876. Benjamin Gervais, né en 1786 à Rivière-du-Loup, y meurt. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Rivière-Rouge, fort Snelling, Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 252 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/252/mode/1up?q=GERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-gervais-severe-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Sévère Gervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sévère Gervais"
+    ],
+    "description": "Saint-Paul (Minnesota), 1836. Sévère Gervais, né en 1829 à Saint-Boniface, arrive avec ses parents; possède plus tard une ferme à Little Canada. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 252 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/252/mode/1up?q=GERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-gervais-basil-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Basil Gervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Basil Gervais"
+    ],
+    "description": "Saint-Paul (Minnesota), 1839. Basil Gervais, né en 1839 à Saint-Paul (Minnesota), premier enfant né à Saint Paul de parents blancs; flotteur de bois puis fermier. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 252 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/252/mode/1up?q=GERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.2,
+     46.36
+    ]
+   },
+   "properties": {
+    "id": "ES-goulet-f-x-brainerd-m",
+    "nom": "Brainerd : F. X. Goulet",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "F. X. Goulet"
+    ],
+    "description": "Brainerd, 1873. F. X. Goulet, né en 1844 à Québec, auditeur du comté, député en 1876. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Belle Prairie (comté de Morrison).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 269 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/269/mode/1up?q=GOULET",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.33,
+     46.04
+    ]
+   },
+   "properties": {
+    "id": "ES-goulet-f-x-belle-prai",
+    "nom": "Belle Prairie (comté de Morrison) : F. X. Goulet",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1878.0,
+    "fin": 1878.0,
+    "date_edtf": "1878",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "F. X. Goulet"
+    ],
+    "description": "Belle Prairie (comté de Morrison), 1878. F. X. Goulet, né en 1844 à Québec, commerçant et meunier. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Brainerd.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 269 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/269/mode/1up?q=GOULET",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.33,
+     46.04
+    ]
+   },
+   "properties": {
+    "id": "ES-gravel-charles-belle-prai",
+    "nom": "Belle Prairie (comté de Morrison) : Charles Gravel",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Gravel"
+    ],
+    "description": "Belle Prairie (comté de Morrison), 1876. Charles Gravel, né en 1846 à Montréal, bâtit scierie et moulin; fonde le village de Gravelville. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 272 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/272/mode/1up?q=GRAVEL",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.65,
+     44.63
+    ]
+   },
+   "properties": {
+    "id": "ES-groseilliers-medard-chouart--ile-pelee-",
+    "nom": "Île Pelée (Prairie Island, Minnesota) : Médard Chouart, sieur des Groseilliers",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1655.0,
+    "fin": 1655.0,
+    "date_edtf": "1655",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Médard Chouart, sieur des Groseilliers"
+    ],
+    "description": "Île Pelée (Prairie Island, Minnesota), 1655. Médard Chouart, sieur des Groseilliers, né en 1621, premier des deux explorateurs du Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 281-282 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/281/mode/1up?q=GROSEILLIERS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-guernon-adelard-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Adélard Guernon",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Adélard Guernon"
+    ],
+    "description": "Saint-Paul (Minnesota), 1865. Adélard Guernon, né en 1844 à Québec, médecin diplômé de Montréal. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Little Falls.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 283 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/283/mode/1up?q=GUERNON",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.36,
+     45.98
+    ]
+   },
+   "properties": {
+    "id": "ES-guernon-adelard-little-fal",
+    "nom": "Little Falls : Adélard Guernon",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Adélard Guernon"
+    ],
+    "description": "Little Falls, 1872. Adélard Guernon, né en 1844 à Québec, surintendant des écoles du comté de Morrison. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 283 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/283/mode/1up?q=GUERNON",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ES-guignas-michael-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : Michael Guignas",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michael Guignas"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1727. Michael Guignas, né en 1681, jésuite, fonde la mission sioux, abandonnée l'année suivante. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 283 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/283/mode/1up?q=GUIGNAS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ES-jemeraye-christophe-dufrost--fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : Christophe Dufrost, sieur de la Jemeraye",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1728.0,
+    "fin": 1728.0,
+    "date_edtf": "1728",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Christophe Dufrost, sieur de la Jemeraye"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1728. Christophe Dufrost, sieur de la Jemeraye, né en 1707, commandant pendant l'hiver 1728-1729. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : lac la Pluie.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, s. p. ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft?q=JEMERAYE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.6
+    ]
+   },
+   "properties": {
+    "id": "ES-jemeraye-christophe-dufrost--rainy-lake",
+    "nom": "Lac la Pluie : Christophe Dufrost, sieur de la Jemeraye",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1731.0,
+    "fin": 1731.0,
+    "date_edtf": "1731",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Christophe Dufrost, sieur de la Jemeraye"
+    ],
+    "description": "Lac la Pluie, 1731. Christophe Dufrost, sieur de la Jemeraye, né en 1707, accompagne son oncle La Vérendrye et bâtit des forts. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Beauharnois (lac Pépin).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, s. p. ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft?q=JEMERAYE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.608,
+     47.774
+    ]
+   },
+   "properties": {
+    "id": "ES-jerome-frank-crookston-",
+    "nom": "Crookston (Minnesota) : Frank Jerome",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1872.0,
+    "fin": 1872.0,
+    "date_edtf": "1872",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank Jerome"
+    ],
+    "description": "Crookston (Minnesota), 1872. Frank Jerome, né en 1848 à Montréal, prend une concession sur le site de la ville. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 372 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/372/mode/1up?q=JEROME",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.03,
+     45.43
+    ]
+   },
+   "properties": {
+    "id": "ES-jodoin-joseph-haven-minn",
+    "nom": "Haven (comté de Sherburne) : Joseph Jodoin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Jodoin"
+    ],
+    "description": "Haven (comté de Sherburne), 1854. Joseph Jodoin, né en 1832, s'établit. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Rivière-Rouge.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 373 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/373/mode/1up?q=JODOIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "ES-jodoin-joseph-red-river",
+    "nom": "Rivière-Rouge : Joseph Jodoin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Jodoin"
+    ],
+    "description": "Rivière-Rouge, 1862. Joseph Jodoin, né en 1832, traiteur indien dans la vallée de la Rivière-Rouge jusqu'en 1878. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Haven (comté de Sherburne).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 373 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/373/mode/1up?q=JODOIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.03,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "ES-la-bathe-joseph-wabasha-mi",
+    "nom": "Wabasha (Minnesota) : Joseph la Bathe",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Bathe"
+    ],
+    "description": "Wabasha (Minnesota), vers 1830. Joseph la Bathe, né en 1825 à Mendota, Métis, enfance au village de Wabasha. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : île Gray Cloud.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 414 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/414/mode/1up?q=LA+BATHE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.97,
+     44.8
+    ]
+   },
+   "properties": {
+    "id": "ES-la-bathe-joseph-ile-gray-c",
+    "nom": "Île Gray Cloud : Joseph la Bathe",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Bathe"
+    ],
+    "description": "Île Gray Cloud, 1879. Joseph la Bathe, né en 1825 à Mendota, s'y établit sur une ferme. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Wabasha (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 414 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/414/mode/1up?q=LA+BATHE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-la-bissonniere-isaac-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Isaac la Bissonniere",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isaac la Bissonniere"
+    ],
+    "description": "Saint-Paul (Minnesota), 1837. Isaac la Bissonniere, né en 1823 à Pembina, quart ojibwé; arrive avec ses parents. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 414-416 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/414/mode/1up?q=LA+BISSONNIERE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-la-bissonniere-isaac-saint-paul-2",
+    "nom": "Saint-Paul (Minnesota) : Isaac la Bissonniere",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isaac la Bissonniere"
+    ],
+    "description": "Saint-Paul (Minnesota), 1841. Isaac la Bissonniere, né en 1823 à Pembina, ouvrier de la première chapelle. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 414-416 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/414/mode/1up?q=LA+BISSONNIERE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-langevin-edward-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Edward Langevin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Edward Langevin"
+    ],
+    "description": "Saint-Paul (Minnesota), 1852. Edward Langevin, né en 1827 à Québec, commerçant, puis immobilier à West St. Paul. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 421 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/421/mode/1up?q=LANGEVIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-larpenteur-eugene-n-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Eugene N. Larpenteur",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Eugene N. Larpenteur"
+    ],
+    "description": "Saint-Paul (Minnesota), 1849. Eugene N. Larpenteur, né en 1805, né à Paris; possède une grande ferme sur le site de la foire d'État. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 423 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/423/mode/1up?q=LARPENTEUR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.18,
+     44.89
+    ]
+   },
+   "properties": {
+    "id": "ES-le-count-antoine-fort-snell",
+    "nom": "Fort Snelling : Antoine Le Count",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Le Count"
+    ],
+    "description": "Fort Snelling, 1837. Antoine Le Count, né en 1822 à Red River, arrive avec son père, guide et traiteur. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Plymouth (comté de Hennepin).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 429 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/429/mode/1up?q=LE+COUNT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.46,
+     45.01
+    ]
+   },
+   "properties": {
+    "id": "ES-le-count-antoine-plymouth-m",
+    "nom": "Plymouth (comté de Hennepin) : Antoine Le Count",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Le Count"
+    ],
+    "description": "Plymouth (comté de Hennepin), 1853. Antoine Le Count, né en 1822 à Red River, premier colon. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 429 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/429/mode/1up?q=LE+COUNT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "ES-le-sueur-pierre-charles-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Pierre Charles Le Sueur",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Charles Le Sueur"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1683. Pierre Charles Le Sueur, né en 1657, atteint le Mississippi par le Wisconsin. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Fort L'Huillier (rivière Bleue de Terre, Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 435 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/435/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.03,
+     44.15
+    ]
+   },
+   "properties": {
+    "id": "ES-le-sueur-pierre-charles-fort-l-hui",
+    "nom": "Fort L'Huillier (rivière Bleue de Terre, Minnesota) : Pierre Charles Le Sueur",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1700.0,
+    "date_edtf": "1700",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Charles Le Sueur"
+    ],
+    "description": "Fort L'Huillier (rivière Bleue de Terre, Minnesota), 1700. Pierre Charles Le Sueur, né en 1657, bâtit le fort sur la Blue Earth et y hiverne. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Prairie du Chien (Wisconsin).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 435 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/435/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.274,
+     47.882
+    ]
+   },
+   "properties": {
+    "id": "ES-lemieux-israel-red-lake-f",
+    "nom": "Red Lake Falls (Minnesota) : Israël Lemieux",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1880.0,
+    "fin": 1880.0,
+    "date_edtf": "1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Israël Lemieux"
+    ],
+    "description": "Red Lake Falls (Minnesota), 1880. Israël Lemieux, né en 1852, médecin diplômé de Montréal. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 433 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/433/mode/1up?q=LEMIEUX",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.06,
+     45.16
+    ]
+   },
+   "properties": {
+    "id": "ES-levallee-francis-x-centervill",
+    "nom": "Ruisseau Clearwater près de Centerville (comté d'Anoka) : Francis X. Levallee",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis X. Levallee"
+    ],
+    "description": "Ruisseau Clearwater près de Centerville (comté d'Anoka), 1852. Francis X. Levallee, né en 1825 à Québec, deuxième colon du canton; bâtit la première maison de charpente. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 436 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/436/mode/1up?q=LEVALLEE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ES-marin-pierre-paul-sieur-de-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : Pierre Paul, sieur de Marin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1750.0,
+    "fin": 1750.0,
+    "date_edtf": "1750",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Paul, sieur de Marin"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1750. Pierre Paul, sieur de Marin, né en 1690, commandant du fort de 1750 à 1752. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 487 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/487/mode/1up?q=MARIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.57,
+     44.22
+    ]
+   },
+   "properties": {
+    "id": "ES-martell-oliver-waterville",
+    "nom": "Waterville (comté de Le Sueur) : Oliver Martell",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Oliver Martell"
+    ],
+    "description": "Waterville (comté de Le Sueur), 1856. Oliver Martell, né en 1818 à Québec, bâtit une scierie; traiteur, tient ensuite le bac de l'agence inférieure. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Big Stone City (Dakota du Sud).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 490 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/490/mode/1up?q=MARTELL",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.47,
+     45.29
+    ]
+   },
+   "properties": {
+    "id": "ES-martell-oliver-big-stone-",
+    "nom": "Big Stone City (Dakota du Sud) : Oliver Martell",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Oliver Martell"
+    ],
+    "description": "Big Stone City (Dakota du Sud), 1871. Oliver Martell, né en 1818 à Québec, s'y installe. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Waterville (comté de Le Sueur).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 490 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/490/mode/1up?q=MARTELL",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.887
+    ]
+   },
+   "properties": {
+    "id": "ES-mercier-charlotte-moreau-fort-garry",
+    "nom": "Fort Garry : Charlotte Moreau Mercier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charlotte Moreau Mercier"
+    ],
+    "description": "Fort Garry, 1816. Charlotte Moreau Mercier, née en 1791 à Leech Lake, fille d'un exilé français et d'une Métisse, élevée par des Ojibwés; épouse le voyageur Jean Latourelle. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 504 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/504/mode/1up?q=MERCIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-mercier-charlotte-moreau-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Charlotte Moreau Mercier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1895.0,
+    "fin": 1895.0,
+    "date_edtf": "1895",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charlotte Moreau Mercier"
+    ],
+    "description": "Saint-Paul (Minnesota), 1895. Charlotte Moreau Mercier, née en 1791 à Leech Lake, y meurt à 104 ans. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Garry.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 504 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/504/mode/1up?q=MERCIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.887
+    ]
+   },
+   "properties": {
+    "id": "ES-latourelle-jean-fort-garry",
+    "nom": "Fort Garry : Jean Latourelle",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1816.0,
+    "fin": 1816.0,
+    "date_edtf": "1816",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Latourelle"
+    ],
+    "description": "Fort Garry, 1816. Jean Latourelle voyageur français, épouse Charlotte Moreau. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 504 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/504/mode/1up?q=LATOURELLE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-latourelle-jean-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Jean Latourelle",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Latourelle"
+    ],
+    "description": "Saint-Paul (Minnesota), vers 1842. Jean Latourelle y meurt au début des années 1840. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Garry.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 504 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/504/mode/1up?q=LATOURELLE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-michaud-d-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : D. Michaud",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "D. Michaud"
+    ],
+    "description": "Saint-Paul (Minnesota), 1874. D. Michaud, né en 1851 à Québec, avocat, fondateur et rédacteur du journal Le Canadien. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 507 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/507/mode/1up?q=MICHAUD",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-millette-paul-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Paul Millette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul Millette"
+    ],
+    "description": "Saint-Paul (Minnesota), 1847. Paul Millette, né en 1833 à Sorel, travaille dans les pinières, pilote sur le Mississippi, puis commerçant à New Canada. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 512 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/512/mode/1up?q=MILLETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.4,
+     47.15
+    ]
+   },
+   "properties": {
+    "id": "ES-morison-george-a-leech-lake",
+    "nom": "Lac Sangsue (Leech Lake) : George A. Morison",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "George A. Morison"
+    ],
+    "description": "Lac Sangsue (Leech Lake), 1858. George A. Morison, né en 1839, traiteur à Leech Lake, Red Lake et White Earth. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 524 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/524/mode/1up?q=MORISON",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9,
+     45.03
+    ]
+   },
+   "properties": {
+    "id": "ES-mousseau-charles-lac-qui-pa",
+    "nom": "Lac-qui-Parle : Charles Mousseau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1829.0,
+    "fin": 1829.0,
+    "date_edtf": "1829",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Mousseau"
+    ],
+    "description": "Lac-qui-Parle, 1829. Charles Mousseau, né en 1806 à Montréal, voyageur de l'American Fur Company, y passe un an. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : lac Calhoun.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 530 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/530/mode/1up?q=MOUSSEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.31,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-mousseau-charles-lac-calhou",
+    "nom": "Lac Calhoun : Charles Mousseau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Mousseau"
+    ],
+    "description": "Lac Calhoun, 1849. Charles Mousseau, né en 1806 à Montréal, s'y établit; avait bâti pour John H. Stevens la première maison de Minneapolis. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Lac-qui-Parle.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 530 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/530/mode/1up?q=MOUSSEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-olivier-john-b-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : John B. Olivier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1854.0,
+    "fin": 1854.0,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John B. Olivier"
+    ],
+    "description": "Saint-Paul (Minnesota), 1854. John B. Olivier, né en 1836 à Berthier, député en 1859-1860, soldat du 8e Minnesota, auditeur du comté de Ramsey. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 565 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/565/mode/1up?q=OLIVIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-olivier-louis-m-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Louis M. Olivier",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis M. Olivier"
+    ],
+    "description": "Saint-Paul (Minnesota), 1850. Louis M. Olivier, né en 1819 à Berthier, registraire des actes du comté de Ramsey, 1853-1857; retourne au Canada en 1858. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 565 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/565/mode/1up?q=OLIVIER",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.806,
+     45.056
+    ]
+   },
+   "properties": {
+    "id": "ES-perro-joseph-stillwater",
+    "nom": "Stillwater (Minnesota) : Joseph Perro",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Perro"
+    ],
+    "description": "Stillwater (Minnesota), 1844. Joseph Perro, né en 1818 à Kaskaskia, pilote de rivière pendant vingt-cinq ans. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 589 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/589/mode/1up?q=PERRO",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.03,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "ES-perrot-nicolas-wabasha-mi",
+    "nom": "Wabasha (Minnesota) : Nicolas Perrot",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "Wabasha (Minnesota), 1683. Nicolas Perrot, né en 1644, élève près du site de Wabasha un fort et poste de traite, premier bâtiment de Blancs au Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 589 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/589/mode/1up?q=PERROT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.42,
+     44.48
+    ]
+   },
+   "properties": {
+    "id": "ES-plaisance-philip-wheatland-",
+    "nom": "Wheatland (comté de Rice) : Philip Plaisance",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Philip Plaisance"
+    ],
+    "description": "Wheatland (comté de Rice), 1857. Philip Plaisance, né en 1835 à Québec, achète une ferme; soldat du 11e Minnesota; député trois fois. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 605 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/605/mode/1up?q=PLAISANCE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.95,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "ES-provencalle-louis-traverse-d",
+    "nom": "Traverse-des-Sioux : Louis Provencalle",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Provencalle"
+    ],
+    "description": "Traverse-des-Sioux, vers 1800. Louis Provencalle traiteur français venu avant 1800, grand commerce sur la Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 617 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/617/mode/1up?q=PROVENCALLE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-provencalle-louis-mendota",
+    "nom": "Mendota : Louis Provencalle",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1850.0,
+    "fin": 1850.0,
+    "date_edtf": "1850",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Provencalle"
+    ],
+    "description": "Mendota, 1850. Louis Provencalle y meurt. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Traverse-des-Sioux.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 617 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/617/mode/1up?q=PROVENCALLE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.65,
+     44.63
+    ]
+   },
+   "properties": {
+    "id": "ES-radisson-pierre-esprit-ile-pelee-",
+    "nom": "Île Pelée (Prairie Island, Minnesota) : Pierre Esprit Radisson",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1655.0,
+    "fin": 1655.0,
+    "date_edtf": "1655",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Esprit Radisson"
+    ],
+    "description": "Île Pelée (Prairie Island, Minnesota), 1655. Pierre Esprit Radisson, né vers 1635, deux expéditions au Minnesota avec Groseilliers, 1654-1656 et 1659-1660. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 621-623 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/621/mode/1up?q=RADISSON",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.95,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "ES-ravoux-augustin-traverse-d",
+    "nom": "Traverse-des-Sioux : Augustin Ravoux",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Ravoux"
+    ],
+    "description": "Traverse-des-Sioux, 1841. Augustin Ravoux, né en 1815, visite les Sioux à Traverse des Sioux et Lac qui Parle. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 628 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/628/mode/1up?q=RAVOUX",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-ravoux-augustin-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Augustin Ravoux",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Ravoux"
+    ],
+    "description": "Saint-Paul (Minnesota), 1844. Augustin Ravoux, né en 1815, seul responsable de l'Église catholique de la région jusqu'en 1851. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Traverse-des-Sioux.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 628 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/628/mode/1up?q=RAVOUX",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9,
+     45.03
+    ]
+   },
+   "properties": {
+    "id": "ES-renville-joseph-lac-qui-pa",
+    "nom": "Lac-qui-Parle : Joseph Renville",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Renville"
+    ],
+    "description": "Lac-qui-Parle, 1846. Joseph Renville, né vers 1779, fils d'un traiteur français et d'une Sioux; interprète de Pike en 1805-1806 et de Long en 1823; fondateur du poste, y meurt en mars. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 633 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/633/mode/1up?q=RENVILLE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "ES-robert-joseph-red-river",
+    "nom": "Rivière-Rouge : Joseph Robert",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1846.0,
+    "date_edtf": "1846",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Robert"
+    ],
+    "description": "Rivière-Rouge, 1846. Joseph Robert, né en 1826 à Carondelet, traiteur dans la vallée de la Rivière-Rouge; interprète sioux et ojibwé. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 646 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/646/mode/1up?q=ROBERT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-robert-louis-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Louis Robert",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Robert"
+    ],
+    "description": "Saint-Paul (Minnesota), 1844. Louis Robert, né en 1811 à Carondelet, traiteur puis armateur; bâtit la première maison de charpente. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 646-647 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/646/mode/1up?q=ROBERT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-robert-nelson-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Nelson Robert",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nelson Robert"
+    ],
+    "description": "Saint-Paul (Minnesota), 1848. Nelson Robert, né en 1830, tient un poste de traite pour son oncle Louis Robert, puis vapeurs sur la Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 647 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/647/mode/1up?q=ROBERT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "ES-rolette-joe-pembina",
+    "nom": "Pembina : Joe Rolette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joe Rolette"
+    ],
+    "description": "Pembina, 1840. Joe Rolette, né en 1820 à Prairie du Chien, employé de l'American Fur Company; ouvre la route des charrettes de la Rivière-Rouge à Saint Paul. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 653 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/653/mode/1up?q=ROLETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-rolette-joe-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joe Rolette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joe Rolette"
+    ],
+    "description": "Saint-Paul (Minnesota), 1857. Joe Rolette, né en 1820 à Prairie du Chien, emporte le projet de loi déplaçant la capitale. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Pembina.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 653 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/653/mode/1up?q=ROLETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "ES-rolette-joe-pembina-2",
+    "nom": "Pembina : Joe Rolette",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joe Rolette"
+    ],
+    "description": "Pembina, 1871. Joe Rolette, né en 1820 à Prairie du Chien, y meurt le 16 mai. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 653 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/653/mode/1up?q=ROLETTE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.18,
+     44.89
+    ]
+   },
+   "properties": {
+    "id": "ES-rondo-joseph-fort-snell",
+    "nom": "Fort Snelling : Joseph Rondo",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rondo"
+    ],
+    "description": "Fort Snelling, 1835. Joseph Rondo, né en 1797 à Montréal, venu de la colonie de Selkirk. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 655 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/655/mode/1up?q=RONDO",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-rondo-joseph-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph Rondo",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rondo"
+    ],
+    "description": "Saint-Paul (Minnesota), 1840. Joseph Rondo, né en 1797 à Montréal, expulsé de la réserve, achète une concession. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 655 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/655/mode/1up?q=RONDO",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-rouleau-charles-t-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Charles T. Rouleau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles T. Rouleau"
+    ],
+    "description": "Saint-Paul (Minnesota), 1845. Charles T. Rouleau, né en 1807, employé de l'American Fur Company depuis 1829; commerce du bois; établit le premier bac d'Anoka. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 658 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/658/mode/1up?q=ROULEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-rouleau-joseph-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph Rouleau",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rouleau"
+    ],
+    "description": "Saint-Paul (Minnesota), 1855. Joseph Rouleau, né en 1834 à Québec, soldat d'artillerie, hôtelier après 1870. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 658 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/658/mode/1up?q=ROULEAU",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.36,
+     45.98
+    ]
+   },
+   "properties": {
+    "id": "ES-roy-peter-little-fal",
+    "nom": "Little Falls : Peter Roy",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Peter Roy"
+    ],
+    "description": "Little Falls, 1866. Peter Roy, né en 1828, de parents métis ojibwés; hôtelier, député trois fois. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 659 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/659/mode/1up?q=ROY",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "ES-saint-pierre-jacques-le-gard-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : Jacques Le Gardeur, sieur de Saint-Pierre",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1735.0,
+    "fin": 1735.0,
+    "date_edtf": "1735",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Le Gardeur, sieur de Saint-Pierre"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1735. Jacques Le Gardeur, sieur de Saint-Pierre, né en 1701, commandant de 1735 à 1737. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 665 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/665/mode/1up?q=SAINT+PIERRE",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.18,
+     44.89
+    ]
+   },
+   "properties": {
+    "id": "ES-turpin-joseph-fort-snell",
+    "nom": "Fort Snelling : Joseph Turpin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "poste",
+    "debut": 1831.0,
+    "fin": 1831.0,
+    "date_edtf": "1831",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Turpin"
+    ],
+    "description": "Fort Snelling, 1831. Joseph Turpin, né vers 1775 à Montréal, venu avec des réfugiés de la colonie de Selkirk; bâtit la première maison sur la rive est. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : Mendota.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 797 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/797/mode/1up?q=TURPIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.165,
+     44.884
+    ]
+   },
+   "properties": {
+    "id": "ES-turpin-joseph-mendota",
+    "nom": "Mendota : Joseph Turpin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Turpin"
+    ],
+    "description": "Mendota, 1865. Joseph Turpin, né vers 1775 à Montréal, y meurt. D'après Upham et Dunlap, Minnesota Biographies (1912). Autres lieux de l'entrée : fort Snelling.",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 797 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/797/mode/1up?q=TURPIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-vervais-joseph-a-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph A. Vervais",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph A. Vervais"
+    ],
+    "description": "Saint-Paul (Minnesota), 1856. Joseph A. Vervais, né en 1822 à Terrebonne, médecin, chirurgien du 5e Minnesota. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 809 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/809/mode/1up?q=VERVAIS",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.46,
+     46.72
+    ]
+   },
+   "properties": {
+    "id": "ES-vibert-fred-d-cloquet-mi",
+    "nom": "Cloquet : Fred D. Vibert",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1886.0,
+    "fin": 1886.0,
+    "date_edtf": "1886",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Fred D. Vibert"
+    ],
+    "description": "Cloquet, 1886. Fred D. Vibert, né en 1874 à Québec, journaliste, propriétaire du Pine Knot depuis 1898. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 809 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/809/mode/1up?q=VIBERT",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-villaume-joseph-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph Villaume",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Villaume"
+    ],
+    "description": "Saint-Paul (Minnesota), 1849. Joseph Villaume, né en 1812, né en France; traite avec les Indiens puis hôtellerie. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 811 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/811/mode/1up?q=VILLAUME",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-cretin-joseph-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Joseph Cretin",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Cretin"
+    ],
+    "description": "Saint-Paul (Minnesota), 1851. Joseph Cretin, né en 1800, premier évêque de Saint Paul, né à Lyon. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 149-150 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/149/mode/1up?q=CRETIN",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "ES-caillet-louis-e-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Louis E. Caillet",
+    "corpus": "archive.org · Upham et Dunlap, Minnesota Biographies (1912)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis E. Caillet"
+    ],
+    "description": "Saint-Paul (Minnesota), 1857. Louis E. Caillet, né en 1832, prêtre né à Lyon, ordonné à Saint Paul; curé de Sainte-Marie. D'après Upham et Dunlap, Minnesota Biographies (1912).",
+    "sources": "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912, p. 99 ; texte intégral : archive.org, collections14minnuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Upham et Dunlap, Minnesota Biographies (1912)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collections14minnuoft/page/99/mode/1up?q=CAILLET",
+      "texte": "Lire Upham et Dunlap, Minnesota Biographies (1912) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

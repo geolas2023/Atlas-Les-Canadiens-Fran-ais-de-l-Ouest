@@ -2364,6 +2364,22 @@ G.update({
     'Centerville (Minnesota)': (-93.06, 45.16, 'h', "ruisseau Clearwater près de Centerville (comté d'Anoka)"),
     'Hutchinson (Minnesota)': (-94.37, 44.89, 'h', "Hutchinson (comté de McLeod)"),
     'Faribault (Minnesota)': (-93.27, 44.29, 'h', "Faribault (comté de Rice)"),
+    'Springfield (Jackson, Minnesota)': (-94.99, 43.62, 'h', "Springfield (aujourd'hui Jackson), rivière Des Moines"),
+    'Little Falls (Minnesota)': (-94.36, 45.98, 'h', "Little Falls"),
+    'Belle Prairie (Minnesota)': (-94.33, 46.04, 'h', "Belle Prairie (comté de Morrison)"),
+    'Brainerd (Minnesota)': (-94.20, 46.36, 'h', "Brainerd"),
+    'Anoka (Minnesota)': (-93.39, 45.20, 'h', "Anoka"),
+    'Wheatland (Minnesota)': (-93.42, 44.48, 'h', "Wheatland (comté de Rice)"),
+    'Haven (Minnesota)': (-94.03, 45.43, 'h', "Haven (comté de Sherburne)"),
+    'Waterville (Minnesota)': (-93.57, 44.22, 'h', "Waterville (comté de Le Sueur)"),
+    'Cloquet (Minnesota)': (-92.46, 46.72, 'h', "Cloquet"),
+    'Plymouth (Minnesota)': (-93.46, 45.01, 'h', "Plymouth (comté de Hennepin)"),
+    'Île Gray Cloud (Minnesota)': (-92.97, 44.80, 'h', "île Gray Cloud"),
+    'New Canada (Minnesota)': (-93.05, 45.03, 'h', "New Canada (comté de Ramsey)"),
+    'Lac Calhoun (Minneapolis)': (-93.31, 44.95, 'h', "lac Calhoun"),
+    'Collegeville (Minnesota)': (-94.39, 45.58, 'h', "Collegeville (université Saint-Jean)"),
+    'Bena (Minnesota)': (-94.21, 47.34, 'h', "Bena (comté de Cass)"),
+    'Saint Peter (Minnesota)': (-93.96, 44.32, 'h', "Saint Peter"),
 })
 
 
