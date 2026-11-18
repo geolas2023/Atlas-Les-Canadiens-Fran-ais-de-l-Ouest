@@ -616,6 +616,7 @@ LIVRES = [
     ('mn_atwater_stevens_minneapolis_1895_v2.txt', 'GG', {'court': 'Atwater et Stevens, History of Minneapolis and Hennepin County, II (1895)', 'ref': "Atwater, Isaac, et John H. Stevens (dir.), History of Minneapolis and Hennepin County, Minnesota, vol. II, New York et Chicago, Munsell Publishing Co., 1895."}, 'vol2historyofmin00unse', lambda nom, ref: ref),
     ('mn_compendium_minneapolis_hennepin_1914.txt', 'GH', {'court': 'Compendium of History and Biography of Minneapolis and Hennepin County, 1914', 'ref': "Holcombe, R. I., et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914."}, 'compendiumofhist01holc', lambda nom, ref: ref),
     ('mn_fritsche_brown_county_1916.txt', 'GI', {'court': 'Fritsche, History of Brown County, 1916', 'ref': "Fritsche, L. A. (dir.), History of Brown County, Minnesota, Indianapolis, B. F. Bowen & Company, 1916."}, 'mn-brown-1915-fritsche-1', lambda nom, ref: ref),
+    ('mn_rose_lyon_county_1912.txt', 'GJ', {'court': 'Rose, An Illustrated History of Lyon County, 1912', 'ref': "Rose, Arthur P., An Illustrated History of Lyon County, Minnesota, Marshall, Northern History Publishing Company, 1912."}, 'illustratedhistolcm00rose', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
