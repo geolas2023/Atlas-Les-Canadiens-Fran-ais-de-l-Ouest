@@ -2253,6 +2253,19 @@ G.update({
     'Georgetown (Minnesota)': (-96.79, 47.08, 'a', "Georgetown (Minnesota)"),
     'Dakota City (embouchure de la Sheyenne)': (-96.83, 47.0, 'a', "Dakota City (embouchure de la Sheyenne)"),
     'Canton de Wiser (comté de Cass, Dakota du Nord)': (-96.82, 47.08, 'a', "Canton de Wiser (comté de Cass, Dakota du Nord)"),
+    'Big Stone Lake (Minnesota)': (-96.6, 45.4, 'a', "Big Stone Lake (Minnesota)"),
+    'Pipestem Creek (Dakota du Nord)': (-99.0, 47.1, 'h', "Pipestem Creek (Dakota du Nord)"),
+    'Sacred Heart (rive sud du lac Devils)': (-98.95, 47.98, 'a', "Sacred Heart (rive sud du lac Devils)"),
+    'Keith (Montana)': (-104.0, 46.95, 'h', "Keith (Montana)"),
+    'Ranch W-Bar (Beaver Creek, Dakota du Nord)': (-104.0, 47.15, 'h', "Ranch W-Bar (Beaver Creek, Dakota du Nord)"),
+    'Ranch Custer Trail (près de Medora)': (-103.53, 46.86, 'a', "Ranch Custer Trail (près de Medora)"),
+    'Vermilion (Dakota du Sud)': (-96.93, 42.78, 'c', 'Vermilion (Dakota du Sud)'),
+    'New Ulm (Minnesota)': (-94.46, 44.31, 'c', 'New Ulm (Minnesota)'),
+    'Rivière Cannonball (Dakota du Nord)': (-100.6, 46.4, 'a', 'Rivière Cannonball (Dakota du Nord)'),
+    'Fort La Framboise (au-dessus de Fort Pierre)': (-100.38, 44.42, 'h', 'Fort La Framboise (au-dessus de Fort Pierre)'),
+    "Canton d'Owego (comté de Ransom, Dakota du Nord)": (-97.35, 46.5, 'h', "Canton d'Owego (comté de Ransom, Dakota du Nord)"),
+    'Fort Primeau (au-dessus de Fort Clark)': (-101.3, 47.35, 'h', 'Fort Primeau (au-dessus de Fort Clark)'),
+    'Fort Rice': (-100.58, 46.52, 'c', "Fort Rice (Dakota du Nord)"),
 })
 
 
