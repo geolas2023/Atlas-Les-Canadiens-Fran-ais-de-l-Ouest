@@ -2442,6 +2442,7 @@ G.update({
     'Rivière Des Moines': (-94.20, 43.00, 'h', "rivière Des Moines (haut cours, pays des Yanktons)"),
     'Little Rock (Minnesota)': (-94.66, 44.43, 'h', "poste de Little Rock sur la Minnesota (comté de Nicollet)"),
     'Hawk Creek (Minnesota)': (-95.43, 44.78, 'h', "ruisseau Hawk (comté de Renville)"),
+    'Lida (Minnesota)': (-95.98, 46.58, 'h', "canton de Lida (comté d'Otter Tail)"),
 })
 
 
