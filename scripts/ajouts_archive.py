@@ -540,6 +540,9 @@ LIVRES = [
     ('southeastern_dakota_1881.txt', 'PG', {'court': 'History of Southeastern Dakota (1881)', 'ref': "History of Southeastern Dakota, its Settlement and Growth, Sioux City, Western Publishing Co., 1881"}, 'historyofsouthea00siou', lambda nom, ref: ref),
     ('minnehaha_bailey_1899.txt', 'PH', {'court': 'Bailey, History of Minnehaha County (1899)', 'ref': "Dana R. Bailey, History of Minnehaha County, South Dakota, Sioux Falls, Brown & Saenger, 1899"}, 'historyofminneha01bail', lambda nom, ref: ref),
     ('memorial_turner_lincoln_union_clay_1897.txt', 'PJ', {'court': 'Memorial and Biographical Record, Turner, Lincoln, Union and Clay (1897)', 'ref': "Memorial and Biographical Record of Turner, Lincoln, Union and Clay Counties, South Dakota, Chicago, G. A. Ogle & Co., 1897"}, 'memorialbiograph00chic', lambda nom, ref: ref),
+    ('sdhc_v1_1902.txt', 'PK', {'court': 'South Dakota Historical Collections, vol. I (1902)', 'ref': "South Dakota Historical Collections, vol. I, Pierre, State Historical Society, 1902"}, 'reporthistorical01soutuoft', lambda nom, ref: ref),
+    ('sdhc_v3_1906.txt', 'PL', {'court': 'South Dakota Historical Collections, vol. III (1906)', 'ref': "South Dakota Historical Collections, vol. III, Pierre, State Historical Society, 1906"}, 'reporthistorical03soutuoft', lambda nom, ref: ref),
+    ('sdhc_v4_1908.txt', 'PM', {'court': 'South Dakota Historical Collections, vol. IV (1908)', 'ref': "South Dakota Historical Collections, vol. IV, Pierre, State Historical Society, 1908"}, 'reporthistorical04soutuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
