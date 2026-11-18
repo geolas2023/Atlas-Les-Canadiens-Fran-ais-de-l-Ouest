@@ -220,6 +220,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `historyofdakotat05king` | 12 |
 | `fortyyearsinnort00arno` | 2 |
 | `empirebuildersof00arms` | 4 |
+| `historyofdakotat03king` | 2 |
+| `narrativeofcanad01hind` | 5 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
