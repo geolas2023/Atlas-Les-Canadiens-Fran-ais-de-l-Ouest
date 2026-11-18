@@ -89,6 +89,43 @@ def choisir_contexte(cands, lieu, lieu_fr, n_segments_annee):
     if len(cands) == 1 and n_segments_annee == 1 and _mots(cands[0][0]) <= REGIONS: return cands[0][1]
     return ''
 
+
+ROM = {r: i for i, r in enumerate(['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX'], 1)}
+def _ids_du_livre(livre, defaut):
+    """Identifiants archive.org listés dans la référence du livre (« archive.org : a, b » ou « a à c »), dans l'ordre des volumes."""
+    m = re.search(r'archive\.org\s*:\s*(.*)$', re.sub(r'\((?:vol|t)\.[^)]*\)', '', livre.get('ref', '')).rstrip(').» '))
+    if not m: return []
+    toks = [t for t in re.split(r'\s*(?:,|;|\bet\b|\(vol\.[^)]*\)?)\s*', m.group(1)) if t.strip()]
+    ids, premier = [], None
+    for t in toks:
+        t = t.strip().split()[0] if t.strip() else ''
+        if ' à ' in t: continue
+        mr = re.match(r'^(\S+?)(\d+)(\D*)$', t)
+        if not re.match(r'^[A-Za-z0-9_.-]+$', t): continue
+        if premier is None: premier = t; ids.append(t); continue
+        if len(t) < len(premier) - 4 and premier.endswith(t[len(re.match(r'^\d*', t).group(0)):] if re.match(r'^\d+', t) else '~'):
+            n = re.match(r'^\d+', t).group(0); queue = t[len(n):]
+            mp = re.search(r'(\d+)' + re.escape(queue) + r'$', premier)
+            t = premier[:mp.start(1)] + n + queue if mp else t
+        ids.append(t)
+    mr = re.search(r'(\S+?)(\d+)(\D*)\s+à\s+(\d+)\3', m.group(1))
+    if mr:
+        base, a, q, b = mr.group(1), mr.group(2), mr.group(3), mr.group(4)
+        ids = [base + str(k).zfill(len(a)) + q for k in range(int(a), int(b) + 1)]
+    return ids if defaut in ids or not ids else ids
+def url_page(idf, ref, livre, brut, lien_recherche=True):
+    """Lien archive.org vers la page citée (étiquette de page imprimée), avec la recherche du nom en surbrillance."""
+    q = re.sub(r'[^A-Za-zÀ-ÿ]+', '+', re.sub(r'\(.*?\)|«.*?»', '', brut).split(',')[0].strip()).strip('+')
+    mv = re.search(r'\b([IVX]{1,5}),\s*(?:[^;,]*?,\s*)?p\.\s*\d', ref)
+    if mv and mv.group(1) in ROM:
+        ids = _ids_du_livre(livre, idf)
+        if len(ids) >= ROM[mv.group(1)] and len(ids) > 1: idf = ids[ROM[mv.group(1)] - 1]
+    mp = None if re.search(r'\bapp\.\s*p\.|s\.\s*p\.', ref.split(';')[0]) else re.search(r'(?<!app\. )\bpp?\.\s*(\d+)', ref)
+    url = f"https://archive.org/details/{idf}"
+    if mp: url += f"/page/{mp.group(1)}/mode/1up"
+    if lien_recherche and q: url += f"?q={q}"
+    return url
+
 def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, theme_defaut='personnage', contextes=None):
     """Construit les fiches d'un livre. citer(nom_brut, ref) → texte de la référence (ex. « s.v. LAGIMODIÈRE »)."""
     out, inconnus, sans_date = [], set(), 0
@@ -147,7 +184,7 @@ def fiches_livre(fichier, prefixe, livre, ident, citer, lien_recherche=True, the
                     + (f" Autres lieux de l'entrée : {', '.join(dict.fromkeys(ailleurs))}." if ailleurs else ''))
             idf = ident(ref) if callable(ident) else ident
             web = idf.startswith('http')  # livre absent d'archive.org : transcription en ligne
-            url = idf if web else f"https://archive.org/details/{idf}" + (f"?q={re.sub(r'[^A-Za-zÀ-ÿ]+', '+', brut.split(',')[0].strip())}" if lien_recherche else '')
+            url = idf if web else url_page(idf, citer(brut, ref), livre, brut, lien_recherche)
             d, f, prec = bornes(edtf)
             out.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": {
                 "id": ident_fiche, "nom": f"{lieu_fr[0].upper() + lieu_fr[1:]} : {nom}", "corpus": f"{CORPUS} · {livre['court']}", "theme": theme,
