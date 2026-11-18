@@ -2211,6 +2211,12 @@ G.update({
     'Archambault (ranch, Dakota du Sud)': (-99.5, 44.0, 'h', "Ranch d'Archambault, route de Pierre à Yankton"),
     'Mission Genin (rivière Rouge)': (-96.75, 46.8, 'h', 'Station du père Genin, à 25 milles au nord du fort Abercrombie'),
     'Poste Primeau (embouchure de la Yellowstone)': (-104.0, 47.98, 'a', "Poste d'adobe de Primeau, futur site du fort Buford"),
+    'Morris (Manitoba)': (-97.36, 49.35, 'c', 'Morris (Manitoba), rivière Rouge'),
+    'Big Sioux Point (Dakota du Sud)': (-96.55, 42.5, 'a', 'Big Sioux Point, embouchure de la Big Sioux'),
+    'Lafayette (rivière Rouge)': (-96.82, 47.0, 'a', "Lafayette, en face de l'embouchure de la Sheyenne (rivière Rouge)"),
+    'Penn Valley (Black Hills)': (-103.4, 44.15, 'h', 'Penn Valley, Black Hills (Dakota du Sud)'),
+    'Owego (comté de Ransom, Dakota du Nord)': (-97.4, 46.5, 'h', "Township d'Owego, rivière Sheyenne (Dakota du Nord)"),
+    'Benson (Minnesota)': (-95.6, 45.31, 'c', 'Benson (Minnesota)'),
 })
 
 
