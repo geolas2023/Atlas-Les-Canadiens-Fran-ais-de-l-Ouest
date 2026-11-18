@@ -2341,6 +2341,8 @@ G.update({
     'Fort Manuel (Dakota du Sud)': (-100.73, 45.93, 'h', "Fort Manuel (Kenel, Dakota du Sud)"),
     'Spirit Mound (Dakota du Sud)': (-96.95, 42.87, 'h', "Spirit Mound (comté de Clay, Dakota du Sud)"),
     'Fort Primeau (au-dessus de Fort Pierre)': (-100.42, 44.47, 'h', "Fort Primeau (au-dessus de Fort Pierre)"),
+    'Agence Santee (Nebraska)': (-97.85, 42.83, 'h', "Agence Santee (Nebraska)"),
+    'Embouchure de la Powder (Yellowstone)': (-105.07, 46.75, 'h', "Embouchure de la Powder (Yellowstone)"),
 })
 
 
