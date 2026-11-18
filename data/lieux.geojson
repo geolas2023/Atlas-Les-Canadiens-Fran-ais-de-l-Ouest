@@ -880886,6 +880886,278 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GN-bottineau-pierre-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Pierre Bottineau",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Saint-Paul (Minnesota), 1841. Pierre Bottineau seuls arrivants de l'année avec Sever Bottineau. D'après Stevens, Personal Recollections of Minnesota and Its People (1890). Autres lieux de l'entrée : chutes Saint-Antoine.",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 11 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/11/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GN-bottineau-pierre-saint-anth",
+    "nom": "Chutes Saint-Antoine : Pierre Bottineau",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bottineau"
+    ],
+    "description": "Chutes Saint-Antoine, 1849. Pierre Bottineau s'établit aux chutes. D'après Stevens, Personal Recollections of Minnesota and Its People (1890). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 11 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/11/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GN-bottineau-sever-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : Sever Bottineau",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sever Bottineau"
+    ],
+    "description": "Saint-Paul (Minnesota), 1841. Sever Bottineau arrive avec Pierre Bottineau. D'après Stevens, Personal Recollections of Minnesota and Its People (1890). Autres lieux de l'entrée : chutes Saint-Antoine.",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 11 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/11/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GN-bottineau-sever-saint-anth",
+    "nom": "Chutes Saint-Antoine : Sever Bottineau",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sever Bottineau"
+    ],
+    "description": "Chutes Saint-Antoine, 1849. Sever Bottineau s'y installe. D'après Stevens, Personal Recollections of Minnesota and Its People (1890). Autres lieux de l'entrée : Saint-Paul (Minnesota).",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 11 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/11/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "GN-dugas-william-saint-paul",
+    "nom": "Saint-Paul (Minnesota) : William Dugas",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Dugas"
+    ],
+    "description": "Saint-Paul (Minnesota), 1844. William Dugas parmi les rares arrivants de l'année, avec Louis Robert et Charles Bazelle. D'après Stevens, Personal Recollections of Minnesota and Its People (1890).",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 11 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/11/mode/1up?q=DUGAS",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GN-rondo-joseph-saint-anth",
+    "nom": "Chutes Saint-Antoine : Joseph Rondo",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rondo"
+    ],
+    "description": "Chutes Saint-Antoine, 1843. Joseph Rondo occupe en partie l'ancienne concession Carpenter près de l'île Boom avant d'en être chassé par Bottineau. D'après Stevens, Personal Recollections of Minnesota and Its People (1890).",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 15 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/15/mode/1up?q=RONDO",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.255,
+     44.982
+    ]
+   },
+   "properties": {
+    "id": "GN-reach-joseph-saint-anth",
+    "nom": "Chutes Saint-Antoine : Joseph Reach",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Reach"
+    ],
+    "description": "Chutes Saint-Antoine, 1847. Joseph Reach garde fidèlement la concession de Steele jusqu'à l'obtention du titre. D'après Stevens, Personal Recollections of Minnesota and Its People (1890).",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 15 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/15/mode/1up?q=REACH",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.46,
+     45.07
+    ]
+   },
+   "properties": {
+    "id": "GN-laundry-charles-maple-grov",
+    "nom": "Maple Grove : Charles Laundry",
+    "corpus": "archive.org · Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Laundry"
+    ],
+    "description": "Maple Grove, vers 1852. Charles Laundry voyageur placé par Steele dans sa maison des chutes; meurt au début des années 1850 près de la prairie Bottineau. D'après Stevens, Personal Recollections of Minnesota and Its People (1890).",
+    "sources": "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890., p. 15 ; texte intégral : archive.org, personalrecollec00stev.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Stevens, Personal Recollections of Minnesota and Its People (1890)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/personalrecollec00stev/page/15/mode/1up?q=LAUNDRY",
+      "texte": "Lire Stevens, Personal Recollections of Minnesota and Its People (1890) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
