@@ -2329,6 +2329,11 @@ G.update({
     'Rivière Loup (Nebraska)': (-98.0, 41.4, 'c', "Rivière Loup (Nebraska)"),
     'Old Cedar Fort (Nebraska)': (-98.55, 42.98, 'c', "Old Cedar Fort (Nebraska, en face de Fort Randall)"),
     'Dirtville (loges poncas, en aval de Fort Randall)': (-98.35, 42.85, 'c', "Dirtville (anciennes loges poncas, en aval de Fort Randall)"),
+    'Bijou Hills (Dakota du Sud)': (-99.08, 43.5, 'h', "Bijou Hills (Dakota du Sud)"),
+    'Waubay (Dakota du Sud)': (-97.3, 45.33, 'h', "Waubay (Dakota du Sud)"),
+    'Big Stone City (Dakota du Sud)': (-96.47, 45.29, 'h', "Big Stone City (Dakota du Sud)"),
+    'Rousseau (comté de Hughes, Dakota du Sud)': (-100.15, 44.6, 'h', "Rousseau (comté de Hughes, Dakota du Sud)"),
+    'Le Beau (Dakota du Sud)': (-100.5, 45.45, 'h', "Le Beau (comté de Walworth, Dakota du Sud)"),
 })
 
 

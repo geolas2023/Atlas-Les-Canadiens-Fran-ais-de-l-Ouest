@@ -544,9 +544,11 @@ LIVRES = [
     ('sdhc_v3_1906.txt', 'PL', {'court': 'South Dakota Historical Collections, vol. III (1906)', 'ref': "South Dakota Historical Collections, vol. III, Pierre, State Historical Society, 1906"}, 'reporthistorical03soutuoft', lambda nom, ref: ref),
     ('sdhc_v4_1908.txt', 'PM', {'court': 'South Dakota Historical Collections, vol. IV (1908)', 'ref': "South Dakota Historical Collections, vol. IV, Pierre, State Historical Society, 1908"}, 'reporthistorical04soutuoft', lambda nom, ref: ref),
     ('sdhc_v6_1912.txt', 'PN', {'court': 'South Dakota Historical Collections, vol. VI (1912)', 'ref': "South Dakota Historical Collections, vol. VI, Pierre, State Historical Society, 1912"}, 'reporthistorical06soutuoft', lambda nom, ref: ref),
+    ('sdhc_v7_1914.txt', 'PR', {'court': 'South Dakota Historical Collections, vol. VII (1914)', 'ref': "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914"}, 'southdakotahisto7191sout', lambda nom, ref: ref),
     ('sdhc_v8_1916.txt', 'PO', {'court': 'South Dakota Historical Collections, vol. VIII (1916)', 'ref': "South Dakota Historical Collections, vol. VIII, Pierre, State Historical Society, 1916"}, 'reporthistorical08soutuoft', lambda nom, ref: ref),
     ('sdhc_v9_1918.txt', 'PP', {'court': 'South Dakota Historical Collections, vol. IX (1918)', 'ref': "South Dakota Historical Collections, vol. IX, Pierre, State Historical Society, 1918"}, 'reporthistorical09soutuoft', lambda nom, ref: ref),
     ('sdhc_v10_1920.txt', 'PQ', {'court': 'South Dakota Historical Collections, vol. X (1920)', 'ref': "South Dakota Historical Collections, vol. X, Pierre, State Historical Society, 1920"}, 'reporthistorical10soutuoft', lambda nom, ref: ref),
+    ('robinson_kerr_1907.txt', 'PS', {'court': 'Robinson et Kerr, A History of South Dakota (1907)', 'ref': "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907"}, 'historyofsouthda00robi', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

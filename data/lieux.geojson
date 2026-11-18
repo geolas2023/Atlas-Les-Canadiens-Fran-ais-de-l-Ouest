@@ -838930,6 +838930,584 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -92.25,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "PR-la-jemmeraye-lac-pepin",
+    "nom": "Lac Pépin (haut Mississippi) : La Jemmeraye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1731.0,
+    "fin": 1731.0,
+    "date_edtf": "1731~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Jemmeraye"
+    ],
+    "description": "Lac Pépin (haut Mississippi), vers 1731. La Jemmeraye neveu de La Vérendrye, avait commandé le poste du pays sioux au lac Pépin avant de devenir son lieutenant. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : rivière aux Roseaux (Reed River).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 134, 144 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/134/mode/1up?q=LA+JEMMERAYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.23,
+     49.15
+    ]
+   },
+   "properties": {
+    "id": "PR-la-jemmeraye-riviere-au",
+    "nom": "Rivière aux Roseaux (Reed River) : La Jemmeraye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "La Jemmeraye"
+    ],
+    "description": "Rivière aux Roseaux (Reed River), 1736. La Jemmeraye y meurt le 10 mai, à la fourche du Roseau. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : Lac Pépin (haut Mississippi).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 134, 144 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/134/mode/1up?q=LA+JEMMERAYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-jean-baptiste-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Jean-Baptiste la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "evenement",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste la Vérendrye"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1736. Jean-Baptiste la Vérendrye, né en 1713, tué avec le père Aulneau et tous les Français du convoi au lac des Bois. D'après South Dakota Historical Collections, vol. VII (1914).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 128, 144 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/128/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83,
+     49.33
+    ]
+   },
+   "properties": {
+    "id": "PR-aulneau-ile-au-mas",
+    "nom": "Île au Massacre (lac des Bois) : Aulneau",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "evenement",
+    "debut": 1736.0,
+    "fin": 1736.0,
+    "date_edtf": "1736",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Aulneau"
+    ],
+    "description": "Île au Massacre (lac des Bois), 1736. Aulneau jésuite, tué avec Jean-Baptiste de La Vérendrye; retrouvé à genoux, une flèche dans la tête. D'après South Dakota Historical Collections, vol. VII (1914).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 144 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/144/mode/1up?q=AULNEAU",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0,
+     49.28
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-pierre-gaultier-fort-saint",
+    "nom": "Fort Saint-Charles (lac des Bois) : Pierre Gaultier de Varennes de la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1732.0,
+    "fin": 1732.0,
+    "date_edtf": "1732~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gaultier de Varennes de la Vérendrye"
+    ],
+    "description": "Fort Saint-Charles (lac des Bois), vers 1732. Pierre Gaultier de Varennes de la Vérendrye, né à Trois-Rivières, bâtit le fort au lac des Bois avec ses fils Pierre et François et La Jemmeraye. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : fort La Reine (Portage-la-Prairie), villages mandanes (haut Missouri).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 95-96, 154-178 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/95/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.97
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-pierre-gaultier-fort-la-re",
+    "nom": "Fort La Reine (Portage-la-Prairie) : Pierre Gaultier de Varennes de la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gaultier de Varennes de la Vérendrye"
+    ],
+    "description": "Fort La Reine (Portage-la-Prairie), 1738. Pierre Gaultier de Varennes de la Vérendrye, né à Trois-Rivières, bâtit le fort au portage de la Prairie. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : fort Saint-Charles (lac des Bois), villages mandanes (haut Missouri).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 95-96, 154-178 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/95/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-pierre-gaultier-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Pierre Gaultier de Varennes de la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gaultier de Varennes de la Vérendrye"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1738. Pierre Gaultier de Varennes de la Vérendrye, né à Trois-Rivières, entre au fort mandane le 3 décembre. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : fort Saint-Charles (lac des Bois), fort La Reine (Portage-la-Prairie).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 95-96, 154-178 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/95/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.97
+    ]
+   },
+   "properties": {
+    "id": "PR-nolant-charles-dit-la-marque-fort-la-re",
+    "nom": "Fort La Reine (Portage-la-Prairie) : Charles, dit La Marque Nolant",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles, dit La Marque Nolant"
+    ],
+    "description": "Fort La Reine (Portage-la-Prairie), 1738. Charles, dit La Marque Nolant rejoint les Vérendrye le 9 octobre avec son frère et huit hommes. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : villages mandanes (haut Missouri).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96, 156-178 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=NOLANT",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PR-nolant-charles-dit-la-marque-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Charles, dit La Marque Nolant",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles, dit La Marque Nolant"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1738. Charles, dit La Marque Nolant fait partie de l'expédition chez les Mandanes. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : fort La Reine (Portage-la-Prairie).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96, 156-178 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=NOLANT",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PR-nolant-nicholas-augustin-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Nicholas-Augustin Nolant",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicholas-Augustin Nolant"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1738. Nicholas-Augustin Nolant visite avec François de La Vérendrye le poste mandane sur le Missouri, fin décembre. D'après South Dakota Historical Collections, vol. VII (1914).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96, 177-178 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=NOLANT",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-pierre-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : Pierre la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1740.0,
+    "fin": 1740.0,
+    "date_edtf": "1740",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre la Vérendrye"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1740. Pierre la Vérendrye, né en 1714, envoyé à l'automne chez les Mandanes avec deux Français dont un interprète; y passe l'hiver. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : fort La Reine (Portage-la-Prairie).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96, 193-195 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.97
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-pierre-fort-la-re",
+    "nom": "Fort La Reine (Portage-la-Prairie) : Pierre la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1741.0,
+    "fin": 1741.0,
+    "date_edtf": "1741",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre la Vérendrye"
+    ],
+    "description": "Fort La Reine (Portage-la-Prairie), 1741. Pierre la Vérendrye, né en 1714, de retour le 16 octobre, faute de guide. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : villages mandanes (haut Missouri).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96, 193-195 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-francois-le-che-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : François la Vérendrye (le Chevalier)",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "personnage",
+    "debut": 1742.0,
+    "fin": 1742.0,
+    "date_edtf": "1742",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François la Vérendrye (le Chevalier)"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1742. François la Vérendrye (le Chevalier), né en 1717, quitte le fort La Reine le 29 avril avec son frère Louis-Joseph et deux Français, arrive chez les Mandanes en mai. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : fort Pierre.",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96-97, 197-273 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-francois-le-che-fort-pierr",
+    "nom": "Fort Pierre : François la Vérendrye (le Chevalier)",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1743.0,
+    "fin": 1743.0,
+    "date_edtf": "1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François la Vérendrye (le Chevalier)"
+    ],
+    "description": "Fort Pierre, 1743. François la Vérendrye (le Chevalier), né en 1717, dépose le 30 mars la plaque de plomb découverte le 16 février 1913. D'après South Dakota Historical Collections, vol. VII (1914). Autres lieux de l'entrée : villages mandanes (haut Missouri).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 96-97, 197-273 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/96/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PR-la-verendrye-louis-joseph-fort-pierr",
+    "nom": "Fort Pierre : Louis-Joseph la Vérendrye",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1743.0,
+    "fin": 1743.0,
+    "date_edtf": "1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis-Joseph la Vérendrye"
+    ],
+    "description": "Fort Pierre, 1743. Louis-Joseph la Vérendrye accompagne le Chevalier; nommé « Lo Jos » sur la plaque. D'après South Dakota Historical Collections, vol. VII (1914).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 269-273 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/269/mode/1up?q=LA+VÉRENDRYE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PR-la-londette-louis-fort-pierr",
+    "nom": "Fort Pierre : Louis la Londette",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1743.0,
+    "fin": 1743.0,
+    "date_edtf": "1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis la Londette"
+    ],
+    "description": "Fort Pierre, 1743. Louis la Londette « Louy la Londette », témoin sur la plaque, probablement d'une famille de voyageurs Lalonde. D'après South Dakota Historical Collections, vol. VII (1914).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 269-274 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/269/mode/1up?q=LA+LONDETTE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PR-miotte-a-fort-pierr",
+    "nom": "Fort Pierre : A. Miotte",
+    "corpus": "archive.org · South Dakota Historical Collections, vol. VII (1914)",
+    "theme": "poste",
+    "debut": 1743.0,
+    "fin": 1743.0,
+    "date_edtf": "1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "A. Miotte"
+    ],
+    "description": "Fort Pierre, 1743. A. Miotte témoin sur la plaque, l'un des deux Français du Chevalier. D'après South Dakota Historical Collections, vol. VII (1914).",
+    "sources": "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914, p. 269-273 ; texte intégral : archive.org, southdakotahisto7191sout.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "South Dakota Historical Collections, vol. VII (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/southdakotahisto7191sout/page/269/mode/1up?q=MIOTTE",
+      "texte": "Lire South Dakota Historical Collections, vol. VII (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -98.86,
      43.0
     ]
@@ -842661,6 +843239,346 @@
      {
       "url": "https://archive.org/details/reporthistorical10soutuoft/page/412/mode/1up?q=PICOTTE",
       "texte": "Lire South Dakota Historical Collections, vol. X (1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.6,
+     43.1
+    ]
+   },
+   "properties": {
+    "id": "PS-trudeau-pawnee-hou",
+    "nom": "Pawnee House, poste de Trudeau (près de Fort Randall, Dakota du Sud) : Trudeau",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "poste",
+    "debut": 1796.0,
+    "fin": 1796.0,
+    "date_edtf": "1796",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Trudeau"
+    ],
+    "description": "Pawnee House, poste de Trudeau (près de Fort Randall, Dakota du Sud), 1796. Trudeau premier établissement du comté de Charles Mix, à White Swan, abandonné ensuite. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 20, 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/20/mode/1up?q=TRUDEAU",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.85,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "PS-loisee-ile-au-ced",
+    "nom": "Île au Cèdre, poste de Loisel (Missouri, Dakota du Sud) : Loisee",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Loisee"
+    ],
+    "description": "Île au Cèdre, poste de Loisel (Missouri, Dakota du Sud), 1801. Loisee premier établissement du comté de Buffalo, abandonné. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/81/mode/1up?q=LOISEE",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PS-la-framboise-joseph-embouchure",
+    "nom": "Embouchure de la Teton / Bad River (Fort Pierre, Dakota du Sud) : Joseph la Framboise",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Framboise"
+    ],
+    "description": "Embouchure de la Teton / Bad River (Fort Pierre, Dakota du Sud), 1817. Joseph la Framboise premier poste de l'American Fur Company, sur une île qui porta son nom, puis déplacé sur la rive ouest deux ans plus tard; premier colon du comté de Stanley. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 22, 82 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/22/mode/1up?q=LA+FRAMBOISE",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.08,
+     43.5
+    ]
+   },
+   "properties": {
+    "id": "PS-bijou-bijou-hill",
+    "nom": "Bijou Hills (Dakota du Sud) : Bijou",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Bijou"
+    ],
+    "description": "Bijou Hills (Dakota du Sud), 1822. Bijou premier établissement du comté de Brule, abandonné. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/81/mode/1up?q=BIJOU",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.67,
+     42.88
+    ]
+   },
+   "properties": {
+    "id": "PS-rencontre-zephry-bon-homme-",
+    "nom": "Bon Homme (Dakota du Sud) : Zephry Rencontre",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Zephry Rencontre"
+    ],
+    "description": "Bon Homme (Dakota du Sud), 1828. Zephry Rencontre premier colon du comté de Bon Homme. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/81/mode/1up?q=RENCONTRE",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.15,
+     44.6
+    ]
+   },
+   "properties": {
+    "id": "PS-narcelle-rousseau-c",
+    "nom": "Rousseau (comté de Hughes, Dakota du Sud) : Narcelle",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.0,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Narcelle"
+    ],
+    "description": "Rousseau (comté de Hughes, Dakota du Sud), 1830. Narcelle premier colon du comté de Hughes. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/81/mode/1up?q=NARCELLE",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.55,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "PS-le-plant-louis-big-sioux-",
+    "nom": "Big Sioux Point, embouchure de la Big Sioux : Louis Le Plant",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1848.0,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Le Plant"
+    ],
+    "description": "Big Sioux Point, embouchure de la Big Sioux, 1848. Louis Le Plant premier colon du comté d'Union; l'établissement français de Sioux Point est fait par des hommes ayant vécu chez les Autochtones et souvent mariés à des Autochtones. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 35, 82 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/35/mode/1up?q=LE+PLANT",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.47,
+     45.29
+    ]
+   },
+   "properties": {
+    "id": "PS-mireau-moses-big-stone-",
+    "nom": "Big Stone City (Dakota du Sud) : Moses Mireau",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Moses Mireau"
+    ],
+    "description": "Big Stone City (Dakota du Sud), 1865. Moses Mireau premier colon du comté de Grant, avec Scot Roberts. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/81/mode/1up?q=MIREAU",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3,
+     45.33
+    ]
+   },
+   "properties": {
+    "id": "PS-rondell-francis-waubay-dak",
+    "nom": "Waubay (Dakota du Sud) : Francis Rondell",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Rondell"
+    ],
+    "description": "Waubay (Dakota du Sud), 1868. Francis Rondell premier colon du comté de Day (imprimé « Eondell »). D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 81 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/81/mode/1up?q=RONDELL",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.45
+    ]
+   },
+   "properties": {
+    "id": "PS-le-beau-antoine-le-beau-da",
+    "nom": "Le Beau (comté de Walworth, Dakota du Sud) : Antoine Le Beau",
+    "corpus": "archive.org · Robinson et Kerr, A History of South Dakota (1907)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Le Beau"
+    ],
+    "description": "Le Beau (comté de Walworth, Dakota du Sud), 1875. Antoine Le Beau premier colon du comté de Walworth. D'après Robinson et Kerr, A History of South Dakota (1907).",
+    "sources": "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907, p. 82 ; texte intégral : archive.org, historyofsouthda00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson et Kerr, A History of South Dakota (1907)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofsouthda00robi/page/82/mode/1up?q=LE+BEAU",
+      "texte": "Lire Robinson et Kerr, A History of South Dakota (1907) sur archive.org →"
      }
     ]
    }
