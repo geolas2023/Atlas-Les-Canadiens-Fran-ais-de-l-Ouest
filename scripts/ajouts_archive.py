@@ -543,6 +543,7 @@ LIVRES = [
     ('sdhc_v1_1902.txt', 'PK', {'court': 'South Dakota Historical Collections, vol. I (1902)', 'ref': "South Dakota Historical Collections, vol. I, Pierre, State Historical Society, 1902"}, 'reporthistorical01soutuoft', lambda nom, ref: ref),
     ('sdhc_v3_1906.txt', 'PL', {'court': 'South Dakota Historical Collections, vol. III (1906)', 'ref': "South Dakota Historical Collections, vol. III, Pierre, State Historical Society, 1906"}, 'reporthistorical03soutuoft', lambda nom, ref: ref),
     ('sdhc_v4_1908.txt', 'PM', {'court': 'South Dakota Historical Collections, vol. IV (1908)', 'ref': "South Dakota Historical Collections, vol. IV, Pierre, State Historical Society, 1908"}, 'reporthistorical04soutuoft', lambda nom, ref: ref),
+    ('sdhc_v5_1910.txt', 'PW', {'court': 'South Dakota Historical Collections, vol. V (1910)', 'ref': "South Dakota Historical Collections, vol. V, Pierre, State Historical Society, 1910"}, 'southdakotahisto5191sout', lambda nom, ref: ref),
     ('sdhc_v6_1912.txt', 'PN', {'court': 'South Dakota Historical Collections, vol. VI (1912)', 'ref': "South Dakota Historical Collections, vol. VI, Pierre, State Historical Society, 1912"}, 'reporthistorical06soutuoft', lambda nom, ref: ref),
     ('sdhc_v7_1914.txt', 'PR', {'court': 'South Dakota Historical Collections, vol. VII (1914)', 'ref': "South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914"}, 'southdakotahisto7191sout', lambda nom, ref: ref),
     ('sdhc_v8_1916.txt', 'PO', {'court': 'South Dakota Historical Collections, vol. VIII (1916)', 'ref': "South Dakota Historical Collections, vol. VIII, Pierre, State Historical Society, 1916"}, 'reporthistorical08soutuoft', lambda nom, ref: ref),
@@ -552,6 +553,8 @@ LIVRES = [
     ('robinson_brief_1905.txt', 'PT', {'court': 'Robinson, A Brief History of South Dakota (1905)', 'ref': "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905"}, 'briefhistoryofso00robi', lambda nom, ref: ref),
     ('shanafelt_baptist_1899.txt', 'PU', {'court': 'Shanafelt, The Baptist History of South Dakota (c. 1899)', 'ref': "Thomas Miles Shanafelt, The Baptist History of South Dakota, Sioux Falls, South Dakota Baptist Convention, c. 1899"}, 'baptisthistoryof00shan', lambda nom, ref: ref),
     ('allison_commission_1875.txt', 'PV', {'court': 'Rapport de la commission Allison sur les Black Hills (1875)', 'ref': "Report of the Commission Appointed to Treat with the Sioux Indians for the Relinquishment of the Black Hills, Washington, Government Printing Office, 1875"}, 'reportofcommissi00unitrich', lambda nom, ref: ref),
+    ('robinson_encyclopedia_1925.txt', 'PX', {'court': 'Robinson, Encyclopedia of South Dakota (1925)', 'ref': "Doane Robinson, Doane Robinson's Encyclopedia of South Dakota, Pierre, 1925"}, 'doanerobinsonsen00robi', lambda nom, ref: ref),
+    ('ransom_sunshine_1917.txt', 'PY', {'court': 'Ransom, The Sunshine State (1917)', 'ref': "Frank L. Ransom, The Sunshine State; a History of South Dakota, Mitchell, Educator School Supply, 1917"}, 'sunshinestatehis00rans', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
