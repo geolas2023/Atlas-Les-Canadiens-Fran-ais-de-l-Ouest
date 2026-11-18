@@ -2434,6 +2434,14 @@ G.update({
     'Albion (Minnesota)': (-94.03, 45.18, 'h', "canton d'Albion (comté de Wright)"),
     'Chatham (Minnesota)': (-93.98, 45.25, 'h', "canton de Chatham (comté de Wright)"),
     'Maple Lake (Minnesota)': (-94.00, 45.23, 'h', "Maple Lake (comté de Wright)"),
+    'Morristown (Minnesota)': (-93.44, 44.23, 'h', "Morristown (comté de Rice)"),
+    'Lac Cannon (Minnesota)': (-93.33, 44.30, 'h', "lac Cannon, « lac du Grand Village » (comté de Rice)"),
+    'Plainview (Minnesota)': (-92.17, 44.16, 'h', "Plainview (comté de Wabasha)"),
+    'Greenfield (Wabasha)': (-91.98, 44.30, 'h', "canton de Greenfield (comté de Wabasha)"),
+    'Rivière Zumbro (embouchure)': (-91.86, 44.30, 'h', "embouchure de la Zumbro (comté de Wabasha)"),
+    'Rivière Des Moines': (-94.20, 43.00, 'h', "rivière Des Moines (haut cours, pays des Yanktons)"),
+    'Little Rock (Minnesota)': (-94.66, 44.43, 'h', "poste de Little Rock sur la Minnesota (comté de Nicollet)"),
+    'Hawk Creek (Minnesota)': (-95.43, 44.78, 'h', "ruisseau Hawk (comté de Renville)"),
 })
 
 
