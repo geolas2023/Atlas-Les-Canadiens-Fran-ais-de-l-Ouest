@@ -2266,6 +2266,16 @@ G.update({
     "Canton d'Owego (comté de Ransom, Dakota du Nord)": (-97.35, 46.5, 'h', "Canton d'Owego (comté de Ransom, Dakota du Nord)"),
     'Fort Primeau (au-dessus de Fort Clark)': (-101.3, 47.35, 'h', 'Fort Primeau (au-dessus de Fort Clark)'),
     'Fort Rice': (-100.58, 46.52, 'c', "Fort Rice (Dakota du Nord)"),
+    "Embouchure de l'Emanuel Creek (comté de Bon Homme, Dakota du Sud)": (-97.75, 42.86, 'a', "Embouchure de l'Emanuel Creek (comté de Bon Homme, Dakota du Sud)"),
+    'Jefferson (Dakota du Sud)': (-96.56, 42.6, 'c', 'Jefferson (Dakota du Sud)'),
+    'Elk Point (Dakota du Sud)': (-96.68, 42.68, 'c', 'Elk Point (Dakota du Sud)'),
+    'Comté de Clay (Dakota du Sud)': (-96.97, 42.9, 'a', 'Comté de Clay (Dakota du Sud)'),
+    'Comté de Charles Mix (Dakota du Sud)': (-98.5, 43.2, 'a', 'Comté de Charles Mix (Dakota du Sud)'),
+    'Burbank (Dakota du Sud)': (-96.84, 42.75, 'c', 'Burbank (Dakota du Sud)'),
+    'Agence de Cheyenne River (Dakota du Sud)': (-100.6, 44.75, 'h', 'Agence de Cheyenne River (Dakota du Sud)'),
+    'Comté de Bon Homme (Dakota du Sud)': (-97.9, 42.95, 'a', 'Comté de Bon Homme (Dakota du Sud)'),
+    'Pratt Creek (comté de Charles Mix, Dakota du Sud)': (-98.9, 43.4, 'h', 'Pratt Creek (comté de Charles Mix, Dakota du Sud)'),
+    'Medary (Dakota du Sud)': (-96.77, 44.27, 'a', "Medary, comté de Brookings (Dakota du Sud)"),
 })
 
 
