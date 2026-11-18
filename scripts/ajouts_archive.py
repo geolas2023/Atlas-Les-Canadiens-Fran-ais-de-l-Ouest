@@ -511,6 +511,12 @@ LIVRES = [
     ('utah_tullidge_1889.txt', 'UG', {'court': "Tullidge's Histories, vol. 2 (1889)", 'ref': "E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889"}, 'tullidgeshistori02tull', lambda nom, ref: ref),
     ('nd_compendium_1900.txt', 'DA', {'court': 'Compendium of History and Biography of North Dakota (1900)', 'ref': "Compendium of History and Biography of North Dakota, Chicago, George A. Ogle & Co., 1900"}, 'compendiumhistor00chic', lambda nom, ref: ref),
     ('nd_collections_v1_1906.txt', 'DB', {'court': 'Collections of the State Historical Society of North Dakota, vol. I (1906)', 'ref': "Collections of the State Historical Society of North Dakota, vol. I, Bismarck, 1906"}, 'ndcollections01nortuoft', lambda nom, ref: ref),
+    ('nd_collections_v2_1908.txt', 'DC', {'court': 'Collections of the State Historical Society of North Dakota, vol. II (1908)', 'ref': "Collections of the State Historical Society of North Dakota, vol. II, 1908"}, 'collectionsofsta02stat_0', lambda nom, ref: ref),
+    ('nd_collections_v3_1910.txt', 'DD', {'court': 'Collections of the State Historical Society of North Dakota, vol. III (1910)', 'ref': "Collections of the State Historical Society of North Dakota, vol. III, 1910"}, 'collectionsofsta03stat', lambda nom, ref: ref),
+    ('nd_collections_v4_1913.txt', 'DE', {'court': 'Collections of the State Historical Society of North Dakota, vol. IV (1913)', 'ref': "Collections of the State Historical Society of North Dakota, vol. IV, 1913"}, 'collectionsofsta04stat_0', lambda nom, ref: ref),
+    ('nd_collections_v5_1923.txt', 'DF', {'court': 'Collections of the State Historical Society of North Dakota, vol. V (1923)', 'ref': "Collections of the State Historical Society of North Dakota, vol. V, 1923"}, 'collectionsofsta05stat', lambda nom, ref: ref),
+    ('nd_collections_v6_1920.txt', 'DG', {'court': 'Collections of the State Historical Society of North Dakota, vol. VI (1920)', 'ref': "Collections of the State Historical Society of North Dakota, vol. VI, 1920"}, 'collectionsofsta06stat_0', lambda nom, ref: ref),
+    ('nd_collections_v7_1925.txt', 'DH', {'court': 'Collections of the State Historical Society of North Dakota, vol. VII (1925)', 'ref': "Collections of the State Historical Society of North Dakota, vol. VII, 1925"}, 'collectionsofsta07stat', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
