@@ -2406,6 +2406,17 @@ G.update({
     'Canton d\'Oneka (comté de Washington)': (-92.90, 45.15, 'h', "canton d'Oneka"),
     'Saint Croix Falls': (-92.64, 45.41, 'h', "chutes de la Sainte-Croix"),
     'Prescott (Wisconsin)': (-92.80, 44.75, 'h', "Prescott (embouchure de la Sainte-Croix)"),
+    'Saint Cloud (Minnesota)': (-94.16, 45.56, 'h', "Saint Cloud (comté de Stearns)"),
+    'Gilmanton (Minnesota)': (-94.03, 45.70, 'h', "canton de Gilmanton (comté de Benton)"),
+    'Baldwin (Minnesota)': (-93.55, 45.50, 'h', "canton de Baldwin (comté de Sherburne)"),
+    'Sauk Centre (Minnesota)': (-94.95, 45.74, 'h', "Sauk Centre (comté de Stearns)"),
+    'Melrose (Minnesota)': (-94.81, 45.67, 'h', "Melrose (comté de Stearns)"),
+    'Otsego (Minnesota)': (-93.59, 45.27, 'h', "Otsego (comté de Wright)"),
+    'Marysville (Minnesota)': (-93.87, 45.15, 'h', "canton de Marysville (comté de Wright)"),
+    'Gravelville (Minnesota)': (-94.30, 46.07, 'h', "Gravelville, rivière Platte (canton de Belle Prairie, comté de Morrison)"),
+    'Lac Como (Saint Paul)': (-93.15, 44.98, 'h', "lac Como (comté de Ramsey)"),
+    'Canton St. George (Benton)': (-94.05, 45.62, 'h', "canton de St. George (comté de Benton)"),
+    'Belle Plaine (Minnesota)': (-93.77, 44.62, 'h', "Belle Plaine (vallée de la Minnesota)"),
 })
 
 
