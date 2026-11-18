@@ -2196,6 +2196,21 @@ G.update({
     'Beaver Creek (Assiniboine)': (-101.0, 50.0, 'h', "Beaver Creek, affluent de l'Assiniboine"),
     'Old Man River (Alberta)': (-113.0, 49.6, 'h', 'Rivière Old Man (Alberta)'),
     'Sykeston (Dakota du Nord)': (-99.4, 47.465, 'c', 'Sykeston (Dakota du Nord)'),
+    'Fort Wadsworth (Dakota du Sud)': (-97.4, 45.5, 'c', 'Fort Wadsworth (Sisseton), Dakota du Sud'),
+    'Fort La Framboise (Dakota du Sud)': (-100.45, 44.45, 'a', 'Fort La Framboise, poste de traite au-dessus du fort Pierre'),
+    'Gull Lake (Minnesota)': (-94.35, 46.42, 'a', 'Gull Lake, Minnesota'),
+    "Kelley's Point (Dakota du Nord)": (-97.15, 48.4, 'h', "Kelley's Point, rivière Rouge (Dakota du Nord)"),
+    "Graham's Island (Dakota du Nord)": (-99.1, 48.05, 'a', "Graham's Island, lac Devils (Dakota du Nord)"),
+    'Agence de Red Lake (Minnesota)': (-95.02, 47.88, 'a', 'Agence de Red Lake (Minnesota)'),
+    'Saint-Paul (Minnesota)': (-93.09, 44.95, 'c', 'Saint-Paul (Minnesota)'),
+    'Embouchure de la Reed (rivière Rouge)': (-96.8, 47.6, 'h', 'Embouchure de la Reed (Goose ?), rivière Rouge'),
+    'Fort Cumberland (Saskatchewan)': (-102.27, 53.95, 'c', 'Cumberland House (Saskatchewan)'),
+    'Little Missouri (vigilants de 1884)': (-104.0, 47.5, 'h', 'Vallée de la Little Missouri (Montana-Dakota)'),
+    'Wibaux (Montana)': (-104.19, 46.985, 'c', 'Wibaux (Montana)'),
+    'Frog Point (Dakota du Nord)': (-96.95, 47.6, 'a', 'Frog Point, rivière Rouge, à 22 milles au sud de Grand Forks'),
+    'Archambault (ranch, Dakota du Sud)': (-99.5, 44.0, 'h', "Ranch d'Archambault, route de Pierre à Yankton"),
+    'Mission Genin (rivière Rouge)': (-96.75, 46.8, 'h', 'Station du père Genin, à 25 milles au nord du fort Abercrombie'),
+    'Poste Primeau (embouchure de la Yellowstone)': (-104.0, 47.98, 'a', "Poste d'adobe de Primeau, futur site du fort Buford"),
 })
 
 
