@@ -620,6 +620,7 @@ LIVRES = [
     ('mn_newson_pen_pictures_1886.txt', 'GK', {'court': 'Newson, Pen Pictures of St. Paul, I (1886)', 'ref': "Newson, T. M., Pen Pictures of St. Paul, Minnesota, and Biographical Sketches of Old Settlers, vol. I, Saint Paul, publié par l'auteur, 1886."}, 'penpicturesofstp01news', lambda nom, ref: ref),
     ('mn_castle_saint_paul_1912_v2.txt', 'GL', {'court': 'Castle, History of St. Paul and Vicinity, II (1912)', 'ref': "Castle, Henry A., History of St. Paul and Vicinity, vol. II, Chicago et New York, The Lewis Publishing Company, 1912."}, 'historyofstpaulv02cast', lambda nom, ref: ref),
     ('mn_castle_saint_paul_1912_v3.txt', 'GM', {'court': 'Castle, History of St. Paul and Vicinity, III (1912)', 'ref': "Castle, Henry A., History of St. Paul and Vicinity, vol. III, Chicago et New York, The Lewis Publishing Company, 1912."}, 'historyofstpaulv03cast', lambda nom, ref: ref),
+    ('mn_stevens_personal_recollections_1890.txt', 'GN', {'court': 'Stevens, Personal Recollections of Minnesota and Its People (1890)', 'ref': "Stevens, John H., Personal Recollections of Minnesota and Its People, and Early History of Minneapolis, Minneapolis, Marshall Robinson, 1890."}, 'personalrecollec00stev', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
