@@ -2400,6 +2400,12 @@ G.update({
     'Canton d\'Eagan (comté de Dakota)': (-93.17, 44.82, 'h', "canton d'Eagan"),
     'Nininger (Minnesota)': (-92.88, 44.76, 'h', "Nininger (lac Spring)"),
     'Hastings (Minnesota)': (-92.85, 44.74, 'h', "Hastings"),
+    'Afton (Minnesota)': (-92.78, 44.90, 'h', "Afton (comté de Washington)"),
+    'Marine (Minnesota)': (-92.77, 45.20, 'h', "Marine-on-St. Croix"),
+    'Cottage Grove (Minnesota)': (-92.94, 44.83, 'h', "Cottage Grove"),
+    'Canton d\'Oneka (comté de Washington)': (-92.90, 45.15, 'h', "canton d'Oneka"),
+    'Saint Croix Falls': (-92.64, 45.41, 'h', "chutes de la Sainte-Croix"),
+    'Prescott (Wisconsin)': (-92.80, 44.75, 'h', "Prescott (embouchure de la Sainte-Croix)"),
 })
 
 
