@@ -2359,6 +2359,11 @@ G.update({
     'Birch Coulee (Minnesota)': (-94.98, 44.57, 'h', "Birch Coulee"),
     'Black River (Wisconsin)': (-91.25, 43.90, 'h', "embouchure de la rivière Black (Wisconsin)"),
     'Grotte de Carver (Saint Paul)': (-93.07, 44.95, 'h', "grotte de Carver, six milles sous le fort Snelling"),
+    'Lac Itasca (Minnesota)': (-95.19, 47.22, 'h', "lac Itasca (lac La Biche des traiteurs)"),
+    'Killdeer Mountain (Dakota du Nord)': (-102.75, 47.43, 'h', "montagne Killdeer (Ta-ha-kouty)"),
+    'Centerville (Minnesota)': (-93.06, 45.16, 'h', "ruisseau Clearwater près de Centerville (comté d'Anoka)"),
+    'Hutchinson (Minnesota)': (-94.37, 44.89, 'h', "Hutchinson (comté de McLeod)"),
+    'Faribault (Minnesota)': (-93.27, 44.29, 'h', "Faribault (comté de Rice)"),
 })
 
 
