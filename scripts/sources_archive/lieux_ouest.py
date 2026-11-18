@@ -2320,6 +2320,15 @@ G.update({
     'Parker (Dakota du Sud)': (-97.14, 43.4, 'h', "Parker (Dakota du Sud)"),
     'Richland (Dakota du Sud)': (-96.63, 42.75, 'h', "Richland (comté d'Union, Dakota du Sud)"),
     'Embouchure du ruisseau Chapelle (Dakota du Sud)': (-99.95, 44.27, 'h', "Embouchure du ruisseau Chapelle (Dakota du Sud)"),
+    'Slim Buttes (Dakota du Sud)': (-103.3, 45.5, 'h', "Slim Buttes (Dakota du Sud)"),
+    'Agence de Lower Brule (Dakota du Sud)': (-99.58, 44.08, 'h', "Agence de Lower Brule (Dakota du Sud)"),
+    'Wheeler (Dakota du Sud)': (-98.86, 43.0, 'h', "Wheeler (comté de Charles Mix, Dakota du Sud)"),
+    'Pease Valley (comté de Charles Mix, Dakota du Sud)': (-98.5, 43.05, 'c', "Pease Valley (comté de Charles Mix, Dakota du Sud)"),
+    'Mulehead Bend (Dakota du Sud)': (-98.9, 43.1, 'c', "Mulehead Bend (Dakota du Sud)"),
+    'Chantier Creek (chantier naval de Fort Pierre)': (-100.45, 44.5, 'h', "Chantier Creek (chantier naval de Fort Pierre)"),
+    'Rivière Loup (Nebraska)': (-98.0, 41.4, 'c', "Rivière Loup (Nebraska)"),
+    'Old Cedar Fort (Nebraska)': (-98.55, 42.98, 'c', "Old Cedar Fort (Nebraska, en face de Fort Randall)"),
+    'Dirtville (loges poncas, en aval de Fort Randall)': (-98.35, 42.85, 'c', "Dirtville (anciennes loges poncas, en aval de Fort Randall)"),
 })
 
 

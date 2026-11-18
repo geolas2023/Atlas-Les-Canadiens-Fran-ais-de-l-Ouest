@@ -543,6 +543,10 @@ LIVRES = [
     ('sdhc_v1_1902.txt', 'PK', {'court': 'South Dakota Historical Collections, vol. I (1902)', 'ref': "South Dakota Historical Collections, vol. I, Pierre, State Historical Society, 1902"}, 'reporthistorical01soutuoft', lambda nom, ref: ref),
     ('sdhc_v3_1906.txt', 'PL', {'court': 'South Dakota Historical Collections, vol. III (1906)', 'ref': "South Dakota Historical Collections, vol. III, Pierre, State Historical Society, 1906"}, 'reporthistorical03soutuoft', lambda nom, ref: ref),
     ('sdhc_v4_1908.txt', 'PM', {'court': 'South Dakota Historical Collections, vol. IV (1908)', 'ref': "South Dakota Historical Collections, vol. IV, Pierre, State Historical Society, 1908"}, 'reporthistorical04soutuoft', lambda nom, ref: ref),
+    ('sdhc_v6_1912.txt', 'PN', {'court': 'South Dakota Historical Collections, vol. VI (1912)', 'ref': "South Dakota Historical Collections, vol. VI, Pierre, State Historical Society, 1912"}, 'reporthistorical06soutuoft', lambda nom, ref: ref),
+    ('sdhc_v8_1916.txt', 'PO', {'court': 'South Dakota Historical Collections, vol. VIII (1916)', 'ref': "South Dakota Historical Collections, vol. VIII, Pierre, State Historical Society, 1916"}, 'reporthistorical08soutuoft', lambda nom, ref: ref),
+    ('sdhc_v9_1918.txt', 'PP', {'court': 'South Dakota Historical Collections, vol. IX (1918)', 'ref': "South Dakota Historical Collections, vol. IX, Pierre, State Historical Society, 1918"}, 'reporthistorical09soutuoft', lambda nom, ref: ref),
+    ('sdhc_v10_1920.txt', 'PQ', {'court': 'South Dakota Historical Collections, vol. X (1920)', 'ref': "South Dakota Historical Collections, vol. X, Pierre, State Historical Society, 1920"}, 'reporthistorical10soutuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
