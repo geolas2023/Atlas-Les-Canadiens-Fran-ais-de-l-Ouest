@@ -2444,6 +2444,7 @@ G.update({
     'Hawk Creek (Minnesota)': (-95.43, 44.78, 'h', "ruisseau Hawk (comté de Renville)"),
     'Lida (Minnesota)': (-95.98, 46.58, 'h', "canton de Lida (comté d'Otter Tail)"),
     'Ghent (Minnesota)': (-95.89, 44.51, 'h', "Ghent (comté de Lyon)"),
+    'White Bear (Minnesota)': (-93.01, 45.08, 'h', "canton de White Bear (comté de Ramsey)"),
 })
 
 
