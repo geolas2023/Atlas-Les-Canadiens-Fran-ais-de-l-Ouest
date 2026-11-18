@@ -2451,6 +2451,10 @@ G.update({
     'Prairie du Sac (Wisconsin)': (-89.72, 43.28, 'h', "Sauk Prairie, sur le Wisconsin"),
     'Baraboo (Wisconsin)': (-89.74, 43.47, 'h', "rivière Baraboo (comté de Sauk)"),
     'Black Earth (Wisconsin)': (-89.40, 43.55, 'h', "Black Earth, ferme indienne (comté de Columbia)"),
+    'Kewaunee (Wisconsin)': (-87.50, 44.46, 'h', "Kewaunee, ruisseau Jean Beau (rivière East Twin)"),
+    'Two Rivers (Wisconsin)': (-87.57, 44.15, 'h', "Two Rivers (comté de Manitowoc)"),
+    'McGregor (Iowa)': (-91.17, 43.02, 'h', "McGregor, concession espagnole de Giard"),
+    'Skunk Grove (Wisconsin)': (-87.90, 42.73, 'h', "Skunk Grove, canton de Mount Pleasant (comté de Racine)"),
 })
 
 
