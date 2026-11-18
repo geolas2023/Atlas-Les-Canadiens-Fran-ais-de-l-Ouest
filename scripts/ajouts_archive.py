@@ -564,6 +564,9 @@ LIVRES = [
     ('mn_collections_v1_1872.txt', 'EF', {'court': 'Collections of the Minnesota Historical Society, vol. I (1872)', 'ref': "Collections of the Minnesota Historical Society, vol. I (1850-1856), réimpression, Saint Paul, 1872"}, 'collections01minnuoft', lambda nom, ref: ref),
     ('mn_collections_v2_1889.txt', 'EG', {'court': 'Collections of the Minnesota Historical Society, vol. II (1889)', 'ref': "Collections of the Minnesota Historical Society, vol. II (1860-1867), réimpression, Saint Paul, 1889"}, 'collections02minnuoft', lambda nom, ref: ref),
     ('mn_collections_v3_1880.txt', 'EH', {'court': 'Collections of the Minnesota Historical Society, vol. III (1880)', 'ref': "Collections of the Minnesota Historical Society, vol. III (1870-1880), Saint Paul, 1880"}, 'collections03minnuoft', lambda nom, ref: ref),
+    ('mn_williams_saint_paul_1876.txt', 'EI', {'court': 'Williams, History of the City of Saint Paul (1876)', 'ref': "J. Fletcher Williams, A History of the City of Saint Paul, and of the County of Ramsey, Minnesota (Collections of the Minnesota Historical Society, vol. IV), Saint Paul, 1876"}, 'collections04minnuoft', lambda nom, ref: ref),
+    ('mn_warren_ojibways_1885.txt', 'EJ', {'court': 'Warren, History of the Ojibways (1885)', 'ref': "William W. Warren, History of the Ojibways, based upon traditions and oral statements, avec un mémoire biographique et des notes (Collections of the Minnesota Historical Society, vol. V), Saint Paul, 1885"}, 'collections05minnuoft', lambda nom, ref: ref),
+    ('mn_collections_v6_1894.txt', 'EK', {'court': 'Collections of the Minnesota Historical Society, vol. VI (1894)', 'ref': "Collections of the Minnesota Historical Society, vol. VI, Saint Paul, The Pioneer Press Company, 1894"}, 'collections06minnuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -2350,6 +2350,15 @@ G.update({
     'Île Pelée (Prairie Island)': (-92.65, 44.63, 'h', "Île Pelée (Prairie Island, Minnesota)"),
     'Chaska (Minnesota)': (-93.6, 44.79, 'h', "Chaska (Minnesota)"),
     'Fort Ridgely (Minnesota)': (-94.73, 44.45, 'h', "Fort Ridgely (Minnesota)"),
+    'Rivière Leaf (Minnesota)': (-94.93, 46.37, 'h', "embouchure de la rivière Leaf (Crow Wing)"),
+    'Rivière Partridge (Pena)': (-94.70, 46.33, 'h', "confluent de la Partridge (Pe-na) et de la Crow Wing"),
+    'Rivière Namekagon': (-92.25, 46.05, 'h', "rivière Namekagon (Num-a-ka-gun)"),
+    'Rivière Chippewa (Wisconsin)': (-91.40, 45.10, 'h', "rivière Chippewa (Chippeway)"),
+    'Keweenaw (Michigan)': (-88.40, 47.20, 'h', "Keweenaw"),
+    'Agence Yellow Medicine (Minnesota)': (-95.56, 44.73, 'h', "agence Yellow Medicine (agence supérieure sioux)"),
+    'Birch Coulee (Minnesota)': (-94.98, 44.57, 'h', "Birch Coulee"),
+    'Black River (Wisconsin)': (-91.25, 43.90, 'h', "embouchure de la rivière Black (Wisconsin)"),
+    'Grotte de Carver (Saint Paul)': (-93.07, 44.95, 'h', "grotte de Carver, six milles sous le fort Snelling"),
 })
 
 
