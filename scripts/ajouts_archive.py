@@ -638,6 +638,8 @@ LIVRES = [
     ('wi_collections_v7_1876.txt', 'HD', {'court': 'Collections of the State Historical Society of Wisconsin, VII (1876)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. VII, éd. Lyman C. Draper, Madison, 1876 (réimpr. 1908)."}, 'collectionsstat10wiscgoog', lambda nom, ref: ref),
     ('wi_collections_v11_1888.txt', 'HE', {'court': 'Collections of the State Historical Society of Wisconsin, XI (1888)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XI, éd. Reuben G. Thwaites, Madison, 1888."}, 'collectionsstat01unkngoog', lambda nom, ref: ref),
     ('wi_collections_v10_1885.txt', 'HF', {'court': 'Habitants de Green Bay en 1818 (WHC X)', 'ref': "Lawe and Grignon Papers, 1794-1821, dans Collections of the State Historical Society of Wisconsin, vol. X, Madison, 1888 (réimpr. 1909)."}, 'collectionsofsta0000lyma', lambda nom, ref: ref),
+    ('wi_collections_v14_1898.txt', 'HG', {'court': 'WHC XIV (1898)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XIV, éd. Reuben G. Thwaites, Madison, 1898 : E. T. Baird, « Reminiscences of Early Days on Mackinac Island », et documents sur l'Église catholique de Green Bay, 1825-40"}, 'collectionsofsta0014reub_f2f9', lambda nom, ref: ref),
+    ('wi_collections_v13_1895.txt', 'HH', {'court': 'WHC XIII (1895)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XIII, éd. Reuben G. Thwaites, Madison, 1895 : « The Bulger Papers », 1814-1815"}, 'collectionsofsta0013unse', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
