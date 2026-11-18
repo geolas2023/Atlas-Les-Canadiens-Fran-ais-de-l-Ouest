@@ -2431,6 +2431,9 @@ G.update({
     'Staples (Minnesota)': (-94.79, 46.36, 'h', "Staples (comté de Todd)"),
     'Pierz (Minnesota)': (-94.10, 45.98, 'h', "Pierz (comté de Morrison)"),
     'Swanville (Minnesota)': (-94.64, 45.92, 'h', "Swanville (comté de Morrison)"),
+    'Albion (Minnesota)': (-94.03, 45.18, 'h', "canton d'Albion (comté de Wright)"),
+    'Chatham (Minnesota)': (-93.98, 45.25, 'h', "canton de Chatham (comté de Wright)"),
+    'Maple Lake (Minnesota)': (-94.00, 45.23, 'h', "Maple Lake (comté de Wright)"),
 })
 
 
