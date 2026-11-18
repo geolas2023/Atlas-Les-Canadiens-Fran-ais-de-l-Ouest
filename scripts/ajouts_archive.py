@@ -522,6 +522,8 @@ LIVRES = [
     ('nd_history_people_v3_1917.txt', 'DK', {'court': 'Lounsberry, North Dakota History and People, vol. III (1917)', 'ref': "C. A. Lounsberry, North Dakota History and People, vol. III, Chicago, S. J. Clarke, 1917"}, 'northdakotahisto03loun', lambda nom, ref: ref),
     ('rrv_album_1889.txt', 'DL', {'court': 'Illustrated Album of Biography, Red River Valley (1889)', 'ref': "Illustrated Album of Biography of the Famous Valley of the Red River of the North and the Park Regions, Chicago, Alden, Ogle & Co., 1889"}, 'illustratedalbum00alde_0', lambda nom, ref: ref),
     ('rrv_history_1909.txt', 'DM', {'court': 'History of the Red River Valley, vol. I (1909)', 'ref': "History of the Red River Valley, Past and Present, vol. I, Grand Forks, Herald / Chicago, C. F. Cooper, 1909"}, 'historyofredrive01chicuoft', lambda nom, ref: ref),
+    ('nd_trinka_1920.txt', 'DN', {'court': 'Trinka, Out Where the West Begins (1920)', 'ref': "Zena Irma Trinka, Out Where the West Begins, Being the Early and Romantic History of North Dakota, Saint Paul, Pioneer Company, 1920"}, 'outwherewestbeg00tringoog', lambda nom, ref: ref),
+    ('nd_history_people_v1_1917.txt', 'DO', {'court': 'Lounsberry, North Dakota History and People, vol. I (1917)', 'ref': "C. A. Lounsberry, North Dakota History and People, vol. I, Chicago, S. J. Clarke, 1917"}, 'northdakotahisto01loun', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

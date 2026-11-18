@@ -212,6 +212,8 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `northdakotahisto03loun` | 7 |
 | `illustratedalbum00alde_0` | 30 |
 | `historyofredrive01chicuoft` | 64 |
+| `outwherewestbeg00tringoog` | 15 |
+| `northdakotahisto01loun` | 43 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
