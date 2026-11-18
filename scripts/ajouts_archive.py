@@ -528,6 +528,8 @@ LIVRES = [
     ('kingsbury_dakota_v2_1915.txt', 'DQ', {'court': 'Kingsbury, History of Dakota Territory, vol. II (1915)', 'ref': "George W. Kingsbury, History of Dakota Territory, vol. II, Chicago, S. J. Clarke, 1915"}, 'historyofdakotat02king', lambda nom, ref: ref),
     ('kingsbury_dakota_v4_1915.txt', 'DR', {'court': 'Kingsbury et Smith, South Dakota, vol. IV (1915)', 'ref': "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. IV, Chicago, S. J. Clarke, 1915"}, 'historyofdakotat04king', lambda nom, ref: ref),
     ('kingsbury_dakota_v5_1915.txt', 'DS', {'court': 'Kingsbury et Smith, South Dakota, vol. V (1915)', 'ref': "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. V, Chicago, S. J. Clarke, 1915"}, 'historyofdakotat05king', lambda nom, ref: ref),
+    ('nd_arnold_grand_forks_1921.txt', 'DT', {'court': 'Arnold, Forty Years in North Dakota (1921)', 'ref': "Henry V. Arnold, Forty Years in North Dakota in Relation to Grand Forks County, Larimore, 1921"}, 'fortyyearsinnort00arno', lambda nom, ref: ref),
+    ('armstrong_empire_builders_1901.txt', 'DU', {'court': 'Armstrong, Early Empire Builders of the Great West (1901)', 'ref': "Moses K. Armstrong, The Early Empire Builders of the Great West, Saint Paul, 1901"}, 'empirebuildersof00arms', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
