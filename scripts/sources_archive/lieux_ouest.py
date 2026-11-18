@@ -2103,6 +2103,8 @@ G.update({
     'Monts Sangre de Cristo (Colorado)': (-105.45, 37.6, 'h', 'monts Sangre de Cristo (Colorado)'),
     'Conifer (Colorado)': (-105.3, 39.52, 'c', 'Conifer et Pleasant Park (comté de Jefferson, Colorado)'),
     'La Sal Creek (Colorado)': (-108.97, 38.3, 'h', 'La Sal Creek (comté de Montrose, Colorado)'),
+    'Montezuma Valley (Colorado)': (-108.6, 37.4, 'h', 'vallée de Montezuma (comté de Montezuma, Colorado)'),
+    "Colonie française à l'ouest d'Atchison (Kansas)": (-95.88, 39.55, 'c', "colonie française à une quarantaine de milles à l'ouest d'Atchison (Kansas)"),
 })
 
 
