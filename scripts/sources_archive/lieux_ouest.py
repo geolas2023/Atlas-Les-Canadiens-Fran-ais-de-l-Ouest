@@ -2313,6 +2313,12 @@ G.update({
     'Fort Lookout (Dakota du Sud)': (-99.53, 43.73, 'h', "Fort Lookout (Missouri, comté de Lyman, Dakota du Sud)"),
     'Île au Cèdre (poste Loisel)': (-99.85, 44.1, 'h', "Île au Cèdre, poste de Loisel (Missouri, Dakota du Sud)"),
     'Fort Kiowa (Dakota du Sud)': (-99.38, 43.87, 'h', "Fort Kiowa (Missouri, au-dessus de Chamberlain, Dakota du Sud)"),
+    'Agence Spotted Tail': (-103.0, 42.8, 'h', "Agence Spotted Tail (Camp Sheridan, Nebraska)"),
+    'Saint-Onge (Dakota du Sud)': (-103.72, 44.55, 'c', "Saint-Onge / St. Ange (False Bottom Creek, Dakota du Sud)"),
+    'Bon Homme (Dakota du Sud)': (-97.67, 42.88, 'c', "Bon Homme (Dakota du Sud)"),
+    'Comté de Minnehaha (Dakota du Sud)': (-96.8, 43.67, 'c', "Comté de Minnehaha (Dakota du Sud)"),
+    'Parker (Dakota du Sud)': (-97.14, 43.4, 'h', "Parker (Dakota du Sud)"),
+    'Richland (Dakota du Sud)': (-96.63, 42.75, 'h', "Richland (comté d'Union, Dakota du Sud)"),
 })
 
 
