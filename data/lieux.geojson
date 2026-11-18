@@ -821794,6 +821794,1366 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -97.36,
+     49.35
+    ]
+   },
+   "properties": {
+    "id": "DI-barbe-jacques-morris-man",
+    "nom": "Morris (Manitoba), rivière Rouge : Jacques Barbe",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Barbe"
+    ],
+    "description": "Morris (Manitoba), rivière Rouge, 1800. Jacques Barbe voyageur, guide de proue du premier canot de la brigade de la rivière Rouge d'Alexander Henry. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=BARBE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.15,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "DI-charbonneau-etienne-park-river",
+    "nom": "Poste de la rivière Park (rivière Rouge) : Étienne Charbonneau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1801.999,
+    "date_edtf": "1800/1801",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Charbonneau"
+    ],
+    "description": "Poste de la rivière Park (rivière Rouge), 1800-1801. Étienne Charbonneau voyageur, timonier de la brigade d'Henry. D'après Lounsberry, Early History of North Dakota (1919). Autres lieux de l'entrée : Fort Pembina (Dakota du Nord).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 44 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=CHARBONNEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-charbonneau-etienne-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Étienne Charbonneau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1803.0,
+    "fin": 1804.999,
+    "date_edtf": "1803/1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Charbonneau"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1803-1804. Étienne Charbonneau hiverne avec Henry ; 211 peaux de castor. D'après Lounsberry, Early History of North Dakota (1919). Autres lieux de l'entrée : poste de la rivière Park (rivière Rouge).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 44 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=CHARBONNEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.0
+    ]
+   },
+   "properties": {
+    "id": "DI-dubois-joseph-pembina-hi",
+    "nom": "Montagne de Pembina : Joseph Dubois",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1801.999,
+    "date_edtf": "1800/1801",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Dubois"
+    ],
+    "description": "Montagne de Pembina, 1800-1801. Joseph Dubois voyageur, accompagne Lagasse pour traiter dans les montagnes de Pembina. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 28 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=DUBOIS",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.36,
+     49.35
+    ]
+   },
+   "properties": {
+    "id": "DI-langlois-michel-dit-coloret-morris-man",
+    "nom": "Morris (Manitoba), rivière Rouge : Michel Langlois (dit Coloret)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1801.999,
+    "date_edtf": "1800/1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Langlois (dit Coloret)"
+    ],
+    "description": "Morris (Manitoba), rivière Rouge, 1800-1801. Michel Langlois (dit Coloret) commis de la brigade, hiverne avec sa femme et sa fille. D'après Lounsberry, Early History of North Dakota (1919). Autres lieux de l'entrée : montagne de Pembina.",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 28, 43 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=LANGLOIS",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.0
+    ]
+   },
+   "properties": {
+    "id": "DI-langlois-michel-dit-coloret-pembina-hi",
+    "nom": "Montagne de Pembina : Michel Langlois (dit Coloret)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1801.0,
+    "fin": 1802.999,
+    "date_edtf": "1801/1802",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel Langlois (dit Coloret)"
+    ],
+    "description": "Montagne de Pembina, 1801-1802. Michel Langlois (dit Coloret) fonde un poste aux Hair Hills : 200 castors, 29 ours, 160 loups. D'après Lounsberry, Early History of North Dakota (1919). Autres lieux de l'entrée : Morris (Manitoba), rivière Rouge.",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 28, 43 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=LANGLOIS",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.0
+    ]
+   },
+   "properties": {
+    "id": "DI-lagasse-andre-pembina-hi",
+    "nom": "Montagne de Pembina : André Lagasse",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1801.999,
+    "date_edtf": "1800/1801",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "André Lagasse"
+    ],
+    "description": "Montagne de Pembina, 1800-1801. André Lagasse voyageur, guide, avec sa femme, envoyé traiter dans les montagnes de Pembina. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 28 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=LAGASSE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-daisville-joachim-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Joachim Daisville",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joachim Daisville"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1801. Joachim Daisville employé du poste d'Henry. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 43 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=DAISVILLE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-demerais-jean-baptiste-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Jean-Baptiste Demerais",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1801.0,
+    "fin": 1802.999,
+    "date_edtf": "1801/1802",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Demerais"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1801-1802. Jean-Baptiste Demerais interprète de la brigade d'Henry, avec sa femme et deux enfants ; chargé du jardin, des chevaux et de la pêche. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 42 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=DEMERAIS",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-larocque-jean-baptiste-pere--fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Jean-Baptiste Larocque (père et fils)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "religion",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Larocque (père et fils)"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1801. Jean-Baptiste Larocque (père et fils) voyageurs, guide et timonier de la brigade. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20, 43 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=LAROCQUE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.36,
+     49.35
+    ]
+   },
+   "properties": {
+    "id": "DI-roy-etienne-morris-man",
+    "nom": "Morris (Manitoba), rivière Rouge : Étienne Roy",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Roy"
+    ],
+    "description": "Morris (Manitoba), rivière Rouge, 1800. Étienne Roy voyageur de la brigade d'Henry. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 20 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/20/mode/1up?q=ROY",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-beauchemin-andre-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : André Beauchemin",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "André Beauchemin"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1801. André Beauchemin employé du poste. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 43 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/43/mode/1up?q=BEAUCHEMIN",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-rubrette-nicolas-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Nicolas Rubrette",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Rubrette"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1800. Nicolas Rubrette employé d'Henry. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 28 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/28/mode/1up?q=RUBRETTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-bottineau-charles-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Charles Bottineau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Bottineau"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1808. Charles Bottineau chargé d'un canot de graisse et de pommes de terre au départ de la brigade. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 52 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/52/mode/1up?q=BOTTINEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-plante-joseph-fort-pembi",
+    "nom": "Fort Pembina (Dakota du Nord) : Joseph Plante",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Plante"
+    ],
+    "description": "Fort Pembina (Dakota du Nord), 1808. Joseph Plante canotier avec Louis Demerais, Cyrille Paradis et Michel Damphousse. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 52 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/52/mode/1up?q=PLANTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "DI-gravelines-joseph-villages-a",
+    "nom": "Villages arikaras (Grand River) : Joseph Gravelines",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Gravelines"
+    ],
+    "description": "Villages arikaras (Grand River), 1804. Joseph Gravelines traiteur, réunit les Arikaras pour le conseil du 10 octobre avec Lewis et Clark. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 61, 71 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/61/mode/1up?q=GRAVELINES",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "DI-gravelines-joseph-villages-a-2",
+    "nom": "Villages arikaras (Grand River) : Joseph Gravelines",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Gravelines"
+    ],
+    "description": "Villages arikaras (Grand River), 1806. Joseph Gravelines revient avec les présents du président après la mort du chef arikara à Washington. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 61, 71 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/61/mode/1up?q=GRAVELINES",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "DI-tabeau-antoine-villages-a",
+    "nom": "Villages arikaras (Grand River) : Antoine Tabeau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Tabeau"
+    ],
+    "description": "Villages arikaras (Grand River), 1804. Antoine Tabeau traiteur chez les Arikaras. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 61 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/61/mode/1up?q=TABEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "DI-rousseau-pierre-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Pierre Rousseau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Rousseau"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1805. Pierre Rousseau interprète de l'expédition Pike, avec Joseph Renville. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 78 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/78/mode/1up?q=ROUSSEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "DI-faribault-jean-baptiste-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean-Baptiste Faribault",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Faribault"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1805. Jean-Baptiste Faribault traiteur sur la Minnesota rencontré par Pike. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 78 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/78/mode/1up?q=FARIBAULT",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "DI-bourbonnais-augustin-fort-union",
+    "nom": "Fort Union : Augustin Bourbonnais",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Bourbonnais"
+    ],
+    "description": "Fort Union, vers 1833. Augustin Bourbonnais courtise la femme autochtone de Kenneth McKenzie ; blessé par Brasseau. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 186 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/186/mode/1up?q=BOURBONNAIS",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "DI-brasseau-john-fort-union",
+    "nom": "Fort Union : John Brasseau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.0,
+    "date_edtf": "1833~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "John Brasseau"
+    ],
+    "description": "Fort Union, vers 1833. John Brasseau homme à tout faire du fort, tire sur Bourbonnais. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 186 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/186/mode/1up?q=BRASSEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "DI-vivier-joseph-fort-union",
+    "nom": "Fort Union : Joseph Vivier",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "evenement",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Vivier"
+    ],
+    "description": "Fort Union, vers 1835. Joseph Vivier tué lors d'un assaut au fort. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 186 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/186/mode/1up?q=VIVIER",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "DI-deschamps-francois-pere-fort-union",
+    "nom": "Fort Union : François Deschamps (père)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "religion",
+    "debut": 1835.0,
+    "fin": 1835.0,
+    "date_edtf": "1835~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "François Deschamps (père)"
+    ],
+    "description": "Fort Union, vers 1835. François Deschamps (père) accusé d'avoir tué le gouverneur Semple en 1816 ; sa famille périt dans la querelle de Fort Union. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 185 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/185/mode/1up?q=DESCHAMPS",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.55,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "DI-la-plante-joseph-big-sioux-",
+    "nom": "Big Sioux Point, embouchure de la Big Sioux : Joseph la Plante",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1849.0,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Plante"
+    ],
+    "description": "Big Sioux Point, embouchure de la Big Sioux, 1849. Joseph la Plante s'y établit. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 220 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/220/mode/1up?q=LA+PLANTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "DI-bruguier-theophile-fort-pierr",
+    "nom": "Fort Pierre : Théophile Bruguier",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1836.0,
+    "fin": 1836.0,
+    "date_edtf": "1836",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Théophile Bruguier"
+    ],
+    "description": "Fort Pierre, 1836. Théophile Bruguier arrive au fort Pierre. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 220 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/220/mode/1up?q=BRUGUIER",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-rolette-joseph-pembina",
+    "nom": "Pembina : Joseph Rolette",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rolette"
+    ],
+    "description": "Pembina, 1855. Joseph Rolette premier maître de poste de Pembina. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 222, 229, 265 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/222/mode/1up?q=ROLETTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-rolette-joseph-pembina-2",
+    "nom": "Pembina : Joseph Rolette",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rolette"
+    ],
+    "description": "Pembina, 1856. Joseph Rolette représente Pembina au conseil de la législature du Minnesota. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 222, 229, 265 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/222/mode/1up?q=ROLETTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-rolette-joseph-pembina-3",
+    "nom": "Pembina : Joseph Rolette",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1868.0,
+    "fin": 1868.0,
+    "date_edtf": "1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rolette"
+    ],
+    "description": "Pembina, 1868. Joseph Rolette fait le 15 juin la première entrée de terre publique du Dakota du Nord, au bureau de Vermilion. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 222, 229, 265 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/222/mode/1up?q=ROLETTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.918,
+     48.923
+    ]
+   },
+   "properties": {
+    "id": "DI-charette-shorette-baptiste-saint-jose",
+    "nom": "Saint-Joseph (Walhalla, Dakota) : Baptiste Charette (shorette)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Charette (shorette)"
+    ],
+    "description": "Saint-Joseph (Walhalla, Dakota), 1861. Baptiste Charette (shorette). Sa maison sert de bureau de vote ; juge d'élection avec Charles Bottineau et Antoine Gingras. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 277 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/277/mode/1up?q=CHARETTE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     47.0
+    ]
+   },
+   "properties": {
+    "id": "DI-durant-frank-lafayette-",
+    "nom": "Lafayette, en face de l'embouchure de la Sheyenne (rivière Rouge) : Frank Durant",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Frank Durant"
+    ],
+    "description": "Lafayette, en face de l'embouchure de la Sheyenne (rivière Rouge), 1871. Frank Durant tient un emplacement de ville pour Pierre Bottineau avec David Auger. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 233 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/233/mode/1up?q=DURANT",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.82,
+     47.0
+    ]
+   },
+   "properties": {
+    "id": "DI-auger-david-lafayette-",
+    "nom": "Lafayette, en face de l'embouchure de la Sheyenne (rivière Rouge) : David Auger",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1871.0,
+    "fin": 1871.0,
+    "date_edtf": "1871",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "David Auger"
+    ],
+    "description": "Lafayette, en face de l'embouchure de la Sheyenne (rivière Rouge), 1871. David Auger tient un emplacement de ville pour Pierre Bottineau. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 233 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/233/mode/1up?q=AUGER",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.25
+    ]
+   },
+   "properties": {
+    "id": "DI-archambault-louis-fort-clark",
+    "nom": "Fort Clark (Mandanes) : Louis Archambault",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1843.0,
+    "fin": 1843.0,
+    "date_edtf": "1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Archambault"
+    ],
+    "description": "Fort Clark (Mandanes), 1843. Louis Archambault employé de l'American Fur Company. D'après Lounsberry, Early History of North Dakota (1919). Autres lieux de l'entrée : Fort Rice (Dakota du Nord).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 235 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/235/mode/1up?q=ARCHAMBAULT",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.58,
+     46.51
+    ]
+   },
+   "properties": {
+    "id": "DI-archambault-louis-fort-rice-",
+    "nom": "Fort Rice (Dakota du Nord) : Louis Archambault",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1873.0,
+    "fin": 1873.0,
+    "date_edtf": "1873",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Archambault"
+    ],
+    "description": "Fort Rice (Dakota du Nord), 1873. Louis Archambault éleveur. D'après Lounsberry, Early History of North Dakota (1919). Autres lieux de l'entrée : fort Clark (Mandanes).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 235 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/235/mode/1up?q=ARCHAMBAULT",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.58,
+     46.51
+    ]
+   },
+   "properties": {
+    "id": "DI-la-framboise-frank-fort-rice-",
+    "nom": "Fort Rice (Dakota du Nord) : Frank la Framboise",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1864.0,
+    "fin": 1864.0,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frank la Framboise"
+    ],
+    "description": "Fort Rice (Dakota du Nord), 1864. Frank la Framboise guide de Sully, capturé par deux cents Sioux puis relâché. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 293 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/293/mode/1up?q=LA+FRAMBOISE",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.4,
+     44.15
+    ]
+   },
+   "properties": {
+    "id": "DI-gasseaux-pierre-french-pete-penn-valle",
+    "nom": "Penn Valley, Black Hills (Dakota du Sud) : Pierre Gasseaux (French Pete)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "evenement",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Gasseaux (French Pete)"
+    ],
+    "description": "Penn Valley, Black Hills (Dakota du Sud), 1876. Pierre Gasseaux (French Pete) tué par les Sioux avec son associé et quatre autres ; sa veuve sioux témoigne. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 307 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/307/mode/1up?q=GASSEAUX",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.72,
+     46.447
+    ]
+   },
+   "properties": {
+    "id": "DI-beauvier-paul-fort-aberc",
+    "nom": "Fort Abercrombie (Dakota du Nord) : Paul Beauvier",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "poste",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul Beauvier"
+    ],
+    "description": "Fort Abercrombie (Dakota du Nord), vers 1860. Paul Beauvier voyageur de la route du courrier. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 504 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/504/mode/1up?q=BEAUVIER",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "DI-murneau-charles-pembina",
+    "nom": "Pembina : Charles Murneau",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Murneau"
+    ],
+    "description": "Pembina, vers 1865. Charles Murneau nommé maître de poste par l'entremise de Lemay et Rolette. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 505 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/505/mode/1up?q=MURNEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.2,
+     48.95
+    ]
+   },
+   "properties": {
+    "id": "DI-charbonneau-michel-abbe-turtle-mou",
+    "nom": "Montagne à la Tortue : Michel Charbonneau (abbé)",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "religion",
+    "debut": 1877.0,
+    "fin": 1878.999,
+    "date_edtf": "1877/1878",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Charbonneau (abbé)"
+    ],
+    "description": "Montagne à la Tortue, 1877-1878. Michel Charbonneau (abbé) visite l'église. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 613 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/613/mode/1up?q=CHARBONNEAU",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.85,
+     48.77
+    ]
+   },
+   "properties": {
+    "id": "DI-labonty-moise-comte-de-r",
+    "nom": "Comté de Rolette (Dakota du Nord) : Moïse Labonty",
+    "corpus": "archive.org · Lounsberry, Early History of North Dakota (1919)",
+    "theme": "personnage",
+    "debut": 1885.0,
+    "fin": 1885.0,
+    "date_edtf": "1885",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Moïse Labonty"
+    ],
+    "description": "Comté de Rolette (Dakota du Nord), 1885. Moïse Labonty constable à l'organisation du comté. D'après Lounsberry, Early History of North Dakota (1919).",
+    "sources": "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919, p. 537 ; texte intégral : archive.org, earlyhistoryofno01loun.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Lounsberry, Early History of North Dakota (1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/earlyhistoryofno01loun/page/537/mode/1up?q=LABONTY",
+      "texte": "Lire Lounsberry, Early History of North Dakota (1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

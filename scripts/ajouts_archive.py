@@ -517,6 +517,7 @@ LIVRES = [
     ('nd_collections_v5_1923.txt', 'DF', {'court': 'Collections of the State Historical Society of North Dakota, vol. V (1923)', 'ref': "Collections of the State Historical Society of North Dakota, vol. V, 1923"}, 'collectionsofsta05stat', lambda nom, ref: ref),
     ('nd_collections_v6_1920.txt', 'DG', {'court': 'Collections of the State Historical Society of North Dakota, vol. VI (1920)', 'ref': "Collections of the State Historical Society of North Dakota, vol. VI, 1920"}, 'collectionsofsta06stat_0', lambda nom, ref: ref),
     ('nd_collections_v7_1925.txt', 'DH', {'court': 'Collections of the State Historical Society of North Dakota, vol. VII (1925)', 'ref': "Collections of the State Historical Society of North Dakota, vol. VII, 1925"}, 'collectionsofsta07stat', lambda nom, ref: ref),
+    ('nd_lounsberry_early_1919.txt', 'DI', {'court': 'Lounsberry, Early History of North Dakota (1919)', 'ref': "C. A. Lounsberry, Early History of North Dakota, Washington, Liberty Press, 1919"}, 'earlyhistoryofno01loun', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -207,6 +207,7 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `collectionsofsta05stat` | 7 |
 | `collectionsofsta06stat_0` | 3 |
 | `collectionsofsta07stat` | 17 |
+| `earlyhistoryofno01loun` | 40 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
