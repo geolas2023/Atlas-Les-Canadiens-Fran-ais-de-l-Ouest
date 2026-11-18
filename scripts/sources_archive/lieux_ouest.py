@@ -2334,6 +2334,13 @@ G.update({
     'Big Stone City (Dakota du Sud)': (-96.47, 45.29, 'h', "Big Stone City (Dakota du Sud)"),
     'Rousseau (comté de Hughes, Dakota du Sud)': (-100.15, 44.6, 'h', "Rousseau (comté de Hughes, Dakota du Sud)"),
     'Le Beau (Dakota du Sud)': (-100.5, 45.45, 'h', "Le Beau (comté de Walworth, Dakota du Sud)"),
+    'Comté de Grant (Dakota du Sud)': (-96.75, 45.17, 'c', "Comté de Grant (Dakota du Sud)"),
+    'Leslie (Dakota du Sud)': (-101.07, 44.63, 'h', "Leslie (rivière Cheyenne, Dakota du Sud)"),
+    'White Stone Hill (Dakota du Nord)': (-98.85, 46.17, 'h', "White Stone Hill (Dakota du Nord)"),
+    'Mobridge (Dakota du Sud)': (-100.43, 45.54, 'h', "Mobridge (Dakota du Sud)"),
+    'Fort Manuel (Dakota du Sud)': (-100.73, 45.93, 'h', "Fort Manuel (Kenel, Dakota du Sud)"),
+    'Spirit Mound (Dakota du Sud)': (-96.95, 42.87, 'h', "Spirit Mound (comté de Clay, Dakota du Sud)"),
+    'Fort Primeau (au-dessus de Fort Pierre)': (-100.42, 44.47, 'h', "Fort Primeau (au-dessus de Fort Pierre)"),
 })
 
 
