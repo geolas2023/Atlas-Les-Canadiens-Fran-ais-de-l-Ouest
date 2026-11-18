@@ -549,6 +549,9 @@ LIVRES = [
     ('sdhc_v9_1918.txt', 'PP', {'court': 'South Dakota Historical Collections, vol. IX (1918)', 'ref': "South Dakota Historical Collections, vol. IX, Pierre, State Historical Society, 1918"}, 'reporthistorical09soutuoft', lambda nom, ref: ref),
     ('sdhc_v10_1920.txt', 'PQ', {'court': 'South Dakota Historical Collections, vol. X (1920)', 'ref': "South Dakota Historical Collections, vol. X, Pierre, State Historical Society, 1920"}, 'reporthistorical10soutuoft', lambda nom, ref: ref),
     ('robinson_kerr_1907.txt', 'PS', {'court': 'Robinson et Kerr, A History of South Dakota (1907)', 'ref': "Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907"}, 'historyofsouthda00robi', lambda nom, ref: ref),
+    ('robinson_brief_1905.txt', 'PT', {'court': 'Robinson, A Brief History of South Dakota (1905)', 'ref': "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905"}, 'briefhistoryofso00robi', lambda nom, ref: ref),
+    ('shanafelt_baptist_1899.txt', 'PU', {'court': 'Shanafelt, The Baptist History of South Dakota (c. 1899)', 'ref': "Thomas Miles Shanafelt, The Baptist History of South Dakota, Sioux Falls, South Dakota Baptist Convention, c. 1899"}, 'baptisthistoryof00shan', lambda nom, ref: ref),
+    ('allison_commission_1875.txt', 'PV', {'court': 'Rapport de la commission Allison sur les Black Hills (1875)', 'ref': "Report of the Commission Appointed to Treat with the Sioux Indians for the Relinquishment of the Black Hills, Washington, Government Printing Office, 1875"}, 'reportofcommissi00unitrich', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

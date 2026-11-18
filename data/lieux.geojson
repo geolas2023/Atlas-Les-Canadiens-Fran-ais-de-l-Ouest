@@ -843588,6 +843588,652 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -96.73,
+     43.55
+    ]
+   },
+   "properties": {
+    "id": "PT-le-sueur-charles-pierre-sioux-fall",
+    "nom": "Sioux Falls (Dakota du Sud) : Charles-Pierre Le Sueur",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1683.0,
+    "fin": 1683.0,
+    "date_edtf": "1683~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles-Pierre Le Sueur"
+    ],
+    "description": "Sioux Falls (Dakota du Sud), vers 1683. Charles-Pierre Le Sueur serait venu acheter des fourrures aux chutes de la Big Sioux; ses traiteurs du fort L'Huillier commercent sur la Big Sioux vers 1700. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 21-24, 215 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/21/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.4,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "PT-dorion-pierre-riviere-ja",
+    "nom": "Rivière James (Jacques), Dakota : Pierre Dorion",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1785.0,
+    "fin": 1785.0,
+    "date_edtf": "1785",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Rivière James (Jacques), Dakota, 1785. Pierre Dorion épouse une Yanktonne et s'établit pour la traite à l'embouchure de la James. D'après Robinson, A Brief History of South Dakota (1905). Autres lieux de l'entrée : Saint-Louis (Missouri).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 38, 215-216 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/38/mode/1up?q=DORION",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "PT-dorion-pierre-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Pierre Dorion",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1805.0,
+    "date_edtf": "1805",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Dorion"
+    ],
+    "description": "Saint-Louis (Missouri), 1805. Pierre Dorion y conduit un groupe de chefs sioux. D'après Robinson, A Brief History of South Dakota (1905). Autres lieux de l'entrée : Rivière James (Jacques), Dakota.",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 38, 215-216 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/38/mode/1up?q=DORION",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.5,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "PT-garreau-pierre-villages-a",
+    "nom": "Villages arikaras (Grand River) : Pierre Garreau",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1790.0,
+    "fin": 1790.0,
+    "date_edtf": "1790",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Garreau"
+    ],
+    "description": "Villages arikaras (Grand River), 1790. Pierre Garreau s'établit chez les Arikaras à l'embouchure de la Grand River; y vit depuis quatorze ans quand passent Lewis et Clark. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 45, 215 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/45/mode/1up?q=GARREAU",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.85,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "PT-loisel-ile-au-ced",
+    "nom": "Île au Cèdre, poste de Loisel (Missouri, Dakota du Sud) : Loisel",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1796.0,
+    "fin": 1796.0,
+    "date_edtf": "1796",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Loisel"
+    ],
+    "description": "Île au Cèdre, poste de Loisel (Missouri, Dakota du Sud), 1796. Loisel bâtit le premier poste connu du Dakota du Sud, entre Pierre et le Big Bend; brûlé en 1810 avec un gros stock de fourrures. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 215-216 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/215/mode/1up?q=LOISEL",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.6,
+     43.1
+    ]
+   },
+   "properties": {
+    "id": "PT-trudeau-pawnee-hou",
+    "nom": "Pawnee House, poste de Trudeau (près de Fort Randall, Dakota du Sud) : Trudeau",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1797.0,
+    "fin": 1797.0,
+    "date_edtf": "1797",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Trudeau"
+    ],
+    "description": "Pawnee House, poste de Trudeau (près de Fort Randall, Dakota du Sud), 1797. Trudeau bâtit la « Pawnee House » sur la rive est, en face de Fort Randall; brûlée en 1816. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 35, 215-216 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/35/mode/1up?q=TRUDEAU",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.25,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PT-jesseaume-rene-mandan-vil",
+    "nom": "Villages mandanes (haut Missouri) : René Jesseaume",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1806.0,
+    "date_edtf": "1806",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "René Jesseaume"
+    ],
+    "description": "Villages mandanes (haut Missouri), 1806. René Jesseaume Français connu de longue date à la frontière, accompagne avec sa femme mandane le chef Big White comme interprète. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 47 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/47/mode/1up?q=JESSEAUME",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PT-la-framboise-joseph-embouchure",
+    "nom": "Embouchure de la Teton / Bad River (Fort Pierre, Dakota du Sud) : Joseph la Framboise",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1817.0,
+    "fin": 1817.0,
+    "date_edtf": "1817",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph la Framboise"
+    ],
+    "description": "Embouchure de la Teton / Bad River (Fort Pierre, Dakota du Sud), 1817. Joseph la Framboise Métis franco-outaouais, bâtit le fort Teton, premier établissement continu. D'après Robinson, A Brief History of South Dakota (1905). Autres lieux de l'entrée : Flandreau (Dakota du Sud).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 86, 216 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/86/mode/1up?q=LA+FRAMBOISE",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     44.05
+    ]
+   },
+   "properties": {
+    "id": "PT-la-framboise-joseph-flandreau-",
+    "nom": "Flandreau (Dakota du Sud) : Joseph la Framboise",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph la Framboise"
+    ],
+    "description": "Flandreau (Dakota du Sud), 1822. Joseph la Framboise bâtit un poste au Grand Coude de la Big Sioux. D'après Robinson, A Brief History of South Dakota (1905). Autres lieux de l'entrée : Embouchure de la Teton / Bad River (Fort Pierre, Dakota du Sud).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 86, 216 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/86/mode/1up?q=LA+FRAMBOISE",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.5,
+     44.6
+    ]
+   },
+   "properties": {
+    "id": "PT-le-beau-frederick-cherry-cre",
+    "nom": "Cherry Creek (rivière Cheyenne, Dakota du Sud) : Frederick Le Beau",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Frederick Le Beau"
+    ],
+    "description": "Cherry Creek (rivière Cheyenne, Dakota du Sud), 1832. Frederick Le Beau traiteur, tue l'employé François Querrel à l'embouchure du Cherry Creek; arrêté sur ordre de Laidlaw et envoyé enchaîné à Saint-Louis. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 217 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/217/mode/1up?q=LE+BEAU",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.5,
+     44.6
+    ]
+   },
+   "properties": {
+    "id": "PT-querrel-francois-cherry-cre",
+    "nom": "Cherry Creek (rivière Cheyenne, Dakota du Sud) : François Querrel",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "evenement",
+    "debut": 1832.0,
+    "fin": 1832.0,
+    "date_edtf": "1832",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Querrel"
+    ],
+    "description": "Cherry Creek (rivière Cheyenne, Dakota du Sud), 1832. François Querrel employé tué par le traiteur Frederick Le Beau. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 217 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/217/mode/1up?q=QUERREL",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PT-ravoux-alexander-fort-pierr",
+    "nom": "Fort Pierre : Alexander Ravoux",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexander Ravoux"
+    ],
+    "description": "Fort Pierre, 1842. Alexander Ravoux baptise nombre d'Autochtones et de Métis. D'après Robinson, A Brief History of South Dakota (1905). Autres lieux de l'entrée : fort Vermillion (Missouri).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 218 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/218/mode/1up?q=RAVOUX",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.93,
+     42.78
+    ]
+   },
+   "properties": {
+    "id": "PT-ravoux-alexander-fort-vermi",
+    "nom": "Fort Vermillion (Missouri) : Alexander Ravoux",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1845.0,
+    "fin": 1845.0,
+    "date_edtf": "1845",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexander Ravoux"
+    ],
+    "description": "Fort Vermillion (Missouri), 1845. Alexander Ravoux visite le fort. D'après Robinson, A Brief History of South Dakota (1905). Autres lieux de l'entrée : fort Pierre.",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 218 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/218/mode/1up?q=RAVOUX",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PT-la-barge-joseph-mme-fort-pierr",
+    "nom": "Fort Pierre : Joseph la Barge (Mme)",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph la Barge (Mme)"
+    ],
+    "description": "Fort Pierre, 1847. Joseph la Barge (Mme) arrive avec son mari, capitaine du vapeur Martha; première femme blanche à venir au Dakota du Sud. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 218 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/218/mode/1up?q=LA+BARGE",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.39,
+     44.35
+    ]
+   },
+   "properties": {
+    "id": "PT-primeau-charles-e-fort-pierr",
+    "nom": "Fort Pierre : Charles E. Primeau",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles E. Primeau"
+    ],
+    "description": "Fort Pierre, vers 1862. Charles E. Primeau. Traiteur, habille du mieux qu'il peut les captives délivrées par la bande des Fool Soldiers. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 128 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/128/mode/1up?q=PRIMEAU",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.55,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "PT-la-plant-louis-fort-randa",
+    "nom": "Fort Randall (Dakota du Sud) : Louis la Plant",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis la Plant"
+    ],
+    "description": "Fort Randall (Dakota du Sud), vers 1862. Louis la Plant frontalier connu, conduit à Fort Randall les captives délivrées par les jeunes Sioux. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 129 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/129/mode/1up?q=LA+PLANT",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.55,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "PT-dupree-frederick-fort-randa",
+    "nom": "Fort Randall (Dakota du Sud) : Frederick Dupree",
+    "corpus": "archive.org · Robinson, A Brief History of South Dakota (1905)",
+    "theme": "poste",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Frederick Dupree"
+    ],
+    "description": "Fort Randall (Dakota du Sud), vers 1862. Frederick Dupree frontalier connu, conduit à Fort Randall les captives délivrées. D'après Robinson, A Brief History of South Dakota (1905).",
+    "sources": "Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905, p. 129 ; texte intégral : archive.org, briefhistoryofso00robi.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Robinson, A Brief History of South Dakota (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/briefhistoryofso00robi/page/129/mode/1up?q=DUPREE",
+      "texte": "Lire Robinson, A Brief History of South Dakota (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.243,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "PU-chabollier-charles-pembina",
+    "nom": "Pembina : Charles Chabollier",
+    "corpus": "archive.org · Shanafelt, The Baptist History of South Dakota (c. 1899)",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1797.0,
+    "date_edtf": "1797",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Chabollier"
+    ],
+    "description": "Pembina, 1797. Charles Chabollier Français, élève le premier bâtiment permanent sur la rive sud de la Pembina, près de la rivière Rouge. D'après Shanafelt, The Baptist History of South Dakota (c. 1899).",
+    "sources": "Thomas Miles Shanafelt, The Baptist History of South Dakota, Sioux Falls, South Dakota Baptist Convention, c. 1899, p. 18 ; texte intégral : archive.org, baptisthistoryof00shan.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Shanafelt, The Baptist History of South Dakota (c. 1899)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/baptisthistoryof00shan/page/18/mode/1up?q=CHABOLLIER",
+      "texte": "Lire Shanafelt, The Baptist History of South Dakota (c. 1899) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.47,
+     42.67
+    ]
+   },
+   "properties": {
+    "id": "PV-beauvais-g-p-agence-red",
+    "nom": "Agence Red Cloud (Camp Robinson, Nebraska) : G. P. Beauvais",
+    "corpus": "archive.org · Rapport de la commission Allison sur les Black Hills (1875)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "G. P. Beauvais"
+    ],
+    "description": "Agence Red Cloud (Camp Robinson, Nebraska), 1875. G. P. Beauvais de Saint-Louis, membre de la commission Allison présente au grand conseil ouvert le 20 septembre près de l'agence Red Cloud. D'après Rapport de la commission Allison sur les Black Hills (1875).",
+    "sources": "Report of the Commission Appointed to Treat with the Sioux Indians for the Relinquishment of the Black Hills, Washington, Government Printing Office, 1875, s. p. ; texte intégral : archive.org, reportofcommissi00unitrich.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Rapport de la commission Allison sur les Black Hills (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/reportofcommissi00unitrich?q=BEAUVAIS",
+      "texte": "Lire Rapport de la commission Allison sur les Black Hills (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
