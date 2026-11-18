@@ -532,6 +532,9 @@ LIVRES = [
     ('armstrong_empire_builders_1901.txt', 'DU', {'court': 'Armstrong, Early Empire Builders of the Great West (1901)', 'ref': "Moses K. Armstrong, The Early Empire Builders of the Great West, Saint Paul, 1901"}, 'empirebuildersof00arms', lambda nom, ref: ref),
     ('kingsbury_dakota_v3_1915.txt', 'DV', {'court': 'Kingsbury et Smith, South Dakota, vol. III (1915)', 'ref': "George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. III, Chicago, S. J. Clarke, 1915"}, 'historyofdakotat03king', lambda nom, ref: ref),
     ('hind_expedition_v1_1860.txt', 'DW', {'court': 'Hind, Red River Exploring Expedition, vol. I (1860)', 'ref': "Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860"}, 'narrativeofcanad01hind', lambda nom, ref: ref),
+    ('robinson_south_dakota_v1_1904.txt', 'PA', {'court': 'Robinson, History of South Dakota, vol. I (1904)', 'ref': "Doane Robinson, History of South Dakota, vol. I, B. F. Bowen & Co., 1904"}, 'historyofsouthda01robi', lambda nom, ref: ref),
+    ('robinson_south_dakota_v2_1904.txt', 'PB', {'court': 'Robinson, History of South Dakota, vol. II (1904)', 'ref': "Doane Robinson, History of South Dakota, vol. II, B. F. Bowen & Co., 1904"}, 'historyofsouthda02robi', lambda nom, ref: ref),
+    ('robinson_sioux_1904.txt', 'PC', {'court': 'Robinson, History of the Dakota or Sioux Indians (1904)', 'ref': "Doane Robinson, A History of the Dakota or Sioux Indians, South Dakota Historical Collections, vol. II, Aberdeen, 1904"}, 'ahistorydakotao00robigoog', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
