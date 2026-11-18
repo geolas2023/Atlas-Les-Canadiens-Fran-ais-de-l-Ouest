@@ -577,6 +577,12 @@ LIVRES = [
     ('mn_upham_biographies_1912.txt', 'ES', {'court': 'Upham et Dunlap, Minnesota Biographies (1912)', 'ref': "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912"}, 'collections14minnuoft', lambda nom, ref: ref),
     ('mn_collections_v15_1915.txt', 'ET', {'court': 'Collections of the Minnesota Historical Society, vol. XV (1915)', 'ref': "Collections of the Minnesota Historical Society, vol. XV, Saint Paul, 1915"}, 'collections15minnuoft', lambda nom, ref: ref),
     ('mn_upham_geographic_names_1920.txt', 'EU', {'court': 'Upham, Minnesota Geographic Names (1920)', 'ref': "Warren Upham, Minnesota Geographic Names, their Origin and Historic Significance (Collections of the Minnesota Historical Society, vol. XVII), Saint Paul, 1920"}, 'collections17minnuoft', lambda nom, ref: ref),
+    ('mn_neill_dahkotah_1859.txt', 'EV', {'court': 'Neill, Dahkotah Land and Dahkotah Life (1859)', 'ref': "Edward D. Neill, Dahkotah Land and Dahkotah Life, with the History of the Fur Traders of the Extreme Northwest during the French and British Dominions, Philadelphie, 1859"}, 'dahkotahlanddahk00neil', lambda nom, ref: ref),
+    ('mn_acta_et_dicta_v1_1907.txt', 'EW', {'court': 'Acta et Dicta, vol. I (1907-1908)', 'ref': "Acta et Dicta, vol. I, St. Paul Catholic Historical Society, Saint Paul, 1907-1908"}, 'actaetdicta01cathuoft', lambda nom, ref: ref),
+    ('mn_acta_et_dicta_v2_1909.txt', 'EX', {'court': 'Acta et Dicta, vol. II (1909-1910)', 'ref': "Acta et Dicta, vol. II, St. Paul Catholic Historical Society, Saint Paul, 1909-1910"}, 'actaetdicta02cathuoft', lambda nom, ref: ref),
+    ('mn_acta_et_dicta_v3_1911.txt', 'EY', {'court': 'Acta et Dicta, vol. III (1911-1914)', 'ref': "Acta et Dicta, vol. III, St. Paul Catholic Historical Society, Saint Paul, 1911-1914"}, 'actaetdicta03cathuoft', lambda nom, ref: ref),
+    ('mn_acta_et_dicta_v4_1915.txt', 'EZ', {'court': 'Acta et Dicta, vol. IV (1915-1917)', 'ref': "Acta et Dicta, vol. IV (1915-1916) et vol. V, no 1 (1917), St. Paul Catholic Historical Society, Saint Paul"}, 'actaetdicta04cathuoft', lambda nom, ref: ref),
+    ('mn_acta_et_dicta_v5_1918.txt', 'FA', {'court': 'Acta et Dicta, vol. V, no 2 (1918)', 'ref': "Acta et Dicta, vol. V, no 2, St. Paul Catholic Historical Society, Saint Paul, juillet 1918"}, 'actaetdicta05unse_0', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

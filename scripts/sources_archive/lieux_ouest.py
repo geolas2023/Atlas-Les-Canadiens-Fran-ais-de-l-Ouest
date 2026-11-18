@@ -2383,6 +2383,11 @@ G.update({
     'Osseo (Minnesota)': (-93.40, 45.12, 'h', "Osseo (prairie Bottineau)"),
     'Canton de Lambert (comté de Red Lake)': (-96.05, 47.83, 'h', "canton de Lambert"),
     'Canton de Bray (comté de Pennington)': (-96.25, 48.02, 'h', "canton de Bray"),
+    'Annandale (Minnesota)': (-94.12, 45.26, 'h', "Annandale (canton de French Lake, comté de Wright)"),
+    'Waverly (Minnesota)': (-93.97, 45.07, 'h', "Waverly (comté de Wright)"),
+    'Duluth (Minnesota)': (-92.10, 46.79, 'h', "Duluth"),
+    'Two Harbors (Minnesota)': (-91.67, 47.02, 'h', "Two Harbors (Agate Bay)"),
+    'Saint-Mathias (comté de Crow Wing)': (-94.26, 46.20, 'h', "Saint-Mathias, établissement français (comté de Crow Wing)"),
 })
 
 
