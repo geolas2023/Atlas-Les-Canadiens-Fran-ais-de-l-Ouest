@@ -603,6 +603,9 @@ LIVRES = [
     ('mn_mitchell_stearns_county_1915_v2.txt', 'FS', {'court': 'Mitchell, History of Stearns County, II (1915)', 'ref': "Mitchell, William Bell, History of Stearns County, Minnesota, vol. II, Chicago, H. C. Cooper Jr. & Co., 1915."}, 'historyofstearns02mitc', lambda nom, ref: ref),
     ('mn_fuller_morrison_todd_1915_v1.txt', 'FT', {'court': 'Fuller, History of Morrison and Todd Counties, I (1915)', 'ref': "Fuller, Clara K., History of Morrison and Todd Counties, Minnesota, vol. I, Indianapolis, B. F. Bowen & Company, 1915."}, 'historyofmorriso01full', lambda nom, ref: ref),
     ('mn_fuller_morrison_todd_1915_v2.txt', 'FU', {'court': 'Fuller, History of Morrison and Todd Counties, II (1915)', 'ref': "Fuller, Clara K., History of Morrison and Todd Counties, Minnesota, vol. II, Indianapolis, B. F. Bowen & Company, 1915."}, 'historyofmorriso02full', lambda nom, ref: ref),
+    ('mn_curtiss_wedge_wright_county_1915_v1.txt', 'FW', {'court': 'Curtiss-Wedge, History of Wright County, I (1915)', 'ref': "Curtiss-Wedge, Franklyn, History of Wright County, Minnesota, vol. I, Chicago, H. C. Cooper Jr. & Co., 1915."}, 'historyofwrightc01curt', lambda nom, ref: ref),
+    ('mn_curtiss_wedge_wright_county_1915_v2.txt', 'FX', {'court': 'Curtiss-Wedge, History of Wright County, II (1915)', 'ref': "Curtiss-Wedge, Franklyn, History of Wright County, Minnesota, vol. II, Chicago, H. C. Cooper Jr. & Co., 1915."}, 'historyofwrightc02curt', lambda nom, ref: ref),
+    ('mn_wilcox_becker_county_1907.txt', 'FY', {'court': 'Wilcox, A Pioneer History of Becker County, 1907', 'ref': "Wilcox, Alvin H., A Pioneer History of Becker County, Minnesota, Saint Paul, Pioneer Press Company, 1907."}, 'pioneerhistoryof00wilc', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
