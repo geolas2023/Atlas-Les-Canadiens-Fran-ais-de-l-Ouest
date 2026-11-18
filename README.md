@@ -215,6 +215,9 @@ Dépouillement des livres du **domaine public** d'archive.org sur les francophon
 | `outwherewestbeg00tringoog` | 15 |
 | `northdakotahisto01loun` | 43 |
 | `historyofdakotaterr01king` | 29 |
+| `historyofdakotat02king` | 4 |
+| `historyofdakotat04king` | 13 |
+| `historyofdakotat05king` | 12 |
 | `historyofutahcom02whitrich`, `historyofutahcom03whit` | 5 |
 | `nevcolandwyom00bancroft` (partie Nevada) | 12 |
 | `reportoftheexplor1845eng` (partie Nevada) | 4 |
