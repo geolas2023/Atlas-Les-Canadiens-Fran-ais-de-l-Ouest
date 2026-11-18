@@ -2388,6 +2388,18 @@ G.update({
     'Duluth (Minnesota)': (-92.10, 46.79, 'h', "Duluth"),
     'Two Harbors (Minnesota)': (-91.67, 47.02, 'h', "Two Harbors (Agate Bay)"),
     'Saint-Mathias (comté de Crow Wing)': (-94.26, 46.20, 'h', "Saint-Mathias, établissement français (comté de Crow Wing)"),
+    'Lac Winnibigoshish': (-94.20, 47.45, 'h', "lac Winnibigoshish (« haut lac Winnipeg »)"),
+    'Henderson (Minnesota)': (-93.91, 44.53, 'h', "Henderson (comté de Sibley)"),
+    'Jessenland (Minnesota)': (-93.98, 44.58, 'h', "Jessenland (comté de Sibley)"),
+    'Sleepy Eye (Minnesota)': (-94.72, 44.30, 'h', "Sleepy Eye"),
+    'Marshall (Minnesota)': (-95.79, 44.45, 'h', "Marshall (comté de Lyon)"),
+    'Tracy (Minnesota)': (-95.62, 44.23, 'h', "Tracy"),
+    'Clontarf (Minnesota)': (-95.68, 45.38, 'h', "Clontarf (comté de Swift)"),
+    'Minnesota Lake (Minnesota)': (-93.83, 43.84, 'h', "lac Minnesota (comté de Faribault)"),
+    'Canton de Benton (comté de Carver)': (-93.83, 44.79, 'h', "canton de Benton"),
+    'Canton d\'Eagan (comté de Dakota)': (-93.17, 44.82, 'h', "canton d'Eagan"),
+    'Nininger (Minnesota)': (-92.88, 44.76, 'h', "Nininger (lac Spring)"),
+    'Hastings (Minnesota)': (-92.85, 44.74, 'h', "Hastings"),
 })
 
 
