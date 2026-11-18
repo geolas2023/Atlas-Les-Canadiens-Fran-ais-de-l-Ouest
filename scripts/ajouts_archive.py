@@ -636,6 +636,8 @@ LIVRES = [
     ('wi_collections_v1_1855.txt', 'HB', {'court': 'Collections of the State Historical Society of Wisconsin, I (1855)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. I, éd. Lyman C. Draper, Madison, 1855 (réimpr. 1903)."}, 'bwb_S0-BTN-815', lambda nom, ref: ref),
     ('wi_collections_v5_1868.txt', 'HC', {'court': 'Draper, notices des officiers français (WHC V, 1868)', 'ref': "Lyman C. Draper, Historical Notices of De Louvigny, Perrot, De Lignery, De Beaujeu, Marin, Du Buisson, De Villiers, De Noyelle, and St. Ange, dans Collections of the State Historical Society of Wisconsin, vol. V, Madison, 1868 (réimpr. 1907)."}, 'collectionsofsta0005lyma', lambda nom, ref: ref),
     ('wi_collections_v7_1876.txt', 'HD', {'court': 'Collections of the State Historical Society of Wisconsin, VII (1876)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. VII, éd. Lyman C. Draper, Madison, 1876 (réimpr. 1908)."}, 'collectionsstat10wiscgoog', lambda nom, ref: ref),
+    ('wi_collections_v11_1888.txt', 'HE', {'court': 'Collections of the State Historical Society of Wisconsin, XI (1888)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XI, éd. Reuben G. Thwaites, Madison, 1888."}, 'collectionsstat01unkngoog', lambda nom, ref: ref),
+    ('wi_collections_v10_1885.txt', 'HF', {'court': 'Habitants de Green Bay en 1818 (WHC X)', 'ref': "Lawe and Grignon Papers, 1794-1821, dans Collections of the State Historical Society of Wisconsin, vol. X, Madison, 1888 (réimpr. 1909)."}, 'collectionsofsta0000lyma', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
