@@ -2380,6 +2380,9 @@ G.update({
     'Collegeville (Minnesota)': (-94.39, 45.58, 'h', "Collegeville (université Saint-Jean)"),
     'Bena (Minnesota)': (-94.21, 47.34, 'h', "Bena (comté de Cass)"),
     'Saint Peter (Minnesota)': (-93.96, 44.32, 'h', "Saint Peter"),
+    'Osseo (Minnesota)': (-93.40, 45.12, 'h', "Osseo (prairie Bottineau)"),
+    'Canton de Lambert (comté de Red Lake)': (-96.05, 47.83, 'h', "canton de Lambert"),
+    'Canton de Bray (comté de Pennington)': (-96.25, 48.02, 'h', "canton de Bray"),
 })
 
 

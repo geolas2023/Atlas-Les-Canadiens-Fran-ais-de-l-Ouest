@@ -575,6 +575,8 @@ LIVRES = [
     ('mn_brower_itasca_1904.txt', 'EQ', {'court': 'Brower, Itasca State Park (1904)', 'ref': "J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904"}, 'collectionsofmin11minn', lambda nom, ref: ref),
     ('mn_collections_v12_1908.txt', 'ER', {'court': 'Collections of the Minnesota Historical Society, vol. XII (1908)', 'ref': "Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908"}, 'collections12minnuoft', lambda nom, ref: ref),
     ('mn_upham_biographies_1912.txt', 'ES', {'court': 'Upham et Dunlap, Minnesota Biographies (1912)', 'ref': "Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912"}, 'collections14minnuoft', lambda nom, ref: ref),
+    ('mn_collections_v15_1915.txt', 'ET', {'court': 'Collections of the Minnesota Historical Society, vol. XV (1915)', 'ref': "Collections of the Minnesota Historical Society, vol. XV, Saint Paul, 1915"}, 'collections15minnuoft', lambda nom, ref: ref),
+    ('mn_upham_geographic_names_1920.txt', 'EU', {'court': 'Upham, Minnesota Geographic Names (1920)', 'ref': "Warren Upham, Minnesota Geographic Names, their Origin and Historic Significance (Collections of the Minnesota Historical Society, vol. XVII), Saint Paul, 1920"}, 'collections17minnuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
