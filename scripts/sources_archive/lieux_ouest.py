@@ -2457,6 +2457,17 @@ G.update({
     'Skunk Grove (Wisconsin)': (-87.90, 42.73, 'h', "Skunk Grove, canton de Mount Pleasant (comté de Racine)"),
     'Île Mackinac': (-84.62, 45.85, 'c', "Île Mackinac (Michigan)"),
     'Grand Haven (Michigan)': (-86.23, 43.06, 'c', "Grand Haven, embouchure de la rivière Grand (Michigan)"),
+    'Mineral Point (Wisconsin)': (-90.18, 42.86, 'c', "Mineral Point, comté d'Iowa (Wisconsin)"),
+    'Little Chute (Wisconsin)': (-88.32, 44.28, 'c', "Little Chute, rivière Fox (Wisconsin)"),
+    'Point Bass (Wisconsin)': (-89.85, 44.35, 'h', "Point Bass, rivière Wisconsin, poste Porlier-Grignon"),
+    'Algoma (Oshkosh)': (-88.58, 44.04, 'h', "Algoma, en face de Coon's Point (Oshkosh, Wisconsin)"),
+    'Lac Poygan': (-88.85, 44.15, 'a', "Lac Poygan (Wisconsin)"),
+    'Oshkosh (Wisconsin)': (-88.54, 44.02, 'c', "Oshkosh (Wisconsin)"),
+    'Gros Point (Illinois)': (-87.70, 42.07, 'h', "Gros Point, au nord de Chicago (Illinois)"),
+    'Manitowoc (Wisconsin)': (-87.66, 44.09, 'c', "Manitowoc (Wisconsin)"),
+    'Muskego (Wisconsin)': (-88.14, 42.90, 'c', "Muskego (Wisconsin)"),
+    'Waukesha (Wisconsin)': (-88.23, 43.01, 'c', "Waukesha (Wisconsin)"),
+    'Wisconsin Rapids': (-89.82, 44.38, 'c', "Rapides du haut Wisconsin (Wisconsin Rapids)"),
 })
 
 
