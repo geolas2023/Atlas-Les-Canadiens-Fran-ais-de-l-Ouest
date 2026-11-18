@@ -2446,6 +2446,11 @@ G.update({
     'Ghent (Minnesota)': (-95.89, 44.51, 'h', "Ghent (comté de Lyon)"),
     'White Bear (Minnesota)': (-93.01, 45.08, 'h', "canton de White Bear (comté de Ramsey)"),
     'Shakopee (Minnesota)': (-93.53, 44.80, 'h', "Shakopee, village de Little Six (comté de Scott)"),
+    'De Pere (Wisconsin)': (-88.06, 44.45, 'h', "De Pere, rapides de la Fox"),
+    'Marinette (Wisconsin)': (-87.63, 45.10, 'h', "embouchure de la Menominee (Marinette)"),
+    'Prairie du Sac (Wisconsin)': (-89.72, 43.28, 'h', "Sauk Prairie, sur le Wisconsin"),
+    'Baraboo (Wisconsin)': (-89.74, 43.47, 'h', "rivière Baraboo (comté de Sauk)"),
+    'Black Earth (Wisconsin)': (-89.40, 43.55, 'h', "Black Earth, ferme indienne (comté de Columbia)"),
 })
 
 
