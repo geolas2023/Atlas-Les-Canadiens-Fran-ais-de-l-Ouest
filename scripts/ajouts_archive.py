@@ -535,6 +535,11 @@ LIVRES = [
     ('robinson_south_dakota_v1_1904.txt', 'PA', {'court': 'Robinson, History of South Dakota, vol. I (1904)', 'ref': "Doane Robinson, History of South Dakota, vol. I, B. F. Bowen & Co., 1904"}, 'historyofsouthda01robi', lambda nom, ref: ref),
     ('robinson_south_dakota_v2_1904.txt', 'PB', {'court': 'Robinson, History of South Dakota, vol. II (1904)', 'ref': "Doane Robinson, History of South Dakota, vol. II, B. F. Bowen & Co., 1904"}, 'historyofsouthda02robi', lambda nom, ref: ref),
     ('robinson_sioux_1904.txt', 'PC', {'court': 'Robinson, History of the Dakota or Sioux Indians (1904)', 'ref': "Doane Robinson, A History of the Dakota or Sioux Indians, South Dakota Historical Collections, vol. II, Aberdeen, 1904"}, 'ahistorydakotao00robigoog', lambda nom, ref: ref),
+    ('tallent_black_hills_1899.txt', 'PD', {'court': 'Tallent, The Black Hills (1899)', 'ref': "Annie D. Tallent, The Black Hills; or, The Last Hunting Ground of the Dakotahs, Saint-Louis, Nixon-Jones, 1899"}, 'blackhillsorlast00tallrich', lambda nom, ref: ref),
+    ('rosen_pahasapah_1895.txt', 'PF', {'court': 'Rosen, Pa-ha-sa-pah (1895)', 'ref': "Peter Rosen, Pa-ha-sa-pah; or, The Black Hills of South Dakota, Saint-Louis, Nixon-Jones, 1895"}, 'pahasapahorblack00rose', lambda nom, ref: ref),
+    ('southeastern_dakota_1881.txt', 'PG', {'court': 'History of Southeastern Dakota (1881)', 'ref': "History of Southeastern Dakota, its Settlement and Growth, Sioux City, Western Publishing Co., 1881"}, 'historyofsouthea00siou', lambda nom, ref: ref),
+    ('minnehaha_bailey_1899.txt', 'PH', {'court': 'Bailey, History of Minnehaha County (1899)', 'ref': "Dana R. Bailey, History of Minnehaha County, South Dakota, Sioux Falls, Brown & Saenger, 1899"}, 'historyofminneha01bail', lambda nom, ref: ref),
+    ('memorial_turner_lincoln_union_clay_1897.txt', 'PJ', {'court': 'Memorial and Biographical Record, Turner, Lincoln, Union and Clay (1897)', 'ref': "Memorial and Biographical Record of Turner, Lincoln, Union and Clay Counties, South Dakota, Chicago, G. A. Ogle & Co., 1897"}, 'memorialbiograph00chic', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
