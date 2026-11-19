@@ -641,6 +641,7 @@ LIVRES = [
     ('wi_collections_v14_1898.txt', 'HG', {'court': 'WHC XIV (1898)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XIV, éd. Reuben G. Thwaites, Madison, 1898 : E. T. Baird, « Reminiscences of Early Days on Mackinac Island », et documents sur l'Église catholique de Green Bay, 1825-40"}, 'collectionsofsta0014reub_f2f9', lambda nom, ref: ref),
     ('wi_collections_v13_1895.txt', 'HH', {'court': 'WHC XIII (1895)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XIII, éd. Reuben G. Thwaites, Madison, 1895 : « The Bulger Papers », 1814-1815"}, 'collectionsofsta0013unse', lambda nom, ref: ref),
     ('wi_collections_v15_1900.txt', 'HI', {'court': 'WHC XV (1900)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XV, éd. Reuben G. Thwaites, Madison, 1900 : cessions autochtones 1793-1836, souvenirs d'E. T. Baird, récits de L. B. Porlier, A. Clermont et P. J. Vieau"}, 'collectionsstate15stat_0', lambda nom, ref: ref),
+    ('wi_collections_v18_1908.txt', 'HJ', {'court': 'WHC XVIII (1908)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XVIII, éd. Reuben G. Thwaites, Madison, 1908 : registre des mariages de Michilimackinac, 1725-1821"}, 'collectionsstate18stat_0', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
