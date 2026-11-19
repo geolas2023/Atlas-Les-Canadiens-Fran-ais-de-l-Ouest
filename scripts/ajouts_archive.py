@@ -718,6 +718,7 @@ LIVRES = [
     ('mi_farmer_detroit_1884.txt', 'KR', {'court': 'Farmer, History of Detroit and Michigan (1884)', 'ref': "Silas Farmer, The History of Detroit and Michigan, 1884"}, 'historydetroita01farmgoog', lambda nom, ref: ref),
     ('mi_macomb_county_1882.txt', 'KS', {'court': 'History of Macomb County (1882)', 'ref': "History of Macomb County, Michigan, 1882"}, 'historyofmacombc00lees', lambda nom, ref: ref),
     ('mi_st_clair_county_1883.txt', 'KT', {'court': 'History of St. Clair County (1883)', 'ref': "History of St. Clair County, Michigan, 1883"}, 'arx2236.0001.001.umich.edu', lambda nom, ref: ref),
+    ('mi_saginaw_county_1881.txt', 'KU', {'court': 'History of Saginaw County (1881)', 'ref': "History of Saginaw County, Michigan, 1881"}, 'historyofsaginaw00lees', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

@@ -2545,6 +2545,7 @@ G.update({
     'Flint (Michigan)': (-83.6875, 43.0125, 'c', "Flint (Michigan)"),
     'Pontiac (Michigan)': (-83.2910, 42.6389, 'c', "Pontiac (Michigan)"),
     'Rivière Sainte-Claire': (-82.4900, 42.7500, 'c', "Rivière Sainte-Claire (Michigan)"),
+    'Grand Rapids (Michigan)': (-85.6681, 42.9634, 'c', "Grand Rapids (Michigan)"),
 })
 
 
