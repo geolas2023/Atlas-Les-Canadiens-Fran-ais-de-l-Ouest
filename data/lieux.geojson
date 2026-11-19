@@ -111014,6 +111014,195 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -95.088,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "LJ11-01",
+    "nom": "Tonganoxie (Kansas) : la veuve Dessery et sa maison de pierre (1867)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1867.0,
+    "fin": 1867.999,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jeanne-Baptiste Chevalier Dessery",
+     "Joseph F. Dessery"
+    ],
+    "description": "Précurseurs de l'exode des Canadiens de la Kankakee vers le Kansas, Jeanne-Baptiste Chevalier, Française veuve de Jacques Dessery, quitte L'Érable en 1867 avec huit de ses enfants en chariots bâchés ; dans le comté de Leavenworth, ils bâtissent une maison de pierre à flanc de canyon calcaire. On raconte qu'elle chassa à l'eau bouillante des Indiens entrés chez elle ; son fils Joseph se souvenait des sauterelles entassées sur cinq pieds contre un mur de pierre à l'ouest de Tonganoxie.",
+    "sources": "Meir, Norma (1980), « Wagons West to Kansas », repris dans Le Journal du Village, Bourbonnais Grove Historical Society, vol. 36, n° 1, hiver 2011, p. 3-4.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.305,
+     39.202
+    ]
+   },
+   "properties": {
+    "id": "LJ11-02",
+    "nom": "Wamego (Kansas) : les Regnier de Beaverville et d'Irwin (1867-1878)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1867.0,
+    "fin": 1878.999,
+    "date_edtf": "1867~/1878",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "David Regnier",
+     "Louis Regnier",
+     "Ambroise Patenaude"
+    ],
+    "description": "Vers 1867, David Regnier et sa famille, sans doute venus de Beaverville, s'établissent dans le comté de Pottawatomie ; Louis Regnier, d'Irwin, les rejoint à Wamego en 1869, et Ambroise Patenaude, d'Irwin lui aussi, s'installe près d'eux en 1878.",
+    "sources": "Meir, Norma (1980), « Wagons West to Kansas », repris dans Le Journal du Village, Bourbonnais Grove Historical Society, vol. 36, n° 1, hiver 2011, p. 3-4.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.57,
+     39.53
+    ]
+   },
+   "properties": {
+    "id": "LJ11-03",
+    "nom": "Comté de Cloud (Kansas) : les premiers Canadiens de la Kankakee et la paroisse du père Mollier (1870-1871)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1870.0,
+    "fin": 1871.999,
+    "date_edtf": "1870/1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hilaire Lanoue",
+     "Joseph LaRocque",
+     "Fred LaRocque",
+     "Noël Delude",
+     "J. N. LeCuyer",
+     "Célestin Guilbert",
+     "Henry Demers",
+     "Nicolas Lagesse",
+     "Louis Mollier"
+    ],
+    "description": "En 1870 arrivent les premiers Canadiens français du comté de Cloud, tous venus du comté de Kankakee : Hilaire Lanoue, Joseph et Fred LaRocque, Noël Delude, J. N. LeCuyer, Célestin Guilbert, Henry Demers et Nicolas Lagesse, forgeron d'Irwin. Leurs lettres enthousiastes attirent un courant de colons au sud de Clyde ; en 1871, le père Mollier fonde la paroisse de Saint-Joseph et appelle d'autres Canadiens. Tous, catholiques, descendaient d'habitants du sud-est de Montréal passés d'abord par l'Illinois.",
+    "sources": "Meir, Norma (1980), « Wagons West to Kansas », repris dans Le Journal du Village, Bourbonnais Grove Historical Society, vol. 36, n° 1, hiver 2011, p. 3.",
+    "note": "Position au sud de Clyde, vers Saint-Joseph (canton de Shirley)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.86,
+     41.07
+    ]
+   },
+   "properties": {
+    "id": "LJ11-04",
+    "nom": "Irwin (Illinois) : le convoi de quinze familles canadiennes pour le Kansas (1871-1876)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1871.0,
+    "fin": 1876.999,
+    "date_edtf": "1871/1876",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lapolice",
+     "Louis Laflèche",
+     "Grégoire Balthazar",
+     "Pierre Lagesse",
+     "Laurent Charbonneau",
+     "François Bégnoche",
+     "Octave Souligny",
+     "Pierre Provost",
+     "Charlot Fortin"
+    ],
+    "description": "Du hameau canadien d'Irwin (canton d'Otto, comté de Kankakee), Jean-Baptiste Lapolice part pour Aurora (Kansas) en 1871, Louis Laflèche pour Saint-Joseph en 1872, les frères Balthazar pour Clyde en 1873. En 1876, un convoi de quinze familles s'y forme : Pierre Lagesse, Laurent Charbonneau, François Bégnoche, Octave Souligny, Pierre Provost, Charlot Fortin, les Béchard, Bachand et Racette. Ils s'établissent à Clyde, Aurora, Saint-Joseph et Concordia, surtout dans le canton de Shirley, entre la Republican et le comté de Clay.",
+    "sources": "Meir, Norma (1980), « Wagons West to Kansas », repris dans Le Journal du Village, Bourbonnais Grove Historical Society, vol. 36, n° 1, hiver 2011, p. 3-4.",
+    "note": "Position au hameau d'Irwin."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.28,
+     39.567
+    ]
+   },
+   "properties": {
+    "id": "LJ11-05",
+    "nom": "De L'Érable à Clifton : le carnet de route de David Lagesse et Peter Ponton (9 septembre - 12 octobre 1880)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1880.689,
+    "fin": 1880.78,
+    "date_edtf": "1880-09-09/1880-10-12",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "David Lagesse",
+     "Sophia Valcour",
+     "Peter Ponton",
+     "Amelia Lagesse"
+    ],
+    "description": "Le 9 septembre 1880, les gens de L'Érable crient « Adieu ! » aux deux chariots de David Lagesse, de sa femme Sophia Valcour, de son beau-frère Peter Ponton et d'Amelia Lagesse. Le carnet de comptes de David note chaque étape (« L'Erable Ills. Sept 9. 1880 bouind for Kansas… Ashkum, Piper City, Chatwerd ») : passage du Mississippi à Keokuk le 20 septembre, Saint-Joseph du Missouri le 1er octobre, arrivée à Clifton (comté de Clay) le 12 octobre, après 34 jours.",
+    "sources": "Meir, Norma (1980), « Wagons West to Kansas », repris dans Le Journal du Village, Bourbonnais Grove Historical Society, vol. 36, n° 1, hiver 2011, p. 3-4.",
+    "note": "Point placé à Clifton (Kansas)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.585,
+     39.32
+    ]
+   },
+   "properties": {
+    "id": "LJ11-06",
+    "nom": "Damar (Kansas) : les Simoneau, Hubert et Balthazar dans les maisons de mottes (1884-vers 1891)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1884.0,
+    "fin": 1891.999,
+    "date_edtf": "1884/1891~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Simoneau",
+     "Peter Simoneau",
+     "Delphine Béchard",
+     "Jean-Baptiste Hubert",
+     "Joséphine Ducat",
+     "Eugénie Hubert Boudreau"
+    ],
+    "description": "En 1884, les frères Jean-Baptiste et Peter Simoneau, de la région de Clifton, prennent le train avec leurs chevaux pour le comté de Rooks, à cent milles à l'ouest de Concordia, où Peter bâtit une maison de mottes ; des Balthazar et des LaPlante, venus d'Illinois, s'y établissent aussi. Jean-Baptiste Hubert et Joséphine Ducat, qui ont vendu 1 200 $ leur terre du comté d'Iroquois, vivent sept ans dans un abri creusé sans une seule récolte : à leur encan, seul le chien trouve preneur, pour 7 $, de quoi payer le train du retour vers Clifton (Illinois). Sécheresse, vent et sauterelles renvoient bien des familles en Illinois.",
+    "sources": "Meir, Norma (1980), « Wagons West to Kansas », repris dans Le Journal du Village, Bourbonnais Grove Historical Society, vol. 36, n° 1, hiver 2011, p. 4.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
