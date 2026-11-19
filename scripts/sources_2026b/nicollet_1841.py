@@ -1,0 +1,14 @@
+# J. N. Nicollet, Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River,
+# 26e Congrès, 2e session, Sénat, doc. 237, Washington, 1841 ; publié en 1843 (PDF du Drive de l'auteur, dossier
+# NICOLLET_UPPER_MISSISSPPI ; texte lu en partie, 245 000 caractères). Préfixe NI41.
+from commun import Corpus
+NI = "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237"
+C = Corpus('Recherches', 'NI41', NI, page_fmt='p. {}')
+F = C.F
+F('01', "Fort Pierre : Nicollet forme sa caravane, Provost chef des hommes (1er-3 juillet 1839)", 'exploration', '1839-07-01/1839-07-03', -100.385, 44.395, 'c', ['Joseph-Nicolas Nicollet', 'Etienne Provost', 'John C. Frémont', 'Pierre-Didier Papin', 'Louison Frenière', 'William Dixon'],
+  "Monté de Saint-Louis par le vapeur de l'American Fur Company avec soixante ou soixante-dix Créoles, Canadiens et Métis, les « mangeurs de lard », Nicollet s'équipe au fort Pierre auprès de P. D. Papin. Des cinq hommes amenés de Saint-Louis, qui « en valaient certainement dix », l'un est Étienne Provost, « l'homme des montagnes », qu'il nomme chef de ses hommes ; il engage aussi comme guides et interprètes William Dixon, Louison Frenière et le fils de Baptiste Dorion, interprète du poste. Les voyageurs de l'Ouest, note-t-il, ne chantent jamais, à la différence de ceux des Grands Lacs, mais sont fidèles et courageux. Après une traversée périlleuse du Missouri les 1er et 2 juillet, la caravane de dix-neuf personnes, dix charrettes et trente chevaux monte le 3 sur le coteau du Missouri.",
+  '42-44', "Nicollet dit aussi avoir été témoin des ravages de la variole sur le haut Missouri de 1836 à 1839. Point au fort Pierre.")
+F('02', "Lac du Diable : le camp tout juste quitté des Métis de la rivière Rouge (29 juillet 1839)", 'evenement', '1839-07-28/1839-08-07~', -98.95, 48.05, 'c', ['Joseph-Nicolas Nicollet', 'John C. Frémont'],
+  "Près du lac du Diable (Mini-wakan, « l'eau enchantée »), Nicollet découvre le camp que viennent de quitter les Métis de la rivière Rouge, aux traces profondes de leurs charrettes chargées. Il regrette de ne pas les avoir vus : descendants de Canadiens, d'Anglais et d'Écossais et de femmes sauteuses, cries, assiniboines et sioux, ils se disent « gens libres », sont six à huit cents, viennent deux fois l'an chasser le bison aux États-Unis, chaque famille avec sa charrette à bœufs, accompagnés de missionnaires, et sont devenus assez forts pour imposer la paix aux Sioux, Ricaras, Mandans et Gros-Ventres. Arrivée au lac le 29 juillet, la caravane y reste neuf jours ; les voyageurs nomment « Butte du Milieu » la seule hauteur d'où l'on embrasse le lac.",
+  '48-50', "Point au lac du Diable (Dakota du Nord).")
+fiches = C.fiches
