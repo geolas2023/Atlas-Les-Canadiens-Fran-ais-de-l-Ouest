@@ -948036,6 +948036,924 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IU-perrot-nicolas-green-bay",
+    "nom": "La Baie (Green Bay) : Nicolas Perrot",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1917)",
+    "theme": "personnage",
+    "debut": 1665.0,
+    "fin": 1665.0,
+    "date_edtf": "1665~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "La Baie (Green Bay), vers 1665. Nicolas Perrot entre 1665 et 1670, vit parmi les Potawatomis entre la baie Verte et Chicago. D'après Wisconsin Magazine of History (09/1917). Autres lieux de l'entrée : Trempealeau (Wisconsin).",
+    "sources": "The Wisconsin Magazine of History, vol. I, n° 1, State Historical Society of Wisconsin, Madison, septembre 1917, p. 82, 95 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1917-09_1_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1917-09_1_1/page/82/mode/1up?q=PERROT",
+      "texte": "Lire Wisconsin Magazine of History (09/1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4421,
+     44.0055
+    ]
+   },
+   "properties": {
+    "id": "IU-perrot-nicolas-trempealea",
+    "nom": "Trempealeau (Wisconsin) : Nicolas Perrot",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1917)",
+    "theme": "personnage",
+    "debut": 1685.0,
+    "fin": 1685.0,
+    "date_edtf": "1685",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "Trempealeau (Wisconsin), 1685. Nicolas Perrot hiverne en 1685-1686 près de la montagne Trempealeau. D'après Wisconsin Magazine of History (09/1917). Autres lieux de l'entrée : La Baie (Green Bay).",
+    "sources": "The Wisconsin Magazine of History, vol. I, n° 1, State Historical Society of Wisconsin, Madison, septembre 1917, p. 82, 95 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1917-09_1_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1917)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1917-09_1_1/page/82/mode/1up?q=PERROT",
+      "texte": "Lire Wisconsin Magazine of History (09/1917) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "IW-pinnashon-portage-wi",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Pinnashon",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1918)",
+    "theme": "personnage",
+    "debut": 1766.0,
+    "fin": 1766.0,
+    "date_edtf": "1766",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pinnashon"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1766. Pinnashon déserteur français de la garnison des Illinois, agent de transport au portage, selon Carver. D'après Wisconsin Magazine of History (12/1918).",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 2, State Historical Society of Wisconsin, Madison, décembre 1918, p. 239 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1918-12_2_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1918-12_2_2/page/239/mode/1up?q=PINNASHON",
+      "texte": "Lire Wisconsin Magazine of History (12/1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "IW-pinnashon-portage-wi-2",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Pinnashon",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1918)",
+    "theme": "personnage",
+    "debut": 1774.0,
+    "fin": 1774.0,
+    "date_edtf": "1774",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pinnashon"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1774. Pinnashon porte encore les effets des voyageurs, selon Peter Pond; premier Blanc établi au portage. D'après Wisconsin Magazine of History (12/1918).",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 2, State Historical Society of Wisconsin, Madison, décembre 1918, p. 239 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1918-12_2_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1918-12_2_2/page/239/mode/1up?q=PINNASHON",
+      "texte": "Lire Wisconsin Magazine of History (12/1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "IW-barth-laurent-portage-wi",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Laurent Barth",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1918)",
+    "theme": "personnage",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Laurent Barth"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1793. Laurent Barth établi au portage, transporte avec des boeufs les marchandises des traiteurs. D'après Wisconsin Magazine of History (12/1918).",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 2, State Historical Society of Wisconsin, Madison, décembre 1918, p. 239 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1918-12_2_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1918-12_2_2/page/239/mode/1up?q=BARTH",
+      "texte": "Lire Wisconsin Magazine of History (12/1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "IW-grignon-augustin-portage-wi",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Augustin Grignon",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1918)",
+    "theme": "personnage",
+    "debut": 1801.0,
+    "fin": 1801.0,
+    "date_edtf": "1801",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Grignon"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1801. Augustin Grignon hiverne pour la première fois au portage comme traiteur en 1801-1802. D'après Wisconsin Magazine of History (12/1918).",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 2, State Historical Society of Wisconsin, Madison, décembre 1918, p. 239 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1918-12_2_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1918)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1918-12_2_2/page/239/mode/1up?q=GRIGNON",
+      "texte": "Lire Wisconsin Magazine of History (12/1918) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "IX-grignon-paul-milwaukee",
+    "nom": "Milwaukee : Paul Grignon",
+    "corpus": "archive.org · Wisconsin Magazine of History (03/1919)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul Grignon"
+    ],
+    "description": "Milwaukee, vers 1818. Paul Grignon aussi appelé Hippolyte, fils de Pierre, né en septembre 1790; hiverne comme traiteur à Milwaukee vers l'arrivée de Solomon Juneau. D'après Wisconsin Magazine of History (03/1919).",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 3, State Historical Society of Wisconsin, Madison, mars 1919, p. 362 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1919-03_2_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (03/1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1919-03_2_3/page/362/mode/1up?q=GRIGNON",
+      "texte": "Lire Wisconsin Magazine of History (03/1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "IX-grignon-emilie-milwaukee",
+    "nom": "Milwaukee : Emilie Grignon",
+    "corpus": "archive.org · Wisconsin Magazine of History (03/1919)",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Emilie Grignon"
+    ],
+    "description": "Milwaukee, 1827. Emilie Grignon, née à Milwaukee, fille de Paul Grignon et d'une Ménominee, née près de Milwaukee. D'après Wisconsin Magazine of History (03/1919). Autres lieux de l'entrée : La Baie (Green Bay).",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 3, State Historical Society of Wisconsin, Madison, mars 1919, p. 362 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1919-03_2_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (03/1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1919-03_2_3/page/362/mode/1up?q=GRIGNON",
+      "texte": "Lire Wisconsin Magazine of History (03/1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IX-grignon-emilie-green-bay",
+    "nom": "La Baie (Green Bay) : Emilie Grignon",
+    "corpus": "archive.org · Wisconsin Magazine of History (03/1919)",
+    "theme": "personnage",
+    "debut": 1918.0,
+    "fin": 1918.0,
+    "date_edtf": "1918",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Emilie Grignon"
+    ],
+    "description": "La Baie (Green Bay), 1918. Emilie Grignon, née à Milwaukee, meurt en novembre. D'après Wisconsin Magazine of History (03/1919). Autres lieux de l'entrée : Milwaukee.",
+    "sources": "The Wisconsin Magazine of History, vol. II, n° 3, State Historical Society of Wisconsin, Madison, mars 1919, p. 362 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1919-03_2_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (03/1919)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1919-03_2_3/page/362/mode/1up?q=GRIGNON",
+      "texte": "Lire Wisconsin Magazine of History (03/1919) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.45,
+     43.78
+    ]
+   },
+   "properties": {
+    "id": "IY-ducharme-laurent-fond-du-la",
+    "nom": "Fond-du-Lac (Wisconsin) : Laurent Ducharme",
+    "corpus": "archive.org · Wisconsin Magazine of History (03/1920)",
+    "theme": "personnage",
+    "debut": 1786.0,
+    "fin": 1786.0,
+    "date_edtf": "1786~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Laurent Ducharme"
+    ],
+    "description": "Fond-du-Lac (Wisconsin), vers 1786. Laurent Ducharme premier traiteur nommé au poste de Fond du Lac, entre 1785 et 1787. D'après Wisconsin Magazine of History (03/1920).",
+    "sources": "The Wisconsin Magazine of History, vol. III, n° 3, State Historical Society of Wisconsin, Madison, mars 1920, p. 327 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1920-03_3_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (03/1920)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1920-03_3_3/page/327/mode/1up?q=DUCHARME",
+      "texte": "Lire Wisconsin Magazine of History (03/1920) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0,
+     44.42
+    ]
+   },
+   "properties": {
+    "id": "IZ-perrot-nicolas-fort-saint",
+    "nom": "Fort Saint-Antoine (lac Pépin, rive est) : Nicolas Perrot",
+    "corpus": "archive.org · Wisconsin Magazine of History (06/1922)",
+    "theme": "poste",
+    "debut": 1689.0,
+    "fin": 1689.0,
+    "date_edtf": "1689",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "Fort Saint-Antoine (lac Pépin, rive est), 1689. Nicolas Perrot y prend possession du pays au nom du roi. D'après Wisconsin Magazine of History (06/1922).",
+    "sources": "The Wisconsin Magazine of History, vol. V, n° 4, State Historical Society of Wisconsin, Madison, juin 1922, p. 384 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1922-06_5_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (06/1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1922-06_5_4/page/384/mode/1up?q=PERROT",
+      "texte": "Lire Wisconsin Magazine of History (06/1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "JA-la-ronde-sieur-de-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Sieur de la Ronde",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1924)",
+    "theme": "personnage",
+    "debut": 1733.0,
+    "fin": 1733.0,
+    "date_edtf": "1733",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Sieur de la Ronde"
+    ],
+    "description": "La Pointe (Chequamegon), 1733. Sieur de la Ronde reçoit le poste de La Pointe et une commission pour exploiter les mines de cuivre de l'Ontonagon. D'après Wisconsin Magazine of History (09/1924).",
+    "sources": "The Wisconsin Magazine of History, vol. VIII, n° 1, State Historical Society of Wisconsin, Madison, septembre 1924, p. 5 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1924-09_8_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1924)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1924-09_8_1/page/5/mode/1up?q=LA+RONDE",
+      "texte": "Lire Wisconsin Magazine of History (09/1924) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "JA-beaubassin-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Beaubassin",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1924)",
+    "theme": "personnage",
+    "debut": 1756.0,
+    "fin": 1756.0,
+    "date_edtf": "1756",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Beaubassin"
+    ],
+    "description": "La Pointe (Chequamegon), 1756. Beaubassin dernier officier français commandant le poste; part avec sa garnison et ses alliés autochtones pour la guerre contre l'Angleterre. D'après Wisconsin Magazine of History (09/1924).",
+    "sources": "The Wisconsin Magazine of History, vol. VIII, n° 1, State Historical Society of Wisconsin, Madison, septembre 1924, p. 5 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1924-09_8_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1924)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1924-09_8_1/page/5/mode/1up?q=BEAUBASSIN",
+      "texte": "Lire Wisconsin Magazine of History (09/1924) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1301,
+     42.9603
+    ]
+   },
+   "properties": {
+    "id": "JB-crelie-joseph-dodgeville",
+    "nom": "Dodgeville (Wisconsin) : Joseph Crelie",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1925)",
+    "theme": "personnage",
+    "debut": 1828.0,
+    "fin": 1828.0,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Crelie"
+    ],
+    "description": "Dodgeville (Wisconsin), 1828. Joseph Crelie Métis, porteur du courrier, livre le premier courrier à Dodgeville. D'après Wisconsin Magazine of History (09/1925).",
+    "sources": "The Wisconsin Magazine of History, vol. IX, n° 1, State Historical Society of Wisconsin, Madison, septembre 1925, p. 47 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1925-09_9_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1925-09_9_1/page/47/mode/1up?q=CRELIE",
+      "texte": "Lire Wisconsin Magazine of History (09/1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4421,
+     44.0055
+    ]
+   },
+   "properties": {
+    "id": "JC-linctot-godefroy-de-trempealea",
+    "nom": "Trempealeau (Wisconsin) : Godefroy de Linctot",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1926)",
+    "theme": "personnage",
+    "debut": 1731.0,
+    "fin": 1731.0,
+    "date_edtf": "1731",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Godefroy de Linctot"
+    ],
+    "description": "Trempealeau (Wisconsin), 1731. Godefroy de Linctot réoccupe de 1731 à 1736 le poste de Perrot, selon la plaque posée à Trempealeau. D'après Wisconsin Magazine of History (12/1926).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 2, State Historical Society of Wisconsin, Madison, décembre 1926, p. 225 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1926-12_10_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1926-12_10_2/page/225/mode/1up?q=LINCTOT",
+      "texte": "Lire Wisconsin Magazine of History (12/1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "JC-cadotte-michel-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Michel Cadotte",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1926)",
+    "theme": "personnage",
+    "debut": 1792.0,
+    "fin": 1792.0,
+    "date_edtf": "1792~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Cadotte"
+    ],
+    "description": "La Pointe (Chequamegon), vers 1792. Michel Cadotte traiteur canadien-français, bâtit un poste au sud de l'île, près du « Vieux Fort », selon une plaque. D'après Wisconsin Magazine of History (12/1926).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 2, State Historical Society of Wisconsin, Madison, décembre 1926, p. 228 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1926-12_10_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1926)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1926-12_10_2/page/228/mode/1up?q=CADOTTE",
+      "texte": "Lire Wisconsin Magazine of History (12/1926) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.48
+    ]
+   },
+   "properties": {
+    "id": "JD-perrot-nicolas-lac-pepin",
+    "nom": "Lac Pepin (Mississippi), poste des Sioux : Nicolas Perrot",
+    "corpus": "archive.org · Wisconsin Magazine of History (03/1927)",
+    "theme": "personnage",
+    "debut": 1686.0,
+    "fin": 1686.0,
+    "date_edtf": "1686",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "Lac Pepin (Mississippi), poste des Sioux, 1686. Nicolas Perrot vient dans la région des falaises de la rive est du lac (Stockholm). D'après Wisconsin Magazine of History (03/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 3, State Historical Society of Wisconsin, Madison, mars 1927, p. 281 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-03_10_3.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (03/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-03_10_3/page/281/mode/1up?q=PERROT",
+      "texte": "Lire Wisconsin Magazine of History (03/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.664,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "JE-dubuque-julien-dubuque",
+    "nom": "Mines de Dubuque (Iowa) : Julien Dubuque",
+    "corpus": "archive.org · Wisconsin Magazine of History (06/1927)",
+    "theme": "personnage",
+    "debut": 1788.0,
+    "fin": 1788.0,
+    "date_edtf": "1788",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Julien Dubuque"
+    ],
+    "description": "Mines de Dubuque (Iowa), 1788. Julien Dubuque reçoit des Autochtones de précieux droits miniers à l'ouest du Mississippi. D'après Wisconsin Magazine of History (06/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 4, State Historical Society of Wisconsin, Madison, juin 1927, s. p. ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-06_10_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (06/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-06_10_4?q=DUBUQUE",
+      "texte": "Lire Wisconsin Magazine of History (06/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "JE-laframboise-joseph-milwaukee",
+    "nom": "Milwaukee : Joseph Laframboise",
+    "corpus": "archive.org · Wisconsin Magazine of History (06/1927)",
+    "theme": "personnage",
+    "debut": 1802.0,
+    "fin": 1802.0,
+    "date_edtf": "1802~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Laframboise"
+    ],
+    "description": "Milwaukee, vers 1802. Joseph Laframboise s'établit comme traiteur et y reste jusqu'en 1807, selon une lettre à Draper. D'après Wisconsin Magazine of History (06/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 4, State Historical Society of Wisconsin, Madison, juin 1927, p. 430 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-06_10_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (06/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-06_10_4/page/430/mode/1up?q=LAFRAMBOISE",
+      "texte": "Lire Wisconsin Magazine of History (06/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "JE-chappu-stanislaus-milwaukee",
+    "nom": "Milwaukee : Stanislaus Chappu",
+    "corpus": "archive.org · Wisconsin Magazine of History (06/1927)",
+    "theme": "personnage",
+    "debut": 1800.0,
+    "fin": 1800.0,
+    "date_edtf": "1800",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Stanislaus Chappu"
+    ],
+    "description": "Milwaukee, 1800. Stanislaus Chappu traiteur auprès des Autochtones. D'après Wisconsin Magazine of History (06/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 4, State Historical Society of Wisconsin, Madison, juin 1927, p. 431 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-06_10_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (06/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-06_10_4/page/431/mode/1up?q=CHAPPU",
+      "texte": "Lire Wisconsin Magazine of History (06/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "JE-fily-laurent-milwaukee",
+    "nom": "Milwaukee : Laurent Fily",
+    "corpus": "archive.org · Wisconsin Magazine of History (06/1927)",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.0,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Laurent Fily"
+    ],
+    "description": "Milwaukee, 1804. Laurent Fily traiteur en 1804-1805. D'après Wisconsin Magazine of History (06/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. X, n° 4, State Historical Society of Wisconsin, Madison, juin 1927, p. 431 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-06_10_4.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (06/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-06_10_4/page/431/mode/1up?q=FILY",
+      "texte": "Lire Wisconsin Magazine of History (06/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "JF-langlade-augustin-de-green-bay",
+    "nom": "La Baie (Green Bay) : Augustin de Langlade",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1927)",
+    "theme": "personnage",
+    "debut": 1745.0,
+    "fin": 1745.0,
+    "date_edtf": "1745~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin de Langlade"
+    ],
+    "description": "La Baie (Green Bay), vers 1745. Augustin de Langlade tient un poste de traite avec son fils Charles. D'après Wisconsin Magazine of History (09/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. XI, n° 1, State Historical Society of Wisconsin, Madison, septembre 1927, p. 63 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-09_11_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-09_11_1/page/63/mode/1up?q=LANGLADE",
+      "texte": "Lire Wisconsin Magazine of History (09/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "JF-langlade-charles-green-bay",
+    "nom": "La Baie (Green Bay) : Charles Langlade",
+    "corpus": "archive.org · Wisconsin Magazine of History (09/1927)",
+    "theme": "personnage",
+    "debut": 1745.0,
+    "fin": 1745.0,
+    "date_edtf": "1745~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Langlade"
+    ],
+    "description": "La Baie (Green Bay), vers 1745. Charles Langlade tient un poste de traite avec son père Augustin. D'après Wisconsin Magazine of History (09/1927).",
+    "sources": "The Wisconsin Magazine of History, vol. XI, n° 1, State Historical Society of Wisconsin, Madison, septembre 1927, p. 63 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1927-09_11_1.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (09/1927)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1927-09_11_1/page/63/mode/1up?q=LANGLADE",
+      "texte": "Lire Wisconsin Magazine of History (09/1927) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "JG-gibault-pierre-michilimac",
+    "nom": "Michillimakinac : Pierre Gibault",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1929)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gibault"
+    ],
+    "description": "Michillimakinac, 1768. Pierre Gibault prêtre récemment ordonné par l'évêque de Québec; dernier acte le 29 juillet. D'après Wisconsin Magazine of History (12/1929). Autres lieux de l'entrée : La Baie (Green Bay), portage du Wisconsin et de la rivière aux Renards, Kaskaskia.",
+    "sources": "The Wisconsin Magazine of History, vol. XIII, n° 2, State Historical Society of Wisconsin, Madison, décembre 1929, p. 97 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1929-12_13_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1929)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1929-12_13_2/page/97/mode/1up?q=GIBAULT",
+      "texte": "Lire Wisconsin Magazine of History (12/1929) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "JG-gibault-pierre-green-bay",
+    "nom": "La Baie (Green Bay) : Pierre Gibault",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1929)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gibault"
+    ],
+    "description": "La Baie (Green Bay), 1768. Pierre Gibault passe avec sa mère, sa soeur et des traiteurs. D'après Wisconsin Magazine of History (12/1929). Autres lieux de l'entrée : Michillimakinac, portage du Wisconsin et de la rivière aux Renards, Kaskaskia.",
+    "sources": "The Wisconsin Magazine of History, vol. XIII, n° 2, State Historical Society of Wisconsin, Madison, décembre 1929, p. 97 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1929-12_13_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1929)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1929-12_13_2/page/97/mode/1up?q=GIBAULT",
+      "texte": "Lire Wisconsin Magazine of History (12/1929) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "JG-gibault-pierre-portage-wi",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Pierre Gibault",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1929)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gibault"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1768. Pierre Gibault traverse le portage vers la Wisconsin. D'après Wisconsin Magazine of History (12/1929). Autres lieux de l'entrée : Michillimakinac, La Baie (Green Bay), Kaskaskia.",
+    "sources": "The Wisconsin Magazine of History, vol. XIII, n° 2, State Historical Society of Wisconsin, Madison, décembre 1929, p. 97 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1929-12_13_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1929)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1929-12_13_2/page/97/mode/1up?q=GIBAULT",
+      "texte": "Lire Wisconsin Magazine of History (12/1929) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.914,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "JG-gibault-pierre-kaskaskia",
+    "nom": "Kaskaskia : Pierre Gibault",
+    "corpus": "archive.org · Wisconsin Magazine of History (12/1929)",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1768.0,
+    "date_edtf": "1768",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gibault"
+    ],
+    "description": "Kaskaskia, 1768. Pierre Gibault premier acte le 1er octobre. D'après Wisconsin Magazine of History (12/1929). Autres lieux de l'entrée : Michillimakinac, La Baie (Green Bay), portage du Wisconsin et de la rivière aux Renards.",
+    "sources": "The Wisconsin Magazine of History, vol. XIII, n° 2, State Historical Society of Wisconsin, Madison, décembre 1929, p. 97 ; texte intégral : archive.org, sim_wisconsin-magazine-of-history_1929-12_13_2.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Wisconsin Magazine of History (12/1929)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/sim_wisconsin-magazine-of-history_1929-12_13_2/page/97/mode/1up?q=GIBAULT",
+      "texte": "Lire Wisconsin Magazine of History (12/1929) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
