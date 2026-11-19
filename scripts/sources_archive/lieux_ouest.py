@@ -2659,6 +2659,13 @@ G.update({
     'Comté de Hancock (Ohio)': (-83.67, 41.0, 'c', "Comté de Hancock (Ohio)"),
     'Fallen Timbers (Ohio)': (-83.69, 41.545, 'c', "Champ de bataille de Fallen Timbers, sur la Maumee (Ohio)"),
     'Swanton (Ohio)': (-83.89, 41.588, 'c', "Swanton, Swan Creek (comté de Fulton, Ohio)"),
+    'Zanesfield (Ohio)': (-83.676, 40.339, 'c', "Zanesfield, ancien village wyandot de Zane (comté de Logan, Ohio)"),
+    'Urbana (Ohio)': (-83.752, 40.108, 'c', "Urbana (comté de Champaign, Ohio)"),
+    'Marion (Ohio)': (-83.128, 40.589, 'c', "Marion (comté de Marion, Ohio)"),
+    'Huron (Ohio)': (-82.555, 41.395, 'c', "Huron, embouchure de la rivière Huron (comté d'Erie, Ohio)"),
+    'Put-in-Bay (Ohio)': (-82.818, 41.654, 'c', "Put-in-Bay, île South Bass (lac Érié, Ohio)"),
+    'Comté d\'Allen (Ohio)': (-84.11, 40.77, 'c', "Comté d'Allen (Ohio)"),
+    'Kenton (Ohio)': (-83.61, 40.647, 'c', "Kenton (comté de Hardin, Ohio)"),
 })
 
 
