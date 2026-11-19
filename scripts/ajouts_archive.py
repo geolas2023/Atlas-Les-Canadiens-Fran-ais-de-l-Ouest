@@ -747,6 +747,9 @@ LIVRES = [
     ('il_matson_pioneers_1882.txt','NC',{'court':'Matson, Pioneers of Illinois (1882)','ref':"N. Matson, Pioneers of Illinois, containing a Series of Sketches relating to Events that occurred previous to 1813, Chicago, Knight & Leonard, 1882"},'pioneersofillinois00mats', lambda nom, ref: ref),
     ('il_matson_bureau_1872.txt','NE',{'court':'Matson, Reminiscences of Bureau County (1872)','ref':"N. Matson, Reminiscences of Bureau County, Princeton (Illinois), Republican Book and Job Office, 1872"},'reminiscencesofb00mats', lambda nom, ref: ref),
     ('il_quaife_chicago_1913.txt','NF',{'court':'Quaife, Chicago and the Old Northwest (1913)','ref':"Milo Milton Quaife, Chicago and the Old Northwest, 1673-1835, Chicago, The University of Chicago Press, 1913"},'chicagoandoldno00quaigoog', lambda nom, ref: ref),
+    ('il_will_lebaron_1878.txt','NG',{'court':'History of Will County (1878)','ref':"The History of Will County, Illinois, Chicago, Wm. Le Baron Jr. & Co., 1878"},'historyofwillcou00leba', lambda nom, ref: ref),
+    ('il_lasalle_kett_1877.txt','NH',{'court':'The Past and Present of La Salle County (1877)','ref':"The Past and Present of La Salle County, Illinois, Chicago, H. F. Kett & Co., 1877"},'pastpresentlasa00cogoog', lambda nom, ref: ref),
+    ('il_cook_album_1897.txt','NI',{'court':'Album of Genealogy and Biography, Cook County (1897)','ref':"Album of Genealogy and Biography, Cook County, Illinois, with Portraits, 8e éd., Chicago, Calumet Book & Engraving Co., 1897"},'albumofgenealogy1897calu', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
