@@ -696,6 +696,8 @@ LIVRES = [
     ('in_dillon_indiana_1859.txt', 'JU', {'court': 'Dillon, A History of Indiana (1859)', 'ref': "John B. Dillon, A History of Indiana, from its Earliest Exploration by Europeans to the Close of the Territorial Government, in 1816, Bingham & Doughty, Indianapolis, 1859"}, 'ahistoryindiana00dillgoog', lambda nom, ref: ref),
     ('in_knox_daviess_1886.txt', 'JV', {'court': 'History of Knox and Daviess Counties (1886)', 'ref': "History of Knox and Daviess Counties, Indiana, from the Earliest Time to the Present, Goodspeed Publishing Co., Chicago, 1886"}, 'historyofknoxdav00good', lambda nom, ref: ref),
     ('in_ihs_publications_v2_1895.txt', 'JW', {'court': 'Indiana Historical Society Publications, vol. II (1895)', 'ref': "Indiana Historical Society Publications, vol. II (Oscar J. Craig, Ouiatanon ; Jacob Piatt Dunn, French Settlements on the Wabash), Bowen-Merrill, Indianapolis, 1895"}, 'indianahistorica2112indi', lambda nom, ref: ref),
+    ('in_esarey_indiana_1915.txt', 'JX', {'court': 'Esarey, A History of Indiana (1915)', 'ref': "Logan Esarey, A History of Indiana from its Exploration to 1850, W. K. Stewart Co., Indianapolis, 1915"}, 'historyofindiana00esaruoft', lambda nom, ref: ref),
+    ('in_ball_northwestern_1900.txt', 'JY', {'court': 'Ball, Northwestern Indiana (1900)', 'ref': "T. H. Ball, Northwestern Indiana from 1800 to 1900 : A View of our Region through the Nineteenth Century, Crown Point, 1900"}, 'northwesternindi00ball', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

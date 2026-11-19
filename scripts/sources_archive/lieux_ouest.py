@@ -2519,6 +2519,11 @@ G.update({
     'Logansport (Indiana)': (-86.3561, 40.7545, 'c', "Logansport (Indiana)"),
     'Poste Juchereau (embouchure de l\'Ohio)': (-89.15, 37.02, 'a', "poste de Juchereau (embouchure de l'Ohio)"),
     'Peru (Indiana)': (-86.0689, 40.7537, 'c', "Peru (Indiana)"),
+    'Elkhart (Indiana)': (-85.9767, 41.6820, 'c', "Elkhart (Indiana)"),
+    'Tippecanoe (Indiana)': (-86.8455, 40.5089, 'c', "Tippecanoe (Battle Ground, Indiana)"),
+    'South Bend (Indiana)': (-86.2520, 41.6764, 'c', "South Bend (Indiana)"),
+    'Rivière Vermillon (Indiana)': (-87.4256, 39.9264, 'a', "embouchure de la rivière Vermillon (Indiana)"),
+    'Baillytown (Indiana)': (-87.0700, 41.6300, 'c', "Baillytown (comté de Porter, Indiana)"),
 })
 
 
