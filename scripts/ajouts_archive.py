@@ -710,6 +710,8 @@ LIVRES = [
     ('in_ihc_harrison_v1_1922.txt', 'KI', {'court': 'Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)', 'ref': "Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922"}, 'indianahistorica07indiuoft', lambda nom, ref: ref),
     ('in_tippecanoe_1909.txt', 'KJ', {'court': 'Past and Present of Tippecanoe County, vol. I (1909)', 'ref': "Past and Present of Tippecanoe County, Indiana, vol. I, 1909"}, 'pastpresentoftip01indeha', lambda nom, ref: ref),
     ('in_wabash_county_1914.txt', 'KL', {'court': 'Weesner, History of Wabash County, vol. I (1914)', 'ref': "Clarkson W. Weesner, History of Wabash County, Indiana, vol. I, 1914"}, 'historyofwabashc01wees', lambda nom, ref: ref),
+    ('mi_sheldon_1856.txt', 'KM', {'court': 'Sheldon, Early History of Michigan (1856)', 'ref': "E. M. Sheldon, The Early History of Michigan, from the First Settlement to 1815, New York, A. S. Barnes & Company, 1856"}, 'earlyhistoryofmi00shel', lambda nom, ref: ref),
+    ('mi_palmer_1906.txt', 'KN', {'court': 'Palmer, Early Days in Detroit (1906)', 'ref': "Friend Palmer, Early Days in Detroit, Détroit, Hunt & June, 1906"}, 'earlydaysindetro00palmuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
