@@ -2554,6 +2554,7 @@ G.update({
     'Midland (Michigan)': (-84.2472, 43.6156, 'c', "Midland, fourches de la Tittabawassee et de la Pine (Michigan)"),
     'Little Traverse (Harbor Springs)': (-84.9195, 45.4317, 'c', "Little Traverse, aujourd'hui Harbor Springs (Michigan)"),
     'Petite Côte (Détroit)': (-83.0700, 42.2400, 'c', "Petite Côte, rive sud de la rivière du Détroit, à la rivière aux Dindes (aujourd'hui LaSalle, Ontario)"),
+    'Chenal Écarté (lac Sainte-Claire)': (-82.5500, 42.5800, 'c', "Chenal Écarté et île Harsens, delta de la rivière Sainte-Claire"),
 })
 
 
