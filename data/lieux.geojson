@@ -844681,20 +844681,20 @@
     "nom": "Cimarron : tombes de Pabla Beaubien et de la petite Verenisa Maxwell (1864)",
     "corpus": "Recherches",
     "theme": "famille",
-    "debut": 1864.0,
-    "fin": 1864.999,
-    "date_edtf": "1864",
-    "precision": "annee",
-    "certitude": "hypothetique",
+    "debut": 1864.167,
+    "fin": 1864.417,
+    "date_edtf": "1864-03/1864-06",
+    "precision": "mois",
+    "certitude": "approximative",
     "personnages": [
      "Maria Pabla Lobato",
      "Lucien Maxwell",
      "Luz Beaubien",
      "Charles Beaubien"
     ],
-    "description": "Le parcours d'Old Town signale les tombes familiales Beaubien-Maxwell : Verenisa Maxwell (1860-1864), fille de Lucien et de Luz Beaubien, y est inhumée avec sa grand-mère Maria Pabla Lobato (1811-1864), épouse du Canadien Charles « Carlos » Beaubien, qui s'était établi à Taos en 1823 et naturalisé mexicain en 1827.",
-    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêt 2.",
-    "note": "Position supposée près de la place (arrêt 2 du parcours)."
+    "description": "Le parcours d'Old Town signale les tombes familiales Beaubien-Maxwell : Verenisa Maxwell (1860-1864), fille de Lucien et de Luz Beaubien, y est inhumée avec sa grand-mère Maria Pabla Lobato (1811-1864), épouse du Canadien Charles « Carlos » Beaubien, qui s'était établi à Taos en 1823 et naturalisé mexicain en 1827. Selon Priscilla Shannon Gutiérrez, Pabla s'installe chez Luz et Lucien à Cimarron à la mort de Carlos (février 1864) ; Verenisa meurt en mars et Pabla en juin. Leurs tombes sans inscription sont dans une clôture de fer forgé près de l'ancienne place, signalée par un panneau.",
+    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêt 2 ; Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
+    "note": "Position estimée près de l'ancienne place (arrêt 2 du parcours)."
    }
   },
   {
@@ -844832,8 +844832,8 @@
      "Petra Beaubien",
      "Jesús Abreu"
     ],
-    "description": "Vers 1902, Petra Beaubien, fille de Charles Beaubien et veuve de Jesús Abreu, fait bâtir à Rayado la chapelle du Sacré-Cœur, dédiée deux ans plus tard. Rayado avait été le premier établissement de la concession Beaubien-Miranda, confié par Maxwell à son beau-frère Abreu vers 1858.",
-    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêts 1 et 12.",
+    "description": "Vers 1902, Petra Beaubien, fille de Charles Beaubien et veuve de Jesús Abreu, fait bâtir à Rayado la chapelle du Sacré-Cœur, dédiée deux ans plus tard. Rayado avait été le premier établissement de la concession Beaubien-Miranda, confié par Maxwell à son beau-frère Abreu vers 1858. Petra (morte en 1914, 32 petits-enfants) et Jesús reposent dans le cimetière familial derrière la maison Maxwell-Abreu, en face de la chapelle.",
+    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêts 1 et 12 ; Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
     "note": "Position à l'ancienne hacienda de Rayado."
    }
   },
@@ -845065,6 +845065,373 @@
     "description": "Le parc Riverfront marque la partie ouest du village potawatomi de Mesheketeno, fréquenté surtout à la saison des sucres, à mi-chemin du « Bourbonnais Grove », bosquet de douze milles sur un, du parc d'État de la Kankakee au parc Cobb de Kankakee. C'est à ce chef que Le Vasseur achète sa terre en 1834.",
     "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 4, site 1.",
     "note": "1071-1081 Canterbury Lane ; position estimée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.577,
+     36.4058
+    ]
+   },
+   "properties": {
+    "id": "DRV-16",
+    "nom": "Taos : maison Beaubien sur le « Camino de Beaubien » (rue Ledoux)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1838.0,
+    "fin": 1864.999,
+    "date_edtf": "1838~/1864",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien",
+     "Maria Pabla Lobato"
+    ],
+    "description": "Vers 1838, la famille grandissante de Carlos Beaubien quitte le magasin du côté sud de la place pour une maison plus vaste au sud de l'église de Guadalupe, sur la rue appelée alors Camino de Beaubien (aujourd'hui rue Ledoux) ; les plans Sanborn portent encore la graphie « Bovien ». C'est dans une grange voisine que Narciso Beaubien est massacré le 19 janvier 1847.",
+    "sources": "Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
+    "note": "Position estimée au milieu de la rue Ledoux."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.575,
+     36.4063
+    ]
+   },
+   "properties": {
+    "id": "DRV-17",
+    "nom": "Taos, place de Guadalupe : les tombes perdues de Carlos et de Narciso Beaubien",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1847.0,
+    "fin": 1864.097,
+    "date_edtf": "1847-01/1864-02-06",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien",
+     "Narciso Beaubien"
+    ],
+    "description": "Carlos Beaubien meurt à Taos le 6 février 1864, à 64 ans, d'une pneumonie ; sa succession est évaluée à 63 705 $. Lui et son fils Narciso, tué en 1847, avaient été inhumés au cimetière de l'ancienne église de Guadalupe. Après l'incendie de l'église, reconstruite plus au nord-ouest, le cimetière est devenu un stationnement : les restes, aux tombes illisibles ou brûlées, n'ont pas été réinhumés et gisent sous le pavé de la place.",
+    "sources": "Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
+    "note": "Position à la place de Guadalupe (Camino de la Placita), au sud-est de l'église actuelle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.0432,
+     36.1197
+    ]
+   },
+   "properties": {
+    "id": "DRV-18",
+    "nom": "Los Luceros : le juge Beaubien tient audience pendant la révolte de Taos (janvier 1847)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847-01",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien"
+    ],
+    "description": "Nommé juge par Kearny en 1846, Carlos Beaubien siège à Los Luceros (et non à Tierra Amarilla, comme on l'écrit souvent) lorsque éclate la révolte du 19 janvier 1847 ; il échappe ainsi au sort de Charles Bent. Au procès qui suit, il prononce lui-même les condamnations à mort des meurtriers de son fils : « Muerto, muerto, muerto ».",
+    "sources": "Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
+    "note": "Position au site historique de Los Luceros."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.4236,
+     37.2009
+    ]
+   },
+   "properties": {
+    "id": "DRV-19",
+    "nom": "San Luis et Costilla : la concession Sangre de Cristo de Beaubien (1843)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1843.0,
+    "fin": 1864.999,
+    "date_edtf": "1843/1864",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien",
+     "Narciso Beaubien",
+     "Stephen Louis Lee"
+    ],
+    "description": "En 1843, Beaubien obtient du gouverneur Armijo, au nom de son fils Narciso et de Stephen Louis Lee, la concession Sangre de Cristo, au sud de la vallée de San Luis (rivières Trinchera, Culebra et Costilla). Il y attire des familles de Taos : San Luis et Costilla en naissent. Après la mort de Narciso et de Lee en 1847, la concession passe à son nom ; William Gilpin en revendiquera ensuite près d'un million d'acres.",
+    "sources": "Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
+    "note": "Point placé à San Luis (Colorado)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1955,
+     34.4042
+    ]
+   },
+   "properties": {
+    "id": "DRV-20",
+    "nom": "Fort Sumner : Pablo Beaubien, éleveur, et la maison de Peter Maxwell (1870-1881)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1870.0,
+    "fin": 1881.536,
+    "date_edtf": "1870/1881-07-14",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pablo Beaubien",
+     "Peter Maxwell",
+     "Lucien Maxwell",
+     "Luz Beaubien"
+    ],
+    "description": "En 1870, Pablo Beaubien, dernier fils de Carlos, suit les Maxwell à Fort Sumner après leur avoir vendu ses droits d'héritier sur la concession (3 500 $). Il y épouse Rebecca Abreu et devient un éleveur de moutons prospère. C'est dans la maison de son neveu Peter Maxwell, petit-fils de Beaubien, que Billy the Kid est abattu le 14 juillet 1881.",
+    "sources": "Gutiérrez, Priscilla Shannon, « Carlos Beaubien », Taos County, New Mexico (notice en ligne, v. 2008 ; fonds Drive de l'auteur, dossier CHARLES_BEAUBIEN).",
+    "note": "Position estimée sur le site de l'ancien fort."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.6585,
+     40.2338
+    ]
+   },
+   "properties": {
+    "id": "DRV-21",
+    "nom": "Provo (Utah) : la ville porte, écourté, le nom d'Étienne Provost (1849)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1849.0,
+    "fin": 1849.999,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Etienne Provost"
+    ],
+    "description": "En 1849, une trentaine de familles mormones conduites par John S. Higbee s'établissent le long de la rivière que le récit de Frémont (1845) appelait « Provost Fork ». La ville garde le nom du Chamblyen Étienne Provost, premier ou l'un des premiers Blancs au Grand Lac Salé (1824), « en y laissant les deux dernières lettres », note Denis Vaugeois.",
+    "sources": "Vaugeois, Denis, « De Provost, Québec, à Provo, Salt Lake, Utah ? Des liens historiques et généalogiques », Le Devoir, 16-17 février 2002 (fonds Drive de l'auteur, dossier ETIENNE_PROVOST_AUDUBON) ; Tykal, Jack B., « Etienne Provost », Utah History Encyclopedia (fonds Drive de l'auteur).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.4812,
+     38.7839
+    ]
+   },
+   "properties": {
+    "id": "DRV-22",
+    "nom": "Saint-Charles : « le vieux Provost » rentre à pied à Saint-Louis (18 octobre 1843)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1843.797,
+    "fin": 1843.797,
+    "date_edtf": "1843-10-18",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Etienne Provost",
+     "Clément Salle dit Lajoie",
+     "John James Audubon"
+    ],
+    "description": "Au retour de l'expédition du haut Missouri, Audubon note le 18 octobre 1843 à Saint-Charles le départ à pied de son guide, complètement ivre, pour Saint-Louis, où l'attendent sa femme, sa fille et son beau-frère Clément Salle dit Lajoie, associé de sa taverne. Pour près de cinq mois de service, Provost reçoit 214 $ d'Audubon et 78,33 $ de l'Upper Missouri Outfit. Ses chasseurs : Bonaventure Le Brun, Charles Primeau, Alexis Bombardier et le pilote Jean-Baptiste La Barge.",
+    "sources": "Vaugeois, Denis, « De Provost, Québec, à Provo, Salt Lake, Utah ? Des liens historiques et généalogiques », Le Devoir, 16-17 février 2002 (fonds Drive de l'auteur, dossier ETIENNE_PROVOST_AUDUBON).",
+    "note": "À vérifier : Vaugeois nomme l'épouse « Marie Rose Salle Dupuis » et le beau-frère « Clément Salle dit Lajoie », alors que le registre de 1850 porte « Maria Rose Lombard » et l'annuaire de 1845 un « Clement Lambert, coffee-house » à l'angle des rues Second et Lombard (fiche PV-05)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.07,
+     33.087
+    ]
+   },
+   "properties": {
+    "id": "DRV-23",
+    "nom": "Mule Hill (San Pasqual) : Godey, Beale et Carson percent les lignes (décembre 1846)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1846.917,
+    "fin": 1846.917,
+    "date_edtf": "1846-12",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Godey",
+     "Kit Carson",
+     "Edward F. Beale"
+    ],
+    "description": "Après la défaite de Kearny à San Pasqual (6 décembre 1846), ses hommes sont cernés sur « Mule Hill ». Godey, Beale et Carson se glissent de nuit à travers les lignes californiennes pour demander secours à Stockton à San Diego. Godey est pris au retour par les lanciers d'Andrés Pico, qui le traitent avec égards et le libèrent à Frémont lors de la capitulation de Cahuenga (13 janvier 1847).",
+    "sources": "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY).",
+    "note": "Position au site historique de Mule Hill, près d'Escondido."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.893,
+     34.873
+    ]
+   },
+   "properties": {
+    "id": "DRV-24",
+    "nom": "Tejon : Godey interprète de la réserve Sebastian (1853)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1863.999,
+    "date_edtf": "1853/1863",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Godey",
+     "Edward F. Beale"
+    ],
+    "description": "En 1853, Edward F. Beale, surintendant des Indiens de Californie, engage Godey comme interprète à la réserve Sebastian (ou de Tejon), à l'entrée du canyon de Tejon. Beale écrira que, grâce à sa connaissance du pays et à son influence sur les tribus, il put maintenir la paix dans la vallée de San Joaquin. Le contremaître José Jesús López dira de lui qu'il était « lui-même un Indien » à bien des égards.",
+    "sources": "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY).",
+    "note": "Position à l'entrée du canyon de Tejon."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.175,
+     35.0003
+    ]
+   },
+   "properties": {
+    "id": "DRV-25",
+    "nom": "Rancho San Emigdio : Godey régisseur et « Pueblo de San Emigdio » (1855-1883)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1855.0,
+    "fin": 1883.999,
+    "date_edtf": "1855/1883",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Godey",
+     "John C. Frémont",
+     "Edward F. Beale"
+    ],
+    "description": "Frémont achète en 1851 une demi-part du rancho San Emigdio (17 709 acres) et en confie l'exploitation à Godey, qui y vit de 1855 à 1883, fournit bœuf et mouton à Fort Tejon (1855-1861) et développe le « Pueblo de San Emigdio » : en 1872, une cinquantaine de paisanos et environ 150 Indiens, bergers et vachers. À la vente du rancho à J. F. Haggin (1883), Godey reçoit 2 000 $ en or.",
+    "sources": "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY).",
+    "note": "Position à l'entrée du canyon de San Emigdio."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6,
+     34.93
+    ]
+   },
+   "properties": {
+    "id": "DRV-26",
+    "nom": "Vallée de Cuyama : l'adobe de Godey et la légende de l'empoisonnement",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1865.0,
+    "fin": 1865.999,
+    "date_edtf": "1865~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Alexis Godey"
+    ],
+    "description": "Vers le milieu des années 1860, Godey fait paître un millier de bêtes au nord de la vallée de Cuyama et y bâtit un petit adobe. En 1933, Mark R. Harrington l'accuse d'y avoir empoisonné 42 Indiens ; l'enquête de Frank Latta (1939) recueille des témoignages qui réfutent l'accusation. Robinson rattache la rumeur au crime d'un vacher surnommé « El Chihuahua », qui tua une Indienne et son mari avant de fuir au Mexique.",
+    "sources": "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY).",
+    "note": "Position supposée au nord de la vallée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9925,
+     35.3713
+    ]
+   },
+   "properties": {
+    "id": "DRV-27",
+    "nom": "Bakersfield : Belmont Grove, le « Godey Tract » et la tombe de Godey (1883-1889)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1883.0,
+    "fin": 1889.049,
+    "date_edtf": "1883/1889-01-19",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Godey"
+    ],
+    "description": "Établi à Bakersfield en 1883, Godey bâtit sur la 19e Rue une grande maison, Belmont Grove, et lotit les quatre-vingts acres voisins (le « Godey Tract »). Il meurt à l'hôpital des Sœurs de Los Angeles le 19 janvier 1889, à 71 ans, et est inhumé au cimetière Union de Bakersfield près de son fils Alexis Godey fils, mort en 1877.",
+    "sources": "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY).",
+    "note": "Point placé au cimetière Union de Bakersfield ; la maison de la 19e Rue n'est pas localisée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.47,
+     38.13
+    ]
+   },
+   "properties": {
+    "id": "DRV-28",
+    "nom": "Vallée de Wet Mountain : une huitaine de familles françaises (Garnier, Mercier, Albert) vers 1870",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1870.0,
+    "fin": 1874.999,
+    "date_edtf": "1870~/1874",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Garnier",
+     "Mercier",
+     "Albert"
+    ],
+    "description": "Au moment où la colonie allemande de Carl Wulsten s'installe dans la vallée de Wet Mountain (1870-1872), environ huit familles d'origine française, dont les Garnier, Mercier et Albert, s'établissent le long de la bordure ouest de la vallée, sans organisation collective, comme quelques familles mormones venues du Lac Salé sur le ruisseau Taylor.",
+    "sources": "Murray, Robert A. (1978), Las Animas, Huerfano and Custer: Three Colorado Counties on a Cultural Frontier. A History of the Raton Basin, Bureau of Land Management, Colorado, Cultural Resources Series no 6 (fonds Drive de l'auteur, dossier CHARLES_AUTOBEES), p. 47.",
+    "note": "Position supposée sur la bordure ouest de la vallée, au pied des Sangre de Cristo ; l'origine (France, Canada ?) reste à préciser."
    }
   },
   {
