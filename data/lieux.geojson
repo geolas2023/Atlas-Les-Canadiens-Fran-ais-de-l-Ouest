@@ -108877,6 +108877,492 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -100.95,
+     49.86
+    ]
+   },
+   "properties": {
+    "id": "LR05-01",
+    "nom": "Fort de la Montagne-à-la-Bosse : départ de Larocque pour les Rocheuses (2 juin 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.419,
+    "fin": 1805.419,
+    "date_edtf": "1805-06-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque",
+     "Charles McKenzie",
+     "Charles Chaboillez"
+    ],
+    "description": "Commis de la Compagnie du Nord-Ouest, François-Antoine Larocque part du fort de la Montagne-à-la-Bosse, sur l'Assiniboine, le 2 juin 1805, avec deux hommes et quatre chevaux, dont deux chargés de marchandises, pour un « voyage de découvertes aux Rocky Mountains » commandé par le bourgeois Chaboillez. Charles McKenzie l'accompagne jusqu'au Missouri. « J'avais le cœur gros en quittant le fort », écrit-il : on doutait qu'il en revienne.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 10-12.",
+    "note": "Position approximative du fort, sur l'Assiniboine près de l'actuelle Virden (Manitoba)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.93,
+     48.06
+    ]
+   },
+   "properties": {
+    "id": "LR05-02",
+    "nom": "Gué de la Souris : fuite de nuit devant les voleurs de chevaux (juin 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.425,
+    "fin": 1805.433,
+    "date_edtf": "1805-06-04/1805-06-07",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Rencontrant un camp d'Assiniboines qui insistent pour les garder sous leurs tentes, Larocque et ses compagnons se font conduire à un bon gué de la Souris, la traversent et marchent toute la nuit dans la plaine pour échapper « aux plus habiles voleurs de chevaux » dont il ait entendu parler.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 13.",
+    "note": "Selon Burpee, la Souris est traversée à son extrémité sud, là où elle se rapproche le plus du Missouri : position hypothétique près de l'actuelle Velva (Dakota du Nord)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.63,
+     47.8
+    ]
+   },
+   "properties": {
+    "id": "LR05-03",
+    "nom": "La Grosse Butte : halte sur le coteau du Missouri (8 juin 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.436,
+    "fin": 1805.436,
+    "date_edtf": "1805-06-08",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Le 8 juin 1805, Larocque gagne la Grosse Butte, mont élevé visible de très loin sur le coteau du Missouri, pour y faire sécher ses effets ; faute d'eau, ils avaient recueilli la pluie ruisselant le long d'un tronc d'arbre et dormi sous une tente d'écorce.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 14.",
+    "note": "Identification hypothétique (Dog Den Butte)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.39,
+     47.33
+    ]
+   },
+   "properties": {
+    "id": "LR05-04",
+    "nom": "Villages hidatsas de la Knife : chez le Borgne, en attendant les Crows (juin 1805)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1805.441,
+    "fin": 1805.493,
+    "date_edtf": "1805-06-10~/1805-06-29",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque",
+     "Charles McKenzie",
+     "Le Borgne"
+    ],
+    "description": "Aux villages des Big Bellies (Hidatsas ou Minnetarees), où il avait déjà passé une partie de l'hiver précédent, Larocque cache ses marchandises et affronte les manœuvres des chefs, qui veulent le dissuader d'aller chez les Crows (« Rocky Mountain ») et garder la traite pour eux. Le 23 juin arrivent les premiers Crows ; Larocque fume avec eux chez le frère du Borgne et obtient de partir avec eux. Il quitte le village de Metaharta, sur la rive sud de la Knife, à la fin de juin.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 15-26.",
+    "note": "Position aux villages de la rivière Knife (site historique national de Knife River Indian Villages)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.5,
+     46.9
+    ]
+   },
+   "properties": {
+    "id": "LR05-05",
+    "nom": "Le Petit Missouri : en route avec le camp crow (juillet 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.5,
+    "fin": 1805.5,
+    "date_edtf": "1805-07",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Avec le camp crow, Larocque traverse une région « très montagneuse » ; il gravit une hauteur pour voir le pays, y perd sa lunette, et campe sur des ruisseaux qui se jettent dans le Petit Missouri, pendant que les Crows chassent le bison en grand nombre.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 26-28.",
+    "note": "Itinéraire approximatif à travers les badlands du Petit Missouri."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.41,
+     45.44
+    ]
+   },
+   "properties": {
+    "id": "LR05-06",
+    "nom": "Rivière Powder : « si boueuse qu'elle n'est guère buvable » (27-28 juillet 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.571,
+    "fin": 1805.574,
+    "date_edtf": "1805-07-27/1805-07-28",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Après avoir franchi une chaîne couverte de pins, le camp atteint la rivière Powder, au fort courant et aux immenses bancs de sable, qu'un vent du large (le chinook, selon Burpee) charge d'un sable fin qui salit l'eau : d'où son nom, disent les Crows. Larocque y achète trois peaux de castor et une peau d'ours.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 31-32.",
+    "note": "Lieu de rencontre de la Powder non précisé ; position hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.1,
+     44.6
+    ]
+   },
+   "properties": {
+    "id": "LR05-07",
+    "nom": "Rivière Pine (Clear Creek) : première vue des Rocheuses, le massif du Bighorn (4-6 août 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.592,
+    "fin": 1805.597,
+    "date_edtf": "1805-08-04/1805-08-06",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Le 4 août 1805, du haut des bluffs de la Powder, Larocque aperçoit à la lunette les « Rocky Mountains », assez nettement pour distinguer précipices, crevasses et arbres. Le 5, il quitte la Powder boueuse pour remonter la rivière Pine, eau claire et glacée venue des montagnes. Burpee précise que ce n'est pas la chaîne principale mais le Bighorn, et rappelle que La Vérendrye avait vu les montagnes soixante-deux ans plus tôt.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 34-35.",
+    "note": "Position au pied du massif du Bighorn, vers l'actuelle Buffalo (Wyoming)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.0,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "LR05-08",
+    "nom": "Gué de la Tongue au pied du Bighorn (15 août 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.619,
+    "fin": 1805.646,
+    "date_edtf": "1805-08-14/1805-08-24",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Le camp longe le pied de la montagne vers le nord-ouest, franchit à gué la rivière Tongue le 15 août et campe sur la rive nord, face à une petite montagne que les Crows appellent Wolf Teeth. Larocque note ses achats (« 1 Knife, 2 Beavers… ») et la désertion de la femme du chef Spotted Crow, qui divise le camp sur la route à suivre.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 38-41.",
+    "note": "Position hypothétique sur la haute Tongue."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.25,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "LR05-09",
+    "nom": "Rivière aux Roches Jaunes : la grande île sous la fourche de Pryor (10-14 septembre 1805)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1805.691,
+    "fin": 1805.702,
+    "date_edtf": "1805-09-10/1805-09-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Le 10 septembre 1805, après la rivière Shot Stone, le camp atteint la Yellowstone, « belle et grande rivière » au courant très fort, et s'installe sur une grande île boisée de cinq milles de tour. Cinq Big Bellies (Atsinas) y apportent des paroles de paix et disent avoir traité l'hiver précédent avec John McDonald, le « Bras-Croche ». Le 14, ayant constaté la présence du castor et engagé les Crows à le chasser, Larocque réunit les chefs en conseil, leur promet de revenir avec des marchandises et reprend le chemin du retour.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 46-48.",
+    "note": "Burpee situe l'arrivée sur la Yellowstone en aval de la fourche de Pryor (Pryor's Fork), vers les actuelles Billings et Huntley (Montana)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.98,
+     47.98
+    ]
+   },
+   "properties": {
+    "id": "LR05-10",
+    "nom": "Confluent de la Yellowstone et du Missouri (30 septembre 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.746,
+    "fin": 1805.746,
+    "date_edtf": "1805-09-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Antoine Larocque"
+    ],
+    "description": "Après avoir descendu la Yellowstone, Larocque aperçoit le 30 septembre 1805, du haut d'une colline, le confluent de la rivière aux Roches Jaunes et du Missouri, puis suit le Missouri vers les villages mandans.",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 54.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.95,
+     49.86
+    ]
+   },
+   "properties": {
+    "id": "LR05-11",
+    "nom": "Retour au fort de la Montagne-à-la-Bosse (18 octobre 1805)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1805.797,
+    "fin": 1805.797,
+    "date_edtf": "1805-10-18",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque",
+     "Charles McKenzie"
+    ],
+    "description": "Le 18 octobre 1805, des Assiniboines annoncent que le fort de la Montagne-à-la-Bosse a été évacué et que M. Falcon se bâtit une maison pour l'hiver plus loin ; Larocque y retrouve Charles McKenzie et trois hommes. « Ainsi finit ce journal de mon voyage aux Rocky Mountains » (22 octobre). Selon Burpee, c'est la première description de la contrée des Crows depuis La Vérendrye (1742-1743).",
+    "sources": "Larocque, François-Antoine (1911), Journal de Larocque de la rivière Assiniboine jusqu'à la rivière « aux Roches Jaunes », 1805, éd. Lawrence J. Burpee, Ottawa, Archives canadiennes, publication no 3 (archive.org, journaldelarocq00laro), p. 58-60.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.388,
+     47.326
+    ]
+   },
+   "properties": {
+    "id": "WT85-01",
+    "nom": "Village awatixa (site Sakakawea) : Ménard, premier Blanc établi chez les Hidatsas (v. 1778)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1804.999,
+    "date_edtf": "1778~/1804",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Ménard"
+    ],
+    "description": "Le premier Euro-Américain connu à s'établir à demeure dans les villages mandans et hidatsas est un Canadien nommé Ménard, dont le prénom s'est perdu (François ou Pierre selon des éditeurs plus tardifs). Six témoins le disent arrivé entre 1778 et 1783 ; il vit dans le village aujourd'hui appelé site Sakakawea, avec une femme indienne « belle et gracieuse », et David Thompson le juge « en tout point comme un indigène ». Onze sources contemporaines (D'Église, Truteau, Collot, Thompson, Larocque, McKenzie, Tabeau, Clark, Henry…) puisent chez lui leur savoir sur le haut Missouri : il connaît la Yellowstone et les Rocheuses, et a visité plusieurs fois les Crows avec les Hidatsas. Il est tué en revenant de l'Assiniboine, au grand regret du maître de Brandon House.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 43-46.",
+    "note": "Position au site Sakakawea, sur la Knife (Knife River Indian Villages)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.39,
+     47.33
+    ]
+   },
+   "properties": {
+    "id": "WT85-02",
+    "nom": "Les « residenters » canadiens des villages de la Knife (années 1790-1810)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1790.0,
+    "fin": 1818.999,
+    "date_edtf": "1790~/1818",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Ménard",
+     "René Jusseaume",
+     "Cardin",
+     "Jean-Baptiste Lafrance",
+     "Toussaint Charbonneau",
+     "François La Grave",
+     "Joseph Garreau",
+     "Chayé",
+     "Hugh Heney"
+    ],
+    "description": "Wood et Thiessen dressent la liste des résidents libres des villages mandans et hidatsas cités dans les papiers des compagnies : Cardin, La France, Toussaint Charbonneau, La Grave, « Chayé », Ménard, Joseph Garreau, René Jusseaume, ainsi que McCracken, Colter, Heney, Morgan, Holmes et Taylor. Plusieurs sont des déserteurs de la Compagnie du Nord-Ouest ou de Prairie du Chien : John Macdonell traite de « canaille » La Grave, Garreau et Chayé. Ils vivent de la revente de chevaux, de robes et de loups aux postes de l'Assiniboine.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 43, 50.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.67,
+     50.45
+    ]
+   },
+   "properties": {
+    "id": "WT85-03",
+    "nom": "Fort Espérance (Qu'Appelle) : première mention de Jusseaume et Cardin (13 avril 1794)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1794.283,
+    "fin": 1794.283,
+    "date_edtf": "1794-04-13",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "René Jusseaume",
+     "Cardin",
+     "John Macdonell"
+    ],
+    "description": "La plus ancienne mention de René Jusseaume est l'entrée du journal de John Macdonell du 13 avril 1794 : lui et Cardin arrivent au fort Espérance avec un parti de la Compagnie du Nord-Ouest revenant du Missouri. Thompson dit qu'il vit dans les villages depuis 1789 ou 1790 ; Alexander Henry, en 1806, « depuis plus de quinze ans ».",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 46 et n. 98.",
+    "note": "Position approximative du fort Espérance, sur la Qu'Appelle près de l'actuelle Rocanville (Saskatchewan)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.36,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "WT85-04",
+    "nom": "Poste de Jusseaume (« fort Makay ») entre les villages mandans et hidatsas (1794-1797)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1794.821,
+    "fin": 1797.333,
+    "date_edtf": "1794-10-27/1797-05",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "René Jusseaume",
+     "John Evans"
+    ],
+    "description": "Parti de la rivière la Souris le 17 octobre 1794, Jusseaume conduit une expédition de la Compagnie du Nord-Ouest qui élève, peu après son arrivée au Missouri le 27 octobre, « un petit fort et une cabane » sur la rive entre les villages mandans et hidatsas : le seul bâtiment construit par les traiteurs canadiens. En septembre 1796, l'explorateur John Evans s'en empare au nom de l'Espagne et le rebaptise fort Makay ; Jusseaume tente de le tuer.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 28, 46-49.",
+    "note": "Position hypothétique sur la rive du Missouri près de l'embouchure de la Knife."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.33,
+     47.28
+    ]
+   },
+   "properties": {
+    "id": "WT85-05",
+    "nom": "Villages mandans : David Thompson guidé par Jusseaume (hiver 1797-1798)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1797.917,
+    "fin": 1798.058,
+    "date_edtf": "1797-12/1798-01-22",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "René Jusseaume",
+     "David Thompson",
+     "Joseph Boisseau",
+     "Alexis Vivier",
+     "Pierre Gilbert",
+     "François Perrault",
+     "Toussaint Vaudril",
+     "Louis-Jean-Baptiste Houle",
+     "Jean-Baptiste Minie"
+    ],
+    "description": "Jusseaume sert de guide et d'interprète à l'expédition de David Thompson aux villages mandans, avec Joseph Boisseau (domestique de Thompson), Hugh McCracken, Alexis Vivier, Pierre Gilbert, François Perrault, Toussaint Vaudril, Louis-Jean-Baptiste Houle et Jean-Baptiste Minie. Le 9 janvier 1798, Thompson reçoit de Jusseaume des peaux de loup et 48 robes de bison.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 57, 59, 97 et n. 8.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.47,
+     45.55
+    ]
+   },
+   "properties": {
+    "id": "WT85-06",
+    "nom": "Rivière Grand : Jusseaume blessé par les Arikaras (1807)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1807.667,
+    "fin": 1807.667,
+    "date_edtf": "1807-09",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "René Jusseaume",
+     "Shahaka",
+     "Nathaniel Pryor",
+     "Pierre Chouteau"
+    ],
+    "description": "En 1807, l'expédition de Nathaniel Pryor et de Pierre Chouteau, chargée de ramener chez lui le chef mandan Shahaka (Big White), revenu de Washington, est repoussée à coups de fusil par les Arikaras près de la rivière Grand et doit rentrer à Saint-Louis. René Jusseaume, l'interprète de Big White, est blessé.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 31.",
+    "note": "Position aux villages arikaras de l'embouchure de la Grand (Dakota du Sud)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
