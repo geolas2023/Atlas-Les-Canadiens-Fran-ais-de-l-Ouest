@@ -121276,6 +121276,319 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -70.594,
+     43.322
+    ]
+   },
+   "properties": {
+    "id": "EF11-01",
+    "nom": "Wells (Maine) : Esther Wheelwright enlevée par les Abénaquis (10 août 1703)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1703.608,
+    "fin": 1703.608,
+    "date_edtf": "1703-08-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Esther Wheelwright",
+     "Philippe de Rigaud de Vaudreuil"
+    ],
+    "description": "Le 10 août 1703, lors de la grande opération de prise d'otages lancée par les Abénaquis alliés des Français, la petite Esther Wheelwright, sept ans, fille d'un notable puritain de Wells, est emmenée en forêt. Elle vit cinq ans dans une famille abénaquise, auprès de la mission du père Rale. En 1708, le gouverneur Vaudreuil la rachète ; elle est mise en pension chez les ursulines de Québec en 1709, baptisée catholique à Montréal en 1711, et prend le voile en 1714 sous le nom de sœur Esther-Marie-Josèphe de l'Enfant-Jésus. Supérieure des ursulines de Québec en 1760, au moment de la Conquête, elle meurt en 1780 sans être jamais retournée en Nouvelle-Angleterre, malgré les visites de son neveu Nathaniel et le legs paternel conditionné à son retour.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Esther Wheelwright ».",
+    "note": "Point au village de Wells. Les années québécoises (ursulines) sont hors du cadre de l'atlas et résumées ici."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.045,
+     42.329
+    ]
+   },
+   "properties": {
+    "id": "EF11-02",
+    "nom": "Détroit : Isabelle Couc, Outoutagan et Veniard de Bourgmont (1704-1707)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1704.0,
+    "fin": 1707.999,
+    "date_edtf": "1704/1707",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isabelle Couc (Madame Montour)",
+     "Outoutagan",
+     "Étienne Veniard de Bourgmont",
+     "Antoine Laumet de La Mothe Cadillac"
+    ],
+    "description": "Fille métisse du colon Pierre Couc dit Lafleur et d'une Algonquine, née en 1667, Élisabeth (Isabelle) Couc suit en 1704 le grand chef odawa Outoutagan de Michillimakinac au Détroit, où elle s'oppose à Cadillac. Vers 1706, elle devient l'amante d'Étienne Veniard de Bourgmont, envoyé enquêter sur Cadillac et commandant par intérim du fort, ce qui envenime la querelle entre les deux hommes.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Madame Montour ».",
+    "note": "Point au fort Pontchartrain du Détroit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.063,
+     43.262
+    ]
+   },
+   "properties": {
+    "id": "EF11-03",
+    "nom": "Niagara : l'assassinat de Louis Montour, Isabelle prend le nom de Montour (1709)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1709.0,
+    "fin": 1709.999,
+    "date_edtf": "1709",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isabelle Couc (Madame Montour)",
+     "Louis Couc Montour",
+     "Louis-Thomas Chabert de Joncaire"
+    ],
+    "description": "En 1709, son frère Louis Couc dit Montour, qui détournait vers les Anglais d'Albany la traite des nations d'en haut, est tué pendant une rencontre à Niagara, dans un guet-apens tendu par Joncaire sur ordre des autorités françaises. Isabelle, seule avec sa fille Marie-Anne et trahie par Bourgmont, s'enfuit et prend définitivement le nom de Montour. Elle passe chez les Oneidas, puis au service des Iroquois et des Anglais.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Madame Montour ».",
+    "note": "Point au fort Niagara (embouchure de la rivière)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.145,
+     39.949
+    ]
+   },
+   "properties": {
+    "id": "EF11-04",
+    "nom": "Philadelphie : Madame Montour, interprète au conseil anglo-amérindien de 1727",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1727.0,
+    "fin": 1727.999,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isabelle Couc (Madame Montour)"
+    ],
+    "description": "De 1710 à 1730, Isabelle Montour voyage, souvent en secret, entre Philadelphie, Albany, Niagara, le Détroit, Montréal et Trois-Rivières, et relaie des renseignements au profit des Iroquois et des Anglais ; elle refuse l'offre du gouverneur français de devenir son espionne. Interprète aux grands conseils anglo-amérindiens, elle étonne la bonne société de Philadelphie en 1727, où elle se laisse prêter une ascendance noble, se disant parfois fille illégitime de Frontenac.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Madame Montour ».",
+    "note": "Point au vieux Philadelphie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.92,
+     41.254
+    ]
+   },
+   "properties": {
+    "id": "EF11-05",
+    "nom": "Rive de la Susquehanna (Pennsylvanie) : la retraite de Madame Montour (1729-1752)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1729.0,
+    "fin": 1752.999,
+    "date_edtf": "1729/1752",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Isabelle Couc (Madame Montour)",
+     "Carondawana"
+    ],
+    "description": "En 1729, son mari oneida Carondawana est tué lors d'une expédition iroquoise contre les Catawbas, en Caroline. Inconsolable, Isabelle, alors âgée de soixante-deux ans, se retire sur les rives de la Susquehanna, où elle avait vécu avec sa famille oneida. Elle meurt en 1752, à quatre-vingt-cinq ans, trois ans avant la défaite de Braddock à la Monongahéla.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Madame Montour ».",
+    "note": "Le livre ne nomme pas le lieu : point au village d'Otstonwakin (Montoursville, Pennsylvanie), où la tradition la situe."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.191,
+     40.008
+    ]
+   },
+   "properties": {
+    "id": "EF11-06",
+    "nom": "Philadelphie : Susan La Flesche, première femme amérindienne médecin (1886-1889)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1886.0,
+    "fin": 1889.999,
+    "date_edtf": "1886/1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Susan La Flesche Picotte"
+    ],
+    "description": "Petite-fille du traiteur Joseph La Flesche et fille du chef omaha Joseph La Flesche (Iron Eye) et de la Métisse Mary Gale, Susan, née sous une tente pendant la chasse aux bisons de l'été 1865, étudie au New Jersey (1879), puis au collège Hampton, en Virginie. En 1886, elle entre au Women's Medical College of Pennsylvania ; reçue docteur en médecine en 1889, première de sa promotion, elle est la première femme d'origine amérindienne à devenir médecin, la même année que Charles Eastman et Carlos Montezuma.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Susan La Flesche Picotte ».",
+    "note": "Point à l'ancien Women's Medical College (East Falls, Philadelphie)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.355,
+     42.113
+    ]
+   },
+   "properties": {
+    "id": "EF11-07",
+    "nom": "Réserve des Omahas (Macy, Nebraska) : le Dr Susan La Flesche, seule médecin de 1 200 Omahas (1889-1894)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1889.0,
+    "fin": 1894.999,
+    "date_edtf": "1889/1894",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Susan La Flesche Picotte",
+     "Joseph La Flesche (Iron Eye)",
+     "Mary Gale"
+    ],
+    "description": "De 1889 à 1894, Susan La Flesche soigne jour et nuit, à cheval ou en voiture, les Omahas dispersés sur la réserve — mille deux cents en 1890 — sans recevoir le traitement dû à sa fonction. Épuisée et malade, elle abandonne son poste en 1894.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Susan La Flesche Picotte ».",
+    "note": "Point à Macy, siège de la réserve."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.57,
+     42.01
+    ]
+   },
+   "properties": {
+    "id": "EF11-08",
+    "nom": "Bancroft (Nebraska) : Susan La Flesche épouse Henry Picotte, petit-fils d'Honoré Picotte (1894)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1894.0,
+    "fin": 1894.999,
+    "date_edtf": "1894",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Susan La Flesche Picotte",
+     "Henry Picotte",
+     "Charles Félix Picotte",
+     "Honoré Picotte"
+    ],
+    "description": "Malgré l'opposition de sa famille, Susan épouse Henry Picotte, Sioux yankton venu du Dakota reprendre la ferme des La Flesche après la mort de son frère Charles Félix, mari de Marguerite La Flesche. Les frères Picotte sont probablement des petits-fils métis du traiteur Honoré Picotte ; Henry a joué un guerrier sioux aux côtés de Sitting Bull dans le Wild West Show de Buffalo Bill. Le couple s'installe à Bancroft, où Susan ouvre un cabinet ; leurs fils Caryl et Pierre feront carrière dans l'armée.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Susan La Flesche Picotte ».",
+    "note": "Point à Bancroft."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.492,
+     42.149
+    ]
+   },
+   "properties": {
+    "id": "EF11-09",
+    "nom": "Walthill (Nebraska) : l'hôpital du Dr Susan La Flesche Picotte (1913-1915)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1913.0,
+    "fin": 1915.667,
+    "date_edtf": "1913/1915-09",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Susan La Flesche Picotte"
+    ],
+    "description": "En 1913, Susan voit s'ouvrir à Walthill, sur la réserve des Omahas, l'hôpital pour lequel elle a recueilli des fonds pendant des années, le premier construit sans subvention gouvernementale. Atteinte d'un cancer des os, elle meurt chez elle en septembre 1915, à cinquante ans. L'établissement porte aujourd'hui le nom de Dr Susan LaFlesche Picotte Memorial Hospital.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Susan La Flesche Picotte ».",
+    "note": "Point à Walthill."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7,
+     42.774
+    ]
+   },
+   "properties": {
+    "id": "EF11-10",
+    "nom": "Cohoes (New York) : Émilie Fortin, ouvrière du textile, épouse Pierre-Nolasque Tremblay (déc. 1893)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1893.917,
+    "fin": 1893.917,
+    "date_edtf": "1893-12",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Émilie Fortin-Tremblay",
+     "Pierre-Nolasque « Jack » Tremblay"
+    ],
+    "description": "En 1893, Émilie Fortin, vingt et un ans, travaille comme tant de Canadiens français dans une manufacture de Cohoes. Elle y rencontre Pierre-Nolasque « Jack » Tremblay, né à Chicoutimi en 1860, prospecteur venu du Yukon revoir les siens ; ils se marient en décembre 1893 malgré l'opposition de la famille et partent pour le Nord au printemps.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Émilie Tremblay ».",
+    "note": "Point au centre de Cohoes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -135.365,
+     59.505
+    ]
+   },
+   "properties": {
+    "id": "EF11-11",
+    "nom": "Dyea et le col Chilkoot (Alaska) : Émilie Tremblay, « première femme blanche » à franchir le col (1894)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1894.167,
+    "fin": 1894.458,
+    "date_edtf": "1894-03/1894-06-16",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Émilie Fortin-Tremblay",
+     "Pierre-Nolasque « Jack » Tremblay",
+     "Joseph Juneau",
+     "Joseph Ladue"
+    ],
+    "description": "Le 5 mars 1894, les Tremblay prennent le train pour Seattle, puis le vapeur Topeka jusqu'à Juneau — ville qui doit son nom au Canadien Joseph Juneau. De Dyea, avec trois jeunes Canadiens, trois porteurs tlingits, trois chiens et un traîneau, ils remontent la piste et franchissent dans la tempête le col Chilkoot (1 067 m). Émilie revendiquera toute sa vie d'avoir été la première femme non autochtone à le traverser. Ils atteignent le poste de Forty Mile le 16 juin 1894, trois ans avant la ruée vers l'or du Klondike.",
+    "sources": "Bouchard, Serge et Marie-Christine Lévesque (2011), Elles ont fait l'Amérique. De remarquables oubliées, t. 1, Montréal, Lux, Chapitre « Émilie Tremblay ».",
+    "note": "Point à Dyea, au pied de la piste. La suite (Forty Mile, Dawson) se déroule au Yukon."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
