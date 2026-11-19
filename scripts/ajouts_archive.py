@@ -712,6 +712,8 @@ LIVRES = [
     ('in_wabash_county_1914.txt', 'KL', {'court': 'Weesner, History of Wabash County, vol. I (1914)', 'ref': "Clarkson W. Weesner, History of Wabash County, Indiana, vol. I, 1914"}, 'historyofwabashc01wees', lambda nom, ref: ref),
     ('mi_sheldon_1856.txt', 'KM', {'court': 'Sheldon, Early History of Michigan (1856)', 'ref': "E. M. Sheldon, The Early History of Michigan, from the First Settlement to 1815, New York, A. S. Barnes & Company, 1856"}, 'earlyhistoryofmi00shel', lambda nom, ref: ref),
     ('mi_palmer_1906.txt', 'KN', {'court': 'Palmer, Early Days in Detroit (1906)', 'ref': "Friend Palmer, Early Days in Detroit, Détroit, Hunt & June, 1906"}, 'earlydaysindetro00palmuoft', lambda nom, ref: ref),
+    ('mi_wood_mackinac_v2_1918.txt', 'KO', {'court': 'Wood, Historic Mackinac, vol. II (1918)', 'ref': "Edwin O. Wood, Historic Mackinac, vol. II, New York, The Macmillan Company, 1918"}, 'historicmackina01woodgoog', lambda nom, ref: ref),
+    ('mi_wood_mackinac_v1_1918.txt', 'KP', {'court': 'Wood, Historic Mackinac, vol. I (1918)', 'ref': "Edwin O. Wood, Historic Mackinac, vol. I, New York, The Macmillan Company, 1918"}, 'historicmackina02woodgoog', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
