@@ -110396,6 +110396,149 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.2075,
+     38.6265
+    ]
+   },
+   "properties": {
+    "id": "LS17-01",
+    "nom": "Saint-Louis : l'étang Chouteau, du moulin à l'égout, comblé après le choléra (vers 1766-1853)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1766.0,
+    "fin": 1853.999,
+    "date_edtf": "1766~/1853",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Chouteau",
+     "Joseph Nash McDowell"
+    ],
+    "description": "Au sud de la rue Market, près de l'actuelle Union Station, un barrage et un moulin des premiers habitants avaient formé un lac d'une centaine d'acres, l'étang Chouteau (Chouteau's Pond), lieu de promenade bordé de belles maisons. La croissance de la ville en fit un cloaque d'eaux usées ; après l'épidémie de choléra de 1849, qui tua plus de 4 300 Saint-Louisiens, et le grand incendie de la même année, on décida au début des années 1850 de le drainer et de le combler. Le médecin Joseph McDowell avait milité en ce sens.",
+    "sources": "Kienzle, Valerie Battle (2017), Lost St. Louis, Charleston, The History Press, « Introduction » et « Medical Science ».",
+    "note": "Position approximative du centre de l'ancien étang, entre Market Street et la vallée du Mill Creek."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2005,
+     38.6262
+    ]
+   },
+   "properties": {
+    "id": "LS17-02",
+    "nom": "Saint-Louis : la grande maison d'Henri Chouteau, remplacée par le palais de justice des Four Courts (1871)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1840.0,
+    "fin": 1871.999,
+    "date_edtf": "1840~/1871",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri Chouteau"
+    ],
+    "description": "Le complexe judiciaire des Four Courts, bâti en 1871 entre Clark Avenue, Spruce et les 11e et 12e rues, occupait l'emplacement de la vaste demeure du riche homme d'affaires Henri Chouteau, près de l'ancien étang Chouteau.",
+    "sources": "Kienzle, Valerie Battle (2017), Lost St. Louis, Charleston, The History Press, « Four Courts Building ».",
+    "note": "Date de construction de la maison non précisée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.711,
+     41.027
+    ]
+   },
+   "properties": {
+    "id": "BR15-01",
+    "nom": "Sainte-Anne (Illinois) : l'église catholique du père Letellier rebâtie face aux presbytériens de Chiniquy (1871-1885)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1871.75,
+    "fin": 1885.463,
+    "date_edtf": "1871-10/1885-06-18",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Letellier",
+     "Ambroise Allain",
+     "Antoine Allain",
+     "Charles Chiniquy"
+    ],
+    "description": "Après le schisme, les catholiques de Sainte-Anne doivent aller prier à Sainte-Marie (Beaverville), à dix milles. En 1871, le père Michel Letellier est envoyé reconquérir la paroisse : l'église est achevée en 1872 au point le plus haut du village, sur une terre des frères Ambroise et Antoine Allain, établis avant l'arrivée de Chiniquy. La souscription de 4 500 $ tourne mal et une dette de 7 000 $ subsiste dix ans plus tard ; Letellier note avec soin les noms des schismatiques revenus au catholicisme. En 1872-1873, la Première Église presbytérienne de Chiniquy compte pourtant 150 familles et 210 communiants. Le 18 juin 1885, la Kankakee Gazette dénombre 23 attelages devant l'église catholique contre 16 et 9 devant les deux églises presbytériennes.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 6.",
+    "note": "Position approximative de l'église Sainte-Anne."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.7105,
+     41.0265
+    ]
+   },
+   "properties": {
+    "id": "BR15-02",
+    "nom": "Sainte-Anne (Illinois) : relique de sainte Anne et pèlerinage des Canadiens du Midwest (1880-1939)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1881.0,
+    "fin": 1939.999,
+    "date_edtf": "1881~/1939",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Bourassa (abbé)",
+     "Matilda Cunnea",
+     "Lucille Walsh",
+     "E. L. Rivard"
+    ],
+    "description": "Calquée sur Sainte-Anne-de-Beaupré, une neuvaine attire chaque juillet les Canadiens français du Midwest ; en 1889, un train spécial de dix voitures amène de Chicago un millier de pèlerins, logés à l'académie Sainte-Anne ouverte en 1883 par les sœurs de Notre-Dame. Après la foudre de 1893, l'église est rebâtie et reçoit en 1894, à la demande de l'abbé Bourassa de Pullman, une relique (un os de la main) envoyée de Rome par le cardinal de Québec. Le 24 juillet 1904, Matilda Cunnea, paralysée depuis deux ans, se lève de son fauteuil, conservé depuis dans une chapelle latérale ; d'autres guérisons suivent jusqu'en 1912. En 1906, on compte 5 500 pèlerins. Le Viatorien E. L. Rivard y voit une réparation du schisme de Chiniquy.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 6.",
+    "note": "La 105e neuvaine est célébrée en 1985."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.662,
+     39.571
+    ]
+   },
+   "properties": {
+    "id": "BR15-03",
+    "nom": "Concordia (Kansas) : Mme Moïse Mercier, pèlerine guérie à Sainte-Anne (Illinois) (1910)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1910.5,
+    "fin": 1910.5,
+    "date_edtf": "1910-07",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Moïse Mercier (Mme)",
+     "Clément Lavoie (Mme)"
+    ],
+    "description": "Lors du pèlerinage de 1910, qui réunit deux mille personnes, Mme Moïse Mercier, de Concordia (Kansas), recouvre l'ouïe et Mme Clément Lavoie, de Sainte-Anne, jette ses béquilles : deux femmes d'ascendance canadienne-française, signe que la dévotion rayonnait jusqu'aux colonies canadiennes du Kansas.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 6.",
+    "note": "Position à Concordia, foyer canadien-français du comté de Cloud."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
