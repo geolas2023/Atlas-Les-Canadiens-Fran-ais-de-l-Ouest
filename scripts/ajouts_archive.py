@@ -663,6 +663,8 @@ LIVRES = [
     ('wi_crawford_county_1884.txt', 'II', {'court': 'History of Crawford and Richland Counties (1884)', 'ref': "History of Crawford and Richland Counties, Wisconsin, Springfield, 1884"}, 'historyofcrawfor00butt', lambda nom, ref: ref),
     ('wi_randall_chippewa_1875.txt', 'IJ', {'court': 'Randall, History of the Chippewa Valley (1875)', 'ref': "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875"}, 'historyofchippew00rand', lambda nom, ref: ref),
     ('wi_forrester_chippewa_1891.txt', 'IL', {'court': 'Forrester, Album of the Chippewa Valley (1891)', 'ref': "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892"}, 'historicalbiogra00forr', lambda nom, ref: ref),
+    ('wi_northern_wisconsin_1881.txt', 'IM', {'court': 'History of Northern Wisconsin (1881)', 'ref': "History of Northern Wisconsin, Western Historical Company, Chicago, 1881"}, 'historyofnorther00west', lambda nom, ref: ref),
+    ('wi_buck_milwaukee_v1_1890.txt', 'IO', {'court': 'Buck, Pioneer History of Milwaukee, I (1890)', 'ref': "James S. Buck, Pioneer History of Milwaukee, vol. I, éd. revue, Milwaukee, 1890"}, 'pioneerhistoryof01buck', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
