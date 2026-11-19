@@ -111289,6 +111289,918 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-01",
+    "nom": "Saint-Louis : Amable Guyon, premier maçon, né au fort de Chartres, tué lors de l'attaque de 1780",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1764.417,
+    "fin": 1780.402,
+    "date_edtf": "1764-06/1780-05-26",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Amable Guyon",
+     "Pierre Laclède"
+    ],
+    "description": "Premier tailleur de pierre connu de Saint-Louis, Amable Guyon était né en 1718 au vieux fort de Chartres, dont il a peut-être bâti la grande enceinte de maçonnerie. Venu de Cahokia avec sa famille au début de juin 1764, il travailla sans doute au quartier général en pierre de la compagnie de Laclède, puis se bâtit une maison de pierre de 2 500 livres sur la Grande Rue Royale. Il fut tué le 26 mai 1780 dans les champs derrière le village, lors de l'attaque britannique et amérindienne.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 62.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-02",
+    "nom": "Saint-Louis : le maçon Jean-Marie Pepin dit Lachance et la société des « sans-culottes » (1795)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1795.0,
+    "fin": 1795.999,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Marie Pepin dit Lachance",
+     "Francisco Luis Héctor de Carondelet",
+     "Charles Gratiot",
+     "Joseph Labrosse"
+    ],
+    "description": "Né au Canada vers 1740, maître maçon à Saint-Louis dès 1767, Pepin (ou Papin) dit Lachance avait été chassé de Cahokia pour trouble à l'ordre public. Exclu du monopole espagnol de la traite, il aurait aidé à fonder à Saint-Louis une société de « sans-culottes » qui inquiéta les autorités. En 1795, le gouverneur Carondelet ordonna secrètement son arrestation, le qualifiant d'ennemi du gouvernement. Pepin se réfugia quelques mois à Vincennes, puis vendit l'année suivante une grande maison de pierre à Charles Gratiot.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 62-63.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-03",
+    "nom": "Saint-Louis : Antoine Roussel dit Sansouci, maçon venu de Lachine, bâtisseur de la prison provinciale (1774)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1768.0,
+    "fin": 1799.999,
+    "date_edtf": "1768/1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Roussel dit Sansouci",
+     "Paul Sigle dit Maltais"
+    ],
+    "description": "Né vers 1740 dans la paroisse de Lachine, Roussel dit Sansouci figure comme maître maçon à Saint-Louis en 1768 et s'y marie l'année suivante. Il taille une grande meule pour le tanneur Paul Sigle dit Maltais (1769), construit les maisons Sale et Rivière (1770, 1773) et monte la maçonnerie de la prison provinciale en 1774. Milicien et souvent agent de police, il meurt en 1799.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 63.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.3226,
+     38.7892
+    ]
+   },
+   "properties": {
+    "id": "PT49-04",
+    "nom": "Saint-Louis et Florissant : Hyacinthe Saint-Cyr, maçon né près de Québec, ruiné par les fortifications",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1780.0,
+    "fin": 1826.999,
+    "date_edtf": "1780/1826",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hyacinthe Saint-Cyr"
+    ],
+    "description": "Né près de Québec vers 1746, Hyacinthe Saint-Cyr arrive à Saint-Louis par Cahokia en 1780 ; il bâtit plusieurs maisons de pierre et un moulin. Il perd de l'argent sur un contrat des fortifications de la ville dans les années 1790 et, en 1801, une grande partie de ses biens (terres à Saint-Louis, Florissant et Creve Coeur, moulin à chevaux, deux fours à chaux, forges) est vendue pour ses créanciers. Il se retire à Florissant, où il meurt en 1826, père de quinze enfants.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 63.",
+    "note": "Point placé à Florissant, lieu de sa retraite."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-05",
+    "nom": "Saint-Louis : maison de rondins commandée par Joseph Robidoux, cordonnier arrivé de Montréal (1771)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1771.0,
+    "fin": 1771.999,
+    "date_edtf": "1771",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Robidoux",
+     "Jean-Baptiste Ortès"
+    ],
+    "description": "En 1771, le menuisier béarnais Jean-Baptiste Ortès s'engage à bâtir pour Joseph Robidoux, cordonnier récemment arrivé de Montréal, une maison de trois pièces en pièce sur pièce (cotonnier, frêne ou noyer). Le prix : cinq cents livres en castors ou en chevreuils, plus trois paires de souliers.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 65.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-06",
+    "nom": "Saint-Louis : la boulangerie de pierre et le moulin à huit chevaux de Joseph Robidoux (1802-1809)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1802.0,
+    "fin": 1809.999,
+    "date_edtf": "1802/1809",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Robidoux"
+    ],
+    "description": "À la fin de la période coloniale, Joseph Robidoux bâtit une boulangerie de pierre à deux étages derrière sa grande maison de la Grande Rue Royale. Il semble avoir eu des contrats de pain et de biscuits, faits avec la farine de son moulin. Ce moulin, mû par huit chevaux en 1802, était sans doute l'un des plus grands de son genre. L'inventaire de 1809, à sa mort, détaille le matériel de boulanger : pétrins, pelles de bois, corbeilles à pain.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 38, 40.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-07",
+    "nom": "Saint-Louis : le moulin de Joseph Taillon, premier meunier (1766-1799)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1766.611,
+    "fin": 1799.999,
+    "date_edtf": "1766-08-11/1799",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Taillon"
+    ],
+    "description": "Joseph Taillon bâtit le premier moulin de Saint-Louis, établi le 11 août 1766. Premier meunier de la ville, il avait 82 ans à la fin du siècle et ne pouvait plus gérer ses affaires. Il possédait encore un moulin à chevaux à deux meules, estimé à quatre cents dollars, quand ses biens furent vendus en 1799.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 37-38.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.215,
+     38.745
+    ]
+   },
+   "properties": {
+    "id": "PT49-08",
+    "nom": "Rivière Maline : la scierie du capitaine Jean-Baptiste Montigny et d'André Roy (1770-1774)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1770.0,
+    "fin": 1774.999,
+    "date_edtf": "1770/1774",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Montigny",
+     "André Roy",
+     "Joachim Roy",
+     "François Mandeville",
+     "Charles Bizet"
+    ],
+    "description": "Sur une concession de quatre arpents obtenue en 1770 sur la rivière Maline, à deux lieues en amont de Saint-Louis, Montigny et André Roy montent un moulin à scie avec une petite maison de chaume. L'association est dissoute deux ans plus tard. Le moulin est loué à Joachim Roy et François Mandeville contre 2 000 planches, endommagé par une crue, vendu en 1774 à Charles Bizet, puis réuni au domaine royal.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 38.",
+    "note": "Position approximative sur le cours inférieur du ruisseau Maline."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-09",
+    "nom": "Saint-Louis : la tannerie du Canadien Jean-Baptiste Lorraine, achetée par Manuel Lisa (1780-1799)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1780.0,
+    "fin": 1799.999,
+    "date_edtf": "1780/1799",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Lorraine",
+     "Manuel Lisa",
+     "Jean Valdy"
+    ],
+    "description": "Corroyeur et tanneur canadien, Jean-Baptiste Lorraine est à Saint-Louis dès 1780. Sa maison et sa tannerie de la rue de l'Église sont achetées en 1799 par Manuel Lisa, jeune traiteur arrivé de La Nouvelle-Orléans. Peterson nomme aussi les tanneurs Paul Sigle dit le Maltais (mort en 1769) et Jean Valdy.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 40.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1866,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "PT49-10",
+    "nom": "Saint-Louis : la poterie de Joseph Eberlein, « artiste » (vers 1795-1797)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1795.0,
+    "fin": 1797.999,
+    "date_edtf": "1795~/1797",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Eberlein",
+     "Louis Boissy",
+     "François Drouin"
+    ],
+    "description": "Seule poterie connue du Saint-Louis colonial : Joseph Eberlein, dit artiste, a vers 1796 un four à cuire la terre sur la rue de l'Église. Il le vend 2 000 livres à Louis Boissy, qui ne peut payer. La propriété est revendue aux enchères en 1797 à François Drouin (ou Derouen), jeune marchand ambulant de Montréal.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 40.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2627,
+     38.5612
+    ]
+   },
+   "properties": {
+    "id": "PT49-11",
+    "nom": "Carondelet : les noms de Prairie à Catalan, Vide-Poche, Louisbourg et Pain de Sucre (1771)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1771.0,
+    "fin": 1771.999,
+    "date_edtf": "1771",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Clément Delor de Tréget",
+     "Claude Tinon",
+     "Joseph Boisvert"
+    ],
+    "description": "En 1771 ou plus tôt, les terres du nouveau faubourg de la Prairie à Catalan furent détachées de la Commune de Saint-Louis. Le lieu fut aussi appelé Vide-Poche, Louisbourg, Pain de Sucre, puis Carondelet. Clément Delor de Tréget reçut les premières concessions le 20 août 1771, suivi de Claude Tinon, des Thabault, de Joseph Boisvert et des Ménard en 1773-1774.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 24.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.18,
+     38.05
+    ]
+   },
+   "properties": {
+    "id": "PT49-12",
+    "nom": "Chez les Grands Osages : mort du menuisier Jean Cambas (1784)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1784.0,
+    "fin": 1784.999,
+    "date_edtf": "1784",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Cambas",
+     "Jean-Baptiste Ortès"
+    ],
+    "description": "Né en France vers 1736, associé d'Ortès dès 1767, Jean Cambas acheva l'église du village en 1776. Milicien de Saint-Louis, il mourut en 1784 chez les Grands Osages. Son inventaire mentionne deux grands dictionnaires de l'Académie française et trente-cinq rabots.",
+    "sources": "Peterson, Charles E. (1949), Colonial St. Louis: Building a Creole Capital, Saint-Louis, Missouri Historical Society, p. 66.",
+    "note": "Point placé dans la région des villages osages de la rivière Osage ; lieu exact inconnu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.484,
+     38.7881
+    ]
+   },
+   "properties": {
+    "id": "BK16-01",
+    "nom": "Saint-Charles : départ de la barge de Manuel Lisa, avec Toussaint Charbonneau et son épouse shoshone (2 avril 1811)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1811.253,
+    "fin": 1811.253,
+    "date_edtf": "1811-04-02",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Manuel Lisa",
+     "Toussaint Charbonneau",
+     "Sacagawea",
+     "Henry Marie Brackenridge"
+    ],
+    "description": "Le 2 avril 1811, la barge de la Missouri Fur Company quitte Saint-Charles sous le commandement de Manuel Lisa, chargé de retrouver Andrew Henry et de suivre la troupe de Wilson P. Hunt. Elle porte vingt rameurs, un pierrier à la proue et des marchandises cachées dans une fausse cabine, par crainte des bandes sioux. À bord voyagent Toussaint Charbonneau et sa femme shoshone (Sacagawea), qui avaient accompagné Lewis et Clark. Brackenridge admire l'endurance des Canadiens et des Créoles de l'équipage, qui sautent dans l'eau glacée sans hésiter.",
+    "sources": "Brackenridge, H. M. (1816), Journal of a Voyage up the River Missouri, performed in Eighteen Hundred and Eleven, 2e éd., Baltimore (rééd. Thwaites, Early Western Travels, vol. 6, 1904), p. 17-19 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.84,
+     38.556
+    ]
+   },
+   "properties": {
+    "id": "BK16-02",
+    "nom": "Pointe Labadie : relâche nommée d'après un traiteur français qui y avait hiverné (1811)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1811.25,
+    "fin": 1811.25,
+    "date_edtf": "1811-04",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Labadie"
+    ],
+    "description": "Brackenridge passe la pointe Labadie, ainsi nommée d'après un traiteur français qui y avait jadis hiverné. Quarante ans plus tôt, c'était un point éloigné sur le Missouri ; en 1811, des plantations couvrent toute la vallée. Plus haut, la crique de la Femme Osage abrite l'établissement de Daniel Boone, sur une terre concédée en 1795 par le gouverneur espagnol Trudeau.",
+    "sources": "Brackenridge, H. M. (1816), Journal of a Voyage up the River Missouri, performed in Eighteen Hundred and Eleven, 2e éd., Baltimore (rééd. Thwaites, Early Western Travels, vol. 6, 1904), p. 22-23 (PDF).",
+    "note": "Position du village actuel de Labadie (Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.06,
+     38.62
+    ]
+   },
+   "properties": {
+    "id": "BK16-03",
+    "nom": "La Charette : une trentaine de familles qui chassent et sèment un peu de maïs (avril 1811)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1811.269,
+    "fin": 1811.269,
+    "date_edtf": "1811-04-08",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Le 8 avril 1811, la barge de Lisa passe en vue du petit village de La Charette, sur la rive nord-est du Missouri : une trentaine de familles y vivent de la chasse et d'un peu de maïs. Plus haut viennent l'île aux Bœufs et l'auberge de Montbrun, lieu de repos des voyageurs.",
+    "sources": "Brackenridge, H. M. (1816), Journal of a Voyage up the River Missouri, performed in Eighteen Hundred and Eleven, 2e éd., Baltimore (rééd. Thwaites, Early Western Travels, vol. 6, 1904), p. 24, 29 (PDF).",
+    "note": "Position approximative, près de l'actuel Marthasville."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.95,
+     38.62
+    ]
+   },
+   "properties": {
+    "id": "BK16-04",
+    "nom": "Côte sans Dessein : treize familles françaises et quelques familles indiennes (1811)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1808.0,
+    "fin": 1811.28,
+    "date_edtf": "1808~/1811-04-12",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Manuel Lisa",
+     "Castor"
+    ],
+    "description": "Arrivé à pied avec l'interprète Charbonneau, Brackenridge décrit la Côte sans Dessein, sur la rive nord-est en vue de l'embouchure de l'Osage. Le nom vient d'une butte calcaire isolée au bord de l'eau. Fondé trois ans plus tôt, le village compte treize familles françaises et deux ou trois familles indiennes, qui cultivent la prairie mais passent surtout leur temps à chasser. Lisa y engage un chasseur réputé nommé Castor, un Kansa qui parlait bien le français.",
+    "sources": "Brackenridge, H. M. (1816), Journal of a Voyage up the River Missouri, performed in Eighteen Hundred and Eleven, 2e éd., Baltimore (rééd. Thwaites, Early Western Travels, vol. 6, 1904), p. 30-31 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     42.32
+    ]
+   },
+   "properties": {
+    "id": "BK16-05",
+    "nom": "Village des Omahas : Charbonneau part à cheval rejoindre Hunt chez les Poncas (mai 1811)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1811.333,
+    "fin": 1811.333,
+    "date_edtf": "1811-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Manuel Lisa",
+     "Wilson Price Hunt",
+     "Big Elk (Omaha)"
+    ],
+    "description": "Pressé de rejoindre Hunt avant le pays sioux, Lisa envoie par terre un messager métis accompagné de Charbonneau vers le village des Poncas, à trois jours de cheval. La barge repart sans saluer Big Elk, chef du village omaha. Cet oubli d'étiquette offense toujours, aussi lui laisse-t-on un présent et un message.",
+    "sources": "Brackenridge, H. M. (1816), Journal of a Voyage up the River Missouri, performed in Eighteen Hundred and Eleven, 2e éd., Baltimore (rééd. Thwaites, Early Western Travels, vol. 6, 1904), p. 70 (PDF).",
+    "note": "Position approximative du village omaha de l'époque."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9,
+     42.75
+    ]
+   },
+   "properties": {
+    "id": "BK16-06",
+    "nom": "Haut-Missouri : rencontre de François-Marie Benoist, traiteur né au Canada, descendant des Mandans (1811)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1811.333,
+    "fin": 1811.333,
+    "date_edtf": "1811-05",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François-Marie Benoist",
+     "Manuel Lisa"
+    ],
+    "description": "La barge croise un petit bateau chargé de pelleteries, avec cinq hommes, qui descend du village mandan. D'après l'éditeur, c'est probablement François-Marie Benoist, traiteur de Saint-Louis né au Canada en 1768, arrivé en 1790, qui avait tenu un poste chez les Otos et les Pawnees. Le voyageur rapporte qu'à part les Mandans, les Arikaras et une ou deux petites tribus, toutes les nations du Missouri sont hostiles aux Blancs.",
+    "sources": "Brackenridge, H. M. (1816), Journal of a Voyage up the River Missouri, performed in Eighteen Hundred and Eleven, 2e éd., Baltimore (rééd. Thwaites, Early Western Travels, vol. 6, 1904), p. 74 (PDF).",
+    "note": "Lieu de la rencontre non précisé dans l'extrait : point placé entre le pays omaha et celui des Poncas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9857,
+     40.7484
+    ]
+   },
+   "properties": {
+    "id": "PRM-01",
+    "nom": "New York : le « Bal des Pionniers » canadien-français célèbre Aubry et les bâtisseurs d'empire (janvier 1939)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1939.0,
+    "fin": 1939.0,
+    "date_edtf": "1939-01",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Xavier Aubry",
+     "Jacques Cartier"
+    ],
+    "description": "Le journal montréalais Le Jour annonce le bal annuel des Pionniers organisé à New York par la Société Saint-Jean-Baptiste et les Artisans canadiens-français de la ville. Le programme, rédigé en anglais pour les invités américains, rappelle que Détroit, Dubuque ou Saint-Paul ont été fondées par des bâtisseurs venus du Québec. Il présente François-Xavier Aubry, né à Maskinongé, comme l'un des plus célèbres traceurs de pistes, dont le nom fut donné à Aubry City en Arizona et au Colorado.",
+    "sources": "Le Jour (Montréal), 21 janvier 1939, p. 7 (coupure « Pionniers_CanadiensFrancais_NY », Drive de l'auteur), p. 7.",
+    "note": "Point placé au centre de Manhattan ; la salle n'est pas lisible dans la coupure."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4548,
+     42.9956
+    ]
+   },
+   "properties": {
+    "id": "PRM-02",
+    "nom": "Manchester (New Hampshire) : Paul Sauvé rend hommage aux pionniers canadiens-français des États-Unis (vers 1956)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1956.0,
+    "fin": 1956.999,
+    "date_edtf": "1956~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Paul Sauvé",
+     "Adolphe Robert",
+     "Josaphat-T. Benoît",
+     "François-Xavier Aubry",
+     "Joseph Robidoux",
+     "Prudent Beaudry",
+     "Jean-Baptiste Faribault",
+     "Pierre Ménard"
+    ],
+    "description": "Lors d'un banquet de l'Association canado-américaine à Manchester, présidé par le maire Josaphat-T. Benoît, le ministre québécois Paul Sauvé représente Maurice Duplessis. Il égrène les fondateurs canadiens-français de villes américaines : Mallet (Peoria), Bissot de Vincennes, Bourbonnais, Duluth, Le Sueur, Faribault et Prudent Beaudry, maire de Los Angeles. Il nomme aussi Joseph Robidou, explorateur des Rocheuses ; François-Xavier Aubry, qui traça la première route du Nouveau-Mexique au Pacifique ; et Pierre Ménard, premier lieutenant-gouverneur de l'Illinois. Il salue Adolphe Robert, qui dirige l'association depuis vingt ans.",
+    "sources": "Coupure de presse montréalaise, « L'hon. P. Sauvé rend hommage à l'Association canado-américaine » (vers septembre 1956), Drive de l'auteur, dossier FRENCH_CANADIAN_USA, non paginé.",
+    "note": "Coupure « PionniersCanadiens_USA » du Drive de l'auteur, journal montréalais non identifié ; la même page annonce le timbre américain de la fête du Travail (Camden, N.J.), ce qui situe l'article au début de septembre 1956 (à vérifier)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.385,
+     40.55
+    ]
+   },
+   "properties": {
+    "id": "CO57-01",
+    "nom": "Nauvoo : Colonie icarienne, premier journal de langue française de l'Illinois (1854)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1854.549,
+    "fin": 1854.988,
+    "date_edtf": "1854-07-19/1854-12-27",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Cabet"
+    ],
+    "description": "Le premier titre de la liste chronologique de Cormier est la Colonie icarienne, « journal d'organisation sociale » de la communauté utopiste fondée à Nauvoo par Étienne Cabet. L'hebdomadaire paraît du 19 juillet au 27 décembre 1854 (22 numéros).",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 386-387.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.861,
+     41.12
+    ]
+   },
+   "properties": {
+    "id": "CO57-02",
+    "nom": "Kankakee : Le Journal de l'Illinois d'Alexandre Grandpré et C. Petit (1857-1863)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1857.003,
+    "fin": 1863.999,
+    "date_edtf": "1857-01-02/1863~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Grandpré",
+     "C. Petit"
+    ],
+    "description": "Fondé le 2 janvier 1857 à Kankakee, Le Journal de l'Illinois se dit indépendant en tout, neutre en rien. Il passe quelques mois à Chicago (de l'automne 1857 à l'été 1858) avant de revenir à Kankakee. Cormier corrige la date de 1855 que lui donneront plus tard ses successeurs.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 387.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.861,
+     41.12
+    ]
+   },
+   "properties": {
+    "id": "CO57-03",
+    "nom": "Kankakee puis Chicago : Le Courrier de l'Illinois, le journal de Grandpré (1868-1896)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1868.0,
+    "fin": 1896.463,
+    "date_edtf": "1868/1896-06-18",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Grandpré"
+    ],
+    "description": "Fondé en 1868 sous le nom de Courrier de l'Ouest, devenu vers 1875 le Courrier de l'Illinois, l'hebdomadaire d'Alexandre Grandpré a pour devise « Notre nationalité avant tout ». Neutre au départ, il se déclare républicain en 1876. Il passe à Chicago vers 1880 et à huit pages en 1890. Le 18 juin 1896, Grandpré le vend à la Franco-American Publishing Co. Pour Cormier, ses 36 ans de publication sont la « belle période » de la presse française de l'Illinois.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 386-389.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.632,
+     41.882
+    ]
+   },
+   "properties": {
+    "id": "CO57-04",
+    "nom": "Chicago : L'Amérique de Guéroult et Pinta, où Louis Fréchette annonce son cabinet d'avocat (1869-1870)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1869.683,
+    "fin": 1870.999,
+    "date_edtf": "1869-09-07/1870",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Guéroult",
+     "Samuel-E. Pinta",
+     "Louis Fréchette"
+    ],
+    "description": "Bi-hebdomadaire publié au 162, rue Madison par Guéroult et le Louisianais Pinta, L'Amérique paraît à partir du 7 septembre 1869. Une annonce aux marchands y estime à 20 000 personnes la population de langue française de Chicago. Parmi les petites annonces figure celle de L. H. Fréchette, avocat, consultable au bureau de rédaction. Pinta avait déjà publié L'Observateur en 1861 ; Fréchette fonda plus tard un éphémère journal du même nom.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 387-388.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6295,
+     41.879
+    ]
+   },
+   "properties": {
+    "id": "CO57-05",
+    "nom": "Chicago : Le Figaro illustré, hebdomadaire français à gravures (1886-1887)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1886.829,
+    "fin": 1887.999,
+    "date_edtf": "1886-10-30/1887",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "C. Gentilé",
+     "A. Gouêre",
+     "L. R. de Sainte-Foy"
+    ],
+    "description": "Publié au 296, rue Dearborn par la French Publishing Co., Le Figaro illustré promet 416 pages et 156 gravures par an, imprimées sur papier glacé. Il paraît au moins trois mois.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 389.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.888,
+     41.153
+    ]
+   },
+   "properties": {
+    "id": "CO57-06",
+    "nom": "Bourbonnais : Le Cercle français du collège Saint-Viateur et Le Journal de Bourbonnais (1885-1888)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1885.0,
+    "fin": 1888.999,
+    "date_edtf": "1885/1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Le collège Saint-Viateur publie en 1885 Le Cercle français. Un Journal de Bourbonnais existe en 1888 : le Courrier de l'Illinois du 14 décembre en reprend une nouvelle.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 388-389.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.632,
+     41.882
+    ]
+   },
+   "properties": {
+    "id": "CO57-07",
+    "nom": "Chicago : Le Combat du docteur Elzéar Paquin (vers 1889-1893)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1889.0,
+    "fin": 1893.999,
+    "date_edtf": "1889/1893~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Elzéar Paquin"
+    ],
+    "description": "Le Combat, fondé par le médecin Elzéar Paquin, est si discret que le Courrier de l'Illinois demande en 1890, par une lettre satirique, s'il est mort ou vivant. Les historiens lui donnent deux ans d'existence, mais Paquin affirme à la convention de 1893 l'avoir publié pendant quatre ans.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 389.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.647,
+     41.874
+    ]
+   },
+   "properties": {
+    "id": "CO57-08",
+    "nom": "Chicago : les journaux de Louis-J. Bachand-Vertefeuille, du Courrier de l'Ouest au Courrier franco-américain (1894-1931)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1894.0,
+    "fin": 1931.999,
+    "date_edtf": "1894/1931~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-J. Bachand-Vertefeuille",
+     "Philippe Masson",
+     "Anatole Bachand"
+    ],
+    "description": "Bachand-Vertefeuille lance Le Bulletin officiel des sociétés de langue française (1894). Il devient en 1903 seul propriétaire du Courrier de l'Ouest (successeur bi-hebdomadaire du journal de Grandpré, dirigé d'abord par Philippe Masson), puis tente un quotidien, Le Petit Journal de Chicago (juin-juillet 1903). Le Courrier-Canadien fusionne ensuite les titres de Kankakee, de Saint-Paul et de Minneapolis ; il devient en 1905 Le Courrier franco-américain, organe de l'Union des sociétés canadiennes-françaises catholiques, publié à l'édifice New Era et inscrit aux annuaires jusqu'en 1931. Cormier y voit la seconde période, plus conformiste, liée au déclin de la colonie.",
+    "sources": "Cormier, Louis-Philippe (1957), « La presse française de l'Illinois », Revue d'histoire de l'Amérique française, vol. 11, n° 3, p. 361-392, p. 386, 389-392.",
+    "note": "Point placé à l'angle Harrison et Halsted (édifice New Era)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.944
+    ]
+   },
+   "properties": {
+    "id": "GT10-01",
+    "nom": "Saint-Paul : la justice rendue en français, l'anecdote du major Noah et de l'avocat Brisbin (années 1850)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1850.0,
+    "fin": 1858.999,
+    "date_edtf": "1850~/1858~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Flandrau",
+     "Henry H. Sibley",
+     "John Brisbin"
+    ],
+    "description": "D'après les souvenirs du juge Charles Flandrau, rapportés par Gitlin, le français était souvent la langue des affaires à Saint-Paul pendant la période territoriale. Un avocat diplômé de Yale, John Brisbin, plaide longuement en anglais. Son adversaire, le major Noah, associé de Sibley, répond en français ; Brisbin objecte qu'il faut plaider en anglais. Noah réplique qu'il ne fait que traduire l'argument de son confrère, puisque le juge ne comprend pas un mot d'anglais, ce qui était vrai.",
+    "sources": "Gitlin, Jay (2010), The Bourgeois Frontier: French Towns, French Traders, and American Expansion, New Haven, Yale University Press, p. 193-194 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.944
+    ]
+   },
+   "properties": {
+    "id": "GT10-02",
+    "nom": "Saint-Paul : les francophones du territoire, de Bazille à Larpenteur, et la querelle en français de l'Écossais McLeod (1843-1877)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1843.0,
+    "fin": 1877.999,
+    "date_edtf": "1843/1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Bazille",
+     "Benjamin Gervais",
+     "Louis Robert",
+     "Louis Desnoyer",
+     "Auguste Louis Larpenteur",
+     "Henry H. Sibley",
+     "Norman Kittson",
+     "George McLeod",
+     "Le Boutillier"
+    ],
+    "description": "Les francophones de Saint-Paul viennent de Prairie du Chien et de Montréal (Charles Bazille), de la Rivière-Rouge (Benjamin Gervais, né à Rivière-du-Loup) ou des communautés créoles de Saint-Louis (Louis Robert, capitaine de vapeur né à Carondelet, et son beau-frère Louis Desnoyer). Auguste Louis Larpenteur, dont la famille avait fui la Restauration en 1816, arrive en 1843 comme commis, engagé surtout parce qu'il parle français. Le gouverneur Sibley, né à Détroit, rédige encore en 1877 une brochure en français sur les obligations ferroviaires de l'État. Le recensement compte 29 natifs de France au Minnesota en 1850 et plus de 800 en 1860. Blessé en 1856, le député écossais George McLeod rabroue en français le docteur Le Boutillier : on peut plier le bras d'un Écossais, pas le casser.",
+    "sources": "Gitlin, Jay (2010), The Bourgeois Frontier: French Towns, French Traders, and American Expansion, New Haven, Yale University Press, p. 193-194 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.265,
+     44.9778
+    ]
+   },
+   "properties": {
+    "id": "GT10-03",
+    "nom": "Minneapolis et Saint-Paul : l'Écho de l'Ouest, Le Canadien et la Ligue républicaine Lafayette-Papineau (fin XIXe siècle)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1877.0,
+    "fin": 1900.999,
+    "date_edtf": "1877~/1900~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "La seconde vague, venue du Québec, se donne ses journaux (l'Écho de l'Ouest à Minneapolis, Le Canadien à Saint-Paul) et ses clubs : le Club Démocratie franco-américaine, la Ligue républicaine Lafayette-Papineau, des cercles littéraires et de théâtre. Pour Gitlin, le nom de Papineau marque une « recanadianisation » du Minnesota, rattachée à l'histoire du Québec du XIXe siècle plutôt qu'à celle de la traite.",
+    "sources": "Gitlin, Jay (2010), The Bourgeois Frontier: French Towns, French Traders, and American Expansion, New Haven, Yale University Press, p. 196-197 (PDF).",
+    "note": "Point placé à Minneapolis ; dates approximatives."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.1,
+     47.35
+    ]
+   },
+   "properties": {
+    "id": "GT10-04",
+    "nom": "Vallées de la Jocko et de la Mission (Montana) : un village français et des éleveurs métis, Allard, Rivais, Morigeau, Courville (fin XIXe siècle)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1870.0,
+    "fin": 1900.999,
+    "date_edtf": "1870~/1900~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Allard",
+     "Rivais",
+     "Morigeau",
+     "Courville"
+    ],
+    "description": "Gitlin signale qu'à la fin du XIXe siècle, on trouve dans les vallées de la Jocko et de la Mission, au Montana (pays salish et kutenai), un village français et nombre d'éleveurs et de traiteurs français et métis prospères, portant les noms d'Allard, Rivais, Morigeau ou Courville.",
+    "sources": "Gitlin, Jay (2010), The Bourgeois Frontier: French Towns, French Traders, and American Expansion, New Haven, Yale University Press, p. 99 (PDF).",
+    "note": "Point placé entre Arlee (Jocko) et St. Ignatius (Mission)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
