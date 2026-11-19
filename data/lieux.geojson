@@ -943616,6 +943616,1026 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "IJ-brunett-jean-saint-loui",
+    "nom": "Saint-Louis (Missouri) : Jean Brunett",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1818.0,
+    "fin": 1818.0,
+    "date_edtf": "1818",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Brunett"
+    ],
+    "description": "Saint-Louis (Missouri), 1818. Jean Brunett, né à France, arrive, au service des frères Chouteau. D'après Randall, History of the Chippewa Valley (1875). Autres lieux de l'entrée : Prairie du Chien (Wisconsin), Burlington (Iowa), Chippewa Falls (Wisconsin).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 10-11, 16, 22, 178 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/10/mode/1up?q=BRUNETT",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "IJ-brunett-jean-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean Brunett",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Brunett"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1820. Jean Brunett, né à France, passe au service de l'American Fur Company; épouse une sœur de Rolette. D'après Randall, History of the Chippewa Valley (1875). Autres lieux de l'entrée : Saint-Louis (Missouri), Burlington (Iowa), Chippewa Falls (Wisconsin).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 10-11, 16, 22, 178 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/10/mode/1up?q=BRUNETT",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1129,
+     40.8075
+    ]
+   },
+   "properties": {
+    "id": "IJ-brunett-jean-burlington",
+    "nom": "Burlington (Iowa) : Jean Brunett",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Brunett"
+    ],
+    "description": "Burlington (Iowa), 1837. Jean Brunett, né à France, député du comté de Crawford à la législature territoriale. D'après Randall, History of the Chippewa Valley (1875). Autres lieux de l'entrée : Saint-Louis (Missouri), Prairie du Chien (Wisconsin), Chippewa Falls (Wisconsin).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 10-11, 16, 22, 178 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/10/mode/1up?q=BRUNETT",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IJ-brunett-jean-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Jean Brunett",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Brunett"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1837. Jean Brunett, né à France, dirige l'expédition qui bâtit la scierie des chutes de la Chippewa. D'après Randall, History of the Chippewa Valley (1875). Autres lieux de l'entrée : Saint-Louis (Missouri), Prairie du Chien (Wisconsin), Burlington (Iowa).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 10-11, 16, 22, 178 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/10/mode/1up?q=BRUNETT",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IJ-brunett-jean-chippewa-f-2",
+    "nom": "Chippewa Falls (Wisconsin) : Jean Brunett",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1842.0,
+    "fin": 1842.0,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Brunett"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1842. Jean Brunett, né à France, conduit en novembre le bateau de l'agent Brunson vers la scierie. D'après Randall, History of the Chippewa Valley (1875). Autres lieux de l'entrée : Saint-Louis (Missouri), Prairie du Chien (Wisconsin), Burlington (Iowa).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 10-11, 16, 22, 178 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/10/mode/1up?q=BRUNETT",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "IJ-rolette-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Rolette",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1814.0,
+    "date_edtf": "1814~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Rolette"
+    ],
+    "description": "Prairie du Chien (Wisconsin), vers 1814. Rolette voyageur canadien-français, pilote les Britanniques par la Fox et la Wisconsin, payé, dit-on, 20 000 dollars en or. D'après Randall, History of the Chippewa Valley (1875).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 9 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/9/mode/1up?q=ROLETTE",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IJ-demarie-louis-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Louis Demarie",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1837.0,
+    "fin": 1837.0,
+    "date_edtf": "1837~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Demarie"
+    ],
+    "description": "Chippewa Falls (Wisconsin), vers 1837. Louis Demarie, né à Montréal, Canadien français, l'un des premiers à s'établir aux chutes avec les voyageurs de Brunett; père de cinq filles. D'après Randall, History of the Chippewa Valley (1875).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 16-18 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/16/mode/1up?q=DEMARIE",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IJ-demarie-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Demarie",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Demarie"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1851. Demarie Mme Demarie, Métisse française et ojibwée née à Détroit, seule soignante de la vallée, guérit l'auteur blessé à Frenchtown. D'après Randall, History of the Chippewa Valley (1875).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 17-18, 75 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/17/mode/1up?q=DEMARIE",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IJ-demarie-batisette-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Batisette Demarie",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "evenement",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Batisette Demarie"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1855. Batisette Demarie tué au printemps au Blue Mill par Frank Donaldson. D'après Randall, History of the Chippewa Valley (1875).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 52 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/52/mode/1up?q=DEMARIE",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "IJ-brisbois-joseph-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Joseph Brisbois",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "personnage",
+    "debut": 1839.0,
+    "fin": 1839.0,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Brisbois"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1839. Joseph Brisbois élu au Conseil législatif pour le comté de Crawford, session de 1839-1840. D'après Randall, History of the Chippewa Valley (1875).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 178 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/178/mode/1up?q=BRISBOIS",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "IJ-la-chappelle-theophile-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Théophile la Chappelle",
+    "corpus": "archive.org · Randall, History of the Chippewa Valley (1875)",
+    "theme": "evenement",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Théophile la Chappelle"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1841. Théophile la Chappelle obtient le siège de Brunson à la Chambre, puis siège au Conseil en 1842-1844. D'après Randall, History of the Chippewa Valley (1875).",
+    "sources": "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875, p. 180 ; texte intégral : archive.org, historyofchippew00rand.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Randall, History of the Chippewa Valley (1875)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofchippew00rand/page/180/mode/1up?q=LA+CHAPPELLE",
+      "texte": "Lire Randall, History of the Chippewa Valley (1875) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IL-langlade-charles-de-green-bay",
+    "nom": "La Baie (Green Bay) : Charles de Langlade",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1808.0,
+    "date_edtf": "1808",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles de Langlade"
+    ],
+    "description": "La Baie (Green Bay), 1808. Charles de Langlade meurt en janvier à soixante-quinze ans, inhumé avec son père au cimetière de Green Bay, selon l'album. D'après Forrester, Album of the Chippewa Valley (1891).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 28 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/28/mode/1up?q=LANGLADE",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-demarie-louis-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Louis Demarie",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Demarie"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1840. Louis Demarie résident de French Town, en face des chutes; sa fille adoptive Margaret épouse Lamb, premier colon de Dunnville. D'après Forrester, Album of the Chippewa Valley (1891).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 122 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/122/mode/1up?q=DEMARIE",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.9479,
+     44.8255
+    ]
+   },
+   "properties": {
+    "id": "IL-demarie-margaret-dunnville-",
+    "nom": "Dunnville (Wisconsin) : Margaret Demarie",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Margaret Demarie"
+    ],
+    "description": "Dunnville (Wisconsin), 1840. Margaret Demarie épouse de Lamb, qui y bâtit la première maison. D'après Forrester, Album of the Chippewa Valley (1891).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 122 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/122/mode/1up?q=DEMARIE",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.9479,
+     44.8255
+    ]
+   },
+   "properties": {
+    "id": "IL-demarie-rosalie-dunnville-",
+    "nom": "Dunnville (Wisconsin) : Rosalie Demarie",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1841.0,
+    "fin": 1841.0,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Rosalie Demarie"
+    ],
+    "description": "Dunnville (Wisconsin), 1841. Rosalie Demarie vient d'épouser Arthur McCann, qui reprend le commerce de Lamb; sœur de Mme H. S. Allen. D'après Forrester, Album of the Chippewa Valley (1891).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 122-123 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/122/mode/1up?q=DEMARIE",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.9193,
+     44.8755
+    ]
+   },
+   "properties": {
+    "id": "IL-hebert-joseph-menomonie-",
+    "nom": "Menomonie (Wisconsin) : Joseph Hebert",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Hebert"
+    ],
+    "description": "Menomonie (Wisconsin), 1856. Joseph Hebert, né en 1833 à Saint-Michel (Bas-Canada), arrive après six mois à Saint-Paul. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Chippewa Falls (Wisconsin), canton d'Eagle Point (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 540 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/540/mode/1up?q=HEBERT",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-hebert-joseph-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Joseph Hebert",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Hebert"
+    ],
+    "description": "Chippewa Falls (Wisconsin), vers 1857. Joseph Hebert, né en 1833 à Saint-Michel (Bas-Canada), y vit une douzaine d'années. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Menomonie (Wisconsin), canton d'Eagle Point (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 540 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/540/mode/1up?q=HEBERT",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.36,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "IL-hebert-joseph-eagle-poin",
+    "nom": "Canton d'Eagle Point (comté de Chippewa, Wisconsin) : Joseph Hebert",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1884.0,
+    "fin": 1884.0,
+    "date_edtf": "1884",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Hebert"
+    ],
+    "description": "Canton d'Eagle Point (comté de Chippewa, Wisconsin), 1884. Joseph Hebert, né en 1833 à Saint-Michel (Bas-Canada), cultivateur; se marie le 6 février. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Menomonie (Wisconsin), Chippewa Falls (Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 540 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/540/mode/1up?q=HEBERT",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-pinegord-alexander-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Alexander Pinegord",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander Pinegord"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1851. Alexander Pinegord, né en 1830 à Drummondville (Bas-Canada), arrive, puis s'établit dans le canton de Cleveland. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : canton d'Eagle Point (comté de Chippewa, Wisconsin), canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 542-543 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/542/mode/1up?q=PINEGORD",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.36,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "IL-pinegord-alexander-eagle-poin",
+    "nom": "Canton d'Eagle Point (comté de Chippewa, Wisconsin) : Alexander Pinegord",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander Pinegord"
+    ],
+    "description": "Canton d'Eagle Point (comté de Chippewa, Wisconsin), 1863. Alexander Pinegord, né en 1830 à Drummondville (Bas-Canada), épouse le 30 avril Betsie Boutell, née à Longueuil. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Chippewa Falls (Wisconsin), canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 542-543 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/542/mode/1up?q=PINEGORD",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.27,
+     45.08
+    ]
+   },
+   "properties": {
+    "id": "IL-pinegord-alexander-cleveland-",
+    "nom": "Canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin) : Alexander Pinegord",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1879.0,
+    "fin": 1879.0,
+    "date_edtf": "1879",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexander Pinegord"
+    ],
+    "description": "Canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin), 1879. Alexander Pinegord, né en 1830 à Drummondville (Bas-Canada), achète une terre à Bob Creek; scierie. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Chippewa Falls (Wisconsin), canton d'Eagle Point (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 542-543 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/542/mode/1up?q=PINEGORD",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-poirier-napoleon-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Napoléon Poirier",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1863.0,
+    "fin": 1863.0,
+    "date_edtf": "1863~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoléon Poirier"
+    ],
+    "description": "Chippewa Falls (Wisconsin), vers 1863. Napoléon Poirier, né en 1842 à Québec, bûcheron et draveur une dizaine d'années. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : canton de Wheaton (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 622-623 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/622/mode/1up?q=POIRIER",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-poirier-napoleon-chippewa-f-2",
+    "nom": "Chippewa Falls (Wisconsin) : Napoléon Poirier",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1876.0,
+    "fin": 1876.0,
+    "date_edtf": "1876",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoléon Poirier"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1876. Napoléon Poirier, né en 1842 à Québec, naissance de son fils Adolph; marié à Montréal en 1874 avec Octavia Bluto. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : canton de Wheaton (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 622-623 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/622/mode/1up?q=POIRIER",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.55,
+     44.9
+    ]
+   },
+   "properties": {
+    "id": "IL-poirier-napoleon-wheaton-wi",
+    "nom": "Canton de Wheaton (comté de Chippewa, Wisconsin) : Napoléon Poirier",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1890.0,
+    "fin": 1890.0,
+    "date_edtf": "1890",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Napoléon Poirier"
+    ],
+    "description": "Canton de Wheaton (comté de Chippewa, Wisconsin), 1890. Napoléon Poirier, né en 1842 à Québec, cultivateur et marchand de bois. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Chippewa Falls (Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 622-623 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/622/mode/1up?q=POIRIER",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-alix-joseph-chippewa-f",
+    "nom": "Chippewa Falls (Wisconsin) : Joseph Alix",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Alix"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1867. Joseph Alix, né en 1846 à Saint-Césaire (Bas-Canada), bûcheron pendant sept ans. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 650 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/650/mode/1up?q=ALIX",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3929,
+     44.9369
+    ]
+   },
+   "properties": {
+    "id": "IL-alix-joseph-chippewa-f-2",
+    "nom": "Chippewa Falls (Wisconsin) : Joseph Alix",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1870.0,
+    "fin": 1870.0,
+    "date_edtf": "1870",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Alix"
+    ],
+    "description": "Chippewa Falls (Wisconsin), 1870. Joseph Alix, né en 1846 à Saint-Césaire (Bas-Canada), épouse le 24 juin Loretta Dell Goodhue. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 650 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/650/mode/1up?q=ALIX",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.27,
+     45.08
+    ]
+   },
+   "properties": {
+    "id": "IL-alix-joseph-cleveland-",
+    "nom": "Canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin) : Joseph Alix",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.0,
+    "date_edtf": "1874~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Alix"
+    ],
+    "description": "Canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin), vers 1874. Joseph Alix, né en 1846 à Saint-Césaire (Bas-Canada), s'établit sur une ferme; membre de la Société Saint-Jean-Baptiste de Chippewa Falls. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Chippewa Falls (Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 650 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/650/mode/1up?q=ALIX",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.23,
+     43.01
+    ]
+   },
+   "properties": {
+    "id": "IL-bodette-peter-waukesha-w",
+    "nom": "Waukesha (Wisconsin) : Peter Bodette",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1857.0,
+    "fin": 1857.0,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter Bodette"
+    ],
+    "description": "Waukesha (Wisconsin), 1857. Peter Bodette, né en 1819 à Bas-Canada, s'établit dans le comté. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : canton de Tiffany (comté de Dunn, Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 676-678 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/676/mode/1up?q=BODETTE",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0,
+     45.05
+    ]
+   },
+   "properties": {
+    "id": "IL-bodette-peter-tiffany-wi",
+    "nom": "Canton de Tiffany (comté de Dunn, Wisconsin) : Peter Bodette",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter Bodette"
+    ],
+    "description": "Canton de Tiffany (comté de Dunn, Wisconsin), 1867. Peter Bodette, né en 1819 à Bas-Canada, prend un homestead dans le comté de Dunn. D'après Forrester, Album of the Chippewa Valley (1891). Autres lieux de l'entrée : Waukesha (Wisconsin).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 676-678 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/676/mode/1up?q=BODETTE",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.12,
+     45.22
+    ]
+   },
+   "properties": {
+    "id": "IL-barnier-joseph-colburn-wi",
+    "nom": "Canton de Colburn (comté de Chippewa, Wisconsin) : Joseph Barnier",
+    "corpus": "archive.org · Forrester, Album of the Chippewa Valley (1891)",
+    "theme": "personnage",
+    "debut": 1875.0,
+    "fin": 1875.0,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Barnier"
+    ],
+    "description": "Canton de Colburn (comté de Chippewa, Wisconsin), 1875. Joseph Barnier, né en 1847, fils de parents canadiens-français, prend un homestead. D'après Forrester, Album of the Chippewa Valley (1891).",
+    "sources": "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892, p. 796 ; texte intégral : archive.org, historicalbiogra00forr.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Forrester, Album of the Chippewa Valley (1891)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historicalbiogra00forr/page/796/mode/1up?q=BARNIER",
+      "texte": "Lire Forrester, Album of the Chippewa Valley (1891) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

@@ -2493,6 +2493,15 @@ G.update({
     'Maple Creek (Wisconsin)': (-88.5700, 44.5300, 'c', "canton de Maple Creek (comté d'Outagamie, Wisconsin)"),
     'Bovina (Wisconsin)': (-88.6000, 44.4300, 'c', "canton de Bovina (Shiocton, Wisconsin)"),
     'Red River (Wisconsin)': (-87.7700, 44.6200, 'c', "canton de Red River (comté de Kewaunee, Wisconsin)"),
+    'Chippewa Falls (Wisconsin)': (-91.3929, 44.9369, 'c', "Chippewa Falls (Wisconsin)"),
+    'Burlington (Iowa)': (-91.1129, 40.8075, 'c', "Burlington (Iowa)"),
+    'Menomonie (Wisconsin)': (-91.9193, 44.8755, 'c', "Menomonie (Wisconsin)"),
+    'Dunnville (Wisconsin)': (-91.9479, 44.8255, 'c', "Dunnville (Wisconsin)"),
+    'Eagle Point (Wisconsin)': (-91.3600, 45.0000, 'c', "canton d'Eagle Point (comté de Chippewa, Wisconsin)"),
+    'Cleveland (comté de Chippewa, Wisconsin)': (-91.2700, 45.0800, 'c', "canton de Cleveland et Bob Creek (comté de Chippewa, Wisconsin)"),
+    'Wheaton (Wisconsin)': (-91.5500, 44.9000, 'c', "canton de Wheaton (comté de Chippewa, Wisconsin)"),
+    'Tiffany (Wisconsin)': (-92.0000, 45.0500, 'c', "canton de Tiffany (comté de Dunn, Wisconsin)"),
+    'Colburn (Wisconsin)': (-91.1200, 45.2200, 'c', "canton de Colburn (comté de Chippewa, Wisconsin)"),
 })
 
 

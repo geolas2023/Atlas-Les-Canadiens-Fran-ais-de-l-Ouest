@@ -661,6 +661,8 @@ LIVRES = [
     ('wi_fox_river_commemorative_1895.txt', 'IF', {'court': 'Commemorative Biographical Record, Fox River Valley (1895)', 'ref': "Commemorative Biographical Record of the Fox River Valley Counties of Brown, Outagamie and Winnebago, J. H. Beers, Chicago, 1895"}, 'commemorativebio01chic', lambda nom, ref: ref),
     ('wi_durrie_prairie_du_chien_1872.txt', 'IG', {'court': 'Durrie, Annals of Prairie du Chien (1872)', 'ref': "Daniel S. Durrie, The Early Outposts of Wisconsin : Annals of Prairie du Chien, 1872"}, 'earlyoutpostsofw00durr', lambda nom, ref: ref),
     ('wi_crawford_county_1884.txt', 'II', {'court': 'History of Crawford and Richland Counties (1884)', 'ref': "History of Crawford and Richland Counties, Wisconsin, Springfield, 1884"}, 'historyofcrawfor00butt', lambda nom, ref: ref),
+    ('wi_randall_chippewa_1875.txt', 'IJ', {'court': 'Randall, History of the Chippewa Valley (1875)', 'ref': "Thomas E. Randall, History of the Chippewa Valley, Eau Claire, 1875"}, 'historyofchippew00rand', lambda nom, ref: ref),
+    ('wi_forrester_chippewa_1891.txt', 'IL', {'court': 'Forrester, Album of the Chippewa Valley (1891)', 'ref': "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892"}, 'historicalbiogra00forr', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
