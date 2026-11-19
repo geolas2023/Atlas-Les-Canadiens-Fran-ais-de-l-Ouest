@@ -117700,6 +117700,397 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.186,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "GS06-01",
+    "nom": "Saint-Louis : Jean-Baptiste Trudeau part pour les Mandanes (7 juin 1794)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1794.433,
+    "fin": 1794.433,
+    "date_edtf": "1794-06-07",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Pierre Berger",
+     "Jacques Clamorgan",
+     "Zénon Trudeau"
+    ],
+    "description": "Né à Montréal en 1748, ancien engagé de Chaboillez à Michillimakinac et rameur établi à Saint-Louis, Jean-Baptiste Trudeau s'embarque le 7 juin 1794 dans une grosse pirogue armée de huit rameurs, avec Pierre Berger comme commandant en second. Agent de la Compagnie commerciale pour la découverte des nations du haut Missouri, fondée par Jacques Clamorgan, il a pour instructions (53 articles, approuvés par le lieutenant-gouverneur Zénon Trudeau) de fonder un établissement chez les Mandanes, de nouer alliance avec les nations du fleuve, de s'informer des Shoshones des sources du Missouri et de contrer le commerce anglais. Il doit tenir un journal quotidien.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 3-9, 18.",
+    "note": "Point sur le front de rivière de Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     41.26
+    ]
+   },
+   "properties": {
+    "id": "GS06-02",
+    "nom": "Haut Missouri : Jacques d'Église rattrape Trudeau (6 août 1794)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1794.597,
+    "fin": 1794.597,
+    "date_edtf": "1794-08-06",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Jacques d'Église",
+     "Jean Meunier"
+    ],
+    "description": "Le 6 août 1794, le traiteur Jacques d'Église, premier à avoir atteint les Mandanes par le Missouri en 1792, rejoint Trudeau avec des lettres du commandant des Illinois pour les chefs ricaras, sioux et chaguiennes (cheyennes), des médailles et des pavillons. Plus léger, il le devance et sera le premier chez les Ricaras, où il traitera toutes leurs fourrures. Trudeau redoute de croiser les Otos, les Mahas ou les Poncas, qui reviennent en août de leur chasse d'été.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 22.",
+    "note": "Lieu de la rencontre non précisé ; point schématique en amont de la Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.42,
+     42.85
+    ]
+   },
+   "properties": {
+    "id": "GS06-03",
+    "nom": "La Tour (Old Baldy) : le dôme qui sert de repère aux voyageurs (16 septembre 1794)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1794.708,
+    "fin": 1794.708,
+    "date_edtf": "1794-09-16",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau"
+    ],
+    "description": "Le 16 septembre 1794, Trudeau campe à « l'isle à basque », cinq lieues au-dessus de « la Tour », dôme calcaire à l'allure de forteresse que signalent la plupart des voyageurs (Clark le notera le 7 septembre 1804). Les vents des prairies, les crues et le manque de gibier ralentissent la pirogue ; Trudeau craint la faim et les mauvaises rencontres.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 27.",
+    "note": "Point au dôme d'Old Baldy (comté de Boyd, Nebraska)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.35,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "GS06-04",
+    "nom": "Au-dessus des Poncas : Trudeau aux mains des Sioux yanktons et tétons (fin septembre 1794)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1794.719,
+    "fin": 1794.75,
+    "date_edtf": "1794-09-20~/1794-10-01",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Trudeau"
+    ],
+    "description": "Bloqué dans un chenal presque à sec, Trudeau est abordé par un parti qui se dit yankton, de la rivière des Moines ; il leur parle dans leur langue et ils le reconnaissent sous le nom qu'il portait jadis chez eux. Mais trois loges seulement sont yanktons : le reste est du village des Tétons, « peuple féroce » qui erre au nord du Missouri. Ils empruntent les fusils, exigent poudre et marchandises ; Trudeau leur annonce qu'il porte la parole du Père espagnol aux Ricaras et au chef des Tétons. Il n'en tire que 200 livres de pelleteries.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 30-31.",
+    "note": "Lieu non précisé, entre les Poncas et les Ricaras ; point hypothétique dans la région de la Big Bend. Les Tétons vivaient entre la rivière des Tétons (Bad River), la rivière Blanche et le ruisseau des Castors."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.45,
+     43.75
+    ]
+   },
+   "properties": {
+    "id": "GS06-05",
+    "nom": "La cache et la fuite de nuit (2-3 octobre 1794)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1794.753,
+    "fin": 1794.802,
+    "date_edtf": "1794-10-02/1794-10-20",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Noël Charron"
+    ],
+    "description": "Pour échapper aux Sioux, Trudeau fait transporter de nuit ses marchandises dans une petite grotte au fond d'une ravine, puis coule sa grande pirogue une lieue plus haut en la perçant à la tarière et en la chargeant de pierres. Au lever du soleil, l'équipage se cache tout le jour dans un trou sans boire ni manger. Les Ricaras viendront chercher cette cache avec des chevaux en mai 1795. Le 19 octobre, en redescendant, il enterre aussi 1 200 à 1 300 livres de plomb, 150 pioches et haches et une caisse de couteaux.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 36-40.",
+    "note": "La pleine lune du 8 octobre 1794 permet de dater la fuite (Robinson 1914). Lieu hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.53,
+     43.04
+    ]
+   },
+   "properties": {
+    "id": "GS06-06",
+    "nom": "Face au futur fort Randall : la cabane d'hivernement de Trudeau (4 novembre 1794)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1794.842,
+    "fin": 1795.232,
+    "date_edtf": "1794-11-04/1795-03-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Jean Meunier"
+    ],
+    "description": "Le 4 novembre 1794, Trudeau choisit, dix lieues au-dessus du village des Poncas, l'emplacement d'une maison d'hivernement, loin des terrains de chasse des Sioux, ennemis des Poncas. Il y enterre ses marchandises sous les copeaux d'un canot en construction, habitude prise pendant trois ans de résidence chez les Pawnees républicains. Une bande de Mahas menée par le chef que les Français appellent le Gros Lapin vient l'y harceler pour obtenir poudre et balles à crédit. Cette cabane passe pour la première habitation construite par des Blancs dans l'actuel Dakota du Sud.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 41-42.",
+    "note": "Rive gauche du Missouri, en face et un peu en aval de Fort Randall (Jameson). C'est la « Pawnee House » des auteurs américains."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.05,
+     42.77
+    ]
+   },
+   "properties": {
+    "id": "GS06-07",
+    "nom": "Village des Poncas : une nation « très difficile à conduire » (26 mars 1795)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1795.235,
+    "fin": 1795.272,
+    "date_edtf": "1795-03-26/1795-04-09",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Kichétawaco"
+    ],
+    "description": "Parti de son hivernement le 25 mars 1795, Trudeau arrive le lendemain au village des Poncas, près de l'embouchure de la rivière Qui-Court (Niobrara), dont les cabanes sont à une demi-lieue du Missouri. Il s'étonne qu'un peuple si peu fréquenté par les Français soit si exigeant sur les prix et la qualité des marchandises. Les chefs le reçoivent en festin le 7 avril ; le 9, il leur annonce qu'il monte chez les Ricaras.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 55-58.",
+    "note": "Point près de l'embouchure de la Niobrara."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     44.73
+    ]
+   },
+   "properties": {
+    "id": "GS06-08",
+    "nom": "Villages ricaras de la rivière Cheyenne : le conseil du 18 mai 1795",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1795.372,
+    "fin": 1796.25,
+    "date_edtf": "1795-05-15/1796-04-01",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Jacques d'Église"
+    ],
+    "description": "Trudeau atteint le 15 mai 1795 le village des Ricaras (Arikaras), alors au confluent de la rivière Cheyenne et du Missouri, où se trouve déjà Jacques d'Église. Le lendemain arrive un village chaguienne (cheyenne) de 140 loges, allié des Ricaras comme une bande de 60 loges de Sioux ; Trudeau apaise la querelle née du meurtre d'un Cheyenne par ces Sioux. Le 18, il tient un conseil général avec deux chefs ricaras, le grand chef des Chaguiennes et le chef sioux, et leur transmet la parole du « Père espagnol ». Il y passe l'hiver 1795-1796.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 60-61.",
+    "note": "Site aujourd'hui noyé sous le lac Oahe ; point au confluent de la Cheyenne."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.76,
+     44.72
+    ]
+   },
+   "properties": {
+    "id": "GS06-09",
+    "nom": "Chez les Ricaras : la noyade de Joseph Chorette (10 juillet 1795)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1795.525,
+    "fin": 1795.525,
+    "date_edtf": "1795-07-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Joseph Chorette"
+    ],
+    "description": "Le 10 juillet 1795, Joseph Chorette, voyageur de l'équipage, se noie en se baignant seul à la tombée de la nuit dans le Missouri, à une demi-lieue du village ; deux garçons ricaras accourent l'annoncer. Peu avant, Chorette et un autre Canadien, Québec, avaient été envoyés en éclaireurs au-devant d'un parti de guerre.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 71-74.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.39,
+     47.33
+    ]
+   },
+   "properties": {
+    "id": "GS06-10",
+    "nom": "Les Mandanes : Trudeau écrit à René Jusseaume et à Ménard (juin 1795)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1795.417,
+    "fin": 1795.417,
+    "date_edtf": "1795-06~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "René Jusseaume",
+     "Ménard"
+    ],
+    "description": "Des Ricaras, Trudeau écrit aux Canadiens René Jusseaume et Ménard, établis chez les Mandanes, que le lieutenant-gouverneur veut fournir toutes les nations du haut Missouri et que la Compagnie y fondera un établissement. Il veut mettre fin au commerce que Jusseaume et Cardin font avec les Anglais de la baie d'Hudson et de la rivière Rouge. Jusseaume sera dix ans plus tard l'interprète de Lewis et Clark. Faute de la pirogue de marchandises attendue, Trudeau vend ensuite à Ménard une partie de ses effets pour les nations d'en haut.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 71, 86.",
+    "note": "Point aux villages mandanes et hidatsas de la Knife River (Dakota du Nord)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     44.73
+    ]
+   },
+   "properties": {
+    "id": "GS06-11",
+    "nom": "Villages ricaras : les Cheyennes apportent leurs castors (6-7 septembre 1795)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1795.68,
+    "fin": 1795.683,
+    "date_edtf": "1795-09-06/1795-09-07",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Trudeau"
+    ],
+    "description": "Le 6 septembre 1795, deux villages chaguiennes (cheyennes) arrivent chez les Ricaras ; le lendemain, leurs chefs rassemblent toutes les peaux de castor de leurs loges, une centaine de livres, et vingt robes de bison brodées de piquants de porc-épic, qu'ils offrent à Trudeau, honteux d'être venus les mains vides. Ils réclament la médaille et le pavillon remis au chef du premier village cheyenne.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 85.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.74,
+     44.74
+    ]
+   },
+   "properties": {
+    "id": "GS06-12",
+    "nom": "Villages ricaras : la bataille contre les Sioux oglalas (hiver 1795-1796)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1795.833,
+    "fin": 1796.083,
+    "date_edtf": "1795-11~/1796-02~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau"
+    ],
+    "description": "Après de nouveaux meurtres, la jeunesse des deux villages ricaras attaque de nuit un camp sioux (oglalas) venu traiter : deux hommes et trois femmes sioux sont tués. Le lendemain, les Sioux reviennent et se battent une demi-journée en rase campagne, puis se retirent. Trudeau refuse que ses deux Français prennent part au combat, mais doit céder de la poudre aux Ricaras, qui le traitent alors en « Dieu tutélaire ». En novembre, le second village était monté hiverner cinq lieues plus haut, près du bois de chauffage.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 88-90.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.75,
+     44.73
+    ]
+   },
+   "properties": {
+    "id": "GS06-13",
+    "nom": "Les Ricaras abandonnent leur village et y mettent le feu (1er avril 1796)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1796.25,
+    "fin": 1796.25,
+    "date_edtf": "1796-04-01",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Trudeau"
+    ],
+    "description": "Au printemps 1796, poussés par la rareté de l'eau et du bois, les Ricaras quittent leur village pour s'établir quarante ou cinquante lieues plus haut. Le 1er avril, ils lèvent le camp et incendient les cabanes de paille et de bois, dans l'espoir, selon Trudeau, de le forcer à sortir ses effets pour les piller ; le chef l'aide à éteindre le feu. Seul avec un homme et deux canots de peaux, Trudeau ne peut emporter ses robes ; les Sioux pilleront ensuite les meilleures pelleteries laissées sur la grève.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 94-95.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     42.33
+    ]
+   },
+   "properties": {
+    "id": "GS06-14",
+    "nom": "Village des Mahas : Trudeau retrouve James Mackay et rentre à Saint-Louis (juin 1796)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1796.333,
+    "fin": 1796.425,
+    "date_edtf": "1796-05~/1796-06-04",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "James Mackay"
+    ],
+    "description": "Après un coup de vent qui engloutit son canot et une brûlure à la poudre, Trudeau atteint le village des Mahas (Omahas), environ cent cinquante lieues sous les Ricaras, où James Mackay dirige désormais les intérêts de la Compagnie sur le haut Missouri. Les hommes qui descendent les pirogues construites chez les Mandanes l'y rejoignent ; il rentre avec eux à Saint-Louis le 4 juin 1796. L'expédition est un échec commercial, mais son journal et sa Description du haut Missouri sont parmi les premiers témoignages sur les nations du fleuve.",
+    "sources": "Trudeau, Jean-Baptiste, Journal de voyage sur le haut Missouri (1794-1796), éd. Fernand Grenier et Nilma Saint-Gelais, cédérom accompagnant Voyage sur le haut Missouri, 1794-1796, Sillery, Septentrion, 2006, PDF p. 97.",
+    "note": "Point au grand village omaha (près de Homer, Nebraska), où Mackay bâtit le fort Charles."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
