@@ -2514,6 +2514,8 @@ G.update({
     'Appleton (Wisconsin)': (-88.4154, 44.2619, 'c', "Appleton (Wisconsin)"),
     'Nelsonville (Wisconsin)': (-89.3115, 44.4955, 'c', "Nelsonville (comté de Portage, Wisconsin)"),
     'McDill (Wisconsin)': (-89.5560, 44.4910, 'c', "McDill (comté de Portage, Wisconsin)"),
+    'Trempealeau (Wisconsin)': (-91.4421, 44.0055, 'c', "Trempealeau (Wisconsin)"),
+    'Dodgeville (Wisconsin)': (-90.1301, 42.9603, 'c', "Dodgeville (Wisconsin)"),
 })
 
 
