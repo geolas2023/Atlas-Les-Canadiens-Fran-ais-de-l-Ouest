@@ -708,6 +708,8 @@ LIVRES = [
     ('in_imh_lasselle_traders_1906.txt', 'KG', {'court': 'Lasselle, Old Indian Traders of Indiana (IMH, 1906)', 'ref': "Charles B. Lasselle, The Old Indian Traders of Indiana, Indiana Magazine of History, vol. II, n° 1, mars 1906"}, 'indianaquarterly02indi', lambda nom, ref: ref),
     ('in_imh_merchants_1909.txt', 'KH', {'court': 'Letters from Eighteenth Century Merchants (IMH, 1909)', 'ref': "Letters from Eighteenth Century Merchants, Indiana Magazine of History, vol. V, n° 4, décembre 1909"}, 'indianaquarterly05indi', lambda nom, ref: ref),
     ('in_ihc_harrison_v1_1922.txt', 'KI', {'court': 'Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)', 'ref': "Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922"}, 'indianahistorica07indiuoft', lambda nom, ref: ref),
+    ('in_tippecanoe_1909.txt', 'KJ', {'court': 'Past and Present of Tippecanoe County, vol. I (1909)', 'ref': "Past and Present of Tippecanoe County, Indiana, vol. I, 1909"}, 'pastpresentoftip01indeha', lambda nom, ref: ref),
+    ('in_wabash_county_1914.txt', 'KL', {'court': 'Weesner, History of Wabash County, vol. I (1914)', 'ref': "Clarkson W. Weesner, History of Wabash County, Indiana, vol. I, 1914"}, 'historyofwabashc01wees', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
