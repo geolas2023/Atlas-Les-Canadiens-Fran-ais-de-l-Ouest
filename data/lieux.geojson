@@ -114682,6 +114682,278 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.04,
+     47.999
+    ]
+   },
+   "properties": {
+    "id": "AU43-01",
+    "nom": "Fort Union : le vieil Étienne Provost, chasseur d'Audubon (juin 1843)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1843.447,
+    "fin": 1843.496,
+    "date_edtf": "1843-06-12/1843-06-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Provost",
+     "Bonaventure",
+     "Charles Larpenteur",
+     "Francis A. Chardon"
+    ],
+    "description": "Pendant le séjour d'Audubon au fort Union en juin 1843, le « vieux patron » Provost, qui a emmené une de ses filles sur le vapeur, est l'un des chasseurs de l'expédition. Il part avant l'aube de l'autre côté du Missouri avec Alexis, revient avec un cerf ou une biche, prépare la saumure où l'on conserve les antilopes, porte des messages au fort de l'opposition et fabrique des appeaux qui imitent le bêlement des faons pour attirer les biches. Le journal nomme aussi les chasseurs Alexis (dont la femme accompagne la troupe) et Bonaventure, « excellent tireur », Larpenteur qui ouvre les portes du fort au lever du soleil, et Chardon, qui part en barque pour le fort des Pieds-Noirs.",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 2, New York, Scribner, p. 30-65.",
+    "note": "Lecture partielle du volume (environ 137 000 caractères). Point au fort Union."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.193,
+     34.4045
+    ]
+   },
+   "properties": {
+    "id": "BTK-01",
+    "nom": "Fort Sumner : la maison Maxwell, ancien quartier des officiers, et les hommes de Pete Maxwell (1878)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1870.0,
+    "fin": 1881.999,
+    "date_edtf": "1870~/1881",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Pete Maxwell",
+     "Luz Beaubien Maxwell",
+     "Charlie Bowdre",
+     "Doc Scurlock"
+    ],
+    "description": "Quand l'armée abandonne Fort Sumner en 1868, Lucien Maxwell, après la vente de sa concession, achète les bâtiments et s'y retire ; à sa mort en 1875, son fils aîné Pete reprend le ranch, dont le siège est l'ancien poste. La famille habite l'ancien quartier des officiers. En 1878, deux compagnons de Billy, Charlie Bowdre et Doc Scurlock, quittent les Regulators, s'installent à Fort Sumner avec leurs familles et travaillent pour Pete Maxwell ; Garrett précise que Bowdre y garde le bétail. Fort Sumner, peuplé surtout de bergers hispaniques, devient le refuge favori de Billy.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 200.",
+    "note": "Pete (Pedro) Maxwell est le petit-fils de Charles Beaubien par sa mère Luz. Utley (2015) attribue l'achat du fort à Pete ; Wallis et l'atlas, à Lucien. En français, l'histoire a été racontée par le Québécois Éric Veillette (Billy, 2008), qui fait intervenir Luz Beaubien Maxwell, et par Éric Vuillard (Les orphelins, roman, 2019)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1925,
+     34.404
+    ]
+   },
+   "properties": {
+    "id": "BTK-02",
+    "nom": "Fort Sumner, 24 décembre 1880 : les adieux de Billy à Paulita Maxwell",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1880.98,
+    "fin": 1880.98,
+    "date_edtf": "1880-12-24",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Paulita Maxwell",
+     "Luz Beaubien Maxwell",
+     "Deluvina Maxwell",
+     "Pat Garrett",
+     "Jim East"
+    ],
+    "description": "Capturé à Stinking Springs, Billy est ramené enchaîné à Fort Sumner la veille de Noël 1880. Deluvina Maxwell, servante navajo capturée enfant par des Apaches et échangée à Lucien Maxwell contre dix chevaux, très attachée au Kid, obtient de Garrett qu'il puisse dire adieu à Paulita Maxwell. Escorté de Jim East et Lee Hall et toujours enchaîné à Dave Rudabaugh, il entre dans l'ancien quartier des officiers ; doña Luz Maxwell, la mère de Paulita, demande en vain qu'on lui ôte ses chaînes pour un moment d'intimité. East racontera qu'il fallut séparer les amoureux pour reprendre la route de Las Vegas.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 217.",
+    "note": "Utley (2015, PDF p. 102) rapporte la même scène : c'est « Mother » Maxwell, veuve de Lucien, qui implore Garrett."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1928,
+     34.4042
+    ]
+   },
+   "properties": {
+    "id": "BTK-03",
+    "nom": "Fort Sumner, 14 juillet 1881 : la mort de Billy dans la chambre de Pete Maxwell",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1881.536,
+    "fin": 1881.536,
+    "date_edtf": "1881-07-14",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pete Maxwell",
+     "Deluvina Maxwell",
+     "Paulita Maxwell",
+     "Pat Garrett"
+    ],
+    "description": "Évadé de Lincoln, Billy revient à Fort Sumner. Dans la nuit du 14 juillet 1881, Garrett l'attend dans la chambre obscure de Pete Maxwell et l'abat d'une balle au-dessus du cœur ; Maxwell pose une chandelle sur le rebord de la fenêtre pour que les adjoints voient le corps. Au matin, la foule envahit l'ancienne place d'armes ; Deluvina Maxwell frappe Garrett de ses poings en l'injuriant, les femmes consolent Paulita, et Garrett et ses adjoints se barricadent dans la maison Maxwell. Billy est inhumé dans le vieux cimetière militaire, où reposait déjà Lucien Maxwell et où Garrett avait fait enterrer Tom O'Folliard et Charlie Bowdre.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 216, 226.",
+    "note": "Point au site historique de Fort Sumner ; la tombe est voisine."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.56,
+     34.77
+    ]
+   },
+   "properties": {
+    "id": "BTK-04",
+    "nom": "Près de Puerto de Luna : le ranch de Pablo Beaubien, relais de Garrett (décembre 1880)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1880.961,
+    "fin": 1880.963,
+    "date_edtf": "1880-12-17/1880-12-18",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pablo Beaubien",
+     "Pat Garrett",
+     "Alexander Grzelachowski"
+    ],
+    "description": "Parti du magasin de Grzelachowski à Puerto de Luna le 17 décembre 1880 avant une tempête, Garrett fait halte avec sa troupe au ranch de Pablo Beaubien, à un mille au-dessus de celui de Gayheart. C'est là que son éclaireur, revenu de Fort Sumner en se faisant passer pour un berger cherchant des bêtes égarées, lui confirme que le Kid et cinq compagnons s'y trouvent ; la troupe repart et essuie le blizzard à vingt-cinq milles au-dessus de Fort Sumner.",
+    "sources": "Garrett, Pat F. (1882), The Authentic Life of Billy, the Kid, Santa Fe, New Mexican Printing and Publishing, PDF p. 68.",
+    "note": "Le lien de Pablo Beaubien avec la famille de Charles Beaubien n'est pas établi par ces sources. Position hypothétique sur le Pecos, en aval de Puerto de Luna."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.785,
+     33.162
+    ]
+   },
+   "properties": {
+    "id": "BTK-05",
+    "nom": "Blazer's Mill : l'agence de Mescalero de Frederick C. Godfroy et la fusillade du 4 avril 1878",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1878.258,
+    "fin": 1878.258,
+    "date_edtf": "1878-04-04",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Frederick C. Godfroy",
+     "Clara Godfroy",
+     "Joseph Blazer",
+     "Buckshot Roberts",
+     "Dick Brewer"
+    ],
+    "description": "Le dentiste Joseph Blazer loue sa grande maison d'adobe à étage, en amont de sa scierie, au gouvernement fédéral pour loger l'agent des Apaches mescaleros, Frederick C. Godfroy, et sa famille ; l'agence y a son siège, et Mme Clara Godfroy sert des repas aux voyageurs. Le 4 avril 1878, les Regulators, dont Billy, s'y arrêtent pour dîner quand arrive Buckshot Roberts ; Brewer tente de faire expulser Roberts par Blazer et Godfroy, puis l'assaut tourne au drame : Roberts blessé à mort tue Brewer d'une balle de Springfield.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 186.",
+    "note": "Nom de famille d'origine française ; ces livres ne disent rien des origines de Godfroy (le lien éventuel avec les Godfroy de Détroit reste à vérifier). Utley (2015, PDF p. 48-51) donne le même récit. Le grand jury de Lincoln releva en 1878 de fortes présomptions de fraude contre l'agent Godfroy (Larson, Forgotten Frontier, 1993)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.795,
+     32.2735
+    ]
+   },
+   "properties": {
+    "id": "BTK-06",
+    "nom": "La Mesilla, avril 1881 : Albert J. Fountain, fils d'une huguenote française, défenseur de Billy",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1881.272,
+    "date_edtf": "1877/1881-04-09",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Albert Jennings Fountain",
+     "John Bail",
+     "Warren Bristol"
+    ],
+    "description": "Né en 1838 à Staten Island d'un père capitaine de navire et d'une mère huguenote française, Albert Jennings Fountain a couru le monde (prisonnier à Canton, chercheur d'or en Californie, évadé de Nicaragua déguisé en femme) avant de devenir avocat et rédacteur du Mesilla Valley Independent, où il dénonce en 1877 les « banditti » de Jesse Evans, parmi lesquels chevauche brièvement le jeune Antrim. En avril 1881, le juge Bristol le nomme avec John Bail défenseur du Kid ; le 9 avril, après deux jours d'audience, Billy est reconnu coupable du meurtre du shérif Brady.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 123-125.",
+    "note": "Fountain disparaîtra lui-même en 1896. Point à la plaza de La Mesilla."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.1,
+     34.75
+    ]
+   },
+   "properties": {
+    "id": "AD05-01",
+    "nom": "Camp des Shawnees de Pierre (Peter) Chartier, au nord-est des villages chicachas (1748)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1748.0,
+    "fin": 1748.999,
+    "date_edtf": "1748",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Chartier",
+     "James Adair",
+     "James Glen",
+     "Vaudreuil"
+    ],
+    "description": "Pendant la guerre civile des Chactas, le traiteur James Adair accompagne une délégation chicacha jusqu'au camp des Shawnees de Peter Chartier, à une cinquantaine de milles au nord-est des villages chicachas. Selon Adair, Chartier travaille avec les Français à détourner les Creeks de l'alliance anglaise, et l'on comptait l'arrêter pour l'envoyer en Caroline du Sud ; selon le gouverneur Glen, il s'agissait plutôt de l'inviter à Charleston et de l'établir chez les Catawbas, mais Chartier refuse de descendre. Averti par les Alibamons, le gouverneur de la Louisiane, Vaudreuil, promet de surveiller l'affaire ; les gens de Chartier s'installent finalement chez les Creeks d'en haut.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 14-15.",
+    "note": "Adair date l'épisode de 1747 ; Braund le place en 1748 d'après les lettres de Glen, qui écrit « Peter Shirtee ». Pierre Chartier, fils du traiteur Martin Chartier et d'une Shawnee, est un métis francophone. Position hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.927,
+     36.371
+    ]
+   },
+   "properties": {
+    "id": "RSH-01",
+    "nom": "Rayado : les troupeaux de moutons pour la Californie, avec Henry Mercure et John Bernavette (1853)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1853.0,
+    "fin": 1853.167,
+    "date_edtf": "1853-01/1853-03",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Henry Mercure",
+     "John Bernavette",
+     "Kit Carson",
+     "Lucien Maxwell",
+     "John Hatcher"
+    ],
+    "description": "Après les profits de Dick Wootton sur les moutons vendus en Californie, Rayado s'organise : John Hatcher part avec un troupeau en janvier 1853 ; en février, Kit Carson achète 6 500 bêtes dans le sud du Nouveau-Mexique et rejoint à Rayado Henry Mercure et John Bernavette pour une deuxième conduite ; Lucien Maxwell rassemble un troisième troupeau en mars, le vend à Sacramento et revient avec Carson. Les conduites auraient rapporté de 20 000 à 50 000 dollars au ranch.",
+    "sources": "Smith, Randy D., Heroes of the Santa Fe Trail, 1821-1900, PDF p. 72.",
+    "note": "Henry Mercure est l'un des frères Mercure, marchands canadiens de Santa Fe liés à Aubry. Point à l'hacienda de Rayado."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
