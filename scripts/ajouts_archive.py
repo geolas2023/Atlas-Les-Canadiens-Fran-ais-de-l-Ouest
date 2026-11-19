@@ -881,6 +881,8 @@ LIVRES = [
     ('ga_casgrain_acadiens_dispersion_1887.txt','OJV',{'court':'Casgrain, Les Acadiens après leur dispersion (1887)','ref':'H.-R. Casgrain, Les Acadiens après leur dispersion, 1887'},'cihm_06173', lambda nom, ref: ref),
     ('ga_foster_revolutionary_reader_1913.txt','OJW',{'court':'Foster, Revolutionary Reader (1913)','ref':'Mrs. Sophie Lee Foster, Revolutionary Reader : Reminiscences and Indian Legends, Atlanta, Byrd Printing Company, 1913'},'revolutionaryrea00fostiala', lambda nom, ref: ref),
     ('ga_colonial_records_v7_1906.txt','OJX',{'court':'Colonial Records of Georgia, vol. 7 (1906)','ref':'The Colonial Records of the State of Georgia, vol. 7, 1906'},'colonial-records-georgia_1906_7', lambda nom, ref: ref),
+    ('ga_hawkins_letters_1916.txt','OJY',{'court':'Hawkins, Letters 1796-1806 (1916)','ref':'Benjamin Hawkins, Letters of Benjamin Hawkins, 1796-1806 (Collections of the Georgia Historical Society, vol. 9), Georgia Historical Society, 1916'},'collectionsofgeo09hawk', lambda nom, ref: ref),
+    ('ga_mcelroy_andersonville_1879.txt','OJZ',{'court':'McElroy, Andersonville (1879)','ref':'John McElroy, Andersonville : a Story of Rebel Military Prisons, Toledo, D. R. Locke, 1879'},'andersonvilleas00mcelgoog', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
