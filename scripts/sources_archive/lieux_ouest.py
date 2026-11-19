@@ -2589,6 +2589,8 @@ G.update({
     'Braidwood (Illinois)': (-88.2123, 41.2650, 'c', "Braidwood, comté de Will (Illinois)"),
     'Comté de La Salle (Illinois)': (-88.8900, 41.3400, 'h', "comté de La Salle (Illinois)"),
     'Sheridan (Illinois)': (-88.6798, 41.5300, 'c', "Sheridan, comté de La Salle (Illinois)"),
+    'Milford (Illinois)': (-87.6964, 40.6281, 'c', "Milford, comté d'Iroquois (Illinois)"),
+    'Danville (Illinois)': (-87.6300, 40.1245, 'c', "Danville, comté de Vermilion (Illinois)"),
 })
 
 

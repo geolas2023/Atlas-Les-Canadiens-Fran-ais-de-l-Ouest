@@ -750,6 +750,8 @@ LIVRES = [
     ('il_will_lebaron_1878.txt','NG',{'court':'History of Will County (1878)','ref':"The History of Will County, Illinois, Chicago, Wm. Le Baron Jr. & Co., 1878"},'historyofwillcou00leba', lambda nom, ref: ref),
     ('il_lasalle_kett_1877.txt','NH',{'court':'The Past and Present of La Salle County (1877)','ref':"The Past and Present of La Salle County, Illinois, Chicago, H. F. Kett & Co., 1877"},'pastpresentlasa00cogoog', lambda nom, ref: ref),
     ('il_cook_album_1897.txt','NI',{'court':'Album of Genealogy and Biography, Cook County (1897)','ref':"Album of Genealogy and Biography, Cook County, Illinois, with Portraits, 8e éd., Chicago, Calumet Book & Engraving Co., 1897"},'albumofgenealogy1897calu', lambda nom, ref: ref),
+    ('il_iroquois_portrait_1893.txt','NJ',{'court':'Portrait and Biographical Record of Iroquois County (1893)','ref':"Portrait and Biographical Record of Iroquois County, Illinois, Chicago, Lake City Publishing Co., 1893"},'portraitbiographic00chica', lambda nom, ref: ref),
+    ('il_mason_kaskaskia_1881.txt','NK',{'court':'Mason, Illinois in the Eighteenth Century (1881)','ref':"Edward G. Mason, Illinois in the Eighteenth Century: Kaskaskia and its Parish Records; Old Fort Chartres; and Col. John Todd's Record-Book, Chicago, Fergus Printing Company, 1881"},'illinoisineighte00maso', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
