@@ -649,6 +649,7 @@ LIVRES = [
     ('wi_collections_v9_1882.txt', 'HQ', {'court': 'WHC IX (1882)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. IX, Madison, 1882 : souvenirs de B. W. Brisbois sur Prairie du Chien"}, 'collectionsofsta0009lyma', lambda nom, ref: ref),
     ('wi_collections_v8_1879.txt', 'HR', {'court': 'WHC VIII (1879)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. VIII, Madison, 1879 : papiers Langlade, Perrot, Fort Winnebago"}, 'collectionsofsta0008lyma', lambda nom, ref: ref),
     ('wi_collections_v12_1892.txt', 'HS', {'court': 'WHC XII (1892)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XII, éd. Reuben G. Thwaites, Madison, 1892 : cour d'enquête de Green Bay (1814), Robert Dickson, employés de l'American Fur Company, Moses Paquette"}, 'collectionsofsta0012reub', lambda nom, ref: ref),
+    ('wi_collections_v4_1859.txt', 'HT', {'court': 'WHC IV (1859)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. IV, éd. Lyman C. Draper, Madison, 1859"}, 'collectionsstate04stat', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

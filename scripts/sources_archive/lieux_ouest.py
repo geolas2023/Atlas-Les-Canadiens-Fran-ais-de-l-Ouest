@@ -2470,6 +2470,10 @@ G.update({
     'Wisconsin Rapids': (-89.82, 44.38, 'c', "Rapides du haut Wisconsin (Wisconsin Rapids)"),
     'Rivière Yellow (Wisconsin)': (-91.75, 45.95, 'h', "Rivière Yellow, affluent de la Saint-Croix (Wisconsin), poste de Curot"),
     'Muscoda (Wisconsin)': (-90.44, 43.19, 'c', "Muscoda, rivière Wisconsin"),
+    'La Crosse (Wisconsin)': (-91.2396, 43.8014, 'c', "La Crosse (Wisconsin)"),
+    'Stockbridge (Wisconsin)': (-88.3015, 44.0747, 'c', "Stockbridge (Wisconsin)"),
+    'Sparta (Wisconsin)': (-90.8129, 43.9441, 'c', "Sparta (Wisconsin)"),
+    'Ottawa (Illinois)': (-88.8426, 41.3456, 'c', "Ottawa (Illinois)"),
 })
 
 
