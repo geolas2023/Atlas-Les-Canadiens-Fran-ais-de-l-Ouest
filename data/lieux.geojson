@@ -107997,33 +107997,26 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -109.45,
-     39.58
+     -103.4294,
+     38.0403
     ]
    },
    "properties": {
-    "id": "X-L44",
-    "nom": "Willow Creek : « A' Leroux 1835 »",
-    "corpus": "Atlas Chalifoux",
+    "id": "LC78-01",
+    "nom": "Fort Bent : William LeGuerrier, « Bill Garey », interprète cheyenne (1845)",
+    "corpus": "Recherches",
     "theme": "personnage",
-    "debut": 1835.5,
-    "fin": 1835.5,
-    "date_edtf": "1835",
+    "debut": 1840.0,
+    "fin": 1845.605,
+    "date_edtf": "1840/1845-08-09",
     "precision": "annee",
-    "certitude": "hypothetique",
+    "certitude": "certaine",
     "personnages": [
-     "Jean-Baptiste Chalifoux"
+     "William LeGuerrier"
     ],
-    "description": "Sous un surplomb rocheux, en aval de l'accès de Pine Spring au Willow Creek, Antoine Leroux grave son nom et l'année 1835, l'année même où Juan Valdez taille « B.",
-    "sources": "Atlas Chalifoux, fiche L44 (J. W. Nelson, Forgotten Pathfinders Along the North Branch of the Old Spanish Trail, 1650-1850 (2003), p. 31, 50-51.)",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L44",
-      "texte": "Fiche complète dans l'Atlas Chalifoux →"
-     }
-    ]
+    "description": "Fils de Charles LeGuerrier et de Félicité Ortes, de Saint-Louis, William LeGuerrier (« Bill Garey ») travaille pour les Bent dès 1840. Illettré comme sa femme cheyenne, mais traiteur honnête et heureux, il sert d'interprète cheyenne au conseil tenu au fort Bent le 9 août 1845. Lecompte cite son mariage cheyenne parmi les unions stables de la vallée de l'Arkansas.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 20, 65 et 278, n. 13.",
+    "note": ""
    }
   },
   {
@@ -108031,33 +108024,27 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.53,
-     37.02
+     -102.87,
+     38.08
     ]
    },
    "properties": {
-    "id": "X-L45",
-    "nom": "Plaza de los Chalifoux et acequia Chalifu (Costilla)",
-    "corpus": "Atlas Chalifoux",
-    "theme": "personnage",
-    "debut": 1860.5,
-    "fin": 1889.5,
-    "date_edtf": "1860/1889",
-    "precision": "annee",
-    "certitude": "hypothetique",
+    "id": "LC78-02",
+    "nom": "Big Timbers : la loge de Guerrier (hiver 1846-1847)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1846.833,
+    "fin": 1847.083,
+    "date_edtf": "1846-11/1847-02",
+    "precision": "mois",
+    "certitude": "approximative",
     "personnages": [
-     "Jean-Baptiste Chalifoux"
+     "William LeGuerrier",
+     "Alexander Barclay"
     ],
-    "description": "Dans la vallée de la Costilla, un « Jean Bautista Chalifoux II », appelé Juan Bautista par ses voisins hispanos, fonde la Plaza de los Chalifoux.",
-    "sources": "Atlas Chalifoux, fiche L45 (V. Sanchez, « Chalifu Ditch No. 10, Costilla County, Colorado » (2012), dossier de l'auteur.)",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L45",
-      "texte": "Fiche complète dans l'Atlas Chalifoux →"
-     }
-    ]
+    "description": "Pour sauver le convoi de Bullard, Hook & Co. bloqué par le blizzard près du gué du Cimarron (novembre 1846), Alexander Barclay emprunte des bœufs à William Guerrier aux Big Timbers et passe la nuit dans sa loge. Guerrier traite alors avec les Cheyennes et, en janvier 1847, il conduit avec Doyle, Cowie, Adamson et Craighead des chariots de maïs et de marchandises vers un village de la Platte.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 160 et 193.",
+    "note": ""
    }
   },
   {
@@ -108065,33 +108052,348 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -109.0,
-     40.87
+     -100.07,
+     37.7528
     ]
    },
    "properties": {
-    "id": "X-L46",
-    "nom": "Brown's Park : la tradition de Baptiste Brown",
-    "corpus": "Atlas Chalifoux",
-    "theme": "personnage",
-    "debut": 1820.5,
-    "fin": 1830.5,
-    "date_edtf": "1820~/1830",
+    "id": "LC78-03",
+    "nom": "Fort Mann : Ward et Guerrier, 6 000 robes de bison (29 mai 1849)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1849.41,
+    "fin": 1849.41,
+    "date_edtf": "1849-05-29",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "William LeGuerrier",
+     "Seth E. Ward"
+    ],
+    "description": "Le 29 mai 1849, au fort Mann abandonné, des chercheurs d'or en route pour la Californie croisent les chariots de Seth E. Ward et de William Guerrier, chargés à ras bord de 6 000 robes de bison, qui les envoient se ravitailler au Pueblo. Guerrier est l'un des rares hommes restés au Pueblo et à Greenhorn cet été-là, avec le demi-Cheyenne Tesson.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 223.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.34,
+     37.69
+    ]
+   },
+   "properties": {
+    "id": "LC78-04",
+    "nom": "Petit Arkansas : les trois enfants cheyennes de Guerrier reçoivent 640 acres (1865)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1865.786,
+    "fin": 1865.786,
+    "date_edtf": "1865-10-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "William LeGuerrier",
+     "Edmund Guerrier",
+     "Rose Guerrier",
+     "Julia Guerrier"
+    ],
+    "description": "Au traité du Petit Arkansas (14 octobre 1865), six ans après la mort de William Guerrier, ses trois enfants à demi cheyennes, Edmund, Rose et Julia, reçoivent chacun 640 acres de terre.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 287, n. 4.",
+    "note": "Point placé au lieu du traité, sur l'Arkansas près de l'actuelle Wichita."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.61,
+     38.265
+    ]
+   },
+   "properties": {
+    "id": "LC78-05",
+    "nom": "El Pueblo : Canadiens et métis parmi les nouveaux venus (1844-1849)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1844.0,
+    "fin": 1849.999,
+    "date_edtf": "1844/1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "William LeGuerrier",
+     "Antoine Cournoyer",
+     "John B. Guerin",
+     "Tesson",
+     "Pascual Rivière"
+    ],
+    "description": "Vers 1844 s'installent au Pueblo, avec d'anciens traiteurs des Bent, William Guerrier, Antoine Cournoyer, John B. Guerin et le chasseur à demi indien Pascual Rivière (Blackhawk). Le journal de Barclay note aussi que « Tesson », demi-Cheyenne, plie sa loge mais reste toute la nuit pour donner un fandango.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 61 et 138.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.668,
+     36.535
+    ]
+   },
+   "properties": {
+    "id": "LC78-06",
+    "nom": "Moulin de Turley (Arroyo Hondo) : William LeBlanc s'échappe par le mur (janvier 1847)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1847.049,
+    "fin": 1847.052,
+    "date_edtf": "1847-01-19/1847-01-20",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "William LeBlanc",
+     "Tom Autobees",
+     "Simeon Turley"
+    ],
+    "description": "Pendant la révolte de Taos, les assaillants incendient la distillerie de Simeon Turley. Turley, William LeBlanc et Tom Autobees s'échappent de nuit en perçant le mur d'adobe ; Tom gagne Santa Fe et LeBlanc Greenhorn, mais Turley, boiteux, est rattrapé et tué. LeBlanc avait été l'un des fondateurs français du poste de Buzzards' Roost, sur l'Adobe Creek.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 106 et 194.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "LC78-07",
+    "nom": "Santa Fe : les Canadiens de l'Arkansas dans la compagnie de Ceran St. Vrain (janvier 1847)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1847.0,
+    "fin": 1847.0,
+    "date_edtf": "1847-01",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Ceran St. Vrain",
+     "Antoine Cournoyer",
+     "Jean-Baptiste Chalifoux",
+     "Baptiste Sabourin",
+     "Charles Autobees",
+     "Tom Autobees"
+    ],
+    "description": "Plusieurs hommes du haut Arkansas, dont Antoine Cournoyer, Baptiste Charlefou (Chalifoux), Baptiste Sabourin (« Sabowrain »), Charles et Tom Autobees, servent comme simples soldats dans la compagnie de volontaires levée à Santa Fe par Ceran St. Vrain pour réprimer la révolte de Taos.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 195.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.06,
+     38.36
+    ]
+   },
+   "properties": {
+    "id": "LC78-08",
+    "nom": "Hardscrabble : les étrangers dénoncés par le général García Condé (1845-1846)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1845.667,
+    "fin": 1846.333,
+    "date_edtf": "1845-09/1846-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Luis Lachoné",
+     "Baptiste Sabourin"
+    ],
+    "description": "À l'automne 1845, l'inspecteur militaire Francisco García Condé découvre des étrangers établis sans droit à Hardscrabble (Peñasco Amarillo), sur la concession Beaubien-Miranda et à La Junta de los Ríos ; sa liste nomme notamment Luis Lachoné, fils de Santiago Lachoné et d'Elena Varon (ou Bisonette), de Saint-Louis, marié à Taos en 1841. Les colons, sommés de présenter leurs titres à Taos avant le 26 octobre, ne viennent pas. Fin janvier 1846, Baptiste Sabourin et un autre homme de Hardscrabble sont « dénoncés » à leur arrivée à Taos.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 151-152 et 305, n. 18.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.965,
+     36.209
+    ]
+   },
+   "properties": {
+    "id": "LC78-09",
+    "nom": "Embudo : baptême des enfants Lacroix, fils et fille d'un chasseur canadien disparu (v. 1845-1847)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1845.0,
+    "fin": 1847.999,
+    "date_edtf": "1845~/1847~",
     "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Lacroix",
+     "Mary Lacroix",
+     "María Salazar"
+    ],
+    "description": "Baptiste Lacroix (né vers 1845) et sa sœur Mary (vers 1847), nés au Pueblo, sont les enfants d'un chasseur canadien-français qui guida un convoi d'émigrants vers la Californie et ne revint jamais. Leur mère, María Salazar, en partie indienne, les porte à Embudo pour le baptême, faute de prêtre à Taos. Baptiste raconte cette histoire à Cragin à Mora en 1908.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 288, n. 15.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     40.28
+    ]
+   },
+   "properties": {
+    "id": "LC78-10",
+    "nom": "Platte du Sud : Baptiste Charbonneau et ses bateaux de peaux échoués (1842)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1842.333,
+    "fin": 1842.522,
+    "date_edtf": "1842-05/1842-07-09",
+    "precision": "mois",
     "certitude": "hypothetique",
     "personnages": [
-     "Jean-Baptiste Chalifoux"
+     "Jean-Baptiste Charbonneau",
+     "Jim Beckwourth"
     ],
-    "description": "La tradition locale fait d'un « Baptiste Brown »",
-    "sources": "Atlas Chalifoux, fiche L46 (M. Athearn, An Isolated Empire: A History of Northwest Colorado (BLM, Colorado State Office, 1977 ; rééd. 1982), ch. 2 ; W. L. Tennent, John Jarvie of Brown's Park (BLM, Utah, 1981), p. 13-14 et n. 9 ; J. Lecompte, « Jean-Baptiste Chalifoux », dans L. R. Hafen (dir.), French Fur Traders and Voyageurs in the American West (1995), p. 58-75 (repris de The Mountain Men and the Fur Trade of the Far West, vol. 7).)",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L46",
-      "texte": "Fiche complète dans l'Atlas Chalifoux →"
-     }
+    "description": "Au printemps 1842, Baptiste Charbonneau descend du fort St. Vrain des bull-boats chargés de fourrures, mais les eaux trop basses de la Platte du Sud les échouent. Il passe l'été sur une île de la rivière, où Jim Beckwourth et Louise Sandoval le rejoignent et où Frémont le rencontre le 9 juillet 1842. En 1844, il chasse encore les mouflons pour la ménagerie des Sublette avec Marcellin St. Vrain et Seth Ward (« Ward & Shavano »).",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 23, 128 et 282, n. 13.",
+    "note": "Île non localisée, en aval du fort St. Vrain."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.55,
+     38.18
     ]
+   },
+   "properties": {
+    "id": "LC78-11",
+    "nom": "Gué de la Saint-Charles : la ferme d'Autobees et de Labonte (été 1847)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1847.333,
+    "fin": 1847.75,
+    "date_edtf": "1847-05/1847-10",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Autobees",
+     "Tom Autobees",
+     "Labonte",
+     "Pascual Rivière"
+    ],
+    "description": "À l'été 1847, au passage de la piste sur la rivière Saint-Charles, à neuf milles au sud du Pueblo, Charles et Tom Autobees, Blackhawk (Pascual Rivière), Labonte et Levin Mitchell cultivent maïs et citrouilles.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 198 et 317, n. 4.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917,
+     38.859
+    ]
+   },
+   "properties": {
+    "id": "LC78-12",
+    "nom": "Fontaine qui bouille : les noms français de la vallée de l'Arkansas",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1820.0,
+    "fin": 1859.999,
+    "date_edtf": "1820~/1859",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Fountain Creek doit son nom aux deux sources minérales bouillonnantes de l'actuelle Manitou : « Fontaine qui bouille » (ou « qui bouit »). Lecompte souligne que les trois grandes rivières au nord de Santa Fe, Río Napestle (Arkansas), Río Almagre (Fontaine qui bouille) et Río Chato (Platte du Sud), ont perdu leurs noms indiens et espagnols pour garder ceux que les Français leur avaient donnés. Luz Metcalf se souvenait d'avoir fait du pain avec l'eau gazeuse des sources.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 8, 34 et 135.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.595,
+     36.704
+    ]
+   },
+   "properties": {
+    "id": "LC78-13",
+    "nom": "Río Colorado (Questa) : le convoi d'Autobees vers les Big Timbers (février 1853)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1853.083,
+    "fin": 1853.083,
+    "date_edtf": "1853-02",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Autobees",
+     "William LeBlanc",
+     "Jean-Baptiste Beaubien",
+     "William Kroenig"
+    ],
+    "description": "Vers le 1er février 1853, Charles Autobees, établi à Río Colorado depuis l'incendie du moulin de Turley, part avec soixante mulets et vingt-cinq hommes, dont William LeBlanc, William Kroenig, Marcelino Baca et J.-B. Beaubien, neveu du marchand de Taos, porter des vivres aux Arapahos affamés des Big Timbers. La neige du col de Sangre de Cristo les retient huit jours sur dix milles.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 229.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.95,
+     37.95
+    ]
+   },
+   "properties": {
+    "id": "LC78-14",
+    "nom": "Greenhorn : William LeBlanc et Kroenig sèment (printemps 1853)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1853.167,
+    "fin": 1853.385,
+    "date_edtf": "1853-03/1853-05-20",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "William LeBlanc",
+     "William Kroenig",
+     "Marcelino Baca"
+    ],
+    "description": "Au retour des Big Timbers, Marcelino Baca et Montoya invitent les traiteurs à passer l'été à Greenhorn, où les fossés, maisons et corrals sont en bon état. William LeBlanc et William Kroenig acceptent ; LeBlanc repart au printemps pour Río Colorado, Kroenig sème seul maïs, haricots et blé avec six péons.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 229.",
+    "note": ""
    }
   },
   {
@@ -140360,6 +140662,10 @@
      {
       "url": "https://archive.org/details/lescanadiensdelo01tassuoft/page/97/mode/1up?q=CHALIFOUX",
       "texte": "Lire Tassé (1878) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L32",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -183758,6 +184064,10 @@
      {
       "url": "https://archive.org/details/lapremirecanadi00duga/page/33/mode/1up?q=CHALIFOUX",
       "texte": "Lire Dugas (1883) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L36",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -183792,6 +184102,10 @@
      {
       "url": "https://archive.org/details/lapremirecanadi00duga/page/33/mode/1up?q=CHALIFOUX",
       "texte": "Lire Dugas (1883) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L37",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -191068,6 +191382,10 @@
      {
       "url": "https://archive.org/details/historyofmissour02houc/page/100/mode/1up?q=CHALIFOUX",
       "texte": "Lire Houck (1908), vol. 2 sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L31",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -245978,6 +246296,10 @@
      {
       "url": "https://archive.org/details/cihm_30414/page/395/mode/1up?q=CHALIFOUX",
       "texte": "Lire Masson (1889) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L35",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -668734,6 +669056,10 @@
      {
       "url": "https://archive.org/details/histnewmexico00prin?q=CHALIFOUX",
       "texte": "Lire Prince, Historical Sketches of New Mexico (1883) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L27",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -700218,6 +700544,10 @@
      {
       "url": "https://archive.org/details/worksofhuberthow19bancrich?q=CHARLEFOUX",
       "texte": "Lire Bancroft, California II (1885) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L28",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -740916,6 +741246,10 @@
      {
       "url": "https://archive.org/details/centennialhistor01gast/page/177/mode/1up?q=CHALIFOUX",
       "texte": "Lire Gaston, Centennial History I (1912) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L41",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -778826,6 +779160,10 @@
      {
       "url": "https://journals.lib.washington.edu/index.php/WHQ",
       "texte": "Lire Washington Historical Quarterly, 1906-1928 (articles choisis) (transcription en ligne) →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L43",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -781784,6 +782122,10 @@
      {
       "url": "https://journals.lib.washington.edu/index.php/WHQ/article/view/5247/4323",
       "texte": "Lire l'article (PDF) du Washington Historical Quarterly →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L38",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -781852,6 +782194,10 @@
      {
       "url": "https://journals.lib.washington.edu/index.php/WHQ/article/view/5247/4323",
       "texte": "Lire l'article (PDF) du Washington Historical Quarterly →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L39",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -781886,6 +782232,10 @@
      {
       "url": "https://journals.lib.washington.edu/index.php/WHQ/article/view/5247/4323",
       "texte": "Lire l'article (PDF) du Washington Historical Quarterly →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L40",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -789842,6 +790192,10 @@
      {
       "url": "https://www.historycolorado.org/back-issues",
       "texte": "Lire Colorado Magazine XXXI-XXXVI (1954-1959) (transcription en ligne) →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L29",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -789910,6 +790264,10 @@
      {
       "url": "https://www.historycolorado.org/back-issues",
       "texte": "Lire Colorado Magazine XXXI-XXXVI (1954-1959) (transcription en ligne) →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L30",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -883852,6 +884210,10 @@
      {
       "url": "https://archive.org/details/collectionsstat03unkngoog/page/242/mode/1up?q=CHALIFOUX",
       "texte": "Lire Grignon, Seventy-two Years Recollections of Wisconsin (WHC III, 1857) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L33",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -888408,6 +888770,10 @@
      {
       "url": "https://archive.org/details/collectionsofsta0000lyma/page/138/mode/1up?q=CHALIFOUX",
       "texte": "Lire Habitants de Green Bay en 1818 (WHC X) sur archive.org →"
+     },
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L34",
+      "texte": "Voir dans l'Atlas Chalifoux →"
      }
     ]
    }
@@ -1059301,1366 +1059667,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -73.554,
-     45.503
-    ]
-   },
-   "properties": {
-    "id": "I-L01",
-    "nom": "Ville-Marie",
-    "corpus": "Atlas Iberville",
-    "theme": "famille",
-    "debut": 1661.5479,
-    "fin": 1661.5479,
-    "date_edtf": "1661-07-20",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Pierre Le Moyne d'Iberville, troisième des quatorze enfants de Charles Le Moyne et de Catherine Primot, est baptisé à Ville-Marie le 20 juillet 1661.",
-    "sources": "Atlas Iberville, fiche L01 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L01",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -79.66,
-     48.67
-    ]
-   },
-   "properties": {
-    "id": "I-L02",
-    "nom": "Poste du lac Abitibi",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1686.4192,
-    "fin": 1686.4329,
-    "date_edtf": "1686-06~",
-    "precision": "circa",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Partie de Montréal le 30 mars 1686, la petite troupe du chevalier de Troyes remonte l'Outaouais, traverse le lac Témiscamingue et gagne la rivière Abitibi.",
-    "sources": "Atlas Iberville, fiche L02 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L02",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -80.6065,
-     51.261
-    ]
-   },
-   "properties": {
-    "id": "I-L03",
-    "nom": "Fort Monsipi (Moose)",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1686.4658,
-    "fin": 1686.4685,
-    "date_edtf": "1686-06-20/1686-06-21",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le fort anglais de la rivière Moose (appelé Monsoni, Monsipi ou Saint-Louis par les Français, aujourd'hui Moose Factory) est un vrai fortin palissadé à quatre bastions.",
-    "sources": "Atlas Iberville, fiche L03 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L03",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -78.757,
-     51.492
-    ]
-   },
-   "properties": {
-    "id": "I-L04",
-    "nom": "Fort Rupert",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1686.5014,
-    "fin": 1686.5178,
-    "date_edtf": "1686-07-03",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 3 juillet 1686 à l'aube, deux attaques ont lieu en même temps : Sainte-Hélène et le chevalier de Troyes enlèvent le fort Rupert, tandis qu'Iberville, en canot, aborde et capture le navire anglais mouillé devant la …",
-    "sources": "Atlas Iberville, fiche L04 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L04",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -81.62,
-     52.2
-    ]
-   },
-   "properties": {
-    "id": "I-L05",
-    "nom": "Fort Sainte-Anne (Albany, Quichichouane)",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1686.5644,
-    "fin": 1687.5808,
-    "date_edtf": "1686-07-26",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le principal établissement anglais de la baie James capitule le 26 juillet 1686 après un bombardement mis en scène par le chevalier de Troyes.",
-    "sources": "Atlas Iberville, fiche L05 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L05",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -81.565,
-     52.235
-    ]
-   },
-   "properties": {
-    "id": "I-L06",
-    "nom": "Fort Sainte-Anne : siège de 1688-1689",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1688.7213,
-    "fin": 1689.6959,
-    "date_edtf": "1688-09-21/1689-09-12",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Revenu à la baie James sur le Soleil d'Afrique, Iberville arrive au fort Sainte-Anne le 21 septembre 1688.",
-    "sources": "Atlas Iberville, fiche L06 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L06",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -73.944,
-     42.815
-    ]
-   },
-   "properties": {
-    "id": "I-L07",
-    "nom": "Schenectady (Corlar)",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1690.1315,
-    "fin": 1690.1342,
-    "date_edtf": "1690-02-18/1690-02-19",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Six mois après le massacre de Lachine, Frontenac lance trois partis contre les colonies anglaises.",
-    "sources": "Atlas Iberville, fiche L07 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L07",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -65.1,
-     48.05
-    ]
-   },
-   "properties": {
-    "id": "I-L08",
-    "nom": "Fief de la baie des Chaleurs",
-    "corpus": "Atlas Iberville",
-    "theme": "etablissement",
-    "debut": 1690.3973,
-    "fin": 1690.4027,
-    "date_edtf": "1690-05-26",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 26 mai 1690, Frontenac concède à Iberville un immense fief de douze lieues de front sur la baie des Chaleurs.",
-    "sources": "Atlas Iberville, fiche L08 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L08",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -87.64,
-     56.0
-    ]
-   },
-   "properties": {
-    "id": "I-L09",
-    "nom": "Fort Severn (Nieu Savanne)",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1690.6466,
-    "fin": 1690.6466,
-    "date_edtf": "1690-08-25",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Trouvant le fort Nelson défendu par trois navires et un brûlot, Iberville renonce à l'attaquer et se rabat sur le fort Severn, poste secondaire à une cinquantaine de lieues au sud.",
-    "sources": "Atlas Iberville, fiche L09 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L09",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -69.52,
-     43.87
-    ]
-   },
-   "properties": {
-    "id": "I-L10",
-    "nom": "Pemaquid : tentative de 1692",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1692.8142,
-    "fin": 1692.8607,
-    "date_edtf": "1692-10~/1692-11-11",
-    "precision": "circa",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Avec le Poly et l'Envieux, Iberville et Bonaventure doivent surprendre le fort anglais de Pemaquid.",
-    "sources": "Atlas Iberville, fiche L10 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L10",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -71.2075,
-     46.813
-    ]
-   },
-   "properties": {
-    "id": "I-L11",
-    "nom": "Québec : mariage",
-    "corpus": "Atlas Iberville",
-    "theme": "personnage",
-    "debut": 1693.7671,
-    "fin": 1693.7671,
-    "date_edtf": "1693-10-08",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 8 octobre 1693, Iberville passe son contrat de mariage avec Marie-Thérèse Pollet de La Combe-Pocatière.",
-    "sources": "Atlas Iberville, fiche L11 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L11",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.961,
-     45.937
-    ]
-   },
-   "properties": {
-    "id": "I-L12",
-    "nom": "Rochefort",
-    "corpus": "Atlas Iberville",
-    "theme": "poste",
-    "debut": 1694.3671,
-    "fin": 1694.3671,
-    "date_edtf": "1694-05-15",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Grand arsenal de la Marine. Après des semaines d'attente (« On me remet de jour en jour », se plaint-il), Iberville en part le 15 mai 1694 avec le Poly, la Salamandre et douze bateaux de pêche pour aller chasser les …",
-    "sources": "Atlas Iberville, fiche L12 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L12",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -92.3,
-     57.0
-    ]
-   },
-   "properties": {
-    "id": "I-L13",
-    "nom": "Fort Nelson (York) : prise de 1694",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1694.7836,
-    "fin": 1695.5699,
-    "date_edtf": "1694-10-14",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Les navires partis de Québec le 10 août atteignent l'embouchure de la rivière Nelson dans la nuit du 21 au 22 septembre 1694.",
-    "sources": "Atlas Iberville, fiche L13 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L13",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.152,
-     46.156
-    ]
-   },
-   "properties": {
-    "id": "I-L14",
-    "nom": "La Rochelle",
-    "corpus": "Atlas Iberville",
-    "theme": "poste",
-    "debut": 1695.8137,
-    "fin": 1706.0493,
-    "date_edtf": "1695-10/1706-01-19",
-    "precision": "mois",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Port d'attache des expéditions d'Iberville.",
-    "sources": "Atlas Iberville, fiche L14 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L14",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -60.19,
-     46.15
-    ]
-   },
-   "properties": {
-    "id": "I-L15",
-    "nom": "Baie des Espagnols (Sydney)",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1696.4863,
-    "fin": 1696.4973,
-    "date_edtf": "1696-06-27",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Partie de France avec l'Envieux, le Profond et le Wesp, la flottille d'Iberville mouille le 27 juin 1696 dans la baie des Espagnols, aujourd'hui le port de Sydney, en Nouvelle-Écosse.",
-    "sources": "Atlas Iberville, fiche L15 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L15",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -66.1,
-     45.17
-    ]
-   },
-   "properties": {
-    "id": "I-L16",
-    "nom": "Combat de la rivière Saint-Jean",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1696.5328,
-    "fin": 1696.5328,
-    "date_edtf": "1696-07-14",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Près de l'embouchure de la rivière Saint-Jean, l'Envieux et le Profond tombent sur trois navires anglais venus de Boston.",
-    "sources": "Atlas Iberville, fiche L16 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L16",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -69.507,
-     43.8805
-    ]
-   },
-   "properties": {
-    "id": "I-L17",
-    "nom": "Pemaquid (fort William Henry)",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1696.6202,
-    "fin": 1696.6257,
-    "date_edtf": "1696-08-15/1696-08-17",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le « boulevard du Maine », fort de pierre réputé imprenable.",
-    "sources": "Atlas Iberville, fiche L17 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L17",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -53.97,
-     47.245
-    ]
-   },
-   "properties": {
-    "id": "I-L18",
-    "nom": "Plaisance",
-    "corpus": "Atlas Iberville",
-    "theme": "poste",
-    "debut": 1696.6967,
-    "fin": 1697.5151,
-    "date_edtf": "1696-09-12",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Capitale de la Terre-Neuve française. Iberville y entre le 12 septembre 1696 et s'y heurte à l'hostilité du gouverneur Brouillan. Il en part le 1er novembre pour la campagne d'hiver, y revient le 4 mars 1697 et y …",
-    "sources": "Atlas Iberville, fiche L18 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L18",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -52.885,
-     47.02
-    ]
-   },
-   "properties": {
-    "id": "I-L19",
-    "nom": "Ferryland (le Forillon)",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1696.8743,
-    "fin": 1696.9016,
-    "date_edtf": "1696-11-16",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Après une marche épuisante de dix jours à travers la presqu'île d'Avalon, en raquettes, les Canadiens d'Iberville se cantonnent à Ferryland, où Brouillan les rejoint le 21 novembre.",
-    "sources": "Atlas Iberville, fiche L19 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L19",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -52.71,
-     47.565
-    ]
-   },
-   "properties": {
-    "id": "I-L20",
-    "nom": "Saint-Jean de Terre-Neuve",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1696.9126,
-    "fin": 1696.9781,
-    "date_edtf": "1696-11-30",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Principale place anglaise de Terre-Neuve.",
-    "sources": "Atlas Iberville, fiche L20 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L20",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -53.22,
-     47.73
-    ]
-   },
-   "properties": {
-    "id": "I-L21",
-    "nom": "Baie de la Conception (Carbonear)",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1697.0658,
-    "fin": 1697.2356,
-    "date_edtf": "1697-01-25/1697-03",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Tout l'hiver, Iberville et ses lieutenants ravagent les établissements anglais de la côte : Brigus est pris le 25 janvier 1697, Harbour Grace incendié trois jours plus tard.",
-    "sources": "Atlas Iberville, fiche L21 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L21",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -91.9,
-     57.26
-    ]
-   },
-   "properties": {
-    "id": "I-L22",
-    "nom": "Combat du Pélican",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1697.6767,
-    "fin": 1697.6767,
-    "date_edtf": "1697-09-05",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 5 septembre 1697 à l'aube, le Pélican, isolé du reste de l'escadre par les glaces, se trouve face à trois navires anglais.",
-    "sources": "Atlas Iberville, fiche L22 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L22",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -92.25,
-     56.98
-    ]
-   },
-   "properties": {
-    "id": "I-L23",
-    "nom": "Fort Nelson : seconde prise",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1697.6986,
-    "fin": 1697.7288,
-    "date_edtf": "1697-09-13",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Repris par les Anglais en 1696, le fort Nelson est de nouveau assiégé.",
-    "sources": "Atlas Iberville, fiche L23 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L23",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -4.486,
-     48.38
-    ]
-   },
-   "properties": {
-    "id": "I-L24",
-    "nom": "Brest",
-    "corpus": "Atlas Iberville",
-    "theme": "poste",
-    "debut": 1698.7644,
-    "fin": 1698.811,
-    "date_edtf": "1698-10-24",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Partie de La Rochelle le 5 septembre 1698 avec la Badine, le Marin et deux traversiers, la flottille fait escale à Brest le 7 octobre.",
-    "sources": "Atlas Iberville, fiche L24 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L24",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -72.2,
-     19.76
-    ]
-   },
-   "properties": {
-    "id": "I-L25",
-    "nom": "Cap-Français (Saint-Domingue)",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1698.9233,
-    "fin": 1699.0,
-    "date_edtf": "1698-12-04",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Iberville jette l'ancre au Cap-Français le 4 décembre 1698.",
-    "sources": "Atlas Iberville, fiche L25 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L25",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -87.3,
-     30.35
-    ]
-   },
-   "properties": {
-    "id": "I-L26",
-    "nom": "Santa María de Galve (Pensacola)",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1699.0685,
-    "fin": 1699.0795,
-    "date_edtf": "1699-01-26",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 26 janvier 1699, l'escadre française paraît devant le poste espagnol tout juste fondé par Arriola.",
-    "sources": "Atlas Iberville, fiche L26 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L26",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -89.25,
-     29.15
-    ]
-   },
-   "properties": {
-    "id": "I-L27",
-    "nom": "Embouchure du Mississippi",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1699.1644,
-    "fin": 1699.1644,
-    "date_edtf": "1699-03-02",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Parti le 27 février en chaloupes avec Sauvolle, le père Anastase et 48 hommes, Iberville découvre presque par hasard, le 2 mars 1699, la « rivière de la Palissade »",
-    "sources": "Atlas Iberville, fiche L27 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L27",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -91.24,
-     30.26
-    ]
-   },
-   "properties": {
-    "id": "I-L28",
-    "nom": "Village des Bayagoulas",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1699.1945,
-    "fin": 1699.1973,
-    "date_edtf": "1699-03-13~",
-    "precision": "circa",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "En remontant le fleuve, Iberville atteint vers le 13 mars le village des Bayagoulas, à une soixantaine de lieues de la mer.",
-    "sources": "Atlas Iberville, fiche L28 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L28",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -91.58,
-     30.95
-    ]
-   },
-   "properties": {
-    "id": "I-L29",
-    "nom": "Village des Oumas",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1699.2137,
-    "fin": 1699.2192,
-    "date_edtf": "1699-03-20",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 20 mars 1699, Iberville arrive chez les Oumas (Houmas), le point le plus haut atteint lors de ce premier voyage.",
-    "sources": "Atlas Iberville, fiche L29 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L29",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -88.827,
-     30.399
-    ]
-   },
-   "properties": {
-    "id": "I-L30",
-    "nom": "Fort Maurepas (Biloxi)",
-    "corpus": "Atlas Iberville",
-    "theme": "etablissement",
-    "debut": 1699.2658,
-    "fin": 1702.0,
-    "date_edtf": "1699-04-08",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "De retour à ses navires le 31 mars, Iberville choisit la baie de Biloxi pour y bâtir un poste temporaire.",
-    "sources": "Atlas Iberville, fiche L30 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L30",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -89.64,
-     29.61
-    ]
-   },
-   "properties": {
-    "id": "I-L31",
-    "nom": "Fort du Mississippi",
-    "corpus": "Atlas Iberville",
-    "theme": "etablissement",
-    "debut": 1700.0849,
-    "fin": 1700.2438,
-    "date_edtf": "1700-02",
-    "precision": "mois",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Revenu à Biloxi le 8 janvier 1700, Iberville fait construire un fort sur le Mississippi même, pour en barrer l'accès aux Anglais.",
-    "sources": "Atlas Iberville, fiche L31 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L31",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -91.38,
-     31.53
-    ]
-   },
-   "properties": {
-    "id": "I-L32",
-    "nom": "Village des Natchez",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1700.189,
-    "fin": 1700.1918,
-    "date_edtf": "1700-03-11",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Remontant le fleuve avec Tonti, Iberville arrive chez les Natchez le 11 mars 1700.",
-    "sources": "Atlas Iberville, fiche L32 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L32",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -91.24,
-     31.96
-    ]
-   },
-   "properties": {
-    "id": "I-L33",
-    "nom": "Village des Taensas",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1700.1945,
-    "fin": 1700.2055,
-    "date_edtf": "1700-03-13",
-    "precision": "jour",
-    "certitude": "approximative",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Point extrême du deuxième voyage, atteint le 13 mars 1700.",
-    "sources": "Atlas Iberville, fiche L33 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L33",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -74.013,
-     40.704
-    ]
-   },
-   "properties": {
-    "id": "I-L34",
-    "nom": "New York",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1700.4795,
-    "fin": 1700.5397,
-    "date_edtf": "1700-07",
-    "precision": "mois",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Parti de Biloxi le 28 mai 1700, Iberville fait une escale de près de trois semaines à New York, où il souffre d'une attaque de fièvre.",
-    "sources": "Atlas Iberville, fiche L34 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L34",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -72.63,
-     18.51
-    ]
-   },
-   "properties": {
-    "id": "I-L35",
-    "nom": "Saint-Domingue (cacaoyère)",
-    "corpus": "Atlas Iberville",
-    "theme": "personnage",
-    "debut": 1701.8493,
-    "fin": 1706.3726,
-    "date_edtf": "1701-11-07",
-    "precision": "jour",
-    "certitude": "hypothetique",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Iberville arrive à Saint-Domingue le 7 novembre 1701.",
-    "sources": "Atlas Iberville, fiche L35 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L35",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -88.11,
-     30.25
-    ]
-   },
-   "properties": {
-    "id": "I-L36",
-    "nom": "Île Massacre (île Dauphine)",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1702.137,
-    "fin": 1702.1589,
-    "date_edtf": "1702-02",
-    "precision": "mois",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Gravement malade à Pensacola, Iberville ne se remet sur pied que le 15 février 1702.",
-    "sources": "Atlas Iberville, fiche L36 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L36",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -88.02,
-     30.95
-    ]
-   },
-   "properties": {
-    "id": "I-L37",
-    "nom": "Fort Louis de la Mobile",
-    "corpus": "Atlas Iberville",
-    "theme": "etablissement",
-    "debut": 1702.1671,
-    "fin": 1702.2438,
-    "date_edtf": "1702-03-03",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Le 3 mars 1702, Iberville arrive à l'endroit où Bienville fait construire le nouveau fort, sur un coteau au bord de la rivière Mobile.",
-    "sources": "Atlas Iberville, fiche L37 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L37",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -61.07,
-     14.6
-    ]
-   },
-   "properties": {
-    "id": "I-L38",
-    "nom": "Martinique",
-    "corpus": "Atlas Iberville",
-    "theme": "exploration",
-    "debut": 1706.1836,
-    "fin": 1706.2301,
-    "date_edtf": "1706-03-09",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Partie de La Rochelle le 19 janvier 1706, la division d'Iberville atteint la Martinique le 9 mars.",
-    "sources": "Atlas Iberville, fiche L38 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L38",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -62.62,
-     17.14
-    ]
-   },
-   "properties": {
-    "id": "I-L39",
-    "nom": "Nevis",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1706.2466,
-    "fin": 1706.3041,
-    "date_edtf": "1706-04-01/1706-04-22",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Iberville arrive devant Nevis le 1er avril 1706 et s'empare de l'île.",
-    "sources": "Atlas Iberville, fiche L39 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L39",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -82.35,
-     23.14
-    ]
-   },
-   "properties": {
-    "id": "I-L40",
-    "nom": "La Havane",
-    "corpus": "Atlas Iberville",
-    "theme": "evenement",
-    "debut": 1706.5178,
-    "fin": 1706.5178,
-    "date_edtf": "1706-07-09",
-    "precision": "jour",
-    "certitude": "certaine",
-    "personnages": [
-     "Pierre Le Moyne d'Iberville"
-    ],
-    "description": "Iberville connaissait La Havane, où il avait fait escale en mai 1702.",
-    "sources": "Atlas Iberville, fiche L40 (d'après Frégault, Iberville le conquérant, 1944).",
-    "note": "",
-    "renvoi": true,
-    "voir_aussi": [
-     {
-      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L40",
-      "texte": "Fiche complète dans l'Atlas Iberville →"
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -71.2066,
      46.8128
     ]
@@ -1062225,6 +1061231,1366 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.554,
+     45.503
+    ]
+   },
+   "properties": {
+    "id": "I-L01",
+    "nom": "Ville-Marie",
+    "corpus": "Atlas Iberville",
+    "theme": "famille",
+    "debut": 1661.5479,
+    "fin": 1661.5479,
+    "date_edtf": "1661-07-20",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Pierre Le Moyne d'Iberville, troisième des quatorze enfants de Charles Le Moyne et de Catherine Primot, est baptisé à Ville-Marie le 20 juillet 1661.",
+    "sources": "Atlas Iberville, fiche L01 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L01",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.66,
+     48.67
+    ]
+   },
+   "properties": {
+    "id": "I-L02",
+    "nom": "Poste du lac Abitibi",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1686.4192,
+    "fin": 1686.4329,
+    "date_edtf": "1686-06~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Partie de Montréal le 30 mars 1686, la petite troupe du chevalier de Troyes remonte l'Outaouais, traverse le lac Témiscamingue et gagne la rivière Abitibi.",
+    "sources": "Atlas Iberville, fiche L02 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L02",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.6065,
+     51.261
+    ]
+   },
+   "properties": {
+    "id": "I-L03",
+    "nom": "Fort Monsipi (Moose)",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1686.4658,
+    "fin": 1686.4685,
+    "date_edtf": "1686-06-20/1686-06-21",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le fort anglais de la rivière Moose (appelé Monsoni, Monsipi ou Saint-Louis par les Français, aujourd'hui Moose Factory) est un vrai fortin palissadé à quatre bastions.",
+    "sources": "Atlas Iberville, fiche L03 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L03",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.757,
+     51.492
+    ]
+   },
+   "properties": {
+    "id": "I-L04",
+    "nom": "Fort Rupert",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1686.5014,
+    "fin": 1686.5178,
+    "date_edtf": "1686-07-03",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 3 juillet 1686 à l'aube, deux attaques ont lieu en même temps : Sainte-Hélène et le chevalier de Troyes enlèvent le fort Rupert, tandis qu'Iberville, en canot, aborde et capture le navire anglais mouillé devant la …",
+    "sources": "Atlas Iberville, fiche L04 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L04",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.62,
+     52.2
+    ]
+   },
+   "properties": {
+    "id": "I-L05",
+    "nom": "Fort Sainte-Anne (Albany, Quichichouane)",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1686.5644,
+    "fin": 1687.5808,
+    "date_edtf": "1686-07-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le principal établissement anglais de la baie James capitule le 26 juillet 1686 après un bombardement mis en scène par le chevalier de Troyes.",
+    "sources": "Atlas Iberville, fiche L05 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L05",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.565,
+     52.235
+    ]
+   },
+   "properties": {
+    "id": "I-L06",
+    "nom": "Fort Sainte-Anne : siège de 1688-1689",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1688.7213,
+    "fin": 1689.6959,
+    "date_edtf": "1688-09-21/1689-09-12",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Revenu à la baie James sur le Soleil d'Afrique, Iberville arrive au fort Sainte-Anne le 21 septembre 1688.",
+    "sources": "Atlas Iberville, fiche L06 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L06",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944,
+     42.815
+    ]
+   },
+   "properties": {
+    "id": "I-L07",
+    "nom": "Schenectady (Corlar)",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1690.1315,
+    "fin": 1690.1342,
+    "date_edtf": "1690-02-18/1690-02-19",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Six mois après le massacre de Lachine, Frontenac lance trois partis contre les colonies anglaises.",
+    "sources": "Atlas Iberville, fiche L07 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L07",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.1,
+     48.05
+    ]
+   },
+   "properties": {
+    "id": "I-L08",
+    "nom": "Fief de la baie des Chaleurs",
+    "corpus": "Atlas Iberville",
+    "theme": "etablissement",
+    "debut": 1690.3973,
+    "fin": 1690.4027,
+    "date_edtf": "1690-05-26",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 26 mai 1690, Frontenac concède à Iberville un immense fief de douze lieues de front sur la baie des Chaleurs.",
+    "sources": "Atlas Iberville, fiche L08 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L08",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.64,
+     56.0
+    ]
+   },
+   "properties": {
+    "id": "I-L09",
+    "nom": "Fort Severn (Nieu Savanne)",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1690.6466,
+    "fin": 1690.6466,
+    "date_edtf": "1690-08-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Trouvant le fort Nelson défendu par trois navires et un brûlot, Iberville renonce à l'attaquer et se rabat sur le fort Severn, poste secondaire à une cinquantaine de lieues au sud.",
+    "sources": "Atlas Iberville, fiche L09 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L09",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.52,
+     43.87
+    ]
+   },
+   "properties": {
+    "id": "I-L10",
+    "nom": "Pemaquid : tentative de 1692",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1692.8142,
+    "fin": 1692.8607,
+    "date_edtf": "1692-10~/1692-11-11",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Avec le Poly et l'Envieux, Iberville et Bonaventure doivent surprendre le fort anglais de Pemaquid.",
+    "sources": "Atlas Iberville, fiche L10 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L10",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2075,
+     46.813
+    ]
+   },
+   "properties": {
+    "id": "I-L11",
+    "nom": "Québec : mariage",
+    "corpus": "Atlas Iberville",
+    "theme": "personnage",
+    "debut": 1693.7671,
+    "fin": 1693.7671,
+    "date_edtf": "1693-10-08",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 8 octobre 1693, Iberville passe son contrat de mariage avec Marie-Thérèse Pollet de La Combe-Pocatière.",
+    "sources": "Atlas Iberville, fiche L11 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L11",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.961,
+     45.937
+    ]
+   },
+   "properties": {
+    "id": "I-L12",
+    "nom": "Rochefort",
+    "corpus": "Atlas Iberville",
+    "theme": "poste",
+    "debut": 1694.3671,
+    "fin": 1694.3671,
+    "date_edtf": "1694-05-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Grand arsenal de la Marine. Après des semaines d'attente (« On me remet de jour en jour », se plaint-il), Iberville en part le 15 mai 1694 avec le Poly, la Salamandre et douze bateaux de pêche pour aller chasser les …",
+    "sources": "Atlas Iberville, fiche L12 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L12",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.3,
+     57.0
+    ]
+   },
+   "properties": {
+    "id": "I-L13",
+    "nom": "Fort Nelson (York) : prise de 1694",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1694.7836,
+    "fin": 1695.5699,
+    "date_edtf": "1694-10-14",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Les navires partis de Québec le 10 août atteignent l'embouchure de la rivière Nelson dans la nuit du 21 au 22 septembre 1694.",
+    "sources": "Atlas Iberville, fiche L13 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L13",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.152,
+     46.156
+    ]
+   },
+   "properties": {
+    "id": "I-L14",
+    "nom": "La Rochelle",
+    "corpus": "Atlas Iberville",
+    "theme": "poste",
+    "debut": 1695.8137,
+    "fin": 1706.0493,
+    "date_edtf": "1695-10/1706-01-19",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Port d'attache des expéditions d'Iberville.",
+    "sources": "Atlas Iberville, fiche L14 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L14",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.19,
+     46.15
+    ]
+   },
+   "properties": {
+    "id": "I-L15",
+    "nom": "Baie des Espagnols (Sydney)",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1696.4863,
+    "fin": 1696.4973,
+    "date_edtf": "1696-06-27",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Partie de France avec l'Envieux, le Profond et le Wesp, la flottille d'Iberville mouille le 27 juin 1696 dans la baie des Espagnols, aujourd'hui le port de Sydney, en Nouvelle-Écosse.",
+    "sources": "Atlas Iberville, fiche L15 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L15",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.1,
+     45.17
+    ]
+   },
+   "properties": {
+    "id": "I-L16",
+    "nom": "Combat de la rivière Saint-Jean",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1696.5328,
+    "fin": 1696.5328,
+    "date_edtf": "1696-07-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Près de l'embouchure de la rivière Saint-Jean, l'Envieux et le Profond tombent sur trois navires anglais venus de Boston.",
+    "sources": "Atlas Iberville, fiche L16 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L16",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.507,
+     43.8805
+    ]
+   },
+   "properties": {
+    "id": "I-L17",
+    "nom": "Pemaquid (fort William Henry)",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1696.6202,
+    "fin": 1696.6257,
+    "date_edtf": "1696-08-15/1696-08-17",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le « boulevard du Maine », fort de pierre réputé imprenable.",
+    "sources": "Atlas Iberville, fiche L17 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L17",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.97,
+     47.245
+    ]
+   },
+   "properties": {
+    "id": "I-L18",
+    "nom": "Plaisance",
+    "corpus": "Atlas Iberville",
+    "theme": "poste",
+    "debut": 1696.6967,
+    "fin": 1697.5151,
+    "date_edtf": "1696-09-12",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Capitale de la Terre-Neuve française. Iberville y entre le 12 septembre 1696 et s'y heurte à l'hostilité du gouverneur Brouillan. Il en part le 1er novembre pour la campagne d'hiver, y revient le 4 mars 1697 et y …",
+    "sources": "Atlas Iberville, fiche L18 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L18",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.885,
+     47.02
+    ]
+   },
+   "properties": {
+    "id": "I-L19",
+    "nom": "Ferryland (le Forillon)",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1696.8743,
+    "fin": 1696.9016,
+    "date_edtf": "1696-11-16",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Après une marche épuisante de dix jours à travers la presqu'île d'Avalon, en raquettes, les Canadiens d'Iberville se cantonnent à Ferryland, où Brouillan les rejoint le 21 novembre.",
+    "sources": "Atlas Iberville, fiche L19 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L19",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.71,
+     47.565
+    ]
+   },
+   "properties": {
+    "id": "I-L20",
+    "nom": "Saint-Jean de Terre-Neuve",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1696.9126,
+    "fin": 1696.9781,
+    "date_edtf": "1696-11-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Principale place anglaise de Terre-Neuve.",
+    "sources": "Atlas Iberville, fiche L20 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L20",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.22,
+     47.73
+    ]
+   },
+   "properties": {
+    "id": "I-L21",
+    "nom": "Baie de la Conception (Carbonear)",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1697.0658,
+    "fin": 1697.2356,
+    "date_edtf": "1697-01-25/1697-03",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Tout l'hiver, Iberville et ses lieutenants ravagent les établissements anglais de la côte : Brigus est pris le 25 janvier 1697, Harbour Grace incendié trois jours plus tard.",
+    "sources": "Atlas Iberville, fiche L21 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L21",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.9,
+     57.26
+    ]
+   },
+   "properties": {
+    "id": "I-L22",
+    "nom": "Combat du Pélican",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1697.6767,
+    "fin": 1697.6767,
+    "date_edtf": "1697-09-05",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 5 septembre 1697 à l'aube, le Pélican, isolé du reste de l'escadre par les glaces, se trouve face à trois navires anglais.",
+    "sources": "Atlas Iberville, fiche L22 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L22",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.25,
+     56.98
+    ]
+   },
+   "properties": {
+    "id": "I-L23",
+    "nom": "Fort Nelson : seconde prise",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1697.6986,
+    "fin": 1697.7288,
+    "date_edtf": "1697-09-13",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Repris par les Anglais en 1696, le fort Nelson est de nouveau assiégé.",
+    "sources": "Atlas Iberville, fiche L23 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L23",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.486,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "I-L24",
+    "nom": "Brest",
+    "corpus": "Atlas Iberville",
+    "theme": "poste",
+    "debut": 1698.7644,
+    "fin": 1698.811,
+    "date_edtf": "1698-10-24",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Partie de La Rochelle le 5 septembre 1698 avec la Badine, le Marin et deux traversiers, la flottille fait escale à Brest le 7 octobre.",
+    "sources": "Atlas Iberville, fiche L24 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L24",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2,
+     19.76
+    ]
+   },
+   "properties": {
+    "id": "I-L25",
+    "nom": "Cap-Français (Saint-Domingue)",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1698.9233,
+    "fin": 1699.0,
+    "date_edtf": "1698-12-04",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Iberville jette l'ancre au Cap-Français le 4 décembre 1698.",
+    "sources": "Atlas Iberville, fiche L25 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L25",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.3,
+     30.35
+    ]
+   },
+   "properties": {
+    "id": "I-L26",
+    "nom": "Santa María de Galve (Pensacola)",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1699.0685,
+    "fin": 1699.0795,
+    "date_edtf": "1699-01-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 26 janvier 1699, l'escadre française paraît devant le poste espagnol tout juste fondé par Arriola.",
+    "sources": "Atlas Iberville, fiche L26 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L26",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "I-L27",
+    "nom": "Embouchure du Mississippi",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1699.1644,
+    "fin": 1699.1644,
+    "date_edtf": "1699-03-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Parti le 27 février en chaloupes avec Sauvolle, le père Anastase et 48 hommes, Iberville découvre presque par hasard, le 2 mars 1699, la « rivière de la Palissade »",
+    "sources": "Atlas Iberville, fiche L27 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L27",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.24,
+     30.26
+    ]
+   },
+   "properties": {
+    "id": "I-L28",
+    "nom": "Village des Bayagoulas",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1699.1945,
+    "fin": 1699.1973,
+    "date_edtf": "1699-03-13~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "En remontant le fleuve, Iberville atteint vers le 13 mars le village des Bayagoulas, à une soixantaine de lieues de la mer.",
+    "sources": "Atlas Iberville, fiche L28 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L28",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.58,
+     30.95
+    ]
+   },
+   "properties": {
+    "id": "I-L29",
+    "nom": "Village des Oumas",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1699.2137,
+    "fin": 1699.2192,
+    "date_edtf": "1699-03-20",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 20 mars 1699, Iberville arrive chez les Oumas (Houmas), le point le plus haut atteint lors de ce premier voyage.",
+    "sources": "Atlas Iberville, fiche L29 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L29",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.827,
+     30.399
+    ]
+   },
+   "properties": {
+    "id": "I-L30",
+    "nom": "Fort Maurepas (Biloxi)",
+    "corpus": "Atlas Iberville",
+    "theme": "etablissement",
+    "debut": 1699.2658,
+    "fin": 1702.0,
+    "date_edtf": "1699-04-08",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "De retour à ses navires le 31 mars, Iberville choisit la baie de Biloxi pour y bâtir un poste temporaire.",
+    "sources": "Atlas Iberville, fiche L30 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L30",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.64,
+     29.61
+    ]
+   },
+   "properties": {
+    "id": "I-L31",
+    "nom": "Fort du Mississippi",
+    "corpus": "Atlas Iberville",
+    "theme": "etablissement",
+    "debut": 1700.0849,
+    "fin": 1700.2438,
+    "date_edtf": "1700-02",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Revenu à Biloxi le 8 janvier 1700, Iberville fait construire un fort sur le Mississippi même, pour en barrer l'accès aux Anglais.",
+    "sources": "Atlas Iberville, fiche L31 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L31",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.38,
+     31.53
+    ]
+   },
+   "properties": {
+    "id": "I-L32",
+    "nom": "Village des Natchez",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1700.189,
+    "fin": 1700.1918,
+    "date_edtf": "1700-03-11",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Remontant le fleuve avec Tonti, Iberville arrive chez les Natchez le 11 mars 1700.",
+    "sources": "Atlas Iberville, fiche L32 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L32",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.24,
+     31.96
+    ]
+   },
+   "properties": {
+    "id": "I-L33",
+    "nom": "Village des Taensas",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1700.1945,
+    "fin": 1700.2055,
+    "date_edtf": "1700-03-13",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Point extrême du deuxième voyage, atteint le 13 mars 1700.",
+    "sources": "Atlas Iberville, fiche L33 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L33",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.013,
+     40.704
+    ]
+   },
+   "properties": {
+    "id": "I-L34",
+    "nom": "New York",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1700.4795,
+    "fin": 1700.5397,
+    "date_edtf": "1700-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Parti de Biloxi le 28 mai 1700, Iberville fait une escale de près de trois semaines à New York, où il souffre d'une attaque de fièvre.",
+    "sources": "Atlas Iberville, fiche L34 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L34",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.63,
+     18.51
+    ]
+   },
+   "properties": {
+    "id": "I-L35",
+    "nom": "Saint-Domingue (cacaoyère)",
+    "corpus": "Atlas Iberville",
+    "theme": "personnage",
+    "debut": 1701.8493,
+    "fin": 1706.3726,
+    "date_edtf": "1701-11-07",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Iberville arrive à Saint-Domingue le 7 novembre 1701.",
+    "sources": "Atlas Iberville, fiche L35 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L35",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "I-L36",
+    "nom": "Île Massacre (île Dauphine)",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1702.137,
+    "fin": 1702.1589,
+    "date_edtf": "1702-02",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Gravement malade à Pensacola, Iberville ne se remet sur pied que le 15 février 1702.",
+    "sources": "Atlas Iberville, fiche L36 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L36",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.95
+    ]
+   },
+   "properties": {
+    "id": "I-L37",
+    "nom": "Fort Louis de la Mobile",
+    "corpus": "Atlas Iberville",
+    "theme": "etablissement",
+    "debut": 1702.1671,
+    "fin": 1702.2438,
+    "date_edtf": "1702-03-03",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Le 3 mars 1702, Iberville arrive à l'endroit où Bienville fait construire le nouveau fort, sur un coteau au bord de la rivière Mobile.",
+    "sources": "Atlas Iberville, fiche L37 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L37",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.07,
+     14.6
+    ]
+   },
+   "properties": {
+    "id": "I-L38",
+    "nom": "Martinique",
+    "corpus": "Atlas Iberville",
+    "theme": "exploration",
+    "debut": 1706.1836,
+    "fin": 1706.2301,
+    "date_edtf": "1706-03-09",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Partie de La Rochelle le 19 janvier 1706, la division d'Iberville atteint la Martinique le 9 mars.",
+    "sources": "Atlas Iberville, fiche L38 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L38",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.62,
+     17.14
+    ]
+   },
+   "properties": {
+    "id": "I-L39",
+    "nom": "Nevis",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1706.2466,
+    "fin": 1706.3041,
+    "date_edtf": "1706-04-01/1706-04-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Iberville arrive devant Nevis le 1er avril 1706 et s'empare de l'île.",
+    "sources": "Atlas Iberville, fiche L39 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L39",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.35,
+     23.14
+    ]
+   },
+   "properties": {
+    "id": "I-L40",
+    "nom": "La Havane",
+    "corpus": "Atlas Iberville",
+    "theme": "evenement",
+    "debut": 1706.5178,
+    "fin": 1706.5178,
+    "date_edtf": "1706-07-09",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "Iberville connaissait La Havane, où il avait fait escale en mai 1702.",
+    "sources": "Atlas Iberville, fiche L40 (d'après Frégault, Iberville le conquérant, 1944).",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas-Iberville/index.html#lieu=L40",
+      "texte": "Fiche complète dans l'Atlas Iberville →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -90.1885,
      38.6255
     ]
@@ -1062957,7 +1063323,7 @@
      "Antoine Robidoux"
     ],
     "description": "Vers 1828, Antoine Robidoux bâtit un petit fort au confluent de la Gunnison et de l'Uncompahgre, près de l'actuelle Delta (Colorado) : le seul poste de traite du bassin de la Grand River, sur la route des trappeurs du …",
-    "sources": "Atlas Robidoux, fiche L22 (W. S. Wallace, « Antoine Robidoux », dans Hafen (dir.), French Fur Traders and Voyageurs in the American West (1995), p. 272 ; Chittenden, The American Fur Trade of the Far West (1902), vol. 2-3, p. 506, 781-782 ; Cragin, Early Far West Notebooks (1902-1923), transcription dactylographiée, p. 83.)",
+    "sources": "Atlas Robidoux, fiche L22 (W. S. Wallace, « Antoine Robidoux », dans Hafen (dir.), French Fur Traders and Voyageurs in the American West (1995), p. 272 ; Chittenden, The American Fur Trade of the Far West (1902), vol. 2-3, p. 506, 781-782 ; Cragin, Early Far West Notebooks (1902-1923), transcription dactylographiée, p. 83 ; J. Lecompte, Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856 (Norman, University of Oklahoma Press, 1978), p. 136-138.)",
     "note": "",
     "renvoi": true,
     "voir_aussi": [
@@ -1067724,6 +1068090,142 @@
      {
       "url": "https://geolas2023.github.io/Les-Robidoux/index.html#lieu=L162",
       "texte": "Fiche complète dans l'Atlas Robidoux →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.06,
+     38.36
+    ]
+   },
+   "properties": {
+    "id": "R-L163",
+    "nom": "Hardscrabble : les engagés de Robidoux réfugiés sur l'Arkansas (automne 1844)",
+    "corpus": "Atlas Robidoux",
+    "theme": "evenement",
+    "debut": 1844.7883,
+    "fin": 1845.5,
+    "date_edtf": "1844-10/1845",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Après l'attaque du fort Uncompahgre, les Utes épargnent le seul Américain et l'envoient dire à Antoine Robidoux, au fort Uintah, que ses pelleteries ne risquent rien.",
+    "sources": "Atlas Robidoux, fiche L163 (J. Lecompte, Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856 (Norman, University of Oklahoma Press, 1978), p. 137-138 et n. 26-28 (billet demandant à ces hommes de remettre les mules de Robidoux à « Mr. W. Subletz »).)",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Les-Robidoux/index.html#lieu=L163",
+      "texte": "Fiche complète dans l'Atlas Robidoux →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.45,
+     39.58
+    ]
+   },
+   "properties": {
+    "id": "X-L44",
+    "nom": "Willow Creek : « A' Leroux 1835 »",
+    "corpus": "Atlas Chalifoux",
+    "theme": "personnage",
+    "debut": 1835.5,
+    "fin": 1835.5,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Sous un surplomb rocheux, en aval de l'accès de Pine Spring au Willow Creek, Antoine Leroux grave son nom et l'année 1835, l'année même où Juan Valdez taille « B.",
+    "sources": "Atlas Chalifoux, fiche L44 (J. W. Nelson, Forgotten Pathfinders Along the North Branch of the Old Spanish Trail, 1650-1850 (2003), p. 31, 50-51.)",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L44",
+      "texte": "Fiche complète dans l'Atlas Chalifoux →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.53,
+     37.02
+    ]
+   },
+   "properties": {
+    "id": "X-L45",
+    "nom": "Plaza de los Chalifoux et acequia Chalifu (Costilla)",
+    "corpus": "Atlas Chalifoux",
+    "theme": "personnage",
+    "debut": 1860.5,
+    "fin": 1889.5,
+    "date_edtf": "1860/1889",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "Dans la vallée de la Costilla, un « Jean Bautista Chalifoux II », appelé Juan Bautista par ses voisins hispanos, fonde la Plaza de los Chalifoux.",
+    "sources": "Atlas Chalifoux, fiche L45 (V. Sanchez, « Chalifu Ditch No. 10, Costilla County, Colorado » (2012), dossier de l'auteur.)",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L45",
+      "texte": "Fiche complète dans l'Atlas Chalifoux →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.0,
+     40.87
+    ]
+   },
+   "properties": {
+    "id": "X-L46",
+    "nom": "Brown's Park : la tradition de Baptiste Brown",
+    "corpus": "Atlas Chalifoux",
+    "theme": "personnage",
+    "debut": 1820.5,
+    "fin": 1830.5,
+    "date_edtf": "1820~/1830",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Chalifoux"
+    ],
+    "description": "La tradition locale fait d'un « Baptiste Brown »",
+    "sources": "Atlas Chalifoux, fiche L46 (M. Athearn, An Isolated Empire: A History of Northwest Colorado (BLM, Colorado State Office, 1977 ; rééd. 1982), ch. 2 ; W. L. Tennent, John Jarvie of Brown's Park (BLM, Utah, 1981), p. 13-14 et n. 9 ; J. Lecompte, « Jean-Baptiste Chalifoux », dans L. R. Hafen (dir.), French Fur Traders and Voyageurs in the American West (1995), p. 58-75 (repris de The Mountain Men and the Fur Trade of the Far West, vol. 7).)",
+    "note": "",
+    "renvoi": true,
+    "voir_aussi": [
+     {
+      "url": "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu=L46",
+      "texte": "Fiche complète dans l'Atlas Chalifoux →"
      }
     ]
    }
