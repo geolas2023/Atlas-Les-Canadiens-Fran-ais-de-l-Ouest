@@ -2676,6 +2676,8 @@ G.update({
     'Mayport (Floride)': (-81.41, 30.39, 'c', "Mayport, embouchure du Saint-Johns (Floride)"),
     'Matanzas (Floride)': (-81.27, 29.71, 'c', "Matanzas (Floride)"),
     'Port-Royal (Caroline du Sud)': (-80.69, 32.38, 'c', "Port-Royal (Caroline du Sud)"),
+    'Pays d\'Outina (Floride)': (-81.65, 29.6, 'h', "Pays d'Outina, haut Saint-Jean (Floride)"),
+    'Floride': (-81.7, 28.6, 'h', "Floride (lieu non précisé)"),
 })
 
 

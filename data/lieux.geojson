@@ -1062732,6 +1062732,482 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -80.68,
+     32.32
+    ]
+   },
+   "properties": {
+    "id": "OJP-albert-le-capitaine-charlesfor",
+    "nom": "Charlesfort (Port Royal, Caroline du Sud) : Le capitaine Albert",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "personnage",
+    "debut": 1562.0,
+    "fin": 1562.0,
+    "date_edtf": "1562",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le capitaine Albert"
+    ],
+    "description": "Charlesfort (Port Royal, Caroline du Sud), 1562. Le capitaine Albert interroge un Indien vassal du roi Audusta et visite les rois voisins. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 41-42 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/41/mode/1up?q=ALBERT",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "OJP-laudonniere-rene-de-fort-carol",
+    "nom": "Fort Caroline (rivière de Mai, Floride) : René de Laudonnière",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "poste",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "René de Laudonnière"
+    ],
+    "description": "Fort Caroline (rivière de Mai, Floride), 1564. René de Laudonnière reçu par le paracousi Satouriona, qui le mène voir la borne posée lors du voyage de Jean Ribaut. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 69-70, 152 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/69/mode/1up?q=LAUDONNIÈRE",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "OJP-laudonniere-rene-de-fort-carol-2",
+    "nom": "Fort Caroline (rivière de Mai, Floride) : René de Laudonnière",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "poste",
+    "debut": 1565.0,
+    "fin": 1565.0,
+    "date_edtf": "1565~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "René de Laudonnière"
+    ],
+    "description": "Fort Caroline (rivière de Mai, Floride), vers 1565. René de Laudonnière va avec cinquante soldats se saisir d'Outina pour obtenir des vivres pendant la disette. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 69-70, 152 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/69/mode/1up?q=LAUDONNIÈRE",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "OJP-ottigny-le-sieur-d-fort-carol",
+    "nom": "Fort Caroline (rivière de Mai, Floride) : Le sieur d' Ottigny",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "poste",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le sieur d' Ottigny"
+    ],
+    "description": "Fort Caroline (rivière de Mai, Floride), 1564. Le sieur d' Ottigny remonte la rivière vers le pays de Thimogona avec deux guides donnés par Satouriona. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 76, 86 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/76/mode/1up?q=OTTIGNY",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "OJP-le-vasseur-le-capitaine-fort-carol",
+    "nom": "Fort Caroline (rivière de Mai, Floride) : Le capitaine Le Vasseur",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "poste",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le capitaine Le Vasseur"
+    ],
+    "description": "Fort Caroline (rivière de Mai, Floride), 1564. Le capitaine Le Vasseur envoyé chercher un soldat resté chez le roi Molona, vassal d'Outina ; ramène plus tard les prisonniers à Outina. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 88-96, 104, 108 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/88/mode/1up?q=LE+VASSEUR",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "OJP-la-caille-fort-carol",
+    "nom": "Fort Caroline (rivière de Mai, Floride) : La Caille",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "poste",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Caille"
+    ],
+    "description": "Fort Caroline (rivière de Mai, Floride), 1564. La Caille accompagne Le Vasseur au logis du paracousi Molona. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 96 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/96/mode/1up?q=LA+CAILLE",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.65,
+     29.6
+    ]
+   },
+   "properties": {
+    "id": "OJP-arlac-le-seigneur-d-pays-d-out",
+    "nom": "Pays d'Outina, haut Saint-Jean (Floride) : Le seigneur d' Arlac",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "personnage",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le seigneur d' Arlac"
+    ],
+    "description": "Pays d'Outina, haut Saint-Jean (Floride), 1564. Le seigneur d' Arlac enseigne de Laudonnière, envoyé vers le 10 septembre séjourner chez Outina et guerroyer avec lui contre Patavou. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 104, 108-109 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/104/mode/1up?q=ARLAC",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.68,
+     32.32
+    ]
+   },
+   "properties": {
+    "id": "OJP-rouffi-charlesfor",
+    "nom": "Charlesfort (Port Royal, Caroline du Sud) : Rouffi",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "personnage",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rouffi"
+    ],
+    "description": "Charlesfort (Port Royal, Caroline du Sud), vers 1564. Rouffi soldat resté seul dans le pays au départ du capitaine Nicolas Masson et des hommes du premier voyage ; Laudonnière fait rechercher ce qu'il est devenu. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 136 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/136/mode/1up?q=ROUFFI",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.68,
+     32.32
+    ]
+   },
+   "properties": {
+    "id": "OJP-aymon-charlesfor",
+    "nom": "Charlesfort (Port Royal, Caroline du Sud) : Aymon",
+    "corpus": "archive.org · Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "theme": "personnage",
+    "debut": 1564.0,
+    "fin": 1564.0,
+    "date_edtf": "1564~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Aymon"
+    ],
+    "description": "Charlesfort (Port Royal, Caroline du Sud), vers 1564. Aymon soldat du premier voyage, envoyé vers le pays d'Audusta dans l'espoir que le roi le reconnaisse. D'après Laudonnière, L'histoire notable de la Floride (éd. 1853).",
+    "sources": "René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853, p. 136 ; texte intégral : archive.org, lhistoirenotable53laud.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Laudonnière, L'histoire notable de la Floride (éd. 1853)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/lhistoirenotable53laud/page/136/mode/1up?q=AYMON",
+      "texte": "Lire Laudonnière, L'histoire notable de la Floride (éd. 1853) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.7,
+     28.6
+    ]
+   },
+   "properties": {
+    "id": "OJQ-allard-floride",
+    "nom": "Floride (lieu non précisé) : Allard",
+    "corpus": "archive.org · Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Allard"
+    ],
+    "description": "Floride (lieu non précisé), 1867. Allard prêtre de la mission de la Floride, que deux prêtres du diocèse de Montréal se disposent à suivre. D'après Bourget, Circulaire au clergé : la mission de la Floride (1867).",
+    "sources": "Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867, s. p. ; texte intégral : archive.org, cihm_55253.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_55253?q=ALLARD",
+      "texte": "Lire Bourget, Circulaire au clergé : la mission de la Floride (1867) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.7,
+     28.6
+    ]
+   },
+   "properties": {
+    "id": "OJQ-laverdiere-a-floride",
+    "nom": "Floride (lieu non précisé) : A. Laverdière",
+    "corpus": "archive.org · Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "A. Laverdière"
+    ],
+    "description": "Floride (lieu non précisé), 1867. A. Laverdière prêtre du diocèse de Montréal, se dispose à suivre M. Allard en Floride. D'après Bourget, Circulaire au clergé : la mission de la Floride (1867).",
+    "sources": "Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867, s. p. ; texte intégral : archive.org, cihm_55253.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_55253?q=LAVERDIÈRE",
+      "texte": "Lire Bourget, Circulaire au clergé : la mission de la Floride (1867) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.7,
+     28.6
+    ]
+   },
+   "properties": {
+    "id": "OJQ-landry-a-floride",
+    "nom": "Floride (lieu non précisé) : A. Landry",
+    "corpus": "archive.org · Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "A. Landry"
+    ],
+    "description": "Floride (lieu non précisé), 1867. A. Landry prêtre du diocèse de Montréal, se dispose à suivre M. Allard en Floride. D'après Bourget, Circulaire au clergé : la mission de la Floride (1867).",
+    "sources": "Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867, s. p. ; texte intégral : archive.org, cihm_55253.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_55253?q=LANDRY",
+      "texte": "Lire Bourget, Circulaire au clergé : la mission de la Floride (1867) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.7,
+     28.6
+    ]
+   },
+   "properties": {
+    "id": "OJQ-gaboury-p-floride",
+    "nom": "Floride (lieu non précisé) : P. Gaboury",
+    "corpus": "archive.org · Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "P. Gaboury"
+    ],
+    "description": "Floride (lieu non précisé), 1867. P. Gaboury prêtre de Saint-Hyacinthe, accompagne les missionnaires montréalais en Floride. D'après Bourget, Circulaire au clergé : la mission de la Floride (1867).",
+    "sources": "Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867, s. p. ; texte intégral : archive.org, cihm_55253.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_55253?q=GABOURY",
+      "texte": "Lire Bourget, Circulaire au clergé : la mission de la Floride (1867) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.7,
+     28.6
+    ]
+   },
+   "properties": {
+    "id": "OJQ-harpin-floride",
+    "nom": "Floride (lieu non précisé) : Harpin",
+    "corpus": "archive.org · Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Harpin"
+    ],
+    "description": "Floride (lieu non précisé), 1867. Harpin ecclésiastique de Saint-Hyacinthe, accompagne les missionnaires montréalais en Floride. D'après Bourget, Circulaire au clergé : la mission de la Floride (1867).",
+    "sources": "Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867, s. p. ; texte intégral : archive.org, cihm_55253.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bourget, Circulaire au clergé : la mission de la Floride (1867)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/cihm_55253?q=HARPIN",
+      "texte": "Lire Bourget, Circulaire au clergé : la mission de la Floride (1867) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.48,
      40.64
     ]
