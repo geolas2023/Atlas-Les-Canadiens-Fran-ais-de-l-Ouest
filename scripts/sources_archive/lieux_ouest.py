@@ -2544,6 +2544,7 @@ G.update({
     'Rivière aux Hurons (Clinton, Michigan)': (-82.8350, 42.5850, 'c', "Rivière aux Hurons (Clinton River, Michigan)"),
     'Flint (Michigan)': (-83.6875, 43.0125, 'c', "Flint (Michigan)"),
     'Pontiac (Michigan)': (-83.2910, 42.6389, 'c', "Pontiac (Michigan)"),
+    'Rivière Sainte-Claire': (-82.4900, 42.7500, 'c', "Rivière Sainte-Claire (Michigan)"),
 })
 
 
