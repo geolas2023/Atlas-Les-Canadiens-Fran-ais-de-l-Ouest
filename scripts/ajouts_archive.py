@@ -874,6 +874,8 @@ LIVRES = [
     ('fl_gaffarel_floride_francaise_1875.txt','OJO',{'court':'Gaffarel, Histoire de la Floride française (1875)','ref':'Paul Gaffarel, Histoire de la Floride française, Paris, Firmin-Didot et Cie, 1875'},'histoiredelaflo00fourgoog', lambda nom, ref: ref),
     ('fl_laudonniere_histoire_notable_1853.txt','OJP',{'court':"Laudonnière, L'histoire notable de la Floride (éd. 1853)",'ref':"René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853"},'lhistoirenotable53laud', lambda nom, ref: ref),
     ('fl_bourget_circulaire_1867.txt','OJQ',{'court':'Bourget, Circulaire au clergé : la mission de la Floride (1867)','ref':'Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867'},'cihm_55253', lambda nom, ref: ref),
+    ('fl_snjm_marie_olivier_1922.txt','OJR',{'court':'Histoire des Sœurs des Saints Noms : Mère Marie-Olivier (1922)','ref':'Histoire de la congrégation des Sœurs des Saints Noms de Jésus et de Marie : Mère Marie-Olivier, cinquième et septième supérieure générale, 1877 à 1886, 1895 à 1900, Montréal, Arbour et Dupont, 1922'},'histoiredelacong00mont', lambda nom, ref: ref),
+    ('fl_gleanings_snjm_1909.txt','OJS',{'court':'Gleanings of Fifty Years (1909)','ref':'Gleanings of Fifty Years : the Sisters of the Holy Names of Jesus and Mary in the Northwest, 1859-1909, [Portland], [Glass & Prudhomme], 1909'},'gleaningsoffifty00unse', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
