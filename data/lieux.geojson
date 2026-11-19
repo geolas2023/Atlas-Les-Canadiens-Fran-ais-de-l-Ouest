@@ -121648,6 +121648,122 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.0198,
+     44.5133
+    ]
+   },
+   "properties": {
+    "id": "TP58-07",
+    "nom": "La Baie (Green Bay) : Kiala déporté à la Martinique et la mort de Villiers au fort des Sauks (1732-1733)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1732.0,
+    "fin": 1733.708,
+    "date_edtf": "1732/1733-09-16",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Kiala",
+     "Nicolas-Antoine Coulon de Villiers"
+    ],
+    "description": "Après le massacre des Renards par un parti iroquois à l'hiver 1731-1732, une trentaine de survivants seulement cherchent refuge, mais les Sauks sont revenus à la baie des Puants rebâtir leur village sous la protection des Français. Le chef renard Kiala vient s'y offrir en échange de la paix et du pardon pour sa nation : saisi, réduit en esclavage, il est déporté à la Martinique, où il meurt. Le 16 septembre 1733, Coulon de Villiers tente d'enlever aux Sauks les réfugiés renards ; un combat s'engage, Villiers est tué, et Sauks et Renards fuient jusqu'à la rivière Wapsipinicon, dans l'est de l'Iowa, où ils bâtissent deux forts.",
+    "sources": "Temple, Wayne C. (1958), Indian Villages of the Illinois Country: Historic Tribes, Springfield, Illinois State Museum, Scientific Papers, vol. II, part 2, p. 91.",
+    "note": "Point à la Baie (Green Bay)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.577,
+     41.466
+    ]
+   },
+   "properties": {
+    "id": "TP58-08",
+    "nom": "Embouchure de la rivière Rock (Rock Island) : Sauks et Renards s'y installent en 1764, selon Auguste Chouteau",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1764.0,
+    "fin": 1779.258,
+    "date_edtf": "1764/1779-04-04",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Chouteau",
+     "La Main Cassée",
+     "Charles Gautier de Verville",
+     "Le Chat Blanc"
+    ],
+    "description": "Chassés du Wisconsin par les attaques des Sauteux, Sauks et Renards établissent un village sur la pointe entre la rivière Rock et le Mississippi ; Auguste Chouteau, alors au pays des Illinois, date l'installation de 1764, et un village renard s'établit en même temps à l'emplacement de Dubuque. En 1763, le chef de guerre renard La Porte avait fondé un village sur la rive est du Mississippi, deux lieues au nord du Wisconsin. Le 4 avril 1779, l'agent britannique Gautier trouve à l'embouchure de la Rock une bande sauk amie des Américains, dont le chef, La Main Cassée, lui barre le passage. Plus tôt, en 1736, le grand chef des Sauks s'appelait Ouabasseban, Le Chat Blanc.",
+    "sources": "Temple, Wayne C. (1958), Indian Villages of the Illinois Country: Historic Tribes, Springfield, Illinois State Museum, Scientific Papers, vol. II, part 2, p. 92-96, 101.",
+    "note": "Point à Saukenuk (Rock Island, Illinois)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.98,
+     40.403
+    ]
+   },
+   "properties": {
+    "id": "TP58-09",
+    "nom": "Ouiatanon : les chefs mascoutens et kicapous aux noms français (1746)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1746.0,
+    "fin": 1746.999,
+    "date_edtf": "1746",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Temps Clair",
+     "Pacanne",
+     "La Mauvaise Jambe",
+     "Deux Visages Plats",
+     "Le Petit Bonheur"
+    ],
+    "description": "Installés près des Weas d'Ouiatanon, avec qui ils s'entendent mal, Kicapous et Mascoutens refusent d'abord le projet français de les établir à l'embouchure de la Tennessee, puis acceptent en 1746 un fort sur l'Ohio qui ne verra sans doute jamais le jour. Les documents d'Ouiatanon nomment alors leurs chefs : chez les Mascoutens, Le Temps Clair, son frère Pacanne, La Noix, Le Brave, Mirraquoist et La Mauvaise Jambe, chef de guerre de trente guerriers ; chez les Kicapous, Deux Visages Plats, Mainbas (Mauvaise Main) et Le Petit Bonheur. En 1752, les Français rappellent à Ouiatanon les Kicapous de Terre Haute pour rendre les Weas jaloux.",
+    "sources": "Temple, Wayne C. (1958), Indian Villages of the Illinois Country: Historic Tribes, Springfield, Illinois State Museum, Scientific Papers, vol. II, part 2, p. 161-162.",
+    "note": "Point au site d'Ouiatanon (Lafayette, Indiana)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.707,
+     37.144
+    ]
+   },
+   "properties": {
+    "id": "TP58-10",
+    "nom": "Fort Massac : la bande chaouanonne de Chartier, venue du Scioto (juin 1759)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1759.417,
+    "fin": 1759.75,
+    "date_edtf": "1759-06/1759-10",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Chartier"
+    ],
+    "description": "En juin 1759, quarante cabanes de Chaouanons du Scioto, la bande de Chartier, s'établissent près du fort Massac ; en octobre, fuyant la colère des Britanniques, elles passent au pays des Illinois, où ceux-ci les cherchent encore deux ans plus tard. Dès 1756, les Français avaient conduit un chef illinois et quatre guerriers au village chaouanon pour y fumer le calumet et régler les différends entre les deux nations.",
+    "sources": "Temple, Wayne C. (1958), Indian Villages of the Illinois Country: Historic Tribes, Springfield, Illinois State Museum, Scientific Papers, vol. II, part 2, p. 176-177.",
+    "note": "Point au fort Massac (Metropolis, Illinois)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -90.379,
      38.265
     ]
