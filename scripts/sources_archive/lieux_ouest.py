@@ -2666,6 +2666,9 @@ G.update({
     'Put-in-Bay (Ohio)': (-82.818, 41.654, 'c', "Put-in-Bay, île South Bass (lac Érié, Ohio)"),
     'Comté d\'Allen (Ohio)': (-84.11, 40.77, 'c', "Comté d'Allen (Ohio)"),
     'Kenton (Ohio)': (-83.61, 40.647, 'c', "Kenton (comté de Hardin, Ohio)"),
+    'Oak Harbor (Ohio)': (-83.146, 41.507, 'c', "Oak Harbor (comté d'Ottawa, Ohio)"),
+    'Comté d\'Ottawa (Ohio)': (-83.15, 41.52, 'c', "Comté d'Ottawa (Ohio)"),
+    'Milan (Ohio)': (-82.601, 41.297, 'c', "Milan (comté d'Erie, Ohio)"),
 })
 
 
