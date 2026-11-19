@@ -115351,6 +115351,175 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.8457,
+     38.0103
+    ]
+   },
+   "properties": {
+    "id": "OM16-01",
+    "nom": "La Vieille Mine (Old Mines) : quinze familles françaises fondent le village (février 1802)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1802.083,
+    "fin": 1804.833,
+    "date_edtf": "1802-02/1804-11",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Moses Austin",
+     "Philippe-François Renault"
+    ],
+    "description": "Dans sa description des mines de plomb de la Haute-Louisiane remise au Congrès en novembre 1804, Moses Austin explique que les « vieilles mines », ouvertes vers 1726 par Renault pour la Compagnie de Law, furent abandonnées lors de la découverte de la Mine à Burton (Potosi), à cinq milles au sud-ouest. En février 1802, quinze familles françaises s'y établissent et forment un village ; l'année suivante, la mine produit 360 000 livres de minerai, fondu surtout à la Mine à Burton faute d'autre fourneau qu'un « fourneau français ». Vingt-cinq à trente hommes au plus y travaillent.",
+    "sources": "Austin, Moses (1804), « Description of the Lead Mines in Upper Louisiana », American State Papers, 8e Congrès, 2e session, n° 103, extrait reproduit dans News from Old Mines. The Newsletter of the Old Mines French Project, n° 3, printemps 2016, p. 2-3.",
+    "note": "Point au village d'Old Mines (comté de Washington, Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.8,
+     38.02
+    ]
+   },
+   "properties": {
+    "id": "OM16-02",
+    "nom": "Mine à Renault : la mine d'argent espérée de Philippe-François Renault (vers 1724-1725)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1724.0,
+    "fin": 1725.999,
+    "date_edtf": "1724~/1725~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Philippe-François Renault"
+    ],
+    "description": "Selon Austin, la Mine à Renault, à six milles au nord de la Mine à Burton sur le ruisseau du même nom, fut découverte et ouverte vers 1724-1725 par Renault, qui espérait y trouver de l'argent ; en 1804, on ne l'exploitait plus depuis plus de soixante-dix ans. Arrivé au pays des Illinois au début des années 1720 avec une équipe de mineurs, Renault vivait à Saint-Philippe, village de sa création près du fort de Chartres, et rentra en France au début des années 1740. Son nom survit dans la Fourche à Renault et la « Brigade à Renault » des reconstituteurs.",
+    "sources": "Austin, Moses (1804), « Description of the Lead Mines in Upper Louisiana », American State Papers, 8e Congrès, 2e session, n° 103, extrait reproduit dans News from Old Mines. The Newsletter of the Old Mines French Project, n° 3, printemps 2016 ; News from Old Mines. The Newsletter of the Old Mines French Project, n° 3, printemps 2016, p. 3, 6.",
+    "note": "Point approximatif sur la Fourche à Renault, au nord de Potosi."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.853,
+     38.012
+    ]
+   },
+   "properties": {
+    "id": "OM16-03",
+    "nom": "Cimetières de la Vieille Mine : les croix de fer forgé des forgerons créoles",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1800.0,
+    "fin": 1950.999,
+    "date_edtf": "1800~/1950~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Kent Bone"
+    ],
+    "description": "L'historien amateur Kent Bone étudie les croix de fer forgées à la main qui marquent les tombes des cimetières de la Vieille Mine et du district minier : une simple traverse rivetée sur un montant dans le comté de Washington, des pièces soudées dans les comtés voisins, fichées dans un bloc de calcaire où l'on coulait du plomb fondu. Coutume des catholiques français, allemands et espagnols, transmise du Québec (L'Artisan forgeron), elle se maintient jusqu'au XXe siècle et disparaît avec les forgerons. Bone en a retrouvé de la vallée du Saint-Laurent à une ville métisse de la Saskatchewan, au Kankakee et aux villages cadiens de Louisiane.",
+    "sources": "News from Old Mines. The Newsletter of the Old Mines French Project, n° 3, printemps 2016, p. 4, 6.",
+    "note": "Point au cimetière de l'église Saint-Joachim d'Old Mines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.8457,
+     38.0103
+    ]
+   },
+   "properties": {
+    "id": "ML13-01",
+    "nom": "Old Mines : le français du Missouri au bord de l'extinction (2013)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1930.0,
+    "fin": 2013.083,
+    "date_edtf": "1930/2013-02",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Kent Bone",
+     "Natalie Villmer",
+     "Dennis Stroughmatt"
+    ],
+    "description": "Vers 1930, le français du Missouri est encore la langue maternelle d'environ un millier de personnes autour de la Vieille Mine, dans une zone de 150 milles qui englobe De Soto, Festus, Bonne Terre et Richwoods ; en 2013, moins de dix le parlent couramment. Isolement des villages, terres en longues bandes le long du ruisseau, messe en français à Saint-Joachim et travail manuel dans les mines de plomb puis de « tiff » (barytine) l'ont préservé ; l'école obligatoire, l'anglais imposé par les religieuses vers 1920, la mécanisation et les routes l'ont condamné. Kent Bone, Natalie Villmer, qui chante les complaintes apprises de son père, et le violoneux Dennis Stroughmatt entretiennent la mémoire de cette langue, plus proche du canadien par l'accent et du louisianais par le vocabulaire.",
+    "sources": "Winnerman, Jim (2013), « Preserving Missouri's Old Mines French Dialect », Missouri Life, février 2013, p. 38-41.",
+    "note": "Point au village d'Old Mines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.66,
+     45.935
+    ]
+   },
+   "properties": {
+    "id": "BO13-01",
+    "nom": "Fort Manuel : Lisa écrit « aux Espagnols du Nouveau-Mexique » (8 septembre 1812)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1812.686,
+    "fin": 1812.686,
+    "date_edtf": "1812-09-08",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Manuel Lisa",
+     "Jean-Baptiste Champlain",
+     "Jean-Baptiste Lafargue",
+     "Charles Sanguinet"
+    ],
+    "description": "Retrouvée dans les archives de Chihuahua, une lettre écrite par Lisa au fort Manuel le 8 septembre 1812 révèle que vingt-trois de ses chasseurs fréquentaient la nation arapaho, que les Espagnols du Nouveau-Mexique venaient chaque année commercer avec elle, et qu'il avait confié des marchandises à Jean-Baptiste Champlain et Jean-Baptiste Lafargue pour traiter avec eux. Sans nouvelles, il envoie son homme de confiance Charles Sanguinet, avec deux engagés, porter la lettre où il propose, comme directeur de la Missouri Fur Company, de fournir chaque année toutes les marchandises qu'on lui commandera.",
+    "sources": "Bolton, Herbert E. (1913), « New Light on Manuel Lisa and the Spanish Fur Trade », The Quarterly of the Texas State Historical Association, vol. 17, n° 1, p. 61-64.",
+    "note": "Point au fort Manuel (Dakota du Sud). Champlain serait le Baptiste Champlain de l'établissement de la Cuivre (Houck)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.62,
+     45.74
+    ]
+   },
+   "properties": {
+    "id": "BO13-02",
+    "nom": "La Petite Corne : Lisa fait fonder un poste pour ses chasseurs (1812)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1812.667,
+    "fin": 1812.667,
+    "date_edtf": "1812-09~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Manuel Lisa",
+     "Charles Sanguinet"
+    ],
+    "description": "Dans la même lettre, Lisa annonce qu'il envoie dix hommes, avec Sanguinet, à la « Petite Corne », affluent de la Roche Jaune (Yellowstone) à deux cent vingt-cinq lieues du fort Manuel, pour y établir un poste plus proche de ses chasseurs. Bolton y voit une tentative de poste à l'embouchure du Little Bighorn.",
+    "sources": "Bolton, Herbert E. (1913), « New Light on Manuel Lisa and the Spanish Fur Trade », The Quarterly of the Texas State Historical Association, vol. 17, n° 1, p. 62, 64.",
+    "note": "Identification de Bolton ; la « Petite Corne » pourrait aussi désigner le Bighorn. Point au confluent du Little Bighorn et du Bighorn (Hardin, Montana)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
