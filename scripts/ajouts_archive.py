@@ -886,6 +886,10 @@ LIVRES = [
     ('mb_dugas_histoire_veridique_1905.txt','OKA',{'court':'Dugas, Histoire véridique (1905)','ref':'Georges Dugas, Histoire véridique des faits qui ont préparé le mouvement des Métis à la Rivière-Rouge en 1869, Montréal, Beauchemin, 1905'},'histoirevridique00duga', lambda nom, ref: ref),
     ('mb_begg_creation_manitoba_1871.txt','OKB',{'court':'Begg, The Creation of Manitoba (1871)','ref':'Alexander Begg, The Creation of Manitoba, or, A History of the Red River Troubles, Toronto, A. H. Hovey, 1871'},'creationofmanito00begg', lambda nom, ref: ref),
     ('mb_ross_red_river_settlement_1856.txt','OKC',{'court':'Ross, The Red River Settlement (1856)','ref':'Alexander Ross, The Red River Settlement : its Rise, Progress, and Present State, Londres, Smith, Elder and Co., 1856'},'redriversettlem00rossgoog', lambda nom, ref: ref),
+    ('mb_hargrave_red_river_1871.txt','OKD',{'court':'Hargrave, Red River (1871)','ref':"Joseph James Hargrave, Red River, Montréal, imprimé pour l'auteur par J. Lovell, 1871"},'redriver00harggoog', lambda nom, ref: ref),
+    ('mb_healy_women_red_river_1923.txt','OKE',{'court':'Healy, Women of Red River (1923)','ref':'W. J. Healy, Women of Red River : being a Book Written from the Recollections of Women Surviving from the Red River Era, 1923'},'womenofredriverb00unse', lambda nom, ref: ref),
+    ('mb_tache_vingt_annees_1866.txt','OKF',{'court':'Taché, Vingt années de missions (1866)','ref':"Alexandre Antonin Taché, Vingt années de missions dans le Nord-Ouest de l'Amérique, 1866"},'vingtannesdemis00tachgoog', lambda nom, ref: ref),
+    ('mb_provencher_lettres_1913.txt','OKG',{'court':'Lettres de Mgr Provencher (1913)','ref':'Lettres de Monseigneur Joseph-Norbert Provencher, premier évêque de Saint-Boniface (Bulletin de la Société historique de Saint-Boniface, vol. 3), Saint-Boniface, Imprimerie du « Manitoba », 1913'},'lettresdemonseig03prov', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
