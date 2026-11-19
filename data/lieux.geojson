@@ -109454,6 +109454,348 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.1885,
+     38.6255
+    ]
+   },
+   "properties": {
+    "id": "GI27-01",
+    "nom": "Saint-Louis : Manuel Lisa passe contrat avec « Roubidoux » (1798)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1798.0,
+    "fin": 1798.999,
+    "date_edtf": "1798",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Manuel Lisa",
+     "Joseph Robidoux"
+    ],
+    "description": "Né de parents espagnols à La Nouvelle-Orléans vers 1772, Manuel Lisa traite déjà sur le Mississippi à vingt ans. Il arrive à Saint-Louis en 1798 et conclut la même année un contrat avec « Roubidoux », un vieux traiteur indien, sans doute Joseph Robidoux père. Il signe aussi la pétition contre les monopoles de traite accordés par le gouverneur Trudeau.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 323.",
+    "note": "Prénom de Robidoux non précisé par Gianini."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.36,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "GI27-02",
+    "nom": "Les Osages des Chouteau passent sur l'Arkansas pour échapper au monopole de Lisa (1802)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1802.0,
+    "fin": 1802.999,
+    "date_edtf": "1802~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Manuel Lisa",
+     "Pierre Chouteau",
+     "Auguste Chouteau"
+    ],
+    "description": "Lisa et deux associés obtiennent de l'Espagne le monopole de la traite osage, que tenaient les Chouteau. Ceux-ci persuadent une grande partie de la nation de quitter le Missouri pour l'Arkansas, où ils sont bien établis : la scission des Osages mettra longtemps à se refermer. Lisa ne garde le privilège qu'un an et, pour une lettre trop vive au gouverneur Delassus, passe quelque temps au cachot.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 324.",
+    "note": "Position aux Trois-Fourches de l'Arkansas (bande de Clermont, Verdigris)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     41.05
+    ]
+   },
+   "properties": {
+    "id": "GI27-03",
+    "nom": "Embouchure de la Platte : Lisa fait rebrousser chemin à John Colter (1807)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1807.0,
+    "fin": 1807.999,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Manuel Lisa",
+     "John Colter",
+     "George Drouillard"
+    ],
+    "description": "Lors de sa première remontée du Missouri, avec une seule barge, Lisa croise près de la Platte John Colter, ancien de l'expédition Lewis et Clark qui descendait le fleuve, et le convainc de repartir vers le haut pays. L'expédition, menée avec George Drouillard, passe les Arikaras, les Mandans et les Assiniboines par la force ou la persuasion et fonde le fort Manuel au Bighorn ; c'est de là que Colter partira vers les « merveilles » de Yellowstone.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 325-326.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.52,
+     45.92
+    ]
+   },
+   "properties": {
+    "id": "GI27-04",
+    "nom": "Trois-Fourches du Missouri : le poste de Lisa au pays des Pieds-Noirs et la mort de Drouillard (1809-1810)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1809.0,
+    "fin": 1810.999,
+    "date_edtf": "1809/1810",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Manuel Lisa",
+     "George Drouillard",
+     "Andrew Henry"
+    ],
+    "description": "En 1809, Lisa ramène à son village le chef mandan Shehaka et fait bâtir des postes chez les Gros-Ventres (Hidatsas) et aux Trois-Fourches du Missouri, en plein pays pied-noir. L'hostilité des Pieds-Noirs fait abandonner les Trois-Fourches en un an ou deux ; George Drouillard y est tué et le major Henry passe sur le versant ouest des montagnes.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 326-327.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.05,
+     42.77
+    ]
+   },
+   "properties": {
+    "id": "GI27-05",
+    "nom": "La grande course sur le Missouri : Lisa rattrape les Astoriens de Hunt (1811)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1811.25,
+    "fin": 1811.417,
+    "date_edtf": "1811-04/1811-06",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Manuel Lisa",
+     "Wilson Price Hunt"
+    ],
+    "description": "Parti deux semaines après le groupe astorien de Wilson Price Hunt, qui le soupçonnait d'avoir fait échouer Pierre Chouteau en 1807, Lisa remonte le Missouri avec une seule barge et un équipage choisi. Il rattrape Hunt juste au-delà du pays sioux après deux mois et quelque 1 200 milles, puis les deux chefs se réconcilient. Brackenridge et Bradbury en tiennent le récit, que Washington Irving reprendra dans « Astoria ».",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 327.",
+    "note": "Point de jonction approximatif, près de l'embouchure de la Niobrara."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.47,
+     45.52
+    ]
+   },
+   "properties": {
+    "id": "GI27-06",
+    "nom": "Villages arikaras : Lisa désamorce une crise avec dix hommes (1812)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1812.0,
+    "fin": 1812.999,
+    "date_edtf": "1812",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Manuel Lisa"
+    ],
+    "description": "En 1812, en route avec deux barges, Lisa voit les Arikaras éloigner femmes et enfants des bateaux, signe d'hostilité. Il descend à terre avec dix hommes et convoque les chefs : la querelle tient aux présents distribués aux uns et pas aux autres, et au poste de traite qu'ils réclament. L'accord rétablit la paix. Son commis Luttig, qui hiverne au fort Manuel, notera la mort de Sacagawea cet hiver-là.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 328-329.",
+    "note": "Position aux villages arikaras, embouchure de la Grand (Dakota du Sud)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.2,
+     38.05
+    ]
+   },
+   "properties": {
+    "id": "GI27-07",
+    "nom": "Haut Arkansas : Charles Sanguinet chez les Arapahos, à la recherche des Espagnols (1812)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1812.0,
+    "fin": 1813.999,
+    "date_edtf": "1812/1813",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Sanguinet",
+     "Manuel Lisa"
+    ],
+    "description": "Parmi les partis envoyés par Lisa en 1812, celui de Charles Sanguinet gagne l'Arkansas pour traiter avec les Arapahos, mais surtout pour entrer en contact avec les marchands espagnols, muni d'une lettre aux autorités du Nouveau-Mexique. Il doit aussi retrouver un premier groupe expédié deux ans plus tôt, dont certains ne reviendront jamais ; d'autres hommes de Lisa seront détenus dix ans par les Espagnols.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 328-329.",
+    "note": "Gianini renvoie à Bolton (1913) pour la lettre. Position hypothétique sur le haut Arkansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.33,
+     43.81
+    ]
+   },
+   "properties": {
+    "id": "GI27-08",
+    "nom": "Île aux Cèdres ou île Américaine : Lisa dresse les Tétons contre les Santees (guerre de 1812)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1813.0,
+    "fin": 1814.999,
+    "date_edtf": "1813/1814",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Manuel Lisa",
+     "Joseph Renville",
+     "Tamaha",
+     "Robert Dickson"
+    ],
+    "description": "Sous-agent de William Clark pour les Indiens du Missouri, Lisa tient un gros poste sur l'île Américaine (Chamberlain) ou l'île aux Cèdres. Selon une lettre de Joseph Renville, interprète britannique, il retient les Tétons dans le camp américain et, chaque fois que les Santees veulent rejoindre les Anglais, fait courir le bruit que les Tétons vont attaquer leurs familles, annulant les efforts de l'agent Robert Dickson ; il paie Tamaha, le Sioux borgne, pour espionner les siens.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 330-331.",
+    "note": "Position à l'île Américaine (Chamberlain, Dakota du Sud)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.63
+    ]
+   },
+   "properties": {
+    "id": "GI27-09",
+    "nom": "Saint-Louis : quarante-trois chefs amenés par Lisa pour les traités (1815)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1815.0,
+    "fin": 1815.999,
+    "date_edtf": "1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Manuel Lisa",
+     "William Clark"
+    ],
+    "description": "En 1815, Lisa conduit à Saint-Louis quarante-trois chefs et notables amis pour une visite et la signature de traités. Il démissionne de son agence en 1817, revient de son dernier voyage en avril 1820 et meurt en août. Il eut une épouse omaha, Mitain, fille d'un chef, dont la descendance s'est perpétuée ; sa dernière femme, Mary Hempstead (« Aunt Manuel »), lui survécut longtemps.",
+    "sources": "Gianini, Charles A. (1927), « Manuel Lisa, One of the Earliest Traders on the Missouri River », New Mexico Historical Review, vol. 2, n° 4, p. 323-333, p. 331-332.",
+    "note": "Traités de Portage des Sioux (1815), probablement."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.92,
+     36.51
+    ]
+   },
+   "properties": {
+    "id": "EB94-01",
+    "nom": "Concession Beaubien-Miranda (Maxwell) : 1 714 764 acres au lieu de 97 000 (1841-1887)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1841.0,
+    "fin": 1887.999,
+    "date_edtf": "1841/1887",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Beaubien",
+     "Guadalupe Miranda",
+     "Lucien Maxwell"
+    ],
+    "description": "Accordée en 1841 par le gouverneur Armijo au Québécois Charles Beaubien et à Guadalupe Miranda, la concession violait la loi mexicaine de colonisation de 1824, qui limitait chaque bénéficiaire à onze lieues carrées (environ 48 500 acres). Confirmée par le Congrès avant tout arpentage, elle s'avéra couvrir 1 714 764 acres une fois mesurée. La Cour suprême valida pourtant la confirmation en la qualifiant de concession nouvelle (de novo) du Congrès. Pour Ebright, ce cas met en doute tout le processus d'adjudication des terres.",
+    "sources": "Ebright, Malcolm (1994), Land Grants and Lawsuits in Northern New Mexico, Albuquerque, University of New Mexico Press, p. 27, 39-40.",
+    "note": "Position à Cimarron, siège du domaine Maxwell."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.42,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "EB94-02",
+    "nom": "Concession Sangre de Cristo : Beaubien et Lee, l'autre géante confirmée par le Congrès (1843-1860)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1843.0,
+    "fin": 1860.999,
+    "date_edtf": "1843/1860",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Beaubien",
+     "Stephen Luis Lee",
+     "Narciso Beaubien"
+    ],
+    "description": "Autre concession d'Armijo à deux personnes (Narciso Beaubien et Stephen Luis Lee, tous deux tués à Taos en 1847 ; Charles Beaubien hérita de la part de son fils et racheta celle de Lee), la Sangre de Cristo, dans la vallée de San Luis, aurait dû être limitée à environ 96 000 acres. Elle fut confirmée puis patentée à 998 764 acres. Avec la Maxwell, elle fut l'une des toutes premières concessions confirmées par les États-Unis.",
+    "sources": "Ebright, Malcolm (1994), Land Grants and Lawsuits in Northern New Mexico, Albuquerque, University of New Mexico Press, p. 27, 39.",
+    "note": "Ebright donne aussi 2 713 545 acres p. 39, qui est en fait le total combiné des deux concessions donné p. 27. Position à San Luis (Colorado)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.0,
+     37.65
+    ]
+   },
+   "properties": {
+    "id": "EB94-03",
+    "nom": "Concession de Las Animas (Vigil et St. Vrain) : réduite par le Congrès à 97 000 acres (1843-1869)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1843.0,
+    "fin": 1869.999,
+    "date_edtf": "1843/1869",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Céran St. Vrain",
+     "Cornelio Vigil"
+    ],
+    "description": "Contrairement aux concessions Maxwell et Sangre de Cristo, le Congrès appliqua la limite de la loi de 1824 à la concession de Las Animas, accordée par Armijo à Cornelio Vigil et Céran St. Vrain sur la Purgatoire, et ne la confirma qu'à environ 97 000 acres. Ebright souligne l'injustice d'appliquer la limite des onze lieues carrées à certaines concessions et pas à d'autres.",
+    "sources": "Ebright, Malcolm (1994), Land Grants and Lawsuits in Northern New Mexico, Albuquerque, University of New Mexico Press, p. 39.",
+    "note": "Position approximative au centre de la concession, entre la Purgatoire et l'Apishapa."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
