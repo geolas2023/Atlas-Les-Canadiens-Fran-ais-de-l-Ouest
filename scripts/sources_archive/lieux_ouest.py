@@ -2502,6 +2502,14 @@ G.update({
     'Wheaton (Wisconsin)': (-91.5500, 44.9000, 'c', "canton de Wheaton (comté de Chippewa, Wisconsin)"),
     'Tiffany (Wisconsin)': (-92.0000, 45.0500, 'c', "canton de Tiffany (comté de Dunn, Wisconsin)"),
     'Colburn (Wisconsin)': (-91.1200, 45.2200, 'c', "canton de Colburn (comté de Chippewa, Wisconsin)"),
+    'Menominee (Michigan)': (-87.6143, 45.1078, 'c', "Menominee (Michigan)"),
+    'Egg Harbor (Wisconsin)': (-87.2915, 45.0494, 'c', "Egg Harbor (Wisconsin)"),
+    'Somerset (Wisconsin)': (-92.6735, 45.1244, 'c', "Somerset (Wisconsin)"),
+    'Oconto (Wisconsin)': (-87.8648, 44.8872, 'c', "Oconto (Wisconsin)"),
+    'Eau Claire (Wisconsin)': (-91.4985, 44.8113, 'c', "Eau Claire (Wisconsin)"),
+    'Marquette (Michigan)': (-87.3956, 46.5436, 'c', "Marquette (Michigan)"),
+    'Ashwaubenon (Wisconsin)': (-88.0701, 44.4822, 'c', "Ashwaubenon (Wisconsin)"),
+    'Florence (Wisconsin)': (-88.2518, 45.9222, 'c', "Florence (Wisconsin)"),
 })
 
 
