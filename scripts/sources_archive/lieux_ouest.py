@@ -2540,6 +2540,10 @@ G.update({
     'Niles (Michigan)': (-86.2542, 41.8297, 'c', "Niles (Michigan)"),
     'Brownstown (Michigan)': (-83.2280, 42.1300, 'c', "Brownstown (Michigan)"),
     'Mount Clemens (Michigan)': (-82.8780, 42.5970, 'c', "Mount Clemens (Michigan)"),
+    'Saginaw (Michigan)': (-83.9508, 43.4195, 'c', "Saginaw (Michigan)"),
+    'Rivière aux Hurons (Clinton, Michigan)': (-82.8350, 42.5850, 'c', "Rivière aux Hurons (Clinton River, Michigan)"),
+    'Flint (Michigan)': (-83.6875, 43.0125, 'c', "Flint (Michigan)"),
+    'Pontiac (Michigan)': (-83.2910, 42.6389, 'c', "Pontiac (Michigan)"),
 })
 
 
