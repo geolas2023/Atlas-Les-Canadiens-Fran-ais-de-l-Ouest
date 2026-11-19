@@ -1126046,6 +1126046,2049 @@
      }
     ]
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-01",
+    "nom": "Santa Fe : Josef Charvet (« Gervaes »), interprète auprès des Pawnees (1805)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1805.333,
+    "fin": 1805.333,
+    "date_edtf": "1805-05",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Josef Charvet",
+     "Josef Gervaes",
+     "Baptiste La Lande",
+     "Jeanot Meteyer"
+    ],
+    "description": "En mai 1805, un Français nommé « Josef Charvet » demande à s'établir au Nouveau-Mexique pour servir d'interprète ; on l'affecte aussitôt aux villages pawnees, et il devient un éclaireur-interprète de confiance des Espagnols. Weber l'identifie au « Josef Gervaes » qui, selon le lieutenant-gouverneur Delassus (1804), connaissait bien la route de Santa Fe, y avait conduit des Pawnees venus faire la paix en 1803 et 1804, et devait y guider Baptiste La Lande et Jeanot Meteyer.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Weber cite le gouverneur Real Alencaster à Salcedo, 28 mai et 1er sept. 1805 (SANM, doc. 1838 et 1881) ; identification Gervaes = Charvet d'après Nuttall (1959), contestée par Loomis et Nasatir."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-02",
+    "nom": "Santa Fe et Chihuahua : Laurent Durocher, fondateur de la Compagnie du Missouri (1805-1806)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1806.999,
+    "date_edtf": "1805/1806",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Laurent Durocher",
+     "Baptiste La Lande",
+     "Pedro Vial",
+     "José Chalvet"
+    ],
+    "description": "Né au Canada en 1749, l'un des fondateurs de la Compagnie du Missouri, Laurent (Lorenzo) Durocher part de Saint-Louis en 1804, à cinquante-cinq ans, et arrive à Santa Fe avant mai 1805, peu après Baptiste La Lande. Le commandant général Salcedo convoque les deux Français à Chihuahua. Revenus en octobre 1805, ils tentent de quitter le pays avec l'expédition de Pedro Vial et de José Chalvet vers les Pawnees, mais des Indiens les attaquent sur l'Arkansas et les refoulent à Santa Fe. Durocher refait le voyage de Chihuahua à l'été 1806, puis disparaît des archives.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-03",
+    "nom": "Taos : « Juan Bautista LaLanda » (Baptiste La Lande), mort en février 1821",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1805.0,
+    "fin": 1821.083,
+    "date_edtf": "1805/1821-02",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste La Lande",
+     "William Morrison"
+    ],
+    "description": "Parti de l'Illinois en 1804 avec quelque 2 000 dollars de marchandises (sans doute pour William Morrison, de Kaskaskia), Baptiste La Lande ne revient jamais au Missouri, et les historiens l'ont traité d'escroc. Weber montre que les autorités espagnoles l'empêchaient de partir. Devenu « Juan Bautista LaLanda », il acquiert une terre à Taos, se marie au moins trois fois et a au moins cinq enfants avant sa mort en février 1821 ; on ne lui connaît aucune activité de traite après 1805.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position au village de Taos."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-04",
+    "nom": "Santa Fe : Dionisio Lacroix et Andrés Terien, trappeurs envoyés par Régis Loisel (juin 1805)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1805.417,
+    "fin": 1805.417,
+    "date_edtf": "1805-06",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Dionisio Lacroix",
+     "Andrés Terien",
+     "Régis Loisel",
+     "James Purcell"
+    ],
+    "description": "En juin 1805 arrivent à Santa Fe deux trappeurs français, Dionisio Lacroix et Andrés Terien, avec le charpentier James Purcell et deux chefs « Cuampes » (Arapahos ?). Ils disent avoir été envoyés traiter le castor par « M. Lauselle » (Régis Loisel), qui tenait le poste de la Côte Bleue (« de la cuesta Azul ») sur le Missouri ; capturés par des Kiowas, ils ont été libérés sous la protection des Cuampes. N'ayant d'autre métier que celui de trappeur, ils sont envoyés à Chihuahua en 1806 et ne reviennent sans doute jamais.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Weber s'appuie sur Salcedo à Alencaster, 19 juillet 1805 (SANM, doc. 1859), et Nuttall (1959)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.5,
+     38.05
+    ]
+   },
+   "properties": {
+    "id": "WB71-05",
+    "nom": "Rancherías kiowas de l'Arkansas : six Français et Juan Bautista La Casa (juillet 1806)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1806.503,
+    "fin": 1806.503,
+    "date_edtf": "1806-07-02",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Juan Bautista La Casa",
+     "Juan Lucero"
+    ],
+    "description": "Le 2 juillet 1806, le carabinier Juan Lucero trouve dans des rancherías kiowas, peut-être sur l'Arkansas, six Français et un Américain. L'un d'eux, inscrit dans les documents espagnols sous le nom de Juan Bautista La Casa, revient avec Lucero à Santa Fe (avant le 24 juillet) et est envoyé à Chihuahua.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position hypothétique sur l'Arkansas moyen ; Weber cite Real Alencaster à Salcedo, 30 août 1806 (SANM, doc. 2006)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.95,
+     40.0
+    ]
+   },
+   "properties": {
+    "id": "WB71-06",
+    "nom": "Villages pawnees : Andrés Sulier et Henrique Visonet ramenés par Melgares (octobre 1806)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1806.75,
+    "fin": 1806.75,
+    "date_edtf": "1806-10",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Andrés Sulier",
+     "Henrique Visonet",
+     "Facundo Melgares"
+    ],
+    "description": "En octobre 1806, revenant à Santa Fe après avoir vainement cherché Zebulon Pike, le lieutenant Facundo Melgares ramène deux jeunes Français trouvés chez les Pawnees, Andrés Sulier et Henrique Visonet (Bissonnet ?). Sans métier, ils sont envoyés à Chihuahua.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position hypothétique au village pawnee de la Republican (Kansas-Nebraska) ; Weber cite SANM, doc. 2022 et 2023."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-07",
+    "nom": "Santa Fe : Jacques Clamorgan arrive par les villages pawnees (décembre 1807)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1807.917,
+    "fin": 1807.917,
+    "date_edtf": "1807-12",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Clamorgan",
+     "Manuel Lisa"
+    ],
+    "description": "Équipée en 1806 par Manuel Lisa et Jacques Clamorgan, une expédition commerciale atteint Santa Fe en décembre 1807 par les villages pawnees de la Platte : Clamorgan, trois autres Français et un esclave. Envoyé à Chihuahua, Clamorgan obtient pourtant de vendre ses marchandises et rentre à Saint-Louis par le Texas avec un profit qu'il refuse de partager avec Lisa.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "WB71-08",
+    "nom": "Haut Arkansas : la dernière expédition de Jean-Baptiste Champlain chez les Arapahos (1811-1813)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1811.0,
+    "fin": 1813.167,
+    "date_edtf": "1811/1813-03",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Champlain",
+     "Jean-Baptiste Lafargue",
+     "Ezekiel Williams",
+     "Porteau",
+     "Manuel Lisa"
+    ],
+    "description": "Dès 1810, Jean-Baptiste Champlain connaît les montagnes entre le haut Rio Grande et le Columbia. En 1811, Manuel Lisa l'envoie traiter chez les Arapahos ; revenu au fort Mandan, il rapporte que les Espagnols du Mexique y envoient chaque année un convoi. Lisa l'équipe alors avec Jean-Baptiste Lafargue pour ouvrir le commerce de Santa Fe. Le groupe trappe l'Arkansas à l'automne et l'hiver 1811-1812, se replie sur la Platte, puis revient vers l'Arkansas ; harcelés par les Indiens, seuls Champlain, Ezekiel Williams et « Porteau » passent l'hiver 1812-1813 chez les Arapahos. Williams part seul en canot en mars 1813 ; Champlain est tué, par les Pieds-Noirs selon les Arapahos, par les Arapahos eux-mêmes selon les Shoshones.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position approximative sur le haut Arkansas. Le récit romancé de Coyner, The Lost Trappers (1847), s'inspire de cet épisode."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-09",
+    "nom": "Santa Fe, Chihuahua et Arizpe : Lafargue, Vesina, Grenié et Roi prisonniers (1812-1815)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1812.167,
+    "fin": 1815.999,
+    "date_edtf": "1812-03/1815",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Lafargue",
+     "Vesina",
+     "Grenié",
+     "Roi",
+     "José Antonio Casados"
+    ],
+    "description": "En mars 1812, José Antonio Casados, de Taos, rencontre quatre Français sur le « Llano » et les dirige vers le Nouveau-Mexique. Ce sont Jean-Baptiste Lafargue et trois compagnons, « Vesina, Grenie et Roi », échappés de l'expédition de Champlain. Interrogés à Santa Fe, ils sont envoyés à Chihuahua puis à Arizpe, où ils sont encore détenus en 1815. Lafargue serait rentré à Saint-Louis en 1817 avec Chouteau et De Mun ; on ne sait rien de ses compagnons.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Weber cite Casados à Ignacio Elías González, 11 avril 1813 (SANM, doc. 2484) et la lettre de Joseph Philibert (Missouri Gazette, 29 juillet 1815)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.2,
+     38.1
+    ]
+   },
+   "properties": {
+    "id": "WB71-10",
+    "nom": "Arkansas : Charles Sanguinet porte la lettre de Manuel Lisa « aux Espagnols du Nouveau-Mexique » (1812)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1812.667,
+    "fin": 1813.999,
+    "date_edtf": "1812-09/1813",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Sanguinet",
+     "Manuel Lisa",
+     "Jean-Baptiste Champlain"
+    ],
+    "description": "Sans nouvelles de Champlain, Manuel Lisa dépêche en septembre 1812 Charles Sanguinet, « déjà familier des Arapahos », avec une lettre invitant les Espagnols du Nouveau-Mexique à commercer. Sanguinet réussit à faire parvenir la lettre mais ne retrouve pas Champlain : les Arapahos lui apprennent que celui-ci a été tué avec deux autres et que « Lafargue et cinq autres » ont fui au Nouveau-Mexique.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position hypothétique sur l'Arkansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-11",
+    "nom": "Santa Fe : Josef Charvet ramène quatre trappeurs français (novembre 1814)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1814.833,
+    "fin": 1814.833,
+    "date_edtf": "1814-11",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Josef Charvet"
+    ],
+    "description": "En novembre 1814, Josef Charvet (« José Sarvet »), toujours interprète-éclaireur au service de l'Espagne, conduit à Santa Fe quatre Français qui trappaient le castor depuis six ans sur la Platte et d'autres rivières. Des Indiens de la « nación Cuampe » les avaient attaqués et avaient tué trois de leurs compagnons ; eux s'étaient cachés dans les bois de la rivière. Ils sont aussitôt envoyés à Chihuahua.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.9,
+     37.4
+    ]
+   },
+   "properties": {
+    "id": "WB71-12",
+    "nom": "Haut Rio Grande et Taos : le camp de Joseph Philibert et ses dix-huit Français (1814-1815)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1814.667,
+    "fin": 1815.167,
+    "date_edtf": "1814-09/1815-03",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Philibert",
+     "Ezekiel Williams"
+    ],
+    "description": "En 1814, dix-huit Français d'une compagnie dirigée par Joseph Philibert remontent l'Arkansas. En septembre, Philibert établit son camp de chasse « à environ quatre lieues au nord de l'endroit où le capitaine Pike fut pris par les Espagnols ». Selon son récit (Missouri Gazette, juillet 1815), deux de ses hommes cherchant des barrages de castors sont capturés par des chasseurs espagnols, puis 250 hommes du gouverneur saisissent le reste du groupe, marchandises et castors ; relâchés sur ordre de Durango, ils passent l'hiver à Taos. Weber doute de ce récit, qu'aucune autre source ne confirme. Au printemps 1815, Philibert laisse ses hommes sur l'Arkansas et va chercher des marchandises au Missouri ; en septembre, il vend « ses fourrures, ses marchandises, ses chevaux et le temps de ses hommes » à Chouteau et De Mun.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position hypothétique dans la vallée de San Luis, au nord du stockade de Pike sur le Conejos."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0,
+     39.74
+    ]
+   },
+   "properties": {
+    "id": "WB71-13",
+    "nom": "Front Range et Santa Fe : Joseph Bijeau dit Bissonette, guide de Long (1816-1820)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1816.0,
+    "fin": 1820.999,
+    "date_edtf": "1816/1820",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Bijeau",
+     "Joseph Bissonette",
+     "Stephen H. Long",
+     "Jules de Mun"
+    ],
+    "description": "Joseph Bijeau, ou Bissonette, trappeur d'expérience qui était avec Manuel Lisa sur le haut Missouri en 1812, fait partie de l'expédition Chouteau-De Mun. En 1816, il traite avec les Indiens près du site de Denver ; il connaît North Park et les sources de la North Platte, et il a vu Santa Fe « surtout à travers les barreaux du calabozo ». En 1820, guide et interprète de l'expédition du major Long, il décrit à Edwin James la région à l'ouest de la première chaîne des Rocheuses, des sources du Yellowstone à Santa Fe. Il revient s'établir à Santa Fe dans les années 1820.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. III.",
+    "note": "Position au confluent de la Cherry Creek et de la South Platte (Denver)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.92,
+     40.62
+    ]
+   },
+   "properties": {
+    "id": "WB71-14",
+    "nom": "Rivière Jordan : Provost et le chef shoshone « Bad Gocha » (octobre 1824)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1824.75,
+    "fin": 1824.75,
+    "date_edtf": "1824-10",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost",
+     "Bad Gocha",
+     "Peter Skene Ogden"
+    ],
+    "description": "Parti de Taos à la fin de l'été 1824 avec François Leclerc et une vingtaine ou une trentaine d'hommes, dont des Mexicains, Étienne Provost établit un camp de base à l'embouchure de la White River, sur la Green, puis franchit les Wasatch. En octobre 1824, sur la rivière Jordan, il est peut-être le premier Blanc à voir le Grand Lac Salé. Le chef shoshone « Bad Gocha » (Mauvais Gauche) invite ses hommes à fumer le calumet et à déposer les armes : huit sont massacrés, seuls Provost et un autre s'échappent. Selon Ogden, les Shoshones se vengeaient de la mort d'un des leurs, tué par un homme de la Compagnie de la Baie d'Hudson.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. V.",
+    "note": "Position approximative sur la Jordan (vallée du lac Salé)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.78,
+     41.14
+    ]
+   },
+   "properties": {
+    "id": "WB71-15",
+    "nom": "Canyon de la Weber : Provost et « François, chef iroquois », rencontrent Ogden (23 mai 1825)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1825.394,
+    "fin": 1825.394,
+    "date_edtf": "1825-05-23",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost",
+     "François (Iroquois)",
+     "Peter Skene Ogden",
+     "William Ashley"
+    ],
+    "description": "Le 23 mai 1825, dans le canyon de la Weber, Peter Skene Ogden voit arriver « un groupe de 15 Canadiens et Espagnols conduits par un certain Provost et par François, un chef iroquois » déserteur de sa brigade deux ans plus tôt. Ils lui apprennent que leur base, « Taas », n'est qu'à quinze jours de marche avec des chevaux chargés, et qu'elle est ravitaillée par chariots depuis Saint-Louis. Le 7 juin, Provost rencontre William Ashley près de l'actuelle Fruitland et l'aide à transporter son matériel ; ce sont les trappeurs de Taos qui apprennent à Ashley le nom de la Green (Rio Verde). Provost reste dans les montagnes jusqu'en septembre 1826.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. V.",
+    "note": "Position approximative à Mountain Green (Utah)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-16",
+    "nom": "Taos : « Francisco Le-Clair » et quatre autres Français demandent à épouser des Taoseñas (5 juin 1826)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1826.428,
+    "fin": 1826.428,
+    "date_edtf": "1826-06-05",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "François Leclerc"
+    ],
+    "description": "Le 5 juin 1826, un « Francisco Le-Clair » figure parmi cinq Français qui demandent la permission d'épouser des femmes de Taos. Weber pense qu'il s'agit sans doute de François Leclerc, l'associé énigmatique de Provost, dont on perd ensuite la trace (Dale Morgan le retrouve à Saint-Louis en septembre 1825).",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. V.",
+    "note": "D'après Chávez, « New Names in New Mexico, 1820-1850 », El Palacio."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.96,
+     41.36
+    ]
+   },
+   "properties": {
+    "id": "WB71-17",
+    "nom": "Poste de Cabanné (Council Bluffs) : le convoi Robidoux de 1824 pour Santa Fe",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1824.702,
+    "fin": 1824.746,
+    "date_edtf": "1824-09-14/1824-09-30",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Robidoux",
+     "François Robidoux",
+     "Isidore Robidoux",
+     "Manuel Alvarez",
+     "Jean-Pierre Cabanné",
+     "Antonio LaMarche",
+     "Joseph Gervais",
+     "Anastasio Lasalle",
+     "Charles Hotte",
+     "François Laroque",
+     "François Quenelle",
+     "Joseph Decary",
+     "Antoine Baucheam"
+    ],
+    "description": "Le 14 septembre 1824, Joseph Robidoux arrive au poste de Jean-Pierre Cabanné, près de Council Bluffs, « plein d'ardeur » pour les montagnes, et puise dans l'entrepôt de Bernard Pratte & Cie, son employeur, pour équiper douze « traiteurs pour le Mexique ». Le groupe comprend ses frères François et Isidore, Manuel Alvarez, Antonio LaMarche, José Martin, Joseph Gervais, Anastasio Lasalle, Charles Hotte, François Laroque, François Quenelle, Joseph Decary et Antoine Baucheam (Beauchamp ?). Furieux, Cabanné finit par acheter un tiers de l'entreprise. Le 30 septembre, le cantinier Kennerly note : « Robidoux party started for St. Afee to day. » Au printemps suivant, Cabanné écrit à Pierre Chouteau Jr. : « Plus de Robidoux ! Cet homme causera notre ruine ! »",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI.",
+    "note": "Liste des membres d'après la lettre d'introduction du gouverneur McNair, 3 sept. 1824 (dossier de naturalisation d'Alvarez, New Mexico Land Grant Papers, bobine 6, n° 1132)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-18",
+    "nom": "Taos : François Robidoux, ses marchandises saisies et sa licence de trappe (1824-1826)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1824.899,
+    "fin": 1826.079,
+    "date_edtf": "1824-11-25/1826-01-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "François Robidoux",
+     "Bartolomé Baca",
+     "Juan Bautista Vigil",
+     "Luisa Romero"
+    ],
+    "description": "François Robidoux arrive à Taos pour la première fois le 25 novembre 1824 ; l'alcalde confisque ses marchandises. En mars 1825, le gouverneur Bartolomé Baca les fait rendre, interdit à Robidoux de vendre des armes aux Indiens, mais précise que lui et les autres Américains peuvent commercer et trapper le castor dans les rivières du Nouveau-Mexique ; Robidoux reçoit alors une licence de trappe au nom du percepteur Juan Bautista Vigil. Le 14 janvier 1825, il se plaint à l'alcalde d'une « accusation calomnieuse ». Taos devient son foyer : le 30 janvier 1826, Luisa Romero lui donne une fille.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI.",
+    "note": "Weber cite le témoignage de François Robidoux, 9 déc. 1825 (MANM), sa lettre à l'alcalde, 14 janv. 1825 (Ritch Papers, n° 82) et Baca à l'alcalde, 3 mars 1825 (MANM)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.447,
+     35.372
+    ]
+   },
+   "properties": {
+    "id": "WB71-19",
+    "nom": "San Miguel del Vado et Taos : Céran St. Vrain et François Guérin (1825)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1825.167,
+    "fin": 1825.5,
+    "date_edtf": "1825-03/1825-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran St. Vrain",
+     "François Guérin",
+     "Lafleche",
+     "Bernard Pratte",
+     "Tomás Sena"
+    ],
+    "description": "À l'automne 1824, Céran St. Vrain, vingt-deux ans, élevé dans la maison du général Bernard Pratte, s'associe à François Guérin, Pratte & Cie détenant le tiers des parts. Partis de Saint-Louis en novembre, ils sont signalés fin mars 1825 à San Miguel del Vado : l'alcalde Tomás Sena annonce deux Français et trois Américains, dont le bétail a été volé. À Taos, les affaires vont mal : St. Vrain congédie un engagé nommé « Lafleche », renvoyé à Saint-Louis avec 25 peaux de castor ; Guérin vend sa part et rentre avec une lettre de St. Vrain, qui espère vendre ses marchandises « à Provoe et Leclere » au retour des chasseurs.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI.",
+    "note": "Lettre de St. Vrain à sa mère, Taos, juillet 1825 (Chouteau Collection)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.8,
+     40.22
+    ]
+   },
+   "properties": {
+    "id": "WB71-20",
+    "nom": "Lac Utah : la chasse de Céran St. Vrain (automne 1825 - juillet 1826)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1825.667,
+    "fin": 1826.5,
+    "date_edtf": "1825-09~/1826-07",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Céran St. Vrain",
+     "Sylvestre Pratte",
+     "Thomas L. Smith"
+    ],
+    "description": "Après avoir équipé à Taos un groupe de dix trappeurs (dont, selon ses souvenirs, Peg-leg Smith) pour la San Miguel et d'autres affluents de la Grand, Céran St. Vrain conduit lui-même à l'automne 1825 dix-huit ou vingt hommes vers le lac Utah, pour le compte de Sylvestre Pratte. Ils ne reviennent qu'au début de juillet 1826, sans être inquiétés par les autorités.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI-VII.",
+    "note": "Position au lac Utah."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-21",
+    "nom": "Taos : arrivée de Sylvestre Pratte et de ses 116 hommes (26 octobre 1825)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1825.818,
+    "fin": 1825.818,
+    "date_edtf": "1825-10-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Sylvestre Pratte",
+     "Jean-Pierre Cabanné",
+     "James Ohio Pattie",
+     "James Baird",
+     "Juan Bautista Vigil"
+    ],
+    "description": "Fils aîné du général Bernard Pratte, né à Saint-Louis en 1799, Sylvestre S. Pratte quitte les environs de Council Bluffs le 30 juillet 1825 avec 116 hommes (selon Pattie), à la grande irritation de Cabanné qui le juge incapable. Il s'arrête en chemin pour traiter des robes de bison avec les Pawnees et du castor avec les Utes de l'Arkansas, et arrive à Taos le 26 octobre, quelques jours avant les Robidoux. Comme eux, il enterre une partie de ses marchandises à l'est des montagnes de Taos pour éviter les droits ; le percepteur Vigil, venu de Santa Fe le 12 novembre, accepte ses papiers et lui fait obtenir du gouverneur Narbona une licence de trappe. Pratte envoie l'hiver suivant au moins trois groupes : sur le haut Rio Grande, vers le lac Utah (St. Vrain) et un troisième parti en février.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-22",
+    "nom": "Taos : les fourrures de François Robidoux et de Sylvestre Pratte saisies (1826)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1826.358,
+    "fin": 1827.583,
+    "date_edtf": "1826-05-10/1827-08",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "François Robidoux",
+     "Sylvestre Pratte",
+     "Antonio Narbona",
+     "Severino Martínez",
+     "Agustín Durán"
+    ],
+    "description": "Le 10 mai 1826, l'alcalde de Taos saisit les castors de François Robidoux (26 arrobas, environ 630 livres) et de Sylvestre Pratte (75 arrobas, environ 1 885 livres), malgré leurs licences des gouverneurs Baca et Narbona, que la députation vient de révoquer. Narbona fait rendre les peaux et protège les hommes partis avant la révocation. Mais le 12 novembre, quand un troisième groupe de Pratte revient à Taos, le gouverneur ordonne une nouvelle saisie ; l'alcalde Martínez trouve huit trappeurs de Pratte et cinq de Robidoux gardant les fourrures dans une maison dont Pratte a la clé. L'alcalde de Santa Fe donne raison à Pratte le 1er décembre, mais Narbona refuse de rendre les peaux ; l'affaire est encore pendante à Parral en août 1827.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-23",
+    "nom": "Taos : François Robidoux part chercher ses « entierros » chez les Utes (mars 1827)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1827.167,
+    "fin": 1827.167,
+    "date_edtf": "1827-03",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "François Robidoux",
+     "Denis Julien",
+     "Jean-Baptiste Trudeau",
+     "José Neuture",
+     "Manuel Gervais",
+     "Francisco Gervais",
+     "Antoine Blanchard",
+     "Antoine Leroux",
+     "Jean-Baptiste Chalifoux",
+     "Pablo Loise",
+     "Maurice LeDuc",
+     "Charles Chouteau",
+     "Jules Declouet",
+     "Francisco Mitote"
+    ],
+    "description": "Dans un rapport d'avril 1827 au gouverneur Narbona, l'alcalde Manuel Martínez note qu'en mars François Robidoux est parti de Taos « en direction du pays des Utes » pour récupérer des « entierros » (objets enterrés, sans doute les fourrures cachées « en pays indien »). Il nomme ses compagnons : Dionicio Julian (Denis Julien), Bautista Trudean (Trudeau), José Neuture, Manuel et Francisco Gervais, Antonio Blanchare (Antoine Blanchard, marié à Taos en juillet 1826), Antonio Leroux, Bautista Chalifon (Jean-Baptiste Chalifoux), Pablo Loise, Mauricio Ledue (Maurice LeDuc), Charles Chonteau, Jules Declovette (Julio Decluet, natif de La Nouvelle-Orléans, autorisé à se marier à Taos en juin 1829) et un certain Metote.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VII.",
+    "note": "Weber cite le rapport de Manuel Martínez, avril 1827 (Weber, Extranjeros, p. 38)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-24",
+    "nom": "Taos : Francisco Mitote épouse Maria Josefa, une femme tête-plate (1828)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1828.0,
+    "fin": 1828.999,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francisco Mitote",
+     "Maria Josefa"
+    ],
+    "description": "« Metote », compagnon de François Robidoux en 1827, est sans doute le « Francisco Mitote » de cinquante-huit ans qui revient à Taos en 1828 pour épouser Maria Josefa, une femme tête-plate (salish) qui lui a déjà donné quatre enfants pendant les dix-huit ans de leur vie commune. À l'automne 1827, il était reparti vers les Rocheuses avec Sylvestre Pratte.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-25",
+    "nom": "Taos : les vingt-deux trappeurs de Pratte partis « hors de la Fédération mexicaine » (janvier 1827)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1827.0,
+    "fin": 1827.0,
+    "date_edtf": "1827-01",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Sylvestre Pratte",
+     "Céran St. Vrain",
+     "Luis Ambroise",
+     "Bautista Chauno",
+     "Jean Vaillant",
+     "Manuel Lefèvre",
+     "Charles Beaubien",
+     "Hugh Glass",
+     "S. Desporte",
+     "F. Braie",
+     "G. Olivier",
+     "Pled Riche",
+     "Senecal",
+     "Duchaine",
+     "Vertefeuille",
+     "Livernois",
+     "François Laforest",
+     "Lafargue",
+     "Baptiste St. Germain",
+     "Simon Clert",
+     "Jurome"
+    ],
+    "description": "En janvier 1827, selon l'alcalde Manuel Martínez, Sylvestre Pratte envoie vingt-deux trappeurs « hors des limites de la Fédération mexicaine », sans doute sous la conduite de Céran St. Vrain : Luis Ambroise, Bautista Chauno, Juan (Jean) Vaillant, Manuel Lefaivre (marié à Taos un mois plus tôt), (Charles) Beaubien (qui s'y marie à l'automne), (Hugh ?) Glas, S. Desporte, F. Braie, G. Olivier, Pled Riche, Senecal, Duchaine, Vertefeville et son fils, Livernois, (François) Laforest, Lafargue, Brown, (Baptiste) St. Germain, Simon Clert et Jurome. Beaucoup résident à Taos. Le « Glas » pourrait être le légendaire Hugh Glass, blessé peu après par des Shoshones lors d'une chasse en pays ute.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.4,
+     40.17
+    ]
+   },
+   "properties": {
+    "id": "WB71-26",
+    "nom": "Rivière Duchesne (Utah) : un nom venu du trappeur « Duchaine » ? (1826-1827)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1827.0,
+    "fin": 1827.999,
+    "date_edtf": "1827",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Duchaine"
+    ],
+    "description": "L'origine du nom de la rivière Duchesne, dans le nord-est de l'Utah, n'a jamais été éclaircie. Weber suggère qu'elle vient du « Duchaine » de l'expédition de Pratte de 1826-1827, ce qui prouverait jusqu'où allaient ses trappeurs.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VII.",
+    "note": "Hypothèse de Weber ; position sur la Duchesne près de la ville du même nom."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-27",
+    "nom": "Taos : Baptiste St. Germain, marié en 1824 (1824-1841)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1824.0,
+    "fin": 1841.999,
+    "date_edtf": "1824/1841",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste St. Germain"
+    ],
+    "description": "Baptiste St. Germain, peut-être le St. Germain qui traitait illégalement avec les Indiens en Iowa en 1818, se marie à Taos en 1824 et y vit au moins jusqu'en 1841 ; il fait partie des trappeurs de Pratte en 1827.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-28",
+    "nom": "Taos : les Français arrivés en 1824 d'après leurs demandes de citoyenneté",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1824.0,
+    "fin": 1824.999,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gervais Nolan",
+     "Jean-Baptiste Trudeau",
+     "Anastasio Cariel",
+     "Jean Vaillant",
+     "Charles Beaubien",
+     "Joseph Bissonette",
+     "Antoine Leroux"
+    ],
+    "description": "Beaucoup de Français venus avec les Robidoux ou avec Pratte s'établissent discrètement à Taos. Dans leurs demandes de citoyenneté mexicaine, Gervais Nolan, Jean-Baptiste Trudeau, Anastasio Cariel, Jean Vaillant, Carlos Beaubien, Joseph Bissonette et Antoine Leroux déclarent être arrivés au Nouveau-Mexique en 1824 (Beaubien semble dire 1823 ; un passeport de William Clark pour lui et d'autres, par Council Bluffs, est daté du 29 décembre 1823). En 1853, Leroux dira avoir trappé « tout le pays, chaque rivière, chaque ruisseau, de la Gila aux sources de la Grand ».",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI.",
+    "note": "Passeport de Clark : Ritch Papers, n° 79."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-29",
+    "nom": "Taos : José Manuel (Hiram ?) Allen, Canadien baptisé à trente et un ans (1828)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1828.0,
+    "fin": 1828.999,
+    "date_edtf": "1828",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "José Manuel Allen",
+     "James Ohio Pattie"
+    ],
+    "description": "Le « Allen » qui descend le Rio Grande avec les Pattie et trois hommes de Pratte à la fin de novembre 1825, vers les mines de cuivre de Santa Rita, est peut-être José Manuel (Hiram ?) Allen, un Canadien baptisé à Taos en 1828, à trente et un ans, et devenu citoyen mexicain en 1830.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.97,
+     32.22
+    ]
+   },
+   "properties": {
+    "id": "WB71-30",
+    "nom": "Gila et Tucson : les frères Chalifoux et Luciano Grijalva (automne 1826)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1826.75,
+    "fin": 1826.917,
+    "date_edtf": "1826-10/1826-12",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Chalifoux",
+     "Pierre Chalifoux",
+     "Luciano Grijalva",
+     "James Baird"
+    ],
+    "description": "À l'automne 1826, Jean-Baptiste Chalifoux et son frère Pierre partent avec Luciano Grijalva et James Baird pour une expédition de trappe sur la Gila ; Baird, malade, retourne mourir à El Paso, mais les Chalifoux et Grijalva continuent jusqu'à Tucson pour trapper. Jean-Baptiste rejoint ensuite François Robidoux (1827), tient dans les années 1840 un poste à Embudo, où Ruxton le trouve en 1846 « vieux trappeur canadien » devenu paisible ranchero, puis bâtit en 1860 sans doute la première maison de Trinidad (Colorado).",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VIII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.6,
+     33.0
+    ]
+   },
+   "properties": {
+    "id": "WB71-31",
+    "nom": "Gila : « Miguel Rubidu y Pratt » et leurs trente hommes (automne 1826)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1826.667,
+    "fin": 1827.25,
+    "date_edtf": "1826-09/1827-04",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel Robidoux",
+     "Sylvestre Pratte",
+     "Céran St. Vrain",
+     "Ewing Young"
+    ],
+    "description": "À l'automne 1826, le gouverneur Narbona compte quatre groupes de trappeurs partis vers la Gila, environ quatre-vingt-dix hommes : celui de « Sambrano » (St. Vrain) et Williams, une vingtaine ; celui de « Miguel Rubidu y Pratt » (Michel Robidoux et Pratte), une trentaine ; ceux de Juan Roles et de « Joaquin Joven » (Ewing Young), dix-huit chacun. Antoine Robidoux et Charles Beaubien reçoivent aussi des guías cet automne-là. Fin octobre, seize trappeurs de Williams et St. Vrain sont signalés dans un village maricopa près de Tucson.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VIII.",
+    "note": "Position hypothétique sur la haute Gila."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.2,
+     33.38
+    ]
+   },
+   "properties": {
+    "id": "WB71-32",
+    "nom": "Embouchure de la Salt (Phoenix) : le groupe français de Michel Robidoux massacré (hiver 1826-1827)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1826.833,
+    "fin": 1827.0,
+    "date_edtf": "1826-11~/1827-01~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel Robidoux",
+     "James Ohio Pattie",
+     "Ewing Young"
+    ],
+    "description": "Le groupe de « Miguel Rubidu », composé presque entièrement de trappeurs français, descend le Rio Grande jusqu'aux mines de cuivre de Santa Rita (septembre 1826 ?), où James Ohio Pattie le rejoint, puis suit la Gila jusqu'à l'embouchure de la Salt, à l'actuelle Phoenix. Là, selon Pattie, l'imprudence de Michel Robidoux permet aux Papagos (Tohono O'odham) de massacrer tout le groupe ; seuls Pattie, un Français anonyme et Robidoux en réchappent. Ils se joignent à la trentaine de trappeurs d'Ewing Young, qui descendent la Gila jusqu'au Colorado puis remontent jusqu'aux villages mohaves.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. VIII.",
+    "note": "Pattie ne nomme ni Robidoux ni Young ; identification de J. J. Hill (1923), dates corrigées par Weber. Position hypothétique au confluent de la Salt et de la Gila."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.24,
+     34.05
+    ]
+   },
+   "properties": {
+    "id": "WB71-33",
+    "nom": "Californie : les Français de Taos se mutinent contre Ewing Young (1830)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1829.583,
+    "fin": 1831.103,
+    "date_edtf": "1829-08/1831-02-08",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Turcote",
+     "Jean Vaillant",
+     "Anastasio Carier",
+     "Ewing Young",
+     "Kit Carson"
+    ],
+    "description": "En août 1829, Ewing Young quitte Taos pour la Californie avec quarante hommes, « Américains, Canadiens et Français », dont le jeune Kit Carson et trois Français de Taos : François Turcote, ancien engagé de Pratte (1827-1828), Jean Vaillant, né en France et arrivé au Nouveau-Mexique en 1824, et Anastasio Carier, un Canadien marié à Taos en 1824. En Californie, les trois désertent et cherchent des passeports pour rentrer. Young écrit : « Tous les Français que j'ai avec moi me devaient de grosses dettes et, ne voulant pas les payer, se sont mutinés. » Vaillant est de retour à Taos le 8 février 1831 pour demander sa naturalisation.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. IX.",
+    "note": "Position hypothétique à Los Angeles ; Weber cite le rapport de Manuel Martínez (7 avril 1827) et le dossier de naturalisation de Juan José Vaillant (8 févr. 1831, MANM)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.5,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "WB71-34",
+    "nom": "Vieille piste espagnole : Francisco Laforet et Baptiste St. Germain avec Wolfskill (1830-1831)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1830.667,
+    "fin": 1831.083,
+    "date_edtf": "1830-09/1831-02",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francisco Laforet",
+     "Baptiste St. Germain",
+     "William Wolfskill",
+     "George C. Yount"
+    ],
+    "description": "La caravane de William Wolfskill, partie de Taos à l'automne 1830, est la première à parcourir la route qui deviendra la Vieille piste espagnole entre Santa Fe et Los Angeles. Parmi ses trappeurs libres figurent deux anciens hommes de Sylvestre Pratte, Francisco Laforet et Baptiste St. Germain. Wolfskill et Yount s'établissent en Californie ; Laforet, lui, retourne au Nouveau-Mexique poursuivre sa carrière dans les montagnes.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. IX.",
+    "note": "Position hypothétique sur la piste, dans le sud-ouest de l'Utah."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-35",
+    "nom": "Taos : le gouverneur Chávez écrit à l'alcalde Luis Robidoux au sujet d'Ewing Young (août 1831)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1831.583,
+    "fin": 1831.583,
+    "date_edtf": "1831-08",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Robidoux",
+     "José Antonio Chávez",
+     "Ewing Young"
+    ],
+    "description": "En août 1831, le gouverneur José Antonio Chávez écrit à Luis (Louis) Robidoux, alors alcalde de Taos, pour s'étonner qu'on n'ait pas emprisonné « l'étranger Joaquín Yon », dont « les crimes et l'impudence sont déjà insupportables », et lui demande de l'arrêter et de l'envoyer juger à Santa Fe, où vivent les témoins et où la prison est plus sûre. Young ne sera jamais jugé avant son second départ pour la Californie.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. IX.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-36",
+    "nom": "Santa Fe : licence de trappe accordée à Antoine Robidoux et David Waldo (19 septembre 1831)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1831.716,
+    "fin": 1831.716,
+    "date_edtf": "1831-09-19",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Robidoux",
+     "David Waldo",
+     "José Antonio Chávez",
+     "Ewing Young"
+    ],
+    "description": "Le 17 septembre 1831, David Waldo demande en son nom et en celui d'Antoine Robidoux, tous deux citoyens mexicains, une licence de trappe ; le gouverneur Chávez l'accorde le 19. Quand les fourrures d'Ewing Young, non naturalisé, sont saisies l'année suivante, David Jackson produit pour les justifier une licence de Waldo, probablement celle-là.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. IX.",
+    "note": "Demande et réponse dans les MANM."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.4,
+     33.997
+    ]
+   },
+   "properties": {
+    "id": "WB71-37",
+    "nom": "Californie : Louis Robidoux et Jean Jeantet s'établissent pour de bon (1844)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1844.0,
+    "fin": 1844.999,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Robidoux",
+     "Jean Jeantet"
+    ],
+    "description": "En 1844, Louis Robidoux et Jean Jeantet, ancien engagé de Sylvestre Pratte, arrivent en Californie avec une caravane de marchands mexicains et s'y établissent définitivement. Ni l'un ni l'autre ne retourne au Nouveau-Mexique ; Robidoux devient un grand ranchero (Jurupa).",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. IX.",
+    "note": "Weber cite Minge (1965) et les lettres de Juan Estevan et de Cruz Jeantet à Cragin (1908). Position au rancho de Jurupa."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6,
+     36.2
+    ]
+   },
+   "properties": {
+    "id": "WB71-38",
+    "nom": "« Des Oignons chauds » : la cache des contrebandiers sur la piste de Santa Fe (années 1830)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1837.0,
+    "fin": 1837.999,
+    "date_edtf": "1837~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [],
+    "description": "Dans les années 1830, les marchands américains cachent leurs marchandises avant d'entrer au Nouveau-Mexique pour éviter les douanes. Un agent du ministère mexicain des Affaires étrangères en connaît même l'emplacement, qu'il désigne comme « l'endroit appelé, en français, des Oignons chauds ». Le nom français témoigne de la présence des voyageurs créoles et canadiens sur la piste.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XII.",
+    "note": "Lieu non identifié ; position hypothétique sur la Canadian (Rio Colorado), où les troupes mexicaines attendaient les caravanes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.1,
+     37.1
+    ]
+   },
+   "properties": {
+    "id": "WB71-39",
+    "nom": "Haut Rio Grande et Conejos : Simon Carat et Antoine Leroux trappent avec Lamelas (1827-1828)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1827.667,
+    "fin": 1828.083,
+    "date_edtf": "1827-09/1828-02",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Simon Carat",
+     "Antoine Leroux",
+     "Domingo Lamelas",
+     "José María Meras",
+     "Vicente Guion"
+    ],
+    "description": "Domingo Lamelas obtient du gouverneur Narbona une licence de trappe à condition de n'emmener aucun étranger. En septembre 1827, il quitte pourtant Taos avec José María Meras et deux Français, Simon Carat et Antoine Leroux (« Joaquin Leru »), servis par deux garçons. Sous contrat avec Sylvestre Pratte, ils trappent les sources du Rio Grande et le Conejos, dans la vallée de San Luis, et rentrent à Taos en février 1828 avec huit tercios de castor, vendus pour l'essentiel au marchand américain Vicente Guion.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. X.",
+    "note": "Position approximative sur le Conejos."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.32,
+     36.21
+    ]
+   },
+   "properties": {
+    "id": "WB71-40",
+    "nom": "Abiquiu et Santa Fe : Jean-Baptiste Trudeau achète des fourrures utes pour Vicente Guion (1827-1828)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1827.833,
+    "fin": 1828.138,
+    "date_edtf": "1827-11/1828-02-21",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Trudeau",
+     "Vicente Guion",
+     "Manuel Alvarez",
+     "Paul Baillio",
+     "Louis Robidoux"
+    ],
+    "description": "Vicente Guion, d'une vieille famille de Saint-Louis, arrive à Taos en novembre 1827 avec Paul Baillio, Thomas Boggs, Manuel Alvarez et Luis Robidoux. Il envoie aussitôt à Abiquiu deux agents : Juan Bautista Trudeau, Franco-Américain installé à Taos, marié en juillet 1826, et un certain « Americanito ». Ils achètent les fourrures que les traiteurs mexicains (Pedro León, Tomás Chacón) ont obtenues des Utes. Le 21 février 1828, cinq tercios de Guion sont saisis à Santa Fe ; devant l'alcalde Pino, Guion explique par l'intermédiaire d'Alvarez qu'il les a achetés à des Mexicains qui les tenaient des Utes et des Kiowas.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. X.",
+    "note": "Position à Abiquiu ; papiers de la saisie du 22 févr. 1828 (MANM)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.49,
+     36.98
+    ]
+   },
+   "properties": {
+    "id": "WB71-41",
+    "nom": "Paraje de la Costilla : François Guérin et les castors de Leroux et Carat (printemps 1828)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1828.167,
+    "fin": 1828.333,
+    "date_edtf": "1828-03/1828-05",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Guérin",
+     "Antoine Leroux",
+     "Simon Carat",
+     "Palla",
+     "Conta",
+     "Rafael Córdova"
+    ],
+    "description": "En mars 1828, Antoine Leroux et Simon Carat repartent vers l'Arkansas et « le pays des Kiowas », qu'ils croient hors du territoire mexicain, avec deux Mexicains, deux Français appelés « Palla » et « Conta », et un garçon de Taos, Rafael Córdova. Au retour, au « paraje de la Costilla », François Guérin leur achète dix-neuf peaux. L'alcalde de Taos confisque les vingt-sept qui restent. Devant l'alcalde Pino à Santa Fe, Guérin dit d'abord avoir rapporté les fourrures de nuit, puis prétend qu'elles sont tombées au fond d'un arroyo plein d'eau, sans témoin. Pino conclut que Leroux et Carat ont trappé illégalement.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. X.",
+    "note": "Position hypothétique sur la Costilla, près de la frontière actuelle du Colorado."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     40.7
+    ]
+   },
+   "properties": {
+    "id": "WB71-42",
+    "nom": "North Park : mort de Sylvestre Pratte au milieu de ses trappeurs français (vers le 1er octobre 1827)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1827.75,
+    "fin": 1827.75,
+    "date_edtf": "1827-10-01~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Sylvestre Pratte",
+     "Céran St. Vrain",
+     "Joseph Bissonette",
+     "Isidore Antaya",
+     "Pierre Laliberté",
+     "Jean Jeantet",
+     "Jean Chavelon",
+     "Jules Ducet",
+     "Baptiste Lafargue",
+     "François Laforet",
+     "J. Leblond",
+     "F. Vertefeuille",
+     "François Turcotte",
+     "B. Tourville",
+     "B. Bissonette",
+     "Thomas L. Smith"
+    ],
+    "description": "En août 1827, Sylvestre Pratte, endetté et désavoué par son père, quitte Abiquiu avec trente-six hommes et Céran St. Vrain comme commis. Hormis Thomas L. Smith et Antonio Romero (« Romero Spaniard », le seul Mexicain), presque tous sont d'origine française : Joseph Junair, Joseph Bijouse (Bissonette dit Bijeau, l'ancien guide de Long), Isidore Antaya, Pierre Laliberté, Jean Jeantet, Jean Chavelon, Jules Ducet, Baptiste Lafarque, P. Carpantuer, A. Alanard, L. Snecall, François Laforet, J. Leblond, F. Vertefeuil et son fils, François Turcotte, F. Metote, B. Tourvill, B. Bissonette, et peut-être Manard et Bouchar. Vers le 1er octobre, dans les prairies de North Park, aux sources de la North Platte, Pratte meurt après une brève maladie ; dix jours plus tard, Smith est blessé à la jambe. Les hommes se tournent vers St. Vrain, qui prend en charge leurs gages et les conduit sur la Green.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. X.",
+    "note": "Liste d'après la déclaration des trappeurs de Pratte, 1er sept. 1829 (Chouteau Collection)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.32,
+     36.21
+    ]
+   },
+   "properties": {
+    "id": "WB71-43",
+    "nom": "Abiquiu : St. Vrain vend 1 636 livres de castor et sauve la chasse de Pratte (mai 1828)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1828.372,
+    "fin": 1828.417,
+    "date_edtf": "1828-05-15~/1828-06",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran St. Vrain",
+     "Paul Baillio",
+     "Juan Estevan Pino"
+    ],
+    "description": "Faute de munitions, St. Vrain renonce à rapporter les fourrures au Missouri par la Platte et revient vers le Nouveau-Mexique. À la mi-mai 1828, à Abiquiu, il vend 1 636 livres de castor (environ mille peaux) pour 5 780,50 dollars, sans doute à son associé Paul Baillio, qui les fait sortir discrètement du territoire. Quand l'alcalde arrête quelques-uns de ses hommes vers le 20 mai, ils n'ont plus que onze peaux. Devant l'alcalde Pino, à Santa Fe, St. Vrain dit ignorer quelle licence Pratte avait obtenue et avoir perdu 150 peaux dans le Rio Grande. Pino lui fait rendre ses trente-deux pièges. La succession de Pratte reste déficitaire de 522 dollars, que St. Vrain paie de sa poche.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. X.",
+    "note": "Position à Abiquiu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-44",
+    "nom": "Taos et Santa Fe : Beaubien, Nolan et les Robidoux, premiers étrangers naturalisés mexicains (1829)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1829.141,
+    "fin": 1829.999,
+    "date_edtf": "1829-02-22/1829-12-31",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Beaubien",
+     "Gervais Nolan",
+     "Antoine Robidoux",
+     "Louis Robidoux",
+     "Jean Jeantet",
+     "José Alejandro Marion",
+     "Alexander Branch"
+    ],
+    "description": "Le 22 février 1829, deux Canadiens français, Charles Beaubien et Gervais Nolan, se déclarent prêts à renoncer à leur fidélité envers la Couronne britannique ; le 25 juin, ils sont les premiers étrangers naturalisés au Nouveau-Mexique en vertu de la nouvelle loi. Antoine et Louis Robidoux demandent la citoyenneté le 16 juillet et l'obtiennent le lendemain. Avant la fin de l'année suivent notamment Jean Jeantet et José Alejandro Marion (avec Alexander Branch, le 31 décembre). Beaubien deviendra l'un des citoyens les plus en vue de Taos et l'un des trois juges du premier tribunal territorial.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XI.",
+    "note": "Weber cite la demande de Beaubien (MANM), celle de Nolan et la lettre des Robidoux au gouverneur Chávez, 16 juillet 1829 (Ritch Papers, n° 109, 111, 113)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-45",
+    "nom": "Taos : les naturalisations françaises et canadiennes de 1830",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1830.0,
+    "fin": 1830.999,
+    "date_edtf": "1830",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Abraham Ledoux",
+     "Geronimo Lonte",
+     "Pierre Laliberté",
+     "Antoine Leroux",
+     "Joseph Bissonette",
+     "Amable Para",
+     "Antoine Blanchard",
+     "Jean-Baptiste Trudeau",
+     "Luis Ambroise",
+     "Carlos Guara",
+     "François Siote",
+     "Pierre Lesperance",
+     "José Manuel Allen"
+    ],
+    "description": "En 1830, une nouvelle vague d'étrangers demande la naturalisation, presque tous liés à la traite : Abraham Ledoux, Geronimo Lonte (un Canadien arrivé le 26 octobre 1825, le même jour que Pratte et Pattie), Pedro Laliberté, Antoine Leroux, José Bissonette, Amable Para (un Canadien à Taos depuis 1822), Antonio Blanchilla (Blanchard ?), Jean-Baptiste Trudeau (naturalisé en septembre), Luis Ambroise, Carlos Guara (un Français à Taos depuis 1826), Francisco Siote et Pierre Lesperance (deux Canadiens, qui obtiennent aussitôt un permis de trappe ; Lesperance trappait peut-être en territoire mexicain dès 1815), ainsi que José Manuel Allen, un Canadien. Allen, Laliberté, Leroux et Ambroise se déclarent franchement « cazadores », chasseurs, c'est-à-dire trappeurs. En 1832, l'American Fur Company doit 1 600 dollars à Leroux et 789,42 à Laliberté pour des traites de Vanderburgh.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-46",
+    "nom": "Taos : les frères Abraham et Antoine Ledoux, anciens des Pawnees",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1841.999,
+    "date_edtf": "1824/1841",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Abraham Ledoux",
+     "Antoine Ledoux",
+     "Stephen H. Long"
+    ],
+    "description": "Les frères Abraham et Antoine Ledoux vivent et traitent chez les Pawnees à la fin des années 1810 ; en 1820, l'expédition de Stephen H. Long engage Abraham comme chasseur et maréchal-ferrant sur la Platte. Après qu'une flèche pawnee a failli tuer Abraham en 1824, les deux frères passent au Nouveau-Mexique et y vivent paisiblement : Abraham est naturalisé en 1830, Antoine en 1841.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-47",
+    "nom": "Santa Fe : Jean-Baptiste Trudeau veut être interprète officiel (novembre 1833)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1833.861,
+    "fin": 1833.861,
+    "date_edtf": "1833-11-11",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Trudeau"
+    ],
+    "description": "Arrivé au Nouveau-Mexique en 1824, marié à Taos en 1826, trappeur de François Robidoux en 1827 et naturalisé en septembre 1830, « Bautista Truido » écrit au gouverneur Sarracino le 11 novembre 1833 : il parle parfaitement la langue des Arikaras (Pawnees) et sollicite le poste d'interprète officiel.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XI.",
+    "note": "Trudeau au gouverneur Sarracino, 11 nov. 1833 (MANM)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-48",
+    "nom": "Santa Fe : Antoine et Louis Robidoux, marchands et magistrats (1829-1839)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1829.969,
+    "fin": 1839.999,
+    "date_edtf": "1829-12-20/1839",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Robidoux",
+     "Louis Robidoux",
+     "José Antonio Vizcarra",
+     "Matt Field"
+    ],
+    "description": "Citoyens mexicains depuis 1829, les Robidoux pèsent sur la vie politique et économique de Santa Fe. Antoine est élu neuvième regidor en décembre 1829, puis troisième alcalde en 1833 ; son élection est contestée par l'ancien gouverneur Vizcarra et l'affaire remonte jusqu'à Mexico. Il tient un magasin bien pourvu, cambriolé en 1829 et en 1831, expédie des marchandises à Chihuahua et achète une mine le 19 février 1834. Louis est premier alcalde de Santa Fe en 1839 ; selon Matt Field, du Picayune, il « partage presque également le gouvernement avec le gouverneur et les prêtres ». Il exploite un moulin et une forge, où il fabrique peut-être des pièges.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "WB71-49",
+    "nom": "Little Snake River : rixe mortelle chez les trappeurs français et mexicains de John Harris (20 décembre 1831)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1831.969,
+    "fin": 1831.969,
+    "date_edtf": "1831-12-20",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Isidore Antaya",
+     "Alarid Blanco",
+     "José Santos Susamo",
+     "Rafael López",
+     "John Harris",
+     "Alexander Sinclair"
+    ],
+    "description": "En septembre 1831, une douzaine de trappeurs « français et mexicains » quittent le Nouveau-Mexique avec le groupe d'Alexander Sinclair, sous la conduite de John Harris (« Juan Jares »). En décembre, ils sont sur la Little Snake, dans le nord-ouest du Colorado. Le 20 décembre, selon le témoin Isidore Antaya, ancien engagé de Pratte, une bagarre entre le Mexicain Rafael López et le Français Alarid Blanco prend fin quand José Santos « Susamo » poignarde López dans le dos ; la lame se brise, et Susamo blesse encore un autre Mexicain avec le tronçon.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XII.",
+    "note": "Position hypothétique sur la Little Snake."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-50",
+    "nom": "Taos : Francisco Laforet loue des pièges à David Waldo (1833-1835)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1833.0,
+    "fin": 1835.999,
+    "date_edtf": "1833/1835",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francisco Laforet",
+     "David Waldo"
+    ],
+    "description": "Naturalisé en 1833, Francisco Laforet, qui a trappé avec Pratte dans les Rocheuses du Sud et avec Wolfskill sur la route de la Californie, contracte cette année-là une dette envers David Waldo, en partie pour la location de trois pièges « pour la chasse du printemps et de l'automne » et pour de la poudre. À l'automne 1835, il en rembourse vingt et un pesos en remettant à Waldo sept libras de castor à trois pesos la libra.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.62,
+     39.85
+    ]
+   },
+   "properties": {
+    "id": "WB71-51",
+    "nom": "Willow Creek : « B. Chalifou » grave son nom sur la route du fort Robidoux (mai 1835)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1835.333,
+    "fin": 1835.333,
+    "date_edtf": "1835-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Chalifoux",
+     "Juan Valdés",
+     "Antoine Robidoux",
+     "Denis Julien"
+    ],
+    "description": "Sur une paroi de la vallée de Willow Creek, au sud d'Ouray (Utah), le long d'une route que prenaient les trappeurs pour gagner le fort Robidoux, on lit les noms de Juan Valdés, de « B. Chalifou » (sans doute Jean-Baptiste Chalifoux), un « F.R.B. » et un nom qui ressemble à « Acosta », tous gravés en mai 1835. Antoine Leroux grave aussi son nom au sud d'Ouray en 1835 ; Denis Julien avait laissé le sien près de l'Uinta en 1831.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XIII.",
+    "note": "Photographies de George E. Stewart citées par Weber."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "WB71-52",
+    "nom": "Santa Fe : les Utes et le groupe de trappeurs de « Portelance » (1844)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1844.667,
+    "fin": 1844.667,
+    "date_edtf": "1844-09",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Portelance",
+     "Mariano Martínez",
+     "Antoine Robidoux"
+    ],
+    "description": "En 1844, des chefs utes viennent à Santa Fe réclamer des présents en compensation de morts qu'aurait causées, selon une version, « un groupe de trappeurs espagnols sous PORTELANCE », un Français. Mécontents des cadeaux du gouverneur Mariano Martínez, ils l'attaquent ; ses gardes tuent huit Indiens. Les Utes, furieux, s'en prennent ensuite au fort Uncompahgre d'Antoine Robidoux, où au moins trois Mexicains sont tués ; les engagés du fort Uinta, démoralisés, s'enfuient avec armes et provisions, et Robidoux quitte le Nouveau-Mexique pour le Missouri.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XIII.",
+    "note": "Weber cite le Missouri Democrat (Fayette), 17 sept. 1845, d'après la St. Joseph Gazette, et la thèse de Minge (1965)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.33,
+     35.97
+    ]
+   },
+   "properties": {
+    "id": "WB71-53",
+    "nom": "Mora : quatre trappeurs français équipés par Charles Beaubien (1838)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1838.0,
+    "fin": 1838.999,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien"
+    ],
+    "description": "En 1838, quatre Français, apparemment équipés par Charles Beaubien, trappent près de Mora, sur le versant est des Sangre de Cristo ; même aussi près des établissements mexicains, la trappe reste risquée.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XIII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "WB71-54",
+    "nom": "Taos : le procès d'avril 1847 et ses jurés montagnards",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1847.049,
+    "fin": 1847.25,
+    "date_edtf": "1847-01-19/1847-04",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Beaubien",
+     "Narciso Beaubien",
+     "Céran St. Vrain",
+     "Jean-Baptiste Chalifoux",
+     "Antoine Leroux",
+     "Manuel Laforet",
+     "Charles Autobees",
+     "Lucien Maxwell",
+     "Charles Robidoux",
+     "William LeBlanc"
+    ],
+    "description": "Le 19 janvier 1847, l'insurrection de Taos coûte la vie au gouverneur Charles Bent, au shérif Stephen Louis Lee et à Narciso Beaubien, fils de Charles. Céran St. Vrain mène une compagnie de volontaires, anciens montagnards pour beaucoup. Au procès d'avril, Charles Beaubien préside, St. Vrain sert d'interprète, et le jury compte d'anciens trappeurs : Baptiste Chalifoux, Antoine Leroux, Manuel Laforet, Charles Autobees, Lucien Maxwell, Joseph Paulding, Charles Robidoux, William LeBlanc et Charles Town ; George Bent préside le grand jury. Weber : « Le verdict pouvait-il faire le moindre doute ? »",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XIII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.9,
+     43.68
+    ]
+   },
+   "properties": {
+    "id": "CL50-01",
+    "nom": "Rivière Umpqua : Joseph Lapoint, Toussaint Maréchal et Marion tués avec les hommes de Jedediah Smith (14 juillet 1828)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1828.536,
+    "fin": 1828.536,
+    "date_edtf": "1828-07-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Lapoint",
+     "Toussaint Maréchal",
+     "Marion",
+     "Peter Ranne",
+     "Jedediah Smith",
+     "Michel Laframboise"
+    ],
+    "description": "Le 14 juillet 1828, sur l'Umpqua (Oregon), des Indiens (Kelawatsets) attaquent le camp de Jedediah Smith pendant son absence. Parmi les morts figurent des trappeurs francophones : Joseph Lapoint, l'un des chasseurs de Smith, Toussaint Maréchal et un certain Marion, ainsi que Harrison Rogers, Thomas Virgin, Peter Ranne et d'autres. Smith et trois survivants gagnent le fort Vancouver, où le docteur McLoughlin lance aussitôt une expédition de secours en appelant « Laframboise, Michel, Babtiste, Jacque » et ses autres hommes.",
+    "sources": "Cleland, Robert Glass (1950), This Reckless Breed of Men: The Trappers and Fur Traders of the Southwest, New York, Alfred A. Knopf, p. 112-113.",
+    "note": "Position approximative du lieu du massacre, près de l'embouchure de la Smith dans l'Umpqua."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4,
+     39.0
+    ]
+   },
+   "properties": {
+    "id": "CL50-02",
+    "nom": "Rivière Bear (affluent de la Feather) : les brigades de Michel Laframboise et de John Work se rejoignent (16 janvier 1833)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1833.041,
+    "fin": 1833.041,
+    "date_edtf": "1833-01-16",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Laframboise",
+     "John Work",
+     "Josette Legacé"
+    ],
+    "description": "En 1832, Michel Laframboise, ancien de l'entreprise astorienne et l'un des traiteurs les plus hauts en couleur de la Compagnie de la Baie d'Hudson, entre dans la vallée du Sacramento par la piste de McLeod ; il atteint la baie de San Francisco le 15 octobre, visite les missions de San José, Sonoma et San Rafael et trappe les bras de la baie. Pendant l'hiver des crues, il remonte le Sacramento à la rencontre de la brigade de John Work ; les deux groupes se rejoignent le 16 janvier 1833 sur la Bear, affluent de la Feather. Au printemps, Work l'envoie chercher des munitions à la mission de Sonoma, puis au fort Ross des Russes.",
+    "sources": "Cleland, Robert Glass (1950), This Reckless Breed of Men: The Trappers and Fur Traders of the Southwest, New York, Alfred A. Knopf, p. 332-338.",
+    "note": "Position approximative sur la basse Bear (Californie)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5,
+     38.6
+    ]
+   },
+   "properties": {
+    "id": "CL50-03",
+    "nom": "Brigade de la Baie d'Hudson en Californie : Josette Legacé, fille d'un trappeur français et d'une Nez-Percée (1832-1833)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1832.583,
+    "fin": 1833.75,
+    "date_edtf": "1832-08/1833-10",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Josette Legacé",
+     "John Work"
+    ],
+    "description": "L'épouse de John Work, Josette Legacé, fille d'un trappeur français et d'une Nez-Percée, est réputée pour sa beauté, son courage et son endurance. Elle accompagne son mari à la tête de la brigade de 1832-1833 en Californie : ni la faim, ni le danger, ni l'épidémie qui ravage alors la vallée du Sacramento ne la font rester au fort quand il part trapper.",
+    "sources": "Cleland, Robert Glass (1950), This Reckless Breed of Men: The Trappers and Fur Traders of the Southwest, New York, Alfred A. Knopf, p. 329.",
+    "note": "Position hypothétique dans la vallée du Sacramento."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.55,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "FT15-01",
+    "nom": "Fort Platte : le whisky de Pratte & Cabanné sous la gérance de « M. Bissonnette » (1843)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1843.667,
+    "fin": 1844.999,
+    "date_edtf": "1843-09/1844",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Bissonette",
+     "John Richard",
+     "Oliver Sarpy",
+     "Jean-Pierre Cabanné",
+     "Andrew Drips"
+    ],
+    "description": "En 1843, le poste de Fort Platte, sur la North Platte près de Fort Laramie, appartient à Pratte & Cabanné ; il est géré par « M. Bissonnette », avec John Richard parmi ses employés. Le 7 septembre, trois témoins, dont Oliver Sarpy, écrivent à l'agent Andrew Drips qu'ils ont vu une caravane y déposer quelque 300 gallons d'alcool et qu'on y vend ou donne du whisky aux Sioux brûlés ; Sarpy réclame la moitié des biens confisqués promise aux dénonciateurs par la loi. L'agent adjoint Hamilton fouille le poste sans rien trouver ; l'hiver suivant, un tonnelet envoyé par un traiteur de Pratte & Cabanné dans un camp oglala fait deux morts.",
+    "sources": "Barbour, Barton, « The Trade and Intercourse Laws, Fur Traders, and the US Government », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position à Fort Platte, au confluent de la Laramie et de la North Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "FT15-02",
+    "nom": "Fort Pierre : les 300 gallons de « M. Reachard » et les six morts sioux (juillet 1843)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1843.5,
+    "fin": 1843.5,
+    "date_edtf": "1843-07",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "John Richard",
+     "Andrew Drips",
+     "Joseph Jouette"
+    ],
+    "description": "En juillet 1843, l'agent Hamilton apprend à Fort Pierre qu'« une grande quantité de liqueurs spiritueuses (environ 300 gallons) » vient d'arriver sous la garde d'un « M. Reachard » (John Richard), associé de Pratte & Cabanné dans la traite, que les Indiens boivent à l'excès et que six d'entre eux ont été tués. Drips écrit en janvier 1843 que l'alcool a déjà causé la mort de « quelque cent de leurs meilleures gens » chez les Sioux de Fort Pierre. À la fin de l'été, Hamilton part pour la Platte avec Joseph Jouette, interprète de Drips et employé de la compagnie Chouteau.",
+    "sources": "Barbour, Barton, « The Trade and Intercourse Laws, Fur Traders, and the US Government », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position à Fort Pierre (Dakota du Sud)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.56,
+     42.2
+    ]
+   },
+   "properties": {
+    "id": "FT15-03",
+    "nom": "Fort John (Fort Laramie) : Pierre D. Papin, Honoré Picotte et le contrat de « commis traiteur » de Drips (1842-1848)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1842.0,
+    "fin": 1848.583,
+    "date_edtf": "1842/1848-08",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre D. Papin",
+     "Honoré Picotte",
+     "Andrew Drips",
+     "Alexander Culbertson",
+     "John Sarpy"
+    ],
+    "description": "Après l'achat de Fort William par la compagnie Chouteau, rebâti et rebaptisé Fort John, le bourgeois du poste est Pierre D. Papin ; la correspondance de la compagnie, souvent en français (John Sarpy écrit à Pierre Chouteau Jr., son « cher cousin »), passe par Fort Pierre, où commande Honoré Picotte. Le 6 avril 1847, l'ancien agent Andrew Drips signe un engagement de « commis traiteur » à « cent piastres par mois ». En août 1848, Picotte et Papin quittent la compagnie réorganisée, Culbertson prend Fort Pierre et Drips reçoit une part et la direction de Fort John.",
+    "sources": "Barbour, Barton, « The Trade and Intercourse Laws, Fur Traders, and the US Government », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position à Fort Laramie (Wyoming)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.67,
+     39.06
+    ]
+   },
+   "properties": {
+    "id": "FT15-04",
+    "nom": "Rivière Kansas : mort de l'engagé Michel Dubray près du poste de J. Papin (17 septembre 1844)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1844.711,
+    "fin": 1844.711,
+    "date_edtf": "1844-09-17",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Dubray",
+     "David Adams",
+     "Lancaster Lupton",
+     "J. Roubedow",
+     "J. Papin"
+    ],
+    "description": "En septembre 1844, la caravane de David Adams (Sibille & Adams), qui voyage avec celle de Lancaster Lupton vers la Platte, compte plusieurs malades de la fièvre, dont « J. Roubedow ». L'engagé Michel Dubray meurt le 17 septembre d'une « fièvre nerveuse » près du poste de J. Papin sur la Kansas (Caw), après cinq jours d'agonie : Adams avait en vain demandé aux habitants d'une maison voisine de l'abriter pour qu'il ne meure pas « tout seul comme un loup ».",
+    "sources": "Barbour, Barton, « The Trade and Intercourse Laws, Fur Traders, and the US Government », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position approximative au poste Papin, près de l'actuelle Topeka."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.75,
+     40.22
+    ]
+   },
+   "properties": {
+    "id": "FT15-05",
+    "nom": "Fort Jackson (South Platte) : Peter Sarpy, Henry Fraeb et l'inventaire de 1837",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1837.0,
+    "fin": 1838.999,
+    "date_edtf": "1837/1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter Sarpy",
+     "Henry Fraeb",
+     "Charles Autobees",
+     "Simeon Turley"
+    ],
+    "description": "En 1837, pour contrer Fort Vasquez, ouvert en 1835 par Louis Vasquez et Andrew Sublette, la compagnie Chouteau fait bâtir Fort Jackson sur la South Platte, confié à Peter Sarpy et Henry Fraeb ; quatre postes se trouvent alors sur quinze milles de rivière. L'inventaire du camp de traite de 1837 est l'un des rares conservés pour la traite des Plaines. Un document montre que Sarpy et Fraeb paient le 1er mars 1838 treize dollars à « Charles Ottabees » (Autobees), qui vendait pour Simeon Turley le whisky et la farine de Taos dans les postes de la Platte. En 1838, Bent, St. Vrain & Co. rachète Fort Jackson, qui est ensuite détruit.",
+    "sources": "Schaubs, Michael, « The 1837 Fort Jackson Trading Camp Inventory », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position à Fort Jackson, près de l'actuelle Ione (Colorado)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.98,
+     40.43
+    ]
+   },
+   "properties": {
+    "id": "FT15-06",
+    "nom": "Fort Uintah, le « rendez-vous de Robidoux » : Chalifoux, Bill Williams et Peg-leg Smith (1839-1840)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1839.667,
+    "fin": 1840.167,
+    "date_edtf": "1839-09/1840-03",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Robidoux",
+     "Jean-Baptiste Chalifoux",
+     "Bill Williams",
+     "Thomas L. Smith",
+     "Joe Meek",
+     "Robert Newell",
+     "Kit Carson"
+    ],
+    "description": "À la fin des rendez-vous, tant de trappeurs se réunissent autour du fort Uintah qu'on l'appelle parfois « le rendez-vous de Robidoux ». À l'automne 1839 s'y trouvent Bill Williams, Peg-leg Smith, « Jean B. Charlefou » (Chalifoux) et Frederick « Cut Nose » ; au printemps 1840, une dizaine d'entre eux partent voler des chevaux en Californie. Kit Carson et Jack Robinson y viennent vendre leurs fourrures au lieu d'aller au rendez-vous de la Green. Près de l'embouchure de l'Uintah, Meek et Newell sont rejoints par Antoine Robidoux, venu de Santa Fe avec des marchandises ; selon Meek, Robidoux, passionné du jeu de mains, perd au jeu ses marchandises, ses chevaux et même sa femme, et rentre à Santa Fe endetté.",
+    "sources": "Hardee, Jim, « \"Taos Trappers\" and the Demise of the Rocky Mountain Rendezvous », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position au fort Uintah (Fort Robidoux), près de Whiterocks (Utah)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.9,
+     40.3
+    ]
+   },
+   "properties": {
+    "id": "FT15-07",
+    "nom": "Bassin de l'Uinta : « M. Robidoux » et le « fort Kit Carson » de Richard Bland Lee (hiver 1833-1834)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1833.833,
+    "fin": 1834.167,
+    "date_edtf": "1833-11~/1834-03~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Robidoux",
+     "Antoine Robidoux",
+     "Kit Carson",
+     "Richard Bland Lee"
+    ],
+    "description": "À l'hiver 1833-1834, Kit Carson conduit dans le bassin de l'Uinta le groupe de Richard Bland Lee, officier en congé ; ils y trouvent « M. Robidoux » et une vingtaine de trappeurs déjà en quartiers d'hiver, et bâtissent à leur tour des cabanes, le futur « fort Kit Carson ». Hardee pense, d'après Willoughby, qu'il s'agit plutôt de Louis Robidoux, Antoine étant alors à Santa Fe pour affaires.",
+    "sources": "Hardee, Jim, « \"Taos Trappers\" and the Demise of the Rocky Mountain Rendezvous », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position approximative dans le bassin de l'Uinta."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.98,
+     40.43
+    ]
+   },
+   "properties": {
+    "id": "FT15-08",
+    "nom": "Confluent de l'Uinta et de la Whiterocks : le poste de William Reed et Denis Julien (1828)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1828.0,
+    "fin": 1831.999,
+    "date_edtf": "1828/1831",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Denis Julien",
+     "William Reed",
+     "Antoine Robidoux"
+    ],
+    "description": "En 1828, William Reed et Denis Julien remontent de Taos pour trapper et traiter avec les Utes et bâtissent un poste au confluent de l'Uintah et de la Whiterocks : le premier poste de traite du bassin. Après avoir vendu en 1831 à Santa Fe une grosse cargaison de fourrures à William Sublette (un peu plus de 3 800 dollars) et obtenu une licence mexicaine, Antoine Robidoux rachète le poste de Reed et Julien et y construit le fort Uintah.",
+    "sources": "Hardee, Jim, « \"Taos Trappers\" and the Demise of the Rocky Mountain Rendezvous », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Hardee suit Barton (1993, 1996). Position au site du fort Uintah."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.9,
+     40.87
+    ]
+   },
+   "properties": {
+    "id": "FT15-09",
+    "nom": "Brown's Hole : Xavier Malona et Belcour au fort Davy Crockett (automne 1839)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1839.75,
+    "fin": 1839.75,
+    "date_edtf": "1839-10",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Xavier Malona",
+     "Belcour",
+     "Joe Meek",
+     "Kit Carson"
+    ],
+    "description": "À l'automne 1839, le fort Davy Crockett, à Brown's Hole sur la Green, accueille de nombreux trappeurs libres après la chasse du printemps : Meek, Craig, Newell, Carson, Levin Mitchell, William New, Richard Owens, et deux francophones, Xavier Malona et un certain Belcour. Une trentaine partent voler des chevaux sous Joe Walker.",
+    "sources": "Hardee, Jim, « \"Taos Trappers\" and the Demise of the Rocky Mountain Rendezvous », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position au fort Davy Crockett (Browns Park, Colorado)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.5,
+     37.73
+    ]
+   },
+   "properties": {
+    "id": "FT15-10",
+    "nom": "Le « Robidoux's Cutoff » : la route d'Antoine Robidoux par le col Mosca",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1828.0,
+    "fin": 1844.999,
+    "date_edtf": "1828~/1844",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Robidoux"
+    ],
+    "description": "Pour ravitailler le fort Uncompahgre, sur la Gunnison, Antoine Robidoux ouvre le « Robidoux's Cutoff » : la route quitte la piste de Santa Fe au pied de la Timpas, remonte l'Arkansas, franchit le col Mosca vers la vallée de San Luis et rejoint la branche de montagne de la Vieille piste espagnole par le col de Cochetopa. Plus courte que le détour par Santa Fe, elle évite aussi les douaniers mexicains ; selon le guide de l'excursion du symposium, elle permettait à Robidoux de contourner à la fois l'interdiction mexicaine de vendre des armes aux Indiens et l'interdiction américaine d'exporter de l'alcool en territoire indien.",
+    "sources": "Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
+    "note": "Position au col Mosca ; le guide date la fondation du fort Uncompahgre de 1828 (Reyher 2002)."
+   }
   }
  ]
 }
