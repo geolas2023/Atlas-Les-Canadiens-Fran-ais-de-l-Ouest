@@ -1034702,6 +1034702,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -88.23,
+     41.43
+    ]
+   },
+   "properties": {
+    "id": "NO-cerre-jean-gabriel-la-cache-c",
+    "nom": "Ruisseau La Cache (Lily Cache), près de Channahon (Illinois) : Jean Gabriel Cerre",
+    "corpus": "archive.org · Maue, History of Will County, vol. I (1928)",
+    "theme": "personnage",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean Gabriel Cerre"
+    ],
+    "description": "Ruisseau La Cache (Lily Cache), près de Channahon (Illinois), 1763. Jean Gabriel Cerre. Traiteur en route de Montréal vers Kaskaskia, il cache ses marchandises pour éviter le tribut exigé au portage de Chicago; le ruisseau La Cache en tire son nom. D'après Maue, History of Will County, vol. I (1928). Autres lieux de l'entrée : Kaskaskia.",
+    "sources": "August Maue, History of Will County, Illinois, vol. I, Topeka et Indianapolis, Historical Publishing Company, 1928, p. 339-341 ; texte intégral : archive.org, historyofwillcou01maue.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Maue, History of Will County, vol. I (1928)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwillcou01maue/page/339/mode/1up?q=CERRE",
+      "texte": "Lire Maue, History of Will County, vol. I (1928) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.914,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "NO-cerre-jean-gabriel-kaskaskia",
+    "nom": "Kaskaskia : Jean Gabriel Cerre",
+    "corpus": "archive.org · Maue, History of Will County, vol. I (1928)",
+    "theme": "personnage",
+    "debut": 1763.0,
+    "fin": 1763.0,
+    "date_edtf": "1763",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Gabriel Cerre"
+    ],
+    "description": "Kaskaskia, 1763. Jean Gabriel Cerre traiteur établi à Kaskaskia puis à Saint-Louis, juge sous la Virginie et syndic sous l'Espagne. D'après Maue, History of Will County, vol. I (1928). Autres lieux de l'entrée : ruisseau La Cache (Lily Cache), près de Channahon (Illinois).",
+    "sources": "August Maue, History of Will County, Illinois, vol. I, Topeka et Indianapolis, Historical Publishing Company, 1928, p. 339-341 ; texte intégral : archive.org, historyofwillcou01maue.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Maue, History of Will County, vol. I (1928)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/historyofwillcou01maue/page/339/mode/1up?q=CERRE",
+      "texte": "Lire Maue, History of Will County, vol. I (1928) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]

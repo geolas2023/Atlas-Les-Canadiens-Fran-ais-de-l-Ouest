@@ -2591,6 +2591,9 @@ G.update({
     'Sheridan (Illinois)': (-88.6798, 41.5300, 'c', "Sheridan, comté de La Salle (Illinois)"),
     'Milford (Illinois)': (-87.6964, 40.6281, 'c', "Milford, comté d'Iroquois (Illinois)"),
     'Danville (Illinois)': (-87.6300, 40.1245, 'c', "Danville, comté de Vermilion (Illinois)"),
+    'La Cache Creek (Channahon, Illinois)': (-88.2300, 41.4300, 'h', "ruisseau La Cache (Lily Cache), près de Channahon (Illinois)"),
+    'Mound Joliet (Illinois)': (-88.1000, 41.4800, 'h', "butte Joliet (Mound Joliet), près de Joliet (Illinois)"),
+    'Wesley (comté de Will, Illinois)': (-88.0200, 41.2200, 'a', "canton de Wesley, sur la Kankakee (comté de Will, Illinois)"),
 })
 
 
