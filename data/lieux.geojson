@@ -118600,6 +118600,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -89.45,
+     37.15
+    ]
+   },
+   "properties": {
+    "id": "AB68-01",
+    "nom": "Tawapatee Bottom : six semaines dans les glaces du Mississippi avec un équipage canadien (hiver 1810-1811)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1810.917,
+    "fin": 1811.0,
+    "date_edtf": "1810-12~/1811-01~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Jacques Audubon",
+     "Ferdinand Rozier"
+    ],
+    "description": "Remontant le Mississippi au-dessus du confluent de l'Ohio avec son associé, à destination de Sainte-Geneviève, Audubon est arrêté par les glaces ; son pilote, un « Français du Canada », choisit pour hiverner la grande courbe de Tawapatee Bottom. Le bateau à quille est protégé d'un abattis, la cargaison abritée sous les voiles ; l'équipage de douze à quatorze Canadiens français, excellents chasseurs, vit de chevreuil, de dindons, de ratons et de poissons pris sous la glace, tandis que des cygnes trompettes se posent chaque soir sur le fleuve gelé et que des Indiens viennent au camp. Après six semaines, le pilote réveille tout le monde au cri de « La débâcle ! au bateau ! » et sauve l'embarcation.",
+    "sources": "Audubon, Jean-Jacques (1868), Scènes de la nature dans les États-Unis et le Nord de l'Amérique, trad. Eugène Bazin, Paris, Sauton (éd. Wikisource), « La débâcle des glaces » ; « Le Cygne trompette ».",
+    "note": "Audubon ne date pas l'épisode ; ses biographes le placent à l'hiver 1810-1811, lors du voyage avec Ferdinand Rozier vers Sainte-Geneviève. Point approximatif au Tawapatee Bottom (comté de Scott, Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
