@@ -110306,6 +110306,96 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.1842,
+     38.6262
+    ]
+   },
+   "properties": {
+    "id": "RH98-01",
+    "nom": "Saint-Louis : l'entrepôt de pelleteries de Manuel Lisa, la « Old Rock House » (1818-1959)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1810.0,
+    "fin": 1959.999,
+    "date_edtf": "1810/1959",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Manuel Lisa",
+     "Jean-Baptiste Trudeau",
+     "Oliver N. Bostwick",
+     "Wilson Price Hunt"
+    ],
+    "description": "En 1810, Manuel Lisa achète à Jean-Baptiste Trudeau un terrain du bord de l'eau, à l'angle des rues Wharf et Chestnut, où il bâtit maison et magasin ; en 1818, il fait construire en contrebas, avec la pierre de l'ancienne carrière, son entrepôt de fourrures. Après sa mort (1820), l'entrepôt passe en 1825 au traiteur Oliver Bostwick, associé à l'American Fur Company d'Astor, puis sert de dépôt à l'expédition de Yellowstone (1819), de voilerie pour les chariots de l'Ouest et de taverne. Seul bâtiment du quai épargné avec le Vieux Palais de justice et la Vieille Cathédrale, restauré en 1943, il est démonté en 1959 pour le passage des voies ferrées devant l'Arche.",
+    "sources": "Hoppe, Nancy Marie (1998), « Whatever Happened to The Old Rock House? », National Park Service, Jefferson National Expansion Memorial, p. 1-2.",
+    "note": "Position à l'ancien angle Wharf-Chestnut, au pied de l'Arche."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1838,
+     38.6265
+    ]
+   },
+   "properties": {
+    "id": "RH98-02",
+    "nom": "Saint-Louis : la tradition Marcheteau-Desnoyers et Bissonet sur le site de la Old Rock House (1767-1808)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1767.0,
+    "fin": 1808.999,
+    "date_edtf": "1767~/1808",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Marcheteau dit Desnoyers",
+     "François Bissonet",
+     "Marie-Catherine Marcheteau Desnoyers",
+     "Jean-Baptiste Trudeau",
+     "Bernard Pratte"
+    ],
+    "description": "Selon une lettre de 1933 d'un descendant, Marcel F. Doyle, versée au dossier HABS, la maison de pierre aurait été bâtie dès 1767 par Joseph Marcheteau dit Desnoyers, venu du Canada par Cahokia, qui l'aurait cédée en 1769 par acte rédigé en français à son gendre François Bissonet, venu de Fort de Chartres, contre la promesse de le loger et nourrir jusqu'à sa mort. La veuve, Marie-Catherine Marcheteau Desnoyers, l'échange en 1798 avec Jean-Baptiste Trudeau (confirmation espagnole du 20 octobre 1799), qui la vend en 1808 à Bernard Pratte ; Lisa n'aurait fait que la louer. Le NPS date au contraire l'entrepôt de 1818.",
+    "sources": "Historic American Buildings Survey, Old Rock House, Wharf and Chestnut Streets, St. Louis, HABS MO-31-5 (données écrites de W. T. Trueblood et lettre de Marcel F. Doyle, 16 juin 1933 ; addenda Piaget-van Ravenswaay).",
+    "note": "Tradition familiale contredite par la datation du NPS ; la cession Bissonet-Trudeau de 1798 est confirmée par les deux sources."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2585,
+     38.5845
+    ]
+   },
+   "properties": {
+    "id": "PV13-01",
+    "nom": "Saint-Louis : mort de Mary Rose Pillsbury, « fille d'Étienne Provo » (8 août 1913)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1830.333,
+    "fin": 1913.611,
+    "date_edtf": "1830-05-01/1913-08-11",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mary Rose Pillsbury",
+     "Étienne Provost",
+     "Madeleine Delor"
+    ],
+    "description": "Le certificat de décès de Mary Rose Pillsbury, veuve, morte à 83 ans au 4231 South 37th Street et inhumée au cimetière Calvary le 11 août 1913, la dit née à Saint-Louis le 1er mai 1830, fille d'« Etienne Provo », né au Canada, et de « Madelin Delor », née à Saint-Louis. La date de naissance tombe un an après le mariage d'Étienne Provost (1829) ; s'il s'agit bien de sa fille, ce serait l'une des rares traces de sa descendance. Le nom de la mère ne correspond toutefois à aucune des formes connues de l'épouse (Salle dit Lajoie, Lambert, Lombard) : Delor évoque plutôt la famille de Clément Delor de Tréget, fondateur de Carondelet.",
+    "sources": "Missouri State Board of Health, Bureau of Vital Statistics, certificat de décès n° 27938 (enregistré n° 7234), Mary Rose Pillsbury, Saint-Louis, 8 août 1913.",
+    "note": "Déclarant : Charles G. Grimm, même adresse. Filiation à vérifier dans les registres de baptême de la vieille cathédrale (mai 1830)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
