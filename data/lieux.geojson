@@ -118151,6 +118151,63 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -76.52,
+     42.0
+    ]
+   },
+   "properties": {
+    "id": "KE76-01",
+    "nom": "Carantouan et la Susquehanna : le voyage d'Étienne Brûlé (1615-1616), un mythe ?",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1615.667,
+    "fin": 1616.25,
+    "date_edtf": "1615-09~/1616-04~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Étienne Brûlé",
+     "Samuel de Champlain"
+    ],
+    "description": "Selon son propre récit, rapporté par Champlain dans ses Voyages de 1619, Étienne Brûlé aurait visité en 1615 le village allié de Carantouan, puis descendu une rivière jusqu'à la mer pendant l'hiver 1615-1616 : les historiens américains en ont fait le premier Blanc à explorer la Susquehanna et la Pennsylvanie, plaçant Carantouan sur la Chemung, au nord d'Athens. Donald Kent montre que tout repose sur cette seule source, supprimée de l'édition de 1632 des Voyages, racontée par un homme mal famé dans une situation délicate : rien ne permet de situer Carantouan ni d'identifier la rivière. Restent à Brûlé d'autres « premières » : le lac Supérieur, le saut Sainte-Marie, le cuivre du lac Supérieur et sans doute le dictionnaire huron de Sagard.",
+    "sources": "Kent, Donald H. (1976), « The Myth of Etienne Brulé », Pennsylvania History, vol. 43, n° 4, p. 291-306, p. 291-306.",
+    "note": "Point hypothétique sur la Chemung, au nord d'Athens (Pennsylvanie), emplacement que Kent récuse."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95,
+     44.82
+    ]
+   },
+   "properties": {
+    "id": "TB15-01",
+    "nom": "Toanché (pointe de Penetanguishene) : la mort et la sépulture d'Étienne Brûlé (juin 1633)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1633.417,
+    "fin": 1633.417,
+    "date_edtf": "1633-06",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Brûlé",
+     "Aénons",
+     "Jean de Brébeuf"
+    ],
+    "description": "Arrivé en Huronie en 1610 dans le canot d'Aénons, chef du village de Toanché (tribu de l'Ours), Brûlé y vécut avec sa famille. En juin 1633, il y est mis à mort et mangé ; ses restes ne furent jamais portés à l'ossuaire de la fête des Morts. Le village est abandonné et remplacé par Oenrio et Toanché II ; en 1634, Brébeuf, débarqué au port de Toanché, passe devant « l'endroit où le pauvre Estienne Bruslé avait été barbarement et traîtreusement assommé ». Jules Tremblay situe la fosse sur la moitié est du lot 1 de la 17e concession du canton de Tiny (comté de Simcoe), sur la ferme des Grozelle, où les labours ont révélé un site de village huron.",
+    "sources": "Tremblay, Jules (1915), « La sépulture d'Étienne Brûlé », Mémoires de la Société royale du Canada, 3e série, t. IX, section I, p. 145-170, p. 145-152.",
+    "note": "Localisation proposée par Tremblay (1915) ; point approximatif sur la pointe de Penetanguishene (Ontario)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
