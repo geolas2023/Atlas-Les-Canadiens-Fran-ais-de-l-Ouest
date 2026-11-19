@@ -4,19 +4,19 @@
 from commun import Corpus
 FW = "McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press"
 def A(auteur, titre): return f"{auteur}, « {titre} », dans {FW}"
-CHO = A("McDermott, John Francis", "Auguste Chouteau: First Citizen of Upper Louisiana")
-BOU = A("Boulle, Pierre H.", "Some Eighteenth-Century French Views on Louisiana")
-NIC = A("Bray, Martha Coleman", "Joseph Nicolas Nicollet, Geographer")
-DUB = A("Faherty, William Barnaby", "The Personality and Influence of Louis William Valentine Du Bourg")
-MAS = A("Fortier, John B.", "New Light on Fort Massac")
-PIT = A("Le Gardeur, René J., Jr. et Pitot, Henry C.", "An Unpublished Memoir of Spanish Louisiana, 1796-1802")
-SUP = A("Hardy, James D., Jr.", "The Superior Council in Colonial Louisiana")
-DAU = A("Holmes, Jack D. L.", "Dauphin Island in the Franco-Spanish War, 1719-22")
-BIR = A("McWilliams, Richebourg Gaillard", "Iberville at the Birdfoot Subdelta: Final Discovery of the Mississippi River")
-STG = A("Porterfield, Neil H.", "Ste. Genevieve, Missouri")
-PON = A("Rule, John C.", "Jérôme Phélypeaux, Comte de Pontchartrain, and the Establishment of Louisiana, 1696-1715")
-SAU = A("Saucier, Walter J. et Seineke, Kathrine Wagner", "François Saucier, Engineer of Fort de Chartres, Illinois")
-BRO = A("Wilson, Samuel, Jr.", "Ignace François Broutin")
+CHO = A("McDermott, John Francis", "Auguste Chouteau: First Citizen of Upper Louisiana") + ", p. 1-13"
+BOU = A("Boulle, Pierre H.", "Some Eighteenth-Century French Views on Louisiana") + ", p. 15-28"
+NIC = A("Bray, Martha Coleman", "Joseph Nicolas Nicollet, Geographer") + ", p. 29-42"
+DUB = A("Faherty, William Barnaby", "The Personality and Influence of Louis William Valentine Du Bourg") + ", p. 43-55"
+MAS = A("Fortier, John B.", "New Light on Fort Massac") + ", p. 57-71"
+PIT = A("Le Gardeur, René J., Jr. et Pitot, Henry C.", "An Unpublished Memoir of Spanish Louisiana, 1796-1802") + ", p. 73-86"
+SUP = A("Hardy, James D., Jr.", "The Superior Council in Colonial Louisiana") + ", p. 87-101"
+DAU = A("Holmes, Jack D. L.", "Dauphin Island in the Franco-Spanish War, 1719-22") + ", p. 103-125"
+BIR = A("McWilliams, Richebourg Gaillard", "Iberville at the Birdfoot Subdelta: Final Discovery of the Mississippi River") + ", p. 127-140"
+STG = A("Porterfield, Neil H.", "Ste. Genevieve, Missouri") + ", p. 141-177"
+PON = A("Rule, John C.", "Jérôme Phélypeaux, Comte de Pontchartrain, and the Establishment of Louisiana, 1696-1715") + ", p. 179-197"
+SAU = A("Saucier, Walter J. et Seineke, Kathrine Wagner", "François Saucier, Engineer of Fort de Chartres, Illinois") + ", p. 199-229"
+BRO = A("Wilson, Samuel, Jr.", "Ignace François Broutin") + ", p. 231-294"
 C = Corpus('Recherches', 'FFW69', FW, page_fmt='p. {}')
 F = C.F
 SL = (-90.1885, 38.6275)
