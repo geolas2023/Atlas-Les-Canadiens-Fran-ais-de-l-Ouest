@@ -922724,7 +922724,75 @@
      "Jacques Vieau"
     ],
     "description": "Milwaukee, 1822. Jacques Vieau « Jean Veaux », traiteur de Milwaukee depuis 1795, avec des postes dans le comté de Manitowoc. D'après WHC XX (1911).",
-    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 319 ; texte intégral : archive.org, collectionsstate20stat.",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 319; p. 179, 361-362 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/319/mode/1up?q=VIEAU",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "HN-vieau-jacques-milwaukee-2",
+    "nom": "Milwaukee : Jacques Vieau",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1820.0,
+    "fin": 1820.0,
+    "date_edtf": "1820",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Vieau"
+    ],
+    "description": "Milwaukee, 1820. Jacques Vieau « Jean Vieaux », que Robert Stuart veut s'attacher pour l'American Fur Company. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 319; p. 179, 361-362 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/319/mode/1up?q=VIEAU",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "HN-vieau-jacques-milwaukee-3",
+    "nom": "Milwaukee : Jacques Vieau",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Vieau"
+    ],
+    "description": "Milwaukee, 1824. Jacques Vieau « J. V. », traiteur depuis 40 ans, hiverne dans sa vieille maison à 5 ou 6 milles de la rivière Milwaukee. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 319; p. 179, 361-362 ; texte intégral : archive.org, collectionsstate20stat.",
     "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
     "livre": "WHC XX (1911)",
     "voir_aussi": [
@@ -922825,8 +922893,42 @@
     "personnages": [
      "Antoine Gautier"
     ],
-    "description": "Fond-du-Lac (lac Supérieur), 1819. Antoine Gautier traiteur, sans doute de la famille de Charles Gautier de Verville. D'après WHC XX (1911).",
-    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 357 ; texte intégral : archive.org, collectionsstate20stat.",
+    "description": "Fond-du-Lac (lac Supérieur), 1819. Antoine Gautier traiteur, sans doute de la famille de Charles Gautier de Verville. D'après WHC XX (1911). Autres lieux de l'entrée : Rocky-Island (Rock Island, fort Armstrong).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 357; p. 357 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/357/mode/1up?q=GAUTIER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.565,
+     41.515
+    ]
+   },
+   "properties": {
+    "id": "HN-gautier-antoine-rock-islan",
+    "nom": "Rocky-Island (Rock Island, fort Armstrong) : Antoine Gautier",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Gautier"
+    ],
+    "description": "Rocky-Island (Rock Island, fort Armstrong), 1824. Antoine Gautier « Antoine Gothier », licence du 11 octobre pour traiter avec les Winnebagos sur la rivière Rock. D'après WHC XX (1911). Autres lieux de l'entrée : Fond-du-Lac (lac Supérieur).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 357; p. 357 ; texte intégral : archive.org, collectionsstate20stat.",
     "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
     "livre": "WHC XX (1911)",
     "voir_aussi": [
@@ -922934,6 +923036,1094 @@
     "voir_aussi": [
      {
       "url": "https://archive.org/details/collectionsstate20stat/page/429/mode/1up?q=TAILLEFER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-frenier-francois-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Francois Frenier",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Frenier"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Francois Frenier engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=FRENIER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-mayrant-jean-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean Mayrant",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Mayrant"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jean Mayrant engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=MAYRANT",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-felix-antoine-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Antoine Felix",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Felix"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Antoine Felix engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=FELIX",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-froisir-louis-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Louis Froisir",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Froisir"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Louis Froisir engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=FROISIR",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-taillir-jean-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean Taillir",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Taillir"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jean Taillir engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=TAILLIR",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-jebon-jean-b-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean B. Jebon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean B. Jebon"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jean B. Jebon engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=JEBON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-metevier-gabriel-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Gabriel Metevier",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Metevier"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Gabriel Metevier engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=METEVIER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-dabin-antoine-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Antoine Dabin",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Dabin"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Antoine Dabin engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=DABIN",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-desormier-jean-b-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean B. Desormier",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean B. Desormier"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jean B. Desormier engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=DESORMIER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-bordeau-pierre-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Pierre Bordeau",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Bordeau"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Pierre Bordeau engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=BORDEAU",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-lantier-jacques-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jacques Lantier",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Lantier"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jacques Lantier engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=LANTIER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-mayatt-francois-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Francois Mayatt",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Francois Mayatt"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Francois Mayatt engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=MAYATT",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-dorion-jean-b-fils-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean B. fils Dorion",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean B. fils Dorion"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jean B. fils Dorion engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=DORION",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-gregoire-alexis-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Alexis Gregoire",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexis Gregoire"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Alexis Gregoire engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=GREGOIRE",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-menard-louis-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Louis Menard",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Menard"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Louis Menard engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=MENARD",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-deneau-joseph-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Joseph Deneau",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Deneau"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Joseph Deneau engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=DENEAU",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-ladebauche-pierre-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Pierre Ladebauche",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Ladebauche"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Pierre Ladebauche engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=LADEBAUCHE",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-allar-jean-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Jean Allar",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Allar"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Jean Allar engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=ALLAR",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-provost-charles-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Charles Provost",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1819.0,
+    "fin": 1819.0,
+    "date_edtf": "1819",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Provost"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1819. Charles Provost engagé comme interprète ou bateleur de James H. Lockwood, licence de l'agent Boyd du 27 juillet pour traiter sur le haut Mississippi au-dessus de Prairie du Chien. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 118 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/118/mode/1up?q=PROVOST",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.2,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "HN-blondeau-maurice-riviere-de",
+    "nom": "Rivière Des Moines (haut cours, pays des Yanktons) : Maurice Blondeau",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maurice Blondeau"
+    ],
+    "description": "Rivière Des Moines (haut cours, pays des Yanktons), 1824. Maurice Blondeau licence du 11 octobre pour traiter à la Dirt Lodge, en haut de la rivière Des Moines, avec les Sauks et les Renards; métis renard, neveu de Barthélemi Blondeau; interprète aux traités de 1815; enterré près de Flint Hills. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 356-357 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/356/mode/1up?q=BLONDEAU",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.63,
+     45.1
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-paul-jr-marinette-",
+    "nom": "Embouchure de la Menominee (Marinette) : Paul Jr Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Paul Jr Grignon"
+    ],
+    "description": "Embouchure de la Menominee (Marinette), 1824. Paul Jr Grignon part de Green Bay le 14 octobre avec Tenislaus Chapue pour garder le poste de Louis Grignon à la rivière Menominee; Farnsworth y fait forcer le magasin le 16. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 358-359 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/358/mode/1up?q=GRIGNON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.63,
+     45.1
+    ]
+   },
+   "properties": {
+    "id": "HN-chapue-tenislaus-marinette-",
+    "nom": "Embouchure de la Menominee (Marinette) : Tenislaus Chapue",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Tenislaus Chapue"
+    ],
+    "description": "Embouchure de la Menominee (Marinette), 1824. Tenislaus Chapue remet le 16 octobre à Paul Grignon fils les biens de Louis Grignon à la rivière Menominee. D'après WHC XX (1911). Autres lieux de l'entrée : portage du Wisconsin et de la rivière aux Renards.",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 358, 362-363 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/358/mode/1up?q=CHAPUE",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "HN-chapue-tenislaus-portage-wi",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Tenislaus Chapue",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Tenislaus Chapue"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1824. Tenislaus Chapue « Chapu » doit hiverner en loge à l'entrée de la rivière. D'après WHC XX (1911). Autres lieux de l'entrée : embouchure de la Menominee (Marinette).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 358, 362-363 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/358/mode/1up?q=CHAPUE",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.63,
+     45.1
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-louis-marinette-",
+    "nom": "Embouchure de la Menominee (Marinette) : Louis Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Grignon"
+    ],
+    "description": "Embouchure de la Menominee (Marinette), 1824. Louis Grignon possède maison, magasin, foin et champ de pommes de terre à la rivière Menominee. D'après WHC XX (1911). Autres lieux de l'entrée : portage du Wisconsin et de la rivière aux Renards.",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 301, 358 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/301/mode/1up?q=GRIGNON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.46,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-louis-portage-wi",
+    "nom": "Portage du Wisconsin et de la rivière aux Renards : Louis Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Grignon"
+    ],
+    "description": "Portage du Wisconsin et de la rivière aux Renards, 1823. Louis Grignon au portage du Wisconsin, annonce le 3 avril à Augustin la mort de leur frère Pierre; part avec 40 paquets. D'après WHC XX (1911). Autres lieux de l'entrée : embouchure de la Menominee (Marinette).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 301, 358 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/301/mode/1up?q=GRIGNON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.906,
+     43.039
+    ]
+   },
+   "properties": {
+    "id": "HN-beaubien-jean-baptiste-milwaukee",
+    "nom": "Milwaukee : Jean Baptiste Beaubien",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1824.0,
+    "fin": 1824.0,
+    "date_edtf": "1824",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Baptiste Beaubien"
+    ],
+    "description": "Milwaukee, 1824. Jean Baptiste Beaubien « Mr. Bobien », ses gens ont le choix des meilleurs chasseurs et donnent les crédits. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 361 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/361/mode/1up?q=BEAUBIEN",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.65,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "HN-rouse-lewis-butte-des-",
+    "nom": "Butte-des-Morts (Wisconsin) : Lewis Rouse",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lewis Rouse"
+    ],
+    "description": "Butte-des-Morts (Wisconsin), 1821. Lewis Rouse lettres du 22 février et du 4 mars écrites de la rivière Wolf à Joseph J. Porlier; hiverne sur la Wolf. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 188-190 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/188/mode/1up?q=ROUSE",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.65,
+     44.1
+    ]
+   },
+   "properties": {
+    "id": "HN-porlier-joseph-jacques-butte-des-",
+    "nom": "Butte-des-Morts (Wisconsin) : Joseph Jacques Porlier",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Jacques Porlier"
+    ],
+    "description": "Butte-des-Morts (Wisconsin), 1821. Joseph Jacques Porlier chargé par Lewis Rouse des postes du lac du Bœuf et de la rivière Menominee. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 188-190 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/188/mode/1up?q=PORLIER",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.86,
+     44.3
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-augustin-riviere-zu",
+    "nom": "Embouchure de la Zumbro (comté de Wabasha) : Augustin Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1821.0,
+    "date_edtf": "1821",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Augustin Grignon"
+    ],
+    "description": "Embouchure de la Zumbro (comté de Wabasha), 1821. Augustin Grignon hiverne à la rivière au Embarras, au-dessus de la montagne de Trempealeau; son bateau pris dans les glaces. D'après WHC XX (1911). Autres lieux de l'entrée : Prairie du Chien (Wisconsin).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 234-243 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/234/mode/1up?q=GRIGNON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-augustin-prairie-du",
+    "nom": "Prairie du Chien (Wisconsin) : Augustin Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Grignon"
+    ],
+    "description": "Prairie du Chien (Wisconsin), 1822. Augustin Grignon. Son magasin aurait été pillé; la société Grignon lui vient en aide. D'après WHC XX (1911). Autres lieux de l'entrée : embouchure de la Zumbro (comté de Wabasha).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 234-243 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/234/mode/1up?q=GRIGNON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-pierre-fanfan-green-bay",
+    "nom": "La Baie (Green Bay) : Pierre « Fanfan » Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1822.0,
+    "fin": 1822.0,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre « Fanfan » Grignon"
+    ],
+    "description": "La Baie (Green Bay), 1822. Pierre « Fanfan » Grignon « P. Grignon & Co. », écrit le 6 janvier à Porlier, Lawe et Louis Grignon pour secourir Augustin. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 239, 301 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/239/mode/1up?q=GRIGNON",
+      "texte": "Lire WHC XX (1911) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "HN-grignon-pierre-fanfan-green-bay-2",
+    "nom": "La Baie (Green Bay) : Pierre « Fanfan » Grignon",
+    "corpus": "archive.org · WHC XX (1911)",
+    "theme": "personnage",
+    "debut": 1823.0,
+    "fin": 1823.0,
+    "date_edtf": "1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre « Fanfan » Grignon"
+    ],
+    "description": "La Baie (Green Bay), 1823. Pierre « Fanfan » Grignon meurt le 4 mars. D'après WHC XX (1911).",
+    "sources": "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot, p. 239, 301 ; texte intégral : archive.org, collectionsstate20stat.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "WHC XX (1911)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsstate20stat/page/239/mode/1up?q=GRIGNON",
       "texte": "Lire WHC XX (1911) sur archive.org →"
      }
     ]
