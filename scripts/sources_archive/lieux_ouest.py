@@ -2684,6 +2684,8 @@ G.update({
     'Frederica (Géorgie)': (-81.39, 31.22, 'c', "Frederica, île Saint-Simon (Géorgie)"),
     'Midway (Géorgie)': (-81.43, 31.81, 'c', "Midway (Géorgie)"),
     'Coosada (Creeks)': (-86.33, 32.5, 'h', "Coosaudee (Coosada), ville des Creeks supérieurs (Alabama)"),
+    'Poste de la Baie d\'Hudson (Pembina)': (-97.24, 49.0, 'h', "Poste de la Compagnie de la Baie d'Hudson près de Pembina, côté britannique"),
+    'Kildonan (Manitoba)': (-97.1, 49.94, 'c', "Kildonan, paroisse écossaise de la Rivière-Rouge"),
 })
 
 

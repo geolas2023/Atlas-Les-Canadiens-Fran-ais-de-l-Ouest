@@ -883,6 +883,9 @@ LIVRES = [
     ('ga_colonial_records_v7_1906.txt','OJX',{'court':'Colonial Records of Georgia, vol. 7 (1906)','ref':'The Colonial Records of the State of Georgia, vol. 7, 1906'},'colonial-records-georgia_1906_7', lambda nom, ref: ref),
     ('ga_hawkins_letters_1916.txt','OJY',{'court':'Hawkins, Letters 1796-1806 (1916)','ref':'Benjamin Hawkins, Letters of Benjamin Hawkins, 1796-1806 (Collections of the Georgia Historical Society, vol. 9), Georgia Historical Society, 1916'},'collectionsofgeo09hawk', lambda nom, ref: ref),
     ('ga_mcelroy_andersonville_1879.txt','OJZ',{'court':'McElroy, Andersonville (1879)','ref':'John McElroy, Andersonville : a Story of Rebel Military Prisons, Toledo, D. R. Locke, 1879'},'andersonvilleas00mcelgoog', lambda nom, ref: ref),
+    ('mb_dugas_histoire_veridique_1905.txt','OKA',{'court':'Dugas, Histoire véridique (1905)','ref':'Georges Dugas, Histoire véridique des faits qui ont préparé le mouvement des Métis à la Rivière-Rouge en 1869, Montréal, Beauchemin, 1905'},'histoirevridique00duga', lambda nom, ref: ref),
+    ('mb_begg_creation_manitoba_1871.txt','OKB',{'court':'Begg, The Creation of Manitoba (1871)','ref':'Alexander Begg, The Creation of Manitoba, or, A History of the Red River Troubles, Toronto, A. H. Hovey, 1871'},'creationofmanito00begg', lambda nom, ref: ref),
+    ('mb_ross_red_river_settlement_1856.txt','OKC',{'court':'Ross, The Red River Settlement (1856)','ref':'Alexander Ross, The Red River Settlement : its Rise, Progress, and Present State, Londres, Smith, Elder and Co., 1856'},'redriversettlem00rossgoog', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
