@@ -725,6 +725,9 @@ LIVRES = [
     ('mi_mphc_v10_1888.txt', 'KY', {'court': 'Michigan Pioneer and Historical Collections, vol. X (1888)', 'ref': "Michigan Pioneer and Historical Collections, vol. X (Haldimand Papers), Lansing, Thorp & Godfrey, 1888"}, 'michiganhistoric10michuoft', lambda nom, ref: ref),
     ('mi_bay_county_1883.txt', 'KZ', {'court': 'History of Bay County (1883)', 'ref': "History of Bay County, Michigan, 1883"}, 'mi-bay-1883-page', lambda nom, ref: ref),
     ('mi_monroe_bulkley_1913.txt', 'MD', {'court': 'Bulkley, History of Monroe County (1913)', 'ref': "John McClelland Bulkley, History of Monroe County, Michigan, vol. I, 1913"}, 'historyofmonroec01buck', lambda nom, ref: ref),
+    ('mi_blackbird_1887.txt', 'ME', {'court': 'Blackbird, History of the Ottawa and Chippewa Indians of Michigan (1887)', 'ref': "Andrew J. Blackbird, History of the Ottawa and Chippewa Indians of Michigan, Ypsilanti, The Ypsilantian Job Printing House, 1887"}, 'historyofottawac00blac', lambda nom, ref: ref),
+    ('mi_hubbard_1887.txt', 'MF', {'court': 'Hubbard, Memorials of a Half-Century (1887)', 'ref': "Bela Hubbard, Memorials of a Half-Century, 1887"}, 'memorialsofhalfc00hubbrich', lambda nom, ref: ref),
+    ('mi_burton_detroit_v1_1922.txt', 'MG', {'court': 'Burton, The City of Detroit, vol. I (1922)', 'ref': "Clarence M. Burton (éd.), The City of Detroit, Michigan, 1701-1922, vol. I, Detroit et Chicago, The S. J. Clarke Publishing Company, 1922"}, 'citydetroitmich01compgoog', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
