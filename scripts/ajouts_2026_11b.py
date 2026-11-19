@@ -19,10 +19,10 @@
 import json, os, sys, collections
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(R, 'scripts', 'sources_2026b'))
-import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985, hocking_2019, gianini_1927, ebright_1994, montoya_2002, benoit_1975, chiniquy_1857, old_rock_house, provost_1913, kienzle_2017, brettell_2015, hyde_1968, antoine_2019, hafen_1954, tom_sun, journal_village_2011
+import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985, hocking_2019, gianini_1927, ebright_1994, montoya_2002, benoit_1975, chiniquy_1857, old_rock_house, provost_1913, kienzle_2017, brettell_2015, hyde_1968, antoine_2019, hafen_1954, tom_sun, journal_village_2011, st_paul_globe_1903
 
-MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985, hocking_2019, gianini_1927, ebright_1994, montoya_2002, benoit_1975, chiniquy_1857, old_rock_house, provost_1913, kienzle_2017, brettell_2015, hyde_1968, antoine_2019, hafen_1954, tom_sun, journal_village_2011]
-PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-', 'DRV-', 'LC78-', 'BF17-', 'LR05-', 'WT85-', 'HK19-', 'GI27-', 'EB94-', 'MT02-', 'BN75-', 'CQ57-', 'RH98-', 'PV13-', 'LS17-', 'BR15-', 'GB68-', 'MA19-', 'HF54-', 'TS11-', 'LJ11-')
+MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985, hocking_2019, gianini_1927, ebright_1994, montoya_2002, benoit_1975, chiniquy_1857, old_rock_house, provost_1913, kienzle_2017, brettell_2015, hyde_1968, antoine_2019, hafen_1954, tom_sun, journal_village_2011, st_paul_globe_1903]
+PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-', 'DRV-', 'LC78-', 'BF17-', 'LR05-', 'WT85-', 'HK19-', 'GI27-', 'EB94-', 'MT02-', 'BN75-', 'CQ57-', 'RH98-', 'PV13-', 'LS17-', 'BR15-', 'GB68-', 'MA19-', 'HF54-', 'TS11-', 'LJ11-', 'SPG03-')
 THEMES = {'poste', 'etablissement', 'famille', 'personnage', 'evenement', 'commerce', 'migration', 'exploration', 'religion', 'toponymie'}
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
