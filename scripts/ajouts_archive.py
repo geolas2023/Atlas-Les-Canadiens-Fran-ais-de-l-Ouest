@@ -733,6 +733,8 @@ LIVRES = [
     ('mi_mphc_v20_1892.txt', 'ML', {'court': 'Michigan Pioneer and Historical Collections, vol. XX (1892)', 'ref': "Michigan Pioneer and Historical Collections, vol. XX (Haldimand Papers), Lansing, Robert Smith & Co., 1892"}, 'michiganhistoric20michuoft', lambda nom, ref: ref),
     ('mi_mphc_v38_1912.txt', 'MM', {'court': 'Michigan Pioneer and Historical Collections, vol. XXXVIII (1912)', 'ref': "Michigan Pioneer and Historical Collections, vol. XXXVIII, 1912"}, 'michiganhistoric38mich', lambda nom, ref: ref),
     ('mi_mphc_v18_1891.txt', 'MN', {'court': 'Michigan Pioneer and Historical Collections, vol. XVIII (1891)', 'ref': "Michigan Pioneer and Historical Collections, vol. XVIII, 1891"}, 'michiganhistoric18mich', lambda nom, ref: ref),
+    ('mi_mphc_v30_1906.txt', 'MQ', {'court': 'Michigan Pioneer and Historical Collections, vol. XXX (1903-1904)', 'ref': "Michigan Pioneer and Historical Collections, vol. XXX (communications de 1903-1904)"}, 'michiganhistoric30mich', lambda nom, ref: ref),
+    ('mi_monroe_bulkley_v2_1913.txt', 'MR', {'court': 'Bulkley, History of Monroe County, vol. II (1913)', 'ref': "John McClelland Bulkley, History of Monroe County, Michigan, vol. II, Chicago et New York, The Lewis Publishing Company, 1913"}, 'bad0978.0002.001.umich.edu', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
