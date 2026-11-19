@@ -680,6 +680,9 @@ LIVRES = [
     ('wi_wmh_1927_06.txt', 'JE', {'court': 'Wisconsin Magazine of History (06/1927)', 'ref': "The Wisconsin Magazine of History, vol. X, n° 4, State Historical Society of Wisconsin, Madison, juin 1927"}, 'sim_wisconsin-magazine-of-history_1927-06_10_4', lambda nom, ref: ref),
     ('wi_wmh_1927_09.txt', 'JF', {'court': 'Wisconsin Magazine of History (09/1927)', 'ref': "The Wisconsin Magazine of History, vol. XI, n° 1, State Historical Society of Wisconsin, Madison, septembre 1927"}, 'sim_wisconsin-magazine-of-history_1927-09_11_1', lambda nom, ref: ref),
     ('wi_wmh_1929_12.txt', 'JG', {'court': 'Wisconsin Magazine of History (12/1929)', 'ref': "The Wisconsin Magazine of History, vol. XIII, n° 2, State Historical Society of Wisconsin, Madison, décembre 1929"}, 'sim_wisconsin-magazine-of-history_1929-12_13_2', lambda nom, ref: ref),
+    ('wi_wheeler_milwaukee_1861.txt', 'JH', {'court': 'Wheeler, Chronicles of Milwaukee (1861)', 'ref': "A. C. Wheeler, The Chronicles of Milwaukee, Jermain & Brightman, Milwaukee, 1861"}, 'chroniclesofmilw00whee', lambda nom, ref: ref),
+    ('wi_thwaites_wisconsin_1908.txt', 'JI', {'court': 'Thwaites, Wisconsin (1908)', 'ref': "Reuben Gold Thwaites, Wisconsin : The Americanization of a French Settlement, Houghton Mifflin, Boston et New York, 1908"}, 'wisconsinamerica01thwa', lambda nom, ref: ref),
+    ('wi_conard_milwaukee_1895.txt', 'JJ', {'court': 'Conard, History of Milwaukee, vol. I (1895)', 'ref': "Howard Louis Conard (éd.), History of Milwaukee from its First Settlement to the Year 1895, vol. I, American Biographical Publishing Company, Chicago et New York, 1895"}, 'historyofmilwauk01cona', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
