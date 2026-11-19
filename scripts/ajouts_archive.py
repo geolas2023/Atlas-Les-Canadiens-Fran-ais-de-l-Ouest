@@ -650,6 +650,10 @@ LIVRES = [
     ('wi_collections_v8_1879.txt', 'HR', {'court': 'WHC VIII (1879)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. VIII, Madison, 1879 : papiers Langlade, Perrot, Fort Winnebago"}, 'collectionsofsta0008lyma', lambda nom, ref: ref),
     ('wi_collections_v12_1892.txt', 'HS', {'court': 'WHC XII (1892)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XII, éd. Reuben G. Thwaites, Madison, 1892 : cour d'enquête de Green Bay (1814), Robert Dickson, employés de l'American Fur Company, Moses Paquette"}, 'collectionsofsta0012reub', lambda nom, ref: ref),
     ('wi_collections_v4_1859.txt', 'HT', {'court': 'WHC IV (1859)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. IV, éd. Lyman C. Draper, Madison, 1859"}, 'collectionsstate04stat', lambda nom, ref: ref),
+    ('wi_martin_fox_river_1900.txt', 'HU', {'court': 'Martin, Fox River Valley (1900)', 'ref': "Deborah Beaumont Martin, The Fox River Valley in the Days of the Fur Trade, Madison, 1900"}, 'foxrivervalleyin00mart', lambda nom, ref: ref),
+    ('wi_evans_military_green_bay_1900.txt', 'HV', {'court': 'Evans, Military History of Green Bay (1900)', 'ref': "William L. Evans, The Military History of Green Bay, Madison, 1900"}, 'militaryhistoryo00evan', lambda nom, ref: ref),
+    ('wi_brown_county_v2_1913.txt', 'HW', {'court': 'History of Brown County, II (1913)', 'ref': "History of Brown County, Wisconsin, Past and Present, éd. Deborah B. Martin, vol. II, Chicago, 1913"}, 'historybrowncou00compgoog', lambda nom, ref: ref),
+    ('wi_brown_county_v1_1913.txt', 'HX', {'court': 'History of Brown County, I (1913)', 'ref': "History of Brown County, Wisconsin, Past and Present, éd. Deborah B. Martin, vol. I, Chicago, 1913"}, 'HistoryOfBrownCountyWisconsinVol.1', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

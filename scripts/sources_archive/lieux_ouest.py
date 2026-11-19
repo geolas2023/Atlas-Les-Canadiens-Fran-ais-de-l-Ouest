@@ -2474,6 +2474,12 @@ G.update({
     'Stockbridge (Wisconsin)': (-88.3015, 44.0747, 'c', "Stockbridge (Wisconsin)"),
     'Sparta (Wisconsin)': (-90.8129, 43.9441, 'c', "Sparta (Wisconsin)"),
     'Ottawa (Illinois)': (-88.8426, 41.3456, 'c', "Ottawa (Illinois)"),
+    'Duck Creek (Wisconsin)': (-88.1101, 44.5694, 'c', "Duck Creek (Howard, Wisconsin)"),
+    'Howard (Wisconsin)': (-88.0884, 44.5436, 'c', "Howard (Wisconsin)"),
+    'Scott (Wisconsin)': (-87.9200, 44.5800, 'c', "canton de Scott (comté de Brown, Wisconsin)"),
+    'Bay Settlement (Wisconsin)': (-87.9334, 44.5761, 'c', "Bay Settlement (Wisconsin)"),
+    'Ishpeming (Michigan)': (-87.6676, 46.4886, 'c', "Ishpeming (Michigan)"),
+    'Stephenson (Michigan)': (-87.6068, 45.4153, 'c', "Stephenson (Michigan)"),
 })
 
 
