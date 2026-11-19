@@ -491,7 +491,7 @@ async function chargerReseau() {
         ${a.ici ? '' : `<p><a class="ouvrir-atlas" href="${esc(lien)}">${prep ? 'Voir le dossier →' : "Ouvrir l'atlas →"}</a></p>`}</details>`;
     };
     const groupe = (type, titre) => { const as = reg.atlas.filter(a => a.type === type); return as.length ? `<p class="mini">${titre}</p>` + as.map(carte1).join('') : ''; };
-    $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages') + groupe('famille', 'Atlas de familles');
+    $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages') + groupe('famille', 'Atlas de familles') + groupe('connexe', 'Atlas connexe (hors réseau)');
   } catch (e) { console.warn('Registre des atlas indisponible', e); }
   ACCUEIL = $('#panneau').innerHTML;
 }
