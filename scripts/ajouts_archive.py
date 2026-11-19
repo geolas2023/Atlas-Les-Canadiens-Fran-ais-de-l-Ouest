@@ -665,6 +665,7 @@ LIVRES = [
     ('wi_forrester_chippewa_1891.txt', 'IL', {'court': 'Forrester, Album of the Chippewa Valley (1891)', 'ref': "George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, Chicago, 1891-1892"}, 'historicalbiogra00forr', lambda nom, ref: ref),
     ('wi_northern_wisconsin_1881.txt', 'IM', {'court': 'History of Northern Wisconsin (1881)', 'ref': "History of Northern Wisconsin, Western Historical Company, Chicago, 1881"}, 'historyofnorther00west', lambda nom, ref: ref),
     ('wi_buck_milwaukee_v1_1890.txt', 'IO', {'court': 'Buck, Pioneer History of Milwaukee, I (1890)', 'ref': "James S. Buck, Pioneer History of Milwaukee, vol. I, éd. revue, Milwaukee, 1890"}, 'pioneerhistoryof01buck', lambda nom, ref: ref),
+    ('wi_kellogg_french_regime_1925.txt', 'IP', {'court': 'Kellogg, The French Régime in Wisconsin (1925)', 'ref': "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925"}, 'frenchrgimeinwis00kell', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
