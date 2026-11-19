@@ -121648,6 +121648,65 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -101.274,
+     47.298
+    ]
+   },
+   "properties": {
+    "id": "CH03-03",
+    "nom": "Fort Mandan : le violon de Pierre Cruzatte et le Canadien qui danse sur la tête (hiver 1804-1805)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1804.833,
+    "fin": 1805.25,
+    "date_edtf": "1804-11/1805-04",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Cruzatte",
+     "John Shields"
+    ],
+    "description": "Pendant l'hiver au fort Mandan, triangulaire, à dix pièces, dont une chambre pour les interprètes où naît Jean-Baptiste Charbonneau, les hommes de l'expédition fraternisent avec les Mandanes : le forgeron John Shields répare les objets de fer contre du maïs, et le « violoneux » Pierre Cruzatte fait danser les hommes, dont un Canadien qui gigue sur la tête, au grand plaisir des Indiens, qui dansent ensuite à leur manière. Cruzatte ressort son violon à l'embouchure de la Yellowstone, en avril 1805, lorsque chacun reçoit une ration d'alcool.",
+    "sources": "Chaloult, Michel (2003), Les « Canadiens » de l'expédition Lewis et Clark, 1804-1806 : la traversée d'un continent, Sillery, Septentrion, 74-75, 81.",
+    "note": "Point à la réplique du fort Mandan (Washburn, Dakota du Nord)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "CH03-04",
+    "nom": "Saint-Louis : Lewis juge ses Canadiens, Labiche, Lepage, Drouillard et Charbonneau (15 janvier 1807)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1806.858,
+    "fin": 1807.038,
+    "date_edtf": "1806-11-10/1807-01-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Meriwether Lewis",
+     "François Labiche",
+     "Jean-Baptiste Lepage",
+     "George Drouillard",
+     "Toussaint Charbonneau"
+    ],
+    "description": "Les hommes de l'expédition sont démobilisés à Saint-Louis le 10 novembre 1806. Le 15 janvier 1807, Lewis écrit au secrétaire Henry Dearborn pour faire approuver leur solde : François Labiche, simple soldat, a rendu en plus des services très importants comme interprète du français et de l'anglais et mérite un supplément ; Jean-Baptiste Lepage, engagé au fort Mandan le 2 novembre 1804 pour remplacer John Newman, ne s'est signalé par aucun acte particulier et ne recevra que les deux tiers de la solde ; George Drouillard est « un homme de grand mérite ». Chaloult reproduit ces évaluations en annexe.",
+    "sources": "Chaloult, Michel (2003), Les « Canadiens » de l'expédition Lewis et Clark, 1804-1806 : la traversée d'un continent, Sillery, Septentrion, 147.",
+    "note": "Point schématique à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -88.0198,
      44.5133
     ]
