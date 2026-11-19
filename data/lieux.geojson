@@ -114157,6 +114157,267 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "TR65-01",
+    "nom": "La Nouvelle-Orléans : Lévi Koopman, dit Louis Marchand, jeune immigrant hollandais terrassé par la fièvre jaune (vers 1824-1825)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1824.0,
+    "fin": 1826.853,
+    "date_edtf": "1824~/1826-11-08",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Marchand (Lévi Koopman)",
+     "Eustache Soupras"
+    ],
+    "description": "Né à Amsterdam en 1800 dans une famille juive de joailliers, Lévi Koopman porte le nom de Marchand adopté par son père sous le régime français. Après un séjour en Angleterre, il débarque à Charleston chez un cousin, puis gagne La Nouvelle-Orléans, attiré par sa population de langue française, malgré une épidémie de fièvre jaune. Il y tombe malade ; à sa sortie de l'hôpital, son infirmière s'est enfuie avec sa montre et son argent. Il fait ensuite commerce de toiles et de dentelles à New York avant de monter à Montréal en 1826. Commis du marchand Eustache Soupras à Saint-Mathias, baptisé par Mgr Lartigue en 1828, il est délégué de Saint-Mathias à l'assemblée des Six-Comtés (1837) et emprisonné comme patriote. Il meurt à Montréal en 1881.",
+    "sources": "Trépanier, Léon (1965), « Un Montréalais du siècle dernier : l'immigrant juif Louis Marchand », Les Cahiers des Dix, n° 30, p. 131-148, p. 131-136.",
+    "note": "Homonyme de Louis Marchand de Saint-Jean-sur-Richelieu (1789-1865), patron de François-Xavier Aubry ; aucun lien établi. Point placé à La Nouvelle-Orléans."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.035,
+     41.265
+    ]
+   },
+   "properties": {
+    "id": "ISK-01",
+    "nom": "Comté de Porter (Indiana) : « Fort Kankakee », enceinte de terre attribuée aux Français (tradition)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1700.0,
+    "fin": 1763.999,
+    "date_edtf": "1700~/1763",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [],
+    "description": "Selon Isaacs, une enceinte de terre damée d'environ quatre acres, percée de quatorze embrasures et accessible seulement par une levée cachée dans le marais, aurait été élevée sur le Kankakee par les militaires français. Ses restes, réduits à une crête basse, auraient été relevés par un ingénieur local puis visités en 1935 par des chercheurs de Chicago. L'auteur la situe, d'après des « documents Quinaton », dans le canton de Pleasant (comté de Porter), section 22, et la dit abandonnée vers 1763 ; les colons français se seraient alors repliés vers Beaverville et Papineau.",
+    "sources": "Isaacs, Marion (s.d.), The Kankakee River of History, Indiana (archive.org : kankakeeriverofh00isaa), p. 32 du PDF.",
+    "note": "Tradition non confirmée : l'auteur reconnaît que l'histoire du Kankakee relève largement de la conjecture et le même chapitre mêle des théories fantaisistes (Vikings, mineurs de cuivre). Point approximatif près de Kouts."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.879,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "AM04-01",
+    "nom": "Bourbonnais (Illinois) : la colonie canadienne du Kankakee mise en ballades (1904)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1904.0,
+    "fin": 1904.999,
+    "date_edtf": "1904",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Chiniquy"
+    ],
+    "description": "En introduction à ses poèmes en anglais imitant le parler des Canadiens français de l'Illinois, Amsbary résume l'histoire de la colonie : traders et voyageurs du Bas-Canada achètent des terres avant 1835, la mission catholique naît à Bourbonnais Grove, puis Chiniquy attire au début des années 1850 un grand nombre de colons et fonde Sainte-Anne. Il évalue la colonie à environ sept mille personnes ; Bourbonnais, avec ses quelque cinq cents habitants, compterait alors le collège Saint-Viateur et le couvent Sainte-Catherine, et Momence, Saint-George, Sainte-Marie, Manteno, Papineau, L'Érable et Kankakee auraient une bonne part de Français. Les ballades mettent en scène des noms de la région (Legris, Contois, Boudreau, Frochette) et le fils d'un colon venu avec Chiniquy, capitaine d'un vapeur sur le Kankakee.",
+    "sources": "Amsbary, Wallace Bruce (1904), Ballads of Bourbonnais, Indianapolis, Bobbs-Merrill, p. 15-16, 93.",
+    "note": "Source littéraire : les ballades sont des fictions en dialecte ; seuls les chiffres de l'introduction sont repris, tels que donnés par l'auteur."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8775,
+     41.1485
+    ]
+   },
+   "properties": {
+    "id": "KZ82-01",
+    "nom": "Bourbonnais : le collège Saint-Viateur, pépinière du clergé de Chicago (1868-1938)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1868.0,
+    "fin": 1938.999,
+    "date_edtf": "1868/1938",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ambrose Granger",
+     "Z. P. Bérard",
+     "Achille L. Bergeron"
+    ],
+    "description": "Fondé en 1868 par les Clercs de Saint-Viateur venus du Québec, le collège reproduit le modèle du collège classique québécois ; Kantowicz le présente comme le premier du genre hors du Canada. Faute de séminaire à Chicago avant 1920, il forme une part notable du clergé de l'archidiocèse : en 1916, trente-deux prêtres du diocèse y avaient étudié, dont des Irlandais devenus évêques auxiliaires. Les curés Ambrose Granger (Saint-Rose de Kankakee) et Z. P. Bérard (Sainte-Anne, quarante-quatre ans de cure), nés dans les années 1860, en sont issus. Les Viateurs ferment le collège en 1938 ; les bâtiments passent à l'Église du Nazaréen (Olivet).",
+    "sources": "Kantowicz, Edward R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, vol. 75, n° 4, p. 263-276, p. 269-274.",
+    "note": "L'auteur compte aussi huit paroisses françaises dans le comté de Kankakee, plus modestes mais plus généreuses par tête que les paroisses rurales du diocèse (données de 1926)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.776,
+     41.17
+    ]
+   },
+   "properties": {
+    "id": "KZ82-02",
+    "nom": "Saint-George (Illinois) : l'école publique tenue par les religieuses, payée par le comté (jusqu'aux années 1960)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1890.0,
+    "fin": 1965.999,
+    "date_edtf": "1890~/1965~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "À Bourbonnais et à Saint-George, la paroisse bâtit et entretient l'unique école, confiée aux Viateurs et aux Sœurs de Notre-Dame, mais les salaires des enseignants sont payés par l'impôt du comté, à la manière des écoles confessionnelles subventionnées du Québec et de l'Ontario. Dans les années 1920, quand le comté construit de nouvelles écoles de district, il garde les religieux comme enseignants mais exige le retrait des symboles religieux et renvoie le catéchisme après les heures de classe, un compromis que l'auteur rapproche du plan de Faribault. À Bourbonnais, l'arrivée de familles protestantes après 1938 fait sortir les sœurs de l'école publique ; à Saint-George, resté homogène, elles y enseignent jusqu'aux années 1960.",
+    "sources": "Kantowicz, Edward R. (1982), « A Fragment of French Canada on the Illinois Prairies », Journal of the Illinois State Historical Society, vol. 75, n° 4, p. 263-276, p. 273-275.",
+    "note": "Position approximative du village de Saint-George, à l'est de Bourbonnais."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.985,
+     41.322
+    ]
+   },
+   "properties": {
+    "id": "PE34-01",
+    "nom": "Fort Saint-Louis du Rocher : fief concédé par La Salle à Jacques Bourdon d'Autray et à ses quatre associés (26 avril 1683)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1683.318,
+    "fin": 1683.318,
+    "date_edtf": "1683-04-26",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jacques Bourdon d'Autray",
+     "Nicolas Doyon",
+     "Pierre Prud'homme",
+     "André Hunault",
+     "Jean Filastreau",
+     "Cavelier de La Salle"
+    ],
+    "description": "En reconnaissance de ses services dans la découverte de la Louisiane et la construction du fort Saint-Louis, l'acte, conservé à la Chicago Historical Society, concède à d'Autray en fief et seigneurie cent vingt-six arpents de front sur la rive sud de la rivière des Illinois, à partir du ruisseau où La Salle a hiverné, avec l'île située au milieu de la rivière au-dessus du grand Rocher, sur quarante-deux arpents de profondeur ; droits de chasse et de pêche, foi et hommage au fort Saint-Louis et cens payable à la Saint-Louis selon la coutume de Paris. D'Autray reçoit aussi un emplacement de vingt pieds carrés dans le fort pour y bâtir une maison, à reprendre si le fort est déplacé, et doit traiter avec les Indiens au fort même. L'acte nomme ses quatre associés : l'armurier Nicolas Doyon, l'armurier Pierre Prud'homme (le chasseur égaré du fort Prud'homme), André Hunault et Jean Filastreau. Les éditeurs signalent aussi une concession de quarante-quatre arpents en fief à Prud'homme (11 août 1683), déposée chez le notaire Adhémar en 1717.",
+    "sources": "Pease, Theodore C. et Raymond C. Werner (éd.) (1934), The French Foundations, 1680-1693, Collections of the Illinois State Historical Library, vol. XXIII, p. 19-27.",
+    "note": "Les éditeurs identifient le ruisseau au Clayton Run (probable). D'Autray, au service de La Salle depuis 1675, sera tué par des Iroquois en 1688. Point au Starved Rock."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.99,
+     41.318
+    ]
+   },
+   "properties": {
+    "id": "PE34-02",
+    "nom": "Fort Saint-Louis du Rocher : les premiers « habitants » et la concession de Michel Disy (1682-1683)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1682.917,
+    "fin": 1683.919,
+    "date_edtf": "1682-12-01/1683-12-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Disy",
+     "Charles Disy",
+     "Laurriet",
+     "Brossard",
+     "chevalier de Baugy",
+     "Cavelier de La Salle"
+    ],
+    "description": "Dans un acte daté du 2 décembre 1683 (minutier Adhémar, Montréal), La Salle, se disant seigneur et gouverneur du fort Saint-Louis de la Louisiane, rappelle qu'il a attiré près du fort plusieurs villages indiens et qu'il a accordé des terres à des habitants français avec liberté de traite ; il concède à Michel Disy deux cents arpents, en réduisant le cens à un denier par an pour ceux qui ont demandé les premiers des habitations (décision prise à la rivière des Miamis le 1er décembre 1682). Disy fait ensuite déposer l'acte chez le notaire de Champlain, où il deviendra juge ; une concession identique à son frère Charles est conservée à Chicago. Une lettre de La Salle adressée « à Messieurs Laurriet et Brossard et tous les autres habitants » du fort leur recommande d'obéir au chevalier de Baugy, envoyé par La Barre pour prendre le poste.",
+    "sources": "Pease, Theodore C. et Raymond C. Werner (éd.) (1934), The French Foundations, 1680-1693, Collections of the Illinois State Historical Library, vol. XXIII, p. 40-45.",
+    "note": "Position approximative du fort."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.12,
+     38.8
+    ]
+   },
+   "properties": {
+    "id": "CH03-01",
+    "nom": "Camp de la rivière Dubois : les huit engagés canadiens du canot rouge (mai 1804)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1804.369,
+    "fin": 1805.25,
+    "date_edtf": "1804-05-14/1805-04",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Deschamps",
+     "Charles Hébert",
+     "Jean-Baptiste La Jeunesse",
+     "La Liberté",
+     "Étienne Malbœuf",
+     "Pierre Pinaut",
+     "Paul Primeau",
+     "François Rivet",
+     "Pierre Roy"
+    ],
+    "description": "Le 14 mai 1804, quarante hommes quittent le camp de la rivière Dubois, face à l'embouchure du Missouri, sur un bateau à quille et deux grandes pirogues. Le patron Deschamps commande la pirogue rouge, montée par huit engagés canadiens recrutés jusqu'au premier hivernement : Charles Hébert, Jean-Baptiste La Jeunesse, La Liberté, Étienne Malbœuf, Pierre Pinaut, Paul Primeau, François Rivet et Pierre Roy. Les journaux des capitaines parlent peu d'eux ; la plupart hivernent chez les Mandanes et redescendent à Saint-Louis sur le bateau à quille au printemps 1805. Chaloult les distingue des Canadiens et Métis membres permanents du corps (Drouillard, Charbonneau, Cruzatte, Labiche, Lepage).",
+    "sources": "Chaloult, Michel (2003), Les « Canadiens » de l'expédition Lewis et Clark, 1804-1806 : la traversée d'un continent, Sillery, Septentrion, chap. sur le départ (édition non paginée dans la copie lue).",
+    "note": "L'auteur suppose que la rivière Dubois porte le nom d'un voyageur canadien."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.85,
+     39.33
+    ]
+   },
+   "properties": {
+    "id": "CH03-02",
+    "nom": "Rivière Chariton (Missouri) : les « Deux Charretiers », nom d'un ancien traiteur (10 juin 1804)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1804.441,
+    "fin": 1804.441,
+    "date_edtf": "1804-06-10",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Chariton",
+     "Pierre Dorion"
+    ],
+    "description": "Le 10 juin 1804, l'expédition passe deux rivières à embouchure commune que Clark appelle « Charletons », les Deux Charretiers des voyageurs, dont le cours supérieur est fréquenté par les Iowas. Chaloult rattache probablement le nom à Jean Chariton, un ancien commerçant. Peu après, l'expédition croise deux radeaux de fourrures et de suif de bison menés par le vieux Pierre Dorion, qui vit depuis vingt ans chez les Sioux et que les capitaines retiennent comme interprète.",
+    "sources": "Chaloult, Michel (2003), Les « Canadiens » de l'expédition Lewis et Clark, 1804-1806 : la traversée d'un continent, Sillery, Septentrion, notes 32-36 du chapitre.",
+    "note": "Étymologie donnée comme probable par l'auteur. Point à l'embouchure de la Chariton, près de Glasgow."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
