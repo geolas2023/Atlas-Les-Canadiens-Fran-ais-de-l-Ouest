@@ -108401,6 +108401,244 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "BF17-01",
+    "nom": "Foire de Taos : trente-trois Français chez les Comanches (février 1748)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1748.155,
+    "fin": 1748.155,
+    "date_edtf": "1748-02-27",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Le 27 février 1748, sept Comanches venus d'un village de la rivière Xicarilla annoncent à Taos que trente-trois Français sont venus chez eux échanger des fusils contre des mules ; deux d'entre eux attendent pour accompagner les Comanches à la foire de Taos. Le gouverneur Codallos y voit un complot franco-comanche et propose un poste militaire sur la Xicarilla.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 392-393.",
+    "note": "Point placé à Taos, lieu de la foire ; le village comanche n'est pas localisé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.35,
+     34.02
+    ]
+   },
+   "properties": {
+    "id": "BF17-02",
+    "nom": "Poste des Arkansas : départ de Febre, Satren et Riballo (automne 1748)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1748.667,
+    "fin": 1748.667,
+    "date_edtf": "1748-09~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Luis Febre",
+     "Pierre Satren",
+     "Joseph Miguel Riballo"
+    ],
+    "description": "À l'automne 1748, douze hommes partent d'un village d'Arkansas (« Zarca ») à l'ouest du poste des Arkansas pour gagner le Nouveau-Mexique par la Napestle (l'Arkansas), encouragés par le retour des Mallet et par la paix entre Jumanos et Comanches. Parmi eux, trois déserteurs : Luis Febre, 29 ans, tailleur et barbier de La Nouvelle-Orléans passé par le Canada, Michillimakinac et l'Illinois ; Pierre Satren (« Pedro Sastre »), 42 ans, charpentier et ancien soldat natif de Québec ; et Joseph Miguel Riballo, 24 ans, charpentier natif de l'Illinois.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 394.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.04,
+     37.06
+    ]
+   },
+   "properties": {
+    "id": "BF17-03",
+    "nom": "Villages jumanos (Panipiquets) de la Napestle : un drapeau français (1748-1749)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1748.0,
+    "fin": 1750.999,
+    "date_edtf": "1748/1750",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Luis Febre",
+     "Pierre Satren",
+     "Joseph Miguel Riballo",
+     "Felipe de Sandoval"
+    ],
+    "description": "Les Jumanos (Panipiquets, les Wichitas des Français) vivent en deux villages palissadés de huttes d'herbe sur la Napestle, cultivent maïs, haricots et courges, et arborent un drapeau français reçu du commandant de la Louisiane ; des traiteurs français y montent régulièrement en canot depuis le poste des Arkansas, à neuf jours de descente. C'est de là que les Jumanos conduisent Febre et ses compagnons chez les Comanches, puis à la foire de Taos.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 394-397.",
+    "note": "Position hypothétique des villages sur l'Arkansas, vers la frontière actuelle du Kansas et de l'Oklahoma."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.9384,
+     35.6877
+    ]
+   },
+   "properties": {
+    "id": "BF17-04",
+    "nom": "Santa Fe, palais des gouverneurs : interrogatoire de Febre, Satren et Riballo (avril 1749)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1749.28,
+    "fin": 1750.178,
+    "date_edtf": "1749-04-12/1750-03-05",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Luis Febre",
+     "Pierre Satren",
+     "Joseph Miguel Riballo",
+     "Pedro Soutter"
+    ],
+    "description": "Ramenés de la foire de Taos par Bernardo de Bustamante y Tagle, les trois Français arrivent à Santa Fe le 12 avril 1749. Désarmés, logés au palais des gouverneurs et mis au travail selon leur métier, ils sont interrogés le lendemain par l'intermédiaire de l'interprète Pedro Soutter, puis de nouveau le 5 mars 1750. Le gouverneur Vélez Cachupín propose de les établir en Sonora ou en Nouvelle-Biscaye, sans retour possible, car ce sont de bons artisans et d'excellents tireurs ; le vice-roi l'approuve en janvier 1751. En 1752, Febre, désormais « un peu versé dans la langue espagnole », sert lui-même d'interprète.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 393-395, 399-401.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.7339,
+     45.7867
+    ]
+   },
+   "properties": {
+    "id": "BF17-05",
+    "nom": "Michillimakinac : le passeport de Jean Chapuis (30 juillet 1751)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1751.579,
+    "fin": 1751.579,
+    "date_edtf": "1751-07-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Chapuis",
+     "Duplessis Faber"
+    ],
+    "description": "Le 30 juillet 1751, le commandant de Michillimakinac, Duplessis Faber (« Falberte »), délivre un passeport à Jean Chapuis, 48 ans, natif de France et habitant du Canada, pour retourner aux Illinois s'occuper de ses affaires et y porter des marchandises.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 401.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1586,
+     38.0848
+    ]
+   },
+   "properties": {
+    "id": "BF17-06",
+    "nom": "Fort de Chartres : licence de Saint-Clair « pour faire la découverte du Nouveau-Mexique » (6 octobre 1751)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1751.764,
+    "fin": 1751.764,
+    "date_edtf": "1751-10-06",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Chapuis",
+     "Benoît de Saint-Clair",
+     "Roy",
+     "Jeandron",
+     "Aubuchon",
+     "Calvé",
+     "Louis Trudeau",
+     "Laurent Trudeau",
+     "Betille",
+     "Du Charme"
+    ],
+    "description": "Le 6 octobre 1751, le commandant du fort de Chartres, Benoît de Saint-Clair, autorise Jean Chapuis et neuf hommes, Roy, Jeandron, Foysi, Aubuchon, Calvé, Louis et Laurent Trudeau, Betille et Du Charme, à « faire la découverte du Nouveau-Mexique » avec les marchandises qu'ils jugeront bonnes, sous pavillon et sans se séparer : une expédition à demi officielle pour ouvrir une route commerciale.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 401.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.92,
+     39.33
+    ]
+   },
+   "properties": {
+    "id": "BF17-07",
+    "nom": "Fort Cavagnial (Kansas) : l'association Chapuis-Feuilli (9 décembre 1751)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1751.939,
+    "fin": 1752.167,
+    "date_edtf": "1751-12-09/1752-03",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Chapuis",
+     "Louis Feuilli",
+     "Pierre Trudeau",
+     "Laurent Trudeau"
+    ],
+    "description": "Au fort Cavagnial, chez les Kansas, Chapuis s'associe le 9 décembre 1751 à Louis Feuilli (ou Foissi), interprète du roi au poste depuis huit ans, pour « aller ensemble en Espagne » et atteindre en avril les établissements espagnols ; il lui avance 400 livres de marchandises, payables en castor. Pierre et Laurent Trudeau signent comme témoins ; Feuilli ne sait pas signer. Ils repartent vers la mi-mars 1752 ; huit hommes font demi-tour chez les Pawnees ou les Comanches.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 401-402.",
+    "note": "Position approximative du fort Cavagnial, près de l'actuelle Fort Leavenworth."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.6866,
+     35.5487
+    ]
+   },
+   "properties": {
+    "id": "BF17-08",
+    "nom": "Mission de Pecos : arrivée de Chapuis et Feuilli sous pavillon blanc (6 août 1752)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1752.597,
+    "fin": 1752.75,
+    "date_edtf": "1752-08-06/1752-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Chapuis",
+     "Louis Feuilli",
+     "Luis Febre",
+     "Juan Joseph Toledo"
+    ],
+    "description": "Le 6 août 1752, guidés par des Apaches jicarillas et carlanes rencontrés sur la Gallinas, Chapuis et Feuilli arrivent au cimetière de la mission de Pecos avec neuf chevaux et neuf ballots d'étoffes, sous un drapeau blanc. Le père Toledo, qui écrit leurs noms « Xanxapij » et « Luis Fxuij », avertit le gouverneur. À Santa Fe, leurs marchandises sont saisies et adjugées pour 404 pesos ; vers le 1er octobre, les deux hommes partent prisonniers pour Chihuahua et Mexico, d'où l'on décide en janvier 1754 de les envoyer en Espagne.",
+    "sources": "Bolton, Herbert E. (1917), « French Intrusions into New Mexico, 1749-1752 », dans H. Morse Stephens et H. E. Bolton (dir.), The Pacific Ocean in History, New York, Macmillan, p. 389-407 (archive.org, frenchintrusions00boltrich), p. 400-405.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
