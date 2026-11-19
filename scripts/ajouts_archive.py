@@ -876,6 +876,11 @@ LIVRES = [
     ('fl_bourget_circulaire_1867.txt','OJQ',{'court':'Bourget, Circulaire au clergé : la mission de la Floride (1867)','ref':'Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867'},'cihm_55253', lambda nom, ref: ref),
     ('fl_snjm_marie_olivier_1922.txt','OJR',{'court':'Histoire des Sœurs des Saints Noms : Mère Marie-Olivier (1922)','ref':'Histoire de la congrégation des Sœurs des Saints Noms de Jésus et de Marie : Mère Marie-Olivier, cinquième et septième supérieure générale, 1877 à 1886, 1895 à 1900, Montréal, Arbour et Dupont, 1922'},'histoiredelacong00mont', lambda nom, ref: ref),
     ('fl_gleanings_snjm_1909.txt','OJS',{'court':'Gleanings of Fifty Years (1909)','ref':'Gleanings of Fifty Years : the Sisters of the Holy Names of Jesus and Mary in the Northwest, 1859-1909, [Portland], [Glass & Prudhomme], 1909'},'gleaningsoffifty00unse', lambda nom, ref: ref),
+    ('ga_jones_history_v1_1883.txt','OJT',{'court':'Jones, The History of Georgia, vol. 1 (1883)','ref':'Charles C. Jones, The History of Georgia, vol. 1, Boston, Houghton, 1883'},'historyofgeorgia01joneuoft', lambda nom, ref: ref),
+    ('ga_knight_landmarks_v1_1913.txt','OJU',{'court':"Knight, Georgia's Landmarks (1913)",'ref':"Lucian Lamar Knight, Georgia's Landmarks, Memorials and Legends, Atlanta, Byrd Print. Co., 1913"},'georgiaslandmar00kniggoog', lambda nom, ref: ref),
+    ('ga_casgrain_acadiens_dispersion_1887.txt','OJV',{'court':'Casgrain, Les Acadiens après leur dispersion (1887)','ref':'H.-R. Casgrain, Les Acadiens après leur dispersion, 1887'},'cihm_06173', lambda nom, ref: ref),
+    ('ga_foster_revolutionary_reader_1913.txt','OJW',{'court':'Foster, Revolutionary Reader (1913)','ref':'Mrs. Sophie Lee Foster, Revolutionary Reader : Reminiscences and Indian Legends, Atlanta, Byrd Printing Company, 1913'},'revolutionaryrea00fostiala', lambda nom, ref: ref),
+    ('ga_colonial_records_v7_1906.txt','OJX',{'court':'Colonial Records of Georgia, vol. 7 (1906)','ref':'The Colonial Records of the State of Georgia, vol. 7, 1906'},'colonial-records-georgia_1906_7', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
