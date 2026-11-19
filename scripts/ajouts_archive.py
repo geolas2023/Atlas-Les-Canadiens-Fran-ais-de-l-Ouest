@@ -723,6 +723,8 @@ LIVRES = [
     ('mi_berrien_1880.txt', 'KW', {'court': 'History of Berrien and Van Buren Counties (1880)', 'ref': "History of Berrien and Van Buren Counties, Michigan, 1880"}, 'historyofberrien00ensi', lambda nom, ref: ref),
     ('mi_kent_county_1881.txt', 'KX', {'court': 'History of Kent County (1881)', 'ref': "History of Kent County, Michigan, 1881"}, 'historyofkentcou00lees', lambda nom, ref: ref),
     ('mi_mphc_v10_1888.txt', 'KY', {'court': 'Michigan Pioneer and Historical Collections, vol. X (1888)', 'ref': "Michigan Pioneer and Historical Collections, vol. X (Haldimand Papers), Lansing, Thorp & Godfrey, 1888"}, 'michiganhistoric10michuoft', lambda nom, ref: ref),
+    ('mi_bay_county_1883.txt', 'KZ', {'court': 'History of Bay County (1883)', 'ref': "History of Bay County, Michigan, 1883"}, 'mi-bay-1883-page', lambda nom, ref: ref),
+    ('mi_monroe_bulkley_1913.txt', 'MD', {'court': 'Bulkley, History of Monroe County (1913)', 'ref': "John McClelland Bulkley, History of Monroe County, Michigan, vol. I, 1913"}, 'historyofmonroec01buck', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

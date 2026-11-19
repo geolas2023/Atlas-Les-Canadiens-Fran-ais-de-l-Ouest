@@ -2546,6 +2546,11 @@ G.update({
     'Pontiac (Michigan)': (-83.2910, 42.6389, 'c', "Pontiac (Michigan)"),
     'Rivière Sainte-Claire': (-82.4900, 42.7500, 'c', "Rivière Sainte-Claire (Michigan)"),
     'Grand Rapids (Michigan)': (-85.6681, 42.9634, 'c', "Grand Rapids (Michigan)"),
+    'Bay City (Michigan)': (-83.8889, 43.5945, 'c', "Bay City (Lower Saginaw, Portsmouth, Bangor), embouchure de la rivière Saginaw (Michigan)"),
+    'Essexville (Michigan)': (-83.8416, 43.6153, 'c', "Essexville, canton de Hampton (Michigan)"),
+    'Kawkawlin (Michigan)': (-83.9483, 43.6528, 'c', "Kawkawlin (Michigan)"),
+    'Hamtramck (Michigan)': (-83.0496, 42.3928, 'c', "Hamtramck, au nord du Détroit (Michigan)"),
+    'Tawas City (Michigan)': (-83.5147, 44.2694, 'c', "Tawas City (Michigan)"),
 })
 
 
