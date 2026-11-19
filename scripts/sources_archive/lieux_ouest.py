@@ -2524,6 +2524,10 @@ G.update({
     'South Bend (Indiana)': (-86.2520, 41.6764, 'c', "South Bend (Indiana)"),
     'Rivière Vermillon (Indiana)': (-87.4256, 39.9264, 'a', "embouchure de la rivière Vermillon (Indiana)"),
     'Baillytown (Indiana)': (-87.0700, 41.6300, 'c', "Baillytown (comté de Porter, Indiana)"),
+    'Frenchtown (Indiana)': (-86.0700, 38.2900, 'c', "Frenchtown (comté de Harrison, Indiana)"),
+    'New Middletown (Indiana)': (-86.0500, 38.1650, 'c', "New Middletown (Indiana)"),
+    'Chipoy (Indiana)': (-87.1300, 40.3600, 'c', "Chipoy, près d'Independence (comté de Warren, Indiana)"),
+    'Petite rivière Vermillon (Indiana)': (-87.4200, 39.8700, 'a', "embouchure de la petite rivière Vermillon (Indiana)"),
 })
 
 

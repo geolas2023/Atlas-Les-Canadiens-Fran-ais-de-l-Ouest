@@ -698,6 +698,11 @@ LIVRES = [
     ('in_ihs_publications_v2_1895.txt', 'JW', {'court': 'Indiana Historical Society Publications, vol. II (1895)', 'ref': "Indiana Historical Society Publications, vol. II (Oscar J. Craig, Ouiatanon ; Jacob Piatt Dunn, French Settlements on the Wabash), Bowen-Merrill, Indianapolis, 1895"}, 'indianahistorica2112indi', lambda nom, ref: ref),
     ('in_esarey_indiana_1915.txt', 'JX', {'court': 'Esarey, A History of Indiana (1915)', 'ref': "Logan Esarey, A History of Indiana from its Exploration to 1850, W. K. Stewart Co., Indianapolis, 1915"}, 'historyofindiana00esaruoft', lambda nom, ref: ref),
     ('in_ball_northwestern_1900.txt', 'JY', {'court': 'Ball, Northwestern Indiana (1900)', 'ref': "T. H. Ball, Northwestern Indiana from 1800 to 1900 : A View of our Region through the Nineteenth Century, Crown Point, 1900"}, 'northwesternindi00ball', lambda nom, ref: ref),
+    ('in_dunn_indianans_v1_1919.txt', 'JZ', {'court': 'Dunn, Indiana and Indianans, vol. I (1919)', 'ref': "Jacob Piatt Dunn, Indiana and Indianans : A History of Aboriginal and Territorial Indiana and the Century of Statehood, vol. I, The American Historical Society, Chicago et New York, 1919"}, 'indianaindianans01dunn', lambda nom, ref: ref),
+    ('in_smith_indiana_1897.txt', 'KA', {'court': 'Smith, History of the State of Indiana (1897)', 'ref': "William Henry Smith, The History of the State of Indiana, from the Earliest Explorations by the French to the Present Time, 1897"}, 'historystateind00smitgoog', lambda nom, ref: ref),
+    ('in_alerding_vincennes_1883.txt', 'KB', {'court': 'Alerding, Catholic Church in the Diocese of Vincennes (1883)', 'ref': "H. J. Alerding, A History of the Catholic Church in the Diocese of Vincennes, 1883"}, 'historyofcatholi00aler', lambda nom, ref: ref),
+    ('in_st_joseph_county_1880.txt', 'KC', {'court': 'History of St. Joseph County, Indiana (1880)', 'ref': "History of St. Joseph County, Indiana, Chas. C. Chapman & Co., Chicago, 1880"}, 'historyofstjosep00chap', lambda nom, ref: ref),
+    ('in_cass_county_1886.txt', 'KD', {'court': 'History of Cass County, Indiana (1886)', 'ref': "Thomas B. Helm (éd.), History of Cass County, Indiana, from the Earliest Time to the Present, 1886"}, 'historyofcasscou00helm', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
