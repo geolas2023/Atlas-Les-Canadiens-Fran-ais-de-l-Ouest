@@ -2669,6 +2669,13 @@ G.update({
     'Oak Harbor (Ohio)': (-83.146, 41.507, 'c', "Oak Harbor (comté d'Ottawa, Ohio)"),
     'Comté d\'Ottawa (Ohio)': (-83.15, 41.52, 'c', "Comté d'Ottawa (Ohio)"),
     'Milan (Ohio)': (-82.601, 41.297, 'c', "Milan (comté d'Erie, Ohio)"),
+    'Fernandina (Floride)': (-81.46, 30.67, 'c', "Fernandina (Floride)"),
+    'Port Orange (Floride)': (-80.996, 29.138, 'c', "Port Orange (Floride)"),
+    'Brooksville (Floride)': (-82.388, 28.555, 'c', "Brooksville (Floride)"),
+    'Weeki Wachee (Floride)': (-82.573, 28.517, 'c', "Source du Weeki Wachee (Floride)"),
+    'Mayport (Floride)': (-81.41, 30.39, 'c', "Mayport, embouchure du Saint-Johns (Floride)"),
+    'Matanzas (Floride)': (-81.27, 29.71, 'c', "Matanzas (Floride)"),
+    'Port-Royal (Caroline du Sud)': (-80.69, 32.38, 'c', "Port-Royal (Caroline du Sud)"),
 })
 
 
