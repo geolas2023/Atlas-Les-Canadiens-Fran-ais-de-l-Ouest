@@ -703,6 +703,10 @@ LIVRES = [
     ('in_alerding_vincennes_1883.txt', 'KB', {'court': 'Alerding, Catholic Church in the Diocese of Vincennes (1883)', 'ref': "H. J. Alerding, A History of the Catholic Church in the Diocese of Vincennes, 1883"}, 'historyofcatholi00aler', lambda nom, ref: ref),
     ('in_st_joseph_county_1880.txt', 'KC', {'court': 'History of St. Joseph County, Indiana (1880)', 'ref': "History of St. Joseph County, Indiana, Chas. C. Chapman & Co., Chicago, 1880"}, 'historyofstjosep00chap', lambda nom, ref: ref),
     ('in_cass_county_1886.txt', 'KD', {'court': 'History of Cass County, Indiana (1886)', 'ref': "Thomas B. Helm (éd.), History of Cass County, Indiana, from the Earliest Time to the Present, 1886"}, 'historyofcasscou00helm', lambda nom, ref: ref),
+    ('in_howard_st_joseph_1907.txt', 'KE', {'court': 'Howard, History of St. Joseph County, vol. I (1907)', 'ref': "Timothy Edward Howard, A History of St. Joseph County, Indiana, vol. I, Lewis Publishing Company, Chicago et New York, 1907"}, 'historyofstjosep01howa', lambda nom, ref: ref),
+    ('in_oakey_terre_haute_1908.txt', 'KF', {'court': 'Oakey, Greater Terre Haute and Vigo County, vol. I (1908)', 'ref': "Charles C. Oakey, Greater Terre Haute and Vigo County, vol. I, 1908"}, 'greaterterrehaut01oake', lambda nom, ref: ref),
+    ('in_imh_lasselle_traders_1906.txt', 'KG', {'court': 'Lasselle, Old Indian Traders of Indiana (IMH, 1906)', 'ref': "Charles B. Lasselle, The Old Indian Traders of Indiana, Indiana Magazine of History, vol. II, n° 1, mars 1906"}, 'indianaquarterly02indi', lambda nom, ref: ref),
+    ('in_imh_merchants_1909.txt', 'KH', {'court': 'Letters from Eighteenth Century Merchants (IMH, 1909)', 'ref': "Letters from Eighteenth Century Merchants, Indiana Magazine of History, vol. V, n° 4, décembre 1909"}, 'indianaquarterly05indi', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
