@@ -2528,6 +2528,11 @@ G.update({
     'New Middletown (Indiana)': (-86.0500, 38.1650, 'c', "New Middletown (Indiana)"),
     'Chipoy (Indiana)': (-87.1300, 40.3600, 'c', "Chipoy, près d'Independence (comté de Warren, Indiana)"),
     'Petite rivière Vermillon (Indiana)': (-87.4200, 39.8700, 'a', "embouchure de la petite rivière Vermillon (Indiana)"),
+    'Parc-aux-Vaches (Bertrand, Michigan)': (-86.2700, 41.7800, 'c', "Parc-aux-Vaches (Parkovash), Bertrand (Michigan)"),
+    'Huntington (Indiana)': (-85.4975, 40.8831, 'c', "Huntington (Indiana)"),
+    'Plymouth (Indiana)': (-86.3097, 41.3434, 'c', "Plymouth (Indiana)"),
+    'Rock Creek (comté de Carroll, Indiana)': (-86.6000, 40.6500, 'a', "embouchure du Rock Creek sur la Ouabache (comté de Carroll, Indiana)"),
+    'Wildcat Creek (Indiana)': (-86.8000, 40.4700, 'a', "ravins du Wildcat Creek, près de Lafayette (Indiana)"),
 })
 
 
