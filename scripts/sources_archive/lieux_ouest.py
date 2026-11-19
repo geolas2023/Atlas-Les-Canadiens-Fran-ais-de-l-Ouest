@@ -2680,6 +2680,9 @@ G.update({
     'Floride': (-81.7, 28.6, 'h', "Floride (lieu non précisé)"),
     'Tampa (Floride)': (-82.46, 27.95, 'c', "Tampa (Floride)"),
     'Tallahassee (Floride)': (-84.28, 30.44, 'c', "Tallahassee (Floride)"),
+    'Comté de Liberty (Géorgie)': (-81.45, 31.83, 'h', "Comté de Liberty, ancienne paroisse Saint-John (Géorgie)"),
+    'Frederica (Géorgie)': (-81.39, 31.22, 'c', "Frederica, île Saint-Simon (Géorgie)"),
+    'Midway (Géorgie)': (-81.43, 31.81, 'c', "Midway (Géorgie)"),
 })
 
 
