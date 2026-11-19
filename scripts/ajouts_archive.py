@@ -916,6 +916,8 @@ LIVRES = [
     ('mb_journaux_metis_manitoba_divers.txt','OLE',{'court':'Le Métis (1877) et Le Manitoba (1905)','ref':'Le Métis (Saint-Boniface), 8 février 1877 ; Le Manitoba (Saint-Boniface), 19 avril 1905 (archive.org : MTM_1877020801, LMT_1905041901).'},'MTM_1877020801', lambda nom, ref: ref),
     ('ma_belisle_livre_dor_worcester_1920.txt','OLF',{'court':'Belisle, Livre d\'or des Franco-Américains de Worcester (1920)','ref':'Alexandre Belisle, Livre d\'or des Franco-Américains de Worcester, Massachusetts, Worcester, Mass., Co. de publication Belisle, 1920 (archive.org : cihm_991425).'},'cihm_991425', lambda nom, ref: ref),
     ('ma_gatineau_southbridge_1919.txt','OLG',{'court':'Gatineau, Histoire des Franco-Américains de Southbridge (1919)','ref':'Félix Gatineau, Histoire des Franco-Américains de Southbridge, Massachusetts, Framingham, Mass., Lakeview Press, 1919 (archive.org : histoiredesfranc00gati).'},'histoiredesfranc00gati', lambda nom, ref: ref),
+    ('ma_guide_francais_fall_river_1909.txt','OLH',{'court':'Le Guide français de Fall River (1909)','ref':'Le Guide français de Fall River, Mass., Fall River, Mass., L.J. Gagnon & Cie, 1909-1910 (archive.org : leguidefranais00fall).'},'leguidefranais00fall', lambda nom, ref: ref),
+    ('ma_bourbonniere_canadiens_lowell_1896.txt','OLI',{'court':'Bourbonnière, Les Canadiens-français de Lowell (1896)','ref':'A. (Avila) Bourbonnière, Les Canadiens-français de Lowell, Mass., [Lowell, Mass.?], A. Bourbonnière, 1896 (archive.org : cihm_00987).'},'cihm_00987', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
