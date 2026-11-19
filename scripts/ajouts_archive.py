@@ -666,6 +666,8 @@ LIVRES = [
     ('wi_northern_wisconsin_1881.txt', 'IM', {'court': 'History of Northern Wisconsin (1881)', 'ref': "History of Northern Wisconsin, Western Historical Company, Chicago, 1881"}, 'historyofnorther00west', lambda nom, ref: ref),
     ('wi_buck_milwaukee_v1_1890.txt', 'IO', {'court': 'Buck, Pioneer History of Milwaukee, I (1890)', 'ref': "James S. Buck, Pioneer History of Milwaukee, vol. I, éd. revue, Milwaukee, 1890"}, 'pioneerhistoryof01buck', lambda nom, ref: ref),
     ('wi_kellogg_french_regime_1925.txt', 'IP', {'court': 'Kellogg, The French Régime in Wisconsin (1925)', 'ref': "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925"}, 'frenchrgimeinwis00kell', lambda nom, ref: ref),
+    ('wi_outagamie_pioneers_1895.txt', 'IQ', {'court': 'Pioneers of Outagamie County (1895)', 'ref': "Elihu Spencer (comp.), The Pioneers of Outagamie County, Wisconsin, Appleton, 1895"}, 'pioneersofoutaga00spen', lambda nom, ref: ref),
+    ('wi_portage_county_1919.txt', 'IT', {'court': 'Standard History of Portage County (1919)', 'ref': "A Standard History of Portage County, Wisconsin, Lewis Publishing Company, Chicago, 1919"}, 'bub_gb_rx4rAQAAMAAJ', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
