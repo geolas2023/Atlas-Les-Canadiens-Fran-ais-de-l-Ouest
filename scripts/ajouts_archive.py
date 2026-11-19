@@ -743,6 +743,10 @@ LIVRES = [
     ('il_iroquois_beckwith_1880.txt','MX',{'court':'Beckwith, Iroquois County (1880)','ref':"H. W. Beckwith, History of Iroquois County, Chicago, H. H. Hill and Company, 1880"},'historyofiroquoi00beck', lambda nom, ref: ref),
     ('il_iroquois_kern_1907.txt','MY',{'court':'Kern, Past and Present of Iroquois County (1907)','ref':"J. W. Kern, Past and Present of Iroquois County, Illinois, Chicago, The S. J. Clarke Publishing Co., 1907"},'pastpresentofiro00kern', lambda nom, ref: ref),
     ('il_matson_french_indians_1874.txt','MZ',{'court':'Matson, French and Indians of Illinois River (1874)','ref':"N. Matson, French and Indians of Illinois River, 2e éd., Princeton (Illinois), Republican Job Printing Establishment, 1874"},'frenchindiansofi00mats', lambda nom, ref: ref),
+    ('il_peoria_rice_1912.txt','NA',{'court':'Rice, Peoria City and County, vol. I (1912)','ref':"James M. Rice, Peoria City and County, Illinois, vol. I, Chicago, The S. J. Clarke Publishing Company, 1912"},'peoriacitycountyi01rice', lambda nom, ref: ref),
+    ('il_matson_pioneers_1882.txt','NC',{'court':'Matson, Pioneers of Illinois (1882)','ref':"N. Matson, Pioneers of Illinois, containing a Series of Sketches relating to Events that occurred previous to 1813, Chicago, Knight & Leonard, 1882"},'pioneersofillinois00mats', lambda nom, ref: ref),
+    ('il_matson_bureau_1872.txt','NE',{'court':'Matson, Reminiscences of Bureau County (1872)','ref':"N. Matson, Reminiscences of Bureau County, Princeton (Illinois), Republican Book and Job Office, 1872"},'reminiscencesofb00mats', lambda nom, ref: ref),
+    ('il_quaife_chicago_1913.txt','NF',{'court':'Quaife, Chicago and the Old Northwest (1913)','ref':"Milo Milton Quaife, Chicago and the Old Northwest, 1673-1835, Chicago, The University of Chicago Press, 1913"},'chicagoandoldno00quaigoog', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

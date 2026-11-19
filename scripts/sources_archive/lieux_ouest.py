@@ -2578,6 +2578,11 @@ G.update({
     'Village de Black Partridge (lac Peoria)': (-89.4700, 40.9500, 'a', "village potawatomi de Black Partridge, au-dessus du lac Peoria (Illinois)"),
     'Village de Senachwine (Illinois)': (-89.3600, 41.1200, 'a', "village potawatomi de Senachwine, sur la rivière Illinois (comté de Putnam)"),
     'Green River (Illinois)': (-90.1500, 41.4300, 'h', "rivière Green, affluent de la Rock (Illinois)"),
+    'Little Detroit (lac Peoria)': (-89.5000, 40.8000, 'a', "Little Detroit, étroit du lac Peoria (Illinois)"),
+    'Illinois Prairie (comté de Tazewell)': (-89.5500, 40.6000, 'a', "Illinois Prairie, auj. comté de Tazewell (Illinois)"),
+    'Bulbona Grove (Wyanet, Illinois)': (-89.5600, 41.3700, 'a', "Bulbona Grove, poste de François Bourbonnais, près de Wyanet (comté de Bureau, Illinois)"),
+    'Dixon (Illinois)': (-89.4795, 41.8389, 'c', "Dixon, ancien bac d'Ogee sur la Rock (Illinois)"),
+    'Seneca (Illinois)': (-88.6098, 41.3111, 'c', "Seneca, comté de La Salle (Illinois)"),
 })
 
 
