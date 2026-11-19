@@ -107997,6 +107997,142 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.2405,
+     34.0565
+    ]
+   },
+   "properties": {
+    "id": "DRV-31",
+    "nom": "Los Angeles : Damien Marchessault, maire, dans une ville au sixième francophone (1859)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1859.0,
+    "fin": 1859.999,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Damien Marchessault"
+    ],
+    "description": "En 1859, Los Angeles compte 4 000 habitants, dont 600 francophones (Canadiens français, Français et Belges), et élit maire le Montréalais Damien Marchessault. Selon Donald Chaput, ces immigrants catholiques, de langue apparentée à l'espagnol et souvent plus instruits, s'intègrent aisément à une ville encore hispanophone ; avant 1900, la ville a eu plus de douze journaux français.",
+    "sources": "Tison, Marie (Presse canadienne), « Los Angeles conserve la trace des pionniers québécois », Le Soleil (Québec), 4 janvier 1993, p. A-5, d'après Donald Chaput, La participation de Canadiens français à la conquête de l'Ouest américain (Délégation du Québec à Los Angeles) (fonds Drive de l'auteur, dossier FRENCH_CANADIAN_USA).",
+    "note": "Point placé près de la vieille place (Plaza) de Los Angeles, cœur de la ville de 1859 ; la rue Marchessault (disparue) longeait la Plaza."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.244,
+     34.0525
+    ]
+   },
+   "properties": {
+    "id": "DRV-32",
+    "nom": "Los Angeles : l'hôtel Nadeau de Rémi Nadeau (1883)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1870.0,
+    "fin": 1883.999,
+    "date_edtf": "1870/1883",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Rémi Nadeau"
+    ],
+    "description": "Né près de Québec, Rémi Nadeau domine dès 1870 le transport des marchandises de Los Angeles, plante ce qu'on dit être le plus grand vignoble du monde et ouvre en 1883 l'hôtel Nadeau, premier édifice de quatre étages de la ville.",
+    "sources": "Tison, Marie (Presse canadienne), « Los Angeles conserve la trace des pionniers québécois », Le Soleil (Québec), 4 janvier 1993, p. A-5, d'après Donald Chaput, La participation de Canadiens français à la conquête de l'Ouest américain (Délégation du Québec à Los Angeles) (fonds Drive de l'auteur, dossier FRENCH_CANADIAN_USA).",
+    "note": "Position à l'angle des rues First et Spring, site de l'hôtel Nadeau."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2394,
+     34.0636
+    ]
+   },
+   "properties": {
+    "id": "DRV-33",
+    "nom": "Los Angeles : les médecins canadiens de l'hôpital français (1869)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1869.0,
+    "fin": 1869.999,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Hubert Nadeau",
+     "Joseph Le Doux"
+    ],
+    "description": "Deux des trois principaux médecins de l'hôpital français bâti en 1869 sont canadiens-français : les docteurs Hubert Nadeau et Joseph Le Doux, dont une rue de Los Angeles porte encore le nom.",
+    "sources": "Tison, Marie (Presse canadienne), « Los Angeles conserve la trace des pionniers québécois », Le Soleil (Québec), 4 janvier 1993, p. A-5, d'après Donald Chaput, La participation de Canadiens français à la conquête de l'Ouest américain (Délégation du Québec à Los Angeles) (fonds Drive de l'auteur, dossier FRENCH_CANADIAN_USA).",
+    "note": "Position à l'hôpital français (French Hospital) de Chinatown."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0161,
+     39.2616
+    ]
+   },
+   "properties": {
+    "id": "DRV-34",
+    "nom": "Mines de Californie : Antoine Chabot et l'exploitation hydraulique (années 1850)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1852.0,
+    "fin": 1859.999,
+    "date_edtf": "1852~/1859",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Chabot"
+    ],
+    "description": "Antoine Chabot, de Saint-Hyacinthe, est le premier à employer un système hydraulique pour extraire le minerai d'or dans les années 1850, pendant la ruée qui attire la première vague de Canadiens français en Californie.",
+    "sources": "Tison, Marie (Presse canadienne), « Los Angeles conserve la trace des pionniers québécois », Le Soleil (Québec), 4 janvier 1993, p. A-5, d'après Donald Chaput, La participation de Canadiens français à la conquête de l'Ouest américain (Délégation du Québec à Los Angeles) (fonds Drive de l'auteur, dossier FRENCH_CANADIAN_USA).",
+    "note": "Point placé à Nevada City, où l'on situe d'ordinaire les débuts de l'exploitation hydraulique ; le lieu n'est pas précisé dans l'article."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.47,
+     34.38
+    ]
+   },
+   "properties": {
+    "id": "DRV-35",
+    "nom": "Sud de la Californie : l'or de Jean-Baptiste Ruelle (début des années 1840)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1840.0,
+    "fin": 1848.999,
+    "date_edtf": "1840~/1848",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste Ruelle"
+    ],
+    "description": "Selon Donald Chaput, c'est un trappeur venu de la baie d'Hudson, Jean-Baptiste Ruelle, qui aurait trouvé les premiers filons d'or du sud de la Californie au début des années 1840, et qui aurait aussi découvert de l'or à Sutter's Mill en 1848, déclenchant la ruée vers l'or. L'attribution reste à vérifier.",
+    "sources": "Tison, Marie (Presse canadienne), « Los Angeles conserve la trace des pionniers québécois », Le Soleil (Québec), 4 janvier 1993, p. A-5, d'après Donald Chaput, La participation de Canadiens français à la conquête de l'Ouest américain (Délégation du Québec à Los Angeles) (fonds Drive de l'auteur, dossier FRENCH_CANADIAN_USA).",
+    "note": "Position hypothétique dans les placers des environs de San Fernando ; voir aussi la fiche CI « Taos : Lavoise Ruelle »."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -103.4294,
      38.0403
     ]

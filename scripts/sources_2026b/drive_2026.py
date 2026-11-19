@@ -1,4 +1,4 @@
-# Documents du Drive de l'auteur (dossiers CIMARRON_NM, ILLINOIS, CHARLES_BEAUBIEN, ETIENNE_PROVOST_AUDUBON, ALEXIS_GODEY, CHARLES_AUTOBEES, MOYSE_LAMOUREUX), dépouillés le 19 novembre 2026. Corpus « Recherches », préfixe DRV (DV- est pris par un livre de la Bibliothèque archive.org).
+# Documents du Drive de l'auteur (dossiers CIMARRON_NM, ILLINOIS, CHARLES_BEAUBIEN, ETIENNE_PROVOST_AUDUBON, ALEXIS_GODEY, CHARLES_AUTOBEES, MOYSE_LAMOUREUX, FRENCH_CANADIAN_USA), dépouillés le 19 novembre 2026. Corpus « Recherches », préfixe DRV (DV- est pris par un livre de la Bibliothèque archive.org).
 #   Murphy, « Master of the Cimarron: Lucien B. Maxwell », New Mexico Historical Review 55-1 (1980), UNM Digital Repository
 #   A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d.) ; Cimarron Day Trip #2 (dépliant, s. d.)
 #   Four Walking Tours of Historic Bourbonnais, Illinois (Bourbonnais Grove Historical Society et Kankakee County Historic
@@ -14,6 +14,7 @@ TY2 = "Tykal, Jack B., « Etienne Provost », Utah History Encyclopedia (fonds D
 RB = "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY)"
 MR = "Murray, Robert A. (1978), Las Animas, Huerfano and Custer: Three Colorado Counties on a Cultural Frontier. A History of the Raton Basin, Bureau of Land Management, Colorado, Cultural Resources Series no 6 (fonds Drive de l'auteur, dossier CHARLES_AUTOBEES)"
 WM = "Wilson, Miel et Bob Moore, St. Louis Probate Court Records: Court Ordered Slave Sales (relevé des livres C à V du tribunal des successions, 1828-1860 ; fonds Drive de l'auteur, dossier MOYSE_LAMOUREUX)"
+TI = "Tison, Marie (Presse canadienne), « Los Angeles conserve la trace des pionniers québécois », Le Soleil (Québec), 4 janvier 1993, p. A-5, d'après Donald Chaput, La participation de Canadiens français à la conquête de l'Ouest américain (Délégation du Québec à Los Angeles) (fonds Drive de l'auteur, dossier FRENCH_CANADIAN_USA)"
 BO = "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS"
 C = Corpus('Recherches', 'DRV', MU)
 F = C.F
@@ -121,4 +122,21 @@ F('29', "Saint-Louis, palais de justice : vente des esclaves de la succession d'
 F('30', "Saint-Louis, palais de justice : Moïse Lamoureux achète Thalie (1846-1847)", 'evenement', '1846-09-18/1847-06-18', -90.1892, 38.6255, 'a', ['Moïse Lamoureux', 'Didier Guyon', 'Josephine Guyon'],
   "À la vente des esclaves de la succession de Josephine Guyon, ordonnée le 18 septembre 1846, Mary (40 ans) est adjugée 190 $ à Didier Guyon et sa fille Thalie (20 ans) 475 $ à Moïse Lamoureux, Chamblyen du Frenchtown comme Étienne Provost ; la vente est approuvée le 18 juin 1847. Une enfant de trois ans figure aussi à l'inventaire.",
   '', "Point placé au palais de justice, à la porte est (« eastern door ») où se tenaient les ventes.", source=f"{WM}, livres K (p. 380, 411) et L (p. 117)")
+
+# --- Los Angeles et la Californie, d'après Tison (1993) et Chaput
+F('31', "Los Angeles : Damien Marchessault, maire, dans une ville au sixième francophone (1859)", 'personnage', '1859', -118.2405, 34.0565, 'a', ['Damien Marchessault'],
+  "En 1859, Los Angeles compte 4 000 habitants, dont 600 francophones (Canadiens français, Français et Belges), et élit maire le Montréalais Damien Marchessault. Selon Donald Chaput, ces immigrants catholiques, de langue apparentée à l'espagnol et souvent plus instruits, s'intègrent aisément à une ville encore hispanophone ; avant 1900, la ville a eu plus de douze journaux français.",
+  '', "Point placé près de la vieille place (Plaza) de Los Angeles, cœur de la ville de 1859 ; la rue Marchessault (disparue) longeait la Plaza.", source=TI)
+F('32', "Los Angeles : l'hôtel Nadeau de Rémi Nadeau (1883)", 'commerce', '1870/1883', -118.2440, 34.0525, 'a', ['Rémi Nadeau'],
+  "Né près de Québec, Rémi Nadeau domine dès 1870 le transport des marchandises de Los Angeles, plante ce qu'on dit être le plus grand vignoble du monde et ouvre en 1883 l'hôtel Nadeau, premier édifice de quatre étages de la ville.",
+  '', "Position à l'angle des rues First et Spring, site de l'hôtel Nadeau.", source=TI)
+F('33', "Los Angeles : les médecins canadiens de l'hôpital français (1869)", 'etablissement', '1869', -118.2394, 34.0636, 'a', ['Hubert Nadeau', 'Joseph Le Doux'],
+  "Deux des trois principaux médecins de l'hôpital français bâti en 1869 sont canadiens-français : les docteurs Hubert Nadeau et Joseph Le Doux, dont une rue de Los Angeles porte encore le nom.",
+  '', "Position à l'hôpital français (French Hospital) de Chinatown.", source=TI)
+F('34', "Mines de Californie : Antoine Chabot et l'exploitation hydraulique (années 1850)", 'commerce', '1852~/1859', -121.0161, 39.2616, 'h', ['Antoine Chabot'],
+  "Antoine Chabot, de Saint-Hyacinthe, est le premier à employer un système hydraulique pour extraire le minerai d'or dans les années 1850, pendant la ruée qui attire la première vague de Canadiens français en Californie.",
+  '', "Point placé à Nevada City, où l'on situe d'ordinaire les débuts de l'exploitation hydraulique ; le lieu n'est pas précisé dans l'article.", source=TI)
+F('35', "Sud de la Californie : l'or de Jean-Baptiste Ruelle (début des années 1840)", 'evenement', '1840~/1848', -118.47, 34.38, 'h', ['Jean-Baptiste Ruelle'],
+  "Selon Donald Chaput, c'est un trappeur venu de la baie d'Hudson, Jean-Baptiste Ruelle, qui aurait trouvé les premiers filons d'or du sud de la Californie au début des années 1840, et qui aurait aussi découvert de l'or à Sutter's Mill en 1848, déclenchant la ruée vers l'or. L'attribution reste à vérifier.",
+  '', "Position hypothétique dans les placers des environs de San Fernando ; voir aussi la fiche CI « Taos : Lavoise Ruelle ».", source=TI)
 fiches = C.fiches
