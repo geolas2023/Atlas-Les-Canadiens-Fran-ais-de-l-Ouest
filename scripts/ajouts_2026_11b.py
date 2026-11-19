@@ -8,15 +8,16 @@
 #   « Illinois français » (IF2-…)   McQuillan (1979) ; Papen (2006)
 #   « Recherches » (R2-…)           allocution de Worcester ; Le Progrès du Golfe (1940)
 #   « Recherches » (PV-…)           Étienne Provost à Saint-Louis, enquête versée depuis l'Atlas Aubry (dossier provost.html)
+#   « Recherches » (DRV-…)          documents du Drive de l'auteur : Cimarron (Murphy 1980, parcours) et Bourbonnais (parcours 2016)
 # Idempotent : retire d'abord toutes les fiches dont l'identifiant porte un des préfixes ci-dessous, puis les recrée.
 # À exécuter APRÈS scripts/ajouts_2026_11.py (qui recrée le corpus « Illinois français » et effacerait les fiches IF2-).
 import json, os, sys, collections
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(R, 'scripts', 'sources_2026b'))
-import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost
+import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026
 
-MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost]
-PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-')
+MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026]
+PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-', 'DRV-')
 THEMES = {'poste', 'etablissement', 'famille', 'personnage', 'evenement', 'commerce', 'migration', 'exploration', 'religion', 'toponymie'}
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

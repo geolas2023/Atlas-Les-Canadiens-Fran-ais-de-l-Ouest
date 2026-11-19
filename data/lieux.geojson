@@ -844644,6 +844644,434 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.9198,
+     36.5063
+    ]
+   },
+   "properties": {
+    "id": "DRV-01",
+    "nom": "Cimarron : la maison de Lucien Maxwell, « bâtie comme une villa française »",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1857.0,
+    "fin": 1888.999,
+    "date_edtf": "1857~/1888",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien"
+    ],
+    "description": "Vers 1857-1858, Lucien Maxwell, petit-fils de Pierre Ménard de Kaskaskia et gendre de Charles Beaubien, quitte Rayado pour la rive sud du Cimarron, où il fait bâtir par John « Uncle Jack » Holland la maison qu'on appelle « Maxwell's Ranche ». Le voyageur William A. Bell la décrit « bâtie comme une villa française », avec cour intérieure et véranda ; Murphy y voit un souvenir des maisons de Kaskaskia, en particulier de celle du grand-père Ménard au-dessus du Mississippi. La partie est, réservée à la réception des visiteurs, brûle en janvier 1888 ; le reste en 1924.",
+    "sources": "Murphy, Lawrence R. (1980), « Master of the Cimarron: Lucien B. Maxwell », New Mexico Historical Review, vol. 55, no 1, p. 5-23 (UNM Digital Repository, nmhr/vol55/iss1/2), p. 6-7 ; A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêt 1.",
+    "note": "Site sur l'ancienne place d'Old Town Cimarron (arrêt 1 du parcours) ; la maison actuelle date des années 1950."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9205,
+     36.506
+    ]
+   },
+   "properties": {
+    "id": "DRV-02",
+    "nom": "Cimarron : tombes de Pabla Beaubien et de la petite Verenisa Maxwell (1864)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1864.0,
+    "fin": 1864.999,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Maria Pabla Lobato",
+     "Lucien Maxwell",
+     "Luz Beaubien",
+     "Charles Beaubien"
+    ],
+    "description": "Le parcours d'Old Town signale les tombes familiales Beaubien-Maxwell : Verenisa Maxwell (1860-1864), fille de Lucien et de Luz Beaubien, y est inhumée avec sa grand-mère Maria Pabla Lobato (1811-1864), épouse du Canadien Charles « Carlos » Beaubien, qui s'était établi à Taos en 1823 et naturalisé mexicain en 1827.",
+    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêt 2.",
+    "note": "Position supposée près de la place (arrêt 2 du parcours)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9224,
+     36.5068
+    ]
+   },
+   "properties": {
+    "id": "DRV-03",
+    "nom": "Cimarron : le moulin Aztec de Maxwell et l'agence indienne",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1860.0,
+    "fin": 1876.999,
+    "date_edtf": "1860/1876",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Maxwell"
+    ],
+    "description": "Maxwell fait construire un grand moulin de pierre (achevé vers 1864, 48 000 $) qui moud pour les colons, Fort Union et l'agence des Utes et des Apaches Jicarillas installée au ranch en 1861 ; on y distribue les rations. C'est là que sa fille aînée Virginia épouse en secret l'agent indien A. S. B. Keyes, contre la volonté de son père. L'agence ferme en 1876. Le moulin, seul grand bâtiment de Maxwell conservé, est aujourd'hui un musée.",
+    "sources": "Murphy, Lawrence R. (1980), « Master of the Cimarron: Lucien B. Maxwell », New Mexico Historical Review, vol. 55, no 1, p. 5-23 (UNM Digital Repository, nmhr/vol55/iss1/2), p. 9-11 ; A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêt 11.",
+    "note": "Position estimée dans Old Town (arrêt 11 du parcours)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9198,
+     36.5063
+    ]
+   },
+   "properties": {
+    "id": "DRV-04",
+    "nom": "Cimarron : bureau de poste et relais de diligence chez Maxwell (1861)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1861.0,
+    "fin": 1868.999,
+    "date_edtf": "1861/1868",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Maxwell"
+    ],
+    "description": "En 1861, le gouvernement ouvre un bureau de poste au ranch, désormais appelé Cimarron ; le premier maître de poste est Lucien Maxwell. La même année, le ranch devient un relais de la Missouri Stage Company entre Kansas City et Santa Fe, et un bureau du télégraphe s'y ouvre en 1868.",
+    "sources": "Murphy, Lawrence R. (1980), « Master of the Cimarron: Lucien B. Maxwell », New Mexico Historical Review, vol. 55, no 1, p. 5-23 (UNM Digital Repository, nmhr/vol55/iss1/2), p. 12.",
+    "note": "Même point que la maison Maxwell."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9232,
+     36.5045
+    ]
+   },
+   "properties": {
+    "id": "DRV-05",
+    "nom": "Cimarron : église de l'Immaculée-Conception, don des Maxwell (1864)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1864.0,
+    "fin": 1864.999,
+    "date_edtf": "1864",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien",
+     "Jean-Baptiste Lamy",
+     "Antoine Fourchegu"
+    ],
+    "description": "Lucien et Luz Maxwell offrent en 1864 l'église de l'Immaculée-Conception, en mémoire de leurs enfants Julian et Verenisa. Elle est bénie par l'évêque français Jean-Baptiste Lamy. Le père Antonio (Antoine) Fourchegu y officie jusqu'en 1875 après avoir logé chez les Abreu à Rayado.",
+    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêt 12.",
+    "note": "Position supposée dans Old Town (arrêt 12 du parcours)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9207,
+     36.5051
+    ]
+   },
+   "properties": {
+    "id": "DRV-06",
+    "nom": "Cimarron : l'hôtel St. James d'Henri Lambert (1872)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1872.0,
+    "fin": 1880.999,
+    "date_edtf": "1872/1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Lambert",
+     "Fred Lambert"
+    ],
+    "description": "Henri Lambert (1838-1913), cuisinier français qui avait servi Grant et Lincoln pendant la guerre de Sécession, gagne l'Ouest en 1864 pour l'or, ouvre d'abord un restaurant à Elizabethtown, puis bâtit en 1872 l'hôtel St. James à Cimarron (17 000 $). Ses 43 chambres et son saloon auraient vu au moins 26 meurtres ; les trous de balles du plafond de tôle sont encore visibles. Son fils Fred Lambert sera marshal de la ville.",
+    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêts 7 et 9 ; carte postale « Cimarron, New Mexico », 1936 (fonds Drive, cimarron1936.jpg).",
+    "note": "617 Collison Avenue (DAR : N36 30.304 W104 55.247)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9283,
+     36.3707
+    ]
+   },
+   "properties": {
+    "id": "DRV-07",
+    "nom": "Rayado : chapelle du Sacré-Cœur de Petra Beaubien Abreu (v. 1902)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1902.0,
+    "fin": 1904.999,
+    "date_edtf": "1902~/1904",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Petra Beaubien",
+     "Jesús Abreu"
+    ],
+    "description": "Vers 1902, Petra Beaubien, fille de Charles Beaubien et veuve de Jesús Abreu, fait bâtir à Rayado la chapelle du Sacré-Cœur, dédiée deux ans plus tard. Rayado avait été le premier établissement de la concession Beaubien-Miranda, confié par Maxwell à son beau-frère Abreu vers 1858.",
+    "sources": "A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d., fonds Drive de l'auteur, dossier CIMARRON_NM), arrêts 1 et 12.",
+    "note": "Position à l'ancienne hacienda de Rayado."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1947,
+     34.4033
+    ]
+   },
+   "properties": {
+    "id": "DRV-08",
+    "nom": "Ancien Fort Sumner : mort de Lucien Maxwell (25 juillet 1875)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1875.566,
+    "fin": 1875.566,
+    "date_edtf": "1875-07-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Maxwell"
+    ],
+    "description": "Après la vente de la concession en 1870 (1 350 000 $ à la Maxwell Land Grant and Railway Company), Maxwell achète l'ancien fort Sumner, dans la réserve abandonnée du sud-est du territoire, et s'y retire. Il y meurt le 25 juillet 1875 et y est inhumé.",
+    "sources": "Murphy, Lawrence R. (1980), « Master of the Cimarron: Lucien B. Maxwell », New Mexico Historical Review, vol. 55, no 1, p. 5-23 (UNM Digital Repository, nmhr/vol55/iss1/2), p. 20 ; Cimarron Day Trip #2 : Cimarron Area Ranches & the Maxwell Wildlife Refuge (dépliant, s. d., fonds Drive de l'auteur).",
+    "note": "Position au site historique de Fort Sumner."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8823,
+     41.1602
+    ]
+   },
+   "properties": {
+    "id": "DRV-09",
+    "nom": "Bourbonnais Grove : cabane de François Bourbonnais père, puis maison Letourneau (1837)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1830.0,
+    "fin": 1883.999,
+    "date_edtf": "1830~/1883",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Bourbonnais",
+     "Antoine Bourbonnais",
+     "George R. Letourneau"
+    ],
+    "description": "À la fin des années 1820 ou au début des années 1830, deux frères canadiens, François et Antoine Bourbonnais, s'établissent au bord de la Kankakee : le bosquet prend leur nom. La plus vieille maison du comté (1837) aurait été bâtie sur les fondations de la cabane de François ; George R. Letourneau (1831-1906), premier maire de Bourbonnais (1875-1876) puis maire de Kankakee, l'habite de 1854 à 1883. Elle a été déménagée en 1986 au 698 Stratford Drive East et sert de musée.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 1, sites 1 et A.",
+    "note": "Site d'origine : 261 North Main Street (stationnement du salon funéraire Clancy-Gernon) ; site probable seulement de la cabane."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8775,
+     41.154
+    ]
+   },
+   "properties": {
+    "id": "DRV-10",
+    "nom": "Bourbonnais Grove : maison de traite de Noël Le Vasseur (1834)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1834.0,
+    "fin": 1916.999,
+    "date_edtf": "1834/1916",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Noël Le Vasseur",
+     "Henry Boucher",
+     "Dominique Bray",
+     "Mesheketeno",
+     "Watchekee"
+    ],
+    "description": "Noël Le Vasseur achète la terre au chef potawatomi Mesheketeno en 1834 et fait sans doute élever par ses associés de l'American Fur Company, Henry Boucher et Dominique Bray, une maison de traite de 24 pieds sur 32 où le chef tenait conseil. Elle abrite ensuite les premiers colons canadiens. Démontée, son bois est réemployé dans la maison Beique (1916) ; selon Vic Johnson, la maison démolie en 2008 contenait le poste entier.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 1, site B, et parcours 2, site C.",
+    "note": "Site au sud-est du carrefour US 45-52 / Illinois 102."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8768,
+     41.1545
+    ]
+   },
+   "properties": {
+    "id": "DRV-11",
+    "nom": "Bourbonnais Grove : maison de brique de Noël Le Vasseur (1837)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1837.0,
+    "fin": 1885.999,
+    "date_edtf": "1837/1885",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Noël Le Vasseur",
+     "Watchekee",
+     "Ruth Bull",
+     "Eleanor Franchère"
+    ],
+    "description": "En 1837, Thomas Durham bâtit en brique d'argile rouge la maison de Noël Le Vasseur (1799-1879), après une première cabane de rondins. Le Vasseur, d'abord marié à la Potawatomie Watchekee, y vit avec Ruth Bull (épousée en 1838) et leurs huit enfants, puis avec Eleanor « Fannie » Franchère. Sa veuve vend le domaine au collège Saint-Viateur ; la maison est démolie en 1885 et remplacée par la chapelle Roy (1889), détruite par le feu en 1906.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 2, site B.",
+    "note": "Site à l'est du carrefour US 45-52 / Illinois 102, sur l'actuel campus d'Olivet Nazarene."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8756,
+     41.1571
+    ]
+   },
+   "properties": {
+    "id": "DRV-12",
+    "nom": "Bourbonnais : église de la Maternité-de-la-Bienheureuse-Vierge-Marie (chapelle de 1841)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1841.0,
+    "fin": 1858.999,
+    "date_edtf": "1841/1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Noël Le Vasseur",
+     "Charles Chiniquy",
+     "Isidore-Antoine Lebel"
+    ],
+    "description": "L'église de pierre est sur le site d'une chapelle de rondins dédiée à saint Léon (1841), sur une terre cédée par Noël Le Vasseur. La paroisse est érigée en 1847 ; l'église de bois brûle en 1853, sous le père Charles Chiniquy, et le curé Isidore-Antoine Lebel fait élever l'église de calcaire achevée en 1858. Première église des Clercs de Saint-Viateur aux États-Unis et première mission de la Congrégation de Notre-Dame.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 2, site 1.",
+    "note": "308 East Marsile Street."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.876,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "DRV-13",
+    "nom": "Bourbonnais Grove : première école de rondins (1837-1848)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1837.0,
+    "fin": 1848.999,
+    "date_edtf": "1837/1848",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Thomas Durham",
+     "Joseph Lesage"
+    ],
+    "description": "École d'abonnement d'un étage et demi bâtie en 1837 et ouverte de 1838 à 1848 ; elle sert aussi aux prédicateurs méthodistes itinérants. En 1848, le Canadien Joseph Lesage l'achète pour en faire sa maison. Les rondins, mis au jour en 2011, ont été démontés pour être remontés près du musée Letourneau.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 3, site A.",
+    "note": "493 South Main Street."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.877,
+     41.152
+    ]
+   },
+   "properties": {
+    "id": "DRV-14",
+    "nom": "Bourbonnais Grove : Joseph Legris, revenu des mines d'or de Californie (1857)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1857.0,
+    "fin": 1857.999,
+    "date_edtf": "1857",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Legris",
+     "Gérasime Legris"
+    ],
+    "description": "Enrichi dans les mines d'or de Californie, Joseph Legris revient à Bourbonnais Grove, épouse Cléophile Sylvestre et bâtit en 1857 une cabane de rondins, cuisine de la maison actuelle. Ses fils fondent deux banques à Kankakee ; Mgr Gérasime Legris enseigne la théologie au collège Saint-Viateur et Frédéric Legris préside le conseil du village pendant 26 ans.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 3.",
+    "note": "Adresse non lue dans l'OCR du dépliant (parcours 3, South Main Street) : position supposée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.889,
+     41.161
+    ]
+   },
+   "properties": {
+    "id": "DRV-15",
+    "nom": "Bourbonnais Grove : rive de la Kankakee, village de Mesheketeno",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1830.0,
+    "fin": 1830.999,
+    "date_edtf": "1830~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mesheketeno",
+     "Noël Le Vasseur"
+    ],
+    "description": "Le parc Riverfront marque la partie ouest du village potawatomi de Mesheketeno, fréquenté surtout à la saison des sucres, à mi-chemin du « Bourbonnais Grove », bosquet de douze milles sur un, du parc d'État de la Kankakee au parc Cobb de Kankakee. C'est à ce chef que Le Vasseur achète sa terre en 1834.",
+    "sources": "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS, parcours 4, site 1.",
+    "note": "1071-1081 Canterbury Lane ; position estimée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -98.6,
      43.1
     ]
