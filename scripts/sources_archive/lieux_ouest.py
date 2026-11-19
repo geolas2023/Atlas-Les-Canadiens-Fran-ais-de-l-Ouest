@@ -2678,6 +2678,8 @@ G.update({
     'Port-Royal (Caroline du Sud)': (-80.69, 32.38, 'c', "Port-Royal (Caroline du Sud)"),
     'Pays d\'Outina (Floride)': (-81.65, 29.6, 'h', "Pays d'Outina, haut Saint-Jean (Floride)"),
     'Floride': (-81.7, 28.6, 'h', "Floride (lieu non précisé)"),
+    'Tampa (Floride)': (-82.46, 27.95, 'c', "Tampa (Floride)"),
+    'Tallahassee (Floride)': (-84.28, 30.44, 'c', "Tallahassee (Floride)"),
 })
 
 
