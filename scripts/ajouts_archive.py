@@ -919,6 +919,7 @@ LIVRES = [
     ('ma_guide_francais_fall_river_1909.txt','OLH',{'court':'Le Guide français de Fall River (1909)','ref':'Le Guide français de Fall River, Mass., Fall River, Mass., L.J. Gagnon & Cie, 1909-1910 (archive.org : leguidefranais00fall).'},'leguidefranais00fall', lambda nom, ref: ref),
     ('ma_bourbonniere_canadiens_lowell_1896.txt','OLI',{'court':'Bourbonnière, Les Canadiens-français de Lowell (1896)','ref':'A. (Avila) Bourbonnière, Les Canadiens-français de Lowell, Mass., [Lowell, Mass.?], A. Bourbonnière, 1896 (archive.org : cihm_00987).'},'cihm_00987', lambda nom, ref: ref),
     ('ma_franco_americains_guerre_mondiale_1921.txt','OLJ',{'court':'Les Franco-Américains et la guerre mondiale (1921)','ref':'Les Franco-Américains et la guerre mondiale, Fall River, Mass., A.A. Belanger, 1921 (archive.org : lesfrancoamerica00fall).'},'lesfrancoamerica00fall', lambda nom, ref: ref),
+    ('ma_belisle_presse_franco_americaine_1911.txt','OLK',{'court':'Belisle, Presse franco-américaine (1911)','ref':"Alexandre Belisle, Histoire de la presse franco-américaine, Worcester, Ateliers typographiques de l'Opinion publique, 1911"},'cihm_991424', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
