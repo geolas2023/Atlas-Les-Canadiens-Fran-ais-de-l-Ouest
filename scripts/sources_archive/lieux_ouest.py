@@ -2705,6 +2705,17 @@ G.update({
     'Hudson (Massachusetts)': (-71.566, 42.392, 'c', "Hudson (Massachusetts)"),
     'Greendale (Worcester, Massachusetts)': (-71.81, 42.30, 'c', "Greendale, Worcester (Massachusetts)"),
     'Easthampton (Massachusetts)': (-72.669, 42.267, 'c', "Easthampton (Massachusetts)"),
+    'Aldenville (Chicopee, Massachusetts)': (-72.58, 42.17, 'c', "Aldenville, Chicopee (Massachusetts)"),
+    'Amesbury (Massachusetts)': (-70.93, 42.858, 'c', "Amesbury (Massachusetts)"),
+    'Attleboro (Massachusetts)': (-71.285, 41.944, 'c', "Attleboro (Massachusetts)"),
+    'Brockton (Massachusetts)': (-71.018, 42.083, 'c', "Brockton (Massachusetts)"),
+    'Leominster (Massachusetts)': (-71.759, 42.525, 'c', "Leominster (Massachusetts)"),
+    'Ludlow (Massachusetts)': (-72.476, 42.16, 'c', "Ludlow (Massachusetts)"),
+    'Taunton (Massachusetts)': (-71.09, 41.9, 'c', "Taunton (Massachusetts)"),
+    'Cambridge (Massachusetts)': (-71.106, 42.373, 'c', "Cambridge (Massachusetts)"),
+    'Dodgeville (Attleboro, Massachusetts)': (-71.30, 41.92, 'c', "Dodgeville, Attleboro (Massachusetts)"),
+    'Newburyport (Massachusetts)': (-70.877, 42.812, 'c', "Newburyport (Massachusetts)"),
+    'Waltham (Massachusetts)': (-71.235, 42.376, 'c', "Waltham (Massachusetts)"),
 })
 
 
