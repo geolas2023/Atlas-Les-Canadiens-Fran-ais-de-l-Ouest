@@ -683,6 +683,9 @@ LIVRES = [
     ('wi_wheeler_milwaukee_1861.txt', 'JH', {'court': 'Wheeler, Chronicles of Milwaukee (1861)', 'ref': "A. C. Wheeler, The Chronicles of Milwaukee, Jermain & Brightman, Milwaukee, 1861"}, 'chroniclesofmilw00whee', lambda nom, ref: ref),
     ('wi_thwaites_wisconsin_1908.txt', 'JI', {'court': 'Thwaites, Wisconsin (1908)', 'ref': "Reuben Gold Thwaites, Wisconsin : The Americanization of a French Settlement, Houghton Mifflin, Boston et New York, 1908"}, 'wisconsinamerica01thwa', lambda nom, ref: ref),
     ('wi_conard_milwaukee_1895.txt', 'JJ', {'court': 'Conard, History of Milwaukee, vol. I (1895)', 'ref': "Howard Louis Conard (éd.), History of Milwaukee from its First Settlement to the Year 1895, vol. I, American Biographical Publishing Company, Chicago et New York, 1895"}, 'historyofmilwauk01cona', lambda nom, ref: ref),
+    ('wi_buck_milwaukee_v2_1881.txt', 'JK', {'court': 'Buck, Pioneer History of Milwaukee, vol. II (1881)', 'ref': "James S. Buck, Pioneer History of Milwaukee, from 1840 to 1846, Inclusive, vol. II, Symes, Swain & Co., Milwaukee, 1881"}, 'pioneerhistoryof02buck', lambda nom, ref: ref),
+    ('wi_buck_milwaukee_v3_1884.txt', 'JL', {'court': 'Buck, Milwaukee under the Charter, vol. III (1884)', 'ref': "James S. Buck, Milwaukee under the Charter, from 1847 to 1853, Inclusive, vol. III, Symes, Swain & Co., Milwaukee, 1884"}, 'pioneerhistoryof03buck', lambda nom, ref: ref),
+    ('wi_buck_milwaukee_v4_1886.txt', 'JM', {'court': 'Buck, Milwaukee under the Charter, vol. IV (1886)', 'ref': "James S. Buck, Milwaukee under the Charter, from 1854 to 1860, Inclusive, vol. IV, Symes, Swain & Co., Milwaukee, 1886"}, 'pioneerhistoryof04buck', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
