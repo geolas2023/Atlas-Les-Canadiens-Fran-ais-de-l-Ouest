@@ -694,6 +694,8 @@ LIVRES = [
     ('in_allen_county_1880.txt', 'JS', {'court': 'History of Allen County, Indiana (1880)', 'ref': "History of Allen County, Indiana, with Illustrations and Biographical Sketches, 1880"}, 'historyofallenco00unse', lambda nom, ref: ref),
     ('in_miami_county_1887.txt', 'JT', {'court': 'History of Miami County, Indiana (1887)', 'ref': "History of Miami County, Indiana, from the Earliest Time to the Present, Brant & Fuller, Chicago, 1887"}, 'historyofmiamico00bran', lambda nom, ref: ref),
     ('in_dillon_indiana_1859.txt', 'JU', {'court': 'Dillon, A History of Indiana (1859)', 'ref': "John B. Dillon, A History of Indiana, from its Earliest Exploration by Europeans to the Close of the Territorial Government, in 1816, Bingham & Doughty, Indianapolis, 1859"}, 'ahistoryindiana00dillgoog', lambda nom, ref: ref),
+    ('in_knox_daviess_1886.txt', 'JV', {'court': 'History of Knox and Daviess Counties (1886)', 'ref': "History of Knox and Daviess Counties, Indiana, from the Earliest Time to the Present, Goodspeed Publishing Co., Chicago, 1886"}, 'historyofknoxdav00good', lambda nom, ref: ref),
+    ('in_ihs_publications_v2_1895.txt', 'JW', {'court': 'Indiana Historical Society Publications, vol. II (1895)', 'ref': "Indiana Historical Society Publications, vol. II (Oscar J. Craig, Ouiatanon ; Jacob Piatt Dunn, French Settlements on the Wabash), Bowen-Merrill, Indianapolis, 1895"}, 'indianahistorica2112indi', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
