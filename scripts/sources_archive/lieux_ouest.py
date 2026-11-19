@@ -2480,6 +2480,12 @@ G.update({
     'Bay Settlement (Wisconsin)': (-87.9334, 44.5761, 'c', "Bay Settlement (Wisconsin)"),
     'Ishpeming (Michigan)': (-87.6676, 46.4886, 'c', "Ishpeming (Michigan)"),
     'Stephenson (Michigan)': (-87.6068, 45.4153, 'c', "Stephenson (Michigan)"),
+    'Bridgeport (Wisconsin)': (-91.0326, 43.0047, 'c', "Bridgeport (traversier de la route militaire sur la Wisconsin)"),
+    'Mosinee (Wisconsin)': (-89.7032, 44.7930, 'c', "Mosinee (Little Bull Falls, Wisconsin)"),
+    'Wausau (Wisconsin)': (-89.6301, 44.9591, 'c', "Wausau (Big Bull Falls, Wisconsin)"),
+    'Stevens Point (Wisconsin)': (-89.5743, 44.5236, 'c', "Stevens Point (Wisconsin)"),
+    'DuBay (Wisconsin)': (-89.6560, 44.6720, 'c', "poste DuBay, rivière Wisconsin, en amont de Stevens Point"),
+    'Omro (Wisconsin)': (-88.7443, 44.0397, 'c', "Omro (Wisconsin)"),
 })
 
 

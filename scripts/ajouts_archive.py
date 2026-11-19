@@ -654,6 +654,10 @@ LIVRES = [
     ('wi_evans_military_green_bay_1900.txt', 'HV', {'court': 'Evans, Military History of Green Bay (1900)', 'ref': "William L. Evans, The Military History of Green Bay, Madison, 1900"}, 'militaryhistoryo00evan', lambda nom, ref: ref),
     ('wi_brown_county_v2_1913.txt', 'HW', {'court': 'History of Brown County, II (1913)', 'ref': "History of Brown County, Wisconsin, Past and Present, éd. Deborah B. Martin, vol. II, Chicago, 1913"}, 'historybrowncou00compgoog', lambda nom, ref: ref),
     ('wi_brown_county_v1_1913.txt', 'HX', {'court': 'History of Brown County, I (1913)', 'ref': "History of Brown County, Wisconsin, Past and Present, éd. Deborah B. Martin, vol. I, Chicago, 1913"}, 'HistoryOfBrownCountyWisconsinVol.1', lambda nom, ref: ref),
+    ('wi_grant_county_1881.txt', 'HY', {'court': 'History of Grant County (1881)', 'ref': "History of Grant County, Wisconsin, Western Historical Company, Chicago, 1881"}, 'historyofgrantco00butt', lambda nom, ref: ref),
+    ('wi_marathon_county_1913.txt', 'HZ', {'court': 'Marchetti, History of Marathon County (1913)', 'ref': "Louis Marchetti, History of Marathon County, Wisconsin, and Representative Citizens, Chicago, 1913"}, 'historyofmaratho00marc', lambda nom, ref: ref),
+    ('wi_fox_river_chapters_1913.txt', 'IA', {'court': 'Chapters in Fox River Valley History (1913)', 'ref': "Chapters in Fox River Valley History (Powell ; J. W. Arndt), Proceedings of the State Historical Society of Wisconsin for 1912, Madison, 1913"}, 'chaptersinfoxriv00arnd', lambda nom, ref: ref),
+    ('wi_mclenegan_pioneer_life_1906.txt', 'IC', {'court': 'McLenegan, Pioneer Life in the Fox River Valley (1906)', 'ref': "Annie Susan McLenegan, Pioneer Life in the Fox River Valley, Madison, 1906"}, 'pioneerlifeinfox00mcle', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
