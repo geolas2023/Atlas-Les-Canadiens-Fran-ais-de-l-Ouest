@@ -110388,7 +110388,7 @@
     ],
     "description": "Le certificat de décès de Mary Rose Pillsbury, veuve, morte à 83 ans au 4231 South 37th Street et inhumée au cimetière Calvary le 11 août 1913, la dit née à Saint-Louis le 1er mai 1830, fille d'« Etienne Provo », né au Canada, et de « Madelin Delor », née à Saint-Louis. La date de naissance tombe un an après le mariage d'Étienne Provost (1829) ; s'il s'agit bien de sa fille, ce serait l'une des rares traces de sa descendance. Le nom de la mère ne correspond toutefois à aucune des formes connues de l'épouse (Salle dit Lajoie, Lambert, Lombard) : Delor évoque plutôt la famille de Clément Delor de Tréget, fondateur de Carondelet.",
     "sources": "Missouri State Board of Health, Bureau of Vital Statistics, certificat de décès n° 27938 (enregistré n° 7234), Mary Rose Pillsbury, Saint-Louis, 8 août 1913.",
-    "note": "Déclarant : Charles G. Grimm, même adresse. Filiation à vérifier dans les registres de baptême de la vieille cathédrale (mai 1830)."
+    "note": "Déclarant : Charles G. Grimm, même adresse. Les notes de recherche de l'auteur (« Projet Histoire ») associent « Marie Rose Provost » à James A. Pillsbury (1828-1889), sans doute son mari. Filiation à vérifier dans les registres de baptême de la vieille cathédrale (mai 1830)."
    }
   },
   {
@@ -110890,6 +110890,65 @@
     ],
     "description": "En février 1836, Strange Powers donne une partie du lot de ferme n° 28, acheté à Joseph Rolette, pour la construction d'une église que le père Mazzuchelli a lancée ; la pierre angulaire est posée en 1839. Ravoux et Crétin l'achèvent. En 1847, Lucien Galtier, fondateur des paroisses Saint-Pierre et Saint-Paul au Minnesota, en devient curé ; il y installe le chemin de croix, bâtit le presbytère et, mort subitement en 1866, est inhumé devant l'église, dont les murs de pierre datent toujours de Mazzuchelli.",
     "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.5745,
+     36.4075
+    ]
+   },
+   "properties": {
+    "id": "HF54-01",
+    "nom": "Taos : Céran St. Vrain espère fournir « Provoe & Leclere » (21 avril 1824)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1824.167,
+    "fin": 1824.305,
+    "date_edtf": "1824-03/1824-04-21",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran St. Vrain",
+     "Étienne Provost",
+     "François Leclerc",
+     "Bernard Pratte"
+    ],
+    "description": "Parti du Missouri à l'automne 1823, Céran St. Vrain arrive à Taos en mars 1824 après cinq mois d'un voyage d'hiver. Le 21 avril, il écrit à Bernard Pratte, qui l'a sans doute équipé, que les affaires sont mauvaises, mais qu'il compte vendre ses marchandises à « Provoe & Leclere », Étienne Provost et son associé François Leclerc, à leur retour de chasse, ou à défaut acheter des mules au Sonora. En février 1825, il équipe à Taos Thomas « Pegleg » Smith et neuf hommes pour la San Juan et le Colorado.",
+    "sources": "Hafen, LeRoy R. (1954), « When Was Bent's Fort Built? », The Colorado Magazine, vol. 31, n° 2, p. 105-119, p. 107-108.",
+    "note": "Lettre publiée par Dale L. Morgan, Provo, Pioneer Mormon City (1942), p. 24-25."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.4295,
+     38.0408
+    ]
+   },
+   "properties": {
+    "id": "HF54-02",
+    "nom": "Fort Bent : bâti en 1833, et non en 1826 ou 1828",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1833.0,
+    "fin": 1833.999,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Céran St. Vrain",
+     "Charles Bent",
+     "William Bent"
+    ],
+    "description": "Contre une tradition reprise par Grinnell et George Bent, qui place sur l'Arkansas une palissade des Bent et de St. Vrain dès 1826, Hafen montre que Charles et William Bent n'arrivent dans la région qu'en 1829 et que l'association avec Céran St. Vrain ne se noue qu'à Santa Fe, le 6 janvier 1831. Les rares sources contemporaines (Matt Field en 1839, William Waldo, la correspondance de l'Upper Missouri Outfit) indiquent que le fort William, ou fort Bent, fut construit à l'été 1833.",
+    "sources": "Hafen, LeRoy R. (1954), « When Was Bent's Fort Built? », The Colorado Magazine, vol. 31, n° 2, p. 105-119, p. 105-119.",
     "note": ""
    }
   },
