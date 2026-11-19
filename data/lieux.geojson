@@ -110073,6 +110073,239 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -96.608,
+     47.774
+    ]
+   },
+   "properties": {
+    "id": "BN75-01",
+    "nom": "Crookston : la brochure « Description de la Colonie canadienne du comté de Polk » (1883)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1883.0,
+    "fin": 1883.999,
+    "date_edtf": "1883",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Fontaine",
+     "Pierre Bottineau",
+     "Jean-Baptiste Bottineau"
+    ],
+    "description": "En 1883, un comité de Canadiens français publie à Crookston une brochure de vingt-deux pages qui donne les noms de vingt compatriotes prêts à renseigner les futurs colons. Elle couvre Crookston, Carmen, Fisher, Gentilly, Red Lake Falls, Terrebonne, Emardville, Lambert, Lafontaine, Rivière Voleuse (Thief River), Louisville, Rivière Noire et Lac aux Érables. Louis Fontaine, marchand de Saint Paul, arrive à Crookston en 1878 ; le guide métis Pierre Bottineau et son fils amènent alors de nombreuses familles des comtés de Ramsey et Hennepin et de l'Est le long de la Red Lake et de la Clearwater.",
+    "sources": "Benoit, Virgil (1975), « Gentilly: A French-Canadian Community in the Minnesota Red River Valley », Minnesota History, vol. 44, n° 8, p. 278-289, p. 279-280.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.274,
+     47.882
+    ]
+   },
+   "properties": {
+    "id": "BN75-02",
+    "nom": "Red Lake Falls : arrivée du père Pierre Beaugrand-Champagne, missionnaire à pied (1er novembre 1878)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1878.833,
+    "fin": 1882.999,
+    "date_edtf": "1878-11-01/1882",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Beaugrand-Champagne",
+     "Louis-François Laflèche"
+    ],
+    "description": "Né en 1839 à Saint-Ambroise-de-Kildare (Joliette) et ordonné en 1867 par Mgr Laflèche, ancien missionnaire de la Rivière-Rouge, le père Champagne arrive à Red Lake Falls à la Toussaint 1878. En quatre ans, il y fonde la paroisse et dessert à pied douze autres missions dans un rayon de 150 milles, de la réserve de Red Lake à Saint-Vincent, à la frontière du Manitoba ; il dit parfois la messe à l'école de Gentilly.",
+    "sources": "Benoit, Virgil (1975), « Gentilly: A French-Canadian Community in the Minnesota Red River Valley », Minnesota History, vol. 44, n° 8, p. 278-289, p. 280.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.455,
+     47.795
+    ]
+   },
+   "properties": {
+    "id": "BN75-03",
+    "nom": "Gentilly : 142 familles, des parents et des voisins du Québec (recensements paroissiaux de 1882 et 1889)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1882.0,
+    "fin": 1889.999,
+    "date_edtf": "1882/1889",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre Bouchard",
+     "Élie Theillon",
+     "Isaïe Normandin",
+     "Moïse Ricard"
+    ],
+    "description": "Le recensement paroissial de 1889, dressé par le curé Théillon, compte 142 familles canadiennes-françaises, dont au moins 125 liées à d'autres par la parenté ou le lieu d'origine : dix-huit de Saint-Isidore, douze de Joliette, dix de Saint-Urbain, sept de Longueuil, six de Saint-Hyacinthe, deux de Gentilly. Entre 1882 et 1889, au moins quarante-neuf familles sont venues puis reparties, certaines retournant au Québec avant de revenir. Isaïe Normandin, arrivé en 1882 pour racheter la terre de son beau-frère Moïse Ricard, n'avait « absolument rien ».",
+    "sources": "Benoit, Virgil (1975), « Gentilly: A French-Canadian Community in the Minnesota Red River Valley », Minnesota History, vol. 44, n° 8, p. 278-289, p. 280-283.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.64,
+     47.81
+    ]
+   },
+   "properties": {
+    "id": "BN75-04",
+    "nom": "Canton de Crookston : les Brunelle de Gentilly (Québec) sur la Red Lake (1880-1894)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1880.0,
+    "fin": 1894.999,
+    "date_edtf": "1880/1894",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Brunelle",
+     "Arthur Brunelle",
+     "Célina Verville"
+    ],
+    "description": "Joseph Brunelle, dont neuf des dix enfants sont nés à Gentilly (Québec), vend sa terre 4 000 $ et s'établit en 1880 au nord-ouest du Gentilly minnesotain. Son fils Arthur défriche une terre voisine sur la rive nord de la Red Lake, puis retourne à Gentilly en 1894 épouser sa cousine Célina Verville, sœur de la femme de son frère. Les dix enfants s'établiront à moins de dix milles du bien paternel, que leur petit-fils occupait encore en 1975.",
+    "sources": "Benoit, Virgil (1975), « Gentilly: A French-Canadian Community in the Minnesota Red River Valley », Minnesota History, vol. 44, n° 8, p. 278-289, p. 283.",
+    "note": "Position approximative sur la rive nord de la Red Lake, canton de Crookston."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.451,
+     47.795
+    ]
+   },
+   "properties": {
+    "id": "BN75-05",
+    "nom": "Gentilly : la fromagerie du curé Théillon (1895-1968)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1895.327,
+    "fin": 1968.003,
+    "date_edtf": "1895-04-29/1968-01-02",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Élie Theillon",
+     "H. T. Gendron",
+     "W. H. Verity",
+     "Gabriel Bernou"
+    ],
+    "description": "Arrivé en 1888, le Limousin Élie Théillon, venu par Valleyfield, pousse ses paroissiens découragés vers la polyculture. Avec le marchand H. T. Gendron, il fonde la Gentilly Dairy Association, réunie pour la première fois le 29 avril 1895 ; la fromagerie, bâtie pour 784,35 $, remporte le premier prix à la foire d'État dès 1895 et sera en 1915 la seule encore active du comté de Polk. Autorisé par Rome à diriger une entreprise commerciale, le curé vend jusqu'à Chicago et au Montana et bâtit en 1915 une église de brique de 35 000 $. Il meurt en 1935 ; la fabrication cesse en 1948 et l'association est dissoute le 2 janvier 1968.",
+    "sources": "Benoit, Virgil (1975), « Gentilly: A French-Canadian Community in the Minnesota Red River Valley », Minnesota History, vol. 44, n° 8, p. 278-289, p. 284-287.",
+    "note": "Le roman d'Evelyn Voss Wise, The Long Tomorrow (1938), s'inspire de Théillon."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.458,
+     47.797
+    ]
+   },
+   "properties": {
+    "id": "BN75-06",
+    "nom": "Gentilly : hommage à Louis Riel et visite de Tardivel (1885-1888)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1885.966,
+    "fin": 1888.417,
+    "date_edtf": "1885-12-19/1888-06",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Riel",
+     "Clément-V. Gamache",
+     "Élie Theillon"
+    ],
+    "description": "Le 19 décembre 1885, la communauté de Gentilly se réunit pour honorer Louis Riel, pendu le mois précédent et tenu pour un martyr de la cause canadienne-française ; après la messe, on prône un parti national et on quête pour sa famille. En février 1888, le délégué de la convention nationale franco-américaine de Nashua y est accueilli par son ancien condisciple le curé Gamache et 500 Canadiens ; Terrebonne élit le père Théillon délégué à Nashua.",
+    "sources": "Benoit, Virgil (1975), « Gentilly: A French-Canadian Community in the Minnesota Red River Valley », Minnesota History, vol. 44, n° 8, p. 278-289, p. 288-289.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.714,
+     41.025
+    ]
+   },
+   "properties": {
+    "id": "CQ57-01",
+    "nom": "Sainte-Anne (Illinois) : Chiniquy accuse l'abbé Desaulniers de trahison (lettre du 22 avril 1857)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1856.902,
+    "fin": 1857.308,
+    "date_edtf": "1856-11-26/1857-04-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Chiniquy",
+     "Louis-Moïse Brassard",
+     "Isaac Desaulniers",
+     "Anthony O'Regan"
+    ],
+    "description": "De Sainte-Anne, comté de Kankakee, Chiniquy répond à l'abbé Brassard, venu du Canada avec l'abbé Desaulniers pour régler le conflit avec l'évêque de Chicago. Il rappelle que Desaulniers avait fait signer au curé et à la paroisse un acte de soumission, le 26 novembre, en promettant que l'évêque lèverait la censure, sinon qu'il plaiderait leur cause à Saint-Louis et jusqu'à Rome ; il l'accuse de tout nier depuis. Chiniquy conteste la validité de son excommunication, cite Brassard comme son seul témoin devant le Canada et publie la lettre à Montréal, au bureau du journal libéral L'Avenir.",
+    "sources": "Chiniquy, Charles (1857), Lettre du père Chiniquy à M. Brassard, Montréal, en vente au bureau de L'Avenir (microfiche ICMH), p. 3-6.",
+    "note": "La date imprimée se lit « 1851 » sur la microfiche, mais l'acte de soumission de novembre 1856 et la publication de 1857 indiquent 1857."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.632,
+     41.884
+    ]
+   },
+   "properties": {
+    "id": "CQ57-02",
+    "nom": "Chicago : l'évêque O'Regan retire leur église aux Français et aux Canadiens (vers 1856)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1856.0,
+    "fin": 1856.999,
+    "date_edtf": "1856~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Anthony O'Regan",
+     "Charles Chiniquy"
+    ],
+    "description": "Dans la même lettre, Chiniquy dénonce l'évêque Anthony O'Regan qui, interrogé par les Français et les Canadiens de Chicago sur son droit de leur ôter leur église pour la donner à une autre congrégation, les aurait mis brutalement à la porte en affirmant qu'il pouvait la vendre.",
+    "sources": "Chiniquy, Charles (1857), Lettre du père Chiniquy à M. Brassard, Montréal, en vente au bureau de L'Avenir (microfiche ICMH), p. 9.",
+    "note": "Témoignage polémique de Chiniquy ; il s'agit de l'église Saint-Louis des Français de Chicago."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
