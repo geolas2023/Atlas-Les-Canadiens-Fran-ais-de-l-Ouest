@@ -1,0 +1,97 @@
+# John Francis McDermott (dir.), The French in the Mississippi Valley (Urbana, University of Illinois Press, 1965), actes du colloque
+# de Saint-Louis (1964) ; PDF fourni par l'auteur de l'atlas le 19 novembre 2026. Corpus « Recherches », préfixe FMV65.
+# Articles de Peterson (maisons), Holland (familles des Antilles), Guenther (Regnier), Donnelly (Gibault), Voelker, Wilson (forts),
+# Holmes (ingénieurs), etc. Résumés rédigés par l'atlas ; chaque fiche nomme l'article.
+from commun import Corpus
+MV = "McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press"
+def A(auteur, titre): return f"{auteur}, « {titre} », dans {MV}"
+PET = A("Peterson, Charles E.", "The Houses of French St. Louis")
+HOL = A("Holland, Dorothy Garesché", "St. Louis Families from the French West Indies")
+GUE = A("Guenther, Charles", "An Early St. Louis Poet: Pierre François Regnier")
+DON = A("Donnelly, Joseph P.", "Pierre Gibault and the Critical Period of the Illinois Country, 1768-78")
+WIL = A("Wilson, Samuel, Jr.", "Colonial Fortifications and Military Architecture in the Mississippi Valley")
+HLM = A("Holmes, Jack D. L.", "Some French Engineers in Spanish Louisiana")
+C = Corpus('Recherches', 'FMV65', MV, page_fmt='p. {}')
+F = C.F
+SL = (-90.188, 38.627)
+F('01', "Saint-Louis : Pierre Tousignan bâtit une maison poteaux en terre pour un chirurgien (23 avril 1768)", 'etablissement', '1768-04-23', *SL, 'a', ['Pierre Tousignan'],
+  "Par un contrat passé à Saint-Louis le 23 avril 1768, Peter (Pierre) Tousignan s'engage à construire une maison « poteaux en terre » pour le chirurgien Jean B. ; Peterson s'appuie sur ces marchés notariés pour décrire la maison française du village : poteaux plantés ou posés sur sole, bousillage ou pierrotage, galerie et toit couvert de bardeaux.",
+  None, "Position au cœur du village colonial.", source=PET)
+F('02', "Saint-Louis : la maison de Julien Le Roy vendue à Antoine Hubert (14 octobre 1768)", 'etablissement', '1768-10-14', -90.1875, 38.6265, 'a', ['Julien Le Roy', 'Antoine Hubert'],
+  "La maison de Julien Le Roy, sur la Grande Rue Royale, vendue le 14 octobre 1768 au négociant Antoine Hubert, est la première maison de Saint-Louis mentionnée dans les archives.",
+  None, "Position approximative sur la Grande Rue (rue Main).", source=PET)
+F('03', "Saint-Louis : les maisons de pierre de Labrosse, Labuscière, Clamorgan-Chouteau et Papin-Gratiot (1767-1796)", 'etablissement', '1767/1796', -90.1878, 38.6262, 'a', ['Joseph Labrosse', 'Jean-Marie Pepin', 'Hipolite Bolon', 'Jacques Clamorgan', 'Labuscière', 'Auguste Chouteau', 'Papin', 'Charles Gratiot'],
+  "Les maisons de pierre apparaissent tôt à Saint-Louis : celle de Joseph Labrosse, bâtie en 1767 par l'irascible Jean-Marie Pepin, maître maçon, et celle de l'interprète Hipolite Bolon, bâtie par Jacques Clamorgan. La maison de Labuscière (avant 1772) mesure soixante-six pieds de long, la maison Clamorgan-Chouteau (vers 1785) quarante-cinq pieds sur soixante-cinq, et la maison Papin-Gratiot (vers 1796) trente-six sur cinquante-deux.",
+  None, "Position approximative dans le village colonial.", source=PET)
+F('04', "Kaskaskia : maisons « sur solle » de Mathurin Charante et presbytère de Charles Rogue (1725-1731)", 'etablissement', '1725/1731', -89.92, 37.92, 'a', ['Mathurin Charante', 'Charles Rogue'],
+  "Les maisons à colombages apparaissent tôt dans les actes du pays des Illinois : en 1725, Mathurin Charante s'engage à bâtir à Kaskaskia deux maisons « sur solle » pour le lieutenant Mélique, aux poteaux de cinq pouces sur sept ; six ans plus tard, Charles Rogue construit le presbytère sur solle, aux poteaux de sept pouces. Le premier logement du commandant au fort de Chartres (1727) est une grande maison double de trente pieds sur cinquante-cinq, à charpente de noyer bousillée.",
+  None, "Position à l'ancien Kaskaskia.", source=PET)
+F('05', "Concession de Philippe Renault, au-dessus du fort de Chartres : la première maison de pierre des Illinois (vers 1722-1723)", 'etablissement', '1722/1723', -90.15, 38.10, 'h', ['Philippe Renault'],
+  "Les maisons de maçonnerie commencent tôt au pays des Illinois : vers 1722-1723, l'exploitant de mines de plomb Philippe Renault fait construire une maison de pierre sur sa concession, au-dessus du fort de Chartres. À Kaskaskia, une génération avant la fondation de Saint-Louis, la maison de Louis Turpin compte trois étages.",
+  None, "Position hypothétique de la concession Renault (Saint-Philippe).", source=PET)
+F('06', "Prairie du Chien : une ordonnance contre les toits de chaume (1822)", 'etablissement', '1822', -91.14, 43.05, 'a', [],
+  "Les toits de chaume des maisons françaises restent en usage à Prairie du Chien jusqu'en 1822, quand une ordonnance les interdit.",
+  None, "Position à Prairie du Chien.", source=PET)
+F('07', "Saint-Louis : Michel Desravines Tesson, rescapé de Saint-Domingue (1789-1829)", 'famille', '1811/1829', -90.19, 38.63, 'a', ['Michel Desravines Tesson'],
+  "Né au Cap-Français en 1789, Michel Desravines Tesson perd sa famille dans l'insurrection des esclaves : sa sœur, Mme Moulter, est tuée après avoir vu mourir son mari et son enfant, et lui-même est caché trois jours par un esclave fidèle. Réfugié aux États-Unis, il épouse en 1811 à Saint-Louis une jeune femme de dix-huit ans, elle aussi venue de Saint-Domingue. En 1829, il va en France voir sa famille ; une lettre de son oncle, le comte d'Asselin, datée d'Agen (4 avril 1829), est conservée.",
+  None, "Position à Saint-Louis.", source=HOL)
+F('08', "Saint-Louis : les familles venues de Saint-Domingue et de la Guadeloupe (1796-1849)", 'migration', '1796/1849', -90.192, 38.628, 'a', ['François Barousel', 'Étienne Nidelet', 'Jean-Pierre Garesché', 'Vital Garesché', 'Jules de Mun'],
+  "Chassés par l'insurrection de 1791, de nombreux Français de Saint-Domingue passent par Philadelphie, où ils sont 25 000 en 1794 selon Moreau de Saint-Méry, avant que certains gagnent Saint-Louis. Le premier est François Barousel, présent en 1796 et mort à Sainte-Geneviève. Étienne (Stephen) Nidelet, né à Port-de-Paix en 1789, est emmené enfant à Philadelphie ; sa mère, la comtesse de Nidelet, passe par Cuba et La Nouvelle-Orléans (1809). Les frères Jean-Pierre et Vital Garesché, nés près de Port-au-Prince et réfugiés à La Rochelle en 1791, s'occupent à Philadelphie du courrier de Jules de Mun. Une seconde vague arrive de la Guadeloupe dans les années 1840 : en 1849, ces familles forment à Saint-Louis une petite colonie. Selon Scharf, ces planteurs « améliorèrent et raffinèrent » la population française de la ville.",
+  None, "Position à Saint-Louis.", source=HOL)
+F('09', "Old Mines : le poète Pierre-François Regnier, gérant d'une mine de plomb (1811-1812)", 'personnage', '1811-09-29/1812-08-13', -90.83, 38.03, 'a', ['Pierre-François Regnier'],
+  "Né en France, instruit et sans doute ancien officier, Pierre-François Regnier a épousé Félicité à Saint-Domingue le 27 juillet 1802. En 1811-1812, il est associé ou gérant à Old Mines, d'où il envoie à Craighead, de la mine Shibboleth, des lettres et des poèmes en français (« À ma femme créole de St Domingue », 27 décembre 1811). C'est l'un des premiers poètes de la Haute-Louisiane.",
+  None, "Position à Old Mines (Missouri).", source=GUE)
+F('10', "Saint-Louis : l'école française de Francis Regnier (1817-1821)", 'personnage', '1817-02-01/1821-11-02', -90.19, 38.627, 'a', ['Pierre-François Regnier'],
+  "Le 1er février 1817, la Missouri Gazette publie l'assignation de « François Regnier » devant la cour de circuit de Jackson pour le divorce demandé par sa femme. En septembre 1821, des annonces bilingues de la même gazette apprennent que « Francis Regnier » continue d'enseigner la lecture, l'écriture et l'arithmétique à Saint-Louis et ouvre des cours de grec, de latin, de français et de tenue de livres ; il a fondé une école mixte de jour. On perd sa trace après le 2 novembre 1821.",
+  None, "Position à Saint-Louis.", source=GUE)
+F('11', "Montréal : départ de l'abbé Pierre Gibault pour les Illinois (juin 1768)", 'religion', '1768-03-19/1768-06-07', -73.554, 45.508, 'c', ['Pierre Gibault', 'Joseph-Olivier Briand', 'Guy Carleton'],
+  "Né à Montréal le 7 avril 1737, fils aîné d'un Canadien pauvre et itinérant, Pierre Gibault est ordonné par Mgr Briand le 19 mars 1768. Muni des instructions de l'évêque et d'un permis du lieutenant-gouverneur Guy Carleton, il quitte Montréal après le 7 juin 1768 pour le pays des Illinois, qu'il dessert pendant les dix années critiques sans gouvernement civil (1768-1778). Le 24 juin 1770, il bénit à Saint-Louis une nouvelle église de bois.",
+  None, "Position à Montréal.", source=DON)
+F('12', "Vincennes : le laïc Philibert garde la paroisse après l'expulsion du jésuite De Vernay (1763)", 'religion', '1763/1768', -87.53, 38.68, 'a', ['Philibert', 'Julien de Vernay', 'Jacques-François Forget du Verger', 'Sébastien Meurin'],
+  "En 1763, la suppression des jésuites vide le pays des Illinois de ses prêtres : à Cahokia, le curé Forget du Verger, des Missions étrangères, vend les biens ecclésiastiques en signe de protestation et part ; à Vincennes, d'où le jésuite Julien de Vernay est expulsé, un pieux laïc nommé Philibert prend la charge de la paroisse et décrit la situation à Mgr Briand. Le père Meurin reste seul prêtre de la vallée jusqu'en 1768.",
+  None, "Position à Vincennes.", source=DON)
+F('13', "Nouvelle-Madrid : mort de l'abbé Gibault (16 août 1802)", 'religion', '1802-08-16', -89.53, 36.59, 'c', ['Pierre Gibault'],
+  "Pierre Gibault meurt pieusement à la Nouvelle-Madrid, sur la rive espagnole, vers sept heures du matin le 16 août 1802. Pour Donnelly, son véritable apport au pays des Illinois était acquis avant sa rencontre avec George Rogers Clark à Kaskaskia le 4 juillet 1778 : il avait servi de pouvoir moral pendant dix ans d'absence de gouvernement civil.",
+  None, "Position à New Madrid (Missouri).", source=DON)
+F('14', "Pensacola et La Nouvelle-Orléans : Gilberto Guillemard, ingénieur lorrain au service de l'Espagne (1787-1805)", 'personnage', '1787/1805', -87.21, 30.42, 'a', ['Gilberto Guillemard', 'Bernardo de Gálvez'],
+  "Né à Longwy, en Lorraine, le 27 septembre 1746, Gilberto (Gilbert) Guillemard sert comme cadet puis officier dans l'armée espagnole de Louisiane ; il prend part aux campagnes de Gálvez (1779). Ingénieur, il dessine en 1787 les fortifications du port de Pensacola et la batterie de San Carlos, en 1792 les fortifications projetées de La Nouvelle-Orléans, et en 1797 il met en défense le poste de Nogales (Vicksburg). Holmes conclut qu'il a prouvé « qu'un Français pouvait faire un très bon Espagnol ».",
+  None, "Position à Pensacola.", source=HLM)
+BOU = A("Holmes, Jack D. L.", "Some French Engineers in Spanish Louisiana")
+EWA = A("Ewan, Joseph", "French Naturalists in the Mississippi Valley")
+MCW = A("McWilliams, Richebourg Gaillard", "A Kingdom Beyond the Rockies: The El Dorado of Mathieu Sagean")
+LAN = A("Baillargeon, Noël", "The Seminary of Quebec: Resources for the History of the French in the Mississippi Valley")
+BAB = A("Babcock, James M.", "Resources in Detroit for the History of the French in the Mississippi Valley")
+F('15', "Pensacola : Nicolas de Finiels, ingénieur et cartographe français au service de l'Espagne (1797-1818)", 'personnage', '1797/1818-05-28', -87.21, 30.41, 'a', ['Nicolas de Finiels', 'Marqués de Casa-Calvo'],
+  "Ingénieur français passé au service de l'Espagne, Nicolas de Finiels dresse vers 1798 des plans de La Nouvelle-Orléans et de Baton Rouge. En 1805, le marquis de Casa-Calvo le choisit pour l'exploration du sud-ouest de la Louisiane et de l'est du Texas, dont il fait d'excellentes cartes, jointes à son plaidoyer de 1810 pour que l'Espagne garde la Floride et reprenne la Louisiane. Affecté à Pensacola, réduit à la misère (il réclame en 1813 quatre rations de pain pour sa famille), il est blessé en défendant la place contre Andrew Jackson en 1818, puis passe à La Havane.",
+  None, "Position à Pensacola.", source=BOU)
+F('16', "Saint-Louis : Pierre Borel, ingénieur volontaire du fort San Luis de Illinois (1767-1769, 1781)", 'personnage', '1767/1781', -90.188, 38.625, 'a', ['Pierre Borel'],
+  "Cadet dans l'armée française en 1753, Pierre Borel entre au service de l'Espagne comme lieutenant en 1769. Ingénieur volontaire, il travaille à la construction du fort San Luis de Illinois, à Saint-Louis, de 1767 à 1769 ; il se distingue au siège de Baton Rouge, puis commande en 1781 les renforts envoyés aux Illinois, attaqués par les Chicachas de Colbert qu'il repousse. Il meurt lieutenant-colonel le 11 janvier 1804.",
+  None, "Position à Saint-Louis.", source=BOU)
+F('17', "Plaquemines : Pierre-Joseph Favrot, officier créole et auteur d'un manuel d'arithmétique (1796)", 'personnage', '1778/1796', -89.61, 29.47, 'a', ['Pierre-Joseph Favrot'],
+  "Né à La Nouvelle-Orléans en 1749 d'une famille française distinguée, Favrot vit en France jusqu'à la mort de son père en 1777. Revenu comme capitaine au régiment de Louisiane (1778), il commande Baton Rouge puis, par intérim, Mobile (1783-1787). Commandant des fortifications de San Felipe de Plaquemines et du fort Bourbon en 1796, il y rédige un manuel d'arithmétique par questions et réponses et un abrégé des sciences.",
+  None, "Position au fort San Felipe (Plaquemines).", source=BOU)
+F('18', "La Nouvelle-Orléans : Victor Collot arrêté par les Espagnols au terme de son voyage (octobre 1796)", 'exploration', '1796-10', -90.07, 29.96, 'c', ['Victor Collot', 'Joseph Warin', 'Louis Lorimier'],
+  "Né vers 1751, ancien de Rochambeau, gouverneur de la Guadeloupe en 1793-1794, le général Victor Collot descend l'Ohio et le Mississippi en 1796 pour le compte de l'ambassadeur Adet. Les Espagnols, méfiants, le font suivre ; Louis Lorimier lui apprend une menace d'invasion britannique par les Grands Lacs. Arrivé à La Nouvelle-Orléans, il est arrêté en octobre 1796 ; son compagnon Warin meurt de la fièvre jaune. Selon Gayoso, son passage a agité les Créoles de la basse Louisiane.",
+  None, "Position à La Nouvelle-Orléans.", source=BOU)
+F('19', "Rivière Ohio : le botaniste Piquet, compagnon de Saugrain, noyé en fuyant les Indiens (printemps 1788)", 'exploration', '1788-03-19/1788-05-11', -84.5, 39.1, 'h', ['Antoine-François Saugrain', 'Piquet', 'Raguet'],
+  "En 1787, deux jeunes Parisiens, Piquet, « botaniste », et Raguet, accompagnent le docteur Antoine-François Saugrain en Amérique pour explorer l'Ohio et le Kentucky, munis d'une lettre pour Benjamin Franklin. Au début du voyage (19 mars - 11 mai 1788), Piquet, blessé par des Indiens, se noie en tentant de leur échapper. Saugrain s'établira à Saint-Louis, où il travaillera seul jusqu'à sa mort en 1820.",
+  None, "Position hypothétique sur l'Ohio près de Cincinnati.", source=EWA)
+F('20', "Nouvelle-Madrid : Peyroux de la Coudrenière écrit à Jefferson (1804)", 'personnage', '1804', -89.53, 36.59, 'a', ['Henri Peyroux de la Coudrenière'],
+  "Henri Peyroux de la Coudrenière, commandant de la Nouvelle-Madrid, écrit en 1804 à Thomas Jefferson pour lui faire part de son intérêt pour l'histoire naturelle.",
+  None, "Position à New Madrid.", source=EWA)
+F('21', "La Nouvelle-Orléans : médecins et botanistes du roi, Prat, Guérin et LeBeau (1735-1774)", 'personnage', '1735/1774', -90.065, 29.958, 'a', ['Louis Prat', 'Jean-Louis Guérin', 'François LeBeau', "Diron d'Artaguette"],
+  "Dès 1721, Diron d'Artaguette signale que la Louisiane peut fournir quantité de plantes médicinales, que « très peu de Français connaissent ». Le médecin Prat, arrivé en janvier 1735, correspond avec Jussieu jusqu'en 1746 ; Jean-Louis Guérin est chargé en mars 1737 d'études botaniques pour le Jardin du roi, mais meurt l'année suivante ; François LeBeau, successeur de Prat, est « médecin et botaniste du roi » au moins jusqu'en 1774.",
+  None, "Position à La Nouvelle-Orléans.", source=EWA)
+F('22', "Fort Louis de la Mobile : Mathieu Sagean, l'imposteur, propriétaire d'un lot rue de Bienville (1711)", 'personnage', '1700/1711', -88.04, 30.69, 'a', ['Mathieu Sagean', 'Pierre Le Moyne d\'Iberville', 'Pontchartrain'],
+  "Analphabète revenu en France en 1699, Mathieu Sagean dicte à l'intendant de Brest le récit de découvertes fabuleuses (les Acaanibas, peuple riche en or). Pontchartrain le fait interroger, puis l'envoie au Mississippi en 1700 pour qu'il y guide les recherches ; Le Sueur et Sauvole doutent de lui. En 1711, un plan du village de Fort Louis de la Mobile montre qu'un « Mathieu Sajan » possède le lot du milieu des trois lots donnant sur la rue de Bienville.",
+  None, "Position à l'ancien Fort Louis de la Mobile (Twenty-Seven Mile Bluff).", source=MCW)
+F('23', "Mission de la Sainte-Famille des Tamarois (Cahokia) : les prêtres du Séminaire de Québec (1699-1763)", 'religion', '1699-05/1763-11-05', -90.188, 38.57, 'a', ['François de Montigny', 'Jean-François Buisson de Saint-Cosme', 'Marc Bergier', 'Nicolas Laurent', 'Jacques-François Forget du Verger'],
+  "À la fin de mai 1699, François de Montigny fonde chez les Tamarois la mission de la Sainte-Famille, dont les lettres patentes de Mgr de Saint-Vallier datent du 14 juillet 1698. Marc Bergier y arrive en février 1700 et y meurt en 1707 ; Nicolas Laurent écrit de Cahokia le 27 juin 1756. Le 5 novembre 1763, apprenant la conquête, Forget du Verger vend les biens de la mission pour 32 500 livres alors qu'ils en valaient au moins 400 000, et s'enfuit. Le 14 mai 1768, le Séminaire donne procuration à l'abbé Gibault pour faire annuler ces ventes, en vain.",
+  None, "Position à Cahokia.", source=LAN)
+F('24', "Natchez et Tensas : Jean-François Buisson de Saint-Cosme, missionnaire tué par les Chitimachas (1699-1706)", 'religion', '1698-12-27/1706', -91.40, 31.56, 'a', ['Jean-François Buisson de Saint-Cosme', 'François de Montigny', 'Antoine Davion'],
+  "Né à Lévis le 30 janvier 1667, ordonné à Québec en 1690, Jean-François Buisson de Saint-Cosme descend le Mississippi avec Montigny et Davion ; le 27 décembre 1698, ils atteignent le premier village arkansas. Successeur de Montigny chez les Natchez et les Tensas en 1701, il tente en vain de les convertir jusqu'à son assassinat en 1706 par une bande de Chitimachas. Seize de ses lettres (1698-1706) sont conservées au Séminaire de Québec.",
+  None, "Position à Natchez.", source=LAN)
+F('25', "Sandwich (Windsor) et la Petite Côte : le père Pierre Potier, missionnaire des Hurons du Détroit (1744-1781)", 'religion', '1744/1781-07', -83.06, 42.30, 'a', ['Pierre Potier'],
+  "Venu au Canada en 1743, le jésuite Pierre Potier gagne la rivière du Détroit en 1744 ; missionnaire des Hurons puis curé de l'Assomption de Sandwich jusqu'à sa mort en juillet 1781, il tient le « Livre de compte de la mission des Hurons du Détroit » (1733-1781), qui contient une liste des habitants de la Petite Côte en 1778.",
+  None, "Position à l'église de l'Assomption (Windsor, Ontario).", source=BAB)
+fiches = C.fiches
