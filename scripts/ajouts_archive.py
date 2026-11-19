@@ -646,6 +646,9 @@ LIVRES = [
     ('wi_collections_v20_1911.txt', 'HN', {'court': 'WHC XX (1911)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XX, éd. Reuben G. Thwaites, Madison, 1911 : traite des fourrures au Wisconsin, 1812-1825, et journal de Michel Curot"}, 'collectionsstate20stat', lambda nom, ref: ref),
     ('wi_collections_v17_1906.txt', 'HO', {'court': 'WHC XVII (1906)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XVII, éd. Reuben G. Thwaites, Madison, 1906 : le régime français au Wisconsin, 1727-1748"}, 'collectionsstate17stat', lambda nom, ref: ref),
     ('wi_collections_v16_1902.txt', 'HP', {'court': 'WHC XVI (1902)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XVI, éd. Reuben G. Thwaites, Madison, 1902 : le régime français au Wisconsin, 1634-1727"}, 'collectionsstate16stat_0', lambda nom, ref: ref),
+    ('wi_collections_v9_1882.txt', 'HQ', {'court': 'WHC IX (1882)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. IX, Madison, 1882 : souvenirs de B. W. Brisbois sur Prairie du Chien"}, 'collectionsofsta0009lyma', lambda nom, ref: ref),
+    ('wi_collections_v8_1879.txt', 'HR', {'court': 'WHC VIII (1879)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. VIII, Madison, 1879 : papiers Langlade, Perrot, Fort Winnebago"}, 'collectionsofsta0008lyma', lambda nom, ref: ref),
+    ('wi_collections_v12_1892.txt', 'HS', {'court': 'WHC XII (1892)', 'ref': "Collections of the State Historical Society of Wisconsin, vol. XII, éd. Reuben G. Thwaites, Madison, 1892 : cour d'enquête de Green Bay (1814), Robert Dickson, employés de l'American Fur Company, Moses Paquette"}, 'collectionsofsta0012reub', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
