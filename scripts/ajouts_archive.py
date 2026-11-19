@@ -714,6 +714,7 @@ LIVRES = [
     ('mi_palmer_1906.txt', 'KN', {'court': 'Palmer, Early Days in Detroit (1906)', 'ref': "Friend Palmer, Early Days in Detroit, Détroit, Hunt & June, 1906"}, 'earlydaysindetro00palmuoft', lambda nom, ref: ref),
     ('mi_wood_mackinac_v2_1918.txt', 'KO', {'court': 'Wood, Historic Mackinac, vol. II (1918)', 'ref': "Edwin O. Wood, Historic Mackinac, vol. II, New York, The Macmillan Company, 1918"}, 'historicmackina01woodgoog', lambda nom, ref: ref),
     ('mi_wood_mackinac_v1_1918.txt', 'KP', {'court': 'Wood, Historic Mackinac, vol. I (1918)', 'ref': "Edwin O. Wood, Historic Mackinac, vol. I, New York, The Macmillan Company, 1918"}, 'historicmackina02woodgoog', lambda nom, ref: ref),
+    ('mi_monroe_wing_1890.txt', 'KQ', {'court': 'Wing, History of Monroe County (1890)', 'ref': "Talcott E. Wing (éd.), History of Monroe County, Michigan, New York, Munsell & Company, 1890"}, 'historyofmonroec00wing', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
