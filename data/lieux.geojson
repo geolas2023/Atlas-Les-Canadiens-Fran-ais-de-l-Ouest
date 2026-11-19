@@ -966668,6 +966668,142 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -87.528,
+     38.677
+    ]
+   },
+   "properties": {
+    "id": "KI-menard-pierre-vincennes",
+    "nom": "Vincennes : Pierre Menard",
+    "corpus": "archive.org · Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "theme": "personnage",
+    "debut": 1786.0,
+    "fin": 1786.0,
+    "date_edtf": "1786",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Menard"
+    ],
+    "description": "Vincennes, 1786. Pierre Menard, né à Canada, né en 1767, arrive à Vincennes et travaille pour Vigo; un temps associé de Dubois. D'après Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922). Autres lieux de l'entrée : Kaskaskia.",
+    "sources": "Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922, p. 214, 256 ; texte intégral : archive.org, indianahistorica07indiuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/indianahistorica07indiuoft/page/214/mode/1up?q=MENARD",
+      "texte": "Lire Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.914,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "KI-menard-pierre-kaskaskia",
+    "nom": "Kaskaskia : Pierre Menard",
+    "corpus": "archive.org · Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "theme": "personnage",
+    "debut": 1807.0,
+    "fin": 1807.0,
+    "date_edtf": "1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Menard"
+    ],
+    "description": "Kaskaskia, 1807. Pierre Menard, né à Canada, colonel commandant la milice du comté de Randolph; démissionne le 19 septembre de la législature du territoire. D'après Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922). Autres lieux de l'entrée : Vincennes.",
+    "sources": "Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922, p. 214, 256 ; texte intégral : archive.org, indianahistorica07indiuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/indianahistorica07indiuoft/page/214/mode/1up?q=MENARD",
+      "texte": "Lire Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.914,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "KI-menard-pierre-kaskaskia-2",
+    "nom": "Kaskaskia : Pierre Menard",
+    "corpus": "archive.org · Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "theme": "personnage",
+    "debut": 1844.0,
+    "fin": 1844.0,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Menard"
+    ],
+    "description": "Kaskaskia, 1844. Pierre Menard, né à Canada, y meurt; premier lieutenant-gouverneur de l'Illinois. D'après Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922). Autres lieux de l'entrée : Vincennes.",
+    "sources": "Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922, p. 214, 256 ; texte intégral : archive.org, indianahistorica07indiuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/indianahistorica07indiuoft/page/214/mode/1up?q=MENARD",
+      "texte": "Lire Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.52,
+     37.31
+    ]
+   },
+   "properties": {
+    "id": "KI-lorimier-louis-cap-girard",
+    "nom": "Cap-Girardeau (Missouri) : Louis Lorimier",
+    "corpus": "archive.org · Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "theme": "personnage",
+    "debut": 1793.0,
+    "fin": 1793.0,
+    "date_edtf": "1793",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Lorimier"
+    ],
+    "description": "Cap-Girardeau (Missouri), 1793. Louis Lorimier, né à Canada, s'y établit après avoir traité chez les Shawnees et les Delawares. D'après Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922).",
+    "sources": "Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922, p. 225 ; texte intégral : archive.org, indianahistorica07indiuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/indianahistorica07indiuoft/page/225/mode/1up?q=LORIMIER",
+      "texte": "Lire Messages and Letters of W. H. Harrison, vol. I (IHC VII, 1922) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
