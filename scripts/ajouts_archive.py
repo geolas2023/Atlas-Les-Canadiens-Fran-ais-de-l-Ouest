@@ -728,6 +728,9 @@ LIVRES = [
     ('mi_blackbird_1887.txt', 'ME', {'court': 'Blackbird, History of the Ottawa and Chippewa Indians of Michigan (1887)', 'ref': "Andrew J. Blackbird, History of the Ottawa and Chippewa Indians of Michigan, Ypsilanti, The Ypsilantian Job Printing House, 1887"}, 'historyofottawac00blac', lambda nom, ref: ref),
     ('mi_hubbard_1887.txt', 'MF', {'court': 'Hubbard, Memorials of a Half-Century (1887)', 'ref': "Bela Hubbard, Memorials of a Half-Century, 1887"}, 'memorialsofhalfc00hubbrich', lambda nom, ref: ref),
     ('mi_burton_detroit_v1_1922.txt', 'MG', {'court': 'Burton, The City of Detroit, vol. I (1922)', 'ref': "Clarence M. Burton (éd.), The City of Detroit, Michigan, 1701-1922, vol. I, Detroit et Chicago, The S. J. Clarke Publishing Company, 1922"}, 'citydetroitmich01compgoog', lambda nom, ref: ref),
+    ('mi_mphc_v09_1886.txt', 'MH', {'court': 'Michigan Pioneer Collections, vol. IX (1886)', 'ref': "Collections of the Pioneer Society of the State of Michigan, vol. IX, 2e éd., Lansing, Wynkoop Hallenbeck Crawford Company, 1908 (1re éd. 1886)"}, 'michiganhistoric09michuoft', lambda nom, ref: ref),
+    ('mi_mphc_v11_1888.txt', 'MJ', {'court': 'Michigan Pioneer and Historical Collections, vol. XI (1888)', 'ref': "Michigan Pioneer and Historical Collections, vol. XI, Lansing, Thorp & Godfrey, 1888"}, 'michiganhistoric11michuoft', lambda nom, ref: ref),
+    ('mi_mphc_v20_1892.txt', 'ML', {'court': 'Michigan Pioneer and Historical Collections, vol. XX (1892)', 'ref': "Michigan Pioneer and Historical Collections, vol. XX (Haldimand Papers), Lansing, Robert Smith & Co., 1892"}, 'michiganhistoric20michuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
