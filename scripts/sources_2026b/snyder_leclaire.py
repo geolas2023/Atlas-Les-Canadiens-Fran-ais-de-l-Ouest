@@ -1,0 +1,13 @@
+# Charles Snyder, « Antoine LeClaire, the First Proprietor of Davenport », Annals of Iowa, 3e série (vers 1941),
+# p. 79-117. PDF du Drive de l'auteur. Corpus « Recherches », préfixe SNL.
+from commun import Corpus
+SN = "Snyder, Charles (vers 1941), « Antoine LeClaire, the First Proprietor of Davenport », Annals of Iowa, 3e série, p. 79-117"
+C = Corpus('Recherches', 'SNL', SN, page_fmt='p. {}')
+F = C.F
+F('01', "Milwaukee : le poste de traite d'Antoine LeClaire père, première maison de la rive est (1800-1804)", 'poste', '1800/1804-12-12', -87.9105, 43.0389, 'a', ['Antoine LeClaire père', 'Marie Sauvagesse'],
+  "Forgeron et traiteur canadien établi d'abord à une trentaine de milles du vieux fort Saint-Joseph, où il épouse à la façon du pays une Potawatomie (Marie Sauvagesse), Antoine LeClaire père transporte en 1800 son poste sur la rive est de la rivière Milwaukee, près du village potawatomi, à trois milles de l'embouchure ; aucun autre traiteur n'y est alors établi. Une plaque de bronze, à l'angle des rues East Water et Wisconsin, rappelle cette première maison de la rive est. Il y est encore en décembre 1804, puis on le retrouve avec John Kinzie à Chicago vers 1809, à Peoria lors du raid du capitaine Craig (1812), à Portage des Sioux et à Saint-Charles, où il meurt vers 1825.",
+  '80-85', "Position de la plaque commémorative citée par l'auteur.")
+F('02', "Davenport : la section du traité de 1832 et la ville d'Antoine LeClaire", 'etablissement', '1832-09-21/1861-09-25', -90.5776, 41.5236, 'c', ['Antoine LeClaire', 'Marguerite LeClaire', 'George Davenport', 'Keokuk'],
+  "Fils du précédent, interprète formé sous William Clark et parlant, dit-on, plus d'une douzaine de langues indiennes, Antoine LeClaire sert d'interprète au traité du 21 septembre 1832 avec les Sauks, négocié sous une tente plantée à l'emplacement de la future Davenport. L'article 6 lui attribue une section en face de Rock Island et une autre en tête des premiers rapides ; la tradition veut que Keokuk ait voulu honorer ainsi LeClaire et sa femme Marguerite. En 1833, à la demande de Keokuk, il bâtit sa maison de rondins sur le lieu même de la tente. En 1836, avec George Davenport et six associés, il fonde la ville, réserve des places publiques, fait tracer des rues dans sa réserve et donne des terrains à l'Église catholique ; l'hôtel LeClaire (1839) et l'emplacement du palais de justice (1840) complètent son œuvre. Ruiné en partie par la crise de 1859, il meurt en 1861.",
+  '95-113', "L'autre section du traité, en tête des rapides, a donné son nom à la ville de LeClaire (Iowa).")
+fiches = C.fiches

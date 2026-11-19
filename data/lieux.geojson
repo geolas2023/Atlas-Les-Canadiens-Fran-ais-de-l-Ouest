@@ -114418,6 +114418,270 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.83,
+     46.66
+    ]
+   },
+   "properties": {
+    "id": "DN10-01",
+    "nom": "Baie de Chagouamigon : le petit fort triangulaire de Chouart et Radisson, premier poste du lac Supérieur",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1659.0,
+    "fin": 1662.999,
+    "date_edtf": "1659~/1662~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Médard Chouart des Groseilliers",
+     "Pierre-Esprit Radisson"
+    ],
+    "description": "Longeant la rive sud du lac Supérieur, les deux voyageurs passent la baie de Keweenaw (leur baie de la Trinité) et la rivière Montréal, puis une longue pointe de terre étroite ; au-delà, dans une baie où des Outaouais réfugiés vivent depuis deux ans sur une pointe et les îles voisines, ils élèvent un petit fort de bois triangulaire, entouré d'une palissade de branches. Dionne y voit le premier poste de commerce attesté sur les rives du lac Supérieur. Ils le quittent douze jours plus tard pour gagner le village des Hurons réfugiés, avant d'hiverner dans les terres et de visiter les Nadouessioux.",
+    "sources": "Dionne, N.-E. (1910), Chouart et Radisson : odyssée de deux Canadiens-français au XVIIe siècle, Québec, Laflamme et Proulx, p. 64-68.",
+    "note": "Chronologie discutée : Dionne date ce voyage d'après les Relations et le récit de Radisson, et une note le fait hiverner dans la région en 1661-1662 ; on le place plus souvent en 1659-1660. Point près de Houghton Point (Ashland, Wisconsin), localisation traditionnelle du fort."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.9105,
+     43.0389
+    ]
+   },
+   "properties": {
+    "id": "SNL-01",
+    "nom": "Milwaukee : le poste de traite d'Antoine LeClaire père, première maison de la rive est (1800-1804)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1800.0,
+    "fin": 1804.947,
+    "date_edtf": "1800/1804-12-12",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine LeClaire père",
+     "Marie Sauvagesse"
+    ],
+    "description": "Forgeron et traiteur canadien établi d'abord à une trentaine de milles du vieux fort Saint-Joseph, où il épouse à la façon du pays une Potawatomie (Marie Sauvagesse), Antoine LeClaire père transporte en 1800 son poste sur la rive est de la rivière Milwaukee, près du village potawatomi, à trois milles de l'embouchure ; aucun autre traiteur n'y est alors établi. Une plaque de bronze, à l'angle des rues East Water et Wisconsin, rappelle cette première maison de la rive est. Il y est encore en décembre 1804, puis on le retrouve avec John Kinzie à Chicago vers 1809, à Peoria lors du raid du capitaine Craig (1812), à Portage des Sioux et à Saint-Charles, où il meurt vers 1825.",
+    "sources": "Snyder, Charles (vers 1941), « Antoine LeClaire, the First Proprietor of Davenport », Annals of Iowa, 3e série, p. 79-117, p. 80-85.",
+    "note": "Position de la plaque commémorative citée par l'auteur."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.5776,
+     41.5236
+    ]
+   },
+   "properties": {
+    "id": "SNL-02",
+    "nom": "Davenport : la section du traité de 1832 et la ville d'Antoine LeClaire",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1832.721,
+    "fin": 1861.732,
+    "date_edtf": "1832-09-21/1861-09-25",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine LeClaire",
+     "Marguerite LeClaire",
+     "George Davenport",
+     "Keokuk"
+    ],
+    "description": "Fils du précédent, interprète formé sous William Clark et parlant, dit-on, plus d'une douzaine de langues indiennes, Antoine LeClaire sert d'interprète au traité du 21 septembre 1832 avec les Sauks, négocié sous une tente plantée à l'emplacement de la future Davenport. L'article 6 lui attribue une section en face de Rock Island et une autre en tête des premiers rapides ; la tradition veut que Keokuk ait voulu honorer ainsi LeClaire et sa femme Marguerite. En 1833, à la demande de Keokuk, il bâtit sa maison de rondins sur le lieu même de la tente. En 1836, avec George Davenport et six associés, il fonde la ville, réserve des places publiques, fait tracer des rues dans sa réserve et donne des terrains à l'Église catholique ; l'hôtel LeClaire (1839) et l'emplacement du palais de justice (1840) complètent son œuvre. Ruiné en partie par la crise de 1859, il meurt en 1861.",
+    "sources": "Snyder, Charles (vers 1941), « Antoine LeClaire, the First Proprietor of Davenport », Annals of Iowa, 3e série, p. 79-117, p. 95-113.",
+    "note": "L'autre section du traité, en tête des rapides, a donné son nom à la ville de LeClaire (Iowa)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.94,
+     42.826
+    ]
+   },
+   "properties": {
+    "id": "HW76-01",
+    "nom": "Bordeaux Creek (Nebraska) : la « fourche de Frédéric », entre James Bordeaux et Frederick Laboue",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1841.0,
+    "fin": 1871.999,
+    "date_edtf": "1841~/1871~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux",
+     "Frederick Laboue",
+     "P. D. Papin"
+    ],
+    "description": "Second de P. D. Papin au fort John (Laramie) au milieu des années 1840, James Bordeaux devient le principal traiteur de la haute rivière Blanche, où il hiverne dès 1841 et tient pour l'American Fur Company des maisons de traite auprès des Brûlés ; le ruisseau où il trafique pendant une trentaine d'années porte aujourd'hui son nom. Les auteurs relèvent pourtant que les cartes de Bordeaux et Campbell (1857) puis de Bridger l'appellent « Frederick's Fork », et celle du lieutenant Warren (1855-1857) « F. Laboue River ». Frederick Laboue, vieil employé de l'American Fur Company, associé de l'Upper Missouri Outfit en 1848, trafiquait dès 1830 avec les Sioux et les Poncas à la tête du Niobrara ; Parkman le croise en 1846 descendant la Platte avec onze bateaux de robes.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 300-304.",
+    "note": "Le rôle exact de Laboue sur la rivière Blanche reste, selon les auteurs, une énigme. Point au poste de Bordeaux, à l'est de Chadron."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8075,
+     41.8125
+    ]
+   },
+   "properties": {
+    "id": "SW91-01",
+    "nom": "Chicagou : Joutel et l'ail sauvage qui a donné son nom au lieu (25 septembre 1687)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1687.732,
+    "fin": 1687.732,
+    "date_edtf": "1687-09-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri Joutel",
+     "abbé Jean Cavelier",
+     "Anastase Douay",
+     "François de Boisrondel"
+    ],
+    "description": "Parti du fort Saint-Louis du Rocher le 18 septembre 1687 avec les survivants de l'expédition de La Salle (l'abbé Cavelier et son neveu, le père Douay, le pilote Tessier) et le garde-magasin Boisrondel, Joutel arrive le jeudi 25 au lieu « appelé Chicagou », qui tient son nom, d'après ce qu'il apprend, de la quantité d'ail qui pousse dans les bois. Swenson tient ce passage pour la seule véritable enquête de terrain sur l'origine du nom : en langue illinoise, chicagoua désigne l'ail sauvage (Allium tricoccum, l'ail des bois), et non l'oignon sauvage ni une « mauvaise odeur », comme on le répète depuis deux siècles.",
+    "sources": "Swenson, John F. (1991), « Chicagoua/Chicago: The Origin, Meaning, and Etymology of a Place Name », Illinois Historical Journal, vol. 84, n° 4, p. 235-248, p. 235-238.",
+    "note": "Point au portage de Chicago ; Joutel ne précise pas l'endroit exact de son campement."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0198,
+     30.2241
+    ]
+   },
+   "properties": {
+    "id": "ANC-01",
+    "nom": "Lafayette : du bicentenaire du Grand Dérangement au CODOFIL (1955-1974)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1955.0,
+    "fin": 1974.999,
+    "date_edtf": "1955/1974",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Domengeaux",
+     "Wade Martin",
+     "Allen Babineaux",
+     "Léonard Forest",
+     "Edith Butler"
+    ],
+    "description": "En 1955, Acadiens du Nord et Cadiens de Louisiane se retrouvent pour le bicentenaire du Grand Dérangement. Un Comité de l'héritage français, formé en 1965 pour le bicentenaire de l'arrivée des Acadiens en Louisiane (Wade Martin, Allen Babineaux, James Domengeaux), mène en 1968 à la création du Conseil pour le développement du français en Louisiane (CODOFIL), agence de l'État même qui avait banni le français des écoles en 1916. La même année, le cinéaste Léonard Forest et des personnages de son documentaire Les Acadiens de la dispersion, dont une jeune Edith Butler, viennent en Louisiane pour sa première. Le Conseil se dote ensuite d'une politique populaire, visible en 1974 avec le premier Festival de musique acadienne.",
+    "sources": "Ancelet, Barry Jean (s.d.), « Québec, Acadie et Louisiane : l'influence des retrouvailles », article, p. 1-3.",
+    "note": "Article non daté, postérieur aux Congrès mondiaux acadiens. Point à Lafayette, siège du CODOFIL."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.608
+    ]
+   },
+   "properties": {
+    "id": "PD06-01",
+    "nom": "Portage du lac la Pluie, « le bout des Terres » : les noms de lieux des voyageurs selon George Nelson",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1803.0,
+    "fin": 1825.999,
+    "date_edtf": "1803~/1825~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "George Nelson",
+     "Chaurette",
+     "Beaubien"
+    ],
+    "description": "Commis de la Compagnie du Nord-Ouest au début du XIXe siècle, George Nelson relève les noms que les Canadiens donnent aux lieux de la route du lac Supérieur au lac Winnipeg. Le portage du lac la Pluie s'appelle « le bout des Terres », vieux nom qu'il croit antérieur à la Conquête, du temps où les traiteurs français n'allaient pas plus loin et prenaient les Grands Lacs pour des bras de la mer de l'Ouest. Le portage du Rocher à Chaurette rappelle un guide qui y brisa son canot et perdit sa cargaison ; à la chute à Jacqueau, les hommes font la course avec leurs charges ; au portage de la Barrière, des téméraires s'y tuent ; un portage d'île porte le nom de Beaubien, voyageur forcé par son bourgeois à sauter un rapide où plusieurs hommes se noyèrent. Nelson reproche aussi aux voyageurs de « pervertir » les noms autochtones.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 76-77.",
+    "note": "Point au portage de Fort Frances (Ontario) ; les autres lieux cités jalonnent la route de la rivière Winnipeg sans être localisés par l'auteure."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.421,
+     43.6327
+    ]
+   },
+   "properties": {
+    "id": "TU15-01",
+    "nom": "Toronto : le fort Rouillé et les deux postes qui l'ont précédé (1720-1759)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1720.0,
+    "fin": 1759.999,
+    "date_edtf": "1720/1759",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Rousseau"
+    ],
+    "description": "Pour détourner vers eux les fourrures du Nord-Ouest qui filent aux Anglais, les Français élèvent trois postes successifs à Toronto. Un premier « magasin royal » est bâti en 1720 sur les ruines du village iroquois abandonné de Teiaiagon, puis délaissé ; un poste palissadé, le fort Toronto, est fondé en 1750 au départ traditionnel du portage, sur la rive est de la Humber ; trop petit, il est remplacé en 1751 par le fort Rouillé, carré à bastions de chêne équarri avec forge, boulangerie, casernes et magasin, dominant la baie. En 1757, quatre-vingt-dix guerriers mississagués menacent de le piller jusqu'à l'arrivée de deux bateaux de soldats de Niagara ; en 1759, après la chute de Niagara, la garnison l'incendie et se replie sur Montréal. Le second poste sera repris et réaménagé en maison par Jean-Baptiste Rousseau. Un obélisque marque aujourd'hui l'emplacement du fort Rouillé.",
+    "sources": "Turner, Glenn (2015), The Toronto Carrying Place: Rediscovering Toronto's Most Ancient Trail, Toronto, Dundurn, chap. 1 (édition non paginée dans la copie lue).",
+    "note": "Point au site du fort Rouillé (terrain de l'Exposition nationale canadienne)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.146,
+     42.2445
+    ]
+   },
+   "properties": {
+    "id": "FX16-01",
+    "nom": "Ecorse (Michigan) : la rivière aux Écorces et la donation potawatomie aux Saint-Cosme (1776)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1764.0,
+    "fin": 1800.999,
+    "date_edtf": "1764~/1800~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Saint-Cosme",
+     "Amable Saint-Cosme",
+     "Dominique Saint-Cosme",
+     "Pierre LeBlanc",
+     "Jean-Baptiste Salliotte",
+     "Pierre-Michel Campau"
+    ],
+    "description": "Entre Détroit et Frenchtown, un groupe de cabanes deviendra Ecorse. Le nom viendrait de la rivière aux Écorces, où les Hurons-Wendats auraient enseveli leurs chefs enveloppés d'écorce de bouleau près des bancs de sable. Le 1er juillet 1776, les Potawatomis donnent à Pierre Saint-Cosme et à ses fils Amable et Dominique, « par amour et affection », la terre faisant face à la rivière de Détroit et à la rivière aux Écorces ; les premiers colons tiendront leurs titres de ses héritiers. Arrivent aussi à la fin du XVIIIe siècle Pierre LeBlanc, sans doute d'ascendance acadienne, marié à une femme de la nation des Renards, trappeur et traiteur, dont le fils métis devient constable, Jean-Baptiste Salliotte, une branche des Labadie (installés dès 1764 selon certains actes) et Pierre-Michel Campau. Les premiers feuillets de bien des titres de propriété sont en français.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 160-161.",
+    "note": "D'après Warnes (2009), cité par les auteurs. Point à l'embouchure de l'Ecorse River."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
