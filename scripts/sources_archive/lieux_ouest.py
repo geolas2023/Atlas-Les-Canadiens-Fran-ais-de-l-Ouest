@@ -2534,6 +2534,12 @@ G.update({
     'Rock Creek (comté de Carroll, Indiana)': (-86.6000, 40.6500, 'a', "embouchure du Rock Creek sur la Ouabache (comté de Carroll, Indiana)"),
     'Wildcat Creek (Indiana)': (-86.8000, 40.4700, 'a', "ravins du Wildcat Creek, près de Lafayette (Indiana)"),
     'Lafayette (Indiana)': (-86.8753, 40.4167, 'c', "Lafayette (Indiana)"),
+    'Fort Saint-Joseph (Port Huron)': (-82.4249, 43.0044, 'c', "Fort Saint-Joseph (Port Huron, Michigan)"),
+    'Ann Arbor (Michigan)': (-83.7430, 42.2808, 'c', "Ann Arbor (Michigan)"),
+    'Embouchure de la Maumee': (-83.4650, 41.6900, 'c', "Embouchure de la Maumee (Toledo, Ohio)"),
+    'Niles (Michigan)': (-86.2542, 41.8297, 'c', "Niles (Michigan)"),
+    'Brownstown (Michigan)': (-83.2280, 42.1300, 'c', "Brownstown (Michigan)"),
+    'Mount Clemens (Michigan)': (-82.8780, 42.5970, 'c', "Mount Clemens (Michigan)"),
 })
 
 
