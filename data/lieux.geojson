@@ -112528,6 +112528,724 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -87.6375,
+     41.8866
+    ]
+   },
+   "properties": {
+    "id": "PQ93-01",
+    "nom": "Chicago : l'auberge Sagonash de Marc Beaubien et la maison de traite de Bourassa (1829-1831)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1829.0,
+    "fin": 1831.999,
+    "date_edtf": "1829/1831",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marc Beaubien",
+     "Médard Beaubien",
+     "Jean-Baptiste Beaubien",
+     "Bourassa",
+     "Antoine Ouilmette (Guilmette)",
+     "Billy Campbell (Sagonash)"
+    ],
+    "description": "Paquin, citant Tassé et un historien de Chicago, situe les francophones du village en 1831. Sur la rive est de la rivière, Marc Beaubien, frère du colonel Jean-Baptiste, tient une auberge de deux étages, bien peinte, bientôt appelée le Sagonash Hotel, du nom indien de « Billy Campbell », chef de guerre célèbre (sans doute Billy Caldwell, dit Sauganash). Sur le bras sud, un traiteur nommé Bourassa a sa demeure ; Médard Beaubien, l'autre frère, une modeste cabane de traite. Le colonel habite près du fort la maison, dite Ouigouan, achetée en 1817 à l'American Fur Company. En 1825, le village ne comptait qu'une quatorzaine de maisons, avec Guilmette (Antoine Ouilmette), traiteur canadien marié à une Indienne, parmi les principaux habitants.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « La colonie ».",
+    "note": "Position approximative, rive est de la rivière Chicago."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6278,
+     41.8857
+    ]
+   },
+   "properties": {
+    "id": "PQ93-02",
+    "nom": "Chicago : la pétition des 53 catholiques, presque tous canadiens, et la première église Sainte-Marie (1833)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1833.999,
+    "date_edtf": "1833",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rosati",
+     "Saint-Cyr"
+    ],
+    "description": "En 1833, une pétition signée presque exclusivement par 53 Canadiens demande un prêtre à l'évêque Rosati de Saint-Louis. Le missionnaire français Saint-Cyr leur est envoyé ; ils bâtissent l'église Sainte-Marie à l'angle des rues Lake et State, première congrégation catholique de Chicago. L'église est ensuite déplacée à l'angle Wabash et Madison, où les Canadiens deviennent minoritaires et demandent à se séparer.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Notre-Dame ».",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.631,
+     41.8789
+    ]
+   },
+   "properties": {
+    "id": "PQ93-03",
+    "nom": "Chicago : l'église Saint-Louis de la rue Clark, première église bâtie par les seuls Canadiens (1848-1857)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1857.999,
+    "date_edtf": "1848/1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Isidore Lebel",
+     "Biglow"
+    ],
+    "description": "En 1848, les Canadiens élèvent l'église Saint-Louis, rue Clark près de Quincy, sur un terrain prêté par une Canadienne, Mme Biglow. Le premier curé est le père Isidore Lebel, premier prêtre canadien de Chicago. Remplacé en 1857 par un missionnaire français qui part pour La Nouvelle-Orléans, il a pour successeur un prêtre irlandais qui ne parle pas un mot de français : les paroissiens se dispersent vers l'avenue Blue Island et restent sans église jusqu'en 1863.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Notre-Dame ».",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6603,
+     41.8743
+    ]
+   },
+   "properties": {
+    "id": "PQ93-04",
+    "nom": "Chicago : Notre-Dame, de la rue Halsted (1864) à la rotonde octogonale de Vernon Park (1887-1892)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1864.0,
+    "fin": 1893.999,
+    "date_edtf": "1864/1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Côté",
+     "Achille Bergeron",
+     "Elzéar-Joseph Thérien",
+     "Ambroise Granger",
+     "Mère Sainte-Émérentienne",
+     "Trefflé Ouimet"
+    ],
+    "description": "En 1864, l'évêque donne aux Canadiens un lot à l'angle des rues Halsted et Congress, où ils bâtissent Notre-Dame ; le père Jacques Côté en est curé de 1864 à 1884. Le père Achille Bergeron, né près de Momence en 1855 et formé au collège Saint-Viateur de Bourbonnais, lui succède en 1884. Il vend l'ancienne église 30 000 dollars et bâtit à l'angle de la rue Sibley et de Vernon Park Place un couvent de 400 élèves, tenu par onze Sœurs de la Congrégation de Notre-Dame de Montréal (1885). Suivent un presbytère (1886) puis une église en rotonde octogonale de 2 000 places, commencée le 19 mars 1887 et coûtant 90 000 dollars. La paroisse vaut alors 150 000 dollars ; Paquin estime à 20 000 les Canadiens français de Chicago.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Notre-Dame ».",
+    "note": "Point placé à l'actuelle Notre-Dame de Chicago (Harrison et Ashland)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.647,
+     41.8752
+    ]
+   },
+   "properties": {
+    "id": "PQ93-05",
+    "nom": "Chicago : la Société Saint-Jean-Baptiste, fondée avec Louis Fréchette (1866)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1866.333,
+    "fin": 1893.999,
+    "date_edtf": "1866-05/1893",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Fréchette",
+     "Olivier Decelle",
+     "Cyrille Lebeau",
+     "Éphrem Watier",
+     "Noé L. Tranche",
+     "Michel Cyr"
+    ],
+    "description": "La Société Saint-Jean-Baptiste de Chicago est fondée en mai 1866 ; Louis Fréchette, alors exilé à Chicago où il compose La Voix d'un exilé, en rédige les règlements. Olivier Decelle en est le premier président. Incorporée le 24 mars 1871, elle compte environ 200 membres en 1893. Michel Cyr, né à Laprairie et arrivé en 1869, la préside pour la septième fois. Autour de Notre-Dame gravitent les cours Jacques-Cartier, Notre-Dame et La Salle des Forestiers catholiques.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Notre-Dame » et biographie de Michel Cyr.",
+    "note": "Point placé au premier emplacement de Notre-Dame (Halsted et Congress)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6475,
+     41.803
+    ]
+   },
+   "properties": {
+    "id": "PQ93-06",
+    "nom": "Chicago (Bridgeport puis 50e Court) : la paroisse Saint-Jean-Baptiste, refondée par le père Bélanger (1892)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1880.0,
+    "fin": 1893.999,
+    "date_edtf": "1880~/1893",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Michaud",
+     "Bélanger"
+    ],
+    "description": "Un prêtre canadien nommé Michaud dit d'abord la messe dans une salle de la rue Halsted, près de la 31e rue, à Bridgeport. Les biens de cette petite paroisse sont vendus en 1889. En 1892, un clerc de Saint-Viateur, le père Bélanger, la refonde à l'angle de la rue Peoria et de la 50e Court. Il avait dirigé pendant trente ans l'Institution des sourds-muets de Montréal. Au moment d'imprimer, les paroissiens fondent le Club Plessis de Chicago.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Saint-Jean-Baptiste ».",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.61,
+     41.688
+    ]
+   },
+   "properties": {
+    "id": "PQ93-07",
+    "nom": "Pullman : la paroisse canadienne Saint-Louis, des pères Ouimet et Bourassa (1887-1893)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1887.0,
+    "fin": 1893.999,
+    "date_edtf": "1887/1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Trefflé Ouimet",
+     "Jean-Baptiste-L. Bourassa",
+     "Pruneau",
+     "Wilfrid Major"
+    ],
+    "description": "En 1887, les familles canadiennes-françaises de Pullman, Kensington, Gano et Roseland sont assez nombreuses pour former une paroisse, confiée à l'abbé Trefflé Ouimet, peintre à ses heures, qui veut relever sur la 114e rue la vieille église Saint-Louis. Le 6 avril 1890 arrive le père Jean-Baptiste-L. Bourassa, né à Châteauguay en 1859. Il fait achever une église peinte à fresque par Pruneau, élève de Napoléon Bourassa, un presbytère et une école confiée aux Sœurs de la Congrégation de Notre-Dame. Les biens dépassent 30 000 dollars.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Saint-Louis de Pullman ».",
+    "note": "Position approximative sur la 114e rue."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.695,
+     41.819
+    ]
+   },
+   "properties": {
+    "id": "PQ93-08",
+    "nom": "Brighton Park (Chicago) : la paroisse Saint-Joseph et le Club Jacques-Cartier (1889-1893)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1889.833,
+    "fin": 1893.999,
+    "date_edtf": "1889-11/1893",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Lesage",
+     "Elzéar Bourget",
+     "Philippe Lesage"
+    ],
+    "description": "Les Canadiens de Brighton Park, qui ont contribué à l'annexion du quartier à Chicago, s'organisent en paroisse le premier dimanche de novembre 1889 sous le père J. Lesage, curé de Saint-George (Kankakee). Une chapelle provisoire sert dès Noël 1889. En 1891 viennent cinq Sœurs de Saint-Joseph de Concordia (Kansas), avec une école de 200 élèves. L'église de briques de 800 places, dédicacée en mai 1892, a coûté 32 000 dollars. La paroisse compte 250 familles, une cour Laval des Forestiers et le Club Jacques-Cartier, fort de 500 membres.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), chap. « Saint-Joseph de Brighton Park ».",
+    "note": "Point placé près des rues California et Joseph (à vérifier)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9345,
+     41.2565
+    ]
+   },
+   "properties": {
+    "id": "PQ93-09",
+    "nom": "De Détroit à Sacramento : Nectaire Rousseau, constructeur de lignes télégraphiques dans l'Ouest (1856-1865)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1856.0,
+    "fin": 1865.999,
+    "date_edtf": "1856/1865",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nectaire Rousseau",
+     "Stager"
+    ],
+    "description": "Né à Saint-Damase en 1838 et établi à Détroit avec sa famille en 1844, Nectaire Rousseau entre en 1856 à la Western Union Telegraph Company. Il participe en 1860-1861 à la construction de la première grande ligne télégraphique de l'Ouest, jusqu'à Sacramento. De retour à Omaha en décembre 1861, il est chargé par le général Stager de bâtir pendant la guerre de Sécession les lignes de Chicago à Omaha. Il se fixe ensuite à Chicago.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), biographie de Nectaire Rousseau.",
+    "note": "Point placé à Omaha, base de ses chantiers pendant la guerre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.631,
+     41.8789
+    ]
+   },
+   "properties": {
+    "id": "PQ93-10",
+    "nom": "Chicago et Bourbonnais : le docteur Gabriel Le Tourneux, ténor des églises Saint-Louis et Notre-Dame (1849)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1893.999,
+    "date_edtf": "1849/1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Le Tourneux"
+    ],
+    "description": "Né à Montréal en 1822, formé à Saint-Hyacinthe et à McGill, le docteur Gabriel Le Tourneux s'établit à Chicago en 1849. Avec sa famille, il inaugure la grande musique sacrée aux églises Saint-Louis et Notre-Dame, de sa voix de ténor. Il part ensuite servir les Canadiens de Bourbonnais Grove, à 55 milles de Chicago.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), biographie de G. Le Tourneux.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.66,
+     41.858
+    ]
+   },
+   "properties": {
+    "id": "PQ93-11",
+    "nom": "Chicago : la famille Franchère de l'avenue Blue Island, parente du voyageur d'Astoria (1849-1893)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1849.0,
+    "fin": 1893.999,
+    "date_edtf": "1849/1893",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "David Franchère",
+     "Gabriel Franchère",
+     "J. O. Franchère"
+    ],
+    "description": "David Franchère s'établit à Chicago en 1849. Son fils Gabriel, né en 1852 et portant le nom du voyageur qui raconta l'expédition d'Astoria (1810-1814), ouvre en 1876 un grand magasin de chaussures avenue Blue Island. J. O. Franchère, né à Montréal en 1850 et arrivé enfant, entre à douze ans chez Potter Palmer (futur Marshall Field) et devient l'un des grands commerçants du West Side. Les frères visitent l'Exposition universelle de Paris en 1889. La famille offre un vitrail à Notre-Dame.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), biographies Franchère.",
+    "note": "Point placé sur l'avenue Blue Island."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.647,
+     41.8752
+    ]
+   },
+   "properties": {
+    "id": "PQ93-12",
+    "nom": "Chicago : Joseph Chalifoux, marin montréalais devenu entrepreneur de pompes funèbres (1867-1893)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1893.999,
+    "date_edtf": "1867/1893",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Chalifoux",
+     "André Leclaire"
+    ],
+    "description": "Né à Montréal en 1841, menuisier puis marin pendant cinq ans, Joseph Chalifoux arrive à Chicago en 1867 avec 75 cents en poche. Il y devient entrepreneur de pompes funèbres et propriétaire d'une grande écurie de chevaux de louage. Avec André Leclaire, il offre le tableau des Épousailles de la nouvelle église Notre-Dame.",
+    "sources": "Paquin, Elzéar (1893), La colonie canadienne-française de Chicago, Chicago, Stromberg, Allen & Cie (éd. L.-É. Bastien), biographie de Joseph Chalifoux.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.7,
+     44.55
+    ]
+   },
+   "properties": {
+    "id": "DC13-01",
+    "nom": "Belle Fourche (Wyoming) : Sam Deon, traiteur montréalais, au camp d'hiver de Red Cloud (hiver 1862-1863)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1862.917,
+    "fin": 1863.083,
+    "date_edtf": "1862-12~/1863-02~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Peter Abraham « Sam » Deon",
+     "Red Cloud",
+     "Bega (Mary Highwolf)"
+    ],
+    "description": "Petit, sec et parlant plusieurs dialectes sioux, Peter Abraham « Sam » Deon a quitté Montréal une quinzaine d'années plus tôt. Arrivé à Saint-Louis par Boston et La Nouvelle-Orléans, il devient agent de l'American Fur Company et parcourt les postes du haut Missouri. Il épouse Bega, tante maternelle de Red Cloud, plus tard appelée Mary Highwolf. Après la guerre des Dakotas du Minnesota (1862), il part de Fort Laramie avec quatre chariots et quelque 4 500 kg de marchandises vers le camp d'hiver de Red Cloud, sur la Belle Fourche. Selon Drury et Clavin, le vieux chef lui racontera plus tard sa vie au coin du feu.",
+    "sources": "Drury, Bob et Tom Clavin (2015), Sur la terre des Sioux : l'histoire inédite de Red Cloud, trad. de The Heart of Everything That Is (2013), Paris, Albin Michel, chap. 3-4.",
+    "note": "Point placé sur la Belle Fourche, dans le nord-est du Wyoming ; emplacement du camp non précisé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.33,
+     45.53
+    ]
+   },
+   "properties": {
+    "id": "DC13-02",
+    "nom": "Little Bighorn : Frédéric Girard, interprète de Custer au Crow's Nest (25 juin 1876)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1876.482,
+    "fin": 1876.482,
+    "date_edtf": "1876-06-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Frédéric Girard (Gerard)",
+     "George A. Custer",
+     "Bloody Knife",
+     "Mitch Bouyer"
+    ],
+    "description": "Dans le récit de Farid Ameur, Frédéric Girard, négociant de longue date au Dakota, accompagne la colonne de Custer comme interprète des éclaireurs arikaras. Le matin du 25 juin 1876, il traduit pour Custer l'avertissement de Bloody Knife, selon qui il y aurait assez de Sioux pour les occuper deux ou trois jours ; Custer répond que ce sera l'affaire d'une journée. Michel (« Mitch ») Bouyer, fils d'un trappeur français et d'une Sioux, est l'un des éclaireurs de la colonne.",
+    "sources": "Ameur, Farid, Sitting Bull, Paris, Larousse (epub du Drive de l'auteur), chap. sur la marche vers la Little Bighorn.",
+    "note": "Point placé au Crow's Nest, dans les monts Wolf."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.4936,
+     29.4241
+    ]
+   },
+   "properties": {
+    "id": "HZ62-01",
+    "nom": "San Antonio : le savant belge Jean-Charles Houzeau fuit le Comité de vigilance confédéré (13-14 février 1862)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1857.0,
+    "fin": 1862.119,
+    "date_edtf": "1857/1862-02-14",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Charles Houzeau",
+     "H. Guilbeau",
+     "Alejandro Vidal"
+    ],
+    "description": "Établi au Texas depuis 1857, d'où il envoie des mémoires à l'Académie de Belgique et des correspondances sur l'esclavage, le géologue et astronome Jean-Charles Houzeau refuse de servir la Confédération. À San Antonio, il voit lyncher un homme acquitté devant la justice de paix. Il rapporte aussi qu'un émigrant alsacien a été assommé et pendu par des soldats, malgré les protestations énergiques de l'agent consulaire français H. Guilbeau. Averti le 13 février 1862 que le Comité de vigilance va venir chez lui, il se fait engager le lendemain comme charretier dans un convoi mexicain de balles de coton, parti de Calaveras.",
+    "sources": "Houzeau, Jean-Charles (1862), La terreur blanche au Texas et mon évasion, Bruxelles, chap. II-III.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.504,
+     25.8697
+    ]
+   },
+   "properties": {
+    "id": "HZ62-02",
+    "nom": "Matamoros : Houzeau arrive au Mexique après 35 jours de route en charretier (avril 1862)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1862.124,
+    "fin": 1862.28,
+    "date_edtf": "1862-02-16/1862-04-12",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Charles Houzeau"
+    ],
+    "description": "Conduisant six bœufs dans le convoi d'Alejandro Vidal, Houzeau descend vers Brownsville, croise des troupes confédérées qui l'interrogent et atteint Matamoros après trente-cinq journées de marche. Le 12 avril 1862, il y écrit ses lettres au journaliste Van Bemmel. Il y rapporte aussi que le planteur d'origine française Trasimon Landry, au Texas, espérait la réouverture de la traite. Houzeau dirigera plus tard le quotidien bilingue La Tribune de la Nouvelle-Orléans, puis l'Observatoire royal de Belgique.",
+    "sources": "Houzeau, Jean-Charles (1862), La terreur blanche au Texas et mon évasion, Bruxelles, chap. III et notice.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0719,
+     51.0447
+    ]
+   },
+   "properties": {
+    "id": "RT93-01",
+    "nom": "Calgary : le père Lacombe, « président du Pacifique canadien pendant une heure » (vers 1883)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1883.0,
+    "fin": 1883.999,
+    "date_edtf": "1883~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Albert Lacombe",
+     "George Stephen"
+    ],
+    "description": "Routhier ouvre son récit sur une anecdote : alors que le chemin de fer n'est pas encore en service dans la prairie, George Stephen invite le père Lacombe, missionnaire à Calgary, à dîner dans son wagon-salon. Les magnats du Canadien Pacifique le font président de la compagnie pour une heure, Stephen cédant de bonne grâce sa place. Le lendemain, ils le déposent à 40 milles de Calgary, en pleine prairie, où l'appelle son ministère. C'est à Lacombe et à la compagnie que Routhier dédie le livre de l'excursion de 1892.",
+    "sources": "Routhier, Adolphe-Basile (1893), De Québec à Victoria, Québec, L.-J. Demers & Frère, chap. I.",
+    "note": "Date approximative : arrivée du chemin de fer à Calgary (1883)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1384,
+     49.8951
+    ]
+   },
+   "properties": {
+    "id": "RT93-02",
+    "nom": "Manitoba : les paroisses françaises et la « grande faute » des Canadiens français (1892)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1892.0,
+    "fin": 1892.999,
+    "date_edtf": "1892",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "À Winnipeg, Routhier énumère les centres peuplés de Français, de Belges, de Canadiens français et de Métis : Saint-Norbert, Saint-Léon, Saint-Alphonse, Saint-Laurent, Lourdes, Sainte-Anne, le Lac des Chênes, Saint-Malo, la Grande-Clairière. Il note que quelque 20 000 colons sont arrivés au Manitoba en 1892 et que le Canadien Pacifique y a vendu 890 000 acres, mais que les Canadiens français ne comptent presque pas dans ce flot. Il reproche aux Québécois de n'avoir pas organisé leur émigration vers l'Ouest dix ans plus tôt.",
+    "sources": "Routhier, Adolphe-Basile (1893), De Québec à Victoria, Québec, L.-J. Demers & Frère, chap. IX.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.222,
+     52.815
+    ]
+   },
+   "properties": {
+    "id": "RT93-03",
+    "nom": "Duck Lake : à la gare, les gens du pays racontent Batoche (21 mai 1892)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1892.388,
+    "fin": 1892.388,
+    "date_edtf": "1892-05-21",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "En route vers Prince-Albert, le train des évêques s'arrête une demi-heure à Duck Lake, à 8 ou 10 milles de Batoche. Routhier interroge les habitants venus saluer les évêques sur la rébellion de 1885. Leurs récits sont si tristes qu'il préfère ne pas les reproduire : s'ils sont vrais, écrit-il, le soleil de Batoche n'a pas été celui d'Austerlitz.",
+    "sources": "Routhier, Adolphe-Basile (1893), De Québec à Victoria, Québec, L.-J. Demers & Frère, chap. X.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.7531,
+     53.2033
+    ]
+   },
+   "properties": {
+    "id": "RT93-04",
+    "nom": "Prince-Albert : bénédiction de la pierre angulaire de la cathédrale par Mgr Pascal et Mgr Taché (22 mai 1892)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1892.391,
+    "fin": 1892.391,
+    "date_edtf": "1892-05-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Albert Pascal",
+     "Alexandre-Antonin Taché",
+     "Albert Lacombe"
+    ],
+    "description": "Le dimanche 22 mai 1892, à Prince-Albert, l'excursion épiscopale assiste à la messe au couvent puis à la bénédiction de la pierre angulaire de la cathédrale, avec des discours de Mgr Pascal et de Mgr Taché.",
+    "sources": "Routhier, Adolphe-Basile (1893), De Québec à Victoria, Québec, L.-J. Demers & Frère, chap. XI.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0719,
+     51.0447
+    ]
+   },
+   "properties": {
+    "id": "RT93-05",
+    "nom": "Calgary : l'excursion épiscopale reçue chez le juge Rouleau (25-26 mai 1892)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1892.399,
+    "fin": 1892.402,
+    "date_edtf": "1892-05-25/1892-05-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles-Borromée Rouleau",
+     "Albert Lacombe",
+     "Alexandre-Antonin Taché",
+     "Brondel"
+    ],
+    "description": "Arrivée à Calgary à deux heures du matin la veille de l'Ascension (25 mai 1892), l'excursion y passe deux jours. Les évêques sont reçus chez le juge Rouleau ; banquet et discours réunissent le père Lacombe, Mgr Taché et les magnats du Pacifique. Le soir, Mgr Brondel, évêque d'Helena, prêche pour le mois de Marie.",
+    "sources": "Routhier, Adolphe-Basile (1893), De Québec à Victoria, Québec, L.-J. Demers & Frère, chap. XV.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.625,
+     53.6305
+    ]
+   },
+   "properties": {
+    "id": "RT93-06",
+    "nom": "Hobbema, Edmonton et Saint-Albert : les Cris, les Métis et Mgr Taché (27-28 mai 1892)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1892.405,
+    "fin": 1892.407,
+    "date_edtf": "1892-05-27/1892-05-28",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre-Antonin Taché",
+     "Albert Lacombe",
+     "Vital-Justin Grandin"
+    ],
+    "description": "Sur la ligne d'Edmonton, l'excursion rencontre des Cris à Hobbema, qui prononcent des discours. À la gare d'Edmonton, Mgr Taché répond aux adresses et rappelle les jours d'antan à « ses chers Métis ». Le 28 mai, sous la pluie et la grêle, les excursionnistes se rendent à Saint-Albert, siège épiscopal à neuf milles au nord-ouest d'Edmonton. Routhier y recueille ensuite les récits du père Lacombe sur les Cris et les Pieds-Noirs : la petite vérole, le chef cri Wikaskokiseyin (Foin-de-Senteur), signataire des traités.",
+    "sources": "Routhier, Adolphe-Basile (1893), De Québec à Victoria, Québec, L.-J. Demers & Frère, chap. XVI-XX.",
+    "note": "Point placé à Saint-Albert."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.155,
+     41.7015
+    ]
+   },
+   "properties": {
+    "id": "BG78-01",
+    "nom": "Fall River : l'incendie de la filature Granite et ses victimes canadiennes-françaises (19 septembre 1874)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1874.716,
+    "fin": 1874.716,
+    "date_edtf": "1874-09-19",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Noé Poitras",
+     "Victorine Beaunoyer",
+     "Marie Lasonde",
+     "A. de Montaubricq",
+     "Honoré Beaugrand"
+    ],
+    "description": "Beaugrand reproduit le compte rendu d'un journal de Fall River sur l'incendie de la filature Granite. La plupart des victimes sont des femmes et des enfants ; les corps sont déposés à la chapelle de la mission de la rue Pleasant. Le curé de l'église canadienne-française, l'abbé A. de Montaubricq, et les médecins canadiens se portent au secours des blessés. Trois enfants canadiens-français périssent : Noé Poitras, tué en sautant d'une fenêtre, Victorine Beaunoyer et Marie Lasonde, brûlées vives. Cinq autres sont blessés en sautant sur les draps tendus et les matelas.",
+    "sources": "Beaugrand, Honoré (1878), Jeanne la fileuse : épisode de l'émigration franco-canadienne aux États-Unis, Fall River (éd. Wikisource), deuxième partie.",
+    "note": "Beaugrand insère parmi les blessés son héroïne fictive, Jeanne Girard ; les autres noms viennent de la liste officielle publiée par la presse. Date de l'incendie d'après les sources sur la filature Granite n° 1."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4529,
+     44.6995
+    ]
+   },
+   "properties": {
+    "id": "BG78-02",
+    "nom": "Frontière de l'État de New York : les colonies canadiennes du lac Champlain et du Saint-Laurent (vers 1855)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1840.0,
+    "fin": 1859.999,
+    "date_edtf": "1840~/1859",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Mignault",
+     "Rameau de Saint-Père"
+    ],
+    "description": "En note, Beaugrand cite Rameau de Saint-Père : vers 1840, le commerce du bois attire les Canadiens vers Rouses Point, Burlington, Plattsburgh, Port Henry et Whitehall. D'après l'abbé Mignault, missionnaire de ces postes depuis 42 ans, on compte 800 familles canadiennes à Champlain et Corbeau, autant à Plattsburgh et Keeseville, 1 000 à 1 200 âmes à Morristown, Port Henry et Ticonderoga, et 500 familles à Ogdensburg. La population est estimée à 6 000 âmes sur la rive du Saint-Laurent, et à 800 ou 900 au cap Vincent et à Rosière, sur le lac Ontario. Mignault assure que ces Canadiens y gardent leur langue et leur foi.",
+    "sources": "Beaugrand, Honoré (1878), Jeanne la fileuse : épisode de l'émigration franco-canadienne aux États-Unis, Fall River (éd. Wikisource), notes de la deuxième partie.",
+    "note": "Point placé à Plattsburgh."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.155,
+     41.7015
+    ]
+   },
+   "properties": {
+    "id": "BG78-03",
+    "nom": "Fall River : Beaugrand y publie L'Écho du Canada et son roman de l'émigration (1874-1878)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1874.0,
+    "fin": 1878.205,
+    "date_edtf": "1874/1878-03-15",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Honoré Beaugrand"
+    ],
+    "description": "Beaugrand écrit Jeanne la fileuse au jour le jour, en feuilleton, à Fall River, et en signe la préface le 15 mars 1878. Il se plaint d'avoir dû confier l'impression à des typographes américains qui ne savaient pas un mot de français. Le roman veut répondre aux détracteurs des émigrés : les familles partent de Lavaltrie et de Contrecœur et arrivent en un jour, par chemin de fer, aux logements des filatures Granite. Une note reproduit l'appel du 17 mars 1874 en vue d'une grande fête nationale à Montréal, paru notamment dans L'Écho du Canada du 4 avril 1874.",
+    "sources": "Beaugrand, Honoré (1878), Jeanne la fileuse : épisode de l'émigration franco-canadienne aux États-Unis, Fall River (éd. Wikisource), préface et notes.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
