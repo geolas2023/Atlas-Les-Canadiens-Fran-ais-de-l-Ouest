@@ -722,6 +722,7 @@ LIVRES = [
     ('mi_upper_peninsula_1883.txt', 'KV', {'court': 'History of the Upper Peninsula of Michigan (1883)', 'ref': "History of the Upper Peninsula of Michigan, 1883"}, 'arg9598.0001.001.umich.edu', lambda nom, ref: ref),
     ('mi_berrien_1880.txt', 'KW', {'court': 'History of Berrien and Van Buren Counties (1880)', 'ref': "History of Berrien and Van Buren Counties, Michigan, 1880"}, 'historyofberrien00ensi', lambda nom, ref: ref),
     ('mi_kent_county_1881.txt', 'KX', {'court': 'History of Kent County (1881)', 'ref': "History of Kent County, Michigan, 1881"}, 'historyofkentcou00lees', lambda nom, ref: ref),
+    ('mi_mphc_v10_1888.txt', 'KY', {'court': 'Michigan Pioneer and Historical Collections, vol. X (1888)', 'ref': "Michigan Pioneer and Historical Collections, vol. X (Haldimand Papers), Lansing, Thorp & Godfrey, 1888"}, 'michiganhistoric10michuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
