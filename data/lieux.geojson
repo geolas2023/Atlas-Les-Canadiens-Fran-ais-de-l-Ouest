@@ -1128173,6 +1128173,59 @@
     "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, ch. III et VI.",
     "note": "Point au centre historique actuel de Sainte-Geneviève."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0623,
+     38.6604
+    ]
+   },
+   "properties": {
+    "id": "FW97-01",
+    "nom": "Monticule des Moines (Cahokia) : la chapelle française et le « mont de l'Abbé »",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1690.0,
+    "fin": 1752.999,
+    "date_edtf": "1690~/1752~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [],
+    "description": "Les premiers explorateurs français, Marquette et Jolliet compris, ne signalent pas les tertres de Cahokia, à l'écart des routes du fleuve et du chemin de Cahokia à Kaskaskia. Mais des colons français élèvent plus tard une chapelle à l'angle sud-ouest du grand tertre et un poste de traite à proximité : le monticule porte pour cette raison le nom de « L'Abbé » bien avant l'arrivée des trappistes. L'étude des collections des musées a permis d'établir pour la première fois la présence d'une mission française sur le site dès la fin du XVIIe siècle.",
+    "sources": "Fowler, Melvin L. (1997), The Cahokia Atlas: A Historical Atlas of Cahokia Archaeology, éd. révisée, Studies in Illinois Archaeology n° 6, Springfield, Illinois Historic Preservation Agency, ch. 1-2 et fig. 5.12.",
+    "note": "Dates approximatives : Fowler parle d'une mission du XVIIe siècle et d'une chapelle du XVIIIe (Walthall et Benchley 1987). Point au monticule des Moines (Monks Mound)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.064,
+     38.6595
+    ]
+   },
+   "properties": {
+    "id": "FW97-02",
+    "nom": "Monticule des Moines : le monastère des trappistes de Cahokia (1809-1813)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1809.25,
+    "fin": 1813.999,
+    "date_edtf": "1809-04/1813",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Jarrot",
+     "Henry Marie Brackenridge"
+    ],
+    "description": "En avril 1809, une petite communauté de trappistes français s'établit sur quelque 400 acres cédés par le major Nicolas Jarrot, de Cahokia, dont la terre englobe le grand tertre. Ils bâtissent des cabanes de rondins sur un tertre voisin, font un potager sur la terrasse du grand monticule et sèment du blé à son sommet ; Brackenridge, qui les visite en 1811, s'offusque de leur silence. Le climat paludéen et d'autres causes font échouer l'entreprise ; selon Snyder, les survivants vendent la terre et rentrent en France. Le grand tertre garde depuis le nom de monticule des Moines, et les archéologues ont appelé « Trappist » la couche d'occupation la plus récente du site.",
+    "sources": "Fowler, Melvin L. (1997), The Cahokia Atlas: A Historical Atlas of Cahokia Archaeology, éd. révisée, Studies in Illinois Archaeology n° 6, Springfield, Illinois Historic Preservation Agency, ch. 2.",
+    "note": "Snyder (1917), cité par Fowler, date la vente de mars 1819 ; la plupart des historiens placent le départ des trappistes vers 1813. Point au tertre voisin du grand monticule."
+   }
   }
  ]
 }
