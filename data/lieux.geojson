@@ -118378,6 +118378,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -83.0458,
+     42.3314
+    ]
+   },
+   "properties": {
+    "id": "VO03-07",
+    "nom": "Détroit : Volney rejoint le général Wayne et le grand conseil des Indiens (automne 1796)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1796.667,
+    "fin": 1796.75,
+    "date_edtf": "1796-09~/1796-10~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Constantin-François Volney",
+     "Anthony Wayne",
+     "William Wells"
+    ],
+    "description": "Revenu de Vincennes par Louisville, Lexington et Cincinnati, Volney suit avec un convoi d'argent la route militaire que l'armée de Wayne vient d'ouvrir à travers cent lieues de forêt, jalonnée de cinq forts palissadés, jusqu'au fort de Détroit, où le général tient un grand conseil avec plus de sept cents Indiens. Il espère y étudier leurs langues avec l'interprète William Wells, captif adopté à treize ans par les Miamis, mais les fièvres l'obligent à repasser le lac Érié avant l'hiver.",
+    "sources": "Volney, Constantin-François (1803), Tableau du climat et du sol des États-Unis d'Amérique, Paris (éd. Œuvres, t. IV, Project Gutenberg), art. V.",
+    "note": "Point au fort de Détroit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.1652,
+     39.9526
+    ]
+   },
+   "properties": {
+    "id": "VO03-08",
+    "nom": "Philadelphie : Volney et Michikinakoua (Petite-Tortue), chef de guerre miami (janvier-février 1798)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1798.0,
+    "fin": 1798.083,
+    "date_edtf": "1798-01/1798-02",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Constantin-François Volney",
+     "Michikinakoua (Little Turtle)",
+     "William Wells"
+    ],
+    "description": "Au cours de l'hiver 1797-1798, le chef de guerre miami Michikinakoua, la Petite-Tortue, vainqueur de Saint-Clair en 1791, vient à Philadelphie avec William Wells demander au Congrès et aux quakers les moyens de faire passer sa nation à l'agriculture. En neuf ou dix séances, en janvier et février 1798, Volney dresse avec eux un vocabulaire de la langue miami, parlée selon Wells par toutes les nations de la Wabash jusqu'au lac Michigan (Ouyas, Peorias, Piankashaws, Kaskaskias), et note que sa qualité de Français diminue la méfiance du chef.",
+    "sources": "Volney, Constantin-François (1803), Tableau du climat et du sol des États-Unis d'Amérique, Paris (éd. Œuvres, t. IV, Project Gutenberg), art. V et vocabulaire.",
+    "note": "Point à Philadelphie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -82.2022,
      38.8098
     ]
