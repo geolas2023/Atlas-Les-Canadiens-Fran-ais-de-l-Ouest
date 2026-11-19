@@ -754,6 +754,7 @@ LIVRES = [
     ('il_mason_kaskaskia_1881.txt','NK',{'court':'Mason, Illinois in the Eighteenth Century (1881)','ref':"Edward G. Mason, Illinois in the Eighteenth Century: Kaskaskia and its Parish Records; Old Fort Chartres; and Col. John Todd's Record-Book, Chicago, Fergus Printing Company, 1881"},'illinoisineighte00maso', lambda nom, ref: ref),
     ('il_cahokia_census_1787.txt','NL',{'court':'Alvord, Cahokia Records 1778-1790 (1907)','ref':"Clarence Walworth Alvord (éd.), Cahokia Records, 1778-1790 (Collections of the Illinois State Historical Library, vol. II), Springfield, Illinois State Historical Library, 1907"},'cahokiarecords1700illirich', lambda nom, ref: ref),
     ('il_kaskaskia_census_1787.txt','NN',{'court':'Alvord, Kaskaskia Records 1778-1790 (1909)','ref':"Clarence Walworth Alvord (éd.), Kaskaskia Records, 1778-1790 (Collections of the Illinois State Historical Library, vol. V, Virginia Series, vol. II), Springfield, Illinois State Historical Library, 1909"},'kaskaskiarecords05alvo', lambda nom, ref: ref),
+    ('il_will_maue_1928.txt','NO',{'court':'Maue, History of Will County, vol. I (1928)','ref':"August Maue, History of Will County, Illinois, vol. I, Topeka et Indianapolis, Historical Publishing Company, 1928"},'historyofwillcou01maue', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
