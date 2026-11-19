@@ -1153294,6 +1153294,2347 @@
      }
     ]
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "FMV65-01",
+    "nom": "Saint-Louis : Pierre Tousignan bâtit une maison poteaux en terre pour un chirurgien (23 avril 1768)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1768.31,
+    "fin": 1768.31,
+    "date_edtf": "1768-04-23",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Tousignan"
+    ],
+    "description": "Par un contrat passé à Saint-Louis le 23 avril 1768, Peter (Pierre) Tousignan s'engage à construire une maison « poteaux en terre » pour le chirurgien Jean B. ; Peterson s'appuie sur ces marchés notariés pour décrire la maison française du village : poteaux plantés ou posés sur sole, bousillage ou pierrotage, galerie et toit couvert de bardeaux.",
+    "sources": "Peterson, Charles E., « The Houses of French St. Louis », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position au cœur du village colonial."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1875,
+     38.6265
+    ]
+   },
+   "properties": {
+    "id": "FMV65-02",
+    "nom": "Saint-Louis : la maison de Julien Le Roy vendue à Antoine Hubert (14 octobre 1768)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1768.786,
+    "fin": 1768.786,
+    "date_edtf": "1768-10-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Julien Le Roy",
+     "Antoine Hubert"
+    ],
+    "description": "La maison de Julien Le Roy, sur la Grande Rue Royale, vendue le 14 octobre 1768 au négociant Antoine Hubert, est la première maison de Saint-Louis mentionnée dans les archives.",
+    "sources": "Peterson, Charles E., « The Houses of French St. Louis », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position approximative sur la Grande Rue (rue Main)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1878,
+     38.6262
+    ]
+   },
+   "properties": {
+    "id": "FMV65-03",
+    "nom": "Saint-Louis : les maisons de pierre de Labrosse, Labuscière, Clamorgan-Chouteau et Papin-Gratiot (1767-1796)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1767.0,
+    "fin": 1796.999,
+    "date_edtf": "1767/1796",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Labrosse",
+     "Jean-Marie Pepin",
+     "Hipolite Bolon",
+     "Jacques Clamorgan",
+     "Labuscière",
+     "Auguste Chouteau",
+     "Papin",
+     "Charles Gratiot"
+    ],
+    "description": "Les maisons de pierre apparaissent tôt à Saint-Louis : celle de Joseph Labrosse, bâtie en 1767 par l'irascible Jean-Marie Pepin, maître maçon, et celle de l'interprète Hipolite Bolon, bâtie par Jacques Clamorgan. La maison de Labuscière (avant 1772) mesure soixante-six pieds de long, la maison Clamorgan-Chouteau (vers 1785) quarante-cinq pieds sur soixante-cinq, et la maison Papin-Gratiot (vers 1796) trente-six sur cinquante-deux.",
+    "sources": "Peterson, Charles E., « The Houses of French St. Louis », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position approximative dans le village colonial."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.92,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "FMV65-04",
+    "nom": "Kaskaskia : maisons « sur solle » de Mathurin Charante et presbytère de Charles Rogue (1725-1731)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1725.0,
+    "fin": 1731.999,
+    "date_edtf": "1725/1731",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Mathurin Charante",
+     "Charles Rogue"
+    ],
+    "description": "Les maisons à colombages apparaissent tôt dans les actes du pays des Illinois : en 1725, Mathurin Charante s'engage à bâtir à Kaskaskia deux maisons « sur solle » pour le lieutenant Mélique, aux poteaux de cinq pouces sur sept ; six ans plus tard, Charles Rogue construit le presbytère sur solle, aux poteaux de sept pouces. Le premier logement du commandant au fort de Chartres (1727) est une grande maison double de trente pieds sur cinquante-cinq, à charpente de noyer bousillée.",
+    "sources": "Peterson, Charles E., « The Houses of French St. Louis », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à l'ancien Kaskaskia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.15,
+     38.1
+    ]
+   },
+   "properties": {
+    "id": "FMV65-05",
+    "nom": "Concession de Philippe Renault, au-dessus du fort de Chartres : la première maison de pierre des Illinois (vers 1722-1723)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1722.0,
+    "fin": 1723.999,
+    "date_edtf": "1722/1723",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Philippe Renault"
+    ],
+    "description": "Les maisons de maçonnerie commencent tôt au pays des Illinois : vers 1722-1723, l'exploitant de mines de plomb Philippe Renault fait construire une maison de pierre sur sa concession, au-dessus du fort de Chartres. À Kaskaskia, une génération avant la fondation de Saint-Louis, la maison de Louis Turpin compte trois étages.",
+    "sources": "Peterson, Charles E., « The Houses of French St. Louis », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position hypothétique de la concession Renault (Saint-Philippe)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.14,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "FMV65-06",
+    "nom": "Prairie du Chien : une ordonnance contre les toits de chaume (1822)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1822.0,
+    "fin": 1822.999,
+    "date_edtf": "1822",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Les toits de chaume des maisons françaises restent en usage à Prairie du Chien jusqu'en 1822, quand une ordonnance les interdit.",
+    "sources": "Peterson, Charles E., « The Houses of French St. Louis », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Prairie du Chien."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.63
+    ]
+   },
+   "properties": {
+    "id": "FMV65-07",
+    "nom": "Saint-Louis : Michel Desravines Tesson, rescapé de Saint-Domingue (1789-1829)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1811.0,
+    "fin": 1829.999,
+    "date_edtf": "1811/1829",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Desravines Tesson"
+    ],
+    "description": "Né au Cap-Français en 1789, Michel Desravines Tesson perd sa famille dans l'insurrection des esclaves : sa sœur, Mme Moulter, est tuée après avoir vu mourir son mari et son enfant, et lui-même est caché trois jours par un esclave fidèle. Réfugié aux États-Unis, il épouse en 1811 à Saint-Louis une jeune femme de dix-huit ans, elle aussi venue de Saint-Domingue. En 1829, il va en France voir sa famille ; une lettre de son oncle, le comte d'Asselin, datée d'Agen (4 avril 1829), est conservée.",
+    "sources": "Holland, Dorothy Garesché, « St. Louis Families from the French West Indies », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.192,
+     38.628
+    ]
+   },
+   "properties": {
+    "id": "FMV65-08",
+    "nom": "Saint-Louis : les familles venues de Saint-Domingue et de la Guadeloupe (1796-1849)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1796.0,
+    "fin": 1849.999,
+    "date_edtf": "1796/1849",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Barousel",
+     "Étienne Nidelet",
+     "Jean-Pierre Garesché",
+     "Vital Garesché",
+     "Jules de Mun"
+    ],
+    "description": "Chassés par l'insurrection de 1791, de nombreux Français de Saint-Domingue passent par Philadelphie, où ils sont 25 000 en 1794 selon Moreau de Saint-Méry, avant que certains gagnent Saint-Louis. Le premier est François Barousel, présent en 1796 et mort à Sainte-Geneviève. Étienne (Stephen) Nidelet, né à Port-de-Paix en 1789, est emmené enfant à Philadelphie ; sa mère, la comtesse de Nidelet, passe par Cuba et La Nouvelle-Orléans (1809). Les frères Jean-Pierre et Vital Garesché, nés près de Port-au-Prince et réfugiés à La Rochelle en 1791, s'occupent à Philadelphie du courrier de Jules de Mun. Une seconde vague arrive de la Guadeloupe dans les années 1840 : en 1849, ces familles forment à Saint-Louis une petite colonie. Selon Scharf, ces planteurs « améliorèrent et raffinèrent » la population française de la ville.",
+    "sources": "Holland, Dorothy Garesché, « St. Louis Families from the French West Indies », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.83,
+     38.03
+    ]
+   },
+   "properties": {
+    "id": "FMV65-09",
+    "nom": "Old Mines : le poète Pierre-François Regnier, gérant d'une mine de plomb (1811-1812)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1811.743,
+    "fin": 1812.616,
+    "date_edtf": "1811-09-29/1812-08-13",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-François Regnier"
+    ],
+    "description": "Né en France, instruit et sans doute ancien officier, Pierre-François Regnier a épousé Félicité à Saint-Domingue le 27 juillet 1802. En 1811-1812, il est associé ou gérant à Old Mines, d'où il envoie à Craighead, de la mine Shibboleth, des lettres et des poèmes en français (« À ma femme créole de St Domingue », 27 décembre 1811). C'est l'un des premiers poètes de la Haute-Louisiane.",
+    "sources": "Guenther, Charles, « An Early St. Louis Poet: Pierre François Regnier », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Old Mines (Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "FMV65-10",
+    "nom": "Saint-Louis : l'école française de Francis Regnier (1817-1821)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1817.083,
+    "fin": 1821.836,
+    "date_edtf": "1817-02-01/1821-11-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-François Regnier"
+    ],
+    "description": "Le 1er février 1817, la Missouri Gazette publie l'assignation de « François Regnier » devant la cour de circuit de Jackson pour le divorce demandé par sa femme. En septembre 1821, des annonces bilingues de la même gazette apprennent que « Francis Regnier » continue d'enseigner la lecture, l'écriture et l'arithmétique à Saint-Louis et ouvre des cours de grec, de latin, de français et de tenue de livres ; il a fondé une école mixte de jour. On perd sa trace après le 2 novembre 1821.",
+    "sources": "Guenther, Charles, « An Early St. Louis Poet: Pierre François Regnier », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554,
+     45.508
+    ]
+   },
+   "properties": {
+    "id": "FMV65-11",
+    "nom": "Montréal : départ de l'abbé Pierre Gibault pour les Illinois (juin 1768)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1768.216,
+    "fin": 1768.433,
+    "date_edtf": "1768-03-19/1768-06-07",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gibault",
+     "Joseph-Olivier Briand",
+     "Guy Carleton"
+    ],
+    "description": "Né à Montréal le 7 avril 1737, fils aîné d'un Canadien pauvre et itinérant, Pierre Gibault est ordonné par Mgr Briand le 19 mars 1768. Muni des instructions de l'évêque et d'un permis du lieutenant-gouverneur Guy Carleton, il quitte Montréal après le 7 juin 1768 pour le pays des Illinois, qu'il dessert pendant les dix années critiques sans gouvernement civil (1768-1778). Le 24 juin 1770, il bénit à Saint-Louis une nouvelle église de bois.",
+    "sources": "Donnelly, Joseph P., « Pierre Gibault and the Critical Period of the Illinois Country, 1768-78 », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Montréal."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.53,
+     38.68
+    ]
+   },
+   "properties": {
+    "id": "FMV65-12",
+    "nom": "Vincennes : le laïc Philibert garde la paroisse après l'expulsion du jésuite De Vernay (1763)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1763.0,
+    "fin": 1768.999,
+    "date_edtf": "1763/1768",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Philibert",
+     "Julien de Vernay",
+     "Jacques-François Forget du Verger",
+     "Sébastien Meurin"
+    ],
+    "description": "En 1763, la suppression des jésuites vide le pays des Illinois de ses prêtres : à Cahokia, le curé Forget du Verger, des Missions étrangères, vend les biens ecclésiastiques en signe de protestation et part ; à Vincennes, d'où le jésuite Julien de Vernay est expulsé, un pieux laïc nommé Philibert prend la charge de la paroisse et décrit la situation à Mgr Briand. Le père Meurin reste seul prêtre de la vallée jusqu'en 1768.",
+    "sources": "Donnelly, Joseph P., « Pierre Gibault and the Critical Period of the Illinois Country, 1768-78 », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Vincennes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.53,
+     36.59
+    ]
+   },
+   "properties": {
+    "id": "FMV65-13",
+    "nom": "Nouvelle-Madrid : mort de l'abbé Gibault (16 août 1802)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1802.624,
+    "fin": 1802.624,
+    "date_edtf": "1802-08-16",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gibault"
+    ],
+    "description": "Pierre Gibault meurt pieusement à la Nouvelle-Madrid, sur la rive espagnole, vers sept heures du matin le 16 août 1802. Pour Donnelly, son véritable apport au pays des Illinois était acquis avant sa rencontre avec George Rogers Clark à Kaskaskia le 4 juillet 1778 : il avait servi de pouvoir moral pendant dix ans d'absence de gouvernement civil.",
+    "sources": "Donnelly, Joseph P., « Pierre Gibault and the Critical Period of the Illinois Country, 1768-78 », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à New Madrid (Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.21,
+     30.42
+    ]
+   },
+   "properties": {
+    "id": "FMV65-14",
+    "nom": "Pensacola et La Nouvelle-Orléans : Gilberto Guillemard, ingénieur lorrain au service de l'Espagne (1787-1805)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1787.0,
+    "fin": 1805.999,
+    "date_edtf": "1787/1805",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gilberto Guillemard",
+     "Bernardo de Gálvez"
+    ],
+    "description": "Né à Longwy, en Lorraine, le 27 septembre 1746, Gilberto (Gilbert) Guillemard sert comme cadet puis officier dans l'armée espagnole de Louisiane ; il prend part aux campagnes de Gálvez (1779). Ingénieur, il dessine en 1787 les fortifications du port de Pensacola et la batterie de San Carlos, en 1792 les fortifications projetées de La Nouvelle-Orléans, et en 1797 il met en défense le poste de Nogales (Vicksburg). Holmes conclut qu'il a prouvé « qu'un Français pouvait faire un très bon Espagnol ».",
+    "sources": "Holmes, Jack D. L., « Some French Engineers in Spanish Louisiana », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Pensacola."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.21,
+     30.41
+    ]
+   },
+   "properties": {
+    "id": "FMV65-15",
+    "nom": "Pensacola : Nicolas de Finiels, ingénieur et cartographe français au service de l'Espagne (1797-1818)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1818.407,
+    "date_edtf": "1797/1818-05-28",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicolas de Finiels",
+     "Marqués de Casa-Calvo"
+    ],
+    "description": "Ingénieur français passé au service de l'Espagne, Nicolas de Finiels dresse vers 1798 des plans de La Nouvelle-Orléans et de Baton Rouge. En 1805, le marquis de Casa-Calvo le choisit pour l'exploration du sud-ouest de la Louisiane et de l'est du Texas, dont il fait d'excellentes cartes, jointes à son plaidoyer de 1810 pour que l'Espagne garde la Floride et reprenne la Louisiane. Affecté à Pensacola, réduit à la misère (il réclame en 1813 quatre rations de pain pour sa famille), il est blessé en défendant la place contre Andrew Jackson en 1818, puis passe à La Havane.",
+    "sources": "Holmes, Jack D. L., « Some French Engineers in Spanish Louisiana », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Pensacola."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.625
+    ]
+   },
+   "properties": {
+    "id": "FMV65-16",
+    "nom": "Saint-Louis : Pierre Borel, ingénieur volontaire du fort San Luis de Illinois (1767-1769, 1781)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1767.0,
+    "fin": 1781.999,
+    "date_edtf": "1767/1781",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Borel"
+    ],
+    "description": "Cadet dans l'armée française en 1753, Pierre Borel entre au service de l'Espagne comme lieutenant en 1769. Ingénieur volontaire, il travaille à la construction du fort San Luis de Illinois, à Saint-Louis, de 1767 à 1769 ; il se distingue au siège de Baton Rouge, puis commande en 1781 les renforts envoyés aux Illinois, attaqués par les Chicachas de Colbert qu'il repousse. Il meurt lieutenant-colonel le 11 janvier 1804.",
+    "sources": "Holmes, Jack D. L., « Some French Engineers in Spanish Louisiana », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.61,
+     29.47
+    ]
+   },
+   "properties": {
+    "id": "FMV65-17",
+    "nom": "Plaquemines : Pierre-Joseph Favrot, officier créole et auteur d'un manuel d'arithmétique (1796)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1796.999,
+    "date_edtf": "1778/1796",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Joseph Favrot"
+    ],
+    "description": "Né à La Nouvelle-Orléans en 1749 d'une famille française distinguée, Favrot vit en France jusqu'à la mort de son père en 1777. Revenu comme capitaine au régiment de Louisiane (1778), il commande Baton Rouge puis, par intérim, Mobile (1783-1787). Commandant des fortifications de San Felipe de Plaquemines et du fort Bourbon en 1796, il y rédige un manuel d'arithmétique par questions et réponses et un abrégé des sciences.",
+    "sources": "Holmes, Jack D. L., « Some French Engineers in Spanish Louisiana », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position au fort San Felipe (Plaquemines)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.07,
+     29.96
+    ]
+   },
+   "properties": {
+    "id": "FMV65-18",
+    "nom": "La Nouvelle-Orléans : Victor Collot arrêté par les Espagnols au terme de son voyage (octobre 1796)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1796.75,
+    "fin": 1796.75,
+    "date_edtf": "1796-10",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Collot",
+     "Joseph Warin",
+     "Louis Lorimier"
+    ],
+    "description": "Né vers 1751, ancien de Rochambeau, gouverneur de la Guadeloupe en 1793-1794, le général Victor Collot descend l'Ohio et le Mississippi en 1796 pour le compte de l'ambassadeur Adet. Les Espagnols, méfiants, le font suivre ; Louis Lorimier lui apprend une menace d'invasion britannique par les Grands Lacs. Arrivé à La Nouvelle-Orléans, il est arrêté en octobre 1796 ; son compagnon Warin meurt de la fièvre jaune. Selon Gayoso, son passage a agité les Créoles de la basse Louisiane.",
+    "sources": "Holmes, Jack D. L., « Some French Engineers in Spanish Louisiana », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à La Nouvelle-Orléans."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.5,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "FMV65-19",
+    "nom": "Rivière Ohio : le botaniste Piquet, compagnon de Saugrain, noyé en fuyant les Indiens (printemps 1788)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1788.216,
+    "fin": 1788.361,
+    "date_edtf": "1788-03-19/1788-05-11",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine-François Saugrain",
+     "Piquet",
+     "Raguet"
+    ],
+    "description": "En 1787, deux jeunes Parisiens, Piquet, « botaniste », et Raguet, accompagnent le docteur Antoine-François Saugrain en Amérique pour explorer l'Ohio et le Kentucky, munis d'une lettre pour Benjamin Franklin. Au début du voyage (19 mars - 11 mai 1788), Piquet, blessé par des Indiens, se noie en tentant de leur échapper. Saugrain s'établira à Saint-Louis, où il travaillera seul jusqu'à sa mort en 1820.",
+    "sources": "Ewan, Joseph, « French Naturalists in the Mississippi Valley », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position hypothétique sur l'Ohio près de Cincinnati."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.53,
+     36.59
+    ]
+   },
+   "properties": {
+    "id": "FMV65-20",
+    "nom": "Nouvelle-Madrid : Peyroux de la Coudrenière écrit à Jefferson (1804)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1804.999,
+    "date_edtf": "1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri Peyroux de la Coudrenière"
+    ],
+    "description": "Henri Peyroux de la Coudrenière, commandant de la Nouvelle-Madrid, écrit en 1804 à Thomas Jefferson pour lui faire part de son intérêt pour l'histoire naturelle.",
+    "sources": "Ewan, Joseph, « French Naturalists in the Mississippi Valley », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à New Madrid."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.065,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "FMV65-21",
+    "nom": "La Nouvelle-Orléans : médecins et botanistes du roi, Prat, Guérin et LeBeau (1735-1774)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1735.0,
+    "fin": 1774.999,
+    "date_edtf": "1735/1774",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Prat",
+     "Jean-Louis Guérin",
+     "François LeBeau",
+     "Diron d'Artaguette"
+    ],
+    "description": "Dès 1721, Diron d'Artaguette signale que la Louisiane peut fournir quantité de plantes médicinales, que « très peu de Français connaissent ». Le médecin Prat, arrivé en janvier 1735, correspond avec Jussieu jusqu'en 1746 ; Jean-Louis Guérin est chargé en mars 1737 d'études botaniques pour le Jardin du roi, mais meurt l'année suivante ; François LeBeau, successeur de Prat, est « médecin et botaniste du roi » au moins jusqu'en 1774.",
+    "sources": "Ewan, Joseph, « French Naturalists in the Mississippi Valley », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à La Nouvelle-Orléans."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "FMV65-22",
+    "nom": "Fort Louis de la Mobile : Mathieu Sagean, l'imposteur, propriétaire d'un lot rue de Bienville (1711)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1700.0,
+    "fin": 1711.999,
+    "date_edtf": "1700/1711",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Mathieu Sagean",
+     "Pierre Le Moyne d'Iberville",
+     "Pontchartrain"
+    ],
+    "description": "Analphabète revenu en France en 1699, Mathieu Sagean dicte à l'intendant de Brest le récit de découvertes fabuleuses (les Acaanibas, peuple riche en or). Pontchartrain le fait interroger, puis l'envoie au Mississippi en 1700 pour qu'il y guide les recherches ; Le Sueur et Sauvole doutent de lui. En 1711, un plan du village de Fort Louis de la Mobile montre qu'un « Mathieu Sajan » possède le lot du milieu des trois lots donnant sur la rue de Bienville.",
+    "sources": "McWilliams, Richebourg Gaillard, « A Kingdom Beyond the Rockies: The El Dorado of Mathieu Sagean », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à l'ancien Fort Louis de la Mobile (Twenty-Seven Mile Bluff)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "FMV65-23",
+    "nom": "Mission de la Sainte-Famille des Tamarois (Cahokia) : les prêtres du Séminaire de Québec (1699-1763)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1699.333,
+    "fin": 1763.844,
+    "date_edtf": "1699-05/1763-11-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "François de Montigny",
+     "Jean-François Buisson de Saint-Cosme",
+     "Marc Bergier",
+     "Nicolas Laurent",
+     "Jacques-François Forget du Verger"
+    ],
+    "description": "À la fin de mai 1699, François de Montigny fonde chez les Tamarois la mission de la Sainte-Famille, dont les lettres patentes de Mgr de Saint-Vallier datent du 14 juillet 1698. Marc Bergier y arrive en février 1700 et y meurt en 1707 ; Nicolas Laurent écrit de Cahokia le 27 juin 1756. Le 5 novembre 1763, apprenant la conquête, Forget du Verger vend les biens de la mission pour 32 500 livres alors qu'ils en valaient au moins 400 000, et s'enfuit. Le 14 mai 1768, le Séminaire donne procuration à l'abbé Gibault pour faire annuler ces ventes, en vain.",
+    "sources": "Baillargeon, Noël, « The Seminary of Quebec: Resources for the History of the French in the Mississippi Valley », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Cahokia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4,
+     31.56
+    ]
+   },
+   "properties": {
+    "id": "FMV65-24",
+    "nom": "Natchez et Tensas : Jean-François Buisson de Saint-Cosme, missionnaire tué par les Chitimachas (1699-1706)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1698.988,
+    "fin": 1706.999,
+    "date_edtf": "1698-12-27/1706",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-François Buisson de Saint-Cosme",
+     "François de Montigny",
+     "Antoine Davion"
+    ],
+    "description": "Né à Lévis le 30 janvier 1667, ordonné à Québec en 1690, Jean-François Buisson de Saint-Cosme descend le Mississippi avec Montigny et Davion ; le 27 décembre 1698, ils atteignent le premier village arkansas. Successeur de Montigny chez les Natchez et les Tensas en 1701, il tente en vain de les convertir jusqu'à son assassinat en 1706 par une bande de Chitimachas. Seize de ses lettres (1698-1706) sont conservées au Séminaire de Québec.",
+    "sources": "Baillargeon, Noël, « The Seminary of Quebec: Resources for the History of the French in the Mississippi Valley », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Natchez."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.06,
+     42.3
+    ]
+   },
+   "properties": {
+    "id": "FMV65-25",
+    "nom": "Sandwich (Windsor) et la Petite Côte : le père Pierre Potier, missionnaire des Hurons du Détroit (1744-1781)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1744.0,
+    "fin": 1781.5,
+    "date_edtf": "1744/1781-07",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Potier"
+    ],
+    "description": "Venu au Canada en 1743, le jésuite Pierre Potier gagne la rivière du Détroit en 1744 ; missionnaire des Hurons puis curé de l'Assomption de Sandwich jusqu'à sa mort en juillet 1781, il tient le « Livre de compte de la mission des Hurons du Détroit » (1733-1781), qui contient une liste des habitants de la Petite Côte en 1778.",
+    "sources": "Babcock, James M., « Resources in Detroit for the History of the French in the Mississippi Valley », dans McDermott, John Francis (dir.) (1965), The French in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à l'église de l'Assomption (Windsor, Ontario)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1885,
+     38.6275
+    ]
+   },
+   "properties": {
+    "id": "FFW69-01",
+    "nom": "Saint-Louis : Auguste Chouteau dirige le défrichement du site (15 février 1764)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1764.122,
+    "fin": 1764.122,
+    "date_edtf": "1764-02-15",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Chouteau",
+     "Pierre de Laclède Liguest"
+    ],
+    "description": "McDermott ouvre son portrait sur le jeune Auguste Chouteau, à peine quatorze ans, qui conduit le 15 février 1764 l'équipe chargée de dégager le site choisi par Laclède. Né à La Nouvelle-Orléans de René Chouteau, originaire de L'Hermenault en Vendée, et de Marie-Thérèse Bourgeois, il est élevé sans son père ; en septembre 1764, il fait venir de Cahokia sa mère et ses quatre cadets.",
+    "sources": "McDermott, John Francis, « Auguste Chouteau: First Citizen of Upper Louisiana », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position au site de la place du marché coloniale."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.6265
+    ]
+   },
+   "properties": {
+    "id": "FFW69-02",
+    "nom": "Saint-Louis : Chouteau rebâtit la maison de pierre de Laclède (1789) et obtient le monopole de la traite osage (1794-1800)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1789.0,
+    "fin": 1800.999,
+    "date_edtf": "1789/1800",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Chouteau",
+     "Pierre Chouteau",
+     "François-Louis Hector de Carondelet"
+    ],
+    "description": "Après la mort de Laclède en 1778, Chouteau hérite de la conduite des affaires. En 1789, il reconstruit en grande résidence la maison de pierre du fondateur, qu'il habitera quarante ans et que la lithographie de J. C. Wild (1841) montre peu avant sa démolition. Son plus beau succès de la fin du régime espagnol est le monopole de la traite avec les Osages, accordé par Carondelet pour six ans (1794-1800) ; en 1797, il reçoit aussi 2 160 arpents sur le Missouri, voisins de ceux de son frère Pierre.",
+    "sources": "McDermott, John Francis, « Auguste Chouteau: First Citizen of Upper Louisiana », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du bloc de la maison Laclède-Chouteau."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1885,
+     38.6275
+    ]
+   },
+   "properties": {
+    "id": "FFW69-03",
+    "nom": "Saint-Louis : Chouteau, commissaire aux traités avec les nations du Nord après 1815",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1815.0,
+    "fin": 1816.999,
+    "date_edtf": "1815/1816",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Chouteau",
+     "William Clark",
+     "Ninian Edwards"
+    ],
+    "description": "En 1804, Chouteau préside le comité de cinq notables chargé des rapports avec Washington ; après la guerre de 1812, il siège comme commissaire des États-Unis avec les gouverneurs William Clark et Ninian Edwards pour conclure les traités avec les nations du Nord, et rédige le 21 février 1816 un mémoire précieux sur l'emplacement des différentes nations.",
+    "sources": "McDermott, John Francis, « Auguste Chouteau: First Citizen of Upper Louisiana », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "FFW69-04",
+    "nom": "Saint-Louis : la bibliothèque de Chouteau et la visite de La Fayette (1778-1825)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1825.999,
+    "date_edtf": "1778/1825",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Chouteau",
+     "La Fayette",
+     "Henry Marie Brackenridge"
+    ],
+    "description": "Dès 1778, à la vente des biens de Laclède, Chouteau achète des livres (dont La Nouvelle Héloïse et les Essais de Bacon) et dix-sept volumes d'histoire ecclésiastique à la vente Hubert. Brackenridge le décrit en 1810 comme un homme vénérable à la belle tête intellectuelle. En 1825, il accueille La Fayette, qui lève son verre au « patriarche » fondateur de la ville.",
+    "sources": "McDermott, John Francis, « Auguste Chouteau: First Citizen of Upper Louisiana », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position de la maison Chouteau."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.06,
+     29.96
+    ]
+   },
+   "properties": {
+    "id": "FFW69-05",
+    "nom": "La Louisiane vue de France : mémoires de 1758-1762 sur la transmigration des Canadiens",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1758.0,
+    "fin": 1762.999,
+    "date_edtf": "1758/1762",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Rivoire",
+     "Henri Pouillard",
+     "Choiseul"
+    ],
+    "description": "Boulle dépouille les mémoires adressés aux ministres pendant la guerre de Sept Ans : plusieurs projets de 1761 proposent de faire passer les habitants du Canada en Louisiane (« Moyen de peupler la Louisianne »), d'autres, comme celui de Pouillard, d'y développer population et commerce. Contrairement à l'image d'une Louisiane méprisée, l'auteur montre que sa valeur était tenue pour acquise dans les années 1750, avant la cession de Fontainebleau (novembre 1762).",
+    "sources": "Boulle, Pierre H., « Some Eighteenth-Century French Views on Louisiana », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Point symbolique à La Nouvelle-Orléans : l'objet est un débat métropolitain."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.181,
+     44.893
+    ]
+   },
+   "properties": {
+    "id": "FFW69-06",
+    "nom": "Fort Snelling : Joseph Nicolas Nicollet hiverne et cartographie les sources du Mississippi (1836-1837)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1836.0,
+    "fin": 1837.999,
+    "date_edtf": "1836/1837",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Nicolas Nicollet"
+    ],
+    "description": "Né en Savoie en 1786, savant ruiné par la crise de 1830, Nicollet arrive aux États-Unis en 1832. À l'été 1836, après quatre ans de voyages, il est au fort Snelling ; il y passe l'hiver 1836-1837 pour mettre au net ses relevés des sources du Mississippi, et son journal témoigne de relations sympathiques avec les Autochtones.",
+    "sources": "Bray, Martha Coleman, « Joseph Nicolas Nicollet, Geographer », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort Snelling."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "FFW69-07",
+    "nom": "Coteau des Prairies : l'expédition Nicollet-Frémont vers le Missouri (1838-1839)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1838.0,
+    "fin": 1839.999,
+    "date_edtf": "1838/1839",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Nicolas Nicollet",
+     "John Charles Frémont"
+    ],
+    "description": "En avril 1838, le Bureau des ingénieurs topographes achète la carte de Nicollet et le charge de couvrir le pays jusqu'au Missouri ; le jeune lieutenant Frémont devient son assistant. La carte qui en résulte (publiée en 1843, rééditée en 1845) est d'une exactitude remarquable : un arpenteur ferroviaire de 1882 n'y trouve que dix à quinze pieds d'écart sur les altitudes, notamment au fort Pierre.",
+    "sources": "Bray, Martha Coleman, « Joseph Nicolas Nicollet, Geographer », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Point au cœur de la région cartographiée (Coteau des Prairies)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1868,
+     38.6245
+    ]
+   },
+   "properties": {
+    "id": "FFW69-08",
+    "nom": "Saint-Louis : l'évêque Du Bourg fonde l'académie qui deviendra le collège Saint-Louis (1818-1820)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1818.0,
+    "fin": 1820.999,
+    "date_edtf": "1818/1820",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis-Guillaume-Valentin Du Bourg"
+    ],
+    "description": "Né à Saint-Domingue le 14 février 1766, sulpicien ordonné en 1788, réfugié au Maryland en 1794, Du Bourg est sacré à Rome, à Saint-Louis-des-Français, le 24 septembre 1815. Installé à Saint-Louis, il ouvre à l'automne 1818 une académie de garçons près de l'église, qui prend en 1820 le nom de collège Saint-Louis, l'année où il bénit la nouvelle église.",
+    "sources": "Faherty, William Barnaby, « The Personality and Influence of Louis William Valentine Du Bourg », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position de l'ancienne église (actuelle Old Cathedral)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.858,
+     37.722
+    ]
+   },
+   "properties": {
+    "id": "FFW69-09",
+    "nom": "Perryville : le séminaire Sainte-Marie des Barrens incorporé (1822)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1822.907,
+    "fin": 1822.907,
+    "date_edtf": "1822-11-28",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis-Guillaume-Valentin Du Bourg",
+     "Joseph Rosati"
+    ],
+    "description": "La législature du Missouri incorpore à la fin de 1822 le séminaire Sainte-Marie des Barrens, fondé sous Du Bourg, qui accueille aussi des élèves laïcs. En 1823, Du Bourg présente à Washington un projet d'école autochtone jointe à un centre de formation missionnaire près du confluent du Missouri et du Mississippi.",
+    "sources": "Faherty, William Barnaby, « The Personality and Influence of Louis William Valentine Du Bourg », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du séminaire à Perryville."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.705,
+     37.147
+    ]
+   },
+   "properties": {
+    "id": "FFW69-10",
+    "nom": "Fort Massiac (Massac) sur l'Ohio : construction et garnison françaises (1757-1764)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1757.0,
+    "fin": 1764.999,
+    "date_edtf": "1757/1764",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Macarty",
+     "Philippe-François de Rastel de Rocheblave",
+     "Kerlerec"
+    ],
+    "description": "Fortier reconstitue l'histoire du fort élevé au printemps 1757 sur l'Ohio, aussi près que possible du Tennessee, sur ordre du commandant des Illinois ; il est attaqué par des Autochtones dès 1757. Bâti en pièce sur pièce, il reçoit en mai 1760 une expédition de deux bateaux et cinquante soldats et habitants menée par Rocheblave. En décembre 1763, la garnison est réduite à un officier et quinze hommes et cinq des huit canons passent à Sainte-Geneviève ; les Britanniques ne l'atteignent qu'en 1765, abandonné. L'auteur écarte toute dérivation du nom à partir de « massacre ».",
+    "sources": "Fortier, John B., « New Light on Fort Massac », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du site du fort Massac (Metropolis, Illinois)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.16,
+     37.08
+    ]
+   },
+   "properties": {
+    "id": "FFW69-11",
+    "nom": "Ohio inférieur : le poste de Juchereau de Saint-Denys près de Mound City (1702)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1702.0,
+    "fin": 1702.999,
+    "date_edtf": "1702",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Juchereau de Saint-Denys"
+    ],
+    "description": "Avec au moins vingt-cinq hommes, Juchereau de Saint-Denys atteint le pays des Illinois à la fin de 1702 et établit un poste près de l'embouchure de l'Ohio, que l'on situe aux environs de Mound City ; Fortier le rappelle comme antécédent français du fort Massac.",
+    "sources": "Fortier, John B., « New Light on Fort Massac », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position hypothétique (Mound City, Illinois)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.063,
+     29.958
+    ]
+   },
+   "properties": {
+    "id": "FFW69-12",
+    "nom": "La Nouvelle-Orléans : James Pitot et ses « Observations sur la colonie de la Louisiane de 1796 à 1802 »",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1796.0,
+    "fin": 1802.999,
+    "date_edtf": "1796/1802",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "James Pitot",
+     "Pierre Derbigny",
+     "Carondelet"
+    ],
+    "description": "Né à Villedieu-les-Poêles (Normandie) en 1761, Jacques-François (James) Pitot passe par Saint-Domingue, gagne les États-Unis en 1793 et arrive à La Nouvelle-Orléans en août 1796. Négociant (Lanthois & Pitot), il rédige un mémoire inédit de 76 pages, conservé au Havre, qui juge l'administration espagnole de Carondelet à Salcedo et l'économie coloniale (indigo, sucre établi en 1796, plomb des Illinois, pelleteries). Il sera maire de La Nouvelle-Orléans en 1804-1805.",
+    "sources": "Le Gardeur, René J., Jr. et Pitot, Henry C., « An Unpublished Memoir of Spanish Louisiana, 1796-1802 », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position au Vieux Carré."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.064,
+     29.9575
+    ]
+   },
+   "properties": {
+    "id": "FFW69-13",
+    "nom": "La Nouvelle-Orléans : le Conseil supérieur, cour et greffe de la colonie (1712-1747)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1712.0,
+    "fin": 1747.999,
+    "date_edtf": "1712/1747",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Crozat",
+     "Fleuriau",
+     "Jean-Baptiste Raguet",
+     "Louis Robineau de Portneuf"
+    ],
+    "description": "Créé en 1712, rendu permanent en 1716 et remanié en 1719 pour la Compagnie des Indes, le Conseil supérieur réunit gouverneur, commissaire, procureur général et conseillers. Hardy montre qu'en 1744 il consacre plus de la moitié de son temps aux actes notariés et aux successions : procurations (le commandant des Natchitoches, de Blanc, à sa femme en 1746), contrats de mariage (Voisin et Denis de Bonaventure, 1745), successions disputées (d'Ausseville, Roquigny) et procédures criminelles réglées sur l'ordonnance de 1670.",
+    "sources": "Hardy, James D., Jr., « The Superior Council in Colonial Louisiana », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position de la place d'Armes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "FFW69-14",
+    "nom": "Île Dauphine : port de la Louisiane, raids et guerre franco-espagnole (1699-1722)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1699.0,
+    "fin": 1722.999,
+    "date_edtf": "1699/1722",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville",
+     "Jean-Baptiste Le Moyne de Bienville",
+     "Antoine de La Mothe Cadillac",
+     "Andrés de Pez"
+    ],
+    "description": "Iberville mouille devant l'île le 31 janvier 1699 ; nommée île Massacre puis Dauphine (1701), elle devient le port de la colonie après le transfert depuis Biloxi en 1702. Un corsaire jamaïcain la pille en septembre 1710 ; l'ouragan de 1717 bouche le port et coupe l'île en deux. Pendant la guerre de la Quadruple-Alliance, elle sert de base contre Pensacola, prise en 1719, puis rendue et détruite le 26 novembre 1722.",
+    "sources": "Holmes, Jack D. L., « Dauphin Island in the Franco-Spanish War, 1719-22 », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position de l'île Dauphine (Alabama)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.2,
+     29.15
+    ]
+   },
+   "properties": {
+    "id": "FFW69-15",
+    "nom": "Passe de l'Est du Mississippi : Iberville entre dans le fleuve par la « palissade » (2 mars 1699)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1699.169,
+    "fin": 1699.169,
+    "date_edtf": "1699-03-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville",
+     "Carlos de Sigüenza y Góngora"
+    ],
+    "description": "McWilliams étudie la « palissade » de troncs à l'embouchure qui donna aux Espagnols le nom de Río de la Palizada : les expéditions espagnoles de 1686 à 1693 voient les passes sans y entrer. Le 2 mars 1699, par gros temps, Iberville pénètre par la passe de l'Est et remonte le fleuve découvert par La Salle en 1682 ; les datations au carbone 14 donnent à ce delta d'oiseau environ 240 ans d'âge à l'époque.",
+    "sources": "McWilliams, Richebourg Gaillard, « Iberville at the Birdfoot Subdelta: Final Discovery of the Mississippi River », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position approximative de l'ancienne passe de l'Est."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.043,
+     37.979
+    ]
+   },
+   "properties": {
+    "id": "FFW69-16",
+    "nom": "Sainte-Geneviève : maisons coloniales Bequette-Ribault, Janis, Amoureux, Vallé et Huberdeau (1780-1811)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1780.0,
+    "fin": 1811.999,
+    "date_edtf": "1780/1811",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Bequette",
+     "Nicolas Janis",
+     "François Janis",
+     "Mathurin Michel Amoureux",
+     "François Vallé II",
+     "Jean-Baptiste Vallé",
+     "Jean-Baptiste Huberdeau",
+     "Jean-Baptiste Moreau"
+    ],
+    "description": "L'inventaire de Porterfield décrit les maisons françaises du village : la maison Bequette-Ribault en poteaux en terre (avant 1780), la maison Janis sur sole (vers 1790, concession confirmée à Nicolas Janis en 1771), la maison Amoureux, celle du commandant François Vallé II (mort en 1804), la maison de pierre de Huberdeau (vers 1800) et la maison Vallé achetée par Jean-Baptiste Vallé après 1811.",
+    "sources": "Porterfield, Neil H., « Ste. Genevieve, Missouri », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du centre historique de Sainte-Geneviève."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.038,
+     37.983
+    ]
+   },
+   "properties": {
+    "id": "FFW69-17",
+    "nom": "Sainte-Geneviève : les Français de la rive gauche passent le fleuve (1763 et 1799)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1763.0,
+    "fin": 1799.999,
+    "date_edtf": "1763/1799",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "André de Guire dit La Rose",
+     "Moses Austin"
+    ],
+    "description": "Après le traité de 1763, beaucoup de Français des Illinois traversent vers Sainte-Geneviève, croyant la rive ouest restée française ; un second mouvement suit l'arrivée de l'autorité américaine. Le plus ancien acte connu du registre est le mariage d'André de Guire dit La Rose en 1759. Moses Austin y possède une maison de 1799 à 1811.",
+    "sources": "Porterfield, Neil H., « Ste. Genevieve, Missouri », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position à Sainte-Geneviève."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.39,
+     37.55
+    ]
+   },
+   "properties": {
+    "id": "FFW69-18",
+    "nom": "Mine La Motte : première permission de mines de plomb accordée à Renault (1723)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1723.0,
+    "fin": 1723.999,
+    "date_edtf": "1723",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Philippe-François Renault"
+    ],
+    "description": "Porterfield rappelle que les officiers du fort de Chartres accordent en 1723 à Philippe-François Renault la première permission d'exploiter les mines de plomb du futur Missouri, base de la vie économique de Sainte-Geneviève.",
+    "sources": "Porterfield, Neil H., « Ste. Genevieve, Missouri », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position de Mine La Motte (Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.86,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "FFW69-19",
+    "nom": "Versailles et le golfe : Jérôme de Pontchartrain prépare l'expédition d'Iberville (1696-1699)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1698.0,
+    "fin": 1699.999,
+    "date_edtf": "1698/1699",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jérôme Phélypeaux de Pontchartrain",
+     "Pierre Le Moyne d'Iberville",
+     "Henri Joutel",
+     "Henri de Tonti"
+    ],
+    "description": "Rule montre que Jérôme Phélypeaux dirige en fait la Marine dès 1696 et crée un Dépôt des cartes et plans. Alarmé par les avertissements de l'abbé Cavelier et de Tonti sur une avancée anglaise, il fait chercher la relation de Joutel à Rouen, choisit Iberville, vainqueur de la baie d'Hudson (1697), et lui fournit cartes et mémoires. Iberville mouille à Pensacola le 26 janvier 1699 avant de longer la côte vers le Mississippi.",
+    "sources": "Rule, John C., « Jérôme Phélypeaux, Comte de Pontchartrain, and the Establishment of Louisiana, 1696-1715 », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Point sur la côte de Biloxi, premier établissement issu de l'expédition."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.043,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "FFW69-20",
+    "nom": "Mobile : Crozat reçoit la Louisiane, Cadillac gouverneur (1712-1717)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1712.0,
+    "fin": 1717.999,
+    "date_edtf": "1712/1717",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Crozat",
+     "Antoine de La Mothe Cadillac",
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Après les difficultés de la guerre de Succession d'Espagne, Pontchartrain confie l'administration financière de la Louisiane au banquier Antoine Crozat, qui l'exploite comme une affaire jusqu'en 1717, et nomme Cadillac gouverneur pour contrebalancer l'influence des Canadiens autour de Bienville.",
+    "sources": "Rule, John C., « Jérôme Phélypeaux, Comte de Pontchartrain, and the Establishment of Louisiana, 1696-1715 », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort Louis de Mobile."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.043,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "FFW69-21",
+    "nom": "Mobile : famille Saucier, d'origine québécoise (vers 1700-1743)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1700.0,
+    "fin": 1743.999,
+    "date_edtf": "1700/1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Saucier",
+     "Jean Saucier",
+     "Gabrielle Savary",
+     "Marie Jeanne Fontaille",
+     "Louis Saucier"
+    ],
+    "description": "Les auteurs, descendants de l'ingénieur, retracent la famille : Louis Saucier, de la garnison de Québec (1666), épouse la veuve Prévost ; son fils Jean, marchand du fort Louis de Mobile, témoigne pour Bienville en 1708 et épouse Gabrielle Savary. Leur fils François, né vers 1712 à Mobile, dessine à seize ans un plan de La Nouvelle-Orléans (12 mai 1728), étudie à Paris et épouse Marie-Jeanne Fontaille à Mobile en 1743. Son frère utérin Vifvarenne et Henry Saucier s'établissent aux Illinois.",
+    "sources": "Saucier, Walter J. et Seineke, Kathrine Wagner, « François Saucier, Engineer of Fort de Chartres, Illinois », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort Condé de Mobile."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.52,
+     34.36
+    ]
+   },
+   "properties": {
+    "id": "FFW69-22",
+    "nom": "Campagnes chicachas : Saucier relève les routes vers les villages chicachas (1737-1740)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1737.0,
+    "fin": 1740.999,
+    "date_edtf": "1737/1740",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François Saucier",
+     "Bernard Deverges",
+     "Ignace François Broutin",
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Dessinateur auprès des ingénieurs Deverges et Broutin, Saucier part en 1738 avec Coustilhas, puis explore avec 200 Autochtones la route vers les forts chicachas. La Carte particulière signée à La Nouvelle-Orléans le 27 juin 1740 par Broutin, Deverges et Saucier trace ses routes jusqu'au Tallahatchie, au nord de l'actuelle Oxford.",
+    "sources": "Saucier, Walter J. et Seineke, Kathrine Wagner, « François Saucier, Engineer of Fort de Chartres, Illinois », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Point au Tallahatchie au nord d'Oxford (Mississippi), d'après la description de la carte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.255,
+     32.507
+    ]
+   },
+   "properties": {
+    "id": "FFW69-23",
+    "nom": "Fort Toulouse des Alibamons : Saucier y travaille et y voit naître sa fille (1749-1750)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1749.0,
+    "fin": 1750.999,
+    "date_edtf": "1749/1750",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Saucier",
+     "Marie Jeanne Fontaille"
+    ],
+    "description": "Une fille, Marie-Jeanne, naît « aux Alibamons » le 19 février 1749 à François Saucier, sous-ingénieur du roi, preuve que la famille hivernait avec lui au fort Toulouse ; en janvier 1750, Vaudreuil note encore qu'il y est. En 1742, il avait aussi inspecté le poste de Tombecbé.",
+    "sources": "Saucier, Walter J. et Seineke, Kathrine Wagner, « François Saucier, Engineer of Fort de Chartres, Illinois », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort Toulouse (Wetumpka, Alabama)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.158,
+     38.086
+    ]
+   },
+   "properties": {
+    "id": "FFW69-24",
+    "nom": "Fort de Chartres : François Saucier, ingénieur du nouveau fort de pierre (1751-1757)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1751.0,
+    "fin": 1757.999,
+    "date_edtf": "1751/1757",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Saucier",
+     "Macarty",
+     "Vaudreuil"
+    ],
+    "description": "Envoyé aux Illinois en 1751 avec Macarty, Saucier fait le choix du site, près de Prairie du Rocher, et dresse les plans du nouveau fort de Chartres ; ses lettres de 1752 à Vaudreuil sont conservées à la Huntington Library. Il meurt le 26 février 1757. Le Britannique Pittman jugera le fort « le plus commode et le mieux bâti d'Amérique du Nord » ; il est cédé au capitaine Stirling le 10 octobre 1765 par Louis Saint-Ange.",
+    "sources": "Saucier, Walter J. et Seineke, Kathrine Wagner, « François Saucier, Engineer of Fort de Chartres, Illinois », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort de Chartres (État de l'Illinois)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.571
+    ]
+   },
+   "properties": {
+    "id": "FFW69-25",
+    "nom": "Cahokia : les fils et filles de Saucier après la cession (1774-1782)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1774.0,
+    "fin": 1782.999,
+    "date_edtf": "1774/1782",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François Saucier (fils)",
+     "Marguerite Cadron",
+     "Félicité Saucier",
+     "Antoine Damour de Louvière",
+     "Mathieu Saucier"
+    ],
+    "description": "Les registres de Sainte-Anne et de Cahokia montrent la famille restée au pays : Félicité Saucier épouse Antoine Damour de Louvière en 1775 ; François fils, officier réformé, épouse Marguerite Cadron, fille d'un capitaine de milice, en 1774 ; Mathieu fait baptiser une fille en 1782. Trois fils serviront à la cour de Cahokia sous le régime américain.",
+    "sources": "Saucier, Walter J. et Seineke, Kathrine Wagner, « François Saucier, Engineer of Fort de Chartres, Illinois », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du village de Cahokia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.885,
+     30.395
+    ]
+   },
+   "properties": {
+    "id": "FFW69-26",
+    "nom": "Biloxi : Ignace François Broutin arrive avec la concession Le Blanc (22 septembre 1720)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1720.724,
+    "fin": 1720.724,
+    "date_edtf": "1720-09-22",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Ignace François Broutin",
+     "Claude Le Blanc",
+     "La Tour"
+    ],
+    "description": "Cartographe de l'Alsace, nommé capitaine, Broutin recrute deux compagnies pour la concession de Le Blanc, Belle-Isle et d'Asfeld et arrive à Biloxi sur l'Alexandre le 22 septembre 1720, premier architecte-ingénieur important à gagner la colonie, avant Pauger.",
+    "sources": "Wilson, Samuel, Jr., « Ignace François Broutin », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du Nouveau-Biloxi."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.37,
+     31.5
+    ]
+   },
+   "properties": {
+    "id": "FFW69-27",
+    "nom": "Natchez : Broutin commande la concession de la Terre Blanche (1722-1729)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1722.0,
+    "fin": 1729.999,
+    "date_edtf": "1722/1729",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Ignace François Broutin",
+     "Gonichon",
+     "Charles-Henri Desliettes de Tonti"
+    ],
+    "description": "Envoyé aux Natchez en 1722 pour cartographier la concession de la Terre Blanche, Broutin s'y méfie des Natchez et conseille une action ferme ; en 1729, il y conduit sept esclaves et laisse Gonichon, l'un des rares rescapés du soulèvement du 28 novembre 1729. Il dresse ensuite un plan du siège des deux forts natchez de février 1730.",
+    "sources": "Wilson, Samuel, Jr., « Ignace François Broutin », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position hypothétique de la concession de la Terre Blanche, au sud de Natchez."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0605,
+     29.961
+    ]
+   },
+   "properties": {
+    "id": "FFW69-28",
+    "nom": "La Nouvelle-Orléans : Broutin, ingénieur du roi, et le couvent des Ursulines (1731-1751)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1731.0,
+    "fin": 1751.999,
+    "date_edtf": "1731/1751",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ignace François Broutin",
+     "Pierre Baron",
+     "Bienville",
+     "Vaudreuil",
+     "Micaela Almonester de Pontalba"
+    ],
+    "description": "Ingénieur du roi après le départ de Baron (1731), Broutin dessine les casernes de la place d'Armes (1732-1738), le mur de la poudrière, le chai de l'intendance et, le 10 novembre 1745, le second couvent des Ursulines, seul édifice du régime français encore debout en Louisiane. Il meurt le 9 août 1751 ; son arrière-petite-fille, la baronne de Pontalba, bâtira en 1849-1850 les immeubles Pontalba à l'emplacement de ses casernes.",
+    "sources": "Wilson, Samuel, Jr., « Ignace François Broutin », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du couvent des Ursulines (rue Chartres)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.087,
+     31.758
+    ]
+   },
+   "properties": {
+    "id": "FFW69-29",
+    "nom": "Natchitoches : plan d'un fort de pieux par Broutin (1733-1734)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1733.0,
+    "fin": 1734.999,
+    "date_edtf": "1733/1734",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ignace François Broutin",
+     "Louis Juchereau de Saint-Denis"
+    ],
+    "description": "Broutin dessine le 15 janvier 1733 le poste de Saint-Jean-Baptiste des Natchitoches et rédige le 1er mars 1734 le devis d'un nouveau fort de pieux confié au constructeur Le Brun ; Saint-Denis, Canadien fondateur du poste, en est alors le commandant.",
+    "sources": "Wilson, Samuel, Jr., « Ignace François Broutin », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort Saint-Jean-Baptiste (Natchitoches)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.689
+    ]
+   },
+   "properties": {
+    "id": "FFW69-30",
+    "nom": "Mobile : réparations du fort Condé sur devis de Broutin (1741-1752)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1741.0,
+    "fin": 1752.999,
+    "date_edtf": "1741/1752",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ignace François Broutin",
+     "Dubreuil",
+     "De Batz"
+    ],
+    "description": "Venu à Mobile en 1741, Broutin propose une caserne à deux niveaux et l'épaississement du parapet ; le contrat de réparations de Dubreuil (23 décembre 1742) suit son devis, et De Batz relève les bâtiments achevés en 1752.",
+    "sources": "Wilson, Samuel, Jr., « Ignace François Broutin », dans McDermott, John Francis (dir.) (1969), Frenchmen and French Ways in the Mississippi Valley, Urbana, University of Illinois Press.",
+    "note": "Position du fort Condé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.59,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "ROT28-01",
+    "nom": "Kawsmouth : la « Chouteau's Church », première chapelle du site de Kansas City (1833-1839)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1839.999,
+    "date_edtf": "1833/1839",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Benedict Roux",
+     "Joseph Anthony Lutz",
+     "Felix Van Quickenborne",
+     "François Chouteau"
+    ],
+    "description": "À l'établissement français de Kawsmouth, l'abbé Lutz séjourne en 1828 en allant chez les Kansas ; l'abbé Benedict Roux arrive le 14 novembre 1833 et achète un terrain où les frères Chouteau bâtissent, après son départ, une chapelle et un presbytère en rondins. Longtemps appelée simplement « Chouteau's Church », elle reçoit le 17 novembre 1839 le titre de Saint-François-Régis. Le jésuite Van Quickenborne y officie en juillet 1835 et y baptise en juillet 1836 quatorze enfants têtes-plates, kootenais et iroquois de la bande descendue des Rocheuses en 1831.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de l'ancienne église Saint-François-Régis (quartier des berges de Kansas City)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.585,
+     39.105
+    ]
+   },
+   "properties": {
+    "id": "ROT28-02",
+    "nom": "Kansas City : l'abbé Bernard Donnelly et la paroisse française du confluent (1845-1863)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1863.999,
+    "date_edtf": "1845/1863",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bernard Donnelly",
+     "Augustus Saunier"
+    ],
+    "description": "Chargé d'Independence en 1845, Donnelly dessert aussi la paroisse de Kansas City (sauf en 1848-1849, où Augustus Saunier en est curé avant d'être muté à Little Canada) ; il y transfère sa résidence en 1857, remplace l'église Saint-François-Régis par un édifice de brique et meurt le 1er novembre 1863. La terre achetée par Roux en 1839 s'avère « une véritable mine d'or » pour la paroisse.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de l'église Saint-François-Régis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.851,
+     39.768
+    ]
+   },
+   "properties": {
+    "id": "ROT28-03",
+    "nom": "Saint-Joseph (Missouri) : le comptoir de Joseph Robidoux devient une ville (1830-1847)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1830.0,
+    "fin": 1847.999,
+    "date_edtf": "1830/1847",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Robidoux",
+     "Anthony Eysvogels",
+     "Thomas Scanlon",
+     "Pierre-Jean De Smet"
+    ],
+    "description": "Rothensteiner décrit le site, cent ans plus tôt, comme une ligne de collines boisées avec la cabane d'un traiteur et un débarcadère : Joseph Robidoux, troisième du nom, acquiert en 1830 la terre où s'élèvera la ville, la fait lotir et vend les lots ; la ville compte 20 000 âmes en 1864. Le jésuite Eysvogels y baptise en 1842 aux Black Snake Hills (« Robidoux's Landing »). Le premier curé résident, Thomas Scanlon, arrive le 25 octobre 1845 ; De Smet, de passage le 23 novembre 1846, compte 350 maisons et une population d'Américains, de Créoles français, d'Irlandais et d'Allemands. L'église est dédiée le 17 juin 1847.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy, p. 99.",
+    "note": "Position du centre historique de Saint-Joseph (rue Felix)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.77,
+     38.005
+    ]
+   },
+   "properties": {
+    "id": "ROT28-04",
+    "nom": "Old Mines : de la chapelle de rondins de Henri Pratte à l'église de brique de Bouillier (vers 1820-1857)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1820.0,
+    "fin": 1857.999,
+    "date_edtf": "1820/1857",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Pratte",
+     "John Bouillier",
+     "Dahmen",
+     "James Fox"
+    ],
+    "description": "La région d'Old Mines est explorée dès 1723 par des officiers et des experts miniers français. Peu avant 1820, Henri Pratte, curé de Sainte-Geneviève, y bâtit une église de rondins ; le registre commence le 20 avril 1820. La paroisse devient autonome en 1826 avec le lazariste John Bouillier, qui élève une église de brique (pierre angulaire en 1828) consacrée par Mgr Rosati ; agrandie, elle est reconsacrée le 15 novembre 1857.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de l'église Saint-Joachim d'Old Mines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.34,
+     37.985
+    ]
+   },
+   "properties": {
+    "id": "ROT28-05",
+    "nom": "Little Canada (French Village) : paroisse des Canadiens du comté de Sainte-Geneviève (1848-1858)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1858.999,
+    "date_edtf": "1848/1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Francis Rutkowski",
+     "Aloysius Rosi",
+     "John Anselm"
+    ],
+    "description": "French Village, appelé aussi Little Canada, reçoit des curés successifs : Francis Rutkowski de 1848 à 1856, Aloysius Rosi, noyé le 29 août 1853 dans le ruisseau Establishment en allant voir un malade, puis John Anselm, qui dessert aussi l'Establishment, les mines Vallé et Bloomsdale (1858).",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de French Village (comté de Sainte-Geneviève)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.7,
+     37.64
+    ]
+   },
+   "properties": {
+    "id": "ROT28-06",
+    "nom": "Apple Creek : église de pierre de l'abbé Loisel (1833-1834)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1834.999,
+    "date_edtf": "1833/1834",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Loisel",
+     "Joseph Rosati"
+    ],
+    "description": "En février 1833, l'abbé Loisel commence une église de pierre de 30 pieds sur 40 à Apple Creek, bénite par Mgr Rosati le 30 novembre 1834 ; Loisel est promu en 1836 à la vieille paroisse de Cahokia à la mort de l'abbé Condamine.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position approximative d'Apple Creek (comté de Perry)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.787,
+     37.936
+    ]
+   },
+   "properties": {
+    "id": "ROT28-07",
+    "nom": "Potosi (Mine à Breton) : l'abbé Lewis Tucker et la pétition de Firmin Desloge (1835-1844)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1834.0,
+    "fin": 1844.999,
+    "date_edtf": "1834/1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lewis Tucker",
+     "Firmin Desloge",
+     "Bouillier",
+     "Borgna"
+    ],
+    "description": "L'église de brique de Mine à Breton est consacrée par Rosati le 27 avril 1834 ; desservie d'Old Mines par Borgna et Bouillier, elle reçoit en 1835 l'abbé Lewis Tucker, petit-fils du premier colon catholique du comté de Perry. Les paroissiens, menés par Firmin Desloge, pétitionnent pour le garder, et il reste jusqu'en 1844.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de Potosi."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.294,
+     37.56
+    ]
+   },
+   "properties": {
+    "id": "ROT28-08",
+    "nom": "Fredericktown : l'église Saint-Michel et les vieilles familles françaises de Mine La Motte (1845-1869)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1845.0,
+    "fin": 1869.999,
+    "date_edtf": "1845/1869",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lewis Tucker"
+    ],
+    "description": "Curé de Saint-Michel de Fredericktown à partir de 1845, Tucker bâtit le corps principal de l'église ; ses revenus viennent surtout des ouvriers irlandais et allemands du chemin de fer (1855-1869) et des généreuses offrandes aux mariages des vieilles familles françaises du secteur, avant que l'immigration allemande n'envahisse Mine La Motte après 1840.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de Fredericktown."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.528,
+     36.587
+    ]
+   },
+   "properties": {
+    "id": "ROT28-09",
+    "nom": "New Madrid et Little Prairie : paroisses françaises ravagées par le séisme (1811-1869)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1811.0,
+    "fin": 1869.999,
+    "date_edtf": "1811/1869",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Francis Cellini",
+     "Lewis Tucker",
+     "Julian Turmel"
+    ],
+    "description": "Avant le tremblement de terre de 1811-1812, Little Prairie compte deux cents familles, pour la plupart françaises et catholiques ; le district est ensuite dépeuplé. À New Madrid, le registre des baptêmes s'ouvre le 24 mars 1821 sous Cellini ; les curés se succèdent de façon intermittente (Tucker en 1845, Turmel en 1857-1858) jusqu'à la dédicace de l'église de 1869.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de New Madrid."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.26,
+     38.555
+    ]
+   },
+   "properties": {
+    "id": "ROT28-10",
+    "nom": "Carondelet : église de l'abbé Saulnier et séminaire (1819-1861)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1819.0,
+    "fin": 1861.999,
+    "date_edtf": "1819/1861",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Edmond Saulnier",
+     "Félix De Andreis",
+     "Louis-Guillaume-Valentin Du Bourg"
+    ],
+    "description": "À Carondelet (Vide-Poche), la « modeste cabane de planches » posée par De Andreis en 1819 sur ordre de Du Bourg est remplacée par l'église de rondins de l'abbé Edmond Saulnier (1839), puis par son église de 1841. Le séminaire diocésain de Carondelet forme ensuite le clergé de Mgr Kenrick ; la cathédrale garde un tableau des Épousailles offert par Louis XVIII à Du Bourg en 1818.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position du vieux Carondelet."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.41,
+     38.583
+    ]
+   },
+   "properties": {
+    "id": "ROT28-11",
+    "nom": "Gravois et la Meramec : église de pierre de Van Quickenborne et catholiques français (1833-1842)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1842.999,
+    "date_edtf": "1833/1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Van Quickenborne",
+     "Peter Richard Donnelly"
+    ],
+    "description": "Le jésuite Van Quickenborne fait bâtir dès 1833 une petite église de pierre à Gravois, vingt ans avant la ville de Kirkwood, dont le nom (« forêt de l'église ») en garderait le souvenir ; en 1842, un prêtre est chargé d'organiser les catholiques irlandais et français le long de la Meramec.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de Kirkwood."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.497,
+     40.042
+    ]
+   },
+   "properties": {
+    "id": "ROT28-12",
+    "nom": "Lagrange : le comptoir de Godfrey Le Seur à l'embouchure de la Wyaconda (1795)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1795.0,
+    "fin": 1795.999,
+    "date_edtf": "1795",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Godfrey Le Seur",
+     "Peter Paul Lefevere"
+    ],
+    "description": "L'abbé Lefevere visite en 1837 Lagrange, héritière du « comptoir de Godfrey Le Seur à l'embouchure de la Wyaconda » (1795), selon l'historien des comtés de Clark et Lewis que cite Rothensteiner ; l'église bâtie en 1867 est vendue en ruine en 1893.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de Lagrange (Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.7,
+     38.77
+    ]
+   },
+   "properties": {
+    "id": "ROT28-13",
+    "nom": "Dardenne : les Canadiens français cèdent la place aux Allemands (1830-1860)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1830.0,
+    "fin": 1860.999,
+    "date_edtf": "1830/1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Au territoire de Dardenne (comté de Saint-Charles), l'immigration allemande venue du Hanovre arrive par petits groupes de 1830 à 1840, puis en masse jusqu'en 1860, pendant que les Canadiens français se retirent peu à peu ailleurs ; les jésuites y nomment alors des prêtres allemands.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position approximative de la paroisse de Dardenne."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.335,
+     38.795
+    ]
+   },
+   "properties": {
+    "id": "ROT28-14",
+    "nom": "Florissant : le noviciat jésuite de Saint-Stanislas et le couvent de Philippine Duchesne (1819-1846)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1819.0,
+    "fin": 1846.999,
+    "date_edtf": "1819/1846",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Philippine Duchesne",
+     "Charles Van Quickenborne",
+     "Pierre-Jean De Smet",
+     "John Gleizal"
+    ],
+    "description": "Les religieuses du Sacré-Cœur s'installent à Florissant en 1819 ; Mère Duchesne part le 27 mai 1826 pour Saint-Louis et le couvent est supprimé en 1846. Le noviciat Saint-Stanislas commence en 1823 dans une misérable cabane de rondins de la ferme jésuite, avec Van Quickenborne comme maître des novices et, parmi les six jeunes gens venus du Maryland, Pierre-Jean De Smet.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position du vieux Saint-Ferdinand de Florissant."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.917,
+     37.921
+    ]
+   },
+   "properties": {
+    "id": "ROT28-15",
+    "nom": "Cahokia et Kaskaskia : les Visitandines chassées par la crue de 1844",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1833.0,
+    "fin": 1844.999,
+    "date_edtf": "1833/1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Rosati",
+     "John Timon"
+    ],
+    "description": "Le couvent et l'école de la Visitation, fondés à Kaskaskia en 1833 par Mgr Rosati, sont engloutis par la grande crue de 1844 ; Kenrick et Timon recueillent les religieuses à Saint-Louis. La même crue détruit l'établissement des Sœurs de Saint-Joseph à Cahokia, tandis que celui de Carondelet devient leur maison mère.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de l'ancien Kaskaskia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1868,
+     38.6245
+    ]
+   },
+   "properties": {
+    "id": "ROT28-16",
+    "nom": "Saint-Louis : The Shepherd of the Valley, premier journal catholique à l'ouest du Mississippi, bilingue (1832-1833)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1832.0,
+    "fin": 1833.999,
+    "date_edtf": "1832/1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Rosati"
+    ],
+    "description": "Lancé sous Mgr Rosati en 1832, le Shepherd of the Valley paraît la première année en anglais et en français, puis en anglais seulement à partir du 20 septembre 1833 ; Rothensteiner signale aussi un journal français fondé à Saint-Louis en 1854.",
+    "sources": "Rothensteiner, John (1928), History of the Archdiocese of St. Louis, vol. II, Saint-Louis, Blackwell Wielandy.",
+    "note": "Position de l'ancienne cathédrale."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.184,
+     38.6305
+    ]
+   },
+   "properties": {
+    "id": "TFT88-01",
+    "nom": "Saint-Louis : Laclede's Landing, seul vestige du plan de rues du village français (arpentage de 1780)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1780.0,
+    "fin": 1780.999,
+    "date_edtf": "1780",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre de Laclède Liguest",
+     "Auguste Chouteau"
+    ],
+    "description": "Le guide des monuments de Saint-Louis note que le quartier de Laclede's Landing, au nord de l'arche, conserve la seule portion subsistante du tracé des rues issu de l'arpentage de 1780 du village français né autour du comptoir fondé en 1764 par Laclède et Chouteau ; le reste du vieux village a été rasé pour le Jefferson National Expansion Memorial.",
+    "sources": "Toft, Carolyn Hewes (dir.) (1988), St. Louis: Landmarks & Historic Districts, Saint-Louis, Landmarks Association of St. Louis.",
+    "note": "Position du quartier de Laclede's Landing."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1868,
+     38.6245
+    ]
+   },
+   "properties": {
+    "id": "TFT88-02",
+    "nom": "Saint-Louis : la vieille cathédrale de Mgr Rosati, achevée en 1834",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1831.0,
+    "fin": 1834.999,
+    "date_edtf": "1831/1834",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Rosati",
+     "Morton",
+     "Laveille"
+    ],
+    "description": "La Old Cathedral (basilique Saint-Louis-Roi-de-France), aux murs de moellons calcaires et à la façade de grès poli, est achevée en 1834 sur les plans de Morton et Laveille ; elle se dresse sur le terrain réservé à l'église dès le village colonial et a survécu au déblaiement des berges.",
+    "sources": "Toft, Carolyn Hewes (dir.) (1988), St. Louis: Landmarks & Historic Districts, Saint-Louis, Landmarks Association of St. Louis.",
+    "note": "Position de la Old Cathedral."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2135,
+     38.6005
+    ]
+   },
+   "properties": {
+    "id": "TFT88-03",
+    "nom": "Saint-Louis : la maison Chatillon-DeMenil, foyer d'Henri Chatillon et d'Odile Delor (vers 1849)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1849.0,
+    "fin": 1849.999,
+    "date_edtf": "1849",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Henri Chatillon",
+     "Odile Delor",
+     "Clément Delor de Treget",
+     "Francis Parkman"
+    ],
+    "description": "Henri Chatillon, chasseur et guide de l'expédition de Francis Parkman sur la piste de l'Oregon (1846), et sa femme Odile Delor, petite-fille de l'officier français fondateur de Carondelet en 1767, bâtissent vers 1849 le premier corps de cette maison, agrandie ensuite en villa néo-grecque par les DeMenil ; sauvée de l'autoroute dans les années 1960, elle est devenue musée.",
+    "sources": "Toft, Carolyn Hewes (dir.) (1988), St. Louis: Landmarks & Historic Districts, Saint-Louis, Landmarks Association of St. Louis.",
+    "note": "Position du 3352 DeMenil Place."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2605,
+     38.556
+    ]
+   },
+   "properties": {
+    "id": "TFT88-04",
+    "nom": "Carondelet : village fondé en 1767 et peuplé de Créoles, Français et Canadiens",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1767.0,
+    "fin": 1870.999,
+    "date_edtf": "1767/1870",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Clément Delor de Treget"
+    ],
+    "description": "Fondé en 1767 et commune distincte jusqu'en 1870, Carondelet est d'abord peuplé de Créoles, de Français et de Canadiens ; le village n'est incorporé qu'en 1832, quand s'y installe déjà une petite population allemande, puis ses maisons de pierre du milieu du siècle sont surtout l'œuvre d'immigrants allemands.",
+    "sources": "Toft, Carolyn Hewes (dir.) (1988), St. Louis: Landmarks & Historic Districts, Saint-Louis, Landmarks Association of St. Louis.",
+    "note": "Position du vieux Carondelet."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2835,
+     38.6625
+    ]
+   },
+   "properties": {
+    "id": "TFT88-05",
+    "nom": "Saint-Louis : la maison du Belge Emmanuel de Hodiamont, ancien trappiste de Florissant (vers 1818)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1808.0,
+    "fin": 1818.999,
+    "date_edtf": "1808/1818",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Emmanuel de Hodiamont"
+    ],
+    "description": "Né en Belgique, peut-être baron déshérité, Emmanuel de Hodiamont passe ses années américaines chez les trappistes, dont une à Florissant (1808-1809), puis quitte l'ordre vers 1818 pour se marier et se lancer dans l'immobilier et l'agriculture ; il bâtit la maison de pierre qui porte son nom avant de se retirer à l'abbaye de Gethsemani, au Kentucky.",
+    "sources": "Toft, Carolyn Hewes (dir.) (1988), St. Louis: Landmarks & Historic Districts, Saint-Louis, Landmarks Association of St. Louis.",
+    "note": "Position approximative de la maison de Hodiamont (Maple Place)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.254,
+     38.6155
+    ]
+   },
+   "properties": {
+    "id": "TFT88-06",
+    "nom": "Saint-Louis : la maison de René Beauvais, orfèvre d'ascendance canadienne-française (vers 1866)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.999,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "René Beauvais"
+    ],
+    "description": "La maison néo-grecque de brique rouge de Shaw Place est construite vers 1866 pour René Beauvais, orfèvre et bijoutier en vue d'ascendance canadienne-française ; elle devient en 1882 une maison de retraite de la Women's Christian Association.",
+    "sources": "Toft, Carolyn Hewes (dir.) (1988), St. Louis: Landmarks & Historic Districts, Saint-Louis, Landmarks Association of St. Louis.",
+    "note": "Position approximative près de Shaw Place."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.0,
+     50.0
+    ]
+   },
+   "properties": {
+    "id": "TNM-01",
+    "nom": "Prairies : les cartes de La Vérendrye et la « mer de l'Ouest » chez Bellin (1730-1743)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1730.0,
+    "fin": 1743.999,
+    "date_edtf": "1730/1743",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Gaultier de Varennes et de La Vérendrye",
+     "Jacques Nicolas Bellin"
+    ],
+    "description": "Murray montre comment les cartes que La Vérendrye envoie à Québec, redessinées et transmises à Paris, nourrissent les compilations françaises : Bellin, dans sa carte d'Amérique septentrionale de 1743, est l'un des premiers à les utiliser. Bien que deux fils de La Vérendrye aient traversé les Prairies en 1743 assez près des Rocheuses pour les voir, la croyance en un océan intérieur persiste, et les cartographes le relèguent derrière les montagnes.",
+    "sources": "Murray, Jeffrey S., Terra Nostra 1550-1950 : les cartes du Canada et leurs secrets, Sillery, Septentrion, p. 30.",
+    "note": "Point symbolique au centre des Prairies parcourues par les La Vérendrye."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0,
+     48.3
+    ]
+   },
+   "properties": {
+    "id": "TNM-02",
+    "nom": "Côte nord-ouest : la « mer de l'Ouest » de De L'Isle et Buache reliée au détroit de Juan de Fuca (1752)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1752.0,
+    "fin": 1752.999,
+    "date_edtf": "1752",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph-Nicolas De L'Isle",
+     "Philippe Buache"
+    ],
+    "description": "Sur leur carte de 1752, De L'Isle et Buache font communiquer la mer de l'Ouest avec le Pacifique par le détroit de Juan de Fuca, en se fiant au récit inventé de l'amiral de Fonte ; ils placent pourtant mieux le lac des Bois et relient correctement l'Asie et l'Amérique. Après 1763, la carte pique la curiosité britannique et inspire les recherches de Hearne et de Vancouver.",
+    "sources": "Murray, Jeffrey S., Terra Nostra 1550-1950 : les cartes du Canada et leurs secrets, Sillery, Septentrion, p. 31.",
+    "note": "Point à l'entrée du détroit de Juan de Fuca, débouché supposé de la mer de l'Ouest."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57,
+     51.18
+    ]
+   },
+   "properties": {
+    "id": "TNM-03",
+    "nom": "Rocheuses : Édouard-Gaston Deville, arpenteur général, et la phototopographie (1885-1890)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1885.0,
+    "fin": 1895.999,
+    "date_edtf": "1885/1895",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Édouard-Gaston Deville",
+     "J. J. McArthur"
+    ],
+    "description": "Né en France, Deville dirige l'arpentage des Prairies à partir de 1881 (119 équipes en 1883) et devient arpenteur général du Canada en 1885. Inspiré de la métrophotographie d'Aimé Laussedat, il fait lever les Rocheuses par photographie sur plaques de verre ; la carte de McArthur en vingt et une feuilles (début des années 1890) est la première description topographique détaillée de la chaîne.",
+    "sources": "Murray, Jeffrey S., Terra Nostra 1550-1950 : les cartes du Canada et leurs secrets, Sillery, Septentrion, p. 153.",
+    "note": "Point à Banff, au cœur de la zone des premiers levés phototopographiques le long du Canadien Pacifique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0,
+     40.44
+    ]
+   },
+   "properties": {
+    "id": "MON09-01",
+    "nom": "Vallée de l'Ohio : séjour attribué à Michel-Guillaume Saint-Jean de Crèvecœur (1767)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1767.0,
+    "fin": 1767.999,
+    "date_edtf": "1767",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel-Guillaume Saint-Jean de Crèvecœur"
+    ],
+    "description": "Dans sa chronologie, Monette retient qu'après avoir servi comme officier et cartographe dans les troupes de la Nouvelle-France (il dresse un plan du fort William-Henry en 1757), Crèvecœur aurait séjourné en 1767 dans la vallée de l'Ohio, la même année qu'un voyage possible en Jamaïque et aux Bermudes. Ses Lettres d'un fermier américain (1782) évoquent l'Ohio, la Monongahela et la Redstone Creek comme terres d'établissement.",
+    "sources": "Monette, Pierre (2009), St. John de Crèvecœur et les Lettres d'un fermier américain, Québec, Presses de l'Université Laval.",
+    "note": "Point hypothétique au confluent de l'Ohio (Pittsburgh) : le séjour n'est pas localisé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.06,
+     29.96
+    ]
+   },
+   "properties": {
+    "id": "MON09-02",
+    "nom": "Du delta du Mississippi au Canada : le voyage de dessinateur que la rumeur prête à Crèvecœur",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1755.0,
+    "fin": 1767.999,
+    "date_edtf": "1755/1767",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Michel-Guillaume Saint-Jean de Crèvecœur",
+     "Peter Dubois"
+    ],
+    "description": "Un rapport de l'assistant juge de paix Peter Dubois, enquêtant sur Crèvecœur pendant la Révolution, rapporte qu'on le disait venu une première fois en Amérique comme dessinateur d'un noble français, sur un trajet intérieur de l'embouchure du Mississippi jusqu'au Canada ; Crèvecœur lui-même laissait entendre avoir remonté le fleuve. Monette traite ce récit avec prudence, le séjour documenté étant celui du lac Champlain et de Québec.",
+    "sources": "Monette, Pierre (2009), St. John de Crèvecœur et les Lettres d'un fermier américain, Québec, Presses de l'Université Laval.",
+    "note": "Point symbolique à l'embouchure du Mississippi ; itinéraire non attesté."
+   }
   }
  ]
 }
