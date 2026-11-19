@@ -114773,6 +114773,128 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.193,
+     34.4045
+    ]
+   },
+   "properties": {
+    "id": "MFS-01",
+    "nom": "Fort Sumner : la maison des Maxwell dans l'ancien quartier des officiers (1870-1881)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1870.0,
+    "fin": 1881.999,
+    "date_edtf": "1870~/1881",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Pete Maxwell",
+     "Luz Beaubien Maxwell",
+     "Paulita Maxwell",
+     "Charlie Bowdre",
+     "Doc Scurlock"
+    ],
+    "description": "Quand l'armée abandonne Fort Sumner, Lucien Maxwell, après la vente de la concession Beaubien-Miranda, achète les bâtiments et s'y retire avec sa femme Luz Beaubien, fille de Charles Beaubien. À sa mort en 1875, leur fils aîné Pete (Pedro) reprend le ranch, dont le siège est l'ancien poste ; la famille habite l'ancien quartier des officiers. Pete Maxwell emploie des vachers, dont Charlie Bowdre et Doc Scurlock, établis là en 1878. Peuplé surtout de bergers hispaniques, le village devient aussi le refuge favori de Billy the Kid, ami de la famille.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 200.",
+    "note": "Pete Maxwell est le petit-fils de Charles Beaubien par sa mère Luz. Utley (2015) attribue l'achat du fort à Pete ; Wallis et l'atlas (DRV-08), à Lucien. En français, l'histoire a été racontée par le Québécois Éric Veillette (Billy, 2008), qui fait intervenir Luz Beaubien Maxwell, et par Éric Vuillard (Les orphelins, roman, 2019)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1925,
+     34.404
+    ]
+   },
+   "properties": {
+    "id": "MFS-02",
+    "nom": "Fort Sumner, Noël 1880 : Luz Beaubien Maxwell, Paulita et Deluvina",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1880.98,
+    "fin": 1880.98,
+    "date_edtf": "1880-12-24",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Luz Beaubien Maxwell",
+     "Paulita Maxwell",
+     "Deluvina Maxwell",
+     "Pat Garrett"
+    ],
+    "description": "La veille de Noël 1880, le shérif Garrett ramène enchaînés à Fort Sumner les prisonniers de Stinking Springs, dont Billy the Kid. Deluvina Maxwell, servante navajo de la maison, capturée enfant et échangée à Lucien Maxwell, obtient de Garrett que Billy puisse dire adieu à Paulita, la plus jeune fille de Lucien et de Luz. Dans l'ancien quartier des officiers, doña Luz Beaubien Maxwell demande en vain qu'on lui ôte ses chaînes pour un moment d'intimité.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 217.",
+    "note": "Utley (2015, PDF p. 102) rapporte la même scène : c'est « Mother » Maxwell, veuve de Lucien, qui implore Garrett. Voir MT02-08 pour l'arrivée de Deluvina chez les Maxwell."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1928,
+     34.4042
+    ]
+   },
+   "properties": {
+    "id": "MFS-03",
+    "nom": "Fort Sumner, juillet 1881 : la chambre de Pete Maxwell et le cimetière où repose Lucien",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1881.536,
+    "fin": 1881.538,
+    "date_edtf": "1881-07-14/1881-07-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pete Maxwell",
+     "Deluvina Maxwell",
+     "Paulita Maxwell",
+     "Lucien Maxwell",
+     "Pat Garrett"
+    ],
+    "description": "Dans la nuit du 14 juillet 1881, Pat Garrett interroge Pete Maxwell dans sa chambre obscure de la maison familiale quand Billy the Kid y entre ; Garrett l'abat. Pete pose une chandelle sur le rebord de la fenêtre pour que les adjoints voient le corps. Au matin, Deluvina Maxwell frappe Garrett de ses poings, et les femmes consolent Paulita. Billy est inhumé dans le vieux cimetière militaire, où reposait déjà Lucien Maxwell depuis 1875.",
+    "sources": "Wallis, Michael (2007), Billy the Kid: The Endless Ride, New York, W. W. Norton, PDF p. 216, 226.",
+    "note": "La maison Maxwell est aussi le lieu de DRV-20 (Pablo Beaubien). Le récit détaillé de la mort de Billy est dans l'Atlas Billy the Kid."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.56,
+     34.77
+    ]
+   },
+   "properties": {
+    "id": "MFS-04",
+    "nom": "Près de Puerto de Luna : le ranch de Pablo Beaubien (décembre 1880)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1880.961,
+    "fin": 1880.963,
+    "date_edtf": "1880-12-17/1880-12-18",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pablo Beaubien",
+     "Pat Garrett",
+     "Alexander Grzelachowski"
+    ],
+    "description": "Parti du magasin de Grzelachowski à Puerto de Luna le 17 décembre 1880, le shérif Pat Garrett fait halte avec sa troupe au ranch de Pablo Beaubien, à un mille au-dessus de celui de Gayheart. Son éclaireur y revient de Fort Sumner avec la confirmation que les hommes qu'il poursuit s'y trouvent.",
+    "sources": "Garrett, Pat F. (1882), The Authentic Life of Billy, the Kid, Santa Fe, New Mexican Printing and Publishing, PDF p. 68.",
+    "note": "Ce Pablo Beaubien est sans doute le dernier fils de Charles Beaubien, éleveur de moutons à Fort Sumner depuis 1870 (DRV-20, WJ-beaubien-pablo) ; Garrett ne le précise pas. Position hypothétique sur le Pecos, en aval de Puerto de Luna."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
