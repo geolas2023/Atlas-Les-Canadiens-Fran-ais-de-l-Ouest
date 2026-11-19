@@ -1,0 +1,28 @@
+# Edmond Dziembowski, La guerre de Sept Ans (1756-1763), Paris, Perrin / ministère de la Défense, 2015 (epub du Drive de
+# l'auteur, pack « Histoire des États-Unis »). Préfixe DZ15. Lieux de l'Amérique française absents de l'atlas.
+from commun import Corpus
+DZ = "Dziembowski, Edmond (2015), La guerre de Sept Ans (1756-1763), Paris, Perrin / Ministère de la Défense"
+C = Corpus('Recherches', 'DZ15', DZ, page_fmt='{}')
+F = C.F
+F('01', "Fort de la Presqu'île (Erie, Pennsylvanie) : l'expédition Marin au pays de l'Ohio (1753)", 'poste', '1753', -80.0850, 42.1360, 'c', ['Paul Marin de La Malgue', 'Ange Duquesne de Menneville'],
+  "Au printemps 1753, le gouverneur Duquesne lance une expédition commandée par Paul Marin pour réaffirmer la présence française dans la vallée de l'Ohio. La campagne tourne mal : la troupe est décimée par la maladie et son chef meurt ; les soldats reviennent comme des « spectres ». Marin a toutefois eu le temps de construire une chaîne de trois forts, dont le premier, le fort de la Presqu'île, sur la rive sud du lac Érié. Le retour des Français dans l'Ohio pousse les Chaouanons et les Delawares à reconsidérer leur alliance avec les Britanniques.",
+  "1re partie, ch. 1, « Les premières tensions : l'Ohio »", "Point à Erie (Pennsylvanie).")
+F('02', "Fort Le Bœuf (Waterford, Pennsylvanie) : deuxième fort de la chaîne Marin (1753)", 'poste', '1753', -79.9930, 41.9430, 'c', ['Paul Marin de La Malgue'],
+  "Deuxième des trois forts bâtis en 1753 par l'expédition de Paul Marin : le fort Le Bœuf, sur la Rivière-aux-Bœufs (French Creek), au bout du portage depuis le lac Érié. Il commande la descente vers l'Allegheny et l'Ohio.",
+  "1re partie, ch. 1, « Les premières tensions : l'Ohio »", "Point à Waterford (Pennsylvanie).")
+F('03', "Fort Machault (Franklin, Pennsylvanie) : au confluent de la Rivière-aux-Bœufs et de l'Allegheny (1753-1759)", 'poste', '1753/1759', -79.8310, 41.3970, 'c', ['Paul Marin de La Malgue'],
+  "Troisième fort de la chaîne de 1753, élevé au confluent de la Rivière-aux-Bœufs et de l'Allegheny, à l'emplacement du village delaware de Venango. Avec la Presqu'île et Le Bœuf, il prépare l'occupation de la Fourche de l'Ohio et la construction du fort Duquesne l'année suivante.",
+  "1re partie, ch. 1, « Les premières tensions : l'Ohio »", "Point à Franklin (Pennsylvanie). Le fort est abandonné et brûlé par les Français en 1759.")
+F('04', "Chouaguen (Oswego, New York) : prise du fort britannique par Montcalm avec les alliés des Pays d'en Haut (1756)", 'evenement', '1756-08', -76.5100, 43.4630, 'c', ['Louis-Joseph de Montcalm', 'Pierre de Rigaud de Vaudreuil', 'François-Pierre de Rigaud'],
+  "Par une ruse, le gouverneur Vaudreuil laisse croire aux Britanniques à une offensive contre le fort William Henry ; il décide en juillet 1756 l'expédition contre Chouaguen, sur le lac Ontario, confiée à Montcalm de retour de Carillon. Les Folles-Avoines (Menominees), réunis en conseil à Montréal, promettent de suivre M. de Rigaud et réclament canots neufs et vivres pour gagner Toronto. La place tombe en août 1756 : c'est la première grande victoire française du conflit en Amérique.",
+  "2e partie, ch. 4, « Les Français victorieux en Amérique : la prise d'Oswego »", "Point au fort Ontario (Oswego).")
+F('05', "Fort William Henry (Lake George, New York) : siège et capitulation de Monro (août 1757)", 'evenement', '1757-08', -73.7120, 43.4190, 'c', ['Louis-Joseph de Montcalm', 'Louis-Antoine de Bougainville', 'George Monro'],
+  "L'armée de Montcalm qui marche sur le fort William Henry à l'été 1757 compte des guerriers de trente-trois nations, des Pays d'en Haut aux Renards du Mississippi ; le 10 juillet, on chante un Te Deum en iroquois, et les officiers adoptés par les Iroquois du Sault-Saint-Louis reçoivent des noms : Bougainville devient Garoniatsigoa, « le grand ciel en courroux ». La garnison d'environ 1 500 hommes du lieutenant-colonel George Monro capitule. Deux ans plus tôt (septembre 1755), Dieskau avait échoué devant la palissade alors à peine bâtie.",
+  "2e partie, ch. 4, « 1757, année française au Nouveau Monde ? »", "Point au fort reconstitué de Lake George.")
+F('06', "Fort Carillon (Ticonderoga, New York) : victoire de Montcalm sur Abercromby (8 juillet 1758)", 'evenement', '1758-07-08', -73.3880, 43.8420, 'c', ['Louis-Joseph de Montcalm', 'James Abercromby'],
+  "Bâti par les Français pendant l'hiver 1755-1756 au sud du lac Champlain, le fort Carillon voit, le 8 juillet 1758, l'armée d'Abercromby se briser contre les retranchements de Montcalm. Dziembowski y voit le « chant du cygne de l'Amérique française » et note le paradoxe : Abercromby commet l'erreur que Montcalm reproduira un an plus tard devant Wolfe aux Plaines d'Abraham.",
+  "3e partie, ch. 9, « Carillon, chant du cygne de l'Amérique française »", "Point au fort Ticonderoga.")
+F('07', "Fort de Chartres (Illinois) : Neyon de Villiers et les nations qui refusent la paix (1763)", 'evenement', '1763', -90.1580, 38.0850, 'c', ['Pierre-Joseph Neyon de Villiers', 'Pontiac'],
+  "Après la paix de 1763, les nations des Pays d'en Haut refusent de reconnaître le roi George. Au fort de Chartres, sur le Mississippi, le commandant Pierre-Joseph Neyon de Villiers est assailli par des délégations qui l'exhortent à « prendre courage » et à ne pas les abandonner ; il rapporte que les chefs poutéouatamis ne répondent plus de leurs guerriers, que le Maître de la Vie pousse à la guerre — le souffle religieux du soulèvement de Pontiac.",
+  "Ch. 14, « La réponse des Amérindiens à la paix : la guerre de Pontiac »", "Point au fort de Chartres (Prairie du Rocher).")
+fiches = C.fiches
