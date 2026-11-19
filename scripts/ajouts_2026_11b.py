@@ -13,15 +13,16 @@
 #   « Recherches » (BF17-…)         Bolton, French Intrusions into New Mexico, 1749-1752 (1917)
 #   « Recherches » (LR05-…)         Journal de Larocque, 1805 (éd. Burpee, 1911)
 #   « Recherches » (WT85-…)         Wood et Thiessen, Early Fur Trade on the Northern Plains (1985)
+#   « Recherches » (HK19-…)         Hocking, Terror on the Santa Fe Trail (2019)
 # Idempotent : retire d'abord toutes les fiches dont l'identifiant porte un des préfixes ci-dessous, puis les recrée.
 # À exécuter APRÈS scripts/ajouts_2026_11.py (qui recrée le corpus « Illinois français » et effacerait les fiches IF2-).
 import json, os, sys, collections
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(R, 'scripts', 'sources_2026b'))
-import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985
+import atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985, hocking_2019
 
-MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985]
-PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-', 'DRV-', 'LC78-', 'BF17-', 'LR05-', 'WT85-')
+MODULES = [atlas_historique, franco_amerique, nouvelle_france, nouvelle_angleterre, oregon, midwest, memoire, provost, drive_2026, lecompte_1978, bolton_1917, larocque_1805, wood_1985, hocking_2019]
+PREFIXES = ('AH-', 'FA-', 'NF-', 'NA-', 'OR-', 'IF2-', 'R2-', 'PV-', 'DRV-', 'LC78-', 'BF17-', 'LR05-', 'WT85-', 'HK19-')
 THEMES = {'poste', 'etablissement', 'famille', 'personnage', 'evenement', 'commerce', 'migration', 'exploration', 'religion', 'toponymie'}
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

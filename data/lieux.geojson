@@ -109363,6 +109363,97 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.73,
+     36.73
+    ]
+   },
+   "properties": {
+    "id": "HK19-01",
+    "nom": "Cerro de la Olla : Leroux et Autobees guident les dragons contre les Utes (printemps 1849)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1849.167,
+    "fin": 1849.167,
+    "date_edtf": "1849-03~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Leroux",
+     "Charles Autobees",
+     "Bill Williams",
+     "Asa Estes"
+    ],
+    "description": "Au printemps 1849, le lieutenant Joseph H. Whittlesey part de Taos avec une soixantaine de dragons pour « châtier » les Utes. Ses guides sont Antoine Leroux, Charles Autobees, le vieux Bill Williams et Asa Estes ; ils trouvent le village ute sur le Cerro de la Olla, à une quinzaine de milles au nord de Río Colorado, de l'autre côté du canyon du Rio Grande, et le surprennent. Hocking pense que des Jicarillas s'y trouvaient aussi.",
+    "sources": "Hocking, Doug (2019), Terror on the Santa Fe Trail: Kit Carson and the Jicarilla Apache, Guilford (Conn.), TwoDot, ch. 7.",
+    "note": "Position au Cerro de la Olla (Rio Grande del Norte, Nouveau-Mexique)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.73,
+     35.18
+    ]
+   },
+   "properties": {
+    "id": "HK19-02",
+    "nom": "Breaks de la Canadian, près de Tucumcari : Leroux contre Carson (16-17 novembre 1849)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1849.874,
+    "fin": 1849.877,
+    "date_edtf": "1849-11-16/1849-11-17",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Antoine Leroux",
+     "Kit Carson",
+     "Robert Fisher",
+     "William Grier",
+     "Ann White"
+    ],
+    "description": "Pour retrouver Ann White, enlevée au massacre de Point of Rocks, le major Grier engage Antoine Leroux comme chef éclaireur et Robert Fisher comme guide ; Kit Carson, venu de Rayado, est placé sous les ordres de Leroux. Après plus de deux semaines sur la piste, Carson repère le camp jicarilla au débouché des Breaks de la Canadian, près de Tucumcari Butte, et propose une charge immédiate. Leroux conseille de s'arrêter pour parlementer ; Grier l'écoute. Les Jicarillas s'enfuient, Ann White est tuée en courant vers les soldats. Carson dira plus tard que, si l'on avait chargé, on l'aurait peut-être sauvée, sans blâmer ouvertement « l'autre guide ».",
+    "sources": "Hocking, Doug (2019), Terror on the Santa Fe Trail: Kit Carson and the Jicarilla Apache, Guilford (Conn.), TwoDot, ch. 8.",
+    "note": "Position hypothétique du camp au sud des Breaks de la Canadian, près de Tucumcari Butte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98,
+     35.79
+    ]
+   },
+   "properties": {
+    "id": "HK19-03",
+    "nom": "Fort Barclay : retour de Grier, Carson et « Watkin LaRoux » après le blizzard (25 novembre 1849)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1849.899,
+    "fin": 1849.899,
+    "date_edtf": "1849-11-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joaquin Leroux",
+     "Antoine Leroux",
+     "Kit Carson",
+     "Alexander Barclay"
+    ],
+    "description": "Au retour de l'expédition, une tempête de neige d'une violence inouïe tue un soldat et cause la mort de nombreux Jicarillas. Le journal d'Alexander Barclay note le 25 novembre 1849 l'arrivée de Grier, de Kit Carson et de « Watkin LaRoux » (Joaquin Leroux, fils d'Antoine), venus de Las Vegas.",
+    "sources": "Hocking, Doug (2019), Terror on the Santa Fe Trail: Kit Carson and the Jicarilla Apache, Guilford (Conn.), TwoDot, ch. 8.",
+    "note": "Position au fort Barclay, à La Junta de los Ríos (Watrous)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
