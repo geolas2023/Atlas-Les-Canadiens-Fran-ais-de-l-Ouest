@@ -2704,6 +2704,7 @@ G.update({
     'Auburn (Massachusetts)': (-71.835, 42.195, 'c', "Auburn (Massachusetts)"),
     'Hudson (Massachusetts)': (-71.566, 42.392, 'c', "Hudson (Massachusetts)"),
     'Greendale (Worcester, Massachusetts)': (-71.81, 42.30, 'c', "Greendale, Worcester (Massachusetts)"),
+    'Easthampton (Massachusetts)': (-72.669, 42.267, 'c', "Easthampton (Massachusetts)"),
 })
 
 
