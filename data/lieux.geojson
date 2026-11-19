@@ -1128089,6 +1128089,90 @@
     "sources": "Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), Bent's Old Fort National Historic Site, 2016.",
     "note": "Position au col Mosca ; le guide date la fondation du fort Uncompahgre de 1828 (Reyher 2002)."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.035,
+     37.965
+    ]
+   },
+   "properties": {
+    "id": "YE35-01",
+    "nom": "Le Grand Champ : la paroisse Saint-Joachim, premier nom de Sainte-Geneviève (1732)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1732.0,
+    "fin": 1732.999,
+    "date_edtf": "1732",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Paul Mercier",
+     "Louis Poulin"
+    ],
+    "description": "La tradition fixait la fondation de Sainte-Geneviève à 1735 ; deux cartes de 1755 et le mémoire du père Watrin suggéraient plutôt 1749-1752. Yealy retient une date plus ancienne : le 25 mai 1732, le père Mercier, supérieur de la mission de Cahokia, écrit au Séminaire de Québec qu'il a confié des papiers à « un certain Louis Poulin, de la paroisse Saint-Joachim ». Le premier village, au bord du fleuve face à Kaskaskia, s'appelait donc déjà Saint-Joachim ; en 1881, on y retrouva une margelle de puits gravée « 1732 ». Les mineurs qui, après la faillite de la Compagnie de Law (1720), portaient leur plomb au fleuve en furent sans doute les premiers habitants.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, ch. III, p. 21-28.",
+    "note": "Point sur l'ancien site du Grand Champ, au sud de la ville actuelle ; le village a été emporté par le fleuve."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.035,
+     37.965
+    ]
+   },
+   "properties": {
+    "id": "YE35-02",
+    "nom": "Sainte-Geneviève : le premier registre paroissial s'ouvre sur le mariage d'André de Guire dit La Rose (26 février 1759)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1759.152,
+    "fin": 1759.152,
+    "date_edtf": "1759-02-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "André de Guire dit La Rose",
+     "Marie La Boissière",
+     "Jean-Baptiste de Guire dit La Rose"
+    ],
+    "description": "Les registres de Sainte-Geneviève commencent le 26 février 1759 par le mariage d'André de Guire dit La Rose et de Marie La Boissière, veuve de Joseph Baron. En 1825, le vieil habitant Julien Labruyère témoignera qu'un Baptiste La Rose, très âgé, avait été le premier colon du vieux village ; Yealy identifie deux Jean-Baptiste de Guire dit La Rose, l'un mort en 1773, l'autre, natif de Montréal, mort en 1781. La plus ancienne pièce connue du village est une vente de terrain de décembre 1754, de Laurent Gabourie à Jean-Baptiste Saint-Gemme Beauvais.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, ch. III, p. 28-31.",
+    "note": "Point sur le site du vieux village."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0498,
+     37.9806
+    ]
+   },
+   "properties": {
+    "id": "YE35-03",
+    "nom": "Les Grandes Eaux de 1785 : Sainte-Geneviève monte aux Petites Côtes",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1785.25,
+    "fin": 1794.999,
+    "date_edtf": "1785-04~/1794",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "François Vallé"
+    ],
+    "description": "Vers 1784, le fleuve ronge la berge du vieux village ; au printemps 1785, les « Grandes Eaux » submergent le village et ses terres de douze à quinze pieds. Les habitants rebâtissent sur les hauteurs, aux Petites Côtes, où presque toutes les maisons sont transportées dès 1787 ; le vieux site n'est abandonné qu'en 1791 et l'église, démontée, n'est remontée dans le nouveau village que trois ans plus tard. Le lieutenant-gouverneur Zenon Trudeau écrira en 1798 que les inondations tourmentaient le vieux village depuis plus de soixante ans.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, ch. III et VI.",
+    "note": "Point au centre historique actuel de Sainte-Geneviève."
+   }
   }
  ]
 }
