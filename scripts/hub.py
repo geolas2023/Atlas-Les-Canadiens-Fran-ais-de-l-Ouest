@@ -104,5 +104,32 @@ if os.path.exists(fic):
             "sources": f"Atlas Robidoux, fiche {q['id']} ({q.get('sources', '')})", "note": "",
             "renvoi": True, "voir_aussi": [{"url": f"{ROBIDOUX}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Robidoux →"}]}})
         nb += 1
+# Atlas Chalifoux : les fiches reprises de ce réseau (champ « reseau ») reçoivent un bouton vers l'atlas ;
+# les fiches propres à l'Atlas Chalifoux deviennent des renvois courts X-Lxx.
+CHALIFOUX = 'https://geolas2023.github.io/Atlas_Chalifoux/'
+CHALIFOUX_LOCAL = os.environ.get('CHALIFOUX', '/home/claude/atlas_chalifoux')
+nc = 0
+fic = f'{CHALIFOUX_LOCAL}/data/lieux.geojson'
+if os.path.exists(fic):
+    d['features'] = [f for f in d['features'] if f['properties']['corpus'] != 'Atlas Chalifoux']
+    par_id = {f['properties']['id']: f for f in d['features']}
+    for f0 in json.load(open(fic, encoding='utf-8'))['features']:
+        q = f0['properties']
+        bouton = {"url": f"{CHALIFOUX}index.html#lieu={q['id']}", "texte": "Voir dans l'Atlas Chalifoux →"}
+        if q.get('reseau'):
+            g = par_id.get(q['reseau'])
+            if g is not None:
+                va = [v for v in g['properties'].get('voir_aussi') or [] if CHALIFOUX not in v['url']]
+                g['properties']['voir_aussi'] = va + [bouton]
+            continue
+        d['features'].append({"type": "Feature", "geometry": f0['geometry'], "properties": {
+            "id": f"X-{q['id']}", "nom": q['nom'], "corpus": "Atlas Chalifoux", "theme": 'personnage',
+            "debut": float(q['debut']), "fin": float(q.get('fin') or q['debut']), "date_edtf": q.get('date_edtf', ''),
+            "precision": q.get('precision', ''), "certitude": q.get('certitude', 'approximative'),
+            "personnages": ["Jean-Baptiste Chalifoux"], "description": premiere_phrase(q.get('description')),
+            "sources": f"Atlas Chalifoux, fiche {q['id']} ({q.get('sources', '')})", "note": "",
+            "renvoi": True, "voir_aussi": [{"url": f"{CHALIFOUX}index.html#lieu={q['id']}", "texte": "Fiche complète dans l'Atlas Chalifoux →"}]}})
+        nc += 1
 json.dump(d, open(f'{R}/data/lieux.geojson', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+print(f'{nc} renvois Chalifoux')
 print(f'{nr} fiches Aubry en renvoi court ; {nv} autres fiches avec renvoi ; {ni} renvois Iberville ; {nj} renvois Jolliet ; {nb} renvois Robidoux')

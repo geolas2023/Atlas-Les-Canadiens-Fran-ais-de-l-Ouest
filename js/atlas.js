@@ -22,14 +22,15 @@ const CORPUS = { 'Cragin': { libelle: 'Carnets de F. W. Cragin', trait: '#1d2633
                  "Piste de l'Oregon": { libelle: "La piste de l'Oregon (Bergeron)", trait: '#8e44ad' },
                  'Atlas Iberville': { libelle: "Atlas Iberville (renvois)", trait: '#2a7f7a' },
                  'Atlas Jolliet': { libelle: "Atlas Jolliet (renvois)", trait: '#7a4f1d' },
-                 'Atlas Robidoux': { libelle: "Atlas Robidoux (renvois)", trait: '#2f4d63' } };
+                 'Atlas Robidoux': { libelle: "Atlas Robidoux (renvois)", trait: '#2f4d63' },
+                 'Atlas Chalifoux': { libelle: "Atlas Chalifoux (renvois)", trait: '#c77d0a' } };
 // Arborescence du filtre « Corpus » : groupes repliables (un corpus absent de la liste va dans « Autres sources »)
 const GROUPES_CORPUS = [
   ['Témoignages et recherches', ['Cragin', 'Recherches']],
   ['Hafen et les montagnards', ['Hafen', 'Hafen MM']],
   ['Ouvrages de synthèse', ['Tassé', 'Atlas historique du Québec', 'Franco-Amérique', 'Nouvelle-France']],
   ['Régions', ['Illinois français', 'Nouvelle-Angleterre', "Piste de l'Oregon"]],
-  ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville', 'Atlas Jolliet', 'Atlas Robidoux']]
+  ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville', 'Atlas Jolliet', 'Atlas Robidoux', 'Atlas Chalifoux']]
 ];
 // Vue d'ouverture de l'accueil du réseau : les États-Unis et le Canada (du Pacifique à l'Atlantique, du golfe du Mexique à la baie James)
 const VUE_ACCUEIL = [[-128, 24], [-62, 58]];
@@ -311,7 +312,7 @@ function afficherFiche(id, depuisListe = null) {
     ${depuisListe ? '<button class="retour" id="retour">← retour à la liste</button>' : ''}
     <h2>${esc(p.nom)}</h2>
     <div>
-      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' || p.corpus === 'Atlas Iberville' || p.corpus === 'Atlas Jolliet' || p.corpus === 'Atlas Robidoux' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
+      <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' || p.corpus === 'Atlas Iberville' || p.corpus === 'Atlas Jolliet' || p.corpus === 'Atlas Robidoux' || p.corpus === 'Atlas Chalifoux' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
       <span class="badge" style="background:${coulTheme};color:#fff">${esc(LIBELLES[p.theme] || p.theme)}</span>
       <span class="badge ${esc(p.certitude)}">localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
     </div>
