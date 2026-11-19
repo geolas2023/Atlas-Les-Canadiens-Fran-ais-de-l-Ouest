@@ -109796,6 +109796,283 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.95,
+     36.55
+    ]
+   },
+   "properties": {
+    "id": "MT02-01",
+    "nom": "Concession Beaubien-Miranda : une prise de possession douteuse (22 février - 2 mars 1843)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1843.141,
+    "fin": 1843.169,
+    "date_edtf": "1843-02-22/1843-03-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien",
+     "Guadalupe Miranda",
+     "Cornelio Vigil",
+     "Charles Bent",
+     "Manuel Armijo"
+    ],
+    "description": "Selon l'acte, le juge de paix Cornelio Vigil conduit Beaubien et Miranda sur la concession le 22 février 1843, élève cinq bornes de pierres et les « prend par la main » pour leur faire jeter de la terre et arracher des herbes, gestes de la prise de possession à l'espagnole ; nulle mention n'est faite des Jicarillas. Montoya juge la cérémonie presque impossible : bornes distantes de centaines de milles, deux en pleine montagne, en plein hiver, et les deux hommes signent à Taos dès le 2 mars des actes cédant des parts au gouverneur Armijo et à Charles Bent.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 32-33.",
+    "note": "Position au cœur de la concession (Ponil-Cimarron)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.93,
+     36.6
+    ]
+   },
+   "properties": {
+    "id": "MT02-02",
+    "nom": "Le padre Martínez fait suspendre la concession Beaubien, rétablie le 18 avril 1844",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1843.167,
+    "fin": 1844.297,
+    "date_edtf": "1843-03/1844-04-18",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Beaubien",
+     "Antonio José Martínez",
+     "Charles Bent",
+     "Mariano Chávez",
+     "Felipe Sena",
+     "Cornelio Vigil"
+    ],
+    "description": "Méfiant envers Beaubien, « français de naissance » et ami des trappeurs américains, le curé de Taos dénonce la part secrète de Charles Bent, l'usage de ces terres comme territoire de chasse des Pueblos et des Jicarillas et comme pâturage commun des villageois du Río Arriba. Il obtient à Durango l'annulation de la concession, que le gouverneur Chávez fait appliquer. Après un an, l'assemblée juge sa pétition fondée sur de faux renseignements ; le 18 avril 1844, Vigil réinstalle Beaubien et Miranda, et le gouverneur Sena nomme Beaubien juge de paix des nouveaux établissements de la Ponil et de la Cimarron.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 33-36.",
+    "note": "Position sur la Ponil."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "MT02-03",
+    "nom": "Taos : Lucien Maxwell épouse Luz Beaubien, treize ans (1844)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1844.0,
+    "fin": 1844.999,
+    "date_edtf": "1844",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien Maxwell",
+     "Charles Beaubien",
+     "Céran St. Vrain"
+    ],
+    "description": "Présenté à Charles Beaubien par son oncle Céran St. Vrain, Lucien Maxwell, chasseur des expéditions de Frémont, épouse en 1844 María de la Luz Beaubien, alors âgée de treize ans. Montoya y voit une alliance dynastique arrangée par le père : c'est par ce mariage, et non par son seul travail, que Maxwell finira par posséder la concession. Luz reste chez ses parents jusqu'en 1848, pendant que son mari repart avec Frémont.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 50-51.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.93,
+     36.37
+    ]
+   },
+   "properties": {
+    "id": "MT02-04",
+    "nom": "Rayado : vingt familles au métayage pour le compte de Beaubien (1848-1851)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1848.0,
+    "fin": 1851.999,
+    "date_edtf": "1848/1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien Maxwell",
+     "Eleanor Beaubien Trujillo",
+     "Petra Beaubien Abreu",
+     "Kit Carson"
+    ],
+    "description": "En 1848, Luz, dix-huit ans, s'installe avec Maxwell à la Rayado, choisie avec Beaubien pour exploiter le domaine ; ses sœurs Eleanor Trujillo et Petra Abreu les suivent avec leurs maris. En 1851, près de vingt familles hispano, anglo et indiennes y vivent « à moitié » : colons et péons remettent la moitié de la récolte à Beaubien, Maxwell servant d'intermédiaire. La famille loue aussi logements et écuries au poste militaire et lui vend vivres et fourrage. Maxwell n'est encore que le contremaître de son beau-père.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 51.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.915,
+     36.51
+    ]
+   },
+   "properties": {
+    "id": "MT02-05",
+    "nom": "Cimarron : les Maxwell achètent leur propre domaine aux Beaubien, puis la moitié de Miranda (1857-1858)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1857.0,
+    "fin": 1858.999,
+    "date_edtf": "1857/1858",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien Maxwell",
+     "Charles Beaubien",
+     "Paula Lobato Beaubien",
+     "Guadalupe Miranda"
+    ],
+    "description": "En 1857, Lucien et Luz achètent à Carlos et Paula Beaubien un terrain de vingt-deux milles carrés au débouché du canyon de Taos, sur la Cimarron, et y établissent maison et ranch. En 1858, ils acquièrent pour 2 745 $ la moitié de la concession appartenant à Guadalupe Miranda, réfugié au Mexique ; marché conclu sur parole, dont l'acte ne sera signé que dix ans plus tard, quand il faudra rassurer les acheteurs anglais. Maxwell, raconte son avocat Melvin Mills, détestait signer et jeta un jour au feu un papier qu'on lui demandait de parapher.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 52.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.574,
+     36.406
+    ]
+   },
+   "properties": {
+    "id": "MT02-06",
+    "nom": "Taos : les filles Beaubien vendent leur part d'héritage aux Maxwell (1864)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1864.083,
+    "fin": 1864.552,
+    "date_edtf": "1864-02/1864-07-20",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Luz Beaubien Maxwell",
+     "Lucien Maxwell",
+     "Teodora Beaubien Mueller",
+     "Juana Beaubien Clouthier",
+     "Eleanor Beaubien Trujillo",
+     "Frederick Mueller",
+     "Kirby Benedict"
+    ],
+    "description": "À sa mort en février 1864, Carlos Beaubien lègue la concession à ses six enfants, filles et garçons, à parts égales, selon l'usage mexicain. Quelques mois plus tard, les Maxwell rachètent la part de Teodora Mueller (500 $) et celle de Juana Clouthier (3 500 $), toutes deux mariées à des marchands de Taos, puis le 20 juillet celle d'Eleanor Trujillo (3 000 $). En instance de divorce, Eleanor craignait que la règle américaine de la coverture ne livre ses biens à son mari volage ; le juge Kirby Benedict lui accordera finalement tous les biens du ménage.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 52-53.",
+    "note": "Frederick Mueller est l'exécuteur testamentaire de Beaubien."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.93,
+     36.38
+    ]
+   },
+   "properties": {
+    "id": "MT02-07",
+    "nom": "Rayado et Cimarron : les dernières parts, les héritiers Bent et la vente aux Anglais (1866-1869)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1866.0,
+    "fin": 1869.999,
+    "date_edtf": "1866/1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien Maxwell",
+     "Petra Beaubien Abreu",
+     "Jesús Abreu",
+     "Pablo Beaubien"
+    ],
+    "description": "En 1866, Maxwell éteint la réclamation des héritiers de Charles Bent ; en 1868, il achète la part de Petra Abreu contre 3 500 $ et des terres autour de la Rayado, où les Abreu ont établi leur propre ranch ; enfin, quelques mois avant la vente, il paie 3 500 $ la part du cadet, Paul (Pablo) Beaubien. Lors de la vente du domaine à un syndicat anglais en 1869, la signature de Luz figure sur les actes, comme le voulait le droit civil mexicain : elle était copropriétaire. Les Maxwell comptaient alors se retirer à la Rayado.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 53-55.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.916,
+     36.512
+    ]
+   },
+   "properties": {
+    "id": "MT02-08",
+    "nom": "Cimarron : Deluvina, enfant navajo achetée aux Utes par Maxwell",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1881.999,
+    "date_edtf": "1855~/1881",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Deluvina Maxwell",
+     "Lucien Maxwell",
+     "Luz Beaubien Maxwell",
+     "Paulita Maxwell"
+    ],
+    "description": "Montoya illustre l'esclavage indien qui subsiste sur le domaine par le cas de Deluvina, enfant navajo enlevée près du canyon de Chelly lors d'un raid ute où toute sa famille fut tuée. Maxwell, qui commerçait volontiers avec les Utes, l'achète à sept ans pour l'offrir à Luz. Servante de la famille presque toute sa vie, attachée à Paulita Maxwell et, dit-on, à Billy the Kid, elle meurt à Albuquerque dans les années 1930. Colons libres, péons, métayers et captifs indiens se côtoyaient ainsi sur le domaine.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 69.",
+    "note": "Date d'achat non précisée par Montoya ; position à Cimarron."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99,
+     35.9
+    ]
+   },
+   "properties": {
+    "id": "MT02-09",
+    "nom": "Fort Union : Luz Beaubien Maxwell, veuve et éleveuse (après 1875)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1875.0,
+    "fin": 1895.999,
+    "date_edtf": "1875/1895~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Luz Beaubien Maxwell",
+     "Lucien Maxwell"
+    ],
+    "description": "Après la mort de Lucien en 1875, Luz est nommée exécutrice de sa succession avec son fils et son beau-frère, et dirige ses affaires depuis la Rayado. Libre d'agir seule (femme sole), elle tient vingt ans plus tard une société d'élevage, Maxwell and Brazil, qui fait paître plus de deux mille têtes sur ses terres de la réserve de Fort Union. Ne parlant pas anglais, absente des salons de la maison de Cimarron, elle n'en était pas moins copropriétaire et femme d'affaires.",
+    "sources": "Montoya, María E. (2002), Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900, Berkeley, University of California Press, p. 55, 76.",
+    "note": "Position à la réserve militaire de Fort Union."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
