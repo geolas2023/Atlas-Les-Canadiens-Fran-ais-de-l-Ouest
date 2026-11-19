@@ -1,0 +1,258 @@
+{
+ "livre": "Hafen, LeRoy R. (ed.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (sketches taken from The Mountain Men and the Fur Trade of the Far West, 1965-1972)",
+ "personnages": [
+  {
+   "id": "intro",
+   "nom": "Introduction: the French world of the fur trade",
+   "couleur": "#7a6a55",
+   "vie": "1763-1865",
+   "auteur": "Janet Lecompte",
+   "pages": "9-26",
+   "etapes": 10,
+   "debut": 1764.0,
+   "fin": 1862.0
+  },
+  {
+   "id": "beaubien",
+   "nom": "Charles (Alexis) Beaubien",
+   "couleur": "#b5402a",
+   "vie": "1800-1864",
+   "auteur": "Lawrence R. Murphy",
+   "pages": "29-41",
+   "etapes": 17,
+   "debut": 1800.47,
+   "fin": 1864.2
+  },
+  {
+   "id": "bordeaux",
+   "nom": "James Bordeaux",
+   "couleur": "#7b3f9e",
+   "vie": "1814-1878",
+   "auteur": "John Dishon McDermott",
+   "pages": "42-57",
+   "etapes": 26,
+   "debut": 1814.64,
+   "fin": 1878.78
+  },
+  {
+   "id": "chalifoux",
+   "nom": "Jean-Baptiste Chalifoux",
+   "couleur": "#c77d0a",
+   "vie": "v. 1791-1860",
+   "auteur": "Janet Lecompte",
+   "pages": "58-75",
+   "etapes": 23,
+   "debut": 1791.5,
+   "fin": 1860.95
+  },
+  {
+   "id": "charbonneau",
+   "nom": "Jean-Baptiste Charbonneau",
+   "couleur": "#2e8b57",
+   "vie": "1805-1866",
+   "auteur": "Ann W. Hafen",
+   "pages": "76-95",
+   "etapes": 33,
+   "debut": 1805.11,
+   "fin": 1866.38
+  },
+  {
+   "id": "chouteau",
+   "nom": "Auguste-Pierre Chouteau",
+   "couleur": "#8b1a1a",
+   "vie": "1786-1838",
+   "auteur": "Janet Lecompte",
+   "pages": "96-123",
+   "etapes": 21,
+   "debut": 1786.35,
+   "fin": 1838.99
+  },
+  {
+   "id": "clamorgan",
+   "nom": "Jacques Clamorgan",
+   "couleur": "#4b5d8a",
+   "vie": "v. 1734-1814",
+   "auteur": "A. P. Nasatir",
+   "pages": "124-137",
+   "etapes": 17,
+   "debut": 1734.0,
+   "fin": 1814.87
+  },
+  {
+   "id": "franchere",
+   "nom": "Gabriel Franchère",
+   "couleur": "#1f6f8b",
+   "vie": "1786-1863",
+   "auteur": "Carl P. Russell",
+   "pages": "138-143",
+   "etapes": 19,
+   "debut": 1810.5,
+   "fin": 1863.29
+  },
+  {
+   "id": "gervais",
+   "nom": "Joseph Gervais",
+   "couleur": "#6b8e23",
+   "vie": "1777-1861",
+   "auteur": "Kenneth L. Holmes",
+   "pages": "144-158",
+   "etapes": 16,
+   "debut": 1777.0,
+   "fin": 1861.54
+  },
+  {
+   "id": "larpenteur",
+   "nom": "Charles Larpenteur",
+   "couleur": "#a0522d",
+   "vie": "1807-1872",
+   "auteur": "Louis Pfaller, o.s.b.",
+   "pages": "159-175",
+   "etapes": 25,
+   "debut": 1807.0,
+   "fin": 1872.88
+  },
+  {
+   "id": "leduc",
+   "nom": "Maurice LeDuc",
+   "couleur": "#00a8e8",
+   "vie": "v. 1802-v. 1880",
+   "auteur": "Janet Lecompte",
+   "pages": "176-189",
+   "etapes": 66,
+   "debut": 1795.0,
+   "fin": 1881.0
+  },
+  {
+   "id": "lesperance",
+   "nom": "Pierre Lesperance",
+   "couleur": "#d4a017",
+   "vie": "1791-1879",
+   "auteur": "Janet Lecompte",
+   "pages": "190-195",
+   "etapes": 18,
+   "debut": 1791.77,
+   "fin": 1879.99
+  },
+  {
+   "id": "elucier",
+   "nom": "Étienne Lucier",
+   "couleur": "#3c7a3c",
+   "vie": "v. 1793-1853",
+   "auteur": "Harriet D. Munnick",
+   "pages": "196-207",
+   "etapes": 16,
+   "debut": 1793.0,
+   "fin": 1853.21
+  },
+  {
+   "id": "jblucier",
+   "nom": "Jean-Baptiste Lucier dit Gardipe",
+   "couleur": "#5f9ea0",
+   "vie": "v. 1810-1850",
+   "auteur": "Harriet D. Munnick",
+   "pages": "208-216",
+   "etapes": 16,
+   "debut": 1804.0,
+   "fin": 1850.63
+  },
+  {
+   "id": "menard",
+   "nom": "Pierre Ménard",
+   "couleur": "#9c2f5c",
+   "vie": "1766-1844",
+   "auteur": "Richard E. Oglesby",
+   "pages": "217-228",
+   "etapes": 19,
+   "debut": 1766.0,
+   "fin": 1844.45
+  },
+  {
+   "id": "moncravie",
+   "nom": "Jean-Baptiste Moncravie",
+   "couleur": "#b8860b",
+   "vie": "v. 1797-1885",
+   "auteur": "Charles E. Hanson Jr.",
+   "pages": "229-238",
+   "etapes": 19,
+   "debut": 1797.0,
+   "fin": 1885.55
+  },
+  {
+   "id": "papin",
+   "nom": "Pierre-Didier Papin",
+   "couleur": "#5a4fcf",
+   "vie": "1798-1853",
+   "auteur": "William A. Goff",
+   "pages": "239-252",
+   "etapes": 19,
+   "debut": 1653.0,
+   "fin": 1853.4
+  },
+  {
+   "id": "pariseau",
+   "nom": "Pierre Pariseau",
+   "couleur": "#2f6f4f",
+   "vie": "v. 1793-1892",
+   "auteur": "Harriet D. Munnick",
+   "pages": "253-257",
+   "etapes": 11,
+   "debut": 1793.0,
+   "fin": 1892.06
+  },
+  {
+   "id": "pratte",
+   "nom": "Sylvestre S. Pratte",
+   "couleur": "#c0392b",
+   "vie": "1799-1827",
+   "auteur": "David J. Weber",
+   "pages": "258-269",
+   "etapes": 14,
+   "debut": 1799.72,
+   "fin": 1831.02
+  },
+  {
+   "id": "robidoux",
+   "nom": "Antoine Robidoux",
+   "couleur": "#d35400",
+   "vie": "1794-1860",
+   "auteur": "William S. Wallace",
+   "pages": "270-282",
+   "etapes": 22,
+   "debut": 1794.73,
+   "fin": 1860.66
+  },
+  {
+   "id": "mstvrain",
+   "nom": "Marcellin St. Vrain",
+   "couleur": "#e6007e",
+   "vie": "1815-1871",
+   "auteur": "Harvey L. Carter",
+   "pages": "283-287",
+   "etapes": 17,
+   "debut": 1815.79,
+   "fin": 1871.18
+  },
+  {
+   "id": "sarpy",
+   "nom": "Pierre (Peter A.) Sarpy",
+   "couleur": "#6d4c41",
+   "vie": "1805-1865",
+   "auteur": "John E. Wickman",
+   "pages": "288-301",
+   "etapes": 16,
+   "debut": 1805.84,
+   "fin": 1865.1
+  },
+  {
+   "id": "vasquez",
+   "nom": "Antoine-François “Baronet” Vasquez",
+   "couleur": "#008080",
+   "vie": "1783-1828",
+   "auteur": "Janet Lecompte",
+   "pages": "302-314",
+   "etapes": 26,
+   "debut": 1738.0,
+   "fin": 1828.6
+  }
+ ]
+}

@@ -550,3 +550,15 @@ Sur la carte, les fiches qui partagent exactement les mêmes coordonnées formen
 Quand une source donne une adresse précise, la fiche quitte le point générique de la ville et rejoint son propre emplacement. Pour Saint-Louis, les coins de rues cités par Billon (1886) sont reconstitués sur le quadrillage actuel du centre-ville (`scripts/sources_archive/adresses.py`, précision d'environ 50 m) ; la liste est dans `billon_1886_adresses.txt` (une ligne par adresse : nom, années, rues, angle, description, page).
 
 Les concessions verbales de Laclède (1765), que Billon énumère par numéro d'îlot (p. 37-39), sont placées dans la bonne partie de leur îlot (moitié, quart ou sixième) grâce à `billon_1886_ilots.txt`. La numérotation des îlots a été reconstituée et recoupée avec une dizaine d'adresses données ailleurs par Billon : îlots 1 à 12 entre le fleuve et Main, du sud au nord (7 = place d'Armes) ; 27 à 41 entre Main et Second, du nord au sud (34 = îlot de Laclède) ; 52 à 64 entre Second et Third, du sud au nord (59 = îlot de l'église). Les îlots 13 à 26, 42 à 51 et au-delà de 64 (par exemple 18, 44 ou 82) restent non placés faute de repère sûr.
+
+## Version anglaise
+
+`index-en.html` est la version anglaise de l'atlas (lien English / Français dans la barre du haut). L'interface est traduite dans `js/atlas.js` (selon `<html lang>`) et `js/traduction-en.js` (nations, corpus, mentions françaises des sources). Les fiches traduites sont dans `data/traductions-en.json`, une fiche par ligne ; une fiche qui n'y est pas encore s'affiche en français, avec une mention.
+
+La traduction se fait par lots :
+
+```
+python3 scripts/traduction_lot.py etat                 # avancement
+python3 scripts/traduction_lot.py extraire 400         # écrit lot-fr.json (fiches à traduire)
+python3 scripts/traduction_lot.py integrer lot-en.json # vérifie et ajoute le lot traduit
+```

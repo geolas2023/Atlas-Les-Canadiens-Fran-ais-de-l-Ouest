@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas of French America — The French Canadians of the West</title>
+  <meta name="author" content="Olivier J. Caron, Department of Geography, UQAM">
+  <meta name="description" content="Interactive geohistorical atlas of French speakers (French Canadians, Creoles, French) in the North American West: places, people and events mapped.">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+  <link rel="stylesheet" href="css/style.css?v=202611275919">
+</head>
+<body>
+  <header class="barre">
+    <span class="fleur" aria-hidden="true">⚜</span>
+    <h1><a href="index-en.html" id="titre-accueil" title="Network home">Atlas of French America</a> <span>The French Canadians of the West · historical atlases of North America's French speakers</span></h1>
+    <p class="credit"><a href="https://professeurs.uqam.ca/professeur/caron.olivier/" target="_blank" rel="noopener">Olivier J. Caron</a> · <a href="https://geo.uqam.ca/" target="_blank" rel="noopener">Department of Geography</a> <img class="logo-uqam" src="images/uqam-logo.svg" alt="UQAM"></p>
+    <a class="lien-salle salle-leduc" href="salle-en.html" title="Reading room: one tab and one timeline per person">✦ Reading room: the voyageurs</a>
+    <button type="button" id="btn-atlas" class="lien-salle" title="The atlases of the Atlas of French America network">⚜ The atlases</button>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Aubry/index-en.html" title="Aubry Atlas: François-Xavier Aubry (1824-1854) and his circle">↔ Aubry Atlas</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Jolliett/index-en.html" title="Jolliet Atlas: Louis Jolliet (1645-1700)">↔ Jolliet Atlas</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Les-Robidoux/" title="Robidoux Atlas: the Robidoux family (1720-1876), in French">↔ Robidoux Atlas</a>
+    <a class="lien-salle lien-langue" href="index.html" hreflang="fr" lang="fr" title="Version française">Français</a>
+    <button type="button" id="btn-apropos" class="lien-salle">About</button>
+  </header>
+
+  <main class="contenu">
+    <section id="outils" aria-label="Search and filters">
+      <div class="bloc">
+        <label for="recherche" class="titre-bloc">Search</label>
+        <input type="search" id="recherche" placeholder="Name, place, person…" autocomplete="off">
+      </div>
+      <details class="bloc">
+        <summary class="titre-bloc">Corpus <span class="mini" id="corpus-resume"></span></summary>
+        <div id="f-corpus"></div>
+        <p class="mini"><a href="#" id="corpus-tous">all</a> · <a href="#" id="corpus-aucun">none</a></p>
+      </details>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Themes</summary>
+        <div id="f-themes"></div>
+        <p class="mini"><a href="#" id="themes-tous">all</a> · <a href="#" id="themes-aucun">none</a></p>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Location certainty</summary>
+        <div id="f-certitude"></div>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">People <span id="nb-pers" class="mini"></span></summary>
+        <input type="search" id="recherche-pers" placeholder="Filter the list…" autocomplete="off">
+        <ul id="liste-pers" class="liste-pers"></ul>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Basemap and context</summary>
+        <div class="choix-fond" role="radiogroup" aria-label="Basemap">
+          <label><input type="radio" name="fond" value="plan"> Map</label>
+          <label><input type="radio" name="fond" value="arpenteur" checked> Surveyor</label>
+          <label><input type="radio" name="fond" value="western"> Western</label>
+          <label><input type="radio" name="fond" value="relief"> Terrain</label>
+          <label><input type="radio" name="fond" value="satellite"> Satellite</label>
+        </div>
+        <label><input type="checkbox" id="c-piste"> Santa Fe Trail (Aubry Atlas survey)</label>
+        <label><input type="checkbox" id="c-leduc"> <i class="puce" style="background:#00a8e8;border-color:#063b52"></i>Maurice LeDuc's journey</label>
+        <p class="mini">Entries linked to Maurice LeDuc are always sky blue.</p>
+      </details>
+      <p id="compteur" class="compteur" aria-live="polite"></p>
+    </section>
+
+    <div id="carte" aria-label="Interactive map"></div>
+
+    <aside id="panneau" aria-live="polite">
+      <div class="vide">
+        <h2>Atlas of French America</h2>
+        <div class="filet" aria-hidden="true">✦</div>
+        <p class="chapeau-accueil">From the Great Lakes to the Gulf of Mexico, from New England to Oregon, French-speaking voyageurs, traders, settlers and workers left their traces across the whole continent. This network of geohistorical atlases maps them, each from its own sources; each entry lives in a single atlas and the others refer to it.</p>
+        <h3 class="titre-reseau">The atlases of the network</h3>
+        <div id="atlas-reseau"></div>
+        <details class="section-accueil">
+          <summary class="titre-reseau">Archives and news</summary>
+        <p>Click a point to open its entry. When several entries share the same place (Taos, Mora, Fort El Pueblo…), the full list is shown.</p>
+        <p>The atlas brings together the <strong>interview notebooks of Francis W. Cragin</strong> (1902-1923), surveyed for every mention of French speakers, the <strong>point entries of the Aubry Atlas</strong>, the traces found in the course of <strong>research</strong> (literature, web), and a growing <strong>archive.org library</strong> of public-domain books read in full, from Louisiana to Montana. The <a href="salle-en.html">reading room</a> has one tab per person from <em>French Fur Traders and Voyageurs in the American West</em> (Hafen, ed.); Maurice LeDuc keeps the sky-blue color.</p>
+        <p>Reading pages: <a href="canadiens-ouest-en.html">The French Canadians of the West (Tassé, 1878)</a> · <a href="montagnards-en.html">The mountain men (Hafen)</a> · <a href="illinois-francais-en.html">French Illinois</a> · <a href="provost-en.html">Étienne Provost</a>.</p>
+        <p class="avertissement">English version: the interface is translated; the entries (more than 34,000) are being translated in batches, and those not yet translated are shown in the original French. The testimonies collected by Cragin are pioneers' memories, often recorded late. Each entry gives the page of the notebooks PDF, the level of certainty of the location and, where needed, a critical note.</p>
+        </details>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="timeline">
+    <button type="button" id="lecture" title="Animate the timeline" aria-label="Animate">▶</button>
+    <div class="curseurs">
+      <div class="double">
+        <input type="range" id="t-debut" min="1560" max="2010" step="1" value="1560" aria-label="Start of the period">
+        <input type="range" id="t-fin" min="1560" max="2010" step="1" value="2010" aria-label="End of the period">
+      </div>
+      <div id="graduation"></div>
+    </div>
+    <span id="periode"></span>
+    <label class="mini"><input type="checkbox" id="t-tout" checked> whole period</label>
+  </footer>
+
+  <dialog id="apropos">
+    <h2>About the atlas</h2>
+    <p>A geohistorical atlas of French speakers (French Canadians, Missouri and Illinois Creoles, French from France, French-speaking Swiss) and of the events that concern them in North America, starting with the American West.</p>
+    <h3>Sources</h3>
+    <ul>
+      <li><strong>Cragin</strong> — Francis Whittemore Cragin, <em>Early Far West Notebooks</em> (1902-1923), Colorado Springs Pioneers Museum (typed transcription by Mrs. Shaw, 333-page PDF). Every mention of French speakers has been located and summarized; each entry refers to the PDF pages.</li>
+      <li><strong>Research</strong> — French-speaking traces found in the literature and on the web (sources cited in each entry).</li>
+      <li><strong>Hafen</strong> and <strong>Hafen MM</strong> — the sketches of <em>French Fur Traders and Voyageurs in the American West</em> (Hafen, ed., 1995), read in full and mapped step by step, and a survey of volumes 2 and 4 to 9 of <em>The Mountain Men and the Fur Trade of the Far West</em>: every dated place in the biographies of 68 French speakers, with the page (automatic identification, to be checked).</li>
+      <li><strong>Tassé</strong> — Joseph Tassé, <em>Les Canadiens de l'Ouest</em> (Montreal, 1878), vols. I and II.</li>
+      <li><strong>French Illinois</strong>, <strong>La francophonie nord-américaine</strong> (Atlas historique du Québec, 2012), <strong>Franco-Amérique</strong> (Louder and Waddell, 2008), <strong>New France</strong> (Margry, Johnson, Marchand), <strong>New England</strong> (Vermette, MacDonald, Belisle) and <strong>The Oregon Trail</strong> (Bergeron).</li>
+      <li><strong>archive.org library</strong> (in progress) — public-domain books read in full text on archive.org, one corpus per book, each entry with the passage cited and a link to the book: hundreds of volumes, from Morice's <em>Dictionnaire historique</em> and Houck's <em>History of Missouri</em> to the <em>Louisiana Historical Quarterly</em>. The detailed list, with the number of entries per book, is in the <a href="index.html">French version</a> (About).</li>
+      <li><strong>Aubry Atlas</strong> — cross-references to the entries of the <a href="https://geolas2023.github.io/Atlas-Aubry/index-en.html">Geohistorical Atlas of François-Xavier Aubry</a> (1824-1854): name, date, place and a one-sentence summary; the full entry, its sources and images remain in the Aubry Atlas.</li>
+    </ul>
+    <h3>Reading the entries</h3>
+    <p>Dates are expressed in decimal years for filtering and in EDTF (<code>~</code> approximate, <code>?</code> uncertain). Certainty refers to the <em>location</em>: certain (place identified), approximate (place known, point estimated), hypothetical (identification or position to be checked). The descriptions are summaries written for the atlas and translated from the French; names are given in their French form when attested, with the notebooks' spelling in parentheses.</p>
+    <p>Data: <code>data/lieux.geojson</code> (EPSG:4326), editable in QGIS; English translations in <code>data/traductions-en.json</code>.</p>
+    <form method="dialog"><button class="btn">Close</button></form>
+  </dialog>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+  <script src="js/fonds.js?v=202611275919"></script>
+  <script src="js/traduction-en.js?v=202611275919"></script>
+  <script src="js/atlas.js?v=202611275919"></script>
+  <script src="js/langue.js"></script>
+</body>
+</html>

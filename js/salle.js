@@ -2,7 +2,11 @@ const FFT = 'https://archive.org/details/frenchfurtraders0000unse';
 const lienSrc = t => esc(t || '').replace(/(French Fur Traders and Voyageurs in the American West[^;]*?)\b(pp?\. (\d+)[^;.]*)/, (m, a, b, n) => `${a}<a href="${FFT}/page/${n}/mode/1up" target="_blank" rel="noopener">${b}</a>`);
 // Salle de lecture multi-personnages : un onglet, une carte de parcours et une échelle de temps par personnage.
 // Données : data/personnages/index.json et data/personnages/<id>.geojson
-const CERT = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
+// Langue : <html lang="en"> (salle-en.html) ; les fiches traduites viennent de data/personnages/<id>-en.geojson s'il existe.
+const EN = document.documentElement.lang === 'en';
+const L = (fr, en) => EN ? en : fr;
+const MEMOIRE = x => x === 'Mémoire' || x === 'Memory';
+const CERT = EN ? { certaine: 'certain', approximative: 'approximate', hypothetique: 'hypothetical' } : { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 let INDEX = [], DOC = null, P = null, ETAPES = [], PHASES = {}, courant = -1, carte, carteOk = false;
@@ -20,27 +24,29 @@ function nuances(hex, n) {
 const sombre = hex => { const v = parseInt(hex.slice(1), 16); return ((v >> 16) * .3 + ((v >> 8) & 255) * .59 + (v & 255) * .11) < 150; };
 
 function onglets() {
-  $('#onglets').innerHTML = INDEX.map(p => `<button type="button" role="tab" data-id="${p.id}" style="--c:${p.couleur}" title="${esc(p.nom)} — ${esc(p.auteur)}, p. ${esc(p.pages)} · ${p.etapes} étapes"><i></i>${esc(p.nom)}<small>${esc(p.vie)}</small></button>`).join('');
+  $('#onglets').innerHTML = INDEX.map(p => `<button type="button" role="tab" data-id="${p.id}" style="--c:${p.couleur}" title="${esc(p.nom)} — ${esc(p.auteur)}, p. ${esc(p.pages)} · ${p.etapes} ${L('étapes', 'stages')}"><i></i>${esc(p.nom)}<small>${esc(p.vie)}</small></button>`).join('');
   document.querySelectorAll('#onglets button').forEach(b => b.onclick = () => ouvrir(b.dataset.id));
 }
 
 async function ouvrir(id, etapeId) {
-  if (!cache[id]) cache[id] = await fetch(`data/personnages/${id}.geojson`).then(r => r.json());
+  if (!cache[id]) cache[id] = await (EN ? fetch(`data/personnages/${id}-en.geojson`).then(r => { if (!r.ok) throw r; return r.json(); }).catch(() => null) : Promise.resolve(null))
+    .then(d => d || fetch(`data/personnages/${id}.geojson`).then(r => r.json()).then(d => { if (EN) d.nonTraduit = true; return d; }));
   DOC = cache[id]; P = DOC.personnage;
   ETAPES = DOC.features.filter(f => f.geometry.type === 'Point').sort((a, b) => a.properties.ordre - b.properties.ordre);
   const ph = [...new Set(ETAPES.map(f => f.properties.phase))];
-  const nu = nuances(P.couleur, ph.filter(x => x !== 'Mémoire').length);
-  PHASES = {}; let k = 0; ph.forEach(x => PHASES[x] = x === 'Mémoire' ? '#8a9aa8' : nu[k++]);
+  const nu = nuances(P.couleur, ph.filter(x => !MEMOIRE(x)).length);
+  PHASES = {}; let k = 0; ph.forEach(x => PHASES[x] = MEMOIRE(x) ? '#8a9aa8' : nu[k++]);
   document.documentElement.style.setProperty('--perso', P.couleur);
   document.querySelectorAll('#onglets button').forEach(b => { const on = b.dataset.id === id; b.classList.toggle('actif', on); b.setAttribute('aria-selected', on); if (on) b.scrollIntoView({ inline: 'nearest', block: 'nearest' }); });
   $('#titre-perso').textContent = P.nom;
-  $('#sous-titre').innerHTML = `${esc(P.vie || '')} · notice de ${esc(P.auteur)}, <a href="${FFT}/page/${parseInt(P.pages)}/mode/1up" target="_blank" rel="noopener" title="French Fur Traders and Voyageurs in the American West sur archive.org (emprunt)">p. ${esc(P.pages)}</a>`;
-  document.title = `Salle de lecture — ${P.nom}`;
+  $('#sous-titre').innerHTML = `${esc(P.vie || '')} · ${L('notice de', 'sketch by')} ${esc(P.auteur)}, <a href="${FFT}/page/${parseInt(P.pages)}/mode/1up" target="_blank" rel="noopener" title="French Fur Traders and Voyageurs in the American West ${L('sur archive.org (emprunt)', 'on archive.org (borrow)')}">p. ${esc(P.pages)}</a>`;
+  document.title = `${L('Salle de lecture', 'Reading room')} — ${P.nom}`;
   courant = -1;
   recit(); frise(); majCarte();
   $('#fiche-salle').innerHTML = `<h2>${esc(P.nom)}</h2><p class="meta">${esc(P.vie || '')}</p><div class="filet">✦</div>
     <p class="description">${esc(P.chapeau || '')}</p>
-    <p class="mini">${ETAPES.length} étapes localisées. Cliquez sur une étape du récit, un point numéroté ou la frise.</p>
+    ${DOC.nonTraduit ? '<p class="note">This person\'s entries have not been translated yet: the original French text is shown.</p>' : ''}
+    <p class="mini">${L(`${ETAPES.length} étapes localisées. Cliquez sur une étape du récit, un point numéroté ou la frise.`, `${ETAPES.length} located stages. Click a stage in the narrative, a numbered point or the timeline.`)}</p>
     <div id="legende-phases"></div>`;
   legende();
   const i = ETAPES.findIndex(f => f.properties.id === etapeId);
@@ -51,14 +57,14 @@ function fiche(i) {
   courant = i;
   const f = ETAPES[i], p = f.properties;
   $('#fiche-salle').innerHTML = `
-    <p class="mini">${esc(P.nom)} · étape ${p.ordre} sur ${ETAPES.length} · ${esc(p.phase)}</p>
+    <p class="mini">${esc(P.nom)} · ${L(`étape ${p.ordre} sur ${ETAPES.length}`, `stage ${p.ordre} of ${ETAPES.length}`)} · ${esc(p.phase)}</p>
     <h2>${esc(p.nom)}</h2>
-    <p class="meta">${esc(p.date_edtf)} · localisation <span class="badge ${esc(p.certitude)}">${esc(CERT[p.certitude])}</span></p>
-    <p class="mini">${f.geometry.coordinates[1].toFixed(3)}° N, ${Math.abs(f.geometry.coordinates[0]).toFixed(3)}° O</p>
+    <p class="meta">${esc(p.date_edtf)} · ${L('localisation', 'location')} <span class="badge ${esc(p.certitude)}">${esc(CERT[p.certitude])}</span></p>
+    <p class="mini">${f.geometry.coordinates[1].toFixed(3)}° N, ${Math.abs(f.geometry.coordinates[0]).toFixed(3)}° ${L('O', 'W')}</p>
     <div class="filet">✦</div>
     <p class="description">${esc(p.description)}</p>
-    ${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}
-    <p class="sources"><strong>Sources.</strong> ${lienSrc(p.sources)}</p>`;
+    ${p.note ? `<p class="note"><strong>${L('Note critique.', 'Critical note.')}</strong> ${esc(p.note)}</p>` : ''}
+    <p class="sources"><strong>Sources.</strong> ${lienSrc(EN && window.TRAD_EN ? TRAD_EN.sources(p.sources) : p.sources)}</p>`;
   document.querySelectorAll('.etape').forEach(el => el.classList.toggle('active', +el.dataset.i === i));
   document.querySelectorAll('#frise .marque').forEach(el => el.classList.toggle('active', +el.dataset.i === i));
   $('#etape-courante').textContent = `${p.ordre}. ${p.date_edtf}`;
@@ -67,7 +73,7 @@ function fiche(i) {
     carte.getSource('sel').setData({ type: 'FeatureCollection', features: [f] });
     carte.flyTo({ center: f.geometry.coordinates, zoom: Math.max(carte.getZoom(), 6.5), speed: 1.2 });
     carte.getSource('parcouru').setData({ type: 'Feature', geometry: { type: 'LineString',
-      coordinates: ETAPES.slice(0, i + 1).filter(e => e.properties.phase !== 'Mémoire').map(e => e.geometry.coordinates) } });
+      coordinates: ETAPES.slice(0, i + 1).filter(e => !MEMOIRE(e.properties.phase)).map(e => e.geometry.coordinates) } });
   }
   history.replaceState(null, '', '#' + p.id);
 }
@@ -83,22 +89,22 @@ function recit() {
   $('#liste-etapes').innerHTML = html;
   document.querySelectorAll('.etape').forEach(el => el.onclick = () => fiche(+el.dataset.i));
   let blocs = (DOC.blocs || []).map(b => `<details class="bloc-salle"><summary>${esc(b.titre)}</summary>${b.html}</details>`).join('');
-  if ((DOC.inedits || []).length) blocs += `<details class="bloc-salle" open><summary>Pistes d'archives inédites</summary><p class="mini">Sources primaires citées dans les notes du livre, ou proposées par l'atlas, encore à dépouiller.</p><ul>${DOC.inedits.map(x => `<li>${esc(x)}</li>`).join('')}</ul></details>`;
-  blocs += `<details class="bloc-salle" open><summary>Bibliographie</summary><ol class="biblio">${(DOC.bibliographie || []).map(b => `<li>${esc(b)}</li>`).join('')}</ol></details>`;
+  if ((DOC.inedits || []).length) blocs += `<details class="bloc-salle" open><summary>${L('Pistes d\'archives inédites', 'Unexplored archival leads')}</summary><p class="mini">${L('Sources primaires citées dans les notes du livre, ou proposées par l\'atlas, encore à dépouiller.', 'Primary sources cited in the book\'s notes, or suggested by the atlas, still to be examined.')}</p><ul>${DOC.inedits.map(x => `<li>${esc(x)}</li>`).join('')}</ul></details>`;
+  blocs += `<details class="bloc-salle" open><summary>${L('Bibliographie', 'Bibliography')}</summary><ol class="biblio">${(DOC.bibliographie || []).map(b => `<li>${esc(b)}</li>`).join('')}</ol></details>`;
   $('#blocs').innerHTML = blocs;
-  $('#etape-courante').textContent = 'Parcours complet';
+  $('#etape-courante').textContent = L('Parcours complet', 'Full journey');
 }
 
 function legende() {
   const el = $('#legende-phases'); if (!el) return;
-  el.innerHTML = '<p class="mini">Phases de vie</p>' + Object.entries(PHASES).map(([k, c]) => `<div class="leg-phase"><i style="background:${c}"></i>${esc(k)}</div>`).join('')
-    + '<p class="mini" style="margin-top:.6rem">Pastille pleine : lieu certain · claire : approximatif · blanche pointillée : hypothétique. Trait pointillé : parcours reconstitué.</p>';
+  el.innerHTML = `<p class="mini">${L('Phases de vie', 'Life phases')}</p>` + Object.entries(PHASES).map(([k, c]) => `<div class="leg-phase"><i style="background:${c}"></i>${esc(k)}</div>`).join('')
+    + `<p class="mini" style="margin-top:.6rem">${L('Pastille pleine : lieu certain · claire : approximatif · blanche pointillée : hypothétique. Trait pointillé : parcours reconstitué.', 'Solid dot: certain place · light: approximate · dotted white: hypothetical. Dotted line: reconstructed journey.')}</p>`;
 }
 
 // Échelle de temps propre au personnage (+ segment « mémoire » compressé s'il y a lieu)
 function frise() {
   const svg = $('#frise'), W = svg.clientWidth || 1200, H = 92, G = 40, D = 30;
-  const vie = ETAPES.filter(f => f.properties.phase !== 'Mémoire');
+  const vie = ETAPES.filter(f => !MEMOIRE(f.properties.phase));
   const mem = ETAPES.length - vie.length;
   let A0 = Math.floor((Math.min(...vie.map(f => f.properties.debut)) - 2) / 5) * 5;
   let A1 = Math.ceil((Math.max(...vie.map(f => f.properties.fin)) + 2) / 5) * 5;
@@ -107,7 +113,7 @@ function frise() {
   let s = `<line x1="${G}" y1="44" x2="${G + LW}" y2="44" stroke="#8796ab" stroke-width="2"/>`;
   if (mem) {
     s += `<line x1="${G + LW + 30}" y1="44" x2="${G + LW + 110}" y2="44" stroke="#8796ab" stroke-width="2" stroke-dasharray="3 3"/>`;
-    s += `<text x="${G + LW + 70}" y="86" text-anchor="middle">mémoire</text>`;
+    s += `<text x="${G + LW + 70}" y="86" text-anchor="middle">${L('mémoire', 'memory')}</text>`;
     [1900, 1950].forEach(a => { s += `<text x="${x(a)}" y="68" text-anchor="middle">${a}</text>`; });
   }
   const pas = A1 - A0 > 80 ? 10 : 5;
@@ -148,7 +154,7 @@ function majCarte() {
 }
 
 async function demarrer() {
-  INDEX = (await fetch('data/personnages/index.json').then(r => r.json())).personnages;
+  INDEX = (await fetch(`data/personnages/index${L('', '-en')}.json`).then(r => r.ok ? r.json() : fetch('data/personnages/index.json').then(x => x.json()))).personnages;
   onglets();
   const cible = INDEX.find(p => location.hash.slice(1).startsWith(p.id)) || INDEX.find(p => p.id === 'leduc') || INDEX[0];
   carte = new maplibregl.Map({ container: 'carte-salle', style: 'https://tiles.openfreemap.org/styles/positron', center: [-104.8, 38], zoom: 4, attributionControl: { compact: true } });
@@ -165,7 +171,7 @@ async function demarrer() {
   await ouvrir(cible.id, location.hash.slice(1));
   carte.on('load', async () => {
     const base = carte.getStyle().layers.map(l => l.id);
-    carte.addSource('satellite', { type: 'raster', tileSize: 256, tiles: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'], attribution: 'Imagerie © Esri' });
+    carte.addSource('satellite', { type: 'raster', tileSize: 256, tiles: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'], attribution: L('Imagerie © Esri', 'Imagery © Esri') });
     carte.addLayer({ id: 'satellite', type: 'raster', source: 'satellite', layout: { visibility: 'none' } });
     const vide = { type: 'FeatureCollection', features: [] };
     carte.addSource('parcours', { type: 'geojson', data: vide });

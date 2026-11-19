@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reading room — French fur traders and voyageurs of the American West</title>
+  <meta name="author" content="Olivier J. Caron, Department of Geography, UQAM">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/salle.css">
+</head>
+<body class="salle">
+  <header class="barre">
+    <span class="fleur" aria-hidden="true">⚜</span>
+    <h1>Reading room: <span id="titre-perso" class="perso"></span> <span id="sous-titre"></span></h1>
+    <a class="lien-salle lien-langue" href="salle.html" hreflang="fr" lang="fr" title="Version française">Français</a>
+    <a class="lien-salle" href="index-en.html">← Back to the atlas</a>
+    <a class="lien-salle lien-reseau" href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/index-en.html" title="Network home: all the atlases of North America's French speakers">⚜ Atlas of French America</a>
+  </header>
+  <nav id="onglets" role="tablist" aria-label="People in French Fur Traders and Voyageurs in the American West"></nav>
+
+  <main class="salle-contenu">
+    <section id="recit" aria-label="Chronological narrative">
+      <div class="intro">
+        <p class="chapeau" id="chapeau"></p>
+        <div class="nav-etapes">
+          <button type="button" id="prec" aria-label="Previous stage">◀</button>
+          <span id="etape-courante">Full journey</span>
+          <button type="button" id="suiv" aria-label="Next stage">▶</button>
+        </div>
+      </div>
+      <div id="liste-etapes"></div>
+      <div id="blocs"></div>
+      <p class="mini avert">The book's passages are summarized (originally in French, then translated into English); quotations are brief and marked. Each entry refers to the page of the book and to the primary source cited in a note by the author of the sketch. Entries not yet translated are shown in French.</p>
+    </section>
+    <div id="carte-salle" aria-label="Map of the journey"></div>
+    <aside id="fiche-salle" aria-live="polite"></aside>
+  </main>
+
+  <footer class="frise">
+    <svg id="frise" role="img" aria-label="Timeline of the person"></svg>
+  </footer>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+  <script src="js/fonds.js"></script>
+  <script src="js/traduction-en.js"></script>
+  <script src="js/salle.js"></script>
+  <script src="js/langue.js"></script>
+</body>
+</html>
