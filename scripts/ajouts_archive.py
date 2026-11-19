@@ -731,6 +731,8 @@ LIVRES = [
     ('mi_mphc_v09_1886.txt', 'MH', {'court': 'Michigan Pioneer Collections, vol. IX (1886)', 'ref': "Collections of the Pioneer Society of the State of Michigan, vol. IX, 2e éd., Lansing, Wynkoop Hallenbeck Crawford Company, 1908 (1re éd. 1886)"}, 'michiganhistoric09michuoft', lambda nom, ref: ref),
     ('mi_mphc_v11_1888.txt', 'MJ', {'court': 'Michigan Pioneer and Historical Collections, vol. XI (1888)', 'ref': "Michigan Pioneer and Historical Collections, vol. XI, Lansing, Thorp & Godfrey, 1888"}, 'michiganhistoric11michuoft', lambda nom, ref: ref),
     ('mi_mphc_v20_1892.txt', 'ML', {'court': 'Michigan Pioneer and Historical Collections, vol. XX (1892)', 'ref': "Michigan Pioneer and Historical Collections, vol. XX (Haldimand Papers), Lansing, Robert Smith & Co., 1892"}, 'michiganhistoric20michuoft', lambda nom, ref: ref),
+    ('mi_mphc_v38_1912.txt', 'MM', {'court': 'Michigan Pioneer and Historical Collections, vol. XXXVIII (1912)', 'ref': "Michigan Pioneer and Historical Collections, vol. XXXVIII, 1912"}, 'michiganhistoric38mich', lambda nom, ref: ref),
+    ('mi_mphc_v18_1891.txt', 'MN', {'court': 'Michigan Pioneer and Historical Collections, vol. XVIII (1891)', 'ref': "Michigan Pioneer and Historical Collections, vol. XVIII, 1891"}, 'michiganhistoric18mich', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

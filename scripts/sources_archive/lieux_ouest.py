@@ -2555,6 +2555,8 @@ G.update({
     'Little Traverse (Harbor Springs)': (-84.9195, 45.4317, 'c', "Little Traverse, aujourd'hui Harbor Springs (Michigan)"),
     'Petite Côte (Détroit)': (-83.0700, 42.2400, 'c', "Petite Côte, rive sud de la rivière du Détroit, à la rivière aux Dindes (aujourd'hui LaSalle, Ontario)"),
     'Chenal Écarté (lac Sainte-Claire)': (-82.5500, 42.5800, 'c', "Chenal Écarté et île Harsens, delta de la rivière Sainte-Claire"),
+    'Lowell (Michigan)': (-85.3417, 42.9336, 'c', "Lowell, embouchure de la Flat dans la Grand (Michigan)"),
+    'Mendon (Michigan)': (-85.4497, 42.0061, 'c', "Mendon, ancien poste de traite de la réserve de Nottawa-seepe (Michigan)"),
 })
 
 
