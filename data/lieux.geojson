@@ -114895,6 +114895,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -91.4,
+     45.88
+    ]
+   },
+   "properties": {
+    "id": "RD85-01",
+    "nom": "Un village huron-outaouais au bord d'un petit lac : Radisson adopté par une famille menominee (automne 1659)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1659.75,
+    "fin": 1659.917,
+    "date_edtf": "1659-10~/1659-12~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre-Esprit Radisson",
+     "Médard Chouart des Groseilliers"
+    ],
+    "description": "Après avoir laissé leur fort de pieux au bord du lac Supérieur, Radisson et Des Groseilliers sont conduits à pied vers l'intérieur, jusqu'à des cabanes près d'un petit lac de huit lieues de tour, puis en canot jusqu'à un village de cent cabanes sans palissade. Ils y offrent trois présents, dont une chaudière pour convier les nations amies à la fête des Morts. Radisson est adopté par un vieil homme et sa femme, de la nation des « Malhonmines » (Menominees, la nation de la folle avoine). L'hiver venu, le village se disperse en petits groupes pour chasser.",
+    "sources": "Scull, Gideon D. (éd.) (1885), Voyages of Peter Esprit Radisson, Being an Account of His Travels and Experiences among the North American Indians, from 1652 to 1684, Boston, Prince Society, p. 198-201.",
+    "note": "Lieu hypothétique : les historiens placent souvent ce village vers le lac Courte Oreilles (Wisconsin). Le fort du lac Supérieur est la fiche DN10-01."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.55,
+     45.78
+    ]
+   },
+   "properties": {
+    "id": "RD85-02",
+    "nom": "L'hiver de la famine (1659-1660)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1660.0,
+    "fin": 1660.167,
+    "date_edtf": "1660-01~/1660-03~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre-Esprit Radisson",
+     "Médard Chouart des Groseilliers"
+    ],
+    "description": "La neige trop molle empêche la chasse ; la famine frappe les familles dispersées dans les bois, aggravée par l'arrivée de quelque cent cinquante Outaouais démunis, venus faire la guerre aux Hurons. On mange les chiens, puis les os broyés et rebouillis, les peaux des cabanes et l'écorce ; Radisson dit avoir vu mourir plus de cinq cents personnes. Une tempête durcit enfin la neige et permet de rattraper les cerfs. Les deux Français survivent ; les Autochtones s'étonnent que la barbe de Des Groseilliers cache sa maigreur.",
+    "sources": "Scull, Gideon D. (éd.) (1885), Voyages of Peter Esprit Radisson, Being an Account of His Travels and Experiences among the North American Indians, from 1652 to 1684, Boston, Prince Society, p. 201-206.",
+    "note": "Chiffre de Radisson, sans doute exagéré. Lieu hypothétique, dans la même région que le village."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.3,
+     45.9
+    ]
+   },
+   "properties": {
+    "id": "RD85-03",
+    "nom": "La fête des Morts et l'alliance avec les « gens du bœuf » (Sioux) et les Cris (printemps 1660)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1660.167,
+    "fin": 1660.25,
+    "date_edtf": "1660-03~/1660-04~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre-Esprit Radisson",
+     "Médard Chouart des Groseilliers"
+    ],
+    "description": "Huit ambassadeurs de la « nation du bœuf » (Nadouessis, Sioux), sur les terres desquels les Français se trouvent, viennent leur apporter du grain et fumer le calumet. Pour la fête des Morts, qui se tient tous les sept ans pour renouveler les alliances, cinq cents personnes construisent un grand fort carré près d'un lac ; arrivent ensuite trente éclaireurs sioux, puis les chefs en grand apparat, et plus de mille personnes en tout. Radisson et Des Groseilliers distribuent chaudières, haches, couteaux et miroirs, tirent leurs douze fusils et invitent Sioux et Cris (« Christinos ») à faire la paix. Les fêtes durent quatorze jours ; les Français reçoivent plus de trois cents robes de castor. Ils visitent ensuite un gros bourg sioux, qu'on leur dit de sept mille hommes.",
+    "sources": "Scull, Gideon D. (éd.) (1885), Voyages of Peter Esprit Radisson, Being an Account of His Travels and Experiences among the North American Indians, from 1652 to 1684, Boston, Prince Society, p. 207-220.",
+    "note": "Premier récit européen d'une fête des Morts chez les Sioux et leurs voisins. Lieu hypothétique, à l'ouest du village huron, en pays sioux."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.6,
+     48.4
+    ]
+   },
+   "properties": {
+    "id": "RD85-04",
+    "nom": "La traversée du lac Supérieur : le camp des Cris sur la rive nord (printemps 1660)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1660.333,
+    "fin": 1660.333,
+    "date_edtf": "1660-05~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre-Esprit Radisson",
+     "Médard Chouart des Groseilliers"
+    ],
+    "description": "Après un hiver passé à se remettre d'une blessure à la jambe, Radisson et son beau-frère quittent en secret la baie où les Outaouais ont bâti un fort et traversent quinze lieues de lac parmi les glaces. Sur l'autre rive, au fond d'une baie profonde, les Cris (« Christinos ») les accueillent avec une grande joie et les portent dans leurs canots jusqu'au milieu de leurs tentes. Radisson les décrit comme des nomades, chasseurs de castor vêtus de peaux, alliés à la fois des Sioux et d'autres nations ; ils lui dessinent une carte des pays du nord, jusqu'à la « baie du Nord ».",
+    "sources": "Scull, Gideon D. (éd.) (1885), Voyages of Peter Esprit Radisson, Being an Account of His Travels and Experiences among the North American Indians, from 1652 to 1684, Boston, Prince Society, p. 221-227.",
+    "note": "Le récit est confus sur l'itinéraire ; lieu hypothétique sur la rive nord du lac Supérieur. Radisson prétend avoir alors atteint la baie d'Hudson, ce que la plupart des historiens rejettent."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
