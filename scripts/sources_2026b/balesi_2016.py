@@ -1,0 +1,14 @@
+# Charles J. Balesi, « The Legacy of the French Canals », conférence prononcée le 20 octobre 2016 à The Landings, Lockport
+# (Illinois), pour la Canal Corridor Association ; tapuscrit numérisé (29 p.), « Charles.pdf », dossier WILL_COUNTY du Drive
+# de l'auteur, lu par OCR. Préfixe BA16.
+from commun import Corpus
+BA = "Balesi, Charles J. (2016), « The Legacy of the French Canals », conférence, Lockport (Illinois), Canal Corridor Association, tapuscrit"
+C = Corpus('Recherches', 'BA16', BA, page_fmt='p. {}')
+F = C.F
+F('01', "Lockport (Illinois) : le canal Illinois-Michigan, accomplissement de la vision de Jolliet (1836-1848)", 'toponymie', '1836/1848', -88.0570, 41.5890, 'c', ['Louis Jolliet', 'Jacques Marquette', 'Claude Dablon', 'René-Robert Cavelier de La Salle'],
+  "Au retour du Mississippi en 1673, Jolliet note que les six milles de marais du portage de Chicago, entre la rivière Chicago et la Des Plaines (l'actuelle avenue Archer), pourraient être franchis par une simple tranchée : le père Dablon publie en 1674 cette « quatrième remarque », selon laquelle un canal d'une demi-lieue permettrait d'aller en barque jusqu'au golfe du Mexique — au moment où s'achève le canal du Languedoc. La Salle reprend l'idée dix ans plus tard. Le canal Illinois-Michigan, commencé en 1836 et ouvert en 1848 sous le maire de Chicago James Woodworth, réalise ce projet : dix-sept écluses, quatre aqueducs, financé par la vente de terres confisquées aux nations indiennes déportées vers le Kansas et creusé par des milliers d'Irlandais. Balesi, du Bourbonnais, prononce sa conférence en 2016 au siège de la Canal Corridor Association, à Lockport.",
+  '3', "Point au siège du canal à Lockport. Balesi renvoie à Knight et Zeuch (1928) pour le tracé du portage.")
+F('02', "Washington : Pierre L'Enfant dessine la capitale fédérale et son canal (1791)", 'personnage', '1791-03/1815', -77.0090, 38.8900, 'c', ["Pierre L'Enfant", 'George Washington', 'Thomas Jefferson'],
+  "Né en 1754, recruté à Paris pour la cause américaine et devenu major du génie de l'Armée continentale, Pierre L'Enfant est chargé par Washington en 1791 de tracer les plans de la nouvelle capitale. Installé en mars à l'auberge Suter de Georgetown, il présente aussitôt un plan inspiré de Versailles — larges avenues, perspectives, espaces verts — comprenant un canal qui passe devant la Maison du Président et le Congrès et rejoint la rivière Anacostia ; Jefferson lui envoie ses plans de villes européennes. Congédié après ses conflits avec les commissaires, L'Enfant voit l'essentiel de son plan conservé ; le Washington City Canal, concédé en 1802, est ouvert en 1815 et sert jusqu'en 1870.",
+  '11', "Point à l'emplacement du canal (actuel Constitution Avenue). Balesi compare ensuite le canal du Midi, le canal Érié et la pensée de Jefferson.")
+fiches = C.fiches
