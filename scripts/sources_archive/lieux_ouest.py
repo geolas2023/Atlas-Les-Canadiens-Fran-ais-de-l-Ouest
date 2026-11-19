@@ -2619,6 +2619,16 @@ G.update({
     'Andrew (Iowa)': (-90.594, 42.155, 'c', "Andrew (comté de Jackson, Iowa)"),
     'Benton (Wisconsin)': (-90.383, 42.570, 'c', "Benton (comté de Lafayette, Wisconsin)"),
     'Comté de Harrison (Iowa)': (-95.82, 41.68, 'c', "Comté de Harrison (Iowa)"),
+    'Agency (Iowa)': (-92.307, 40.997, 'c', "Agency (Agency City, comté de Wapello, Iowa)"),
+    'Comté de Lee (Iowa)': (-91.48, 40.64, 'c', "Comté de Lee (Half-Breed Tract, Iowa)"),
+    'Comté de Davis (Iowa)': (-92.41, 40.75, 'c', "Comté de Davis (Iowa)"),
+    'Comté de Clayton (Iowa)': (-91.34, 42.84, 'c', "Comté de Clayton (Iowa)"),
+    'Clarksville (Iowa)': (-92.67, 42.78, 'c', "Clarksville (comté de Butler, Iowa)"),
+    'Rivière Raccoon (Iowa)': (-93.60, 41.58, 'a', "Rivière Raccoon, à son confluent avec la Des Moines (Iowa)"),
+    'Rivière Wapsipinicon (Iowa)': (-90.32, 41.73, 'a', "Rivière Wapsipinicon (rivière à la Pomme), à son embouchure (Iowa)"),
+    'Rivière Iowa': (-91.05, 41.17, 'a', "Rivière Iowa, à son confluent avec le Mississippi"),
+    'Springfield (Minnesota)': (-94.99, 43.62, 'c', "Springfield, aujourd'hui Jackson (Minnesota)"),
+    'Spirit Lake (Iowa)': (-95.10, 43.42, 'c', "Spirit Lake (comté de Dickinson, Iowa)"),
 })
 
 
