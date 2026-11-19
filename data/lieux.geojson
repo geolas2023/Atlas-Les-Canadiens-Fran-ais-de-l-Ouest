@@ -115270,6 +115270,87 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -97.5,
+     51.5
+    ]
+   },
+   "properties": {
+    "id": "EC83-01",
+    "nom": "Lac Winnipeg : les coureurs de bois dans les plaines du Nord-Ouest avant 1688 (carte de Franquelin)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1688.0,
+    "fin": 1688.999,
+    "date_edtf": "1688",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-Baptiste-Louis Franquelin"
+    ],
+    "description": "La carte de Jean-Baptiste-Louis Franquelin (1688) figure déjà le lac des Bois (« lac de Buade ») et, sous les noms de lacs des Assinibouels et des Christinaux, les lacs Winnipeg, Manitoba et Winnipegosis, placés quelque quatre cents milles trop à l'est d'après les récits des coureurs de bois. Pour Eccles, c'est la preuve que des Français avaient atteint les plaines du Nord-Ouest avant 1688, un demi-siècle avant La Vérendrye.",
+    "sources": "Eccles, W. J. (1983), The Canadian Frontier, 1534-1760, éd. révisée, Albuquerque, University of New Mexico Press, p. 4.",
+    "note": "Point schématique entre les lacs Winnipeg et Manitoba."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.29,
+     49.97
+    ]
+   },
+   "properties": {
+    "id": "EC83-02",
+    "nom": "Fort La Reine et la Mer de l'Ouest : la traite des esclaves panis (années 1730-1740)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1734.0,
+    "fin": 1749.999,
+    "date_edtf": "1734/1749",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gaultier de Varennes et de La Vérendrye"
+    ],
+    "description": "Eccles rappelle que les explorateurs de la Mer de l'Ouest ont préféré la route de la Saskatchewan à celle du Missouri : elle évitait le pays sioux, donnait de meilleures fourrures, coupait la route de la baie d'Hudson, et le cri suffisait au commerce jusqu'aux Pieds-Noirs. Dans ces années, la traite des esclaves autochtones devient importante aux postes de l'Ouest : jusqu'à soixante par an sont expédiés à Montréal, surtout des Panis (Pawnees) du Missouri, mais aussi des Sioux capturés par les Outaouais et les Cris. On disait même que La Vérendrye, commandant de la Mer de l'Ouest, envoyait à Montréal plus d'esclaves que de ballots de fourrures.",
+    "sources": "Eccles, W. J. (1983), The Canadian Frontier, 1534-1760, éd. révisée, Albuquerque, University of New Mexico Press, p. 149-150.",
+    "note": "Point au fort La Reine (Portage-la-Prairie, Manitoba), siège du poste de la Mer de l'Ouest."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0645,
+     29.9584
+    ]
+   },
+   "properties": {
+    "id": "FO20-01",
+    "nom": "La Nouvelle-Orléans, 1809 : les réfugiés de Saint-Domingue chassés de Cuba",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1809.0,
+    "fin": 1809.999,
+    "date_edtf": "1809",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William C. C. Claiborne"
+    ],
+    "description": "Après la vente de la Louisiane (1803), la colonie peu peuplée devient la seconde destination des familles françaises de Saint-Domingue déjà exilées ailleurs. En 1809, expulsés de Cuba, des milliers de réfugiés, souvent venus de Santiago, affluent à La Nouvelle-Orléans : le gouverneur William Claiborne affrète des navires pour les amener de La Havane et obtient du président qu'ils soient traités en cas particulier, malgré la loi interdisant l'entrée d'esclaves. La ville devient le pivot de la diaspora de Saint-Domingue et la population de langue française s'en trouve renforcée.",
+    "sources": "Forrest, Alan (2020), The Death of the French Atlantic: Trade, War, and Slavery in the Age of Revolution, Oxford, Oxford University Press, PDF p. 238-239.",
+    "note": "Point au Vieux Carré."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
