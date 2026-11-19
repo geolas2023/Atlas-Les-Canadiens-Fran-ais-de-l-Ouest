@@ -690,6 +690,10 @@ LIVRES = [
     ('in_cauthorn_vincennes_1902.txt', 'JO', {'court': 'Cauthorn, History of the City of Vincennes (1902)', 'ref': "Henry S. Cauthorn, A History of the City of Vincennes, Indiana, from 1702 to 1901, M. C. Cauthorn, Terre Haute, 1902"}, 'historyofcityofv00caut', lambda nom, ref: ref),
     ('in_smith_old_vincennes_1902.txt', 'JP', {'court': 'Smith, Historical Sketches of Old Vincennes (1902)', 'ref': "Hubbard Madison Smith, Historical Sketches of Old Vincennes, Founded in 1732 : Its Institutions and Churches, Vincennes, 1902"}, 'historicalsketch00smi', lambda nom, ref: ref),
     ('in_roy_sieur_vincennes_1919.txt', 'JQ', {'court': 'Roy, Le sieur de Vincennes (1919)', 'ref': "Pierre-Georges Roy, Le sieur de Vincennes, fondateur de l'Indiana, et sa famille, Charrier et Dugal, Québec, 1919"}, 'lesieurdevincenn00roypuoft', lambda nom, ref: ref),
+    ('in_greene_old_vincennes_1911.txt', 'JR', {'court': 'Greene, History of Old Vincennes and Knox County, vol. I (1911)', 'ref': "George E. Greene, History of Old Vincennes and Knox County, Indiana, vol. I, S. J. Clarke Publishing Company, 1911"}, 'historyofoldvinc01gree', lambda nom, ref: ref),
+    ('in_allen_county_1880.txt', 'JS', {'court': 'History of Allen County, Indiana (1880)', 'ref': "History of Allen County, Indiana, with Illustrations and Biographical Sketches, 1880"}, 'historyofallenco00unse', lambda nom, ref: ref),
+    ('in_miami_county_1887.txt', 'JT', {'court': 'History of Miami County, Indiana (1887)', 'ref': "History of Miami County, Indiana, from the Earliest Time to the Present, Brant & Fuller, Chicago, 1887"}, 'historyofmiamico00bran', lambda nom, ref: ref),
+    ('in_dillon_indiana_1859.txt', 'JU', {'court': 'Dillon, A History of Indiana (1859)', 'ref': "John B. Dillon, A History of Indiana, from its Earliest Exploration by Europeans to the Close of the Territorial Government, in 1816, Bingham & Doughty, Indianapolis, 1859"}, 'ahistoryindiana00dillgoog', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))

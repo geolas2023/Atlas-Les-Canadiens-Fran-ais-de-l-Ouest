@@ -2518,6 +2518,7 @@ G.update({
     'Dodgeville (Wisconsin)': (-90.1301, 42.9603, 'c', "Dodgeville (Wisconsin)"),
     'Logansport (Indiana)': (-86.3561, 40.7545, 'c', "Logansport (Indiana)"),
     'Poste Juchereau (embouchure de l\'Ohio)': (-89.15, 37.02, 'a', "poste de Juchereau (embouchure de l'Ohio)"),
+    'Peru (Indiana)': (-86.0689, 40.7537, 'c', "Peru (Indiana)"),
 })
 
 
