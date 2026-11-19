@@ -115007,6 +115007,128 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.246,
+     36.638
+    ]
+   },
+   "properties": {
+    "id": "FB99-01",
+    "nom": "Willow Creek, mont Baldy : l'or de la concession Maxwell (1866-1867)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1866.75,
+    "fin": 1868.999,
+    "date_edtf": "1866-10~/1868~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Maxwell",
+     "A. B. Norton",
+     "John Dodd",
+     "Marcus Brunswick"
+    ],
+    "description": "En octobre 1866, le surintendant des Affaires indiennes A. B. Norton recommande à Washington d'acheter la concession Maxwell (1,6 million d'acres) pour 250 000 $ et d'y établir les Utes et les Apaches. Au même moment, des soldats de Fort Union, intrigués par du cuivre troqué par les Autochtones de chez Maxwell, trouvent de l'or dans Willow Creek, sur le versant ouest du mont Baldy. Au printemps suivant, Maxwell fonde avec les découvreurs la Copper Mining Company. Un an plus tard, sollicité par John Dodd pour le Big Ditch, il lui offre la concession entière pour 200 000 $, se disant las des Autochtones et des nouveaux venus.",
+    "sources": "Freiberger, Harriet (1999), Lucien Maxwell: Villain or Visionary, Santa Fe, Sunstone Press, p. 16-17, 87-88.",
+    "note": "Le gouvernement ne donne pas suite à la proposition de Norton. Point au ruisseau Willow, au pied du mont Baldy."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.278,
+     36.618
+    ]
+   },
+   "properties": {
+    "id": "FB99-02",
+    "nom": "Elizabethtown et la route du canyon du Cimarron : Maxwell, seigneur des mines (1867-1868)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1867.0,
+    "fin": 1868.999,
+    "date_edtf": "1867/1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Dick Wootton",
+     "Henry Inman"
+    ],
+    "description": "Maxwell garde la moitié des concessions minières et règle les conflits avec les voleurs de claims. Plus de quatre cents personnes s'installent bientôt à Cimarron et à Elizabethtown, ravitaillées par des chariots qui franchissent trente-trois fois la rivière dans le canyon du Cimarron. En un an, une route à péage du propriétaire permet aux diligences Concord de faire les vingt-six milles en six heures ; Elizabethtown compte alors plus de deux mille habitants. Maxwell exploite ses propres mines, ouvre des magasins et projette un canal de quarante milles pour les placers. Il vend aussi de petits lots, dont celui de Dick Wootton, qui ouvre la route à péage du col de Raton. Selon Henry Inman, il garde jusqu'à trente mille dollars dans le tiroir d'une vieille commode.",
+    "sources": "Freiberger, Harriet (1999), Lucien Maxwell: Villain or Visionary, Santa Fe, Sunstone Press, p. 91-93.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.9385,
+     35.6875
+    ]
+   },
+   "properties": {
+    "id": "FB99-03",
+    "nom": "Santa Fe : la First National Bank de Lucien Maxwell (1870-1871)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1870.667,
+    "fin": 1871.377,
+    "date_edtf": "1870-09/1871-05-17",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Peter Maxwell",
+     "Charles Holly",
+     "John Watts",
+     "Stephen B. Elkins",
+     "Thomas B. Catron"
+    ],
+    "description": "Après la vente de la concession, Maxwell investit 150 000 $ dans la First National Bank of Santa Fe, première banque commerciale du Nouveau-Mexique. Président, il détient 1 270 des 1 400 actions et nomme administrateurs Charles Holly, son fils Peter, le juge John Watts de Cimarron et Henry Hooper ; les certificats portent son portrait. Après une première assemblée à Cimarron en septembre 1870, les 135 000 $ en petites coupures arrivent en février 1871 dans une ambulance de l'armée ; la banque ouvre à la mi-avril. Le 17 mai, Elkins, Catron et Griffin en ont pris le contrôle, et Maxwell se retire, avec un prêt de 45 000 $.",
+    "sources": "Freiberger, Harriet (1999), Lucien Maxwell: Villain or Visionary, Santa Fe, Sunstone Press, p. 112-113.",
+    "note": "La banque existait encore en 1995 (125e anniversaire), selon Freiberger. Point à la plaza de Santa Fe ; adresse exacte non vérifiée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.1938,
+     34.4048
+    ]
+   },
+   "properties": {
+    "id": "FB99-04",
+    "nom": "Fort Sumner : la communauté venue de Cimarron avec les Maxwell (1870-1871)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1870.0,
+    "fin": 1875.999,
+    "date_edtf": "1870~/1875",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Maxwell",
+     "Luz Beaubien Maxwell",
+     "Jesús Silva",
+     "Manuel Abreu",
+     "Emilia Maxwell"
+    ],
+    "description": "Maxwell achète pour 5 000 $ les bâtiments de l'ancien Fort Sumner. Vingt-cinq ou trente familles hispaniques l'y suivent depuis Cimarron, dont son vieux caporal Jesús Silva, qui dirige l'élevage : bientôt neuf mille têtes de bétail, et un troupeau de moutons qui atteindra dix-sept mille bêtes sous la garde de son gendre Manuel Abreu, mari d'Emilia. Chaque famille reçoit quarante acres irrigués ; certaines bâtissent de petites maisons d'adobe, d'autres logent dans les bâtiments du fort. La famille Maxwell occupe quinze à vingt pièces de l'ancien quartier des officiers.",
+    "sources": "Freiberger, Harriet (1999), Lucien Maxwell: Villain or Visionary, Santa Fe, Sunstone Press, p. 113-114.",
+    "note": "Complète DRV-08 et MFS-01."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
