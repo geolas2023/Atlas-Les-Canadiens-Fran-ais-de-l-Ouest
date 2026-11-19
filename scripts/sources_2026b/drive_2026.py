@@ -1,4 +1,4 @@
-# Documents du Drive de l'auteur (dossiers CIMARRON_NM, ILLINOIS, CHARLES_BEAUBIEN, ETIENNE_PROVOST_AUDUBON, ALEXIS_GODEY), dépouillés le 19 novembre 2026. Corpus « Recherches », préfixe DRV (DV- est pris par un livre de la Bibliothèque archive.org).
+# Documents du Drive de l'auteur (dossiers CIMARRON_NM, ILLINOIS, CHARLES_BEAUBIEN, ETIENNE_PROVOST_AUDUBON, ALEXIS_GODEY, CHARLES_AUTOBEES, MOYSE_LAMOUREUX), dépouillés le 19 novembre 2026. Corpus « Recherches », préfixe DRV (DV- est pris par un livre de la Bibliothèque archive.org).
 #   Murphy, « Master of the Cimarron: Lucien B. Maxwell », New Mexico Historical Review 55-1 (1980), UNM Digital Repository
 #   A Walking Tour of Old Town Cimarron, New Mexico in the 1800s (dépliant, s. d.) ; Cimarron Day Trip #2 (dépliant, s. d.)
 #   Four Walking Tours of Historic Bourbonnais, Illinois (Bourbonnais Grove Historical Society et Kankakee County Historic
@@ -13,6 +13,7 @@ VA = "Vaugeois, Denis, « De Provost, Québec, à Provo, Salt Lake, Utah ? Des l
 TY2 = "Tykal, Jack B., « Etienne Provost », Utah History Encyclopedia (fonds Drive de l'auteur)"
 RB = "Robinson, John W. (2012), « Alexis Godey: Indian Friend or Indian Killer? », The Branding Iron (Los Angeles Corral of the Westerners), no 267-269, p. 8-16 (fonds Drive de l'auteur, dossier ALEXIS_GODEY)"
 MR = "Murray, Robert A. (1978), Las Animas, Huerfano and Custer: Three Colorado Counties on a Cultural Frontier. A History of the Raton Basin, Bureau of Land Management, Colorado, Cultural Resources Series no 6 (fonds Drive de l'auteur, dossier CHARLES_AUTOBEES)"
+WM = "Wilson, Miel et Bob Moore, St. Louis Probate Court Records: Court Ordered Slave Sales (relevé des livres C à V du tribunal des successions, 1828-1860 ; fonds Drive de l'auteur, dossier MOYSE_LAMOUREUX)"
 BO = "Four Walking Tours of Historic Bourbonnais, Illinois, Bourbonnais Grove Historical Society et Kankakee County Historic Preservation Commission (2016), fonds Drive de l'auteur, dossier ILLINOIS"
 C = Corpus('Recherches', 'DRV', MU)
 F = C.F
@@ -112,4 +113,12 @@ F('27', "Bakersfield : Belmont Grove, le « Godey Tract » et la tombe de Godey 
 F('28', "Vallée de Wet Mountain : une huitaine de familles françaises (Garnier, Mercier, Albert) vers 1870", 'migration', '1870~/1874', -105.4700, 38.1300, 'h', ['Garnier', 'Mercier', 'Albert'],
   "Au moment où la colonie allemande de Carl Wulsten s'installe dans la vallée de Wet Mountain (1870-1872), environ huit familles d'origine française, dont les Garnier, Mercier et Albert, s'établissent le long de la bordure ouest de la vallée, sans organisation collective, comme quelques familles mormones venues du Lac Salé sur le ruisseau Taylor.",
   '', "Position supposée sur la bordure ouest de la vallée, au pied des Sangre de Cristo ; l'origine (France, Canada ?) reste à préciser.", source=f"{MR}, p. 47")
+
+# --- Saint-Louis : ventes d'esclaves ordonnées par le tribunal des successions (porte du palais de justice)
+F('29', "Saint-Louis, palais de justice : vente des esclaves de la succession d'Auguste Chouteau (1830)", 'evenement', '1830-09-15', -90.1892, 38.6255, 'a', ['Auguste Chouteau', 'Thérèse Cerré Chouteau', 'Pierre Chouteau'],
+  "La succession du fondateur de Saint-Louis, Auguste Chouteau (mort en 1829), compte 36 esclaves ; 12 sont remis directement à sa veuve, Thérèse Cerré. Les autres (Peter, 102 ans, Ceres, Titia, Catiche, Rose, Zabette, Pélagie, Marguerite, des enfants de deux à quatorze ans...) sont vendus à la porte du palais de justice le 15 septembre 1830, pour 10 838,88 $ au total, partagés entre la veuve et les sept enfants. La même année, Patrick, esclave de la succession de Joseph Brazeau qui s'était enfui au Canada en 1829 et était revenu par vapeur de La Nouvelle-Orléans, est mis en vente parce qu'« il s'enfuira encore ».",
+  '', "Point placé au palais de justice (Old Courthouse), lieu des ventes judiciaires ; le bâtiment actuel a été élevé de 1839 à 1862 sur le même îlot.", source=f"{WM}, livres C (p. 235, 282, 313-316, 356) et D (p. 1, 53-54, 112)")
+F('30', "Saint-Louis, palais de justice : Moïse Lamoureux achète Thalie (1846-1847)", 'evenement', '1846-09-18/1847-06-18', -90.1892, 38.6255, 'a', ['Moïse Lamoureux', 'Didier Guyon', 'Josephine Guyon'],
+  "À la vente des esclaves de la succession de Josephine Guyon, ordonnée le 18 septembre 1846, Mary (40 ans) est adjugée 190 $ à Didier Guyon et sa fille Thalie (20 ans) 475 $ à Moïse Lamoureux, Chamblyen du Frenchtown comme Étienne Provost ; la vente est approuvée le 18 juin 1847. Une enfant de trois ans figure aussi à l'inventaire.",
+  '', "Point placé au palais de justice, à la porte est (« eastern door ») où se tenaient les ventes.", source=f"{WM}, livres K (p. 380, 411) et L (p. 117)")
 fiches = C.fiches

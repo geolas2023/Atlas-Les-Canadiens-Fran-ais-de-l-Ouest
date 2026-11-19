@@ -107939,6 +107939,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.1892,
+     38.6255
+    ]
+   },
+   "properties": {
+    "id": "DRV-29",
+    "nom": "Saint-Louis, palais de justice : vente des esclaves de la succession d'Auguste Chouteau (1830)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1830.705,
+    "fin": 1830.705,
+    "date_edtf": "1830-09-15",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Chouteau",
+     "Thérèse Cerré Chouteau",
+     "Pierre Chouteau"
+    ],
+    "description": "La succession du fondateur de Saint-Louis, Auguste Chouteau (mort en 1829), compte 36 esclaves ; 12 sont remis directement à sa veuve, Thérèse Cerré. Les autres (Peter, 102 ans, Ceres, Titia, Catiche, Rose, Zabette, Pélagie, Marguerite, des enfants de deux à quatorze ans...) sont vendus à la porte du palais de justice le 15 septembre 1830, pour 10 838,88 $ au total, partagés entre la veuve et les sept enfants. La même année, Patrick, esclave de la succession de Joseph Brazeau qui s'était enfui au Canada en 1829 et était revenu par vapeur de La Nouvelle-Orléans, est mis en vente parce qu'« il s'enfuira encore ».",
+    "sources": "Wilson, Miel et Bob Moore, St. Louis Probate Court Records: Court Ordered Slave Sales (relevé des livres C à V du tribunal des successions, 1828-1860 ; fonds Drive de l'auteur, dossier MOYSE_LAMOUREUX), livres C (p. 235, 282, 313-316, 356) et D (p. 1, 53-54, 112).",
+    "note": "Point placé au palais de justice (Old Courthouse), lieu des ventes judiciaires ; le bâtiment actuel a été élevé de 1839 à 1862 sur le même îlot."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1892,
+     38.6255
+    ]
+   },
+   "properties": {
+    "id": "DRV-30",
+    "nom": "Saint-Louis, palais de justice : Moïse Lamoureux achète Thalie (1846-1847)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1846.713,
+    "fin": 1847.463,
+    "date_edtf": "1846-09-18/1847-06-18",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Moïse Lamoureux",
+     "Didier Guyon",
+     "Josephine Guyon"
+    ],
+    "description": "À la vente des esclaves de la succession de Josephine Guyon, ordonnée le 18 septembre 1846, Mary (40 ans) est adjugée 190 $ à Didier Guyon et sa fille Thalie (20 ans) 475 $ à Moïse Lamoureux, Chamblyen du Frenchtown comme Étienne Provost ; la vente est approuvée le 18 juin 1847. Une enfant de trois ans figure aussi à l'inventaire.",
+    "sources": "Wilson, Miel et Bob Moore, St. Louis Probate Court Records: Court Ordered Slave Sales (relevé des livres C à V du tribunal des successions, 1828-1860 ; fonds Drive de l'auteur, dossier MOYSE_LAMOUREUX), livres K (p. 380, 411) et L (p. 117).",
+    "note": "Point placé au palais de justice, à la porte est (« eastern door ») où se tenaient les ventes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -109.45,
      39.58
     ]
