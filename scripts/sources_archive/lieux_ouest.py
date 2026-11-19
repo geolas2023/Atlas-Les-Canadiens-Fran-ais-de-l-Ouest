@@ -2510,6 +2510,7 @@ G.update({
     'Marquette (Michigan)': (-87.3956, 46.5436, 'c', "Marquette (Michigan)"),
     'Ashwaubenon (Wisconsin)': (-88.0701, 44.4822, 'c', "Ashwaubenon (Wisconsin)"),
     'Florence (Wisconsin)': (-88.2518, 45.9222, 'c', "Florence (Wisconsin)"),
+    'Lac Pepin': (-92.2700, 44.4800, 'c', "lac Pepin (Mississippi), poste des Sioux"),
 })
 
 

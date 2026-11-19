@@ -946676,6 +946676,890 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -92.27,
+     44.48
+    ]
+   },
+   "properties": {
+    "id": "IP-marest-joseph-lac-pepin",
+    "nom": "Lac Pepin (Mississippi), poste des Sioux : Joseph Marest",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1689.0,
+    "fin": 1689.0,
+    "date_edtf": "1689",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Marest"
+    ],
+    "description": "Lac Pepin (Mississippi), poste des Sioux, 1689. Joseph Marest jésuite, probablement aumônier de l'expédition de Perrot au poste des Sioux. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 172 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/172/mode/1up?q=MAREST",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.48
+    ]
+   },
+   "properties": {
+    "id": "IP-guignas-lac-pepin",
+    "nom": "Lac Pepin (Mississippi), poste des Sioux : Guignas",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1728.0,
+    "fin": 1728.0,
+    "date_edtf": "1728",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Guignas"
+    ],
+    "description": "Lac Pepin (Mississippi), poste des Sioux, 1728. Guignas. Jésuite, doit fuir le poste des Sioux, où il retourne ensuite pour cinq ans. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 172 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/172/mode/1up?q=GUIGNAS",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.5,
+     49.8
+    ]
+   },
+   "properties": {
+    "id": "IP-la-tourette-lake-nipig",
+    "nom": "Lac Nipigon : La Tourette",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1689.0,
+    "fin": 1689.0,
+    "date_edtf": "1689",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Tourette"
+    ],
+    "description": "Lac Nipigon, 1689. La Tourette frère de Duluth, maître du fort La Tourette à l’embouchure de l’Ombabika; part au printemps pour Montréal chercher davantage de marchandises. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 226, 237 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/226/mode/1up?q=LA+TOURETTE",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.25,
+     48.38
+    ]
+   },
+   "properties": {
+    "id": "IP-duluth-kaministiq",
+    "nom": "Kaministiquia (Fort William) : Duluth",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1689.0,
+    "fin": 1689.0,
+    "date_edtf": "1689",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Duluth"
+    ],
+    "description": "Kaministiquia (Fort William), 1689. Duluth. Regagne le poste d’approvisionnement qu’il avait bâti au portage. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 226, 237 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/226/mode/1up?q=DULUTH",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.06,
+     44.45
+    ]
+   },
+   "properties": {
+    "id": "IP-perrot-nicolas-de-pere-wi",
+    "nom": "De Pere, rapides de la Fox : Nicolas Perrot",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1687.0,
+    "fin": 1687.0,
+    "date_edtf": "1687",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "De Pere, rapides de la Fox, 1687. Nicolas Perrot. La maison de la mission, où il avait entreposé une fortune en fourrures, est incendiée. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : La Baie (Green Bay), lac Pepin (Mississippi), poste des Sioux.",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 230, 240 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/230/mode/1up?q=PERROT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-perrot-nicolas-green-bay",
+    "nom": "La Baie (Green Bay) : Nicolas Perrot",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1688.0,
+    "fin": 1688.0,
+    "date_edtf": "1688",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "La Baie (Green Bay), 1688. Nicolas Perrot arbitre les querelles des nations pendant l'été. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : De Pere, rapides de la Fox, lac Pepin (Mississippi), poste des Sioux.",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 230, 240 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/230/mode/1up?q=PERROT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.48
+    ]
+   },
+   "properties": {
+    "id": "IP-perrot-nicolas-lac-pepin",
+    "nom": "Lac Pepin (Mississippi), poste des Sioux : Nicolas Perrot",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1688.0,
+    "fin": 1688.0,
+    "date_edtf": "1688",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Perrot"
+    ],
+    "description": "Lac Pepin (Mississippi), poste des Sioux, 1688. Nicolas Perrot retrouve à l'automne la petite garnison de son poste. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : De Pere, rapides de la Fox, La Baie (Green Bay).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 230, 240 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/230/mode/1up?q=PERROT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "IP-le-sueur-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Le Sueur",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1693.0,
+    "fin": 1693.0,
+    "date_edtf": "1693",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Sueur"
+    ],
+    "description": "La Pointe (Chequamegon), 1693. Le Sueur bâtit un poste sur la rive sud de l'île Madeleine, dans la baie de Chequamegon. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 252, 259 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/252/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "IP-le-sueur-la-pointe-2",
+    "nom": "La Pointe (Chequamegon) : Le Sueur",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1698.0,
+    "fin": 1698.0,
+    "date_edtf": "1698",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Le Sueur"
+    ],
+    "description": "La Pointe (Chequamegon), 1698. Le Sueur évacue son poste avec les autres commandants de l'Ouest. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 252, 259 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/252/mode/1up?q=LE+SUEUR",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "IP-lignery-michilimac",
+    "nom": "Michillimakinac : Lignery",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1712.0,
+    "fin": 1712.0,
+    "date_edtf": "1712~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Lignery"
+    ],
+    "description": "Michillimakinac, vers 1712. Lignery envoyé rouvrir la traite et rebâtir le fort. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : La Baie (Green Bay).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 283, 291, 305, 308 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/283/mode/1up?q=LIGNERY",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-lignery-green-bay",
+    "nom": "La Baie (Green Bay) : Lignery",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1726.0,
+    "fin": 1726.0,
+    "date_edtf": "1726",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lignery"
+    ],
+    "description": "La Baie (Green Bay), 1726. Lignery rencontre le 7 juin les nations au poste de La Baye et ordonne aux Renards, Sauks et Winnebagos de cesser la guerre. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : Michillimakinac.",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 283, 291, 305, 308 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/283/mode/1up?q=LIGNERY",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-duplessis-fabert-francois-le-green-bay",
+    "nom": "La Baie (Green Bay) : François Lefebvre, sieur Duplessis-Fabert",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Lefebvre, sieur Duplessis-Fabert"
+    ],
+    "description": "La Baie (Green Bay), 1727. François Lefebvre, sieur Duplessis-Fabert capitaine, reçoit le commandement de La Baye; part en septembre pour son poste. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 311-312 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/311/mode/1up?q=DUPLESSIS+FABERT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.53
+    ]
+   },
+   "properties": {
+    "id": "IP-boucher-de-la-perriere-fort-beauh",
+    "nom": "Fort Beauharnois (lac Pépin) : Boucher De La Perriere",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "poste",
+    "debut": 1727.0,
+    "fin": 1727.0,
+    "date_edtf": "1727",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Boucher De La Perriere"
+    ],
+    "description": "Fort Beauharnois (lac Pépin), 1727. Boucher De La Perriere fonde le fort Beauharnois au pays des Sioux. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 311 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/311/mode/1up?q=BOUCHER+DE+LA+PERRIERE",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-hertel-pierre-sieur-de-montc-green-bay",
+    "nom": "La Baie (Green Bay) : Pierre, sieur de Montcourt Hertel",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1734.0,
+    "fin": 1734.0,
+    "date_edtf": "1734",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre, sieur de Montcourt Hertel"
+    ],
+    "description": "La Baie (Green Bay), 1734. Pierre, sieur de Montcourt Hertel commandant de La Baye; contrat d'approvisionnement du 7 juin. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 333 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/333/mode/1up?q=HERTEL",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     44.48
+    ]
+   },
+   "properties": {
+    "id": "IP-linctot-lac-pepin",
+    "nom": "Lac Pepin (Mississippi), poste des Sioux : Linctot",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1734.0,
+    "fin": 1734.0,
+    "date_edtf": "1734",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Linctot"
+    ],
+    "description": "Lac Pepin (Mississippi), poste des Sioux, 1734. Linctot tient son poste du Mississippi avec l'aide de Sioux amis malgré les Renards. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 333 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/333/mode/1up?q=LINCTOT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.5,
+     49.8
+    ]
+   },
+   "properties": {
+    "id": "IP-la-verendrye-pierre-gautier--lake-nipig",
+    "nom": "Lac Nipigon : Pierre Gautier de Varennes, sieur de la Verendrye",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1726.0,
+    "fin": 1726.0,
+    "date_edtf": "1726",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Gautier de Varennes, sieur de la Verendrye"
+    ],
+    "description": "Lac Nipigon, 1726. Pierre Gautier de Varennes, sieur de la Verendrye, né à Trois-Rivières (Québec). Commande un petit poste où il entend parler de la mer de l'Ouest. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 336 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/336/mode/1up?q=LA+VERENDRYE",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-tonty-joseph-sieur-desliette-green-bay",
+    "nom": "La Baie (Green Bay) : Joseph, sieur Desliettes Tonty",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1738.0,
+    "fin": 1738.0,
+    "date_edtf": "1738",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph, sieur Desliettes Tonty"
+    ],
+    "description": "La Baie (Green Bay), 1738. Joseph, sieur Desliettes Tonty enseigne, second commandant de La Baye; procuration du 28 mai à sa femme Louise Dubuisson. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 339 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/339/mode/1up?q=TONTY",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-marin-green-bay",
+    "nom": "La Baie (Green Bay) : Marin",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1739.0,
+    "fin": 1739.0,
+    "date_edtf": "1739",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marin"
+    ],
+    "description": "La Baie (Green Bay), 1739. Marin passe de la rivière Rock au poste de La Baye. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 340 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/340/mode/1up?q=MARIN",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-langlade-augustin-de-green-bay",
+    "nom": "La Baie (Green Bay) : Augustin de Langlade",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1746.0,
+    "fin": 1746.0,
+    "date_edtf": "1746",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin de Langlade"
+    ],
+    "description": "La Baie (Green Bay), 1746. Augustin de Langlade sans doute l'un des deux traiteurs autorisés par le commandant de Michilimackinac à aller à La Baye pour mille francs chacun. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 376 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/376/mode/1up?q=LANGLADE",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-giasson-jacques-green-bay",
+    "nom": "La Baie (Green Bay) : Jacques Giasson",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Giasson"
+    ],
+    "description": "La Baie (Green Bay), 1758. Jacques Giasson s'engage avec Ignace Hubert à recueillir les fourrures du poste pour un tiers des profits. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 382 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/382/mode/1up?q=GIASSON",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-hubert-ignace-green-bay",
+    "nom": "La Baie (Green Bay) : Ignace Hubert",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Ignace Hubert"
+    ],
+    "description": "La Baie (Green Bay), 1758. Ignace Hubert associé de Jacques Giasson pour les fourrures du poste de La Baye. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 382 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/382/mode/1up?q=HUBERT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-marin-joseph-green-bay",
+    "nom": "La Baie (Green Bay) : Joseph Marin",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1756.0,
+    "fin": 1756.0,
+    "date_edtf": "1756",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Marin"
+    ],
+    "description": "La Baie (Green Bay), 1756. Joseph Marin quitte le poste de La Baye. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : La Pointe (Chequamegon).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 382, 384 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/382/mode/1up?q=MARIN",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "IP-marin-joseph-la-pointe",
+    "nom": "La Pointe (Chequamegon) : Joseph Marin",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1749.0,
+    "fin": 1749.0,
+    "date_edtf": "1749",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Marin"
+    ],
+    "description": "La Pointe (Chequamegon), 1749. Joseph Marin. Les Marin supplantent les La Ronde. D'après Kellogg, The French Régime in Wisconsin (1925). Autres lieux de l'entrée : La Baie (Green Bay).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 382, 384 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/382/mode/1up?q=MARIN",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "IP-couterot-hubert-green-bay",
+    "nom": "La Baie (Green Bay) : Hubert Couterot",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1756.0,
+    "fin": 1756.0,
+    "date_edtf": "1756",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Hubert Couterot"
+    ],
+    "description": "La Baie (Green Bay), 1756. Hubert Couterot neveu de Vaudreuil, dernier commandant français de La Baye. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 382 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/382/mode/1up?q=COUTEROT",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     46.78
+    ]
+   },
+   "properties": {
+    "id": "IP-la-ronde-la-pointe",
+    "nom": "La Pointe (Chequamegon) : La Ronde",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1749.0,
+    "fin": 1749.0,
+    "date_edtf": "1749",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "La Ronde"
+    ],
+    "description": "La Pointe (Chequamegon), 1749. La Ronde. La famille La Ronde est supplantée par les Marin au poste. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 384 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/384/mode/1up?q=LA+RONDE",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.733,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "IP-langlade-charles-de-michilimac",
+    "nom": "Michillimakinac : Charles de Langlade",
+    "corpus": "archive.org · Kellogg, The French Régime in Wisconsin (1925)",
+    "theme": "personnage",
+    "debut": 1758.0,
+    "fin": 1758.0,
+    "date_edtf": "1758",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles de Langlade"
+    ],
+    "description": "Michillimakinac, 1758. Charles de Langlade commission de second commandant du poste. D'après Kellogg, The French Régime in Wisconsin (1925).",
+    "sources": "Louise Phelps Kellogg, The French Régime in Wisconsin and the Northwest, Madison, 1925, p. 432 ; texte intégral : archive.org, frenchrgimeinwis00kell.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Kellogg, The French Régime in Wisconsin (1925)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/frenchrgimeinwis00kell/page/432/mode/1up?q=LANGLADE",
+      "texte": "Lire Kellogg, The French Régime in Wisconsin (1925) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -73.554,
      45.503
     ]
