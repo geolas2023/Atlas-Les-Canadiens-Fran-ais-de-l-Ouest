@@ -110539,6 +110539,365 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -101.75,
+     38.85
+    ]
+   },
+   "properties": {
+    "id": "GB68-01",
+    "nom": "Camp cheyenne de la Smoky Hill : Edmond Guerrier et George Bent écrivent la lettre de paix de Black Kettle (fin août 1864)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1864.583,
+    "fin": 1864.583,
+    "date_edtf": "1864-08",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Edmond Guerrier",
+     "George Bent",
+     "Julia Bent",
+     "Black Kettle",
+     "Edward W. Wynkoop"
+    ],
+    "description": "Fils du traiteur William Guerrier et d'une Cheyenne, Edmond Guerrier, beau-frère de George Bent (il a épousé Julia Bent), assiste au conseil où les chefs décident de demander la paix et de rendre les captifs blancs. Sous leur dictée, Guerrier et Bent rédigent deux lettres identiques signées « Black Kettle et autres chefs », l'une pour le commandant du fort Lyon, l'autre pour l'agent Colley. Les porteurs, One Eye et Eagle Head, sont d'abord jetés au cachot par le major Wynkoop ; la démarche mène à la rencontre de Camp Weld, puis au camp de Sand Creek.",
+    "sources": "Hyde, George E. (1968), Life of George Bent Written from His Letters, éd. Savoie Lottinville, Norman, University of Oklahoma Press, p. 83, 142.",
+    "note": "Position hypothétique du camp, vers les fourches de la Smoky Hill."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.08,
+     38.08
+    ]
+   },
+   "properties": {
+    "id": "GB68-02",
+    "nom": "Fort Lyon : Edmond Guerrier, rescapé de Sand Creek, se rend aux soldats (hiver 1864-1865)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1864.917,
+    "fin": 1865.0,
+    "date_edtf": "1864-12/1865-01",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Edmond Guerrier",
+     "George Bent",
+     "Scott J. Anthony"
+    ],
+    "description": "Présent au camp de Sand Creek lors du massacre du 29 novembre 1864, Edmond Guerrier évalue les morts à 148, chiffre que les historiens opposent aux 400 à 500 annoncés par Chivington. Avec George Bent, blessé à la hanche, il trouve des chevaux au camp sioux de la Solomon et revient vers l'Arkansas ; en vue du fort Lyon et du ranch de William Bent, découragé, il descend se rendre. Le major Anthony l'interroge sur les camps cheyennes ; Guerrier ne livre rien d'utile et tait la présence de Bent tout près.",
+    "sources": "Hyde, George E. (1968), Life of George Bent Written from His Letters, éd. Savoie Lottinville, Norman, University of Oklahoma Press, p. 159, 164-165.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.55,
+     38.22
+    ]
+   },
+   "properties": {
+    "id": "GB68-03",
+    "nom": "Pawnee Fork : Guerrier, interprète de Hancock face à Roman Nose (avril 1867)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1867.286,
+    "fin": 1867.288,
+    "date_edtf": "1867-04-14/1867-04-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Edmond Guerrier",
+     "Roman Nose",
+     "Bull Bear",
+     "Winfield S. Hancock",
+     "George A. Custer"
+    ],
+    "description": "Interprète du général Hancock lors de l'approche du grand village cheyenne et sioux de la Pawnee Fork, Edmond Guerrier, ami de Roman Nose et cousin de sa femme, assiste à la confrontation où Bull Bear retient Roman Nose prêt à tuer le général. Envoyé de nuit dans le village pour signaler tout départ, il voit Sioux et Cheyennes s'enfuir ; ses sympathies allant aux Indiens, il ne se presse pas de faire son rapport, et le village est vide quand la cavalerie de Custer l'encercle.",
+    "sources": "Hyde, George E. (1968), Life of George Bent Written from His Letters, éd. Savoie Lottinville, Norman, University of Oklahoma Press, p. 260-261.",
+    "note": "Position du village, une trentaine de milles à l'ouest du fort Larned."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.6,
+     38.95
+    ]
+   },
+   "properties": {
+    "id": "GB68-04",
+    "nom": "Route de la Smoky Hill : Guerrier, éclaireur de Custer, avertit un Cheyenne (avril 1867)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1867.25,
+    "fin": 1867.25,
+    "date_edtf": "1867-04",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Edmond Guerrier",
+     "George A. Custer",
+     "Bill Comstock",
+     "Wild Bill Hickok"
+    ],
+    "description": "Lancé avec Bill Comstock, Wild Bill Hickok et des éclaireurs delawares sur la piste des fuyards de la Pawnee Fork, au-delà des relais de Lookout et Stormy Hollow, Guerrier chevauche trois milles en avant de la colonne. Apercevant un Cheyenne revenu chercher des poneys, il lui fait signe de fuir, puis rapporte à Custer que les Indiens se sont dispersés. Custer ne les rattrape jamais.",
+    "sources": "Hyde, George E. (1968), Life of George Bent Written from His Letters, éd. Savoie Lottinville, Norman, University of Oklahoma Press, p. 261-262.",
+    "note": "Position approximative à l'ouest du fort Hays."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.145,
+     43.05
+    ]
+   },
+   "properties": {
+    "id": "MA19-01",
+    "nom": "Prairie du Chien : le Village principal, le Village d'en haut et Saint-Friol (1780-1828)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1780.0,
+    "fin": 1828.999,
+    "date_edtf": "1780~/1828",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Isaac Lee",
+     "Lucius Lyon",
+     "Pierre Antaya"
+    ],
+    "description": "Venus du pays des Illinois et du Bas-Canada, les Canadiens s'installent sur la prairie à la fin des années 1770 : chacun choisit librement son emplacement, les uns sur la grande île face au Mississippi (le Village principal), les autres sur la prairie (le Village d'en haut et le village de Saint-Friol), avec derrière eux de longues terres en bandes jusqu'aux falaises. En 1781, Pierre Antaya est l'un des trois témoins de l'accord qui cède la prairie aux habitants canadiens. En 1820, Isaac Lee recueille les témoignages des résidents installés depuis les années 1790 et dresse la première carte des lots ; Lucius Lyon les arpente en 1828.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": "Position au centre de la prairie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.137,
+     43.088
+    ]
+   },
+   "properties": {
+    "id": "MA19-02",
+    "nom": "Prairie du Chien : la maison François Vertefeuille, dernier vestige du Village d'en haut (vers 1800-1825)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1799.0,
+    "fin": 1825.999,
+    "date_edtf": "1799~/1825~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "François Vertefeuille",
+     "Marie Souligny",
+     "Joseph Rolette",
+     "James Aird"
+    ],
+    "description": "À deux milles et demi au nord de la ville, sur la « Frenchtown Road », subsiste la maison de rondins équarris de François Vertefeuille, établi à Prairie du Chien dès 1809. Le lot (partie du lot de ferme n° 15) était occupé avant 1799 par Marie Souligny, puis passa à Joseph Rolette et à James Aird. Bâtie en pièce sur pièce en coulisse, en deux temps (l'aile nord vers 1820-1825), elle fut habitée par des familles canadiennes-françaises jusqu'aux années 1980. Elle est inscrite au Registre national des lieux historiques.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": "Position approximative sur la County K (Frenchtown Road)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.152,
+     43.049
+    ]
+   },
+   "properties": {
+    "id": "MA19-03",
+    "nom": "Île Saint-Feriole : la maison Saint-Germain dit Gauthier, seule survivante du Village principal",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1790.0,
+    "fin": 1902.999,
+    "date_edtf": "1790/1902",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Caron",
+     "Guillaume Saint-Germain dit Gauthier",
+     "Nina Dousman McBride",
+     "Charles Gremore"
+    ],
+    "description": "Sur le lot n° 7 du Village principal, confirmé à Jean-Baptiste Caron, venu de Montréal comme milieu et tailleur au service de Berthelot et Rolette et installé dès 1790, s'élève ensuite la maison de Guillaume Saint-Germain, de Yamaska, ancien engagé de Forsyth, Richardson & Co. à Michillimakinac, arrivé vers 1825 par la baie des Puants. Rondins assemblés à queue d'aronde, longueur multiple de treize pieds, chiffres romains sur les pièces : des vingt-cinq maisons pièce sur pièce du Village principal, elle seule demeure. Trois générations de Saint-Germain dit Gauthier l'occupent jusqu'en 1890 ; Charles Gremore la déplace en 1900.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1425,
+     43.0405
+    ]
+   },
+   "properties": {
+    "id": "MA19-04",
+    "nom": "Saint-Friol : la maison de Strange Powers et d'Euphrosine Antaya (vers 1818)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1818.0,
+    "fin": 1870.999,
+    "date_edtf": "1818~/1870",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Strange Powers",
+     "Euphrosine Antaya",
+     "Pierre LaRivière"
+    ],
+    "description": "Le Canadien anglais Strange Powers, arrivé vers 1799, charpentier et boulanger de la traite, épouse vers 1818 Euphrosine Antaya, ce qui fait de lui le beau-frère de Pierre LaRivière, qui lui vend le lot voisin. Leur maison de deux pièces, poteaux équarris rainurés et petits rondins encore couverts d'écorce glissés dans les rainures, mortier et chaux, illustre la technique pièce sur pièce à tenon en coulisse. Des objets de traite ont été retrouvés sous la maison dans les années 1970.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1418,
+     43.041
+    ]
+   },
+   "properties": {
+    "id": "MA19-05",
+    "nom": "Saint-Friol : la maison de Louis Robert, futur fondateur de Saint Paul (1838-1856)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1838.0,
+    "fin": 1856.999,
+    "date_edtf": "1838/1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Robert",
+     "Mary Rose Turpin",
+     "Michel Gauthier",
+     "Pierre LaChapelle"
+    ],
+    "description": "En 1838, Louis Robert acquiert de LaChapelle le lot faisant face à la maison Powers ; la maison à étage, en gros rondins équarris sur deux faces, assemblés à mi-queue d'aronde et renforcés de poteaux chevillés, est un rare exemple de maison canadienne à deux niveaux. En 1856, Louis et sa femme Mary Rose Turpin la vendent 300 $ à Michel Gauthier et partent au Minnesota, où Robert, membre du conseil territorial des bâtiments, contribue à fixer la capitale à Saint Paul.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1415,
+     43.0445
+    ]
+   },
+   "properties": {
+    "id": "MA19-06",
+    "nom": "Prairie du Chien : le vieux cimetière catholique « français », béni le 10 mai 1817",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1817.358,
+    "fin": 1840.999,
+    "date_edtf": "1817-05-10/1840",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Marie-Joseph Dunand",
+     "Vincent Badin",
+     "Augustin Ravoux",
+     "Hercules L. Dousman"
+    ],
+    "description": "Premier prêtre à visiter la prairie, le trappiste Marie-Joseph Dunand bénit le 10 mai 1817 le cimetière paroissial, entre le Village d'en haut et Saint-Friol. Les habitants tiennent eux-mêmes le registre des inhumations jusqu'au passage de Vincent Badin (1827-1829). Après l'arrivée d'Augustin Ravoux en 1840 et l'ouverture de nouveaux cimetières, l'ancien est délaissé ; des descendants le dégagent au XXe siècle, et le canton l'entretient aujourd'hui.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1435,
+     43.0465
+    ]
+   },
+   "properties": {
+    "id": "MA19-07",
+    "nom": "Prairie du Chien : la maison Ravoux et le catéchisme sioux imprimé par les pères Ravoux et Crétin (1843)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1840.0,
+    "fin": 1843.999,
+    "date_edtf": "1840/1843",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Ravoux",
+     "Joseph Crétin",
+     "Pierre Antaya"
+    ],
+    "description": "Sur une terre de Pierre Antaya, au nord de l'église Saint-Gabriel, subsiste un bâtiment de poteaux équarris garnis de brique tendre, de type « grange-maison québécoise ». La tradition veut que Joseph Crétin y ait logé et qu'en 1843 Augustin Ravoux, premier curé résident (1840), revenu de sa mission chez les Sioux de Traverse des Sioux, y ait imprimé sur la petite presse de Crétin le Wakantanka Ti Ki Chanku (« Le chemin de la maison de Dieu »), histoire de l'Église et catéchisme en langue dakota.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1432,
+     43.0458
+    ]
+   },
+   "properties": {
+    "id": "MA19-08",
+    "nom": "Prairie du Chien : l'église Saint-Gabriel, de Mazzuchelli à Galtier (1836-1866)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1836.083,
+    "fin": 1866.999,
+    "date_edtf": "1836-02/1866",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Strange Powers",
+     "Samuel Mazzuchelli",
+     "Augustin Ravoux",
+     "Joseph Crétin",
+     "Lucien Galtier"
+    ],
+    "description": "En février 1836, Strange Powers donne une partie du lot de ferme n° 28, acheté à Joseph Rolette, pour la construction d'une église que le père Mazzuchelli a lancée ; la pierre angulaire est posée en 1839. Ravoux et Crétin l'achèvent. En 1847, Lucien Galtier, fondateur des paroisses Saint-Pierre et Saint-Paul au Minnesota, en devient curé ; il y installe le chemin de croix, bâtit le presbytère et, mort subitement en 1866, est inhumé devant l'église, dont les murs de pierre datent toujours de Mazzuchelli.",
+    "sources": "Antoine, Mary Elise (2019), Remnants of French Prairie du Chien, Prairie du Chien (brochure).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
