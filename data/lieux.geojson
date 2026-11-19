@@ -121648,6 +121648,94 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -87.64,
+     41.88
+    ]
+   },
+   "properties": {
+    "id": "PE34-03",
+    "nom": "Portage de Chicago : La Salle écrit aux habitants du fort Saint-Louis (1er septembre 1683)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1683.667,
+    "fin": 1683.667,
+    "date_edtf": "1683-09-01",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "René-Robert Cavelier de La Salle",
+     "Jacques Bourdon d'Autray",
+     "La Fontaine",
+     "La Violette"
+    ],
+    "description": "De son petit poste du portage de Chicago, en route vers la France, La Salle écrit le 1er septembre 1683 aux colons du fort Saint-Louis du Rocher, faute de papier pour écrire à chacun : il les remercie de leur fermeté face au nouveau gouverneur La Barre, leur promet pendant deux ans les marchandises à moitié prix et leur assure qu'ils ne manqueront de rien, car Rolland l'attend à Michillimakinac avec une bonne cargaison. Il emmène La Fontaine, La Violette, le sieur d'Autray et deux Chaouanons, qu'il renverra porter les marchandises, et les exhorte à ne rien craindre : ils se sont établis de bonne foi sur l'ordre du roi.",
+    "sources": "Pease, Theodore C. et Raymond C. Werner (éd.) (1934), The French Foundations, 1680-1693, Collections of the Illinois State Historical Library, vol. XXIII, p. 36-38.",
+    "note": "Point au portage de Chicago (rivière Chicago). Lettre autographe à la Chicago Historical Society."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554,
+     45.508
+    ]
+   },
+   "properties": {
+    "id": "PE34-04",
+    "nom": "Montréal : les engagés de La Forest et de Tonti pour les Illinois (1687-1693)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1687.633,
+    "fin": 1693.667,
+    "date_edtf": "1687-08-19/1693-09",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "François Dauphin de La Forest",
+     "Henri de Tonti",
+     "Alphonse de Tonti",
+     "François de Boisrondel",
+     "Michel Accault"
+    ],
+    "description": "Les minutes du notaire Antoine Adhémar conservent les contrats passés à Montréal pour le fort Saint-Louis des Illinois : Jean de Broyeux, François Dumay et Laurent Barette en août 1687 ; Mathieu Rouillard, Jean Froment, Antoine Morin, Antoine Beaujean, Jean Heurtebise et François Tardif en juillet 1688 ; Jacques Filastreau, Louis Maillou, Jean Cardinal et Joseph Fafart en 1689 ; Eustache et François Dumais, Daniel-Joseph Amyot, Joseph Besnard, Jean et Pierre Lelat et Pierre Le Bœuf en mai 1690, pour Boisrondel et Alphonse de Tonti ; Bertrand Viau, Jacques Simon, Nicolas Le Tellier, Charles Daze et d'autres en septembre 1693. Entre-temps, le 14 juillet 1690, le roi concède le fort Saint-Louis à Tonti et La Forest, et Michel Accault achète en avril 1693 la moitié des droits de La Forest.",
+    "sources": "Pease, Theodore C. et Raymond C. Werner (éd.) (1934), The French Foundations, 1680-1693, Collections of the Illinois State Historical Library, vol. XXIII, p. 123-298.",
+    "note": "Point au vieux Montréal (greffe Adhémar) ; ces engagés gagnent le fort Saint-Louis du Rocher, puis Pimitoui."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.07,
+     41.5
+    ]
+   },
+   "properties": {
+    "id": "PE34-05",
+    "nom": "Mont Joliet et portage des Chênes : la route de Chicago aux Illinois selon le mémoire De Gannes (vers 1702)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1702.0,
+    "fin": 1702.999,
+    "date_edtf": "1702~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Charles Deliette"
+    ],
+    "description": "Le mémoire dit « De Gannes », attribué par Pease à Pierre-Charles Deliette, neveu de Tonti, décrit la route des Illinois : à Chicago, à 140 lieues de Michillimakinac, un portage d'un quart de lieue en basses eaux mène, par deux petits lacs, au portage des Chênes, puis à la rivière que les Français appellent des Illinois ; aux basses eaux, il faut décharger le canot en dix endroits. Le mont Joliet, à quatre lieues de rapides, est aussi appelé « Illes », du nom d'un voyageur qui y fut longtemps retenu ; les Illinois et les Miamis le nomment Missouratenouy, « vaisseau de terre », long d'environ trois arpents. Deliette y donne la meilleure description ancienne des Illinois.",
+    "sources": "Pease, Theodore C. et Raymond C. Werner (éd.) (1934), The French Foundations, 1680-1693, Collections of the Illinois State Historical Library, vol. XXIII, p. 302-304.",
+    "note": "Point au mont Joliet (rivière des Plaines). Le mémoire est conservé à la Newberry Library."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -101.274,
      47.298
     ]
