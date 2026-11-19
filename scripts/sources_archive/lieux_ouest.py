@@ -2699,6 +2699,8 @@ G.update({
     'Saint-Adolphe (Manitoba)': (-97.11, 49.67, 'c', "Pointe-Coupée, Saint-Adolphe (Manitoba)"),
     'Saint-Denis (Saskatchewan)': (-106.10, 52.21, 'c', "Saint-Denis (Saskatchewan)"),
     'Big River (Saskatchewan)': (-107.02, 53.83, 'c', "Big River (Saskatchewan)"),
+    'Blackfoot Crossing (Alberta)': (-112.87, 50.77, 'c', "Traverse des Pieds-Noirs, Blackfoot Crossing (Alberta)"),
+    'Saint-Louis-de-Langevin (Saskatchewan)': (-105.80, 52.92, 'c', "Saint-Louis-de-Langevin (Saskatchewan)"),
 })
 
 
