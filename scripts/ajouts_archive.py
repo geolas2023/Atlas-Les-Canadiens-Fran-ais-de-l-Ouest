@@ -659,6 +659,8 @@ LIVRES = [
     ('wi_fox_river_chapters_1913.txt', 'IA', {'court': 'Chapters in Fox River Valley History (1913)', 'ref': "Chapters in Fox River Valley History (Powell ; J. W. Arndt), Proceedings of the State Historical Society of Wisconsin for 1912, Madison, 1913"}, 'chaptersinfoxriv00arnd', lambda nom, ref: ref),
     ('wi_mclenegan_pioneer_life_1906.txt', 'IC', {'court': 'McLenegan, Pioneer Life in the Fox River Valley (1906)', 'ref': "Annie Susan McLenegan, Pioneer Life in the Fox River Valley, Madison, 1906"}, 'pioneerlifeinfox00mcle', lambda nom, ref: ref),
     ('wi_fox_river_commemorative_1895.txt', 'IF', {'court': 'Commemorative Biographical Record, Fox River Valley (1895)', 'ref': "Commemorative Biographical Record of the Fox River Valley Counties of Brown, Outagamie and Winnebago, J. H. Beers, Chicago, 1895"}, 'commemorativebio01chic', lambda nom, ref: ref),
+    ('wi_durrie_prairie_du_chien_1872.txt', 'IG', {'court': 'Durrie, Annals of Prairie du Chien (1872)', 'ref': "Daniel S. Durrie, The Early Outposts of Wisconsin : Annals of Prairie du Chien, 1872"}, 'earlyoutpostsofw00durr', lambda nom, ref: ref),
+    ('wi_crawford_county_1884.txt', 'II', {'court': 'History of Crawford and Richland Counties (1884)', 'ref': "History of Crawford and Richland Counties, Wisconsin, Springfield, 1884"}, 'historyofcrawfor00butt', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
