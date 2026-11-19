@@ -2486,6 +2486,13 @@ G.update({
     'Stevens Point (Wisconsin)': (-89.5743, 44.5236, 'c', "Stevens Point (Wisconsin)"),
     'DuBay (Wisconsin)': (-89.6560, 44.6720, 'c', "poste DuBay, rivière Wisconsin, en amont de Stevens Point"),
     'Omro (Wisconsin)': (-88.7443, 44.0397, 'c', "Omro (Wisconsin)"),
+    'Menasha (Wisconsin)': (-88.4465, 44.2022, 'c', "Menasha (Wisconsin)"),
+    'Pensaukee (Wisconsin)': (-87.9573, 44.8197, 'c', "Pensaukee (Wisconsin)"),
+    'Flintville (Wisconsin)': (-88.0300, 44.6330, 'c', "Flintville (Suamico, Wisconsin)"),
+    'Madison (Wisconsin)': (-89.4012, 43.0731, 'c', "Madison (Wisconsin)"),
+    'Maple Creek (Wisconsin)': (-88.5700, 44.5300, 'c', "canton de Maple Creek (comté d'Outagamie, Wisconsin)"),
+    'Bovina (Wisconsin)': (-88.6000, 44.4300, 'c', "canton de Bovina (Shiocton, Wisconsin)"),
+    'Red River (Wisconsin)': (-87.7700, 44.6200, 'c', "canton de Red River (comté de Kewaunee, Wisconsin)"),
 })
 
 
