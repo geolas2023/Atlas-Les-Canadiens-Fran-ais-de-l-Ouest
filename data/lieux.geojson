@@ -1065381,6 +1065381,74 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -86.33,
+     32.5
+    ]
+   },
+   "properties": {
+    "id": "OJY-tuzant-francis-coosada-cr",
+    "nom": "Coosaudee (Coosada), ville des Creeks supérieurs (Alabama) : Francis Tuzant",
+    "corpus": "archive.org · Hawkins, Letters 1796-1806 (1916)",
+    "theme": "personnage",
+    "debut": 1797.0,
+    "fin": 1797.0,
+    "date_edtf": "1797",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Francis Tuzant"
+    ],
+    "description": "Coosaudee (Coosada), ville des Creeks supérieurs (Alabama), 1797. Francis Tuzant « Frenchman » oisif, l'un des traiteurs du village de Coosaudee recensés par l'agent Hawkins ; endetté envers Panton et la factorerie. D'après Hawkins, Letters 1796-1806 (1916).",
+    "sources": "Benjamin Hawkins, Letters of Benjamin Hawkins, 1796-1806 (Collections of the Georgia Historical Society, vol. 9), Georgia Historical Society, 1916, p. 169 ; texte intégral : archive.org, collectionsofgeo09hawk.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Hawkins, Letters 1796-1806 (1916)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/collectionsofgeo09hawk/page/169/mode/1up?q=TUZANT",
+      "texte": "Lire Hawkins, Letters 1796-1806 (1916) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.14,
+     32.195
+    ]
+   },
+   "properties": {
+    "id": "OJZ-quesnall-joseph-andersonvi",
+    "nom": "Andersonville (Géorgie) : Joseph Quesnall",
+    "corpus": "archive.org · McElroy, Andersonville (1879)",
+    "theme": "personnage",
+    "debut": 1865.0,
+    "fin": 1865.0,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Quesnall"
+    ],
+    "description": "Andersonville (Géorgie), 1865. Joseph Quesnall tout jeune Canadien français, compagnon de tente d'un sergent prisonnier ; héritier des effets du caporal Moss, de sa compagnie ; veille sur son camarade malade pendant l'hiver de janvier 1865. D'après McElroy, Andersonville (1879).",
+    "sources": "John McElroy, Andersonville : a Story of Rebel Military Prisons, Toledo, D. R. Locke, 1879, p. 685-686 ; texte intégral : archive.org, andersonvilleas00mcelgoog.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "McElroy, Andersonville (1879)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/andersonvilleas00mcelgoog/page/685/mode/1up?q=QUESNALL",
+      "texte": "Lire McElroy, Andersonville (1879) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.48,
      40.64
     ]
