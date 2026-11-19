@@ -121648,6 +121648,247 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.379,
+     38.265
+    ]
+   },
+   "properties": {
+    "id": "BL88-04",
+    "nom": "Herculaneum (Missouri) : la tour à plomb de chasse de Jean-Nicolas Maclot, la première à l'ouest des Alleghanys (1809-1815)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1809.0,
+    "fin": 1815.999,
+    "date_edtf": "1809/1815",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Nicolas Maclot",
+     "Marie-Thérèse Gratiot",
+     "Charles Gratiot"
+    ],
+    "description": "Né à Metz le 18 juin 1767, embastillé pour ses opinions avant la Révolution, Jean-Nicolas Maclot passe à Londres, où il apprend la bijouterie, puis à Philadelphie, et s'établit à Saint-Louis en 1804 avec un fonds de marchandises. Il épouse le 16 août 1806 Marie-Thérèse, fille de Charles Gratiot. En 1809, il élève sur la falaise au sud du nouveau village d'Herculaneum, à 32 milles en aval de Saint-Louis, une tour pour fabriquer le plomb de chasse et le plomb en barres, la première fonderie de ce genre à l'ouest des Alleghanys, en service dès novembre 1809. Il s'installe sur une ferme voisine en 1811 ; sa femme meurt à Sainte-Geneviève le 26 février 1815.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 177-178.",
+    "note": "Point à la falaise sud d'Herculaneum (comté de Jefferson). Plusieurs tours à plomb s'y succèdent ensuite."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.187,
+     38.625
+    ]
+   },
+   "properties": {
+    "id": "BL88-05",
+    "nom": "Saint-Louis, rue Second : l'académie de jeunes filles de Madame Pescay, réfugiée de Saint-Domingue (1810-1822)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1810.0,
+    "fin": 1822.999,
+    "date_edtf": "1810/1822",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Angélique La Grange Pescay",
+     "Michel Tesson",
+     "Julius Pescay",
+     "George Pescay"
+    ],
+    "description": "Née Angélique La Grange, d'une vieille famille de France, veuve de François Pescay, de Saint-Domingue, réfugiée à Philadelphie après l'insurrection de 1793, Madame Pescay arrive à Saint-Louis en 1810 avec ses fils et Michel Tesson, autre réfugié de l'île. Son aîné George se noie en janvier 1811 quand coule le bateau à quille qui portait leur plomb à La Nouvelle-Orléans. Elle bâtit alors une maison rue Second et ouvre en mai 1812 une académie de jeunes filles, la première de l'Ouest, fréquentée par les premières familles ; elle la tient environ quatre ans, puis reprend le commerce et part pour Pensacola en 1822.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 256-259.",
+    "note": "Point schématique rue Second."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.188,
+     38.628
+    ]
+   },
+   "properties": {
+    "id": "BL88-06",
+    "nom": "Saint-Louis : Augustin Guibord, de Mascouche, arrivé avec des traiteurs de la baie d'Hudson (1804-1860)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1804.0,
+    "fin": 1860.697,
+    "date_edtf": "1804/1860-09-12",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Augustin Guibord",
+     "Marie-Catherine Lacroix",
+     "Henri Guibor",
+     "Augustus Guibord"
+    ],
+    "description": "Né à Mascouche, près de Montréal, le 12 mai 1785, Augustin Guibord gagne Saint-Louis à l'automne 1804, à 19 ans, avec un parti de traiteurs de la Compagnie de la baie d'Hudson, sans le consentement de ses parents. Il épouse le 6 juillet 1811 Marie-Catherine Lacroix, fille de Joseph Lacroix et d'Hélène Bissonnet, sert dans les forces américaines pendant la guerre de 1812 et meurt à Saint-Louis le 12 septembre 1860. Son fils Augustus meurt au Colorado en 1850 ; un autre, Henri Guibor, combat au Mexique en 1846-1847, puis commande une batterie d'artillerie confédérée.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 212-213.",
+    "note": "Point schématique dans la vieille ville."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1885,
+     38.6265
+    ]
+   },
+   "properties": {
+    "id": "BL88-07",
+    "nom": "Saint-Louis : Antoine Chenié, de Pointe-Claire, commis de traite devenu boulanger de la rue du Marché (1795-1842)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1795.0,
+    "fin": 1842.402,
+    "date_edtf": "1795/1842-05-26",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Chenié",
+     "Marie-Thérèse Papin",
+     "Pierre Chouteau"
+    ],
+    "description": "Né à Pointe-Claire le 14 avril 1768, Antoine Chenié fait ses classes à Montréal, sert plusieurs années la traite canadienne aux chutes du Niagara, puis arrive à Saint-Louis en 1795 comme commis d'un grand traiteur du Missouri. Marié le 26 octobre 1805 à Marie-Thérèse Papin, fille de Joseph-Marie Papin, il quitte la traite pour ouvrir une boulangerie : le 15 octobre 1808, il achète de Pierre Chouteau la moitié sud du bloc 33, rue du Marché, avec une grande maison de pierre de 48 pieds sur 30. Il meurt le 26 mai 1842 ; sa fille Louise épouse Bernard Pratte fils.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 211-212.",
+    "note": "Point à la rue du Marché (Market Street), entre Main et Church."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1878,
+     38.6262
+    ]
+   },
+   "properties": {
+    "id": "BL88-08",
+    "nom": "Saint-Louis : René Paul, de Saint-Domingue, associé de Berthold, et son fils le général Gabriel René Paul (1809-1886)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1809.0,
+    "fin": 1886.999,
+    "date_edtf": "1809/1886",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "René Paul",
+     "Barthélemy Berthold",
+     "Gabriel René Paul",
+     "Edmund Paul"
+    ],
+    "description": "Fils d'Eustache Paul, de Cap-Français, René et Gabriel Paul font leurs études à Paris pendant l'insurrection de 1793 ; leur père meurt en mer en fuyant l'île. Arrivés aux États-Unis en 1802, ils s'établissent à Baltimore ; en 1809, René Paul vient à Saint-Louis avec Barthélemy Berthold. Colonel, il meurt en 1851. Son fils Gabriel René Paul, sorti de West Point en 1834, épouse à Fort Gibson la fille du colonel Whistler, devient général et, laissé pour mort et aveugle à Gettysburg, meurt à Washington en 1886 ; un autre fils, Edmund, épouse une St. Vrain et commande une compagnie de la St. Louis Legion au Mexique.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 235-238.",
+    "note": "Point schématique dans la vieille ville."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1868,
+     38.6245
+    ]
+   },
+   "properties": {
+    "id": "BL88-09",
+    "nom": "Saint-Louis : l'académie des Perdreauville, exilés de l'Empire, et l'école de danse de Durocher (1818-1820)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1818.667,
+    "fin": 1820.999,
+    "date_edtf": "1818-09/1820",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "René Perdreauville",
+     "Marie-Antoinette-Adèle Perdreauville",
+     "Jean-Pierre Gratiot",
+     "Durocher",
+     "Lucien Dumaine"
+    ],
+    "description": "Chassée de France par l'abdication de Napoléon, la famille de René Perdreauville, ancien officier de la maison de l'Empereur, arrive à Saint-Louis à l'été 1818. En septembre, Madame Perdreauville et ses filles ouvrent une académie de jeunes filles (musique, et danse enseignée par le maître Durocher) ; l'aînée épouse le 18 novembre 1819 Jean-Pierre Gratiot, puis la famille part pour La Nouvelle-Orléans en 1820. Billon évoque aussi le Charentais Lucien Dumaine, commis chez Berthold et Chouteau dès 1819, puis marchand, et le docteur Paul-Malo Gebert, médecin de la population française de 1819 à 1826.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 312-314, 344.",
+    "note": "Point schématique dans la vieille ville."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1876,
+     38.6268
+    ]
+   },
+   "properties": {
+    "id": "BL88-10",
+    "nom": "Saint-Louis : les sept fils de Joseph-Marie Papin et de Marie-Louise Chouteau (vers 1780-1853)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1780.0,
+    "fin": 1853.999,
+    "date_edtf": "1780/1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Marie Papin",
+     "Marie-Louise Chouteau",
+     "Alexandre Laforce Papin",
+     "Hypolite Leber Papin",
+     "Sylvestre Vilray Papin",
+     "Pierre-Didier Papin",
+     "Théodore d'Artigny Papin",
+     "Régis Loisel"
+    ],
+    "description": "Billon dresse la généalogie des sept fils de Joseph-Marie Papin et de Marie-Louise Chouteau, sœur d'Auguste : Joseph (1780-1850) ; Alexandre Laforce (1782-1849), marié à Julie Brazeau, dont le fils Alexandre est tué au Nouveau-Mexique ; Hypolite Leber (1787-1842) et Sylvestre Vilray (1794-1828), qui épousent deux filles du traiteur Régis Loisel ; Pierre-Mellicourt (1793-1849) ; Pierre-Didier (1798-1853), traiteur du haut Missouri, marié à Catherine-Louise Cerré ; Théodore d'Artigny (1799-1851), marié à une Duchouquette. Une fille, Marie-Thérèse, épouse Antoine Chenié.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 183-186.",
+    "note": "Point schématique dans la vieille ville. Pierre-Didier Papin a ses propres fiches (F-papin)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.184,
+     38.634
+    ]
+   },
+   "properties": {
+    "id": "BL88-11",
+    "nom": "Saint-Louis, extrémité nord du village : la forge de Gémenin Beauvais, puis Sainte-Geneviève (1799-1841)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1799.928,
+    "fin": 1841.999,
+    "date_edtf": "1799-12-05/1841",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Gémenin Beauvais",
+     "Charles de Hault de Lassus"
+    ],
+    "description": "Né près de Montréal vers 1770, venu jeune à Saint-Louis, Gémenin Beauvais reçoit du gouverneur De Lassus, le 5 décembre 1799, une demi-île vacante à l'extrémité nord du village, où il bâtit une forge (angle nord-ouest des rues Main et Cherry). Il la vend en 1807 pour Sainte-Geneviève, où il épouse vers 1808 une Aubuchon et où naissent ses enfants, puis revient mourir à Saint-Louis en 1841, à 71 ans.",
+    "sources": "Billon, Frederic L. (1888), Annals of St. Louis in its Territorial Days, from 1804 to 1821, Saint-Louis, imprimé pour l'auteur, p. 187.",
+    "note": "Point à l'angle des rues Main et Cherry (nord de la vieille ville)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -101.64,
      47.59
     ]
