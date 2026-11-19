@@ -2686,6 +2686,11 @@ G.update({
     'Coosada (Creeks)': (-86.33, 32.5, 'h', "Coosaudee (Coosada), ville des Creeks supérieurs (Alabama)"),
     'Poste de la Baie d\'Hudson (Pembina)': (-97.24, 49.0, 'h', "Poste de la Compagnie de la Baie d'Hudson près de Pembina, côté britannique"),
     'Kildonan (Manitoba)': (-97.1, 49.94, 'c', "Kildonan, paroisse écossaise de la Rivière-Rouge"),
+    'La Broquerie (Manitoba)': (-96.5, 49.52, 'c', "La Broquerie (Manitoba)"),
+    'Manitoba': (-97.5, 50.0, 'h', "Manitoba (lieu non précisé)"),
+    'Saint-Pierre-Jolys (Manitoba)': (-96.98, 49.44, 'c', "Saint-Pierre-Jolys, Rivière-aux-Rats (Manitoba)"),
+    'Saint-Jean-Baptiste (Manitoba)': (-97.28, 49.25, 'c', "Saint-Jean-Baptiste (Manitoba)"),
+    'Saint-Joseph (Manitoba)': (-97.33, 49.09, 'c', "Saint-Joseph (Manitoba)"),
 })
 
 
