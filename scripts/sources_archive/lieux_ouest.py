@@ -2701,6 +2701,9 @@ G.update({
     'Big River (Saskatchewan)': (-107.02, 53.83, 'c', "Big River (Saskatchewan)"),
     'Blackfoot Crossing (Alberta)': (-112.87, 50.77, 'c', "Traverse des Pieds-Noirs, Blackfoot Crossing (Alberta)"),
     'Saint-Louis-de-Langevin (Saskatchewan)': (-105.80, 52.92, 'c', "Saint-Louis-de-Langevin (Saskatchewan)"),
+    'Auburn (Massachusetts)': (-71.835, 42.195, 'c', "Auburn (Massachusetts)"),
+    'Hudson (Massachusetts)': (-71.566, 42.392, 'c', "Hudson (Massachusetts)"),
+    'Greendale (Worcester, Massachusetts)': (-71.81, 42.30, 'c', "Greendale, Worcester (Massachusetts)"),
 })
 
 
