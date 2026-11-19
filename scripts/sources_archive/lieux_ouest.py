@@ -2468,6 +2468,8 @@ G.update({
     'Muskego (Wisconsin)': (-88.14, 42.90, 'c', "Muskego (Wisconsin)"),
     'Waukesha (Wisconsin)': (-88.23, 43.01, 'c', "Waukesha (Wisconsin)"),
     'Wisconsin Rapids': (-89.82, 44.38, 'c', "Rapides du haut Wisconsin (Wisconsin Rapids)"),
+    'Rivière Yellow (Wisconsin)': (-91.75, 45.95, 'h', "Rivière Yellow, affluent de la Saint-Croix (Wisconsin), poste de Curot"),
+    'Muscoda (Wisconsin)': (-90.44, 43.19, 'c', "Muscoda, rivière Wisconsin"),
 })
 
 
