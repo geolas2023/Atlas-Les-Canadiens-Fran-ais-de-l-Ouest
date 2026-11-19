@@ -2570,6 +2570,14 @@ G.update({
     'Clifton (Illinois)': (-87.9348, 40.9353, 'c', "Clifton, canton de Chebanse, comté d'Iroquois (Illinois)"),
     'Watseka (Illinois)': (-87.7364, 40.7761, 'c', "Watseka, siège du comté d'Iroquois (Illinois)"),
     'Confluent Kankakee-Des Plaines (Illinois)': (-88.2470, 41.3920, 'h', "confluent de la Kankakee et de la Des Plaines, source de la rivière Illinois"),
+    'Crescent City (Illinois)': (-87.8545, 40.7714, 'c', "Crescent City, comté d'Iroquois (Illinois)"),
+    'Chebanse (Illinois)': (-87.9087, 41.0031, 'c', "Chebanse, comtés d'Iroquois et de Kankakee (Illinois)"),
+    'Belleville (Illinois)': (-89.9840, 38.5201, 'c', "Belleville (Illinois)"),
+    'Hickory Ridge (embouchure du Bureau, Illinois)': (-89.3600, 41.2900, 'a', "Hickory Ridge, à l'embouchure du ruisseau Bureau, poste de traite de Pierre De Beuro (Illinois)"),
+    'Opa (Wesley, Illinois)': (-89.5850, 40.6300, 'a', "Opa ou « Trading House », poste de traite au sud du lac Peoria, auj. Wesley (Illinois)"),
+    'Village de Black Partridge (lac Peoria)': (-89.4700, 40.9500, 'a', "village potawatomi de Black Partridge, au-dessus du lac Peoria (Illinois)"),
+    'Village de Senachwine (Illinois)': (-89.3600, 41.1200, 'a', "village potawatomi de Senachwine, sur la rivière Illinois (comté de Putnam)"),
+    'Green River (Illinois)': (-90.1500, 41.4300, 'h', "rivière Green, affluent de la Rock (Illinois)"),
 })
 
 

@@ -741,6 +741,8 @@ LIVRES = [
     ('il_burroughs_kankakee_1923.txt', 'MU', {'court': 'Burroughs, Legends and Tales of Homeland on the Kankakee (1923)', 'ref': "Burt E. Burroughs, Legends and Tales of Homeland on the Kankakee, Chicago, Regan Printing House, 1923"}, 'legendstalesofho00burr', lambda nom, ref: ref),
     ('il_burroughs_momence_1925.txt', 'MW', {'court': 'Burroughs, Tales of an Old Border Town (1925)', 'ref': "Burt E. Burroughs, Tales of an Old « Border Town » and Along the Kankakee, Fowler (Indiana), The Benton Review Shop, 1925"}, 'talesofoldborder00burr', lambda nom, ref: ref),
     ('il_iroquois_beckwith_1880.txt','MX',{'court':'Beckwith, Iroquois County (1880)','ref':"H. W. Beckwith, History of Iroquois County, Chicago, H. H. Hill and Company, 1880"},'historyofiroquoi00beck', lambda nom, ref: ref),
+    ('il_iroquois_kern_1907.txt','MY',{'court':'Kern, Past and Present of Iroquois County (1907)','ref':"J. W. Kern, Past and Present of Iroquois County, Illinois, Chicago, The S. J. Clarke Publishing Co., 1907"},'pastpresentofiro00kern', lambda nom, ref: ref),
+    ('il_matson_french_indians_1874.txt','MZ',{'court':'Matson, French and Indians of Illinois River (1874)','ref':"N. Matson, French and Indians of Illinois River, 2e éd., Princeton (Illinois), Republican Job Printing Establishment, 1874"},'frenchindiansofi00mats', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
