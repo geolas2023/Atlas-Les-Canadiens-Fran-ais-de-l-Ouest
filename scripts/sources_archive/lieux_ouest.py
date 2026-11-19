@@ -2583,6 +2583,12 @@ G.update({
     'Bulbona Grove (Wyanet, Illinois)': (-89.5600, 41.3700, 'a', "Bulbona Grove, poste de François Bourbonnais, près de Wyanet (comté de Bureau, Illinois)"),
     'Dixon (Illinois)': (-89.4795, 41.8389, 'c', "Dixon, ancien bac d'Ogee sur la Rock (Illinois)"),
     'Seneca (Illinois)': (-88.6098, 41.3111, 'c', "Seneca, comté de La Salle (Illinois)"),
+    'Plainfield (Illinois)': (-88.2120, 41.6270, 'c', "Plainfield, près de Walker's Grove (comté de Will, Illinois)"),
+    'Dresden (Illinois)': (-88.2840, 41.4000, 'c', "Dresden (« Resden »), comté de Grundy (Illinois)"),
+    'Wilmington (Illinois)': (-88.1473, 41.3078, 'c', "Wilmington, comté de Will (Illinois)"),
+    'Braidwood (Illinois)': (-88.2123, 41.2650, 'c', "Braidwood, comté de Will (Illinois)"),
+    'Comté de La Salle (Illinois)': (-88.8900, 41.3400, 'h', "comté de La Salle (Illinois)"),
+    'Sheridan (Illinois)': (-88.6798, 41.5300, 'c', "Sheridan, comté de La Salle (Illinois)"),
 })
 
 
