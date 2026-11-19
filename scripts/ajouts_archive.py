@@ -872,6 +872,8 @@ LIVRES = [
     ('fl_johanet_francais_floride_1889.txt','OJM',{'court':'Johanet, Un Français dans la Floride (1889)','ref':'Edmond Johanet, Un Français dans la Floride : notes de voyage, Tours, A. Mame, 1889'},'unfrancaisdansla00joha', lambda nom, ref: ref),
     ('fl_williams_territory_1837.txt','OJN',{'court':'Williams, The Territory of Florida (1837)','ref':'John Lee Williams, The Territory of Florida, New York, A. T. Goodrich, 1837'},'territoryofflori00will', lambda nom, ref: ref),
     ('fl_gaffarel_floride_francaise_1875.txt','OJO',{'court':'Gaffarel, Histoire de la Floride française (1875)','ref':'Paul Gaffarel, Histoire de la Floride française, Paris, Firmin-Didot et Cie, 1875'},'histoiredelaflo00fourgoog', lambda nom, ref: ref),
+    ('fl_laudonniere_histoire_notable_1853.txt','OJP',{'court':"Laudonnière, L'histoire notable de la Floride (éd. 1853)",'ref':"René Goulaine de Laudonnière, L'histoire notable de la Floride, située ès Indes Occidentales, Paris, P. Jannet, 1853"},'lhistoirenotable53laud', lambda nom, ref: ref),
+    ('fl_bourget_circulaire_1867.txt','OJQ',{'court':'Bourget, Circulaire au clergé : la mission de la Floride (1867)','ref':'Ignace Bourget, évêque de Montréal, Circulaire au clergé : la mission de la Floride, Montréal, 7 octobre 1867'},'cihm_55253', lambda nom, ref: ref),
     ('ia_annals_1924_10.txt','IAO',{'court':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)",'ref':"Annals of Iowa, vol. 14, n° 6 (octobre 1924)"},'annals-of-iowa_1924-10_14_6', lambda nom, ref: ref),
 ]
 
