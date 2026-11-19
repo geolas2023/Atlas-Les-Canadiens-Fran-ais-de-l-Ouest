@@ -110957,6 +110957,63 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -107.215,
+     42.445
+    ]
+   },
+   "properties": {
+    "id": "TS11-01",
+    "nom": "Devil's Gate (Sweetwater) : le ranch Sun de Thomas de Beau Soleil, « Tom Sun » (1872-1889)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1872.0,
+    "fin": 1889.999,
+    "date_edtf": "1872/1889",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Thomas de Beau Soleil (Tom Sun)",
+     "Napoléon Bonaparte « Boney » Earnest",
+     "LaFevre dit Descoteaux"
+    ],
+    "description": "Né au sud de Montréal, orphelin de mère, Thomas de Beau Soleil part seul vers l'Ouest à onze ans pour retrouver un oncle trappeur ; à Saint-Louis, un trappeur canadien nommé LaFevre, que les Indiens appellent Descoteaux, l'emmène dans les Rocheuses vers 1857. Après six mois dans le 6e régiment d'infanterie du Maine (1861), il revient éclaireur civil aux forts Halleck et Steele, fournit des traverses à l'Union Pacific par flottage sur la Platte Nord (d'où le nom de French Creek, d'après ses équipes), puis guide des chasseurs anglais, ami de Buffalo Bill. En 1872, il bâtit une cabane près de Devil's Gate, siège en 1879 du ranch « Hub and Spoke ». Il prend part en 1889 au lynchage d'Ella Watson (« Cattle Kate ») et de Jim Averell. Ses descendants forment, dit-on, la plus ancienne famille non autochtone du Wyoming encore établie.",
+    "sources": "MarylinMae (2011), « Tom Sun - Wyoming Pioneer », notice de Find a Grave (cimetière de Rawlins), copie Tom_Sun.txt du Drive de l'auteur.",
+    "note": "Mémoire familiale (Mme Tom Sun fils) relayée par une notice en ligne ; dates et filiation à vérifier."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.73,
+     42.5
+    ]
+   },
+   "properties": {
+    "id": "TS11-02",
+    "nom": "Devil's Gate et Atlantic City : Charles Lajeunesse, rancher et marchand, et les familles métisses du Wyoming",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1850.0,
+    "fin": 1870.999,
+    "date_edtf": "1850~/1870~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Lajeunesse",
+     "John Richard (Reshaw)"
+    ],
+    "description": "La même notice range parmi les rares pionniers du Wyoming antérieurs au territoire qui ont une descendance sur place Charles Lajeunesse, né de parents canadiens, convoyeur, tenancier d'un relais de route à Devil's Gate puis marchand à Atlantic City, marié à une Autochtone et dont les nombreux descendants vivent sur la réserve de Wind River. Elle cite aussi le « Français » Reshaw (John Richard), marié à une Sioux parente de Red Cloud, et six ou huit trappeurs canadiens restés près des forts Bridger et Laramie avec leurs épouses autochtones.",
+    "sources": "MarylinMae (2011), « Tom Sun - Wyoming Pioneer », notice de Find a Grave (cimetière de Rawlins), copie Tom_Sun.txt du Drive de l'auteur.",
+    "note": "Position à Atlantic City (Wyoming) ; « Cimaneau » dans la notice, sans doute Seminoe, surnom des Lajeunesse."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
