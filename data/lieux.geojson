@@ -1088605,6 +1088605,1230 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-ducharme-dominique-red-river",
+    "nom": "Rivière-Rouge : Dominique Ducharme",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Dominique Ducharme"
+    ],
+    "description": "Rivière-Rouge, vers 1840. Dominique Ducharme signe avec Charles Laurance, Alexis Goulait et d'autres une pétition lue au Conseil d'Assiniboia après la séance du 4 juillet 1839, et réexaminée en 1841. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 315 ; 326 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/315/mode/1up?q=DUCHARME",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-laurance-charles-red-river",
+    "nom": "Rivière-Rouge : Charles Laurance",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Laurance"
+    ],
+    "description": "Rivière-Rouge, vers 1840. Charles Laurance premier nommé de la pétition présentée au gouverneur et au Conseil d'Assiniboia avec Dominique Ducharme et Alexis Goulait. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 315 ; 326 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/315/mode/1up?q=LAURANCE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-goulait-alexis-red-river",
+    "nom": "Rivière-Rouge : Alexis Goulait",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1840.0,
+    "date_edtf": "1840~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Goulait"
+    ],
+    "description": "Rivière-Rouge, vers 1840. Alexis Goulait cosignataire de la pétition de Charles Laurance et Dominique Ducharme au Conseil d'Assiniboia. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 315 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/315/mode/1up?q=GOULAIT",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "OLB-marion-narcisse-saint-boni",
+    "nom": "Saint-Boniface : Narcisse Marion",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1851.0,
+    "fin": 1851.0,
+    "date_edtf": "1851",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Narcisse Marion"
+    ],
+    "description": "Saint-Boniface, 1851. Narcisse Marion. Le bac lui est loué un mois puis un second mois pour cinq livres par mois (séance du 27 novembre 1851). D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : Rivière-Rouge.",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 366 ; 393 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/366/mode/1up?q=MARION",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-marion-narcisse-red-river",
+    "nom": "Rivière-Rouge : Narcisse Marion",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Narcisse Marion"
+    ],
+    "description": "Rivière-Rouge, 1853. Narcisse Marion chargé avec Bruneau, Genton, J.-Bte Lépine, Solomon Hamelin, Michel Dumas et Jean Venis de tracer une route (octobre 1853). D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : Saint-Boniface.",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 366 ; 393 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/366/mode/1up?q=MARION",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-bousquet-louis-red-river",
+    "nom": "Rivière-Rouge : Louis Bousquet",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1852.0,
+    "fin": 1852.0,
+    "date_edtf": "1852",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Bousquet"
+    ],
+    "description": "Rivière-Rouge, 1852. Louis Bousquet nommé avec William Dease juge de la petite cour du district d'en haut, sur proposition de M. Laflèche. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 388 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/388/mode/1up?q=BOUSQUET",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-genton-maximilien-red-river",
+    "nom": "Rivière-Rouge : Maximilien Genton",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Maximilien Genton"
+    ],
+    "description": "Rivière-Rouge, 1853. Maximilien Genton chargé de tracer une route d'une chaîne de largeur avec d'autres colons (octobre 1853). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 393 ; 559-563 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/393/mode/1up?q=GENTON",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-genton-maximilien-red-river-2",
+    "nom": "Rivière-Rouge : Maximilien Genton",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Maximilien Genton"
+    ],
+    "description": "Rivière-Rouge, 1866. Maximilien Genton conseiller d'Assiniboia. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 393 ; 559-563 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/393/mode/1up?q=GENTON",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-lepine-j-bte-red-river",
+    "nom": "Rivière-Rouge : J. Bte. Lépine",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Bte. Lépine"
+    ],
+    "description": "Rivière-Rouge, 1853. J. Bte. Lépine chargé de tracer une route avec Bruneau, Genton, Hamelin, Dumas et Marion (octobre 1853). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 393 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/393/mode/1up?q=LÉPINE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-hamelin-solomon-red-river",
+    "nom": "Rivière-Rouge : Solomon Hamelin",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Solomon Hamelin"
+    ],
+    "description": "Rivière-Rouge, 1853. Solomon Hamelin chargé de tracer une route (octobre 1853). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 393 ; 432 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/393/mode/1up?q=HAMELIN",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-hamelin-solomon-red-river-2",
+    "nom": "Rivière-Rouge : Solomon Hamelin",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Solomon Hamelin"
+    ],
+    "description": "Rivière-Rouge, 1858. Solomon Hamelin conseiller d'Assiniboia (« Solomon Elmin [Hamlin] »), séance du 24 juin 1858. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 393 ; 432 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/393/mode/1up?q=HAMELIN",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-dumas-michel-red-river",
+    "nom": "Rivière-Rouge : Michel Dumas",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Michel Dumas"
+    ],
+    "description": "Rivière-Rouge, 1853. Michel Dumas chargé de tracer une route avec d'autres colons (octobre 1853). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 393 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/393/mode/1up?q=DUMAS",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-carriere-andre-red-river",
+    "nom": "Rivière-Rouge : André Carrière",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1853.0,
+    "fin": 1853.0,
+    "date_edtf": "1853",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "André Carrière"
+    ],
+    "description": "Rivière-Rouge, 1853. André Carrière un pont doit être construit près de chez lui, au programme des travaux publics. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 397 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/397/mode/1up?q=CARRIÈRE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "OLB-bruneau-francois-saint-fran",
+    "nom": "Saint-François-Xavier (Prairie-du-Cheval-Blanc) : François Bruneau",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François Bruneau"
+    ],
+    "description": "Saint-François-Xavier (Prairie-du-Cheval-Blanc), 1855. François Bruneau conseiller d'Assiniboia, président de la petite cour de la Prairie-du-Cheval-Blanc, chargé de percevoir le droit de 4 % sur les marchandises importées des États-Unis (séance du 27 février 1855). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 410-411 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/410/mode/1up?q=BRUNEAU",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "OLB-lafleche-louis-saint-boni",
+    "nom": "Saint-Boniface : Louis Laflèche",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1855.0,
+    "fin": 1855.0,
+    "date_edtf": "1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Laflèche"
+    ],
+    "description": "Saint-Boniface, 1855. Louis Laflèche abbé, conseiller d'Assiniboia (séance du 27 février 1855). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 410 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/410/mode/1up?q=LAFLÈCHE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-breland-pascal-red-river",
+    "nom": "Rivière-Rouge : Pascal Breland",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pascal Breland"
+    ],
+    "description": "Rivière-Rouge, 1856. Pascal Breland nommé au Bureau des travaux publics (26 février 1856). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 420 ; 432 ; 559 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/420/mode/1up?q=BRELAND",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-breland-pascal-red-river-2",
+    "nom": "Rivière-Rouge : Pascal Breland",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1858.0,
+    "date_edtf": "1858",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pascal Breland"
+    ],
+    "description": "Rivière-Rouge, 1858. Pascal Breland conseiller d'Assiniboia (24 juin 1858), siège encore en 1866. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 420 ; 432 ; 559 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/420/mode/1up?q=BRELAND",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-goulet-roger-red-river",
+    "nom": "Rivière-Rouge : Roger Goulet",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1856.0,
+    "fin": 1856.0,
+    "date_edtf": "1856",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Roger Goulet"
+    ],
+    "description": "Rivière-Rouge, 1856. Roger Goulet nommé arpenteur pour la partie de l'établissement au sud de la rivière (26 février 1856). D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : fort Garry.",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 420 ; 477 ; 559-563 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/420/mode/1up?q=GOULET",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.887
+    ]
+   },
+   "properties": {
+    "id": "OLB-goulet-roger-fort-garry",
+    "nom": "Fort Garry : Roger Goulet",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "poste",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Roger Goulet"
+    ],
+    "description": "Fort Garry, vers 1861. Roger Goulet percepteur des douanes au fort Garry d'en haut. D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : Rivière-Rouge.",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 420 ; 477 ; 559-563 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/420/mode/1up?q=GOULET",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-goulet-roger-red-river-2",
+    "nom": "Rivière-Rouge : Roger Goulet",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Roger Goulet"
+    ],
+    "description": "Rivière-Rouge, 1866. Roger Goulet conseiller d'Assiniboia. D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : fort Garry.",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 420 ; 477 ; 559-563 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/420/mode/1up?q=GOULET",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "OLB-breland-patrick-saint-fran",
+    "nom": "Saint-François-Xavier (Prairie-du-Cheval-Blanc) : Patrick Breland",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Patrick Breland"
+    ],
+    "description": "Saint-François-Xavier (Prairie-du-Cheval-Blanc), vers 1861. Patrick Breland percepteur des douanes à la Prairie-du-Cheval-Blanc. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 477 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/477/mode/1up?q=BRELAND",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-parenteau-pierre-red-river",
+    "nom": "Rivière-Rouge : Pierre Parenteau",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1860.0,
+    "date_edtf": "1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Parenteau"
+    ],
+    "description": "Rivière-Rouge, 1860. Pierre Parenteau un pont de vingt pieds doit être construit près de chez lui, dans le district du milieu. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 457 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/457/mode/1up?q=PARENTEAU",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-plante-magloire-red-river",
+    "nom": "Rivière-Rouge : Magloire Plante",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1861.0,
+    "fin": 1861.0,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Magloire Plante"
+    ],
+    "description": "Rivière-Rouge, 1861. Magloire Plante indemnisé par le Conseil pour une route publique traversant son lot. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 480 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/480/mode/1up?q=PLANTE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-chartrand-paulet-red-river",
+    "nom": "Rivière-Rouge : Paulet Chartrand",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1862.0,
+    "fin": 1862.0,
+    "date_edtf": "1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Paulet Chartrand"
+    ],
+    "description": "Rivière-Rouge, 1862. Paulet Chartrand condamné à dix mois de prison par la cour criminelle ; des pétitions, dont une de 308 signatures, demandent sa libération, car il est chef d'une famille nombreuse vivant de son travail. D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 481-484 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/481/mode/1up?q=CHARTRAND",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-poitras-pierre-red-river",
+    "nom": "Rivière-Rouge : Pierre Poitras",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Poitras"
+    ],
+    "description": "Rivière-Rouge, 1866. Pierre Poitras connétable, demande par pétition la nomination d'un autre connétable pour le relever (15 juin 1866). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 566 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/566/mode/1up?q=POITRAS",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-larence-norbert-red-river",
+    "nom": "Rivière-Rouge : Norbert Larence",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1866.0,
+    "fin": 1866.0,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Norbert Larence"
+    ],
+    "description": "Rivière-Rouge, 1866. Norbert Larence nommé magistrat de la petite cour du district du milieu (29 novembre 1866). D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : Pointe-Coupée, Saint-Adolphe (Manitoba).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 568 ; 580 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/568/mode/1up?q=LARENCE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.11,
+     49.67
+    ]
+   },
+   "properties": {
+    "id": "OLB-larence-norbert-saint-adol",
+    "nom": "Pointe-Coupée, Saint-Adolphe (Manitoba) : Norbert Larence",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Norbert Larence"
+    ],
+    "description": "Pointe-Coupée, Saint-Adolphe (Manitoba), 1867. Norbert Larence tient le bac de la rive ouest entre la Fourche et la Pointe-Coupée (30 avril 1867). D'après Oliver, The Canadian North-West, vol. 1 (1914). Autres lieux de l'entrée : Rivière-Rouge.",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 568 ; 580 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/568/mode/1up?q=LARENCE",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-gladieux-pierre-red-river",
+    "nom": "Rivière-Rouge : Pierre Gladieux",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1867.0,
+    "fin": 1867.0,
+    "date_edtf": "1867",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Gladieux"
+    ],
+    "description": "Rivière-Rouge, 1867. Pierre Gladieux tient un bac de la rive est (30 avril 1867). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 580 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/580/mode/1up?q=GLADIEUX",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.13,
+     49.9
+    ]
+   },
+   "properties": {
+    "id": "OLB-boucher-madame-red-river",
+    "nom": "Rivière-Rouge : Madame Boucher",
+    "corpus": "archive.org · Oliver, The Canadian North-West, vol. 1 (1914)",
+    "theme": "personnage",
+    "debut": 1869.0,
+    "fin": 1869.0,
+    "date_edtf": "1869",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Madame Boucher"
+    ],
+    "description": "Rivière-Rouge, 1869. Madame Boucher un comité du Conseil enquête sur sa plainte (4 avril 1869). D'après Oliver, The Canadian North-West, vol. 1 (1914).",
+    "sources": "Edmund Henry Oliver, The Canadian North-West, its Early Development and Legislative Records, vol. 1, Ottawa, Government Printing Bureau, 1914-1915 (archive.org : canadiannorthwes01olivuoft)., p. 610 ; texte intégral : archive.org, canadiannorthwes01olivuoft.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Oliver, The Canadian North-West, vol. 1 (1914)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/canadiannorthwes01olivuoft/page/610/mode/1up?q=BOUCHER",
+      "texte": "Lire Oliver, The Canadian North-West, vol. 1 (1914) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.14,
+     49.895
+    ]
+   },
+   "properties": {
+    "id": "OLC-cauchon-joseph-edouard-winnipeg",
+    "nom": "Winnipeg : Joseph Edouard Cauchon",
+    "corpus": "archive.org · Taché, A Page of the History of the Schools in Manitoba (1893)",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Edouard Cauchon"
+    ],
+    "description": "Winnipeg, 1877. Joseph Edouard Cauchon placé à la tête de l'administration de la province du Manitoba en décembre 1877. D'après Taché, A Page of the History of the Schools in Manitoba (1893).",
+    "sources": "Alexandre-Antonin Taché, A Page of the History of the Schools in Manitoba during 75 Years, [Saint-Boniface], 1893 (archive.org : P002114)., s. p. ; texte intégral : archive.org, P002114.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Taché, A Page of the History of the Schools in Manitoba (1893)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/P002114?q=CAUCHON",
+      "texte": "Lire Taché, A Page of the History of the Schools in Manitoba (1893) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.14,
+     49.895
+    ]
+   },
+   "properties": {
+    "id": "OLD-bernier-joseph-winnipeg",
+    "nom": "Winnipeg : Joseph Bernier",
+    "corpus": "archive.org · Bernier, L'instruction obligatoire au Manitoba (1908)",
+    "theme": "personnage",
+    "debut": 1908.0,
+    "fin": 1908.0,
+    "date_edtf": "1908",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Bernier"
+    ],
+    "description": "Winnipeg, 1908. Joseph Bernier député de Saint-Boniface à la Législature du Manitoba, y prononce le 15 janvier 1908 un discours sur l'instruction obligatoire, publié avec les hommages du club Cartier de Saint-Boniface. D'après Bernier, L'instruction obligatoire au Manitoba (1908).",
+    "sources": "Joseph Bernier, L'instruction obligatoire au Manitoba, St. Boniface, Imp. du Manitoba, 1908 (archive.org : linstructionobli00bern)., s. p. ; texte intégral : archive.org, linstructionobli00bern.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Bernier, L'instruction obligatoire au Manitoba (1908)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/linstructionobli00bern?q=BERNIER",
+      "texte": "Lire Bernier, L'instruction obligatoire au Manitoba (1908) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.28,
+     49.25
+    ]
+   },
+   "properties": {
+    "id": "OLE-pelissier-joseph-saint-jean",
+    "nom": "Saint-Jean-Baptiste (Manitoba) : Joseph Pélissier",
+    "corpus": "archive.org · Le Métis (1877) et Le Manitoba (1905)",
+    "theme": "personnage",
+    "debut": 1877.0,
+    "fin": 1877.0,
+    "date_edtf": "1877",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Pélissier"
+    ],
+    "description": "Saint-Jean-Baptiste (Manitoba), 1877. Joseph Pélissier de Saint-Jean-Baptiste de la Rivière-aux-Prunes, nommé constable du comté de Provencher par le lieutenant-gouverneur (avis du 22 janvier 1877, Le Métis, 8 février 1877). D'après Le Métis (1877) et Le Manitoba (1905).",
+    "sources": "Le Métis (Saint-Boniface), 8 février 1877 ; Le Manitoba (Saint-Boniface), 19 avril 1905 (archive.org : MTM_1877020801, LMT_1905041901)., s. p. ; texte intégral : archive.org, MTM_1877020801.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Le Métis (1877) et Le Manitoba (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/MTM_1877020801?q=PÉLISSIER",
+      "texte": "Lire Le Métis (1877) et Le Manitoba (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "OLE-couture-pierre-saint-boni",
+    "nom": "Saint-Boniface : Pierre Couture",
+    "corpus": "archive.org · Le Métis (1877) et Le Manitoba (1905)",
+    "theme": "personnage",
+    "debut": 1905.0,
+    "fin": 1905.0,
+    "date_edtf": "1905",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Couture"
+    ],
+    "description": "Saint-Boniface, 1905. Pierre Couture conseiller municipal présent à la séance du conseil de ville de Saint-Boniface du 10 avril 1905, où il fait une proposition (Le Manitoba, 19 avril 1905). D'après Le Métis (1877) et Le Manitoba (1905).",
+    "sources": "Le Métis (Saint-Boniface), 8 février 1877 ; Le Manitoba (Saint-Boniface), 19 avril 1905 (archive.org : MTM_1877020801, LMT_1905041901)., s. p. ; texte intégral : archive.org, MTM_1877020801.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Le Métis (1877) et Le Manitoba (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/MTM_1877020801?q=COUTURE",
+      "texte": "Lire Le Métis (1877) et Le Manitoba (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "OLE-gauvin-saint-boni",
+    "nom": "Saint-Boniface : Gauvin",
+    "corpus": "archive.org · Le Métis (1877) et Le Manitoba (1905)",
+    "theme": "personnage",
+    "debut": 1905.0,
+    "fin": 1905.0,
+    "date_edtf": "1905",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gauvin"
+    ],
+    "description": "Saint-Boniface, 1905. Gauvin conseiller municipal maintenu dans ses fonctions à la séance du 10 avril 1905 (Le Manitoba, 19 avril 1905). D'après Le Métis (1877) et Le Manitoba (1905).",
+    "sources": "Le Métis (Saint-Boniface), 8 février 1877 ; Le Manitoba (Saint-Boniface), 19 avril 1905 (archive.org : MTM_1877020801, LMT_1905041901)., s. p. ; texte intégral : archive.org, MTM_1877020801.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Le Métis (1877) et Le Manitoba (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/MTM_1877020801?q=GAUVIN",
+      "texte": "Lire Le Métis (1877) et Le Manitoba (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "OLE-pelletier-saint-boni",
+    "nom": "Saint-Boniface : Pelletier",
+    "corpus": "archive.org · Le Métis (1877) et Le Manitoba (1905)",
+    "theme": "personnage",
+    "debut": 1905.0,
+    "fin": 1905.0,
+    "date_edtf": "1905",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pelletier"
+    ],
+    "description": "Saint-Boniface, 1905. Pelletier conseiller municipal présent à la séance du 10 avril 1905 (Le Manitoba, 19 avril 1905). D'après Le Métis (1877) et Le Manitoba (1905).",
+    "sources": "Le Métis (Saint-Boniface), 8 février 1877 ; Le Manitoba (Saint-Boniface), 19 avril 1905 (archive.org : MTM_1877020801, LMT_1905041901)., s. p. ; texte intégral : archive.org, MTM_1877020801.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Le Métis (1877) et Le Manitoba (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/MTM_1877020801?q=PELLETIER",
+      "texte": "Lire Le Métis (1877) et Le Manitoba (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "OLE-marcoux-saint-boni",
+    "nom": "Saint-Boniface : Marcoux",
+    "corpus": "archive.org · Le Métis (1877) et Le Manitoba (1905)",
+    "theme": "personnage",
+    "debut": 1905.0,
+    "fin": 1905.0,
+    "date_edtf": "1905",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Marcoux"
+    ],
+    "description": "Saint-Boniface, 1905. Marcoux conseiller municipal présent à la séance du 10 avril 1905 (Le Manitoba, 19 avril 1905). D'après Le Métis (1877) et Le Manitoba (1905).",
+    "sources": "Le Métis (Saint-Boniface), 8 février 1877 ; Le Manitoba (Saint-Boniface), 19 avril 1905 (archive.org : MTM_1877020801, LMT_1905041901)., s. p. ; texte intégral : archive.org, MTM_1877020801.",
+    "note": "Repérage dans le texte intégral (OCR) d'archive.org, à vérifier dans le livre ; localisation attribuée par l'atlas.",
+    "livre": "Le Métis (1877) et Le Manitoba (1905)",
+    "voir_aussi": [
+     {
+      "url": "https://archive.org/details/MTM_1877020801?q=MARCOUX",
+      "texte": "Lire Le Métis (1877) et Le Manitoba (1905) sur archive.org →"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -91.48,
      40.64
     ]
