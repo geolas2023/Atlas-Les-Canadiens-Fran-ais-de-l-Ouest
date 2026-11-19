@@ -2557,6 +2557,19 @@ G.update({
     'Chenal Écarté (lac Sainte-Claire)': (-82.5500, 42.5800, 'c', "Chenal Écarté et île Harsens, delta de la rivière Sainte-Claire"),
     'Lowell (Michigan)': (-85.3417, 42.9336, 'c', "Lowell, embouchure de la Flat dans la Grand (Michigan)"),
     'Mendon (Michigan)': (-85.4497, 42.0061, 'c', "Mendon, ancien poste de traite de la réserve de Nottawa-seepe (Michigan)"),
+    'Momence (Illinois)': (-87.6628, 41.1606, 'c', "Momence, sur la Kankakee (Illinois)"),
+    'Middleport (Watseka, Illinois)': (-87.7364, 40.7761, 'c', "Middleport, ancien siège du comté d'Iroquois, auj. Watseka (Illinois)"),
+    'Martinton (Illinois)': (-87.7270, 40.9136, 'c', "Martinton, comté d'Iroquois (Illinois)"),
+    'Papineau (Illinois)': (-87.7139, 40.9692, 'c', "Papineau, comté d'Iroquois (Illinois)"),
+    'Beaverville (Illinois)': (-87.6531, 40.9531, 'c', "Beaverville (St. Mary), comté d'Iroquois (Illinois)"),
+    'Donovan (Illinois)': (-87.6153, 40.8853, 'c', "Donovan, canton de Beaver, comté d'Iroquois (Illinois)"),
+    'Aurora (Illinois)': (-88.3201, 41.7606, 'c', "Aurora (Illinois)"),
+    'Comté d\'Iroquois (Illinois)': (-87.82, 40.75, 'h', "comté d'Iroquois (Illinois)"),
+    'L\'Erable (Illinois)': (-87.8964, 40.8581, 'c', "L'Erable, canton d'Ashkum, comté d'Iroquois (Illinois)"),
+    'Ashkum (Illinois)': (-87.9548, 40.8781, 'c', "Ashkum, comté d'Iroquois (Illinois)"),
+    'Clifton (Illinois)': (-87.9348, 40.9353, 'c', "Clifton, canton de Chebanse, comté d'Iroquois (Illinois)"),
+    'Watseka (Illinois)': (-87.7364, 40.7761, 'c', "Watseka, siège du comté d'Iroquois (Illinois)"),
+    'Confluent Kankakee-Des Plaines (Illinois)': (-88.2470, 41.3920, 'h', "confluent de la Kankakee et de la Des Plaines, source de la rivière Illinois"),
 })
 
 
