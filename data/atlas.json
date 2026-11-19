@@ -256,7 +256,7 @@
   {
    "id": "provost",
    "type": "personnage",
-   "statut": "en_preparation",
+   "statut": "en_ligne",
    "titre": {
     "fr": "Atlas Provost",
     "en": "Provost Atlas"
@@ -266,15 +266,22 @@
     "en": "Étienne Provost (c. 1785-1850)"
    },
    "description": {
-    "fr": "Le trappeur de Chambly, pionnier du bassin du Grand Lac Salé. En attendant son atlas, son dossier est dans l'atlas des Canadiens français.",
-    "en": "The Chambly trapper, pioneer of the Great Salt Lake basin. Until his atlas is ready, his file is in the French-Canadian atlas."
+    "fr": "Le trappeur de Chambly (1785-1850) : prisonnier des Espagnols à Santa Fe (1817), pionnier du bassin du Grand Lac Salé (1824-1825), où Provo porte son nom, homme de l'American Fur Company aux rendez-vous et sur le haut Missouri, guide de Nicollet et d'Audubon, tavernier de Saint-Louis. 46 lieux et 22 routes, d'après Tykal, Hafen, Chittenden, Dale, Audubon et Vaugeois.",
+    "en": "The Chambly trapper (1785-1850): prisoner of the Spaniards in Santa Fe (1817), pioneer of the Great Salt Lake basin (1824-1825), where Provo bears his name, American Fur Company man at the rendezvous and on the upper Missouri, guide to Nicollet and Audubon, St. Louis tavern keeper. 46 places and 22 routes, after Tykal, Hafen, Chittenden, Dale, Audubon and Vaugeois."
    },
-   "url": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/provost.html",
-   "url_en": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/provost-en.html",
+   "url": "https://geolas2023.github.io/Atlas-Provost/",
+   "url_en": null,
    "donnees": null,
    "couleur": "#6b7a2f",
    "periode": "1785-1850",
-   "pages": []
+   "pages": [
+    {
+     "fr": "Le dossier Provost",
+     "en": "Provost file",
+     "href": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/provost.html",
+     "href_en": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/provost-en.html"
+    }
+   ]
   },
   {
    "id": "billy-the-kid",
