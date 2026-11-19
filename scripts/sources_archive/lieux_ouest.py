@@ -2691,6 +2691,14 @@ G.update({
     'Saint-Pierre-Jolys (Manitoba)': (-96.98, 49.44, 'c', "Saint-Pierre-Jolys, Rivière-aux-Rats (Manitoba)"),
     'Saint-Jean-Baptiste (Manitoba)': (-97.28, 49.25, 'c', "Saint-Jean-Baptiste (Manitoba)"),
     'Saint-Joseph (Manitoba)': (-97.33, 49.09, 'c', "Saint-Joseph (Manitoba)"),
+    'Saint-Alphonse (Manitoba)': (-98.97, 49.42, 'c', "Saint-Alphonse (Manitoba)"),
+    'Oak Lake (Manitoba)': (-100.63, 49.66, 'c', "Lac des Chênes, Oak Lake (Manitoba)"),
+    'Letellier (Manitoba)': (-97.30, 49.13, 'c', "Letellier (Manitoba)"),
+    'Saint-Laurent-de-Grandin (Saskatchewan)': (-106.05, 52.80, 'c', "Saint-Laurent-de-Grandin, Saskatchewan-Sud"),
+    'Sainte-Geneviève (Manitoba)': (-96.53, 49.80, 'c', "Sainte-Geneviève (Manitoba)"),
+    'Saint-Adolphe (Manitoba)': (-97.11, 49.67, 'c', "Pointe-Coupée, Saint-Adolphe (Manitoba)"),
+    'Saint-Denis (Saskatchewan)': (-106.10, 52.21, 'c', "Saint-Denis (Saskatchewan)"),
+    'Big River (Saskatchewan)': (-107.02, 53.83, 'c', "Big River (Saskatchewan)"),
 })
 
 
