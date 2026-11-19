@@ -2533,6 +2533,7 @@ G.update({
     'Plymouth (Indiana)': (-86.3097, 41.3434, 'c', "Plymouth (Indiana)"),
     'Rock Creek (comté de Carroll, Indiana)': (-86.6000, 40.6500, 'a', "embouchure du Rock Creek sur la Ouabache (comté de Carroll, Indiana)"),
     'Wildcat Creek (Indiana)': (-86.8000, 40.4700, 'a', "ravins du Wildcat Creek, près de Lafayette (Indiana)"),
+    'Lafayette (Indiana)': (-86.8753, 40.4167, 'c', "Lafayette (Indiana)"),
 })
 
 
