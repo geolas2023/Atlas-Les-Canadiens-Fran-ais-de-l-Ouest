@@ -2516,6 +2516,8 @@ G.update({
     'McDill (Wisconsin)': (-89.5560, 44.4910, 'c', "McDill (comté de Portage, Wisconsin)"),
     'Trempealeau (Wisconsin)': (-91.4421, 44.0055, 'c', "Trempealeau (Wisconsin)"),
     'Dodgeville (Wisconsin)': (-90.1301, 42.9603, 'c', "Dodgeville (Wisconsin)"),
+    'Logansport (Indiana)': (-86.3561, 40.7545, 'c', "Logansport (Indiana)"),
+    'Poste Juchereau (embouchure de l\'Ohio)': (-89.15, 37.02, 'a', "poste de Juchereau (embouchure de l'Ohio)"),
 })
 
 

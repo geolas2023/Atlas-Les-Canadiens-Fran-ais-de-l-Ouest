@@ -686,6 +686,10 @@ LIVRES = [
     ('wi_buck_milwaukee_v2_1881.txt', 'JK', {'court': 'Buck, Pioneer History of Milwaukee, vol. II (1881)', 'ref': "James S. Buck, Pioneer History of Milwaukee, from 1840 to 1846, Inclusive, vol. II, Symes, Swain & Co., Milwaukee, 1881"}, 'pioneerhistoryof02buck', lambda nom, ref: ref),
     ('wi_buck_milwaukee_v3_1884.txt', 'JL', {'court': 'Buck, Milwaukee under the Charter, vol. III (1884)', 'ref': "James S. Buck, Milwaukee under the Charter, from 1847 to 1853, Inclusive, vol. III, Symes, Swain & Co., Milwaukee, 1884"}, 'pioneerhistoryof03buck', lambda nom, ref: ref),
     ('wi_buck_milwaukee_v4_1886.txt', 'JM', {'court': 'Buck, Milwaukee under the Charter, vol. IV (1886)', 'ref': "James S. Buck, Milwaukee under the Charter, from 1854 to 1860, Inclusive, vol. IV, Symes, Swain & Co., Milwaukee, 1886"}, 'pioneerhistoryof04buck', lambda nom, ref: ref),
+    ('in_law_vincennes_1858.txt', 'JN', {'court': 'Law, Colonial History of Vincennes (1858)', 'ref': "John Law, The Colonial History of Vincennes, under the French, British and American Governments, Harvey, Mason & Co., Vincennes, 1858"}, 'colonialhistoryo00lawj', lambda nom, ref: ref),
+    ('in_cauthorn_vincennes_1902.txt', 'JO', {'court': 'Cauthorn, History of the City of Vincennes (1902)', 'ref': "Henry S. Cauthorn, A History of the City of Vincennes, Indiana, from 1702 to 1901, M. C. Cauthorn, Terre Haute, 1902"}, 'historyofcityofv00caut', lambda nom, ref: ref),
+    ('in_smith_old_vincennes_1902.txt', 'JP', {'court': 'Smith, Historical Sketches of Old Vincennes (1902)', 'ref': "Hubbard Madison Smith, Historical Sketches of Old Vincennes, Founded in 1732 : Its Institutions and Churches, Vincennes, 1902"}, 'historicalsketch00smi', lambda nom, ref: ref),
+    ('in_roy_sieur_vincennes_1919.txt', 'JQ', {'court': 'Roy, Le sieur de Vincennes (1919)', 'ref': "Pierre-Georges Roy, Le sieur de Vincennes, fondateur de l'Indiana, et sa famille, Charrier et Dugal, Québec, 1919"}, 'lesieurdevincenn00roypuoft', lambda nom, ref: ref),
 ]
 
 d = json.load(open(f'{R}/data/lieux.geojson', encoding='utf-8'))
