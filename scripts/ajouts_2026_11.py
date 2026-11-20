@@ -48,6 +48,8 @@ TYPES = {'naissance': 'migration', 'mort': 'religion', 'construction': 'poste', 
 TYPES_FR = {'naissance': 'naissance', 'mort': 'mort', 'construction': 'construction', 'commerce': 'commerce', 'chasse': 'chasse',
             'combat': 'combat', 'rendez-vous': 'rendez-vous', 'mariage': 'mariage', 'hivernage': 'hivernage'}
 SRC = "Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, 1965-1972"
+# Fiches retirées après vérification (relevé automatique non confirmé ou contraire aux faits) : voir hafen_mm_retires.json.
+RETIREES = json.load(open(f'{S}/hafen_mm_retires.json', encoding='utf-8'))['retirees']
 couverts = set(); k = 0
 for f in g['features']:
     q = f['properties']
@@ -57,13 +59,14 @@ for f in g['features']:
     nat = [TYPES_FR[t] for t in q['t'] if t in TYPES_FR]
     desc = (f"{P['nom']} ({P['dates'] or 'dates inconnues'}), {P['role']}. Sa biographie mentionne {q['lf']} en {q['a']}"
             + (f" (année déduite du contexte)" if not q['ax'] else '') + (f" : {', '.join(nat)}" if nat else '') + '.')
+    if f"MM-{q['p']}-{k:04d}" in RETIREES: continue
     feats.append({"type": "Feature", "geometry": f['geometry'], "properties": {
         "id": f"MM-{q['p']}-{k:04d}", "nom": f"{q['lf']} : {P['nom']}", "corpus": "Hafen MM",
         "theme": next((TYPES[t] for t in q['t'] if t in TYPES), 'personnage'), "debut": float(q['a']), "fin": float(q['a']),
         "date_edtf": str(q['a']) if q['ax'] else f"{q['a']}~", "precision": "annee" if q['ax'] else "circa", "certitude": "approximative",
         "personnages": [P['nom']], "description": desc,
         "sources": f"{SRC}, vol. {P['vol']}, notice « {P['nom']} » par {P['auteur']}, p. {P['page']}-{P['fin']} ; mention p. {q['pg']}.",
-        "note": "Lieu repéré automatiquement dans le texte de la notice (répertoire de 327 lieux de la traite) ; à vérifier."}})
+        "note": "Lieu repéré automatiquement dans le texte de la notice (répertoire de 327 lieux de la traite) ; confirmé par une autre source de l'atlas (même lieu à 40 km près, même date à 2 ans près)."}})
 n_mm = k
 # retirer les points provisoires « H… » remplacés
 avant = len(feats)
