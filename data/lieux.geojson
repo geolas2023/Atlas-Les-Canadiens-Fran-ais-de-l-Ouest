@@ -79811,6 +79811,121 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.0498,
+     37.9806
+    ]
+   },
+   "properties": {
+    "id": "YE35-04",
+    "nom": "Sainte-Geneviève : réception solennelle de Mgr Du Bourg dans son diocèse (31 décembre 1818)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1818.999,
+    "fin": 1819.0,
+    "date_edtf": "1818-12-31/1819-01-01",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-Guillaume-Valentin Du Bourg",
+     "Henri Pratte"
+    ],
+    "description": "Avant même Saint-Louis, c'est Sainte-Geneviève qui accueille officiellement l'évêque Du Bourg, le 31 décembre 1818. Quarante citoyens à cheval l'attendent au débarcadère et l'escortent jusqu'au presbytère ; toute la population, catholiques et protestants confondus, entend son discours à l'église. Le lendemain, il y célèbre sa première messe pontificale, avant d'être reçu à Saint-Louis le 5 janvier. Mgr Flaget avait d'ailleurs envisagé de fixer le siège épiscopal à Sainte-Geneviève plutôt qu'à Saint-Louis, où l'on venait d'ouvrir un théâtre.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, p. 102-103.",
+    "note": "Fin du livre lue en entier en novembre 2026. Point dans la ville actuelle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0498,
+     37.9806
+    ]
+   },
+   "properties": {
+    "id": "YE35-05",
+    "nom": "Sainte-Geneviève : ordination d'Hercule Brassac et de séminaristes des Barrens par Mgr Du Bourg (1er novembre 1819)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1819.833,
+    "fin": 1819.833,
+    "date_edtf": "1819-11-01",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis-Guillaume-Valentin Du Bourg",
+     "Hercule Brassac",
+     "François-Xavier Dahmen",
+     "Léo Deys",
+     "Casto Gonzalez",
+     "Henri Pratte"
+    ],
+    "description": "Le jour de la Toussaint 1819, la paroisse de l'abbé Henri Pratte assiste dans sa propre église à une cérémonie d'ordination. Mgr Du Bourg ordonne prêtre Hercule Brassac, futur vicaire général de Mgr Purcell à Cincinnati, diacre François-Xavier Dahmen, futur curé du lieu, et sous-diacres Léo Deys et Casto Gonzalez ; un autre reçoit les ordres mineurs et un dernier la tonsure. Tous sont des séminaristes du séminaire des Barrens, recrutés par l'évêque lors de son voyage en Europe. À la fin de l'année, les pères Niel, de Saint-Louis, et Desmoulins, de Kaskaskia, prêchent une mission dans la paroisse.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, p. 103.",
+    "note": "Yealy écrit « avant la fin de l'année » qui suit le retour de l'abbé Pratte en janvier 1819, d'où la date du 1er novembre 1819."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.34,
+     37.985
+    ]
+   },
+   "properties": {
+    "id": "YE35-06",
+    "nom": "Petit Canada (French Village) : halte des tournées de l'abbé Pratte et chapelle de mission (vers 1816-1838)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1816.0,
+    "fin": 1838.999,
+    "date_edtf": "1816~/1838",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Henri Pratte",
+     "François-Xavier Dahmen"
+    ],
+    "description": "En allant desservir l'église qu'il a bâtie à Old Mines, à soixante milles au nord-ouest de Sainte-Geneviève, l'abbé Henri Pratte, curé à partir d'octobre 1815, s'arrête probablement pour la nuit et dit la messe à une halte du chemin. C'est là que grandit le hameau du Petit Canada, ou French Village. En 1838, son successeur François-Xavier Dahmen y achève une nouvelle chapelle de mission.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, p. 101, 116.",
+    "note": "Voir aussi la fiche ROT28-05 (paroisse de 1848-1858). Point au village actuel de French Village (comté de Saint-François)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.98,
+     37.93
+    ]
+   },
+   "properties": {
+    "id": "YE35-07",
+    "nom": "Rivière aux Vases : une église pour une congrégation surtout française (1842)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1842.0,
+    "fin": 1842.999,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Brands"
+    ],
+    "description": "Alors que les immigrants allemands affluent dans la paroisse de Sainte-Geneviève et reçoivent leur propre église à Offenburg (Zell) en 1845, une église est dédiée en 1842 à la mission de la Rivière aux Vases. La congrégation y reste longtemps majoritairement française ; Yealy suppose qu'elle est desservie par le vicaire français, le père Brands. Une autre chapelle de mission est bénie en 1847 à la « Byrne-Charvin place », aujourd'hui Ozora, puis abandonnée.",
+    "sources": "Yealy, Francis J. (1935), Sainte Genevieve: The Story of Missouri's Oldest Settlement, Sainte-Geneviève (Missouri), Bicentennial Historical Committee, p. 117.",
+    "note": "Point au hameau de Rivière aux Vases, au sud de Sainte-Geneviève."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -102.5,
      35.6
     ]
@@ -79860,6 +79975,350 @@
     "description": "Racontant son départ de 1831 avec la caravane de Charles Bent, où voyageait une famille espagnole bannie en 1829 qui rentrait au Mexique, Josiah Gregg note dans Commerce of the Prairies (1844) que d'autres femmes ont traversé les prairies jusqu'à Santa Fe à diverses époques. Il dit avoir connu parmi elles deux respectables dames françaises, qui résident alors (en 1844) à Chihuahua. Dary cite ce passage parmi les rares mentions de voyageuses sur la piste.",
     "sources": "Dary, David (2000), The Santa Fe Trail. Its History, Legends, and Lore, New York, Alfred A. Knopf, p. 144-145 (PDF).",
     "note": "Gregg ne nomme pas ces deux femmes. Point placé à Chihuahua, leur lieu de résidence en 1844."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.33,
+     38.86
+    ]
+   },
+   "properties": {
+    "id": "FL38-01",
+    "nom": "La Charbonnière : le banc de charbon du Missouri en amont de Florissant (vers 1836)",
+    "corpus": "Recherches",
+    "theme": "lieu",
+    "debut": 1836.0,
+    "fin": 1836.999,
+    "date_edtf": "1836~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [],
+    "description": "Sur la route de Saint-Charles, Flagg signale sur la rive droite du Missouri, un peu en amont de Florissant, « La Charbonnière », nom donné par les Français à un banc de charbon célèbre. Il affleure dans une falaise d'environ deux cents pieds de haut et deux fois plus longue ; la couche, d'une douzaine de pieds d'épaisseur, repose au bord même de l'eau et contient beaucoup de bitume. On y a aussi trouvé du minerai de fer.",
+    "sources": "Flagg, Edmund (1838), The Far West: or, A Tour beyond the Mountains, New York, Harper & Brothers, 2 vol., vol. 1, p. 257.",
+    "note": "Point approximatif sur la rive du Missouri au nord de Florissant."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.75,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "FL38-02",
+    "nom": "Rivière Meramec : la mine d'argent du sieur de Lochon et de l'Espagnol Antonio (1719-1720)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1719.0,
+    "fin": 1720.999,
+    "date_edtf": "1719/1720",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "de Lochon",
+     "Antonio",
+     "Pierre-François-Xavier de Charlevoix"
+    ],
+    "description": "Flagg reproduit le passage de Charlevoix sur la recherche d'une mine d'argent sur la Meramec. En 1719, le sieur de Lochon, envoyé comme fondeur par la Compagnie des Indes, creuse à l'endroit indiqué et tire beaucoup de minerai : une livre, fondue pendant quatre jours, aurait donné deux drachmes d'argent, mais on le soupçonne de l'avoir ajouté lui-même. La Compagnie le remplace par un Espagnol nommé Antonio, pris au siège de Pensacola, ancien galérien qui se vantait d'avoir travaillé dans une mine du Mexique. Antonio, malgré de très gros appointements, ne réussit pas mieux.",
+    "sources": "Flagg, Edmund (1838), The Far West: or, A Tour beyond the Mountains, New York, Harper & Brothers, 2 vol., vol. 1, p. 267-268.",
+    "note": "Charlevoix situe la fouille sur la Meramec sans plus de précision ; point hypothétique sur le cours moyen de la rivière."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.915,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "FL38-03",
+    "nom": "Kaskaskia : la cloche de 1741 « Pour l'église des Illinois » (vers 1836)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1741.0,
+    "fin": 1836.999,
+    "date_edtf": "1741/1836~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Normand",
+     "A. Parachelle"
+    ],
+    "description": "Flagg monte au beffroi de la vieille église de Kaskaskia, si branlant qu'il oscille sous son poids et avec la cloche. Celle-ci, ornée d'un crucifix, porte l'inscription « Pour l'église des Illinois. Normand A. Parachelle, 1741 ». Du clocher, la vue embrasse le village et ses fermes dispersées sur des milles. Il ajoute en note que, depuis sa visite, tout l'angle sud-ouest de l'église s'est écroulé.",
+    "sources": "Flagg, Edmund (1838), The Far West: or, A Tour beyond the Mountains, New York, Harper & Brothers, 2 vol., vol. 2, p. 183.",
+    "note": "L'inscription est donnée telle que la transcrit Flagg (« Leglise »). Point à l'ancien Kaskaskia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.157,
+     38.084
+    ]
+   },
+   "properties": {
+    "id": "FL38-04",
+    "nom": "Fort de Chartres : la première cour britannique et ses juges de paix français, Barbeau et Girardot (6 novembre 1768)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1768.847,
+    "fin": 1768.847,
+    "date_edtf": "1768-11-06",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Barbeau",
+     "Pierre Girardot",
+     "John Wilkins",
+     "George Morgan"
+    ],
+    "description": "En appendice, Flagg publie le procès-verbal de la cour tenue au « Chartres Village » le 6 novembre 1768. Parmi les juges de paix nommés par le gouverneur et commandant John Wilkins figurent, aux côtés de George Morgan, James Rumsey, James Campbell et James McMillan, deux habitants français, Jean-Baptiste Barbeau et Pierre Girardot. Tous prêtent le serment d'allégeance au roi George III et celui de juge de paix.",
+    "sources": "Flagg, Edmund (1838), The Far West: or, A Tour beyond the Mountains, New York, Harper & Brothers, 2 vol., vol. 2, p. 247.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.915,
+     37.92
+    ]
+   },
+   "properties": {
+    "id": "FL38-05",
+    "nom": "Kaskaskia : la maison de Jean-Baptiste Hubardeau saisie et vendue « payable en pelleterie » (décembre 1772)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1772.966,
+    "fin": 1773.077,
+    "date_edtf": "1772-12-19/1773-01-29",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Hubardeau",
+     "Andrew Hoy",
+     "Hugh Lord"
+    ],
+    "description": "Sous le capitaine Hugh Lord, du 18e régiment royal irlandais, le gouvernement de l'Illinois est purement militaire. Le 19 décembre 1772, le prévôt Andrew Hoy saisit la maison et le terrain de Jean-Baptiste Hubardeau, à Kaskaskia, pour une dette de 2 040 livres. L'avis de vente, affiché en français à Kaskaskia et à Cahokia, annonce la vente à la porte de l'église, « payable en pelletrie, bon argent, lettres de change, ou la bon esclaves », au mois de mai suivant. Flagg en donne le texte et la traduction.",
+    "sources": "Flagg, Edmund (1838), The Far West: or, A Tour beyond the Mountains, New York, Harper & Brothers, 2 vol., vol. 2, p. 248-249.",
+    "note": "Point à l'ancien Kaskaskia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.96,
+     47.86
+    ]
+   },
+   "properties": {
+    "id": "AU43-07",
+    "nom": "Rivière Charbonneau (Yellowstone) : Provost apprend à Squires à piéger le castor (16-19 juillet 1843)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1843.541,
+    "fin": 1843.549,
+    "date_edtf": "1843-07-16/1843-07-19",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost",
+     "Lewis Squires",
+     "Basile"
+    ],
+    "description": "Laissés au camp de la Yellowstone pendant l'excursion d'Audubon, le vieux Provost, le rameur Basile et Lewis Squires descendent la rivière en esquif jusqu'à l'embouchure de la Charbonneau. Provost pilote, puis montre à Squires comment tendre les pièges à castor ; il ne repère qu'un seul mâle, qu'ils ne prennent pas. Il tue une biche, pêche seize barbues, pousse jusqu'aux Mauvaises Terres pour le mouflon, puis rentre par Fort Mortimer. Audubon le trouve « déconfit » de l'échec à son retour au fort Union, le 19 juillet.",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 2, New York, Scribner, p. 95-102.",
+    "note": "Récit de Squires inséré dans le journal. Lecture complète du volume en novembre 2026. Point à l'embouchure du Charbonneau Creek."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     41.676
+    ]
+   },
+   "properties": {
+    "id": "WE20-01",
+    "nom": "Coude de la Saint-Joseph (South Bend) : Charlevoix recrute chez les Loups pour descendre le Kankakee (1721)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1721.0,
+    "fin": 1721.999,
+    "date_edtf": "1721",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-François-Xavier de Charlevoix"
+    ],
+    "description": "Selon Werich, une bande de Mohicans qui se disaient « Loups », chassés de chez eux par les Iroquois, s'était réfugiée près des sources du Théakiki (Kankakee). Charlevoix, en 1721, parle de ces Loups lors de sa descente du Kankakee ; c'est dans leur village, à quelques milles du coude de la rivière Saint-Joseph, là où s'élève South Bend, qu'il recrute les hommes de son expédition vers l'Illinois et le Mississippi.",
+    "sources": "Werich, J. Lorenzo (1920), Pioneer Hunters of the Kankakee, s.l., l'auteur, p. 20 (PDF).",
+    "note": "Source tardive et de seconde main. Point à South Bend."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.184,
+     38.626
+    ]
+   },
+   "properties": {
+    "id": "AJ43-01",
+    "nom": "Saint-Louis : l'Omega part avec 101 engagés, surtout Canadiens français et Créoles (25 avril 1843)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1843.316,
+    "fin": 1843.318,
+    "date_edtf": "1843-04-25/1843-04-26",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "John James Audubon",
+     "John B. Sarpy",
+     "Joseph Sire",
+     "Étienne Provost"
+    ],
+    "description": "Le 25 avril 1843 à 11 h 30, le vapeur Omega de la compagnie Chouteau quitte Saint-Louis avec Audubon et sa troupe, Sarpy et cent un trappeurs de près d'une douzaine de nationalités, en majorité des Canadiens français ou des Créoles du Missouri, plusieurs ivres. Une fois l'équipage et les « engagés » à bord, Sarpy, registre en main, fait l'appel des noms dans la grande cabine, où les bagages des hommes ont été entassés. Le vapeur atteint Saint-Charles à 4 h 20 le lendemain ; Sarpy y débarque et rentre en voiture.",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 1, New York, Scribner, p. 455-457.",
+    "note": "Pages imprimées (PDF p. 513-515). Le vieux Provost voyage sur le même vapeur."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.255,
+     38.636
+    ]
+   },
+   "properties": {
+    "id": "AJ43-02",
+    "nom": "Plantation de Pierre Chouteau père : la chasse aux « muloes » avec le docteur Trudeau (13 avril 1843)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1843.28,
+    "fin": 1843.283,
+    "date_edtf": "1843-04-12/1843-04-13",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "John James Audubon",
+     "Pierre Chouteau",
+     "Pierre Chouteau fils",
+     "John B. Sarpy",
+     "Trudeau"
+    ],
+    "description": "Le 12 avril 1843, Audubon vient avec Sarpy à la plantation de Pierre Chouteau père, à quatre milles à l'ouest de Saint-Louis, pour se procurer des gaufres à poche. Le lendemain, Chouteau fait venir des esclaves avec des bêches pour creuser les galeries des « muloes », nom créole tiré du français « mulots », en présence du docteur Trudeau, de Saint-Louis, et des Chouteau père et fils. Audubon en garde plusieurs vivants quelques jours.",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 1, New York, Scribner, p. 463-464.",
+    "note": "Pages imprimées (PDF p. 521-522). Point approximatif à quatre milles à l'ouest du vieux Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89,
+     41.137
+    ]
+   },
+   "properties": {
+    "id": "AJ43-03",
+    "nom": "Bellevue : le beau-frère du « vieux Provost » tient le magasin de Sarpy (9 mai 1843)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1843.355,
+    "fin": 1843.355,
+    "date_edtf": "1843-05-09",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Provost",
+     "Peter A. Sarpy",
+     "John James Audubon"
+    ],
+    "description": "À l'escale de Bellevue, Audubon trouve absents Peter Sarpy, frère de celui de Saint-Louis, et l'agent des Indiens, partis sur la Platte à 300 milles de là. Le magasin est tenu par « le beau-frère du vieux Provost », qui fait office de commis. Le poste paraît modeste mais commerce beaucoup avec les Indiens de la Platte ; Audubon voit payer huit cordes de bois avec cinq tasses de sucre et trois de café.",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 1, New York, Scribner, p. 477.",
+    "note": "Pages imprimées (PDF p. 537). Le beau-frère n'est pas nommé ; voir l'atlas Provost (L56)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.42,
+     42.87
+    ]
+   },
+   "properties": {
+    "id": "AJ43-04",
+    "nom": "Rivière à Jacques (James River) : le nom d'un chasseur de castor oublié (20 mai 1843)",
+    "corpus": "Recherches",
+    "theme": "lieu",
+    "debut": 1843.385,
+    "fin": 1843.385,
+    "date_edtf": "1843-05-20",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "John James Audubon"
+    ],
+    "description": "En passant l'embouchure de la James River le 20 mai 1843, Audubon la nomme « la Rivière à Jacques » et explique qu'elle tient son nom d'un homme qui s'était établi sur ses bords une vingtaine d'années plus tôt et y avait gagné de l'argent en récoltant le castor, mort depuis. Coues note que cette origine est connue de peu de gens.",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 1, New York, Scribner, p. 503.",
+    "note": "Pages imprimées (PDF p. 561). Point à l'embouchure de la James, près de Yankton."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.4
+    ]
+   },
+   "properties": {
+    "id": "AJ43-05",
+    "nom": "Fort Pierre : Picotte, Chardon et le chasseur métis Alexis Bombarde (30 mai-2 juin 1843)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1843.413,
+    "fin": 1843.419,
+    "date_edtf": "1843-05-30/1843-06-02",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Honoré Picotte",
+     "Francis A. Chardon",
+     "Alexis Bombarde",
+     "John James Audubon"
+    ],
+    "description": "Le 30 mai 1843, Honoré Picotte et Chardon abordent l'Omega dans la yole du Trapper ; le lendemain, Audubon est reçu au fort Pierre, où Picotte lui offre un énorme bois d'élan et des calumets, et lui montre ses ballots de peaux de lièvre. Cinquante engagés et la moitié de la cargaison restent au fort. Au départ, un Indien caché à bord pour tuer Chardon, qui l'avait battu pour vol, est découvert. Chardon confie à Audubon jusqu'à la Yellowstone le chasseur Alexis Bombarde, un métis puissamment bâti aux cheveux longs, « chasseur de premier ordre ».",
+    "sources": "Audubon, Maria R. (éd.) (1897), Audubon and his Journals, vol. 1, New York, Scribner, p. 527-533.",
+    "note": "Pages imprimées (PDF p. 588-593)."
    }
   },
   {
