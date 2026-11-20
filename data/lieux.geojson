@@ -80521,6 +80521,414 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -101.7,
+     50.48
+    ]
+   },
+   "properties": {
+    "id": "OT76-01",
+    "nom": "Fort Espérance (rivière Qu'Appelle) : Charbonneau, engagé du Nord-Ouest, va « courtiser la fille de Foutreau » (1793-1795)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1793.833,
+    "fin": 1795.333,
+    "date_edtf": "1793-11/1795-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "John Macdonell",
+     "Cuthbert Grant",
+     "Peter Grant"
+    ],
+    "description": "Le journal du commis John Macdonell, du fort Espérance, mentionne Charbonneau à partir de novembre 1793 : il part avec quatre hommes pour le fort des Pins, fait la navette avec le poste de la rivière la Coquille, fait les courses entre le fort et les camps indiens. Au printemps 1795, revenu de la Montagne à la Bosse avec des marchandises, il y repart le 3 mars avec deux compagnons « pour courtiser la fille de Foutreau, une grande beauté ». Le 18 mai, il part avec Macdonell et la brigade d'été vers le Grand Portage.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 153.",
+    "note": "Point au fort Espérance, sur la Qu'Appelle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.4,
+     50.15
+    ]
+   },
+   "properties": {
+    "id": "OT76-02",
+    "nom": "Portage la Prairie : l'incident du 30 mai 1795 rapporté par Macdonell",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1795.413,
+    "fin": 1795.413,
+    "date_edtf": "1795-05-30",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "John Macdonell"
+    ],
+    "description": "Envoyé par-delà le portage de la Prairie vers le lac Manitoba, Charbonneau est surpris, selon le journal de Macdonell qui le tient d'ouï-dire, par une vieille Saulteuse qui l'accuse de violer sa fille ; elle le blesse avec une alêne à canot, si bien qu'il revient avec peine par le portage. Ottoson souligne que Charbonneau n'a jamais donné sa version et que Macdonell, surnommé « le Prêtre » par ses voyageurs, était d'une grande rigidité. Le journal s'achève peu après ; Charbonneau quitte la Compagnie du Nord-Ouest en 1796 pour le Missouri.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 154.",
+    "note": "Témoignage indirect et unique. Point approximatif au bout du portage, côté lac Manitoba."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.95,
+     47.75
+    ]
+   },
+   "properties": {
+    "id": "OT76-03",
+    "nom": "Ruisseau Charbonneau : la rivière qui porte son nom, borne du pays connu des Blancs (14 avril 1805)",
+    "corpus": "Recherches",
+    "theme": "lieu",
+    "debut": 1805.286,
+    "fin": 1805.286,
+    "date_edtf": "1805-04-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Meriwether Lewis",
+     "William Clark"
+    ],
+    "description": "La veille, Charbonneau, « peut-être le plus timide marinier du monde » et qui ne sait pas nager, a failli renverser la pirogue blanche dans un coup de vent. Le 14 avril 1805, les capitaines donnent pourtant son nom à un ruisseau : c'est le point le plus haut du Missouri dont on sait avec certitude qu'un Blanc l'a atteint, Charbonneau y étant venu avec des chasseurs minitaris.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 161.",
+    "note": "Point approximatif sur le Missouri en amont des villages de la Knife."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3,
+     48.05
+    ]
+   },
+   "properties": {
+    "id": "OT76-04",
+    "nom": "Embouchure de la Milk : le boudin blanc de Charbonneau (9 mai 1805)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1805.355,
+    "fin": 1805.355,
+    "date_edtf": "1805-05-09",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Meriwether Lewis"
+    ],
+    "description": "Près de la rivière Milk, Charbonneau se rend populaire en préparant le boudin blanc, saucisse d'intestin de bison farcie de viande, de sel, de poivre et de farine, bouillie puis frite, que Lewis tient pour « l'un des plus grands délices de la forêt ». Il en refait aux Grandes Chutes ; quand l'expédition quitte les chutes, au-delà desquelles il n'y a plus de bisons, le boudin est « irrémédiablement perdu et Charbonneau sans emploi ».",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 162-163.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.9,
+     47.6
+    ]
+   },
+   "properties": {
+    "id": "OT76-05",
+    "nom": "Près de la Musselshell : la pirogue blanche manque de chavirer et Sacagawea sauve les instruments (14 mai 1805)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1805.369,
+    "fin": 1805.369,
+    "date_edtf": "1805-05-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Pierre Cruzatte",
+     "Sacagawea"
+    ],
+    "description": "Les deux capitaines sont à terre quand une rafale frappe la pirogue blanche que barre Charbonneau ; il la lofe, elle se couche, et il lâche la barre en implorant Dieu. Pierre Cruzatte, à la proue, menace de l'abattre s'il ne la reprend pas. Sacagawea, assise à l'arrière, recueille la plupart des objets qui flottent, livres, instruments et remèdes. Les capitaines remettent les hommes d'aplomb avec une ration d'eau-de-vie.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 162.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.2,
+     47.55
+    ]
+   },
+   "properties": {
+    "id": "OT76-06",
+    "nom": "Grandes Chutes du Missouri : la crue subite du ravin (29 juin 1805)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1805.493,
+    "fin": 1805.493,
+    "date_edtf": "1805-06-29",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "William Clark",
+     "Sacagawea",
+     "Jean-Baptiste Charbonneau",
+     "York"
+    ],
+    "description": "Surpris par un orage près des chutes, Clark abrite son petit groupe dans un ravin ; une crue subite le remplit. Sacagawea remonte la pente avec son fils nu dans les bras, tirée par Charbonneau et poussée par Clark. Ils perdent armes, parapluie, grande boussole et le berceau de cuir de Jean-Baptiste, et se remettent avec le grog de la gourde de York.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 163.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6,
+     39.2
+    ]
+   },
+   "properties": {
+    "id": "OT76-08",
+    "nom": "Village kansa : Charbonneau, émissaire d'O'Fallon auprès des Kansas, et l'expédition de Long (août 1819)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1819.608,
+    "fin": 1819.66,
+    "date_edtf": "1819-08-10/1819-08-29",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Benjamin O'Fallon",
+     "Thomas Say"
+    ],
+    "description": "Interprète du gouvernement pour les Mandanes et les Minitaris, Charbonneau voyage avec l'agent Benjamin O'Fallon sur le vapeur Western Engineer. Au fort Osage, O'Fallon l'envoie par terre aux villages kansas, qui harcèlent les soldats, pour les convoquer à un conseil à l'île aux Vaches le 18 août. Il reste au village avec le naturaliste Thomas Say ; quand des Pawnees volent tous les chevaux du groupe de Say, il retourne à pied au village chercher du secours, puis rejoint le vapeur. Il fournit ensuite à Say ses renseignements sur les mœurs et la langue des Minitaris.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 174-175.",
+    "note": "Point approximatif aux villages kansas de la rivière Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.35,
+     43.95
+    ]
+   },
+   "properties": {
+    "id": "OT76-09",
+    "nom": "Fort Kiowa : Charbonneau et le duc Paul de Wurtemberg (25 août 1823)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1823.649,
+    "fin": 1823.649,
+    "date_edtf": "1823-08-25",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Paul Wilhelm de Wurtemberg",
+     "Jean-Baptiste Charbonneau",
+     "Henry Leavenworth"
+    ],
+    "description": "Après l'attaque des Arikaras contre Ashley, Charbonneau a porté, le 14 août 1823, le calumet de paix de Leavenworth aux Arikaras, qui avaient abandonné leur village. Le 25 août, il attend au fort Recovery le duc Paul Wilhelm de Wurtemberg avec une invitation du bourgeois du fort Kiowa de la Compagnie française. Le duc, qui a rencontré le jeune Jean-Baptiste Charbonneau, dix-huit ans, sur la Kansas et projette de l'emmener en Europe, s'entretient sans doute longuement avec le père, qui donne son accord.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 176.",
+    "note": "Point au fort Kiowa, près de l'actuel Chamberlain."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.6,
+     46.4
+    ]
+   },
+   "properties": {
+    "id": "OT76-10",
+    "nom": "Rivière Cannonball : Charbonneau contourne à pied le village arikara ; Citoleux et ses hommes sont tués (octobre 1823)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1823.777,
+    "fin": 1823.832,
+    "date_edtf": "1823-10-11/1823-10-31",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Antoine Citoleux",
+     "Joseph Brazeau"
+    ],
+    "description": "Malgré les assurances du vieux traiteur Joseph Brazeau, Charbonneau se méfie des Arikaras. Le 11 octobre 1823, il part du fort Kiowa en canot avec Antoine Citoleux et quatre hommes vers les Mandanes ; à une journée en aval du village arikara provisoire de la Cannonball, il quitte prudemment le canot et contourne le village à pied. Citoleux et les quatre autres ne reparaissent jamais : ils ont été tués au village. Arrivé seul chez les Mandanes, sans marchandises, Charbonneau passe au service de la Columbia Fur Company.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 177.",
+    "note": "Point hypothétique sur le Missouri près de l'embouchure de la Cannonball."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.25
+    ]
+   },
+   "properties": {
+    "id": "OT76-11",
+    "nom": "Villages mandanes : interprète du traité Atkinson-O'Fallon (30 juillet 1825)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1825.574,
+    "fin": 1825.597,
+    "date_edtf": "1825-07-28/1825-08-06",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Henry Atkinson",
+     "Benjamin O'Fallon",
+     "Peter Wilson"
+    ],
+    "description": "Rentré le 28 juillet 1825 d'un village crow, Charbonneau trouve au poste mandane le général Atkinson et l'agent O'Fallon avec près de cinq cents soldats. Le 30 juillet, il est l'interprète des Mandanes et des Minitaris qui signent avec les États-Unis des traités de commerce et d'amitié. Le journal de l'expédition note qu'il a de nouveau une épouse, apparemment minitarie : le 6 août, « Shabano, sa femme et son frère » viennent passer la nuit au camp. Il aide ensuite le sous-agent Peter Wilson auprès des tribus d'amont.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 177-178.",
+    "note": "Point au secteur des villages mandanes (fort Clark)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.39,
+     47.33
+    ]
+   },
+   "properties": {
+    "id": "OT76-12",
+    "nom": "Village minitari : trois jours sur une meule de maïs pendant la crue du Missouri (6 avril 1826)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1826.264,
+    "fin": 1826.272,
+    "date_edtf": "1826-04-06/1826-04-09",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Toussaint Charbonneau"
+    ],
+    "description": "Le 6 avril 1826, le Missouri déborde au village minitari où vit Charbonneau. Il s'échappe avec une partie de ses biens, mais passe trois jours sur une meule de maïs, « sans feu, dans un vent froid du nord et la neige qui tourbillonnait », comme il le racontera au prince Maximilien.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 178.",
+    "note": "Point au village d'Awatichai (Metaharta), sur la Knife."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.275,
+     47.251
+    ]
+   },
+   "properties": {
+    "id": "OT76-13",
+    "nom": "Fort Clark : deux balles dans le chapeau du vieux Charbonneau (10 janvier 1836)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1836.025,
+    "fin": 1836.025,
+    "date_edtf": "1836-01-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "D. D. Mitchell"
+    ],
+    "description": "Le 10 janvier 1836, huit ou dix jeunes Yanktonais, seuls survivants d'une attaque des Minitaris et des Mandanes contre un camp de quarante-cinq loges sur la Knife, arrivent au fort Clark. Après leur récit, l'un d'eux tire sur un garçon gros ventre dans la chambre de l'interprète ; selon D. D. Mitchell, « le vieux Charbonneau l'a échappé belle, deux balles ayant traversé son chapeau ». Les Sioux repartent sans être inquiétés.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 181-182.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "OT76-14",
+    "nom": "Saint-Louis : congédié, le vieil interprète vient réclamer son salaire à Pilcher (21 août 1839)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1839.638,
+    "fin": 1839.638,
+    "date_edtf": "1839-08-21",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Toussaint Charbonneau",
+     "Joshua Pilcher"
+    ],
+    "description": "En juillet 1839, Charbonneau apprend que l'agent Fulkerson a été remplacé et que son emploi d'interprète est supprimé. Il descend aussitôt à Saint-Louis. Le surintendant Joshua Pilcher écrit qu'il est arrivé le 21 août des villages mandanes, à 1 600 milles, « chancelant sous les infirmités de quatre-vingts hivers, sans un dollar », et qu'il lui a payé ses deux premiers trimestres : « un fidèle serviteur du gouvernement, quoique dans une humble fonction », interprète aux Mandanes depuis quinze ans. On ignore la suite ; il est mort en août 1843.",
+    "sources": "Ottoson, Dennis R. (1976), « Toussaint Charbonneau, A Most Durable Man », South Dakota History, vol. 6, no 2, p. 152-185, p. 184.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1857,
+     38.6243
+    ]
+   },
+   "properties": {
+    "id": "WP00-01",
+    "nom": "Saint-Louis : baptême de Jean-Baptiste Charbonneau, « Pomp », par le trappiste Urbain Guillet (28 décembre 1809)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1809.991,
+    "fin": 1809.991,
+    "date_edtf": "1809-12-28",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Charbonneau",
+     "Toussaint Charbonneau",
+     "Sacagawea",
+     "Urbain Guillet",
+     "Auguste Chouteau",
+     "Eulalie Chouteau"
+    ],
+    "description": "Le 28 décembre 1809, dans la vieille église de pieux debout de Saint-Louis, le frère Urbain Guillet, du monastère trappiste de Notre-Dame de Bon-Secours près de Cahokia, baptise l'enfant de Toussaint Charbonneau « domicilié de cette paroisse » et d'une « sauvagesse de la nation des Serpents ». Le parrain est Auguste Chouteau, cofondateur de la ville, la marraine sa fille Eulalie, douze ans ; Charbonneau signe d'une croix. Bob Moore, qui a retrouvé l'acte en 1999, note que Saint-Louis n'avait plus de curé résident depuis 1804 et que Guillet n'y passe que du 24 au 31 décembre : la famille, sans doute descendue avec l'expédition de Pierre Chouteau revenue le 16 novembre après avoir ramené le chef Sheheke, a donc saisi la première occasion. L'acte date la naissance du 11 février 1804, un an trop tôt.",
+    "sources": "Moore, Bob (2000), « Pompey's Baptism », We Proceeded On, vol. 26, no 1, p. 10-15, p. 10-13.",
+    "note": "Point à l'emplacement de la vieille cathédrale, au pied de l'arche."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
