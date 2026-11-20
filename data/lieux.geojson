@@ -85127,6 +85127,510 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "HW76-02",
+    "nom": "Fort William devenu Fort Lucien (Laramie) : Fontenelle, Fitzpatrick & Cie, et le « riff-raff » de Laboue (1834-1838)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1834.0,
+    "fin": 1838.999,
+    "date_edtf": "1834/1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "William Sublette",
+     "Lucien Fontenelle",
+     "Frederick Laboue",
+     "P. D. Papin",
+     "Lancaster P. Lupton",
+     "William Bent"
+    ],
+    "description": "Construit en 1834 par le commis de William Sublette au confluent de la Laramie, le fort William prend le nom de fort Lucien quand Fontenelle, Fitzpatrick & Compagnie le reprend en 1835 ; il sert d'abord de quartier général aux brigades de trappeurs, et Lucien Fontenelle y passe beaucoup de temps. Avec le déclin du castor, la traite indienne attire tout le monde : en 1838 Lupton est à la Laramie avec un chariot, un traiteur des Chouteau occupe une petite maison dite « fort Sarpy » et un autre groupe tient le fort William. En décembre 1838, Frederick Laboue écrit à Papin que William Bent est là avec des Cheyennes et que les traiteurs y sont si nombreux qu'il manquerait de papier pour les énumérer. Racheté par la compagnie Chouteau, le fort devient le fort John.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 297-298.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.53,
+     42.215
+    ]
+   },
+   "properties": {
+    "id": "HW76-03",
+    "nom": "Lock & Randolph : le poste du pauvre M. Lock sur la North Platte (1841-1842)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1841.0,
+    "fin": 1842.999,
+    "date_edtf": "1841/1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "David Adams"
+    ],
+    "description": "Quatrième poste du secteur de la Laramie, celui de Lock & Randolph est bâti en 1841 à environ deux milles en amont du fort Adams ; selon le journal de David Adams, Lock était si pauvre qu'il dut emprunter deux haches pour commencer à abattre les billots de ses maisons. Incapables de soutenir la concurrence sur la North Platte, les associés passent sur la South Platte, où ils cessent leurs affaires en 1842.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 298.",
+    "note": "Emplacement approximatif : à deux milles en amont du fort Adams, près du fort Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.0,
+     42.78
+    ]
+   },
+   "properties": {
+    "id": "HW76-04",
+    "nom": "Chadron Creek : la maison de traite de « Yellow Hair » pour Lupton, chez les Brûlés (nov. 1841-janv. 1842)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1841.833,
+    "fin": 1842.0,
+    "date_edtf": "1841-11/1842-01",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Lancaster P. Lupton",
+     "Rufus B. Sage",
+     "Seth Ward"
+    ],
+    "description": "Premier effort concentré de traite sur la haute rivière Blanche : un parti engagé par Lupton pour la traite des Brûlés, que Rufus B. Sage accompagne, commence fin novembre 1841 à bâtir sur le Chadron Creek, à quelques milles de la rivière, une solide maison de rondins à cheminée de pierre et un magasin. Le traiteur, que les Indiens surnomment « Yellow Hair », fait un commerce animé jusqu'à ce que les bisons, puis les Indiens, quittent la région fin janvier ; à court de marchandises, le parti regagne le fort Platte. David Adams croise en route deux hommes de Lupton revenant de la White River, dont un M. Ward (vraisemblablement Seth Ward).",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 300.",
+    "note": "Emplacement approximatif sur le Chadron Creek, au sud de Chadron (Nebraska)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.4,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "HW76-05",
+    "nom": "Maison Richard sur la Cheyenne : Sigler contre Chartran dans un village oglala (nov.-déc. 1841)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1841.833,
+    "fin": 1841.917,
+    "date_edtf": "1841-11/1841-12",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "David Adams",
+     "Louis Chartran",
+     "John Richard"
+    ],
+    "description": "Parti du fort Adams en novembre 1841 vers la rivière Cheyenne, David Adams arrive à la maison de M. Richard et y trouve Chartran, représentant de l'American Fur Company, en train de traiter dans un village oglala ; il envoie un nommé Sigler lui faire opposition. Chartran est l'un des traiteurs que la compagnie entretient dans la région de la rivière Blanche, sur la route de traite entre le fort Pierre et le fort Laramie.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 300.",
+    "note": "Emplacement indicatif sur la haute Cheyenne."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.55,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "HW76-06",
+    "nom": "Fort Platte : Sibille & Adams répartissent leurs traiteurs pour l'hiver (automne 1842)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1842.75,
+    "fin": 1843.25,
+    "date_edtf": "1842-10/1843-04",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Sibille",
+     "David Adams",
+     "Auguste Lucien",
+     "Sigler",
+     "John Richard",
+     "Joseph Bissonette",
+     "Louis Chartran",
+     "Henry Chatillion"
+    ],
+    "description": "De retour de Saint-Louis à l'automne 1842, David Adams retrouve au fort Platte les hommes revenus des camps d'été indiens : Auguste Lucien de chez les Brûlés de la Cheyenne, Sigler de chez les Oglalas de Horse Creek. La compagnie fixe aussitôt les postes d'hiver : Sibille à la rivière Cheyenne, John Richard à Bear Butte, Bissonette à Horse Creek et Chartran à la rivière Blanche, Adams restant au fort avec douze hommes et quatre « hommes libres ». Bissonette part avec huit hommes et deux Indiennes, Richard avec douze employés, deux Indiens et trois Indiennes, Sibille avec sept hommes et une Indienne. Bissonette, Henry Chatillion et Chartran, anciens de l'American Fur Company, travaillent alors pour Sibille & Adams.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 300-303.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.55,
+     42.21
+    ]
+   },
+   "properties": {
+    "id": "HW76-07",
+    "nom": "Fort Platte sous Pratte & Cabanné : vingt traiteurs et quarante voyageurs (hiver 1843-1844)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1843.0,
+    "fin": 1845.999,
+    "date_edtf": "1843/1845",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Richard",
+     "Peter Richard",
+     "Henry Claymore",
+     "Antoine Janis",
+     "Edward Bertrand",
+     "William Tucker",
+     "Joseph Bissonette"
+    ],
+    "description": "À l'hiver 1843-1844, Pratte & Cabanné financent les opérations du fort Platte et ont dehors vingt traiteurs, quarante voyageurs et environ soixante-dix chevaux et mulets ; leurs rôles portent notamment John et Peter Richard, Henry Claymore, Antoine Janis, Edward Bertrand et William Tucker. Vaincue par Pierre Chouteau Jr. & Cie, la firme ferme le fort au printemps 1845 : une partie des marchandises est vendue au fort Laramie, le reste repris par Joseph Bissonette à son petit poste quelques milles en aval.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 303-304.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     44.38
+    ]
+   },
+   "properties": {
+    "id": "HW76-08",
+    "nom": "Les « bull skin canoes » de Magloire Mousseau : les robes descendent vers le fort Pierre",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1835.0,
+    "fin": 1850.999,
+    "date_edtf": "1835~/1850~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Magloire Mousseau"
+    ],
+    "description": "Employé de l'American Fur Company, Magloire Mousseau décrit plus tard la fabrication des bateaux de peau verte servant à descendre les robes : des carcasses couvertes de peaux de bison fraîches, poil en dedans, cousues ensemble et dont les coutures sont enduites de suif. Ces « bull skin canoes » portaient quarante ou cinquante ballots et descendaient la White, la Cheyenne ou la Cannonball jusqu'au fort Pierre, où l'on déchargeait et entreposait la cargaison.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 303.",
+    "note": "Point placé au fort Pierre, terme des descentes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.47,
+     42.67
+    ]
+   },
+   "properties": {
+    "id": "HW76-09",
+    "nom": "Près du futur fort Robinson : Nicholas Janis hiverne avec le parti de Bordeaux (1846-1847)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1846.75,
+    "fin": 1847.25,
+    "date_edtf": "1846-10/1847-04",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicholas Janis",
+     "James Bordeaux"
+    ],
+    "description": "Arrivé de Saint-Charles (Missouri) au fort Laramie le 15 octobre 1846, Nicholas Janis est aussitôt envoyé à la rivière Blanche avec un parti commandé par James Bordeaux et passe l'hiver « près de l'endroit où se dresse maintenant le fort Robinson », probablement pour traiter dans un camp oglala ; il le raconte au Chadron Democrat en 1885. L'année précédente, Bordeaux avait choisi d'hiverner sur la White River, Culbertson et Bouis peinant à lui fournir son équipement depuis le fort Pierre.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 304-305.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.2,
+     43.6
+    ]
+   },
+   "properties": {
+    "id": "HW76-10",
+    "nom": "Le « district de Bordeaux » : lettre du fort Pierre au traiteur Rollette, basse White River (8 janv. 1848)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1848.019,
+    "fin": 1848.019,
+    "date_edtf": "1848-01-08",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "James Bordeaux",
+     "Rollette"
+    ],
+    "description": "James Bordeaux est si identifié à la traite de la haute rivière Blanche que les gens de la compagnie parlent du « district de Bordeaux ». Le 8 janvier 1848, le fort Pierre écrit au traiteur Rollette, posté sur la basse White River, que la plupart de ses Indiens sont partis vers les Sand Hills et le district de Bordeaux : inutile de faire opposition à ses propres gens ; qu'il rappelle ses traiteurs et rentre tout dans ses maisons, on viendra le chercher, robes et marchandises, en un seul voyage. Après la vente du fort Laramie (1849), Bordeaux garde son « district » vingt-trois ans encore.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 305.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.336,
+     42.705
+    ]
+   },
+   "properties": {
+    "id": "HW76-11",
+    "nom": "Crow Butte : les Crows de White Bear pillent le poste de Bordeaux, les Brûlés les poursuivent (15 oct. 1849)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1849.788,
+    "fin": 1849.788,
+    "date_edtf": "1849-10-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux",
+     "White Bear"
+    ],
+    "description": "Premier hivernement de Bordeaux à son propre compte, presque un désastre : le 15 octobre 1849, un grand parti de guerre crow mené par White Bear pille son poste, tente de l'incendier et emmène quatre-vingt-deux chevaux et mulets. Les Brûlés campés sur le Beaver Creek voisin organisent une poursuite et accrochent les Crows près de la butte appelée depuis Crow Butte ; une partie des Crows s'y réfugie et s'échappe de nuit. Un Crow au moins est tué, très peu de chevaux sont repris. L'affaire fait renoncer la compagnie à bâtir sur la White River un grand poste pour remplacer le fort Laramie.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 305-306.",
+    "note": "Voir aussi F-bordeaux-15 (autre décompte : 72 chevaux)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.3,
+     42.9
+    ]
+   },
+   "properties": {
+    "id": "HW76-12",
+    "nom": "Bute Cache et les Sand Hills : Picotte envoie M. Beauvais, Bordeaux et Guerrier le devancent (févr. 1852)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1852.0,
+    "fin": 1852.083,
+    "date_edtf": "1852-01/1852-02",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Geminien Beauvais",
+     "Picotte",
+     "James Bordeaux",
+     "William Guerrier",
+     "Andrew Drips"
+    ],
+    "description": "En janvier 1852, Bordeaux et un associé temporaire achètent 6 000 $ de marchandises au sutler du fort Laramie et enlèvent la part du lion de la traite de la White River. En février, Picotte écrit du fort Pierre à Drips qu'il avait dépêché M. Beauvais avec un gros équipement, mais qu'à mi-chemin des Indiens lui ont appris que les camps étaient partis dans les Sand Hills avec « Bordeau et Gerrieu » ; il ne reste que trois petits camps près de « Bute Cache ».",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 308.",
+    "note": "Emplacement indicatif (Sand Hills / haute White River)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.558,
+     42.203
+    ]
+   },
+   "properties": {
+    "id": "HW76-13",
+    "nom": "Fort Laramie : Elbridge Gerry et James Bordeaux achètent un lot de Ward & Guerrier (nov. 1857)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1857.833,
+    "fin": 1857.833,
+    "date_edtf": "1857-11",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Elbridge Gerry",
+     "James Bordeaux",
+     "Seth Ward",
+     "William Guerrier"
+    ],
+    "description": "En novembre 1857, Gerry et Bordeaux conviennent d'acheter à Ward & Guerrier, au fort Laramie, un lot de marchandises destiné à la seule traite indienne : Arapahos et Cheyennes de la fourche sud de la Platte et de l'Arkansas, Brûlés et Oglalas de la White River et des Sand Hills. Les traiteurs indépendants de l'époque font aussi venir beaucoup de marchandises du Nouveau-Mexique (couvertures, coquillages d'haliotide, maïs, citrouilles séchées).",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 308.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.9,
+     41.08
+    ]
+   },
+   "properties": {
+    "id": "HW76-14",
+    "nom": "Ranch Beauvais sur la Platte : deux chariots pour les Brûlés capturés par les Cheyennes (1865)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1865.0,
+    "fin": 1865.999,
+    "date_edtf": "1865",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Geminien Beauvais"
+    ],
+    "description": "Geminien Beauvais, ancien traiteur de Sibille & Adams tenant un relais routier sur la Platte, envoie en 1865 deux chariots de marchandises traiter avec les Brûlés ; les Cheyennes les capturent et tuent un charretier. Sa réclamation (Cour des réclamations, n° 7104) détaille des marchandises venues du Sud-Ouest : couvertures navajos rouges et bleues, citrouilles mexicaines séchées, mors de bride mexicains, 850 livres de farine de maïs mexicaine.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 308-309.",
+    "note": "Ranch de Beauvais localisé approximativement près de l'ancien gué californien (Brule, Nebraska)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.94,
+     42.826
+    ]
+   },
+   "properties": {
+    "id": "HW76-15",
+    "nom": "Poste Bordeaux du Bordeaux Creek : Bissonette, puis Francis C. Boucher, dernier poste de traite (1871-1876)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1871.0,
+    "fin": 1876.583,
+    "date_edtf": "1871/1876-08",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "James Bordeaux",
+     "Louis Bordeaux",
+     "Joseph Bissonette",
+     "Francis C. Boucher"
+    ],
+    "description": "En 1871, Joseph Bissonette bâtit une spacieuse cabane de trois pièces et un magasin sur le ruisseau, un demi-mille en aval de Bordeaux, et devient sous-agent des Indiens de Spotted Tail tout en traitant « à côté ». James Bordeaux et son fils aîné Louis quittent le poste à l'automne 1872 ; Francis C. Boucher, jeune créole français du Missouri, s'y installe et vend pendant quatre ans armes et munitions aux bandes sioux hostiles venues l'hiver toucher leurs rations. En août 1876, le commandant du fort Robinson saisit ses munitions Winchester ; Boucher passe brièvement sur le Chadron Creek, puis à la réserve du Dakota du Sud, et le dernier poste de traite de l'ouest du Nebraska ferme.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 311-312.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.48,
+     39.01
+    ]
+   },
+   "properties": {
+    "id": "HW76-16",
+    "nom": "Big Springs (Kansas) : James McClosky, Changreau, Larebee et Louis Tremble s'y établissent (nov. 1855)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1855.833,
+    "fin": 1855.833,
+    "date_edtf": "1855-11",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "James McClosky",
+     "Changreau",
+     "Larebee",
+     "Louis Tremble"
+    ],
+    "description": "Ruinés par la fin de la traite, certains traiteurs repartent vers l'est avec leurs familles indiennes : James McClosky et un groupe nombreux, dont Changreau, Larebee et Louis Tremble avec leurs familles, s'établissent un temps près de Big Springs (Kansas) en novembre 1855. D'autres familles se fixent provisoirement autour de Rulo (Nebraska).",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 312.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.99,
+     42.84
+    ]
+   },
+   "properties": {
+    "id": "HW76-17",
+    "nom": "Agence de Spotted Tail : les anciens de Sibille & Adams sur les rôles (années 1870)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1872.0,
+    "fin": 1878.999,
+    "date_edtf": "1872/1878",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Henry Clairmont",
+     "Sefroy Iott",
+     "Joseph Bissonette",
+     "Antoine Du Bray",
+     "James Bordeaux",
+     "Louis Bordeaux",
+     "John Richard Jr."
+    ],
+    "description": "Déplacée en 1872 vers la haute White River, l'agence Whetstone (plus tard Spotted Tail) voit ses premiers traiteurs licenciés être James Bordeaux, John W. Smith, Joseph Bissonette et John Richard Jr. Dans les années 1870, ses rôles d'employés comptent quatre anciens de Sibille & Adams : Henry Clairmont, Sefroy Iott, Joseph Bissonette et Antoine Du Bray ; James Bordeaux y touche des rations et son fils Louis est interprète, tandis que les familles Richard et Janis travaillent autour de l'agence Red Cloud. En 1868 déjà, Iott et Bissonette avaient été nommés interprètes pour le déplacement des Brûlés, Bordeaux étant chargé des rations.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 309-312.",
+    "note": "Emplacement approximatif de l'agence de Spotted Tail (Camp Sheridan, Nebraska)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.0,
+     42.78
+    ]
+   },
+   "properties": {
+    "id": "HW76-18",
+    "nom": "Chadron Creek : le trappeur Hubert Rouleau, de Parkman à la réserve (1846-1879~)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1846.0,
+    "fin": 1879.999,
+    "date_edtf": "1846/1879~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Hubert Rouleau",
+     "Francis Parkman"
+    ],
+    "description": "L'un des derniers trappeurs de castor de la région, Hubert Rouleau, rencontre Francis Parkman en 1846 et entre l'année suivante au service du fort Laramie ; à la fin des années 1870, il vit quelques années sur le Chadron Creek avant de gagner la réserve.",
+    "sources": "Hanson, Charles E. Jr et Veronica Sue Walters (1976), « The Early Fur Trade in Northwestern Nebraska », Nebraska History, vol. 57, p. 291-314, p. 296.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -87.635,
      41.885
     ]
@@ -85230,6 +85734,1049 @@
     "description": "La carte de la « ville de Chicago, 350 habitants » (1833) situe, outre le second fort Dearborn (1816), la maison Kinzie, la taverne Sauganash et le premier pont-levis (1834), la cabane et le magasin La Framboise, la maison d'Antoine Ouilmette sur la route de Green Bay, celle de Billy Caldwell (Sauganash) et la maison Portier. La carte de l'embouchure dressée par F. Harrison Jr. et William Howard le 24 février 1830 montre le magasin de J.-B. Beaubien au sud du fort et la maison Kinzie occupée par Jonathan Bailey.",
     "sources": "Carte « The Town of Chicago, population 350 » (1833), reproduction (images du dossier CHICAGO, Drive de l'auteur) ; carte de l'embouchure de la rivière Chicago par F. Harrison Jr. et William Howard (24 février 1830).",
     "note": "Cartes reproduites sans indication d'éditeur ; points approximatifs."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.08,
+     48.644
+    ]
+   },
+   "properties": {
+    "id": "PD06-02",
+    "nom": "Fort Colville : la lettre de Jean Mongle à sa femme de Maskinongé, seul écrit connu d'un voyageur (avril 1830)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1814.0,
+    "fin": 1832.033,
+    "date_edtf": "1814/1832-01-13",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Mongle",
+     "Marie St-Germain",
+     "Andres Mongle",
+     "Marie-Judith Panneton"
+    ],
+    "description": "Né vers 1800 dans le district de Maskinongé, fils probable d'Andres Mongle, ancien chasseur hessois de Hanau, et de Marie-Judith Panneton, Jean Mongle entre au service de la Compagnie du Nord-Ouest en 1814 ou 1816 comme milieu, signe de nouveau avec la Compagnie de la Baie d'Hudson en 1821 et, veuf, épouse Marie St-Germain à Maskinongé en 1827 ; il repart en 1829 comme « bout » (devant ou gouvernail). Du fort Colville, il fait écrire à sa femme le 12 avril 1830 : a-t-elle touché une partie de ses gages, qu'elle reste dans sa pension jusqu'à son retour. Huit jours plus tard, elle lui écrit à son tour, réclamant gages et souliers ; la lettre n'arrivera jamais. Mongle se noie dans la Columbia le 25 octobre 1830 ; en janvier 1832, Marie St-Germain envoie la lettre de son mari à la compagnie comme preuve de mariage pour réclamer ses gages.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 17-20.",
+    "note": "Podruchny tient cette lettre pour le seul document connu écrit (ou dicté) par un voyageur canadien-français."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.14,
+     46.07
+    ]
+   },
+   "properties": {
+    "id": "PD06-03",
+    "nom": "Paroisses du Saint-Laurent : Faignant, St-Cir et Tranchemontaigne recrutent les brigades de la Compagnie du Nord-Ouest (1791-1793)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1781.0,
+    "fin": 1797.999,
+    "date_edtf": "1781/1797",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Faignant",
+     "St-Cir",
+     "Tranchemontaigne",
+     "Joseph Frobisher",
+     "John Gregory",
+     "John McDonell"
+    ],
+    "description": "Ancien voyageur du lac la Ronge (1781), guide au Grand Portage (1785) et convoyeur d'argent vers le Canada (1786), Joseph Faignant devient recruteur : à l'hiver 1791-1792, les associés McTavish et Frobisher chargent « St Cir & Faignant » d'engager des hivernants, Faignant parcourant les paroisses autour de la sienne avec une avance pour courir le pays jusqu'à Québec ; Frobisher paie à St-Cir cinq shillings par mangeur de lard et une guinée par hivernant, à ses risques pour les avances. John Gregory se plaint de la lenteur des engagements mais compte que St-Cir, Faignant et Tranchemontaigne compléteront chacun leur brigade. En 1793, la brigade de John McDonell est entièrement formée d'hommes de Berthier recrutés par Faignant ; en 1797, la firme engage un notaire et un voyageur pour recruter à Sorel.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 32-34.",
+    "note": "Point placé à Berthier."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554,
+     45.508
+    ]
+   },
+   "properties": {
+    "id": "PD06-04",
+    "nom": "Montréal : le pilori de Joseph Leveillé jeté au fleuve par les voyageurs (1794)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1794.0,
+    "fin": 1794.999,
+    "date_edtf": "1794",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Leveillé",
+     "Jonathan Sewell"
+    ],
+    "description": "Condamné par les sessions trimestrielles de Montréal au pilori pour avoir accepté les gages de deux firmes de traite rivales, le voyageur Joseph Leveillé est défendu par une foule surtout composée de voyageurs, qui jette le pilori dans le Saint-Laurent et menace de prendre la prison d'assaut ; il est relâché et personne n'est puni. En 1795, le procureur général Jonathan Sewell réclame des pouvoirs accrus contre cette « bande sans loi » de voyageurs.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 160.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4,
+     48.608
+    ]
+   },
+   "properties": {
+    "id": "PD06-05",
+    "nom": "Lac la Pluie : la grève d'une brigade de Montréal pour de meilleurs gages (été 1794)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1794.5,
+    "fin": 1794.5,
+    "date_edtf": "1794-07",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Duncan McGillivray"
+    ],
+    "description": "À l'été 1794, des meneurs d'une brigade de Montréal haranguent leurs compagnons tout le long du voyage : leur utilité pour la compagnie devrait leur valoir de meilleures conditions. Arrivée au lac la Pluie, la brigade exige de plus hauts gages et menace de rentrer à Montréal sans la cargaison. Les bourgeois détachent quelques hommes de la grève, la plupart reprennent le travail et les meneurs sont renvoyés à Montréal en disgrâce (récit de Duncan McGillivray).",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 161.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.27,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "PD06-06",
+    "nom": "Village mandan de Black Cat : les quatre voyageurs de Charles McKenzie désertent sous la protection des Mandans (1805-1806)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1805.75,
+    "fin": 1806.167,
+    "date_edtf": "1805-10/1806-03",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles McKenzie",
+     "Black Cat"
+    ],
+    "description": "Lors de sa troisième expédition au Missouri, à l'automne 1805 et à l'hiver 1806, les quatre hommes de Charles McKenzie, logés chez Black Cat, chef d'un village mandan, désertent après avoir troqué tous leurs biens aux Mandans ; Black Cat met à l'abri ceux de McKenzie, mais l'avertit que les Mandans défendront les voyageurs s'il veut les punir. McKenzie ne parvient pas à les ramener au service. Henry le Jeune trouve aussi, près des villages, l'étang où le déserteur André Garreau avait été tué en 1801 avec cinq Mandans par un parti ennemi.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 161-162.",
+    "note": "Le texte imprime « a Swiss party » ; l'identité des agresseurs reste à vérifier dans Henry, New Light."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.966
+    ]
+   },
+   "properties": {
+    "id": "PD06-07",
+    "nom": "Rivière Pembina : Joseph Rainville tue par jeu le voyageur Venant St-Germain (été 1803)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1803.5,
+    "fin": 1803.5,
+    "date_edtf": "1803-07",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Rainville",
+     "Venant St-Germain",
+     "Alexander Henry le Jeune"
+    ],
+    "description": "Les farces des voyageurs tournaient parfois au drame : à la rivière Pembina, à l'été 1803, Joseph Rainville tue accidentellement Venant St-Germain en le visant pour rire avec un fusil qu'il croyait déchargé. Au même poste d'Henry le Jeune, un autre plaisantin avait tiré sur le bourgeois puis s'était caché, faisant croire à une attaque des Sioux.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 190.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     53.85
+    ]
+   },
+   "properties": {
+    "id": "PD06-08",
+    "nom": "Rivière à Plante, près du fort Vermilion : Cardinal sauve la vie de Clément par sa faconde (févr. 1810)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1810.083,
+    "fin": 1810.083,
+    "date_edtf": "1810-02",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Cardinal",
+     "Clément",
+     "Alexander Henry le Jeune"
+    ],
+    "description": "En février 1810, deux voyageurs sont dévalisés et menacés par treize Cris et trois Assiniboines à la rivière à Plante. Les Indiens consentent à épargner Cardinal, qu'ils connaissent pour avoir traité avec lui, mais veulent la chevelure de Clément ; selon Henry le Jeune, Cardinal, « des plus loquaces », déploie toute son éloquence et sauve son compagnon, au prix de toutes leurs marchandises et d'un précieux pistolet.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 194.",
+    "note": "Point indicatif près du fort Vermilion de la Saskatchewan."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.3,
+     56.2
+    ]
+   },
+   "properties": {
+    "id": "PD06-09",
+    "nom": "Grand Marais (rivière de la Paix) : Vivier, Desrosier et Brousseault renvoyés par les Indiens (automne 1798)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1798.667,
+    "fin": 1798.917,
+    "date_edtf": "1798-09/1798-12",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Thomson",
+     "Vivier",
+     "Le Compte",
+     "Desrosier",
+     "Brousseault"
+    ],
+    "description": "À l'automne 1798, John Thomson peine à envoyer ses hommes hiverner « en dérouine » chez les Indiens. Le Compte revient au bout d'une semaine en se disant malade ; Desrosier et Brousseault rejoignent Vivier, mais les Indiens ne coopèrent pas. À la mi-novembre, Vivier rentre au fort avec sa famille en jurant que tous les diables de l'enfer ne l'y feraient pas retourner ; un mois plus tard, Brousseault revient lui aussi, renvoyé faute de gibier.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 224.",
+    "note": "Emplacement indicatif."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5,
+     63.0
+    ]
+   },
+   "properties": {
+    "id": "PD06-10",
+    "nom": "Rocky Mountain Fort (Mackenzie) : La Beccasse, St-Cir et La Violette chez les Dénés de Little Chief (1800-1801)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1800.75,
+    "fin": 1801.25,
+    "date_edtf": "1800-10/1801-04",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Thomson",
+     "La Beccasse",
+     "St-Cir",
+     "La Violette",
+     "Little Chief",
+     "Jean-Baptiste LaPrise",
+     "Martin"
+    ],
+    "description": "Fondé par John Thomson à l'automne 1800 en aval du poste de la rivière à la Truite, dont il a confié la garde au voyageur Jean-Baptiste LaPrise, le Rocky Mountain Fort du Mackenzie voit en novembre le chef déné Little Chief renvoyer La Beccasse, qu'il ne veut plus nourrir, et exiger d'être payé avant de garder La Beccasse et St-Cir pour l'hiver. La Violette, malade, les jambes enflées, doit être rapporté au poste par les Dénés, qu'il accuse de l'avoir négligé ; Thomson leur tire le nez, et en 1801 accuse le voyageur Martin d'avoir acheté pour sa famille de la viande destinée au poste.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 224-227.",
+    "note": "Emplacement indicatif sur le Mackenzie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.893,
+     45.97
+    ]
+   },
+   "properties": {
+    "id": "PD06-11",
+    "nom": "Lac du Flambeau : La Lancette hiverne seul avec trois hommes pour la XY (hiver 1803)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1803.0,
+    "fin": 1804.999,
+    "date_edtf": "1803/1804",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "La Lancette",
+     "Chaurette",
+     "Louis Chatellain",
+     "Brunet",
+     "George Nelson"
+    ],
+    "description": "Les bourgeois confiaient parfois un poste à un voyageur pour toute une saison : à l'hiver 1803, le commis Chaurette de la XY laisse La Lancette passer l'hiver seul avec trois hommes au lac du Flambeau, et George Nelson, sur son conseil, remet au voyageur Brunet, qui parle bien l'ojibwé, le poste de la rivière des Saulteaux. Le risque était réel : en 1805, Louis Chatellain, laissé à la garde d'un poste avec deux hommes, doit repousser un parti de guerre de cent cinquante « Rapid Indians ».",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 226.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554,
+     45.508
+    ]
+   },
+   "properties": {
+    "id": "PD06-12",
+    "nom": "Montréal : Mazurette, Dupras et les voyageurs témoignent du mariage « à la façon du pays » dans l'affaire Connolly (1867-1869)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1867.0,
+    "fin": 1869.999,
+    "date_edtf": "1867/1869",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Mazurette",
+     "Amable Dupras",
+     "William Connolly",
+     "Joseph Larocque",
+     "Pierre Marois",
+     "Fanny Boucher"
+    ],
+    "description": "Dans Connolly c. Woolrich (1867) et l'appel Johnstone c. Connolly (1869), qui portent sur la validité du mariage du facteur en chef William Connolly avec une Crie, d'anciens voyageurs témoignent pour le fils métis. Amable Dupras, soixante-douze ans, voyageur pendant quatorze ans, explique qu'on demandait la fille à son père et qu'on faisait un présent ; Joseph Mazurette affirme qu'on se mariait « pour toujours », qu'on ne pouvait prendre qu'une femme et qu'on risquait « de se faire casser la tête » sans le consentement des parents. Pour la défense, Joseph Larocque, Pierre Marois et Fanny Boucher nient le caractère obligatoire de ces unions.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 269-272.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.61,
+     45.746
+    ]
+   },
+   "properties": {
+    "id": "PD06-13",
+    "nom": "Mascouche : « Enfin je romps le silence », la lettre non distribuée de Charles Boimier à son frère voyageur (1823)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1823.324,
+    "fin": 1823.324,
+    "date_edtf": "1823-04-28",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Boimier",
+     "Isidore Boimier",
+     "Manuelle Préville",
+     "François Mauraux"
+    ],
+    "description": "Parmi les lettres jamais distribuées conservées dans le courrier de la Compagnie de la Baie d'Hudson, celle que Charles Boimier écrit de Mascouche le 28 avril 1823 à son frère voyageur Isidore crie son impatience d'avoir des nouvelles ; une autre est envoyée de Maskinongé, le 11 avril 1834, par l'oncle Manuelle Préville à François Mauraux. Les familles confiaient ces lettres aux brigades qui remontaient de Montréal vers le lac Supérieur.",
+    "sources": "Podruchny, Carolyn (2006), Making the Voyageur World: Travelers and Traders in the North American Fur Trade, Lincoln, University of Nebraska Press, p. 49.",
+    "note": "Archives de la CBH, E.31/2/2."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.915,
+     37.9214
+    ]
+   },
+   "properties": {
+    "id": "FX16-02",
+    "nom": "Kaskaskia : Marie Rouensa, fille de chef illinoise, épouse Michel Accault puis Michel Philippe (1693-1725)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1693.0,
+    "fin": 1725.999,
+    "date_edtf": "1693/1725",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Marie Rouensa",
+     "Michel Accault",
+     "Michel Philippe",
+     "Jacques Gravier",
+     "Antoine-Robert Le Boullenger"
+    ],
+    "description": "Fille d'un chef kaskaskia, Marie Rouensa refuse d'abord le traiteur Michel Accault, venu au pays avec La Salle en 1679, puis consent à l'épouser à condition que ses parents se fassent catholiques. Le père Gravier lui attribue, de mars à novembre 1693, le baptême de deux cents Kaskaskias. Veuve après sept ans, elle épouse le traiteur Michel Philippe, dont elle a six enfants (descendance à Prairie du Rocher). À sa mort en 1725, son bien vaut 45 000 livres : deux maisons à cheminée de pierre, granges pleines de blé et d'avoine, bœufs, treize vaches, trente et un porcs, cinq esclaves, charrues de fer ; un codicille rédigé avec le père Le Boullenger n'accorde sa part au fils prodigue que s'il quitte la vie « parmi les nations sauvages ».",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 141-143.",
+    "note": "D'après Sleeper-Smith (2001), cité par les auteurs. En 1693, les Kaskaskias vivaient encore au lac Peoria ; point placé à Kaskaskia sur le Mississippi, où Marie Rouensa meurt."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.915,
+     37.9214
+    ]
+   },
+   "properties": {
+    "id": "FX16-03",
+    "nom": "Kaskaskia : Levasseur, secrétaire de La Fayette, interrogé en français par les « Canadiens » (1825)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1825.25,
+    "fin": 1825.25,
+    "date_edtf": "1825-04",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Auguste Levasseur",
+     "La Fayette"
+    ],
+    "description": "Lors de l'escale de La Fayette à Kaskaskia pendant sa tournée d'adieu de 1825, son secrétaire Auguste Levasseur distingue dans la foule les Américains, des hommes plus pauvrement vêtus et pétulants qui lui rappellent les paysans de France, et des Indiens à demi nus appuyés sur un arc ou un fusil. On s'exclame en français dans toute la salle ; apprenant qu'il est Français, les hommes l'assaillent de questions sur la « mère-patrie », et l'un d'eux, chasseur au teint basané, guêtres de cuir et poire à poudre à la ceinture, lui explique que son père était un Blanc du Canada et sa mère une Kickapoo.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 145-147.",
+    "note": "D'après Levasseur (1829), p. 290-294."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.327,
+     41.827
+    ]
+   },
+   "properties": {
+    "id": "FX16-04",
+    "nom": "Fort Saint-Joseph : Marie-Madeleine Réaume, fille d'une Illinoise et d'un interprète, tisse sa parenté catholique (v. 1710-1780~)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1710.0,
+    "fin": 1780.999,
+    "date_edtf": "1710~/1780~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Marie-Madeleine Réaume",
+     "Jean-Baptiste Réaume",
+     "Simphorose Ouaouagoukoue",
+     "Simon Réaume",
+     "Louis-Thérèse Chevalier",
+     "Marie-Catherine L'Archevêque",
+     "Marie-Joseph Esther L'Archevêque"
+    ],
+    "description": "Née vers 1710 de Simphorose Ouaouagoukoue, Illinoise, et de Jean-Baptiste Réaume, interprète au fort Saint-Joseph associé à son frère Simon dans une traite à demi illicite (il passe à La Baie vers 1732), Marie-Madeleine est élevée dans les deux langues et devient marraine dès dix-huit ans. Veuve vers la fin de la trentaine, elle mène ses filles à Michillimakinac et les marie à des traiteurs, l'une de Trois-Rivières, l'autre lié à Montréal, avec les Langlade et les Bourassa pour parrains et témoins ; vers quarante et un ans, elle épouse Louis-Thérèse Chevalier, de plusieurs années son cadet. Ses cinq filles épousent toutes des traiteurs ; elle vit près de soixante-dix ans parmi les Potawatomis, son fils Louison s'y marie, et ses filles finissent par rejoindre les familles réinstallées près de Saint-Louis.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 150-153.",
+    "note": "D'après Sleeper-Smith (2001). Le livre date le voyage à Michillimakinac de « 1849 », coquille évidente pour 1749."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.672,
+     42.963
+    ]
+   },
+   "properties": {
+    "id": "FX16-05",
+    "nom": "Rapides de la Grand River (Grand Rapids) : Madame Laframboise, « première femme d'affaires » du Michigan (av. 1812-1822)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1800.0,
+    "fin": 1822.999,
+    "date_edtf": "1800~/1822",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Magdelaine Marcot Laframboise",
+     "Joseph Laframboise",
+     "Jean-Baptiste Marcot",
+     "Kewinaquot",
+     "Josette Laframboise",
+     "Benjamin Pierce"
+    ],
+    "description": "Née au fort Saint-Joseph de Jean-Baptiste Marcot et de Thimotée, fille du chef odawa Kewinaquot (Nuage-qui-revient), Magdelaine grandit dans un village odawa de la Grand River et épouse à quatorze ans le traiteur Joseph Laframboise. Après le meurtre de celui-ci par un Odawa, elle reprend seule le commerce et contrôle l'essentiel des fourrures exportées de la Grand River pendant et après la guerre de 1812, gagnant 5 000 à 10 000 $ par an quand un traiteur en gagnait 1 000 ; chaque juin, ses voyageurs la mènent vendre ses pelleteries à Michillimakinac, sous licence britannique puis américaine. Sa fille Josette épouse Benjamin Pierce, frère du futur président ; à la mort de Josette en 1822, elle vend son commerce et s'installe à l'île Mackinac, où elle se dévoue à la paroisse Sainte-Anne et reçoit Tocqueville en 1831.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 155-156.",
+    "note": "D'après Sleeper-Smith (2001) et Beld (2012)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.348,
+     46.495
+    ]
+   },
+   "properties": {
+    "id": "FX16-06",
+    "nom": "Sault-Sainte-Marie : les votes des « half-breeds » contestés à l'élection du délégué Gabriel Richard (1825)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1825.0,
+    "fin": 1825.999,
+    "date_edtf": "1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Richard",
+     "Austin Wing",
+     "John Biddle",
+     "François Dufeau",
+     "François Goulet",
+     "J.-B. Piquet",
+     "Charles Roussain",
+     "Joseph Rolette",
+     "Michel Brisbois"
+    ],
+    "description": "À l'élection de 1825 du délégué du territoire du Michigan au Congrès, Austin Wing l'emporte avec 728 voix contre 724 au père Gabriel Richard et 689 à John Biddle, après qu'un premier décompte eut écarté presque tous les 61 suffrages de Sault-Sainte-Marie. À Détroit, dix témoins jurent que des constables ont matraqué les Canadiens qui s'approchaient des urnes, faisant perdre au moins soixante voix à Richard ; à Frenchtown, les bureaux ferment tôt. Le camp Wing conteste le droit de vote des Métis du Sault — François Dufeau, François Goulet, J.-B. Piquet, Charles Roussain — et la commission des élections, tout en confirmant Wing, reconnaît en principe ce droit selon le « mode de vie ». À Prairie du Chien, les Métis votent en bloc derrière Joseph Rolette et Michel Brisbois.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 186-187.",
+    "note": "D'après le rapport du 19e Congrès (1825), cité par les auteurs."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.842,
+     46.516
+    ]
+   },
+   "properties": {
+    "id": "FX16-07",
+    "nom": "Cowlitz Farms : les familles de la Rivière-Rouge menées par Duncan Finlayson s'établissent au nord de la Columbia (1841-1843)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1841.417,
+    "fin": 1843.999,
+    "date_edtf": "1841-06/1843",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Duncan Finlayson",
+     "John McLoughlin"
+    ],
+    "description": "En juin 1841, le gouverneur d'Assiniboia Duncan Finlayson réunit vingt-trois familles, surtout métisses, qui quittent la Rivière-Rouge pour un voyage de trois mois jusqu'au fort Vancouver. McLoughlin envoie quatorze familles métisses anglophones au fort Nisqually, et les familles canadiennes-françaises et métisses à Cowlitz Farms. Les colons de Nisqually, sur un sol pierreux et à bail, passent au sud de la Columbia dès 1843 ; à Cowlitz, la colonie atteint soixante-quatre personnes, treize familles canadiennes formant le premier établissement agricole euro-américain de l'actuel État de Washington, autour de la première église catholique, Saint-François-Xavier.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 66.",
+    "note": "D'après Foxcurran (2012)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.118,
+     48.639
+    ]
+   },
+   "properties": {
+    "id": "FX16-08",
+    "nom": "Kettle Falls : le fort Colville (1825-1871) et l'église Saint-Paul, en pièce sur pièce à la canadienne (1847)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1825.0,
+    "fin": 1871.999,
+    "date_edtf": "1825/1871",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Simpson"
+    ],
+    "description": "Remplaçant Spokane House, le fort Colville est bâti sur l'emplacement choisi par Simpson, juste au-dessus des « Chutes des Chaudières » (Kettle Falls), grand lieu de pêche et de rassemblement. Magasin, forge, moulin à vent et chantier de bateaux, il nourrit tout le haut Columbia, voit passer quelque 250 employés et ne ferme qu'en 1871 ; ses restes, incendiés en 1910, sont noyés en 1941 par le lac Roosevelt. Seule demeure, sur la colline voisine, la mission Saint-Paul de 1847, en pièce sur pièce (« post and sill ») à la manière canadienne, l'un des plus vieux bâtiments de l'État de Washington.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 73-74, 80-81.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9007,
+     47.0379
+    ]
+   },
+   "properties": {
+    "id": "FX16-09",
+    "nom": "Olympia : la première législature du territoire de Washington débat du vote des Canadiens et des « half-breeds » (1854)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1854.0,
+    "fin": 1854.999,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Au recensement de 1850, seuls 87 des 192 adultes du comté de Clark et 157 des 313 du comté de Lewis sont nés aux États-Unis. Le premier point de l'ordre du jour de la législature territoriale de Washington, en 1854, est le droit de vote des Métis et des Canadiens : les uns plaident pour ces pionniers qui paient l'impôt, d'autres réclament l'exclusion de quiconque ne sait lire ni écrire l'anglais. Le compromis accorde le vote aux « half-breeds » jugés par les juges d'élection avoir adopté les « habitudes de la civilisation » : les fermiers canadiens votent, ceux qui vivent parmi les Indiens sont exclus.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 82.",
+    "note": "D'après le Pioneer and Democrat (1854)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.5786,
+     39.0997
+    ]
+   },
+   "properties": {
+    "id": "FX16-10",
+    "nom": "Kansas City : l'Iroquois John Grey (Ignace Hatchioraquasha), cofondateur avec François Chouteau",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1821.0,
+    "fin": 1840.999,
+    "date_edtf": "1821~/1840~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "John Grey",
+     "Ignace Hatchioraquasha",
+     "François Chouteau",
+     "James McGee"
+    ],
+    "description": "Parmi les Iroquois francophones venus de Caughnawaga dans les Rocheuses au service des compagnies de traite, le chasseur John Grey, de son nom Ignace Hatchioraquasha, aurait cofondé Kansas City avec François Chouteau et James McGee, profitant ensuite du passage de la piste de l'Oregon.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 64.",
+    "note": "Affirmation des auteurs, non sourcée dans le passage."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.449,
+     46.049
+    ]
+   },
+   "properties": {
+    "id": "FX16-11",
+    "nom": "Frenchtown (Walla Walla) : le jour du lotissement et les femmes métisses du « Village des Canadiens » (v. 1889)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1889.0,
+    "fin": 1889.999,
+    "date_edtf": "1889~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Sarah Clara Bonenfant Duffy",
+     "Adaline Gardipee Lucier",
+     "Mary Sophie Belique Cornoyer",
+     "Melvina Rainville Picard",
+     "Felicité Dauphin Pambrun",
+     "Rose Virginia Picard Bergevin",
+     "Mary Ann Gendron Parr",
+     "Mary St. Dennis"
+    ],
+    "description": "Une photographie de Normal Rainville prise vers 1889 le jour du lotissement (Allotment Day) réunit les femmes et enfants des familles francophones et métisses de Frenchtown : Sarah Clara Bonenfant Duffy, Célina et Sophie Gagnon, Josephine, Carrie et Agnes La Fave (Lefebvre), Adaline Gardipee (Gariépy) Lucier, Mrs. Cornoyer née Mary Sophie Belique (Bélec), Melvina Rainville Picard, Félicité Dauphin Pambrun et ses enfants, les La Brach (Labrèche), La Rose Bonifer (Bonenfant), Mary Jane Bushman (Beauchemin), Rose Virginia Picard Bergevin, Mary St. Dennis. La Frenchtown Historic Foundation, fondée en 1993, a acquis en 2009 cinquante-sept acres comprenant les sites de la mission catholique Sainte-Rose-de-Lima et du cimetière de Frenchtown.",
+    "sources": "Foxcurran, Robert, Michel Bouchard et Sébastien Malette (2016), Songs Upon the Rivers: The Buried History of the French-Speaking Canadiens and Métis, Montréal, Baraka Books, p. 12-15.",
+    "note": "Légende de photographie de l'avant-propos (Sam Pambrun)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.12,
+     49.975
+    ]
+   },
+   "properties": {
+    "id": "WT85-07",
+    "nom": "Fort des Trembles (Poplar Fort), au-dessus du Portage la Prairie : les traiteurs Bruce et Boyer attaqués (1780 ou 1781)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1780.0,
+    "fin": 1781.999,
+    "date_edtf": "1780/1781",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Bruce",
+     "Boyer",
+     "John Macdonell"
+    ],
+    "description": "Selon le manuscrit « The Red River » de John Macdonell, le fort des Trembles se dressait à trois lieues au-dessus du Portage la Prairie. En 1780 ou 1781, des Indiens tentent d'y piller les traiteurs Bruce et Boyer ; dans la mêlée, deux Français et sept Indiens sont tués sur place. Craignant d'être exterminés, les traiteurs se rembarquent pour aller hiverner aux Fourches ; la petite vérole, qui emporte alors les trois quarts des Indiens, fait avorter selon Macdonell le projet de couper la route à tous les Blancs de l'intérieur.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 82.",
+    "note": "Emplacement approximatif, à trois lieues en amont de Portage la Prairie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.29,
+     49.97
+    ]
+   },
+   "properties": {
+    "id": "WT85-08",
+    "nom": "Portage la Prairie : William McKay contre Réaume et « Dejadon pour LaViolette » (hiver 1794-1795)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1794.0,
+    "fin": 1795.999,
+    "date_edtf": "1794/1795",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "William McKay",
+     "Réaume",
+     "Dejadon",
+     "LaViolette",
+     "John Macdonell"
+    ],
+    "description": "Macdonell rappelle que par ce portage d'environ douze milles on portait, sous les commandants français, les marchandises du fort Dauphin vers le lac Manitoba puis la rivière Dauphine. À cet endroit, William McKay hiverne en 1794-1795 pour la Compagnie du Nord-Ouest face à M. Réaume, à Dejadon (agissant pour LaViolette) et à Linklater de la Compagnie de la Baie d'Hudson, mieux pourvus que lui en marchandises, et fait pourtant de bons retours.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 82.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3,
+     49.975
+    ]
+   },
+   "properties": {
+    "id": "WT85-09",
+    "nom": "Fort La Reine : « Old Pinneshon », soldat déserteur passé des Mandanes au service des traiteurs français (v. 1744-1753)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1744.0,
+    "fin": 1763.999,
+    "date_edtf": "1744~/1763~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pinneshon",
+     "Peter Pond"
+    ],
+    "description": "Peter Pond rapporte qu'un ancien soldat français du pays des Illinois, déserteur, remonta le Missouri, vécut de longues années chez les Indiens et trouva chez les Mandanes des traiteurs du « fort Lorain » (fort La Reine) qui l'emmenèrent au poste, où la compagnie le prit à son service jusqu'à la cession du pays aux Anglais. Les éditeurs y voient peut-être Pennesha Gegare, traiteur français chez les Sauks et les Renards du Wisconsin en 1753 (aussi écrit Pennensha, Penechon ou « Mons. Pinnisance ») ; l'allusion viserait alors la décennie 1744-1753.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 24.",
+    "note": "Identification proposée par les éditeurs ; voir aussi JI-pinnisance-portage-wi."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.35,
+     49.75
+    ]
+   },
+   "properties": {
+    "id": "WT85-10",
+    "nom": "Pine Fort (fort des Épinettes), sur l'Assiniboine : poste de la traite mandane (1785-1794, réoccupé en 1807)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1785.0,
+    "fin": 1810.999,
+    "date_edtf": "1785/1810~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "François-Antoine Larocque",
+     "Charles McKenzie",
+     "John Macdonell"
+    ],
+    "description": "Fondé en 1785 par la Compagnie du Nord-Ouest sur la rive nord de l'Assiniboine, près de l'ancien site du fort La Reine et à dix-huit milles en aval de la Souris, le Pine Fort (fort des Épinettes, des Pins ou des Trembles) est le principal poste de la traite avec les Mandanes jusqu'à son abandon en 1794, la Compagnie de la Baie d'Hudson s'étant établie à côté ; les engagés y prenaient des peaux à crédit pour aller traiter aux villages du Missouri, à dix ou douze jours de marche. Le site est réoccupé en 1807 : Larocque y passe l'hiver suivant avant d'en partir le 3 juin, laissant le poste à Charles McKenzie.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 82-85, 203.",
+    "note": "Emplacement approximatif."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.35,
+     49.75
+    ]
+   },
+   "properties": {
+    "id": "WT85-11",
+    "nom": "Le jeune Lamothe, mis au ban par la Compagnie du Nord-Ouest pour la mort de James King (1806-1807)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1806.0,
+    "fin": 1807.999,
+    "date_edtf": "1806/1807",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Lamothe",
+     "James King",
+     "François-Antoine Larocque",
+     "John Macdonell",
+     "Archibald Norman McLeod"
+    ],
+    "description": "Selon le récit de Larocque, malgré la fusion de 1804 la Compagnie du Nord-Ouest n'a pas pardonné au jeune Lamothe d'avoir tué en légitime défense, au département du fort des Prairies (Saskatchewan), le traiteur James King. Sous l'influence d'A. N. McLeod, John Macdonell promet de lui rendre la vie impossible pour le chasser du pays : sans commandement ni emploi, Lamothe est envoyé hiverner avec Larocque, qui trouve en lui un excellent compagnon. Au printemps, on le laisse au portage de la Montagne, sur la route de Kaministiquia, dernière mortification avant son renvoi vers Montréal.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 201-204.",
+    "note": "Point placé au Pine Fort, où Larocque hiverne avec lui."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.955,
+     45.63
+    ]
+   },
+   "properties": {
+    "id": "WT85-12",
+    "nom": "Saint-Hyacinthe : Larocque, né à L'Assomption, finit ses jours à l'Hôtel-Dieu (1855-1869)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1784.633,
+    "fin": 1897.999,
+    "date_edtf": "1784-08-19/1897",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Antoine Larocque",
+     "Marie-Catherine-Émilie Cotte"
+    ],
+    "description": "Né le 19 août 1784 à L'Assomption, envoyé aux États-Unis apprendre l'anglais après la mort de son père (1792), commis de la XY puis de la Compagnie du Nord-Ouest, François-Antoine Larocque quitte l'Ouest en 1806. Capitaine des Chasseurs canadiens en 1812, prisonnier six mois à Cincinnati, il épouse en 1818 Marie-Catherine-Émilie Cotte et compte parmi les fondateurs de la Banque de Montréal (1819). Retiré des affaires en 1841, il entre en 1855 à l'Hôtel-Dieu de Saint-Hyacinthe, y meurt le 1er mai 1869 et est inhumé dans la crypte de l'église ; ses restes sont transférés en 1897 au cimetière des Sœurs grises, où une pierre porte encore « Antoine Larocque, 1869 ».",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 129-130.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.385,
+     45.56
+    ]
+   },
+   "properties": {
+    "id": "WT85-13",
+    "nom": "Pointe-Fortune : John Macdonell, ancien bourgeois de la rivière Rouge, et Magdeleine Poitras (1814-1853)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1814.0,
+    "fin": 1853.999,
+    "date_edtf": "1814/1853",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Macdonell",
+     "Magdeline Poitras",
+     "André Poitras"
+    ],
+    "description": "Auteur du manuscrit « The Red River », John Macdonell prend dans l'Ouest pour épouse à la façon du pays Magdeleine Poitras, fille d'André Poitras, traiteur de la Qu'Appelle, et d'une Indienne. Rentré en 1812, capitaine au Corps des voyageurs canadiens fait prisonnier à Saint-Régis, il vit dès 1814 à Pointe-Fortune, sur l'Outaouais, où il tient un magasin, fait courir des bateaux vers Montréal et siège comme juge. Il meurt le 17 avril 1850 à quatre-vingt-deux ans et est inhumé à Saint-André d'Argenteuil ; un mariage posthume célébré en 1853 légitime leur union et leurs huit enfants.",
+    "sources": "Wood, W. Raymond et Thomas D. Thiessen (éd.) (1985), Early Fur Trade on the Northern Plains: Canadian Traders among the Mandan and Hidatsa Indians, 1738-1818, Norman, University of Oklahoma Press, p. 77-78.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.662,
+     45.626
+    ]
+   },
+   "properties": {
+    "id": "LUS-01",
+    "nom": "La Jolie Prairie : le site du fort Vancouver choisi par Simpson (1824-1825)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1824.0,
+    "fin": 1825.999,
+    "date_edtf": "1824/1825",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Simpson",
+     "John McLoughlin",
+     "Alexander Mackenzie"
+    ],
+    "description": "À quelque quatre-vingt-seize milles en amont du fort George, à l'endroit où le lieutenant Broughton avait arrêté son relevé de la Columbia, les traiteurs connaissaient déjà le lieu sous le nom de Jolie Prairie, sur les pentes qui montent de la pointe Bellevue. Simpson y voit un site admirable pour une ferme capable de produire tout le blé nécessaire au commerce côtier, et pense pouvoir y détacher trente-cinq des soixante-dix hommes du fort George : c'est là que s'élève le fort Vancouver en 1825.",
+    "sources": "Mackie, Richard Somerset (1997), Trading Beyond the Mountains: The British Fur Trade on the Pacific, 1793-1843, Vancouver, UBC Press, p. 73.",
+    "note": "Voir aussi Foxcurran et al., Songs Upon the Rivers (2016), p. 70."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.0,
+     52.0
+    ]
+   },
+   "properties": {
+    "id": "LUS-02",
+    "nom": "Portage des brigades : Poulet Paul, de la brigade de la Saskatchewan, porte six pièces (504 livres) sur un mille",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1825.0,
+    "fin": 1843.999,
+    "date_edtf": "1825~/1843~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Poulet Paul"
+    ],
+    "description": "Aux portages des brigades, chaque voyageur devait porter de huit à dix pièces sur un mille par jour, par étapes d'un quart de mille, deux pièces à la fois. Certains étaient d'une force remarquable : Poulet Paul, de la brigade de la Saskatchewan, porta six pièces, soit 504 livres, sur un mille sans se reposer.",
+    "sources": "Mackie, Richard Somerset (1997), Trading Beyond the Mountains: The British Fur Trade on the Pacific, 1793-1843, Vancouver, UBC Press, p. 51.",
+    "note": "Point indicatif sur la route des brigades entre la Saskatchewan et la Columbia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.976,
+     45.211
+    ]
+   },
+   "properties": {
+    "id": "LUS-03",
+    "nom": "Saint-Paul (Prairie française, Oregon) : Hyacinthe Lavigueur, parti de Montréal dans les années 1820",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1820.0,
+    "fin": 1840.999,
+    "date_edtf": "1820~/1840~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Hyacinthe Lavigueur"
+    ],
+    "description": "David Vermette évoque le frère de son ancêtre, Hyacinthe Lavigueur, qui quitte l'île de Montréal dans les années 1820, très probablement au service de la Compagnie de la Baie d'Hudson, et contribue à fonder la paroisse de Saint-Paul, dans la région de l'Oregon encore appelée French Prairie. Vermette retrouve aussi des Lavigueur parmi les familles canadiennes de Brunswick (Maine), reliées par la parenté à Roxton Falls.",
+    "sources": "Vermette, David (2018), A Distinct Alien Race: The Untold Story of Franco-Americans, Montréal, Baraka Books, p. 96.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.915,
+     37.9214
+    ]
+   },
+   "properties": {
+    "id": "LUS-04",
+    "nom": "Kaskaskia : les sobriquets de voyageurs, « La Tulippe », « Le Violet » et le notaire Billeron « La Fatigue »",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1720.0,
+    "fin": 1763.999,
+    "date_edtf": "1720~/1763",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "La Tulippe",
+     "Le Violet",
+     "Léonard Billeron"
+    ],
+    "description": "Le coureur de bois portait un nom de famille que personne ne connaissait, un prénom et un « dit » ; seul le sobriquet restait. « La Tulippe » et « Le Violet », noms d'hommes qui se rasaient rarement, figurent dans les contrats des marchands de Montréal et sur les rôles de recensement de Kaskaskia. Les villageois avaient aussi les leurs : le notaire royal Léonard Billeron était appelé « La Fatigue ».",
+    "sources": "Kennedy, Jocelyn (1962), Why Illinois Was French, The National Society of the Colonial Dames of America in the State of Illinois, p. 13-14.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.88,
+     41.04
+    ]
+   },
+   "properties": {
+    "id": "LUS-05",
+    "nom": "Sous l'embouchure de la Platte : le voyageur Baptiste Latulippe se noie (26 juin 1812)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1812.485,
+    "fin": 1812.485,
+    "date_edtf": "1812-06-26",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Latulippe",
+     "Manuel Lisa",
+     "John C. Luttig"
+    ],
+    "description": "Le 26 juin 1812, vers sept heures du matin, deux jours après la Saint-Jean, Baptiste Latulippe, de Saint-Louis, tombe par-dessus bord d'un des bateaux de Lisa remontant le Missouri et disparaît, sans doute pris sous les racines d'un gros arbre qu'il allait pousser de sa perche ; l'expédition atteint la Platte vers onze heures. Selon l'éditrice, il s'était engagé en 1805 auprès de Louis-Aimable Desmarais pour chasser le castor et avait servi en 1806 Auguste Chouteau sur l'Osage, où Pike l'employa comme messager le 14 août ; un José Latulippe, tailleur de pierre, figure au recensement de Sainte-Geneviève de 1787 pour le fort Céleste de New Madrid.",
+    "sources": "Luttig, John C. (1920), Journal of a Fur-Trading Expedition on the Upper Missouri, 1812-1813, éd. Stella M. Drumm, St. Louis, Missouri Historical Society, p. 42-43.",
+    "note": "Point placé juste en aval de l'embouchure de la Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.75,
+     35.95
+    ]
+   },
+   "properties": {
+    "id": "LUS-06",
+    "nom": "Concession Nolan du Nouveau-Mexique : d'Armijo (1845) à Pinkerton c. Ledoux (1888) et au rejet de 1892",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1845.0,
+    "fin": 1892.999,
+    "date_edtf": "1845/1892",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Gervais Nolan",
+     "Juan Antonio Aragón",
+     "Antonio María Lucero",
+     "Manuel Armijo",
+     "Tomás Benito Lalande",
+     "William Pinkerton",
+     "Ledoux",
+     "Maria Dolores Lalande"
+    ],
+    "description": "Venu du Canada en 1824, Gervais (Gervacio) Nolan épouse en 1828 Maria Dolores Lalande, fille de Jean-Baptiste Lalande et de Maria Rita Abeyta, est naturalisé mexicain en 1829, trappe en 1830-1831, tient en 1835 un magasin et une forge au Real del Oro et réside en 1846 à San Francisco del Tuerto. En 1845, avec Juan Antonio Aragón et Antonio María Lucero, il obtient du gouverneur Manuel Armijo une concession dont son beau-frère Tomás Benito Lalande lui donne possession ; de 1853 à 1857, lui et son fils Francisco y cherchent des colons. Après sa mort (1857), ses héritiers vendent en 1875 la moitié ouest à l'éleveur écossais William Pinkerton pour 40 000 $ ; l'arpentage Shaw (1881-1882) y compte plus de 575 000 acres, la Cour suprême déboute en 1888 Pinkerton contre le colon Ledoux (Pinkerton v. Ledoux), et la Cour des réclamations foncières privées rejette la demande en 1892.",
+    "sources": "Chronologie de la concession Gervacio Nolan (image numérisée, dossier GERVAIS_NOLAN du Drive de l'auteur, source imprimée non identifiée).",
+    "note": "Distincte de la concession Nolan du Colorado (« Cuerno Verde », C123). Emplacement approximatif près de Wagon Mound."
    }
   },
   {
