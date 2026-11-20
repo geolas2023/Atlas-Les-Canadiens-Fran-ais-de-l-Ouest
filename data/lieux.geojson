@@ -80435,6 +80435,92 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.675,
+     45.432
+    ]
+   },
+   "properties": {
+    "id": "JM07-01",
+    "nom": "Lachine : Antoine Landriaux, recruteur des voyageurs de la Compagnie du Nord-Ouest en pleine guerre (1814)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1814.0,
+    "fin": 1814.999,
+    "date_edtf": "1814",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Landriaux",
+     "R. Dillon"
+    ],
+    "description": "En 1814, en pleine guerre anglo-américaine, la Compagnie du Nord-Ouest peine à réunir ses hommes pour le voyage de Fort William. Ses comptes paient à Antoine Landriaux ses frais à Lachine, puis ceux de sa tournée des paroisses d'en haut et d'en bas pour avertir les engagés qui ne se sont pas présentés ; un mois plus tard, R. Dillon fait de même à L'Assomption, Berthier, Yamaska et Sorel. Magasinier de Fort William presque chaque été, où il veille au maïs et aux vivres, Landriaux use de son autorité d'officier de milice pour vaincre la réticence des voyageurs à monter vers une zone de guerre. La compagnie accorde de fortes avances aux engagés et à leurs familles et embauche une centaine d'Iroquois en renfort.",
+    "sources": "Morrison, Jean (2007), Superior Rendezvous-Place: Fort William in the Canadian Fur Trade, 2e éd., Toronto, Natural Heritage Books, p. 75-76.",
+    "note": "Pages imprimées. Point à Lachine."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.645,
+     45.0
+    ]
+   },
+   "properties": {
+    "id": "JM07-02",
+    "nom": "Saint-Régis : premier combat du Corps des voyageurs canadiens, l'enseigne Pierre Rototte tué (23 octobre 1812)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1812.81,
+    "fin": 1812.81,
+    "date_edtf": "1812-10-23",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Rototte",
+     "William McGillivray",
+     "William McKay"
+    ],
+    "description": "Levé par le gouverneur Prevost à l'instigation des Nor'westers, le Corps des voyageurs canadiens est constitué à Montréal le 1er octobre 1812 ; ses officiers sont tous des associés ou anciens de la Compagnie du Nord-Ouest, avec William McGillivray comme lieutenant-colonel et Jean-Pierre Rastel de Rocheblave parmi les capitaines. Son premier engagement a lieu le 23 octobre à Saint-Régis, en face de Cornwall : l'enseigne Pierre Rototte père, son sergent et six de ses hommes y sont tués, premières victimes de la guerre. Le Corps est dissous six mois après sa création ; Selkirk lui reproche son indiscipline, mais Joseph McGillivray reconnaît aux voyageurs d'excellentes qualités de partisans.",
+    "sources": "Morrison, Jean (2007), Superior Rendezvous-Place: Fort William in the Canadian Fur Trade, 2e éd., Toronto, Natural Heritage Books, p. 75.",
+    "note": "Point au village de Saint-Régis (Akwesasne)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.26,
+     48.39
+    ]
+   },
+   "properties": {
+    "id": "JM07-03",
+    "nom": "Kaministiquia : la mission jésuite de l'Immaculée-Conception des pères Frémiot et Choné (1848)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1850.999,
+    "date_edtf": "1848/1850",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicolas Frémiot",
+     "Pierre Choné",
+     "George Simpson"
+    ],
+    "description": "En 1848, les jésuites Nicolas Frémiot et Pierre Choné fondent la mission de l'Immaculée-Conception en amont du poste de la Compagnie de la Baie d'Hudson à Fort William, sur la Kaministiquia ; c'est la première institution étrangère à la traite sur la rive canadienne du lac Supérieur. Frémiot rapporte le discours de l'agent Anderson, qui met en garde les Ojibwés contre le sort des Indiens américains ruinés par le whisky. Le gouverneur Simpson tente en vain de faire fermer la mission, dont les Indiens agriculteurs risquaient selon lui de nuire aux intérêts de la compagnie ; le traité Robinson-Supérieur de 1850 réserve des terres à Peau de Chat et aux siens près du fort.",
+    "sources": "Morrison, Jean (2007), Superior Rendezvous-Place: Fort William in the Canadian Fur Trade, 2e éd., Toronto, Natural Heritage Books, p. 126.",
+    "note": "Point approximatif en amont de l'ancien poste de la HBC, sur la Kaministiquia."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
