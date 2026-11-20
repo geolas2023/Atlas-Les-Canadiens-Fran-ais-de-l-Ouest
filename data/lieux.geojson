@@ -82694,6 +82694,1993 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -83.05,
+     42.32
+    ]
+   },
+   "properties": {
+    "id": "SK64-01",
+    "nom": "Détroit et Sandwich : la famille de Pierre Drouillard, interprète des Britanniques, et la belle-mère de George (1776-1809)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1776.0,
+    "fin": 1809.999,
+    "date_edtf": "1776/1809",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Pierre Drouillard",
+     "Angélique Descamps"
+    ],
+    "description": "George Drouillard est le fils d'un Canadien, Pierre Drouillard, interprète des Britanniques à Détroit, et d'une Shawnee. En 1776, Pierre épouse Angélique Descamps, dont il a plusieurs enfants ; George semble avoir été accueilli dans ce foyer et y avoir reçu quelque instruction. En 1809, il écrit de Saint-Louis à sa demi-sœur Marie-Louise, saluant « notre mère », ses frères et sœurs, Madame Maisonville et Madame Jacques Parent, de Détroit et de Sandwich. Tombé en disgrâce auprès des Britanniques après la cession de Détroit (1796), Pierre devient interprète des Américains en Ohio.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 18-22.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.71,
+     41.45
+    ]
+   },
+   "properties": {
+    "id": "SK64-02",
+    "nom": "Sandusky : Pierre Drouillard arrache Simon Kenton au bûcher (vers 1778)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1778.0,
+    "fin": 1778.999,
+    "date_edtf": "1778~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Drouillard",
+     "Simon Kenton"
+    ],
+    "description": "À Sandusky, Pierre Drouillard, père de George, trouve une bande d'Indiens prêts à brûler leur prisonnier américain, Simon Kenton, compagnon de Daniel Boone. Il intervient et obtient qu'on le lui remette. Kenton lui rendra la pareille en l'aidant à s'établir chez les Américains après 1796.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 21-22.",
+    "note": "Skarsten ne date pas l'épisode ; la capture de Kenton date de 1778."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.52,
+     37.31
+    ]
+   },
+   "properties": {
+    "id": "SK64-03",
+    "nom": "Cap-Girardeau : George Drouillard « du district du Cap-Girardeau », parent de Louis Lorimier (avant 1803)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1795.0,
+    "fin": 1803.999,
+    "date_edtf": "1795~/1803",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Drouillard",
+     "Louis Lorimier"
+    ],
+    "description": "Jeune, George suit les Shawnees de sa mère au Missouri. Il se dit « du district du Cap-Girardeau », poste espagnol commandé par Louis Lorimier. Un « M. Drewyer » qui habite le fort Massac est neveu de Lorimier : s'il est parent de George, celui-ci l'est aussi du commandant.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 20, 22.",
+    "note": "Lien de parenté conjectural."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.71,
+     37.15
+    ]
+   },
+   "properties": {
+    "id": "SK64-04",
+    "nom": "Fort Massac : Lewis engage George Drouillard comme interprète (11 novembre 1803)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1803.861,
+    "fin": 1804.111,
+    "date_edtf": "1803-11-11/1804-02-11",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Meriwether Lewis",
+     "William Graeter"
+    ],
+    "description": "Le 11 novembre 1803, au fort Massac sur l'Ohio, Lewis engage « George Drewyer » comme interprète indien à 25 dollars par mois ; l'agent militaire Swan lui avance trente dollars. Lewis l'envoie aussitôt recruter des hommes au Tennessee. Drouillard est inscrit au rôle de l'expédition le 1er janvier 1804 ; le 11 février, revenu au fort Massac « régler ses affaires », il y signe un billet de 301,63 dollars à William Graeter, qui le poursuivra en 1808.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 21, 23, 27-37.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "SK64-05",
+    "nom": "Cahokia : Drouillard amène huit recrues du Tennessee à Lewis (16 décembre 1803)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1803.958,
+    "fin": 1803.961,
+    "date_edtf": "1803-12-16/1803-12-17",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Meriwether Lewis",
+     "William Clark"
+    ],
+    "description": "Drouillard arrive à Cahokia le 16 décembre 1803 avec huit hommes recrutés au Tennessee, à plus de deux cents milles. Lewis écrit le lendemain à Clark qu'il est un peu déçu, « il n'y a pas un chasseur parmi eux », et qu'il n'a pas encore conclu de « marché ferme » avec Drouillard ; il lui confie ses bagages et ses lettres pour Clark. Tout l'hiver, Drouillard porte les messages entre Lewis à Saint-Louis et Clark au camp de la rivière Wood.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 27-29.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4,
+     41.2
+    ]
+   },
+   "properties": {
+    "id": "SK64-06",
+    "nom": "Village des Otos : Drouillard ramène le déserteur Moses Reed (août 1804)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1804.6,
+    "fin": 1804.63,
+    "date_edtf": "1804-08-07/1804-08-18",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Drouillard",
+     "Moses Reed",
+     "La Liberté",
+     "Reuben Field",
+     "William Bratton",
+     "François Labiche"
+    ],
+    "description": "Après le conseil du 3 août avec les Otos, le soldat Moses Reed fait demi-tour sous prétexte d'un couteau oublié, et l'engagé La Liberté, envoyé chez les Otos, ne revient pas. Le 7 août, les capitaines dépêchent Drouillard, Reuben Field, Bratton et Labiche avec ordre de ramener Reed, de le tuer s'il résiste, de chercher La Liberté au village oto et d'inviter les chefs à une paix avec les Omahas et les Sioux. Drouillard ramène Reed, qui sera jugé et chassé de l'expédition.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 45-54.",
+    "note": "Point hypothétique au village oto de la Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.03,
+     46.23
+    ]
+   },
+   "properties": {
+    "id": "SK64-07",
+    "nom": "Camp Chopunnish (Kamiah) : Drouillard interprète en signes de Clark chez les Nez-Percés (mai-juin 1806)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1806.333,
+    "fin": 1806.441,
+    "date_edtf": "1806-05/1806-06-10",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "William Clark",
+     "Tunnachemootoolt",
+     "Twisted Hair"
+    ],
+    "description": "Au camp Chopunnish, Drouillard accompagne Clark chez le chef Tunnachemootoolt (Broken Arm), qui promet des guides pour la traversée des Bitterroots et remet deux calumets, l'un pour les Américains, l'autre pour la paix avec les Shoshones. En son absence, Lewis ne peut comprendre le message que lui apporte Twisted Hair. Drouillard et Reuben Field sont les coureurs les plus rapides de l'expédition aux jeux organisés avec les Nez-Percés. Le 10 juin, Drouillard ouvre la marche dans la neige des montagnes.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 207-210.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.85,
+     48.45
+    ]
+   },
+   "properties": {
+    "id": "SK64-08",
+    "nom": "Two Medicine : Drouillard et Lewis dans la tente des Piégans, puis le combat (26-27 juillet 1806)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1806.568,
+    "fin": 1806.571,
+    "date_edtf": "1806-07-26/1806-07-27",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Meriwether Lewis",
+     "Joseph Field",
+     "Reuben Field"
+    ],
+    "description": "Au retour du camp Disappointment, sur le Cut Bank, Drouillard aperçoit le premier huit Indiens et trente chevaux. Ce sont des Piégans. Lewis et Drouillard passent la nuit dans leur tente de peaux, Drouillard servant d'interprète par signes ; à l'aube, Wolf Calf saisit le fusil posé sous le havresac de Drouillard pendant que d'autres prennent ceux des frères Field. Dans la lutte, Reuben Field poignarde un Piégan et Lewis en abat un autre.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 225-236.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0,
+     38.6
+    ]
+   },
+   "properties": {
+    "id": "SK64-09",
+    "nom": "Embouchure de l'Osage : le déserteur Antoine Bissonnette abattu sur ordre de Lisa (14 mai 1807)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1807.369,
+    "fin": 1807.372,
+    "date_edtf": "1807-05-14/1807-05-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Manuel Lisa",
+     "Antoine Bissonnette",
+     "Antoine Dubreuil",
+     "Benito Vasquez"
+    ],
+    "description": "La troupe de Lisa compte quarante-deux hommes, dont trente-sept Canadiens ; Drouillard y représente William Morrison et Pierre Ménard, de Kaskaskia, et Benito Vasquez est second. Au départ de l'embouchure de l'Osage, l'engagé Antoine Bissonnette, dit « Bazine », manque à l'appel. Lisa ordonne à Drouillard de le ramener « mort ou vif » ; il part avec Benito, tire, et revient dire qu'il l'a blessé. Lisa approuve : « c'est un coquin qui a eu ce qu'il méritait ». Bissonnette, atteint dans le dos, meurt le lendemain dans le canot qui l'emmène à Saint-Charles. Il avait caché ses couvertures à la rivière Aux Maries.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 252-253, 271-273.",
+    "note": "Témoignage d'Antoine Dubreuil du 5 août 1808."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.55,
+     46.15
+    ]
+   },
+   "properties": {
+    "id": "SK64-10",
+    "nom": "Fort Raymond (embouchure du Bighorn) : le premier poste américain du haut Missouri (octobre 1807)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1807.75,
+    "fin": 1807.75,
+    "date_edtf": "1807-10",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Manuel Lisa",
+     "John Colter",
+     "Edward Rose"
+    ],
+    "description": "Après avoir intimidé Arikaras, Mandanes et Assiniboines à coups de pierriers, Lisa, conseillé par John Colter rencontré à l'embouchure de la Platte, bâtit en octobre 1807 son poste au confluent du Bighorn et de la Yellowstone : fort Raymond, ou fort Lisa, « le premier bâtiment élevé dans les limites de l'actuel Montana ». Edward Rose est envoyé traiter chez les Crows, qui obtiennent ses marchandises sans payer.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 255-259.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.15,
+     44.5
+    ]
+   },
+   "properties": {
+    "id": "SK64-11",
+    "nom": "Montagne Cedar et rivière Stinking Water : le premier voyage de Drouillard chez les Crows et les sources chaudes (hiver 1807-1808)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1807.833,
+    "fin": 1808.0,
+    "date_edtf": "1807-11/1808-01",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "George Drouillard",
+     "John Colter"
+    ],
+    "description": "Parti à pied du fort Raymond, Drouillard remonte la Yellowstone, passe le Pompey's Pillar, visite un camp à l'embouchure du Pryor et un grand village crow sur la Clarks Fork, place correctement la Heart Mountain, puis passe deux jours chez les Crows près de la montagne Cedar, « montagne des Esprits », sur la Stinking Water (Shoshone). Les Crows lui parlent d'une grotte de sel et d'« établissements espagnols » au-delà des montagnes. Skarsten pense que Drouillard fut le premier à décrire à Clark les fumerolles et les eaux bouillantes du lieu qu'on appellera « l'enfer de Colter ». Il redescend jusqu'au confluent du Bighorn, où hivernent 280 loges.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 260-267.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.2,
+     45.3
+    ]
+   },
+   "properties": {
+    "id": "SK64-12",
+    "nom": "Little Bighorn, Rosebud et Tongue : le second voyage de Drouillard en quête de clients (printemps 1808)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1808.167,
+    "fin": 1808.25,
+    "date_edtf": "1808-03/1808-04",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "George Drouillard"
+    ],
+    "description": "Au printemps 1808, Drouillard repart à pied du fort Raymond vers le sud : il remonte le Little Bighorn, où il note d'excellents terrains à castors, passe au Rosebud (qu'il prend pour un affluent de la Tongue et appelle Minna-e-sa), décrit un lac circulaire au pied d'une haute crête, gagne la Tongue et l'Otter Creek, visite plusieurs camps indiens et rentre par les montagnes « Chatish ou Woolf teeth » : quinze jours et plus de deux cents milles, tout près du futur champ de bataille de Custer.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 267-270.",
+    "note": "Itinéraire reconstitué d'après la carte que Clark dressa avec Drouillard ; point hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "SK64-13",
+    "nom": "Saint-Louis : procès et acquittement de Drouillard pour le meurtre de Bissonnette (23 septembre 1808)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1808.597,
+    "fin": 1808.727,
+    "date_edtf": "1808-08-06/1808-09-23",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Jean-Baptiste-Charles Lucas",
+     "Auguste Chouteau",
+     "Edward Hempstead",
+     "Rufus Easton",
+     "William C. Carr",
+     "John Scott",
+     "George Shannon",
+     "Thomas F. Riddick"
+    ],
+    "description": "Rentré à Saint-Louis début août 1808, Drouillard est arrêté le 6 sur ordre du juge de paix Thomas F. Riddick. Le 23 septembre, la cour d'oyer et terminer, présidée par J.-B.-C. Lucas avec Auguste Chouteau comme juge associé, l'entend : l'avocat général John Scott plaide le meurtre ; Hempstead, Easton et Carr soutiennent que la désertion avec vol d'équipement justifiait l'acte et que la faute revient à Lisa. Le jury, où siège un George Shannon, sans doute l'ancien de l'expédition, rend en quinze minutes un verdict de non-culpabilité. Drouillard vend ensuite à Riddick et Alexander McNair, pour 1 300 dollars, sa concession de terre et celles achetées à Whitehouse et Collins ; ses renseignements servent à Clark pour sa carte de la Yellowstone.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 261, 271-279, 339.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "SK64-14",
+    "nom": "Saint-Louis : la lettre de Drouillard à sa demi-sœur de Détroit (23 mai 1809)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1809.394,
+    "fin": 1809.394,
+    "date_edtf": "1809-05-23",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Pascal Cerré"
+    ],
+    "description": "Avant de repartir avec la Compagnie de fourrures du Missouri, Drouillard écrit à sa demi-sœur Marie-Louise à Détroit : faute d'argent, il n'a pu venir l'hiver passé et ne pense pas revenir du haut Missouri avant trois ans ; qu'on lui écrive aux soins de M. Pascal Cerré. Il revient sur la mort de Bissonnette, commise « sans malice, haine ni mauvaise intention », par irréflexion, et « encouragé et pressé par mon associé, Manuel Lisa, qui doit être considéré aussi coupable que moi ».",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 19, 274-279.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.62,
+     45.85
+    ]
+   },
+   "properties": {
+    "id": "SK64-15",
+    "nom": "Rivière Jefferson, près des Trois-Fourches : « Je suis trop Indien pour être pris par des Indiens », la mort de Drouillard (mai 1810)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1810.333,
+    "fin": 1810.333,
+    "date_edtf": "1810-05",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "George Drouillard",
+     "Thomas James",
+     "Pierre Ménard"
+    ],
+    "description": "Après l'attaque du 12 avril 1810 contre les trappeurs de la Jefferson, le poste des Trois-Fourches vit dans la peur. Exaspéré par la timidité des hommes, Drouillard part seul tendre ses pièges deux milles en amont du camp et rapporte six castors ; à James qui le met en garde, il répond : « Je suis trop Indien pour être pris par des Indiens. » Un matin de mai, parti avec deux Delawares, il est surpris par les Pieds-Noirs ; James retrouve les deux Delawares percés de lances, puis, cent cinquante verges plus loin, Drouillard et son cheval : il avait combattu en cercle, à cheval puis derrière sa monture, avant d'être décapité et mis en pièces.",
+    "sources": "Skarsten, M. O. (1964), George Drouillard, Hunter and Interpreter for Lewis and Clark and Fur Trader, 1807-1810, Glendale, Arthur H. Clark, p. 297-316.",
+    "note": "Récit de Thomas James, cité par Skarsten."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.067,
+     31.713
+    ]
+   },
+   "properties": {
+    "id": "CP94-01",
+    "nom": "Tombstone : James Vizina, magnat minier, paie la caution des Earp ; ses chevalements servent de refuge aux agresseurs de Virgil (1881)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1881.833,
+    "fin": 1881.991,
+    "date_edtf": "1881-11/1881-12-28",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "James Vizina",
+     "Virgil Earp",
+     "E. B. Gage"
+    ],
+    "description": "Après la fusillade de l'O.K. Corral (26 octobre 1881), quand il faut une caution pour les Earp, les magnats miniers de Tombstone E. B. Gage et James Vizina s'empressent d'y contribuer. Le 28 décembre 1881, quand le marshal Virgil Earp est criblé de chevrotines à l'angle de la Cinquième rue et d'Allen, entre l'Oriental et la brasserie Golden Eagle, ses agresseurs s'enfuient dans l'obscurité derrière les chevalements de la mine Vizina.",
+    "sources": "Chaput, Donald (1996), Virgil Earp, Western Peace Officer, Norman, University of Oklahoma Press (1re éd. 1994), p. 152, 163 (PDF).",
+    "note": "Vizina est la graphie américaine de Vézina ; Chaput ne précise pas ses origines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     35.5
+    ]
+   },
+   "properties": {
+    "id": "CP94-02",
+    "nom": "Désert entre Salt Lake City et San Bernardino : le journal de Mme J. A. Rousseau dans le convoi de Nicholas Earp (1864)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1864.363,
+    "fin": 1864.917,
+    "date_edtf": "1864-05-12/1864-12",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mme J. A. Rousseau",
+     "Nicholas Earp",
+     "Wyatt Earp"
+    ],
+    "description": "Le convoi de quarante chariots et 150 personnes que conduit Nicholas Earp, père de Virgil et de Wyatt, part de Council Bluffs le 12 mai 1864 pour la Californie. Mme J. A. Rousseau, invalide, en tient le journal, publié en partie : elle juge le maître du convoi exigeant, bourru et désagréable ; les Rousseau partagent leur nourriture avec les Indiens qui suivent le convoi, ce que Earp refuse et réprouve.",
+    "sources": "Chaput, Donald (1996), Virgil Earp, Western Peace Officer, Norman, University of Oklahoma Press (1re éd. 1994), p. 26, 42 (PDF).",
+    "note": "Journal publié dans le Quarterly de la San Bernardino County Museum Association (1958). Origine francophone des Rousseau non établie ; point hypothétique dans le désert Mojave."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.903,
+     45.39
+    ]
+   },
+   "properties": {
+    "id": "LO92-01",
+    "nom": "Comtés de Prescott et Russell : la colonisation canadienne-française de l'Est ontarien conduite par l'Église (1851-1911)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1851.0,
+    "fin": 1911.999,
+    "date_edtf": "1851/1911",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Pour enrayer l'exode vers les villes textiles de la Nouvelle-Angleterre, l'élite canadienne-française, surtout le clergé, prône la colonisation de terres neuves. Des paroisses entières du Québec, sous la conduite de leurs curés, viennent défricher l'Est ontarien : les Canadiens français y passent de 4 000 en 1851 à 42 000 en 1911. Le bloc francophone de Prescott et Russell s'oppose encore aux comtés anglophones de Stormont et Glengarry ; Saint-Isidore-de-Prescott y est un centre régional dynamique, le village bâti autour de l'église, du presbytère et du cimetière.",
+    "sources": "Louder, Dean, dir. (1992), The Heart of French Canada: From Ottawa to Quebec City, New Brunswick, Rutgers University Press (chap. « Day Two », M. Phipps, N. Castéran et A. Gilbert), p. 39-41.",
+    "note": "Point placé à Saint-Isidore-de-Prescott, cité par les auteurs comme exemple de village francophone."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.606,
+     45.607
+    ]
+   },
+   "properties": {
+    "id": "LO92-02",
+    "nom": "Hawkesbury : les scieries attirent les Canadiens français, majoritaires dès les années 1860",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1840.0,
+    "fin": 1869.999,
+    "date_edtf": "1840/1869",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Dès 1840, les scieries ont fait de Hawkesbury, d'abord anglophone, un village cosmopolite. De nombreux Canadiens français y affluent pour travailler dans les moulins et deviennent majoritaires dans les années 1860.",
+    "sources": "Louder, Dean, dir. (1992), The Heart of French Canada: From Ottawa to Quebec City, New Brunswick, Rutgers University Press (chap. « Day Two », M. Phipps, N. Castéran et A. Gilbert), p. 42.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.636,
+     45.309
+    ]
+   },
+   "properties": {
+    "id": "LO92-03",
+    "nom": "Alexandria : boîtes à fromage J. T. Schell et Carriage Works, la ville devient majoritairement française (1910)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1880.0,
+    "fin": 1910.999,
+    "date_edtf": "1880/1910",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Le travail du bois, la fabrication des boîtes à fromage J. T. Schell et la Carriage Works rendent Alexandria (comté de Glengarry) majoritairement française vers 1910.",
+    "sources": "Louder, Dean, dir. (1992), The Heart of French Canada: From Ottawa to Quebec City, New Brunswick, Rutgers University Press (chap. « Day Two », M. Phipps, N. Castéran et A. Gilbert), p. 42.",
+    "note": "Date de début approximative ; Louder ne donne que 1910."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.73,
+     45.021
+    ]
+   },
+   "properties": {
+    "id": "LO92-04",
+    "nom": "Cornwall : les Canadiens français apportent l'expérience des filatures du Québec et de la Nouvelle-Angleterre (1901)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1901.0,
+    "fin": 1901.999,
+    "date_edtf": "1901",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "L'industrialisation de Cornwall, ville loyaliste, aurait été impossible sans l'expérience acquise par les Canadiens français dans les filatures du Québec et de la Nouvelle-Angleterre. En 1901, la ville compte 6 700 habitants, dont 2 500 d'origine canadienne-française, regroupés dans des quartiers francophones autour des usines, avec leurs églises et leurs commerces.",
+    "sources": "Louder, Dean, dir. (1992), The Heart of French Canada: From Ottawa to Quebec City, New Brunswick, Rutgers University Press (chap. « Day Two », M. Phipps, N. Castéran et A. Gilbert), p. 42.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.72,
+     43.4
+    ]
+   },
+   "properties": {
+    "id": "LO13-01",
+    "nom": "Saint-Joseph-sur-Lac-Huron (Ontario) : bûcherons du Bas-Canada, la paroisse Saint-Pierre-du-Lac-Huron et la « cité » rêvée de Narcisse Cantin",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1830.0,
+    "fin": 1920.999,
+    "date_edtf": "1830/1920",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Claude Gélinas",
+     "Abraham Bédard",
+     "Baptiste Durand",
+     "Narcisse Cantin",
+     "frère André"
+    ],
+    "description": "Dans les années 1830, des bûcherons du Bas-Canada (Claude Gélinas, Abraham Bédard, Baptiste Durand) viennent travailler sur la rive du lac Huron ; ils reviennent dix ans plus tard avec leurs familles et forment la seule communauté canadienne-française entre la baie Georgienne et la région de Détroit (Laporte, Denomme, Bedour, Cantin, Papineau, Ducharme, Desjardins, Gravel). L'église Saint-Pierre-du-Lac-Huron est bâtie en 1873. Né là en 1870, Narcisse Cantin rêve d'une grande cité de Saint-Joseph, avec port, canal vers Port Stanley sur le lac Érié et chemin de fer, qui rapatrierait les Canadiens français partis aux États-Unis. Le village connaît son apogée vers 1915-1920 (scierie, briqueterie, grand hôtel) ; le frère André y séjourne en octobre 1917. Dès la fin du XIXe siècle pourtant, la plupart des pierres tombales sont gravées en anglais.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 12-14 (PDF).",
+    "note": "Louder tient ces renseignements de l'historien Yves Frenette."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.48,
+     49.47
+    ]
+   },
+   "properties": {
+    "id": "LO13-02",
+    "nom": "Cardinal (Manitoba) : la chapelle de la Société de Saint-Louis, bâtie de 1927 à 1929 par des colons français et suisses",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1927.0,
+    "fin": 1950.999,
+    "date_edtf": "1927/1950",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Cyprien Cardinal",
+     "Jean-Baptiste Château",
+     "Jean Schumacher",
+     "Théophile Toutant",
+     "Lucien Vigier"
+    ],
+    "description": "Arrivés l'année précédente et regroupés en Société de Saint-Louis, Cyprien Cardinal, Jean-Baptiste Château, Jean Schumacher, Théophile Toutant et Lucien Vigier élèvent de 1927 à 1929 une chapelle blanche près de Notre-Dame-de-Lourdes. Elle ne reçoit ni prêtre ni bénédiction avant 1935, quand l'archevêque Yelle permet au père Champagne d'y dire la messe l'hiver. On n'y célèbre ensuite que deux baptêmes (Élise Fouasse, 1945 ; Robert Pittet, 1949) et un mariage (André Talbot et Thérèse Cérénini, 1950). La chapelle est aujourd'hui abandonnée.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 20-21 (PDF).",
+    "note": "Point approximatif du hameau de Cardinal, entre Saint-Léon et Notre-Dame-de-Lourdes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.55,
+     49.53
+    ]
+   },
+   "properties": {
+    "id": "LO13-03",
+    "nom": "Notre-Dame-de-Lourdes (Manitoba) : les colons de l'est de la France et de Suisse amenés par le chanoine Dom Benoît (1891)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1891.0,
+    "fin": 1895.999,
+    "date_edtf": "1891/1895",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Dom Benoît"
+    ],
+    "description": "En 1891, des familles de l'est de la France et de Suisse, auxquelles le chanoine Dom Benoît avait donné rendez-vous au port d'Anvers, fondent Notre-Dame-de-Lourdes ; quatre ans plus tard, à la demande du chanoine, des chanoinesses arrivent de Lyon. Des Bretons et d'autres suivent. Louder relève les patronymes Delaquis, Dupasquier, Jamault, Deleurme et Pantel ; le Centre Dom-Benoît regroupe aujourd'hui les services du village.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 20-22 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1,
+     56.2
+    ]
+   },
+   "properties": {
+    "id": "LO13-04",
+    "nom": "Saint-Isidore (Alberta) : dernière colonisation de l'Ouest canadien par l'Église, des familles du Lac-Saint-Jean (1953)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1953.0,
+    "fin": 1953.999,
+    "date_edtf": "1953",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "En 1953, les Bergeron, Lavoie, Bouchard, Gagnon et Martel quittent le Lac-Saint-Jean pour défricher un établissement près de Peace River, dans le nord de l'Alberta, à proximité de villages canadiens-français fondés quarante ans plus tôt (Falher, Donnelly, Girouxville, Marie-Reine, Tangent). C'est, selon Louder, la dernière tentative de colonisation de l'Ouest canadien par l'Église catholique.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 23-24 (PDF).",
+    "note": "Témoignage de l'historienne Anne Gagnon, née à Saint-Isidore."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.447,
+     43.773
+    ]
+   },
+   "properties": {
+    "id": "LO13-05",
+    "nom": "Fond du Lac et Oconto (Wisconsin) : Adolphe Papineau, fils d'un réfugié des troubles de 1837 (1857-1861)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1857.0,
+    "fin": 1861.999,
+    "date_edtf": "1857/1861",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Adolphe Papineau",
+     "Henriette Landry"
+    ],
+    "description": "Un parent de Louis-Joseph Papineau, qui a dû fuir le Bas-Canada lors des troubles de 1837, emmène en Nouvelle-Angleterre son fils Adolphe (né en 1834). Adolphe et sa femme Henriette Landry ont un premier enfant à Fond du Lac en 1857, Georges en 1859 et un troisième deux ans plus tard ; ils finissent leurs jours à Oconto, près de la frontière du Michigan. Leur descendant Mike Papineau, né à Chicago d'une famille installée au Nebraska grâce au Homestead Act, cherche encore l'identité de l'ancêtre.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 41-42 (PDF).",
+    "note": "Généalogie familiale rapportée par Louder ; filiation non établie par des actes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.255,
+     30.38
+    ]
+   },
+   "properties": {
+    "id": "LO13-06",
+    "nom": "Delisle (Mississippi) : les familles « French » et créoles de la baie Saint-Louis, établies dès 1712",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1712.0,
+    "fin": 2004.999,
+    "date_edtf": "1712/2004",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Delisle, sur la baie Saint-Louis, est établi en 1712 par des Canadiens. Les familles qui se disent « French » descendent de Français et de Canadiens du début du XVIIIe siècle, parfois de l'équipage des frères Le Moyne ; les familles créoles y ajoutent des réfugiés de Saint-Domingue et des Autochtones de la côte. Les noms les plus répandus (Dedeaux, Swanier, Saucier, Ladner, Nicase, Jurette) sont partagés par les deux groupes. En 2004, les derniers locuteurs du français ou du créole ont plus de 80 ans ; la paroisse compte trois églises séparées : St. William, St. Ann-Dubuisson (vieilles familles blanches) et St. Stephen (créole).",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 50-54, 134 (PDF).",
+    "note": "Date de 1712 donnée par Louder (p. 134)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.247,
+     30.316
+    ]
+   },
+   "properties": {
+    "id": "LO13-07",
+    "nom": "Pass Christian (Mississippi) : le nom de Christian L'Adnier, de l'équipage d'Iberville",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1699.0,
+    "fin": 1720.999,
+    "date_edtf": "1699/1720",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Christian L'Adnier",
+     "Pierre Le Moyne d'Iberville"
+    ],
+    "description": "La ville de Pass Christian porte le nom de Christian L'Adnier, membre de l'équipage de d'Iberville. Les L'Adnier, devenus Ladner, forment avec les Dedeaux, Swanier et Saucier l'une des familles francophones les plus nombreuses de l'État.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 134 (PDF).",
+    "note": "Louder ne date pas le nom ; intervalle fixé d'après l'époque d'Iberville et de Delisle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.233,
+     41.105
+    ]
+   },
+   "properties": {
+    "id": "LO13-08",
+    "nom": "Frenchville (Pennsylvanie) : Normands et Picards au pays des quakers (1830-1836) et le curé Berbigier (1846-1886)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1830.0,
+    "fin": 1920.999,
+    "date_edtf": "1830/1920",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "John Keating",
+     "Jean-Baptiste Berbigier"
+    ],
+    "description": "Un riche Philadelphien endetté envers un marchand parisien lui cède, par l'entremise de son agent John Keating, le territoire de Frenchville. Entre 1830 et 1836, aidés des sulpiciens de Baltimore et de Philadelphie, des Normands et des Picards (Bilotte, Roussey, Beauseigner, Coudriet, Renaud, Plubelle, Rougeux, Valimont, Picard, Guenot) s'y établissent ; bûcherons et draveurs, ils font flotter le bois jusqu'à Lock Haven. Né en France en 1822, le père Jean-Baptiste Berbigier est leur curé de 1846 à 1886, après quoi il n'y a plus de prêtre francophone. Le français reste la langue publique jusqu'aux années 1920. En 2004, Kenny et Nestor Bilotte sont les deux derniers à le parler.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 54-57 (PDF).",
+    "note": "Louder note que ce territoire aurait appartenu de 1753 à 1758 à l'archevêché de Québec, affirmation qu'il ne justifie pas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.78,
+     38.01
+    ]
+   },
+   "properties": {
+    "id": "LO13-09",
+    "nom": "La Vieille Mine (Missouri) : les cylindres de cire enregistrés par Joseph-Médard Carrière en 1937 et le cimetière Saint-Joachim",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1937.0,
+    "fin": 2005.999,
+    "date_edtf": "1937/2005",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Médard Carrière",
+     "Kent Beaulne",
+     "Charlot Pashia"
+    ],
+    "description": "En 1937, l'ethnologue franco-ontarien Joseph-Médard Carrière enregistre sur cylindres de cire les habitants de la Vieille Mine ; la Société historique du lieu les rapatrie vers 2003, avec un gramophone pour les faire jouer. Derrière l'église Saint-Joachim, les tombes portent des noms que le curé américain transcrivait au son : Degonia (Desgagné), Reando (Riendeau), Osia (Auger), Bourisaw (Bourassa), Courtaway (Courtois), Merseal (Mercille), DeClue (Duclos). En 1978, Louder y avait encore parlé français avec Eilene Coleman Villmere, Rosie Pratt, Pete Boyer et le violoneux Charlot Pashia.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 83-86 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.528,
+     38.68
+    ]
+   },
+   "properties": {
+    "id": "LO13-10",
+    "nom": "Vincennes : les tombes des Canadiens qui servirent sous le drapeau américain et le recteur martiniquais Jean-François Rivet",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1778.0,
+    "fin": 1806.999,
+    "date_edtf": "1778/1806",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gibault",
+     "François Busseron",
+     "Jean-Marie Philippe Le Gras",
+     "Jean-François Rivet"
+    ],
+    "description": "Envoyé par George Rogers Clark, l'abbé Pierre Gibault rallie sans peine les Canadiens de Vincennes à la cause américaine. Une dizaine de pierres tombales rappellent ceux qui servirent sous le drapeau américain : Joseph Dubois, Pierre Grimard, Louis Victor Edeline, Michel Brouillette, Jean-Marie Philippe Le Gras, François Busseron, Nicholas Cardinal, Pierre Levry dit Martin, François Pelletier et André Languedoc. Prêtre et éducateur d'origine martiniquaise, le révérend Jean-François Rivet est le premier recteur de l'Académie Jefferson, future Université de Vincennes.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 86-87 (PDF).",
+    "note": "Intervalle de dates indicatif (guerre de l'Indépendance, Académie Jefferson) ; Louder ne date pas les tombes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.97,
+     44.75
+    ]
+   },
+   "properties": {
+    "id": "LO13-11",
+    "nom": "Lafontaine (Ontario) : voyageurs et Métis de l'île Drummond (1830), puis colons de Batiscan, Joliette et Vaudreuil-Soulanges",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1830.0,
+    "fin": 1856.999,
+    "date_edtf": "1830/1856",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Après une présence française intermittente de 1610 à 1650 (traiteurs, soldats, missionnaires), un groupe de voyageurs canadiens-français et métis venus de l'île Drummond s'installe à Lafontaine, sur la baie Georgienne, en 1830. Suivent des vagues d'immigrants du Québec, venus surtout de Batiscan, de Joliette et des comtés de Soulanges et de Vaudreuil. La paroisse Sainte-Croix est fondée en 1856. Les Marchildon, l'une des familles bâtisseuses, issue de Batiscan, ont aussi été pionniers à Zénon Park, en Saskatchewan.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 113-114 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.705,
+     50.755
+    ]
+   },
+   "properties": {
+    "id": "LO13-12",
+    "nom": "Lebret, vallée de la Qu'Appelle : la mission fondée par Mgr Taché (1865) et l'école du père Hugonard (1880)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1865.0,
+    "fin": 1880.999,
+    "date_edtf": "1865/1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Alexandre-Antonin Taché",
+     "abbé Ritchot",
+     "Jules Decorby",
+     "Joseph Hugonard",
+     "Louis Lebret"
+    ],
+    "description": "Mgr Taché fonde en 1865 la mission de Qu'Appelle, où le père Ritchot élève la première chapelle l'année suivante. Le père Jules Decorby, premier prêtre résident, y reste de 1868 à 1880 ; il est remplacé par le père Joseph Hugonard (1848-1917), originaire de l'Isère, missionnaire des Indiens et des Métis, qui y établit la première école pour Autochtones. Le village porte le nom du premier maître de poste, l'abbé Louis Lebret.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 115-117 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.65,
+     49.38
+    ]
+   },
+   "properties": {
+    "id": "LO13-13",
+    "nom": "Willow Bunch (Talle de Saules) : Jean-Louis Légaré, négociateur auprès de Sitting Bull, fonde le village (1876-1880)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1876.0,
+    "fin": 1880.999,
+    "date_edtf": "1876/1880",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Louis Légaré",
+     "Sitting Bull"
+    ],
+    "description": "Commerçant, charretier et aventurier né à Saint-Jacques-de-l'Achigan, Jean-Louis Légaré passe par Saint Paul (Minnesota) et Pembina avant de s'établir en Saskatchewan. De 1876 à 1880, il négocie avec les Métis et les Amérindiens de la région, dont Sitting Bull, réfugié là avec sa bande après Little Bighorn, en lien avec la police montée du Nord-Ouest. Il fonde Willow Bunch en 1880.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 117-118 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.477,
+     48.877
+    ]
+   },
+   "properties": {
+    "id": "LO13-14",
+    "nom": "Bathgate (Dakota du Nord) : la mort de Victor Charigot, beau-père de Renoir (1898)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1860.0,
+    "fin": 1898.999,
+    "date_edtf": "1860/1898",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Charigot",
+     "Jean-Baptiste Genin"
+    ],
+    "description": "Claude dit Victor Charigot, Champenois, abandonne en 1860 sa femme et sa fille Aline, future épouse du peintre Pierre-Auguste Renoir. Endetté et poursuivi, il passe par le Canada avant d'entrer aux États-Unis, prend une seconde épouse au Manitoba et une troisième au Dakota du Nord, et meurt à Bathgate en 1898. Commerçant au village, il y côtoie sans doute le père Jean-Baptiste Genin (1839-1900), missionnaire des Métis et des Canadiens, qui a pu présider ses obsèques.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 119-121 (PDF).",
+    "note": "Louder s'appuie sur l'essai de Pierre Chartrand et Bernard Pharisien (2004) ; les obsèques par Genin sont une hypothèse."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.205,
+     38.33
+    ]
+   },
+   "properties": {
+    "id": "LO13-15",
+    "nom": "Frenchtown (Petit Saint-Louis, Indiana) : la paroisse française des années 1840 et les Paté du Doubs (1855)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1840.0,
+    "fin": 1885.999,
+    "date_edtf": "1840/1885",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Pierre Dion",
+     "Martin Paté"
+    ],
+    "description": "Frenchtown, autrefois Petit Saint-Louis, à une quarantaine de kilomètres à l'ouest de New Albany, est peuplé au début des années 1840 par des Français et quelques Canadiens ; jusqu'aux années 1880, sous le pasteur Jean-Pierre Dion puis peut-être le père Martin Andrès, la paroisse vit en français. Martin Paté et sa famille, du Doubs, débarquent à La Nouvelle-Orléans le 1er mai 1855 à bord de l'International, avec Virgil Deschamps et Hypolite Colin ; établis d'abord dans le canton de Washington, ils gagnent Frenchtown avec d'autres Alsaciens et Lorrains (Troncin, Boncourt, Semonin, Brocard, Thirrion, Lasson). La paroisse Saint-Bernard est aujourd'hui anglophone.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 148-149 (PDF).",
+    "note": "D'après la brochure French Immigrants to Clark, Floyd and Harrison Counties in Indiana (bibliothèque de New Albany)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.415,
+     53.355
+    ]
+   },
+   "properties": {
+    "id": "LO13-16",
+    "nom": "Beaumont (Alberta) : les familles de l'abbé Morin (1892) et l'église Saint-Vital (1894-1895)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1892.0,
+    "fin": 1895.496,
+    "date_edtf": "1892/1895-06-30",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Morin",
+     "Albert Lacombe",
+     "Vital Grandin"
+    ],
+    "description": "Attirées par l'abbé Jean-Baptiste Morin, agent de colonisation, les premières familles canadiennes-françaises arrivent à Beaumont en 1892. En 1894, à la demande de Mgr Vital Grandin, le père Lacombe achète dix acres pour 50 $ afin d'y bâtir une église ; la paroisse est nommée Saint-Vital en l'honneur de l'évêque et la première messe y est célébrée le 30 juin 1895. Beaumont est aujourd'hui l'une des trois municipalités officiellement bilingues de l'Alberta, avec Legal et Bonnyville.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 150-152 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.64,
+     53.8
+    ]
+   },
+   "properties": {
+    "id": "LO13-17",
+    "nom": "Morinville : les Filles de Jésus de Kermaria, chassées de Bretagne, s'installent près de l'église (1902)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1902.0,
+    "fin": 1902.999,
+    "date_edtf": "1902",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Morin"
+    ],
+    "description": "Entre 1891 et 1899, l'abbé Jean-Baptiste Morin aide 600 familles canadiennes-françaises à s'établir dans l'Ouest, la plupart à Morinville. En 1902, des Filles de Jésus de Kermaria, en Bretagne, quittent la France sous la menace d'expulsion et s'installent dans un couvent voisin de l'église, aujourd'hui musée sur la place Jean-Baptiste. Une fresque représente l'arrivée des premiers colons, québécois et allemands.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 161-165 (PDF).",
+    "note": "Complète FA-ka04 (Morin)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.45,
+     46.05
+    ]
+   },
+   "properties": {
+    "id": "LO13-18",
+    "nom": "Frenchtown (Walla Walla) : la maison de Joseph LaRoque (1823), les Letellier et les cabanes métisses antérieures à Whitman",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1823.0,
+    "fin": 1855.999,
+    "date_edtf": "1823/1855",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph LaRoque",
+     "Louis Letellier",
+     "Jean-Baptiste Brouillet",
+     "Eugène Chirouse",
+     "Suzanne Cayouse Dauphin",
+     "Sam Pambrun"
+    ],
+    "description": "Selon l'historien métis Sam Pambrun (réserve d'Umatilla), Joseph LaRoque bâtit la première maison de Frenchtown (aujourd'hui Lowden, à 12 km à l'ouest de Walla Walla) en 1823 ; la famille de Louis Letellier arrive du Montana dix ans plus tard. D'autres voyageurs canadiens et métis, venus en partie de la rivière Rouge, s'y retirent de la traite. En 1836, quand Marcus Whitman fonde sa mission, il y a déjà une douzaine de maisons en rondins métisses, que Whitman ne mentionne jamais. La fondation historique de Frenchtown veut mettre en valeur le site de la bataille de Walla Walla (1855) et la mission Sainte-Rose des pères Brouillet et Chirouse ; Suzanne Cayouse Dauphin est l'une des ancêtres honorées au Rendez-vous de 2010.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 165-168 (PDF).",
+    "note": "Le texte imprime « Chioreuse » pour Chirouse."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.72,
+     40.715
+    ]
+   },
+   "properties": {
+    "id": "LO13-19",
+    "nom": "Belmont Park (New York) : Lucien Laurin et Ron Turcotte mènent Secretariat à la Triple Couronne (1973)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1973.0,
+    "fin": 1973.999,
+    "date_edtf": "1973",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Lucien Laurin",
+     "Ron Turcotte"
+    ],
+    "description": "Né en 1912 près de Joliette, Lucien Laurin monte pour la première fois à Blue Bonnets (Montréal) en 1929, remporte 161 courses et devient entraîneur en 1942. Il fait engager comme jockey Ron Turcotte, né en 1941 à Drummond (Nouveau-Brunswick), parti en 1960 travailler à Woodbine (Toronto). Ensemble, ils mènent Secretariat à la Triple Couronne en 1973 ; au Belmont, le cheval gagne par 31 longueurs. Turcotte est paralysé par une chute à Belmont le 13 juillet 1978 ; le pont de Grand-Sault porte son nom.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 169-172 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.01,
+     45.085
+    ]
+   },
+   "properties": {
+    "id": "LO13-20",
+    "nom": "White Bear Lake (Minnesota) : le charpentier mauricien Élie Lemire épouse Philamine LaBore près de Little Canada (1884)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1884.0,
+    "fin": 1884.999,
+    "date_edtf": "1884",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Élie Lemire",
+     "Marie Josephine Philamine LaBore"
+    ],
+    "description": "Né en Mauricie en 1861, le charpentier Élie Lemire tente sa chance aux États-Unis vers 1880 et épouse en 1884, à White Bear Lake, près du village de Little Canada, Marie Josephine Philamine LaBore. Ils ont neuf enfants avant sa mort en 1922. Le français se parle encore entre son fils Joseph Charles (né en 1896) et ses amis canadiens de White Bear Lake et de Little Canada, mais plus à la maison.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 184-185 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.013,
+     46.861
+    ]
+   },
+   "properties": {
+    "id": "LO13-21",
+    "nom": "Caribou (Maine) : Jean-Pierre Lévesque, de Kamouraska, devenu Leveck (années 1850)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1850.0,
+    "fin": 1919.999,
+    "date_edtf": "1850/1919",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Pierre Lévesque",
+     "Susan Little",
+     "Sandy Leveck"
+    ],
+    "description": "Né à Kamouraska vers 1805, Jean-Pierre Lévesque quitte son village pour le Nouveau-Brunswick vers 1850, épouse Susan Little en 1854 et s'établit à Caribou, dans le Maine. Leurs enfants sont élevés dans la foi méthodiste ; le nom devient Leveck. Le petit-fils Sandy (né en 1900), soldat posté à McAllen (Texas) en 1919, y épouse la Mexicaine-Américaine Elodia McDonald.",
+    "sources": "Louder, Dean (2013), Rencontres et voyages en Franco-Amérique, Québec, Septentrion (Hamac-carnets), p. 192-193 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53,
+     49.92
+    ]
+   },
+   "properties": {
+    "id": "FR93-01",
+    "nom": "Saint-François-Xavier et Saint-Boniface : les grandes chasses au bison des Métis, mille charrettes au départ en 1840",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1840.0,
+    "fin": 1840.999,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Deux expéditions par an, la chasse d'été (juin à fin août, de cinq cents à mille participants, viande séchée et pemmican) et celle d'automne (viande « verte » et robes), règlent la vie de la colonie de la Rivière-Rouge. Presque exclusivement indiennes et métisses francophones, elles emmènent des familles entières : en 1840, mille charrettes partent, chargées du camp, des femmes et des enfants. Deux groupes partent l'un de Saint-Boniface, l'autre de Saint-François-Xavier. Chaque chasse élit un chef, douze conseillers, un crieur et des guides ; ses « lois de la prairie » font office de gouvernement provisoire.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 80-83.",
+    "note": "Riel (Montreal Daily Star, 28 nov. 1885) et l'abbé Ritchot décrivent l'organisation du camp."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.65,
+     56.55
+    ]
+   },
+   "properties": {
+    "id": "FR93-02",
+    "nom": "Portage La Loche : la brigade de bateaux de la Baie d'Hudson, dix-sept bateaux et plus de 150 hommes (1866)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1866.0,
+    "fin": 1866.999,
+    "date_edtf": "1866",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Le transport des marchandises de la Compagnie de la Baie d'Hudson, par bateau ou par charrette, est surtout le fait de Métis francophones. Une brigade réunit de quatre à huit bateaux ou plus, chacun mené par neuf hommes et chargé de trois tonnes et demie. La plus importante, la brigade de Portage La Loche, fait un voyage de quatre mois, de début juin à début octobre ; en 1866, elle compte dix-sept bateaux et plus de 150 hommes, que les colons et même les agents de la Compagnie tiennent pour de la canaille.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 81.",
+    "note": "Martel cite J. J. Hargrave. Point placé au portage Methye."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.09,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "FR93-03",
+    "nom": "Route de Saint Paul : les convois de charrettes de la Rivière-Rouge, 1 500 voitures vers 1870",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1850.0,
+    "fin": 1870.999,
+    "date_edtf": "1850/1870",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Les convois de charrettes tirées par des bœufs ou des chevaux, organisés à partir de 1850, relient les villes du haut Mississippi, la colonie de la Rivière-Rouge et les postes de la Saskatchewan. La Compagnie de la Baie d'Hudson emprunte la route de Saint Paul dès 1858 ; vers 1870, jusqu'à 1 500 charrettes, dont 500 font deux voyages par saison, transportent chacune jusqu'à huit cents livres. Le service emploie environ 450 hommes de juin à octobre ; vers Fort Carlton, 300 charrettes et une centaine d'hommes font un seul voyage de soixante-dix à quatre-vingts jours.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 81-82.",
+    "note": "Point placé au terminus de Saint Paul."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.24,
+     48.97
+    ]
+   },
+   "properties": {
+    "id": "FR93-04",
+    "nom": "Pembina : le comité national des Métis interdit l'entrée du Nord-Ouest au lieutenant-gouverneur McDougall (octobre 1869)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1869.75,
+    "fin": 1869.75,
+    "date_edtf": "1869-10",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "John Bruce",
+     "Louis Riel",
+     "William McDougall"
+    ],
+    "description": "Fin octobre 1869, William McDougall, nommé lieutenant-gouverneur des Territoires du Nord-Ouest par Ottawa, arrive à Pembina avec une partie de son conseil. On lui remet une lettre : le comité national des Métis de la Rivière-Rouge lui signifie de ne pas entrer dans le Territoire du Nord-Ouest sans sa permission spéciale ; elle est signée, sur l'ordre du président John Bruce, par le secrétaire Louis Riel. C'est le premier acte officiel de la résistance de la Rivière-Rouge.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 84-85.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.125,
+     49.77
+    ]
+   },
+   "properties": {
+    "id": "FR93-05",
+    "nom": "Saint-Norbert : le conseil des Métis francophones devient gouvernement provisoire et codifie les lois de la prairie (30 octobre 1869)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1869.511,
+    "fin": 1869.829,
+    "date_edtf": "1869-07-05/1869-10-30",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "John Bruce",
+     "Louis Riel",
+     "Noël-Joseph Ritchot"
+    ],
+    "description": "Le 5 juillet 1869, les Métis francophones nomment un comité chargé d'empêcher les « étrangers » de s'emparer des terres au détriment des droits de la nation. À la mi-octobre, à la rumeur de l'arrivée de McDougall avec des soldats, le conseil fait organiser une milice selon la coutume de la prairie. Le 30 octobre, réuni à Saint-Norbert sous la présidence de John Bruce, avec Louis Riel comme secrétaire, il codifie les lois de la prairie, institue un exécutif appelé « sénat métis » et approuve sa charte devant une foule armée. Les seuls récits de ces premiers actes sont les cahiers de l'abbé Ritchot, curé de Saint-Norbert, conservés dans les archives de la paroisse.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 86-87.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.12,
+     49.89
+    ]
+   },
+   "properties": {
+    "id": "FR93-06",
+    "nom": "Saint-Boniface : les Métis francophones nomment un comité pour « aller prendre leur réserve en bloc » (juin 1871)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1871.417,
+    "fin": 1871.417,
+    "date_edtf": "1871-06",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "En juin 1871, la collectivité métisse francophone élit un comité de paroisses pour prendre en bloc sa réserve : deux vastes étendues boisées, parallèles à la rivière Rouge, de la frontière américaine jusqu'à la hauteur de l'Assiniboine. Elle interprète ainsi l'article 31 de la Loi sur le Manitoba (1,4 million d'acres pour les enfants des Métis). Le journal Le Métis annonce le 7 décembre 1872 que les anciens colons seront mis sur le même pied ; le 28 juillet 1881, il constate que les titres des Français catholiques ne sont toujours pas réglés.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 89.",
+    "note": "Le Métis, 8 et 15 juin 1871, cité par Martel. Point placé à Saint-Boniface, siège du journal."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.04,
+     52.8
+    ]
+   },
+   "properties": {
+    "id": "FR93-07",
+    "nom": "Saint-Laurent-de-Grandin : les 32 familles hivernantes de 1870 et le gouvernement provisoire présidé par Gabriel Dumont (1873)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1870.0,
+    "fin": 1882.999,
+    "date_edtf": "1870/1882",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Dumont",
+     "Alexis André",
+     "Victor Bourgine"
+    ],
+    "description": "À l'automne 1870, trente-deux familles métisses installent leur camp d'hivernement sur la Saskatchewan-Sud, à une vingtaine de milles de Fort Carlton. L'année suivante, elles bâtissent leur première église, dédiée à saint Laurent ; les pères Alexis André et Victor Bourgine y enseignent et veulent fixer les Métis. En 1873, un gouvernement provisoire à la mode métisse établit « des lois et un contrôle pour la colonie de Saint-Laurent-sur-la-Saskatchewan », avec Gabriel Dumont comme président : propriété individuelle, terres communes, chasse, amendes. En 1882, cinquante nouvelles familles s'établissent en amont et en aval ; en 1884, le bison a disparu et la misère règne.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 93-94.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.03,
+     47.392
+    ]
+   },
+   "properties": {
+    "id": "FR93-08",
+    "nom": "Mission Saint-Pierre (Montana) : la délégation des Métis de la Saskatchewan vient chercher Louis Riel (printemps 1884)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1884.0,
+    "fin": 1884.999,
+    "date_edtf": "1884",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Riel",
+     "Michel Dumas",
+     "William Henry Jackson"
+    ],
+    "description": "Fin janvier 1884, William Henry Jackson, secrétaire de la Settlers Union, est chargé d'approcher les Métis francophones ; après plusieurs réunions, les deux partis envoient une délégation à Louis Riel, à la mission Saint-Pierre, au Montana. Selon le témoignage de Michel Dumas, Riel, qui se croyait depuis neuf ans choisi par Dieu comme « prophète du Nouveau Monde », y voit le signe qu'il attendait. Il arrive en Saskatchewan en juillet 1884.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 94-96.",
+    "note": "Témoignage de Michel Dumas recueilli par Mgr G. Cloutier (archives de l'archevêché de Saint-Boniface)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.12,
+     52.75
+    ]
+   },
+   "properties": {
+    "id": "FR93-09",
+    "nom": "Saint-Laurent et Batoche : le mémoire de Riel à Mgr Grandin et saint Joseph, patron des Métis (septembre 1884)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1884.667,
+    "fin": 1884.958,
+    "date_edtf": "1884-09/1884-12-16",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Riel",
+     "Vital Grandin"
+    ],
+    "description": "Début septembre 1884, Riel remet à Mgr Vital Grandin, pour le gouvernement canadien, un mémoire réclamant un gouvernement responsable, la création de provinces dans le Nord-Ouest, des titres pour les terres occupées par les Métis, 240 acres pour chacun, deux millions d'acres vendus au profit d'écoles, d'hôpitaux et d'orphelinats métis, et cent cantons réservés aux générations futures. Une pétition plus modérée part pour Ottawa le 16 décembre 1884. Pour donner aux Métis un sentiment national, Riel demande à Mgr Grandin un patron distinct de saint Jean-Baptiste ; il propose saint Joseph, que l'évêque accepte.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gilles Martel, « When a Majority Becomes a Minority: The French-Speaking Métis in the Canadian West »), p. 96-98.",
+    "note": "Trois copies du mémoire, aucune de la main de Riel (notes de Louis Schmidt, papiers Macdonald et Dewdney). Point placé à Batoche."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.555,
+     49.874
+    ]
+   },
+   "properties": {
+    "id": "FR93-10",
+    "nom": "Gravelbourg : la colonie de l'abbé Pierre Gravel et le Collège Mathieu (1917)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1906.0,
+    "fin": 1952.999,
+    "date_edtf": "1906/1952",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Gravel",
+     "Olivier-Elzéar Mathieu"
+    ],
+    "description": "Originaire du comté d'Arthabaska et ancien curé dans l'État de New York, l'abbé Pierre Gravel, nommé par Mgr Adélard Langevin, fonde Gravelbourg grâce à ses relations au Québec et aux États-Unis. Mgr Olivier-Elzéar Mathieu, évêque de Regina à partir de 1911 et ancien recteur de Laval, veut former une élite laïque : le Collège Mathieu de Gravelbourg ouvre en 1917. La radio française CFRG y entre en ondes en 1952.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. d'André Lalonde, « The French Canadians of the West: Hope, Tragedy, Uncertainty »), p. 103, 110-111, 115.",
+    "note": "Date de fondation non donnée par Lalonde ; il note que les colons français n'occupent le sud-ouest aride qu'à partir de 1907."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.87,
+     52.65
+    ]
+   },
+   "properties": {
+    "id": "FR93-11",
+    "nom": "Saint-Brieux, Notre-Dame-de-Lourdes et l'abbé Gaire : la colonisation française et belge des Prairies (1890-1914)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1890.0,
+    "fin": 1914.999,
+    "date_edtf": "1890/1914",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Paul Le Floch",
+     "Dom Paul Benoit",
+     "Jean Gaire"
+    ],
+    "description": "À partir de 1890, des prêtres français de l'Ouest vont recruter en Europe des colons « désirables », en évitant anticléricaux, communards et anarchistes ; le gouvernement fédéral nomme des agents à Paris (Auguste Bodard, 1892) et à Anvers. Les résultats sont minces, la France finissant par interdire la propagande d'émigration. Quelques prêtres fondent pourtant des paroisses presque entièrement françaises et belges : Dom Paul Benoit, né dans le Jura, à Notre-Dame-de-Lourdes (Manitoba) ; l'abbé Paul Le Floch, Breton, à Saint-Brieux (Saskatchewan) ; l'abbé Jean Gaire, d'Alsace-Lorraine, consacre plus de vingt ans au sud-ouest du Manitoba et au sud-est de la Saskatchewan.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. d'André Lalonde, « The French Canadians of the West: Hope, Tragedy, Uncertainty »), p. 104-105.",
+    "note": "Point placé à Saint-Brieux ; Lalonde ne donne pas de date de fondation."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.45,
+     50.22
+    ]
+   },
+   "properties": {
+    "id": "FR93-12",
+    "nom": "Montmartre, Domrémy, Trochu, Fannystelle et Bruxelles : villages fondés par des aristocrates et des agents d'immigration",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1890.0,
+    "fin": 1914.999,
+    "date_edtf": "1890/1914",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [],
+    "description": "Parallèlement à l'effort du clergé, des laïcs (aristocrates, hommes d'affaires, agents d'immigration) contribuent à la colonisation française et belge des Prairies ; Trochu, Domrémy, Montmartre, Fannystelle et Bruxelles leur doivent leur existence.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. d'André Lalonde, « The French Canadians of the West: Hope, Tragedy, Uncertainty »), p. 104-105.",
+    "note": "Point placé à Montmartre (Saskatchewan), dates d'après la période de recrutement européen décrite par Lalonde."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.1,
+     52.32
+    ]
+   },
+   "properties": {
+    "id": "FR93-13",
+    "nom": "Vonda : la Société Saint-Jean-Baptiste de la Saskatchewan (1909) et l'Association catholique franco-canadienne (1912)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1909.0,
+    "fin": 1912.999,
+    "date_edtf": "1909/1912",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Albert Pascal",
+     "Antoine-Philippe Bérubé"
+    ],
+    "description": "En 1909, Mgr Albert Pascal, du diocèse de Prince Albert, soutenu par l'abbé Antoine-Philippe Bérubé, de Vonda, et l'abbé Eyre, de Bellevue, organise la Société Saint-Jean-Baptiste de la Saskatchewan. Les réunions préparatoires au premier Congrès de la langue française (Québec, 1912) donnent naissance à l'Association catholique franco-canadienne de la Saskatchewan. Bien plus tard, des habitants de Vonda porteront jusqu'en Cour suprême leur droit à l'instruction en français.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. d'André Lalonde, « The French Canadians of the West: Hope, Tragedy, Uncertainty »), p. 111, 116.",
+    "note": "Point placé à Vonda, paroisse de l'abbé Bérubé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.118,
+     49.888
+    ]
+   },
+   "properties": {
+    "id": "FR93-14",
+    "nom": "Saint-Boniface : l'Association d'éducation des Canadiens français du Manitoba (1916) et la radio CKSB (1946)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1916.0,
+    "fin": 1946.999,
+    "date_edtf": "1916/1946",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Adélard Langevin"
+    ],
+    "description": "Après la crise scolaire de 1890, qui abolit le français comme langue officielle et les écoles séparées publiques, l'Église ouvre des écoles privées et des commissaires francophones laissent enseigner en français malgré la loi. En 1908, Mgr Adélard Langevin propose une alliance provinciale fondée sur les sociétés Saint-Jean-Baptiste ; en 1916, après de nouvelles restrictions, les Franco-Manitobains fondent la French-Canadian Education Association. La radio française CKSB ouvre à Saint-Boniface en 1946.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. d'André Lalonde, « The French Canadians of the West: Hope, Tragedy, Uncertainty »), p. 109-111, 115.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.49,
+     53.54
+    ]
+   },
+   "properties": {
+    "id": "FR93-15",
+    "nom": "Edmonton : le Collège des Jésuites (1913), l'ACFA (1926) et la radio CHFA (1949)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1913.0,
+    "fin": 1949.999,
+    "date_edtf": "1913/1949",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Le Collège des Jésuites d'Edmonton ouvre en 1913. Après leur Société Saint-Jean-Baptiste et leur Société du parler français, les Franco-Albertains fondent en 1926 l'Association canadienne-française de l'Alberta. En 1936, l'Alberta remplace les petits districts scolaires par des unités régionales et les francophones perdent le contrôle de leurs écoles. La radio française CHFA entre en ondes à Edmonton en 1949.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. d'André Lalonde, « The French Canadians of the West: Hope, Tragedy, Uncertainty »), p. 111, 114-115.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.045,
+     42.33
+    ]
+   },
+   "properties": {
+    "id": "FR93-16",
+    "nom": "Détroit : la corporation de Sainte-Anne (1808) dépossédée par les évêques Rézé, Lefebvre et Borgess",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1808.0,
+    "fin": 1888.999,
+    "date_edtf": "1808/1888",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Frédéric Rézé",
+     "Peter-Paul Lefebvre",
+     "Caspar Henry Borgess",
+     "Théophile Anciaux"
+    ],
+    "description": "En 1808, des Canadiens de la traite des fourrures forment une corporation de marguilliers, propriétaire du terrain et de l'église Sainte-Anne, et non l'évêque. Dans les années 1830, Mgr Frédéric Rézé prend possession de Sainte-Anne et se sert de ses terrains pour financer églises et écoles d'immigrants européens ; Mgr Lefebvre, Belge, en vend une partie pour bâtir sa cathédrale ; Mgr Borgess, Allemand partisan de l'américanisation (1868), saisit le reste pour une dette de 50 000 $. Au milieu des années 1870, le curé Théophile Anciaux persuade les marguilliers de vendre le site pour 100 000 $, puis 198 000 $ : la vieille église ferme et deux paroisses la remplacent.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de D. Aidan McQuillan, « French-Canadian Communities in the Upper Midwest During the Nineteenth Century »), p. 133-134.",
+    "note": "D'après Télesphore Saint-Pierre, Histoire des Canadiens du Michigan (1895)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.02,
+     42.345
+    ]
+   },
+   "properties": {
+    "id": "FR93-17",
+    "nom": "Détroit, quartier est : la paroisse Saint-Joachim, le curé Maxime Laporte (1874) et les hommes masqués",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1874.0,
+    "fin": 1888.999,
+    "date_edtf": "1874/1888",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Maxime Laporte",
+     "J.-M. Dangelzer",
+     "Caspar Henry Borgess"
+    ],
+    "description": "Venu de Montréal en 1874 pour les immigrants canadiens qui affluent dans l'est de Détroit, le père Maxime Laporte ne reçoit de l'évêque que 40 000 $ du produit de la vente de Sainte-Anne pour la paroisse Saint-Joachim, contre 100 000 $ pour une nouvelle Sainte-Anne dans l'ouest, où vivent peu de Canadiens. Rappelé à Montréal, il en appelle à Rome. Son successeur, le père J.-M. Dangelzer, Alsacien à l'accent allemand, est menacé au presbytère par des hommes masqués et armés. Rome donne tort à Laporte mais Mgr Borgess doit faire des concessions en 1888. Entre-temps, des Canadiens ont quitté l'Église et les baptistes ont fondé une congrégation canadienne d'une centaine de familles.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de D. Aidan McQuillan, « French-Canadian Communities in the Upper Midwest During the Nineteenth Century »), p. 134-135.",
+    "note": "Point approximatif dans l'est de Détroit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.88,
+     41.15
+    ]
+   },
+   "properties": {
+    "id": "FR93-18",
+    "nom": "Bourbonnais : l'église de pierre de 1858, sur le modèle de celle de Cap-Saint-Ignace",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1858.0,
+    "fin": 1874.999,
+    "date_edtf": "1858/1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Après l'incendie de l'église de bois en septembre 1853, dont on soupçonne Chiniquy, les paroissiens de Bourbonnais bâtissent en 1858 une église de pierre dédiée à la Maternité de la Vierge, dont le style rappelle fortement la vieille église de Cap-Saint-Ignace, d'où venaient beaucoup des colons. Les sœurs de la Congrégation de Notre-Dame y ouvrent un couvent-école en 1861 ; les clercs de Saint-Viateur, de Joliette, un collège classique en 1865, qui reçoit une charte universitaire en 1874.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de D. Aidan McQuillan, « French-Canadian Communities in the Upper Midwest During the Nineteenth Century »), p. 122-123.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.748,
+     39.692
+    ]
+   },
+   "properties": {
+    "id": "FR93-19",
+    "nom": "Waterville (Kansas) : les premiers homesteaders canadiens venus de Kankakee gagnent les comtés de Cloud et de Clay (1868)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1868.0,
+    "fin": 1879.999,
+    "date_edtf": "1868/1879",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Les colonies canadiennes du Kansas doivent leur emplacement à la tête de ligne de Waterville et aux homesteads libres de la vallée de la Republican, où arrivent de Kankakee les premiers Canadiens en 1868. Trouvant les terres alluviales déjà prises, ils s'établissent un peu au sud de la rivière, dans l'est du comté de Cloud et l'ouest du comté de Clay, reprenant des homesteads abandonnés par des Américains. Presque tous ont vécu en Illinois ; il n'y a pratiquement pas de migration directe du Québec. Le français reste la langue dominante de Concordia, Aurora, Clyde et St. Joseph jusqu'aux années 1920.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de D. Aidan McQuillan, « French-Canadian Communities in the Upper Midwest During the Nineteenth Century »), p. 124-126.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.61,
+     46.5
+    ]
+   },
+   "properties": {
+    "id": "FR93-20",
+    "nom": "Marquette, Negaunee et Ishpeming : les mineurs canadiens de la Haute-Péninsule, renvoyés en 1861 et rappelés à l'été 1862",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1844.0,
+    "fin": 1862.999,
+    "date_edtf": "1844/1862",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "La découverte du cuivre de la Keweenaw dans les années 1840 et l'ouverture des mines de fer de la chaîne Marquette (1844) attirent d'abord d'anciens voyageurs restés dans le nord du Michigan, puis des immigrants arrivés à Chicago. Le canal du Sault-Sainte-Marie (1855) porte le coup de grâce aux transports des voyageurs. La baisse du prix des métaux en 1857 et au début de la guerre de Sécession fait partir les Canadiens du nord du Wisconsin en 1861-1862 ; la hausse de l'été 1862 les rappelle aux mines.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de D. Aidan McQuillan, « French-Canadian Communities in the Upper Midwest During the Nineteenth Century »), p. 130.",
+    "note": "Point placé à Negaunee."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.785,
+     38.005
+    ]
+   },
+   "properties": {
+    "id": "FR93-21",
+    "nom": "La Vieille Mine : l'église Saint-Joachim (1828), les conteurs payés en barytine et la Guignolée",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1828.0,
+    "fin": 1977.999,
+    "date_edtf": "1828/1977",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Médard Carrière",
+     "Tom Thebeau",
+     "Rosie Pratt",
+     "Noo Coleman"
+    ],
+    "description": "L'église Saint-Joachim de la Vieille Mine, bâtie en 1828, est l'une des plus anciennes à l'ouest du Mississippi. Les mineurs vivent par « hollows » d'une quinzaine de foyers et appellent toujours Potosi « Barton » (Mine à Breton). Dans les années 1930, Joseph-Médard Carrière y trouve plus de contes que de chansons : des mineurs donnaient au conteur un gros tas de barytine pour entendre l'histoire de Renaud de Montauban, qui durait toute une journée. La Guignolée du Nouvel An, chantée de porte en porte et suivie d'un bal, est l'institution la plus importante des Français du Missouri ; Noo Coleman la dit disparue vers 1971-1972.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gerald L. Gold, « Lead Mining and the Survival and Demise of French in Rural Missouri »), p. 143, 151-154.",
+    "note": "Gold a enquêté sur place en 1977."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.79,
+     37.937
+    ]
+   },
+   "properties": {
+    "id": "FR93-22",
+    "nom": "Mine à Breton : Breton, ancien soldat de Fort Duquesne, découvre la mine en 1763 et meurt à 111 ans (1821)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1763.0,
+    "fin": 1821.167,
+    "date_edtf": "1763/1821-03-01",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Asa Breton",
+     "Moses Austin",
+     "Philippe-François Renault"
+    ],
+    "description": "Selon Rozier, Breton, né en France en 1710 et soldat à la défaite de Braddock devant le fort Duquesne (1755), vient en Haute-Louisiane comme chasseur et mineur et découvre en chassant les mines qui portent son nom (1763). Il vit chez les Micheau, au-dessus de Sainte-Geneviève, va à pied à la messe tous les dimanches dans son grand âge, et meurt le 1er mars 1821, à 111 ans ; le père Henri Pratte l'inhume au cimetière catholique. Renault y avait fait travailler cinq cents esclaves de Saint-Domingue ; Moses Austin y introduit en 1802 le premier four à réverbère du Missouri et rebaptise le lieu Potosi.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Gerald L. Gold, « Lead Mining and the Survival and Demise of French in Rural Missouri »), p. 145-148.",
+    "note": "Gold écrit « Asa Breton » ; l'atlas a déjà François Azor dit Breton (H1)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.875,
+     49.235
+    ]
+   },
+   "properties": {
+    "id": "FR93-23",
+    "nom": "Maillardville (Coquitlam) : une centaine de familles québécoises recrutées pour les scieries de Fraser Mills (1908-1910)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1908.0,
+    "fin": 1910.999,
+    "date_edtf": "1908/1910",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Edmond Maillard"
+    ],
+    "description": "Pour apaiser les conflits raciaux entre ouvriers anglo-saxons et asiatiques de leur scierie de Fraser Mills, dite la plus grande du monde, les propriétaires envoient un prêtre irlandais recruter des ouvriers de scierie dans les Cantons-de-l'Est et la vallée de l'Outaouais. Près d'une centaine de familles arrivent en 1908-1910, avec emplois garantis pour elles et leurs fils. La compagnie contribue à l'église de la première paroisse, Notre-Dame-de-Lourdes, dont le premier curé, l'abbé Edmond Maillard, venu de France, donne son nom au village. Les Canadiens y travaillent en équipes sous des contremaîtres bilingues choisis parmi eux.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Paul Y. Villeneuve, « Maillardville: All Quiet on the Western Front »), p. 156-158.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.865,
+     49.24
+    ]
+   },
+   "properties": {
+    "id": "FR93-24",
+    "nom": "Maillardville : la paroisse Notre-Dame-de-Fatima accueille les réfugiés de Willow Bunch (années 1930)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1930.0,
+    "fin": 1939.999,
+    "date_edtf": "1930/1939",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Pendant la crise, une seconde paroisse, Notre-Dame-de-Fatima, est fondée à Maillardville pour recevoir des Canadiens français de Willow Bunch (Saskatchewan), chassés par la dépression et la sécheresse. Un courant migratoire s'établit entre Willow Bunch et Maillardville, comme celui des Cantons-de-l'Est et de l'Outaouais après 1908-1910. Après la guerre, la perte des écoles catholiques et françaises et la banlieue anglophone accélèrent l'assimilation.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Paul Y. Villeneuve, « Maillardville: All Quiet on the Western Front »), p. 158.",
+    "note": "Villeneuve situe la fondation pendant la crise sans date précise."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.975,
+     29.955
+    ]
+   },
+   "properties": {
+    "id": "FR93-25",
+    "nom": "Ti-béville (« Petite Abbeville ») : la raffinerie Texaco de 1902 attire les Cadiens près de Port Arthur",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1902.0,
+    "fin": 1921.999,
+    "date_edtf": "1902/1921",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "En 1902, Texaco ouvre sa première raffinerie de l'est du Texas et fonde une ville de compagnie à quelques milles au nord-ouest de Port Arthur ; les Cadiens qui y affluent sont si nombreux qu'on l'appelle Ti-béville, d'après Abbeville (Louisiane). Ils arrivent par le train interurbain via Beaumont ou par le bac de la Neches. Après l'ouragan de 1915 et pendant la Première Guerre mondiale, ils fournissent l'essentiel de la main-d'œuvre ; cette première vague prend fin vers 1921.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Dean R. Louder et Michael Leblanc, « The Cajuns of East Texas »), p. 310-311.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.958,
+     29.991
+    ]
+   },
+   "properties": {
+    "id": "FR93-26",
+    "nom": "Port Neches : première raffinerie syndiquée du Golden Triangle, avec les Cadiens (années 1940)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1940.0,
+    "fin": 1950.999,
+    "date_edtf": "1940/1950",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Labe Guidry"
+    ],
+    "description": "Village très cadien né de l'autre côté de la raffinerie de Ti-béville, Port Neches accueille les migrants de Louisiane, souvent arrivés à pied par le bac de la Neches. La première usine syndiquée y est celle de Port Neches, et les Cadiens jouent un rôle important dans la formation des syndicats, qui ouvrent la seconde vague migratoire des années 1940 (raffineries, caoutchouc synthétique Goodyear, marine marchande). En 1970, un habitant sur dix de Port Neches déclare le français comme langue maternelle.",
+    "sources": "Louder, Dean R., et Eric Waddell, dir. (1993), French America: Mobility, Identity, and Minority Experience Across the Continent, Baton Rouge, Louisiana State University Press (chap. de Dean R. Louder et Michael Leblanc, « The Cajuns of East Texas »), p. 304, 309-312.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.661,
+     45.626
+    ]
+   },
+   "properties": {
+    "id": "BSM-01",
+    "nom": "Oregon : Moyse Loiselle, de Saint-Marc, homme à tout faire du curé Augustin-Magloire Blanchet (vers 1854)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1854.0,
+    "fin": 1854.999,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Moyse Loiselle",
+     "Augustin-Magloire Blanchet"
+    ],
+    "description": "Né à Saint-Marc en 1819, fils aîné du capitaine de milice Prudent Loiselle, Moyse refuse à 35 ans de rester fermier chez son père et suit comme employé à tout faire l'abbé Augustin Blanchet, ancien desservant de Saint-Marc et curé de Saint-Charles (1830-1837), lors de sa seconde mission en Oregon. Il quitte ensuite l'Oregon pour accompagner les Sœurs de la Providence à Valparaiso, au Chili, où il épouse une Chilienne et meurt en 1884 sans être revenu au Canada ; sa correspondance avec sa famille de Saint-Marc a été conservée.",
+    "sources": "Lamarre, Nicole, avec Aurora Loiselle et Lise Blanchard (2018), « L'aventure américaine ; les pionniers et les autres », capsule patrimoniale, Société d'histoire de Cournoyer (225e de Saint-Marc-sur-Richelieu), p. 1.",
+    "note": "La capsule fait de F.-N. Blanchet l'« évêque de Fort Vancouver (Seattle) » : ce sont deux sièges distincts. Point hypothétique à Fort Vancouver."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.444,
+     35.367
+    ]
+   },
+   "properties": {
+    "id": "BSM-02",
+    "nom": "San Miguel del Vado : Charles Blanchard rejoint son oncle Michel Desmarais après cinq mois de voyage (1864)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1863.0,
+    "fin": 1864.999,
+    "date_edtf": "1863/1864",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Blanchard",
+     "Michel Desmarais",
+     "Frédéric Desmarais",
+     "Elzéar Blanchard"
+    ],
+    "description": "En 1863, Charles Blanchard (né à Saint-Marc en 1841), qui a séjourné à Belœil chez son oncle Elzéar Blanchard, prend les « gros chars » pour Saint-Louis et Kansas City avec son cousin Frédéric Desmarais, qui s'établira au Mexique. En 1864, après cinq mois de voyage, il rejoint à San Miguel, au Nouveau-Mexique, son oncle maternel Michel Desmarais, qui y a femme et enfants. Il devient l'homme de confiance et l'associé d'un marchand d'équipement de diligences entre Fort Stanton et Socorro.",
+    "sources": "Lamarre, Nicole, avec Aurora Loiselle et Lise Blanchard (2018), « L'aventure américaine ; les pionniers et les autres », capsule patrimoniale, Société d'histoire de Cournoyer (225e de Saint-Marc-sur-Richelieu), p. 1.",
+    "note": "Une vingtaine de lettres de Charles (1863-1893) sont conservées par Lise Blanchard. La capsule date l'établissement de Desmarais de 1825, contredit par l'atlas (C071, patriote de 1837) ; « Saint-Louis (Ohio) » corrigé en Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.218,
+     35.594
+    ]
+   },
+   "properties": {
+    "id": "BSM-03",
+    "nom": "Las Vegas (Nouveau-Mexique) : les frères Charles, Rodrigue et Napoléon Blanchard, marchands d'outillage agricole (1868-1893)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1868.0,
+    "fin": 1893.999,
+    "date_edtf": "1868/1893",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Blanchard",
+     "Marc-Rodrigue Blanchard",
+     "Pierre-Napoléon Blanchard",
+     "Manuel Blanchard"
+    ],
+    "description": "À Las Vegas, Charles Blanchard monte un commerce d'équipements agricoles et de marchandises de toutes sortes pour les pionniers, que ses frères Rodrigue et Napoléon viennent rejoindre ; ils le mènent de 1868 à 1893 malgré les crises, et Napoléon s'y marie en 1891. Son fils Manuel entre ensuite dans l'affaire. Charles écrit avoir souvent maudit ce pays ; il revient à Saint-Marc à la mort de sa mère en 1878 et envoie une de ses filles passer l'été chez son frère Émile pour apprendre le français. Selon Le Cournoyen, il épouse une Espagnole et meurt en 1914 ; ses frères Pierre-Napoléon (vers 1890) et Joseph-Alfred, forgeron, le rejoignent aux États-Unis.",
+    "sources": "Lamarre, Nicole, avec Aurora Loiselle et Lise Blanchard (2018), « L'aventure américaine ; les pionniers et les autres », capsule patrimoniale, Société d'histoire de Cournoyer (225e de Saint-Marc-sur-Richelieu) ; Lamarre, Nicole (2018), « Les Raynaud-Blanchard de Saint-Marc », Le Cournoyen, vol. 21, n° 4, p. 1-2.",
+    "note": "Complète A-L73 (magasin Desmarais puis Blanchard)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
