@@ -1160933,6 +1160933,475 @@
     "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 56-59.",
     "note": "Point au lac Itasca (Minnesota)."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.73,
+     28.82
+    ]
+   },
+   "properties": {
+    "id": "PM05-01",
+    "nom": "Fort Saint-Louis de La Salle (Garcitas Creek) : le canon de 1996 et la fouille du site",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1996.0,
+    "fin": 2002.999,
+    "date_edtf": "1996/2002~",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert Cavelier de La Salle",
+     "Henri Joutel"
+    ],
+    "description": "Sur un ranch privé dominant la rivière Garcitas, un chef d'équipe découvre en 1996 un canon enterré : c'est le site que les historiens appellent le fort Saint-Louis, plutôt un groupe de cabanes qu'un fort, établi par La Salle en 1685. Quand Philip Marchand le visite, journal de Joutel en main, la fouille entreprise par une équipe d'archéologues dure depuis près de trois ans, au lieu des six mois prévus, à cause d'une argile si dure qu'il faut la creuser à la pioche.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 2-3.",
+    "note": "Même point que les fiches du fort Saint-Louis du Texas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     28.53
+    ]
+   },
+   "properties": {
+    "id": "PM05-02",
+    "nom": "Indianola (baie de Matagorda) : la statue de La Salle de Bayside Beach (1928)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1928.667,
+    "fin": 1928.667,
+    "date_edtf": "1928-09",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Robert Cavelier de La Salle",
+     "Nora Sweetland"
+    ],
+    "description": "Le jour de la fête du Travail 1928, on inaugure près d'Indianola, à l'emplacement présumé du débarquement de La Salle, une statue de béton de l'explorateur, œuvre de Nora Sweetland, dans un « parc du mémorial de La Salle » destiné à lancer le lotissement de Bayside Beach. La Crise met fin au projet ; dans les années 1930, un ouragan jette la statue à terre, et des vandales emportent les morceaux. Il ne reste aujourd'hui que le piédestal et les bottes.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 41-42.",
+    "note": "Point approximatif à Indianola (Texas)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.09,
+     30.39
+    ]
+   },
+   "properties": {
+    "id": "PM05-03",
+    "nom": "Navasota : la statue de La Salle (1930) et le buste offert par la France (1976)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1930.0,
+    "fin": 1976.999,
+    "date_edtf": "1930/1976",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Robert Cavelier de La Salle"
+    ],
+    "description": "Près de l'endroit où La Salle fut tué en 1687, la ville de Navasota dresse en 1930 sur sa rue principale une statue de bronze de l'explorateur, tenant une carte du Nouveau Monde et tendant la main aux Autochtones ; l'inscription en fait un « bâtisseur d'empire ». En 1976, le Comité français pour le bicentenaire des États-Unis et l'Association France-Amérique y offrent en plus un buste de La Salle.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 60-61.",
+    "note": "Point à Navasota (Texas)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.015,
+     44.513
+    ]
+   },
+   "properties": {
+    "id": "PM05-04",
+    "nom": "Green Bay : les fresques de l'arrivée de Jean Nicolet (1910 et 1937)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1910.0,
+    "fin": 1937.999,
+    "date_edtf": "1910/1937",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Nicolet",
+     "Franz Rohrbeck",
+     "Anna Lou Matthews Bedore"
+    ],
+    "description": "Au palais de justice du comté de Brown, à Green Bay, une fresque de l'arrivée de Nicolet chez les Ho-Chunks, œuvre du peintre milwaukéen d'origine allemande Franz Rohrbeck, est inaugurée en 1910 : Nicolet y tire des coups de pistolet en l'air dans sa robe de damas chinoise. Une seconde fresque, terminée en 1937 au Neville Public Museum par l'artiste locale Anna Lou Matthews Bedore pour la Works Progress Administration, le montre assis en tailleur parmi les Winnebagos, un calumet à la main.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 236-237.",
+    "note": "Point au centre de Green Bay (Wisconsin)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.4,
+     41.916
+    ]
+   },
+   "properties": {
+    "id": "PM05-05",
+    "nom": "Monroe (rivière aux Raisins) : les « Mushrat French » et la fin du français au foyer (années 1930)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1930.0,
+    "fin": 1939.999,
+    "date_edtf": "1930/1939",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Dennis M. Au",
+     "Marcel Bénéteau"
+    ],
+    "description": "Selon Dennis M. Au, ancien directeur adjoint du musée historique du comté de Monroe, les années 1930 furent la dernière décennie où l'on parlait encore français dans les foyers du comté. Les descendants des Canadiens de la rivière aux Raisins, qui mangeaient le rat musqué le vendredi (« Dieu bénisse le rat musqué, c'est du poisson ! »), en avaient reçu le surnom de « Mushrats ». Au et l'ethnologue Marcel Bénéteau, de l'Université de Windsor, ont enregistré des centaines de leurs chansons et contes avant leur disparition.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 196-198.",
+    "note": "Point à Monroe (Michigan)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.254,
+     42.45
+    ]
+   },
+   "properties": {
+    "id": "PM05-06",
+    "nom": "Pittsfield (Massachusetts) : la première paroisse française (1867) et les coups de feu sur le confessionnal (1868)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1867.0,
+    "fin": 1868.999,
+    "date_edtf": "1867/1868",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Antoine Derbuel (abbé)"
+    ],
+    "description": "D'après un manuscrit inédit de Katherine F. Mullaney (Catholic Pittsfield, 1897), la première paroisse française de Pittsfield est fondée en 1867 pour une centaine de familles canadiennes-françaises. L'année suivante, quelqu'un tire plusieurs coups de feu par la fenêtre du confessionnal à l'heure où le curé, le père Derbuil, entend d'ordinaire les confessions ; absent ce jour-là, il en réchappe, et le tireur ne fut jamais arrêté.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 338-339.",
+    "note": "Marchand écrit « Derbuil » ; l'atlas a déjà l'abbé Antoine Derbuel à Pittsfield en 1868 (Hamon 1891). Marchand date la paroisse de 1867, Hamon de 1868."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.37,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": "PM05-07",
+    "nom": "Richard (Louisiane) : Charlene Richard, la « petite sainte cajun » (1959)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1959.0,
+    "fin": 1959.999,
+    "date_edtf": "1959",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Charlene Richard",
+     "Joseph Brennan (père)"
+    ],
+    "description": "Charlene Richard, fillette cajun de la paroisse St. Edward de Richard, dans la prairie cajun, fête ses douze ans en janvier 1959 ; en juillet, on lui diagnostique une leucémie avancée et elle entre à l'hôpital Notre-Dame-de-Lourdes de Lafayette, où le jeune aumônier Joseph Brennan l'invite à offrir ses souffrances pour d'autres. Elle meurt la même année. Sa tombe, au cimetière de l'église St. Edward, devient un lieu de pèlerinage : on y laisse des billets dans une boîte de verre, au pied d'une statue de la Vierge.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 361-368.",
+    "note": "Point au village de Richard (paroisse d'Acadie, Louisiane)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.069,
+     29.962
+    ]
+   },
+   "properties": {
+    "id": "PM05-08",
+    "nom": "La Nouvelle-Orléans : la paroisse Saint-Augustin des créoles noirs francophones (1842)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1842.0,
+    "fin": 1842.999,
+    "date_edtf": "1842",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jelly Roll Morton (Ferdinand Lamothe)",
+     "Marie-Jeanne Aliquot",
+     "Jérôme G. LeDoux (père)"
+    ],
+    "description": "Établie en 1842, la paroisse Saint-Augustin reste le cœur de la vie des catholiques créoles noirs francophones de La Nouvelle-Orléans. Marchand y rattache Jelly Roll Morton, né Ferdinand Lamothe, qui se vantait que « tous les gens comme lui étaient venus directement des rivages de France », et la mémoire de Marie-Jeanne Aliquot, Française arrivée en 1832 qui consacra sa vie à enseigner le catéchisme aux esclaves.",
+    "sources": "Marchand, Philip (2008), L'Empire fantôme. De ces Français qui ont failli conquérir l'Amérique du Nord, trad. Anne-Hélène Kerbiriou, Québec, Presses de l'Université Laval (éd. orig. Ghost Empire, 2005), p. 395-396.",
+    "note": "Point approximatif à l'église Saint-Augustin (Tremé)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "NMR2-01",
+    "nom": "Taos : Enrique Blanco, « natif du Canada », épouse María Guadalupe López (16 février 1832)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1832.124,
+    "fin": 1832.124,
+    "date_edtf": "1832-02-16",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Enrique Blanco"
+    ],
+    "description": "Le 16 février 1832, à Taos, l'enquête prénuptiale d'Enrique Blanco, étranger et célibataire, se dit natif du « Canada aux États-Unis du Nord » et dans le pays depuis un an et six mois ; il épouse María Guadalupe López. Il obtient dispense comme vagabond et faute de pouvoir prouver son baptême.",
+    "sources": "New Mexico Roots Ltd. (diligencias matrimoniales de l'archidiocèse de Santa Fe, 1678-1869), vol. 2 (noms Ba-Br), Drive de l'auteur, fichier Volume2.pdf, p. 232.",
+    "note": "Nom hispanisé : sans doute un Canadien du nom de Blanc ou Leblanc (hypothèse)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.891,
+     34.058
+    ]
+   },
+   "properties": {
+    "id": "NMR2-02",
+    "nom": "Socorro : Victor Bardaux, natif de France, épouse María Rafaela Gonzales de Lemitar (22 avril 1849)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1849.308,
+    "fin": 1849.308,
+    "date_edtf": "1849-04-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Victor Bardaux"
+    ],
+    "description": "Le 22 avril 1849, à Socorro, Victor Bardaux, 24 ans, cultivateur né en France et résidant aux États-Unis, fils de Pedro Bardaux et d'Angelica Gelin, épouse María Rafaela Gonzales, native de Lemitar, fille de Juan Albino Gonzales et de Balbina López.",
+    "sources": "New Mexico Roots Ltd. (diligencias matrimoniales de l'archidiocèse de Santa Fe, 1678-1869), vol. 2 (noms Ba-Br), Drive de l'auteur, fichier Volume2.pdf, p. 208.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.69,
+     31.52
+    ]
+   },
+   "properties": {
+    "id": "KE08-01",
+    "nom": "Colfax : la « Rigolette de Bon Dieu » et la vente de Jean-Baptiste Prudhomme (années 1830)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1832.0,
+    "fin": 1840.999,
+    "date_edtf": "1832/1840~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Prudhomme",
+     "Henry Shreve"
+    ],
+    "description": "En 1832, pendant les travaux de dégagement du Great Raft, la rivière Rouge déborde et s'empare d'un chenal circulaire que les habitants baptisent aussitôt la « Rigolette de Bon Dieu » ; la falaise ainsi créée deviendra le débarcadère de la plantation sur laquelle naîtra Colfax. La vente des 15 000 acres riverains passe par Jean-Baptiste Prudhomme, de Natchitoches, lui-même agent du propriétaire français détenteur d'un titre de la maison de Bourbon.",
+    "sources": "Keith, LeeAnna (2008), The Colfax Massacre: The Untold Story of Black Power, White Terror, and the Death of Reconstruction, New York, Oxford University Press, p. 5.",
+    "note": "Point à Colfax (Louisiane)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.0,
+     31.6
+    ]
+   },
+   "properties": {
+    "id": "KE08-02",
+    "nom": "Cane River : Narcisse Fredieu, témoin de la défense au procès de Colfax (1874)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1874.0,
+    "fin": 1874.999,
+    "date_edtf": "1874",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Narcisse Fredieu"
+    ],
+    "description": "Au procès des accusés du massacre de Colfax, plusieurs témoins jurent que le cordonnier Clement Penn regardait le combat du 13 avril 1873 depuis la maison de Narcisse Fredieu, sur la Cane River. Fredieu est l'un des rares Blancs de la région à oser témoigner pour la défense ; il n'est pourtant pas ami du Ku Klux Klan, qui l'a persécuté parce qu'il refusait de renier sa femme et ses enfants métis.",
+    "sources": "Keith, LeeAnna (2008), The Colfax Massacre: The Untold Story of Black Power, White Terror, and the Death of Reconstruction, New York, Oxford University Press, p. 141.",
+    "note": "Position hypothétique sur la Cane River (paroisse de Natchitoches) ; Keith ne situe pas la maison."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.72,
+     31.55
+    ]
+   },
+   "properties": {
+    "id": "KE08-03",
+    "nom": "Ferme de Jesse McKinney (paroisse de Grant) : le créole Denis Lemoine parmi les tueurs (5 avril 1873)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1873.261,
+    "fin": 1873.261,
+    "date_edtf": "1873-04-05",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Denis Lemoine",
+     "Prudhomme Lemoine"
+    ],
+    "description": "Le 5 avril 1873, des Blancs armés tuent le fermier noir Jesse McKinney devant sa famille, près du bac du bayou Darrow. Parmi les hommes identifiés par sa veuve figure Denis Lemoine, créole de la paroisse des Avoyelles, venu rejoindre ses cousins de la grande famille Lemoine de Natchitoches ; avec Bill Irwin, il sert ensuite d'éclaireur aux troupes blanches qui attaqueront le palais de justice de Colfax le 13 avril. Lemoine est jugé avec Prudhomme Lemoine et sept autres accusés ; les témoins l'impliquent particulièrement dans le meurtre de McKinney.",
+    "sources": "Keith, LeeAnna (2008), The Colfax Massacre: The Untold Story of Black Power, White Terror, and the Death of Reconstruction, New York, Oxford University Press, p. 88-89, 137-139.",
+    "note": "Position hypothétique près de Colfax."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.946,
+     39.069
+    ]
+   },
+   "properties": {
+    "id": "MB10-01",
+    "nom": "Arrow Rock : la « Pierre à Flèche » des explorateurs français",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1700.0,
+    "fin": 1803.999,
+    "date_edtf": "1700~/1803",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Les explorateurs français appelaient « Pierre à Flèche » les hautes falaises du Missouri où les Autochtones venaient depuis des générations tailler le silex en pointes de flèche ; le village qui s'y forma prit le nom d'Arrow Rock. Le gué et le bac de William Becknell y deviennent une étape de la piste de Santa Fe.",
+    "sources": "Barile, Mary Collins (2010), The Santa Fe Trail in Missouri, Columbia, University of Missouri Press (Missouri Heritage Readers), p. 114.",
+    "note": "Datation large : régime français et espagnol, avant 1803."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.55,
+     46.343
+    ]
+   },
+   "properties": {
+    "id": "FR08-01",
+    "nom": "Trois-Rivières : le jeune Radisson capturé par les Agniers (24 mai 1652)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1652.396,
+    "fin": 1652.396,
+    "date_edtf": "1652-05-24",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre-Esprit Radisson"
+    ],
+    "description": "À l'aube du 24 mai 1652, Pierre-Esprit Radisson et deux garçons de son âge quittent en cachette le bourg palissadé de Trois-Rivières pour chasser les oiseaux au bord du fleuve, en pleine « terreur iroquoise ». Radisson est pris par des Agniers (Mohawks) et adopté par une famille de ses ravisseurs ; il racontera l'épisode des années plus tard dans un récit en anglais conservé parmi les papiers de Samuel Pepys, à la Bodleian Library d'Oxford.",
+    "sources": "Fraïssé, Marie-Hélène (2008), Radisson. Indien blanc, agent double, Arles, Actes Sud, s. p. (epub).",
+    "note": "Point à Trois-Rivières."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.21,
+     43.1
+    ]
+   },
+   "properties": {
+    "id": "FR08-02",
+    "nom": "Sainte-Marie de Gannentaha (lac Onondaga) : le festin et la fuite des Français (19-20 mars 1658)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1658.216,
+    "fin": 1658.219,
+    "date_edtf": "1658-03-19/1658-03-20",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Esprit Radisson",
+     "Paul Ragueneau"
+    ],
+    "description": "Recruté comme interprète par le père Paul Ragueneau, Radisson est au fort Sainte-Marie, chez les Onondagas, quand les Français, menacés, préparent leur fuite : le 19 mars 1658, ils offrent à leurs hôtes un « festin à tout manger » et, la nuit venue, s'esquivent en barques sur les rivières encore prises par les glaces. Ils sont cinquante-trois, précise Ragueneau. Radisson avoue avoir été du parti qui voulait massacrer les Onondagas endormis ; les jésuites s'y opposèrent.",
+    "sources": "Fraïssé, Marie-Hélène (2008), Radisson. Indien blanc, agent double, Arles, Actes Sud, s. p. (epub).",
+    "note": "Point approximatif au site de Sainte-Marie de Gannentaha (Liverpool, New York)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.4,
+     57.0
+    ]
+   },
+   "properties": {
+    "id": "FR08-03",
+    "nom": "Port Nelson rebaptisé « rivière Bourbon » (1682-1684)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1682.0,
+    "fin": 1684.999,
+    "date_edtf": "1682/1684",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Esprit Radisson",
+     "Médard Chouart des Groseilliers"
+    ],
+    "description": "Après leur campagne de 1682-1683 à l'embouchure des rivières Nelson et Hayes, où ils ont eu raison de deux équipages anglais sans verser de sang, Radisson et Des Groseilliers plaident leur cause à Paris. En janvier 1684, Des Groseilliers écrit au ministre Seignelay : « J'espère que l'on ne me blâmera point d'avoir changé le nom de Port Nelson pour le nommer la rivière Bourbon. » Seignelay les reçoit sans les blâmer.",
+    "sources": "Fraïssé, Marie-Hélène (2008), Radisson. Indien blanc, agent double, Arles, Actes Sud, s. p. (epub).",
+    "note": "Même point que les fiches de la rivière Hayes (poste de Radisson)."
+   }
   }
  ]
 }
