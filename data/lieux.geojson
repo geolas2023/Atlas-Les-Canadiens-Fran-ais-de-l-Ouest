@@ -81433,6 +81433,445 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -84.29,
+     35.36
+    ]
+   },
+   "properties": {
+    "id": "AD05-02",
+    "nom": "Grand Tellico (pays cherokee) : Christian Priber, l'agent des Français, et son « empire » cherokee (1736-1743)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1736.0,
+    "fin": 1743.999,
+    "date_edtf": "1736/1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Christian Gottlieb Priber",
+     "James Adair"
+    ],
+    "description": "Selon Adair, les Français envoient en 1736 en Caroline un certain Priber, « gentilhomme d'humeur curieuse et spéculative », pour gagner les Cherokees. Installé à Grand Tellico, il vit, s'habille et se peint comme eux, se marie, apprend la langue, couronne empereur un vieux prêtre et se fait « principal secrétaire d'État » de cette cour. Il promet d'ouvrir une route d'eau vers La Nouvelle-Orléans et d'amener des Français pour enseigner la fabrication de la poudre. Il écrit un dictionnaire cherokee destiné à être publié à Paris. Les Cherokees refusent de le livrer au commissaire de Caroline du Sud ; Adair correspond un temps avec lui.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 258-261.",
+    "note": "Priber est un Saxon ; Adair le donne pour un agent des Français, ce que Braund tient pour douteux."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.9,
+     32.53
+    ]
+   },
+   "properties": {
+    "id": "AD05-03",
+    "nom": "Ville des Tallapoosas : arrestation de Priber en route vers Mobile et le fort Toulouse (1743)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1743.0,
+    "fin": 1743.999,
+    "date_edtf": "1743",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Christian Gottlieb Priber"
+    ],
+    "description": "La cinquième année de son « empire », Priber part pour Mobile avec quelques Cherokees ; il descend la rivière jusqu'à une journée du fort des Alibamons et passe la nuit à la ville des Tallapoosas. Les traiteurs anglais des environs l'y font arrêter avec un gros paquet de manuscrits et l'envoient à Frederica, en Géorgie, où il meurt en détention.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 260-261.",
+    "note": "Point approximatif à Tallassee."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6,
+     33.9
+    ]
+   },
+   "properties": {
+    "id": "AD05-04",
+    "nom": "Chemin des Chicachas : deux traiteurs anglais tués par des Chactas « poussés par les Français du fort Tombecbé » (octobre 1745)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1745.75,
+    "fin": 1745.75,
+    "date_edtf": "1745-10",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "James Adair"
+    ],
+    "description": "L'associé d'Adair et un employé sont tués sur le vieux chemin des Chicachas par vingt Chactas, qu'Adair dit envoyés par « les Français chrétiens de la garnison de Tumbikpe » ; les rapports français notent bien deux Anglais tués entre Coweta et les Chicachas en octobre 1745. C'est pour venger ce sang qu'Adair, resté seul l'été suivant chez les Chicachas, pousse les Chactas à prendre la hache contre les Français.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 258, 532.",
+    "note": "Lieu exact inconnu ; point hypothétique sur le chemin des Creeks aux Chicachas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.55,
+     32.75
+    ]
+   },
+   "properties": {
+    "id": "AD05-05",
+    "nom": "Couëchitto, ville de Soulier Rouge : la révolte chacta contre les Français et la mort de Verbois (1746)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1746.167,
+    "fin": 1746.619,
+    "date_edtf": "1746-03/1746-08-14",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Soulouche Oumastabé (Soulier Rouge)",
+     "Henri de Verbois dit Baussière",
+     "Chambly",
+     "James Adair",
+     "John Campbell"
+    ],
+    "description": "Un Français du fort Tombecbé est surpris avec la femme préférée de Soulier Rouge (Shulashummashtabe), chef de Couëchitto. Adair et John Campbell lui envoient des présents au nom des Anglais et des Chicachas ; Soulier Rouge rompt avec les Français. Ses guerriers tuent trois Français, dont le cadet Henri de Verbois, dit Baussière, chargé des présents au Yazoo de l'Ouest et accusé avec le subalterne Chambly du viol. Adair raconte que Soulier Rouge, prévenu de la fuite d'un colporteur français à cheval, le rattrape à la course en une quinzaine de milles sur le chemin plat du fort Tombecbé et le scalpe avant l'arrivée des autres.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 6-7, 322-325, 453, 468.",
+    "note": "Braund date les meurtres du 14 août (imprimé « 1756 », pour 1746). Point approximatif de Couëchitto (Concha), division de l'Est."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "AD05-06",
+    "nom": "Ooe-Asah et le fort Toulouse : les scalps français envoyés au fort dans une peau blanche (1746)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1746.0,
+    "fin": 1746.999,
+    "date_edtf": "1746",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "James Adair",
+     "Soulier Rouge"
+    ],
+    "description": "Arrivé à Ooe-Asah, ville chicacha et natchez chez les Creeks d'en haut, Adair voit venir les guerriers de Soulier Rouge avec les scalps français. Les traiteurs creeks, qui commercent avec le fort des Alibamons, obtiennent que les scalps soient portés au fort Toulouse, à soixante-dix milles, enveloppés dans une peau de chevreuil blanche, pour y être enterrés, au lieu d'aller au gouverneur de Caroline. Les sources françaises confirment : Abihkas, Tallapoosas et Alibamons « détestaient de tout leur cœur » le geste des Chactas.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 326, 547.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.35,
+     34.02
+    ]
+   },
+   "properties": {
+    "id": "AD05-07",
+    "nom": "Établissements français de la rive ouest du Mississippi : le raid chicacha et creek en pirogues prises aux Français (mai 1747)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1747.333,
+    "fin": 1747.333,
+    "date_edtf": "1747-05",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Payamataha",
+     "James Adair"
+    ],
+    "description": "Une cinquantaine de Creeks partis contre les Quapaws se joignent aux Chicachas de Payamataha. Ils descendent le Mississippi dans des canots d'écorce de cyprès, menés par trois « amiraux » dans de longues pirogues prises aux Français qui montaient de La Nouvelle-Orléans aux Illinois. À l'aube, ils brûlent un grand village français pourtant protégé par un fort de pieux ; Payamataha y est blessé d'un coup de mitraille, et les assaillants tuent la plupart de leurs captifs sur la rive ouest, puis ravagent les établissements alentour.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 327-328, 547.",
+    "note": "Braund date l'affaire de mai 1747 (MPAFD). Adair ne nomme pas le poste ; le point au poste des Arkansas est hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.6,
+     33.5
+    ]
+   },
+   "properties": {
+    "id": "AD05-08",
+    "nom": "Sur le chemin des Chicachas aux Chactas : Soulier Rouge assassiné pour une récompense du commandant de Tombecbé (1747)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1747.0,
+    "fin": 1747.999,
+    "date_edtf": "1747~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Soulier Rouge",
+     "Pierre Annibal Develle",
+     "John Campbell"
+    ],
+    "description": "Malade, Soulier Rouge se couche à l'écart du camp pendant qu'il escorte vers son pays le traiteur Campbell et d'autres Anglais. Un des siens, tenté par la récompense offerte par les Français, le soigne avec empressement, puis le tue d'un coup de fusil dans le dos et s'échappe en se glissant dans une crevasse. Braund précise que l'assassinat fut organisé par Pierre Annibal Develle, commandant du fort Tombecbé, où le meurtrier se réfugia aussitôt. Campbell est tué deux ans plus tard près des villages chicachas et son scalp porté au fort Tombecbé.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 9-10, 334.",
+    "note": "Lieu exact inconnu ; point hypothétique sur le chemin."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7,
+     34.26
+    ]
+   },
+   "properties": {
+    "id": "AD05-09",
+    "nom": "Villages chicachas : des Indiens alliés des Français attaquent les maisons des traiteurs anglais (1748)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1748.0,
+    "fin": 1748.999,
+    "date_edtf": "1748",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "James Adair"
+    ],
+    "description": "En 1748, les Français envoient un parti de leurs Indiens contre les maisons des traiteurs anglais chez les Chicachas. Ils frappent d'abord à celle d'Adair, à la frontière, en imitant le grattement des jeunes filles en visite la nuit, puis se rabattent sur celle d'un autre traiteur, où une jeune femme est blessée d'une balle en sortant ; le traiteur la sauve et un médecin indien la guérit.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 358.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "AD05-10",
+    "nom": "Fort Toulouse : les trois captifs français des Chicachas rendus au commandant (1749-1750)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1749.667,
+    "fin": 1750.999,
+    "date_edtf": "1749-09/1750",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Payamataha",
+     "James Adair"
+    ],
+    "description": "Adair rachète trois Français pris par les Chicachas de Payamataha et les lui donne pour son entrée triomphale à Charleston ; ils n'ont plus rien de chrétien qu'un chapelet surmonté d'une petite croix d'argent. Les commandants du fort Tombecbé et du fort des Alibamons tentent de les reprendre, par une embuscade chacta dans un défilé et par une ambassade creek que Payamataha rabroue. Retardés par la petite vérole chez les Creeks, les Chicachas finissent par remettre les captifs au commandant du fort Toulouse, qui les paie et boit avec eux.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 336-343.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "AD05-11",
+    "nom": "Fort Toulouse : Adair prisonnier des Français pendant trois semaines (été 1750)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1750.417,
+    "fin": 1750.583,
+    "date_edtf": "1750-06/1750-08",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "James Adair"
+    ],
+    "description": "Ruiné et désavoué à Charleston, Adair passe, dit-on, « chez les Français ». Pendant trois semaines de l'été 1750, il est l'« hôte » du fort Toulouse : selon lui, « Monsieur » tente de l'acheter pour 32 000 livres, puis le fait prisonnier pour l'envoyer juger à Mobile « pour toutes les conséquences de la guerre des Chactas ». Il s'évade, échappant à la garnison et aux partis alibamons lancés à ses trousses.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 24.",
+    "note": "Récit d'Adair dans une lettre à William Pinckney, rapporté par Braund."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "AD05-12",
+    "nom": "Fort Toulouse : un milicien français fusillé sur l'exigence des Creeks (1740)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1740.0,
+    "fin": 1740.999,
+    "date_edtf": "1740",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "James Adair"
+    ],
+    "description": "En 1740, sur un faux soupçon, les Creeks forcent par leurs menaces le commandant du fort des Alibamons à faire exécuter un soldat de la milice. Conduit au poteau, l'homme demande une bouteille de vin pour mourir avec la fermeté « d'un honnête guerrier français », la boit, proteste de son innocence et est fusillé.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 306, 544.",
+    "note": "Aucune source française ne confirme l'exécution ; Patricia Galloway accepte le témoignage d'Adair."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.17,
+     32.65
+    ]
+   },
+   "properties": {
+    "id": "AD05-13",
+    "nom": "Fort Tombecbé : colporteurs, médailles et armuriers, le commerce des Français chez les Chactas (années 1740-1750)",
+    "corpus": "Recherches",
+    "theme": "lieu",
+    "debut": 1736.0,
+    "fin": 1763.999,
+    "date_edtf": "1736/1763",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "James Adair"
+    ],
+    "description": "Adair décrit le système français : le commandant de Tombecbé, choisi pour sa connaissance de la langue et des coutumes, surveille la traite ; trois ou quatre colporteurs seulement partent à la fois avec ce que contient un petit baril, et reviennent au fort avant que d'autres sortent. Les Français paient pensions et médailles aux chefs et orateurs, tiennent une liste alphabétique des chefs, envoient un armurier dans chaque nation et ne donnent d'armes qu'aux Chactas qui vont en guerre contre les Chicachas. Ils songent, vers 1747, à déplacer la garnison sur la Potagahatche. Après 1763, deux villes koasatis s'établissent à vingt-cinq milles en aval du fort.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 281, 297-298, 301, 318, 321, 333.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.42,
+     35.1
+    ]
+   },
+   "properties": {
+    "id": "AD05-14",
+    "nom": "Gorge du Tennessee (le « Suck ») : la pirogue de munitions envoyée de La Nouvelle-Orléans aux Cherokees doit rebrousser chemin (vers 1759)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1759.0,
+    "fin": 1759.999,
+    "date_edtf": "1759~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Le Grand Mortier",
+     "Louis Billouart de Kerlerec"
+    ],
+    "description": "Averti par le Grand Mortier que les Cherokees vont rompre avec les Anglais, le commandant du fort des Alibamons envoie un paquet, relayé par Tombecbé, au gouverneur de La Nouvelle-Orléans : c'est l'occasion de s'établir au confluent du Tellico et du Tennessee, où se trouvait le fort Loudoun. Une grande pirogue chargée de munitions et de présents remonte le Mississippi et le Tennessee pendant trois lunes, mais s'arrête à cent vingt milles des villes cherokees devant une cataracte infranchissable ; les Français attendent en vain puis retournent à La Nouvelle-Orléans.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 283, 538.",
+    "note": "Samuel Cole Williams identifie la cataracte au « Boiling Pot » ou « Suck », près de Hale's Bar, en aval de Chattanooga. Une délégation cherokee était allée à La Nouvelle-Orléans fin 1756."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.04,
+     30.69
+    ]
+   },
+   "properties": {
+    "id": "AD05-15",
+    "nom": "Mobile : la cession aux Anglais et la promesse française de revenir dans trois ans (1763-1764)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1763.75,
+    "fin": 1764.999,
+    "date_edtf": "1763-10/1764",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Annibal Develle"
+    ],
+    "description": "Au moment de la remise de Mobile, le commandant français fait dire aux Chactas par un habile interprète que le roi n'a cédé la place que pour la paix et que les Français reviendront dans trois ans voir ce que les Anglais en auront fait. Les Chactas des villes du bas paradent avec leurs scalps chicachas repeints et demandent aux Français leur accord pour reprendre la guerre, que ceux-ci refusent. Craignant le gouvernement militaire, la plupart des habitants français se retirent à La Nouvelle-Orléans. Adair note qu'à quarante milles en amont, les Français n'avaient eu qu'un petit établissement d'une seule rangée de plantations le long de la rivière.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 296, 298, 318-319.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.25,
+     32.51
+    ]
+   },
+   "properties": {
+    "id": "AD05-16",
+    "nom": "Fort Toulouse : l'évacuation française et le refus des Alibamons d'y recevoir les Anglais (1763-1764)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1763.833,
+    "fin": 1764.0,
+    "date_edtf": "1763-11/1764-01",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Les Français évacuent le fort des Alibamons entre novembre 1763 et janvier 1764 ; à la demande des villes alibamones, les Anglais ne l'occupent pas. Les Creeks refusent dédaigneusement l'armurier et les autres services que les Français leur assuraient aux frais du roi ; les Koasatis voisins du fort partent un temps s'établir près de Tombecbé.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 281, 301, 542.",
+    "note": "Dates d'après Daniel H. Thomas, Fort Toulouse (1989), cité par Braund."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.66,
+     31.85
+    ]
+   },
+   "properties": {
+    "id": "AD05-17",
+    "nom": "Fort des Natchez près du Bayou d'Argent : le siège français (1731)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1731.0,
+    "fin": 1731.0,
+    "date_edtf": "1731-01",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Après le soulèvement de 1729, les Natchez bâtissent un fort de pieux à l'ouest de leurs anciens champs, près d'un lac qui communique avec le Bayou d'Argent. Selon Adair, près de deux mille réguliers et miliciens français, avec un grand corps de Chactas, l'investissent ; une sortie furieuse des assiégés aurait détruit la troupe sans les Chactas. Bombardés avec trois mortiers, les Natchez s'enfuient ; plusieurs captifs sont brûlés à La Nouvelle-Orléans et d'autres envoyés comme esclaves aux Antilles, mais la plupart se réfugient chez les Chicachas, ce qui entraîne la guerre française contre ceux-ci.",
+    "sources": "Adair, James (1775), The History of the American Indians, éd. Kathryn E. Holland Braund, Tuscaloosa, University of Alabama Press, 2005, p. 355-356.",
+    "note": "Adair parle de « l'été suivant » ; le siège eut lieu en janvier 1731. Point approximatif à l'île Sicily (Louisiane)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -106.08,
      28.635
     ]
@@ -81453,6 +81892,801 @@
     "description": "En 1826, Beaubien obtient du gouvernement mexicain l'une des premières guías, la no 23, pour aller commercer à Chihuahua. Sa caravane emporte 2 000 verges de tissu, cinq douzaines de miroirs, des parapluies, des rubans, cent paires de souliers, des boutons, des peignes et de la rassade. L'affaire est profitable : Beaubien, peu porté sur la vie au grand air, commence à se voir en marchand plutôt qu'en trappeur, avant de se fixer à Taos et d'y épouser Pabla Lovato en décembre 1827.",
     "sources": "Gutiérrez, Priscilla Shannon (v. 2007), « Carlos Beaubien », Taos County, New Mexico (notice biographique en ligne).",
     "note": "Gutiérrez ne cite pas la source de la guía ; Weber (1971) et Grassham (1983) figurent dans sa bibliographie."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.19,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "HO71-01",
+    "nom": "Saint-Louis : Luttig puis Clark tuteurs de Lizette et de « Toussaint » Charbonneau (août 1813)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1813.417,
+    "fin": 1813.583,
+    "date_edtf": "1813-06/1813-08",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "John C. Luttig",
+     "William Clark",
+     "Lizette Charbonneau",
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "À l'abandon du fort Manuel, au printemps 1813, le commis John Luttig emmène la petite fille que Sacagawea a laissée en mourant, Lizette. Arrivé à Saint-Louis en juin, il demande en août au tribunal la tutelle de Lizette et d'un garçon d'environ dix ans appelé « Toussaint » ; dans le registre, son nom est ensuite rayé et remplacé par celui de William Clark. Howard pense que ce « Toussaint » est en fait Jean-Baptiste. Luttig meurt en 1815.",
+    "sources": "Howard, Harold P. (1971), Sacajawea, Norman, University of Oklahoma Press, p. 161, 170.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.59,
+     39.05
+    ]
+   },
+   "properties": {
+    "id": "HO71-02",
+    "nom": "Westport (Missouri) : baptême de Victoire, fille de Joseph Vertifeuille et d'Elizabeth Carboneau, peut-être Lizette (23 avril 1843)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1843.31,
+    "fin": 1843.31,
+    "date_edtf": "1843-04-23",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Vertifeuille",
+     "Elizabeth Carboneau",
+     "Lizette Charbonneau"
+    ],
+    "description": "On ne sait ce qu'est devenue Lizette, la fille de Sacagawea et de Toussaint Charbonneau. Le 23 avril 1843, une fillette nommée Victoire, fille de Joseph Vertifeuille et d'Elizabeth Carboneau, est baptisée à Westport ; Howard juge « au moins possible » que la mère soit Lizette.",
+    "sources": "Howard, Harold P. (1971), Sacajawea, Norman, University of Oklahoma Press, p. 162.",
+    "note": "Identification conjecturale."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.81,
+     40.08
+    ]
+   },
+   "properties": {
+    "id": "HO71-03",
+    "nom": "Fort Lupton : un engagé français tué le 4 juillet, sa veuve shoshone part avec Frémont (juillet 1843)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1843.508,
+    "fin": 1843.547,
+    "date_edtf": "1843-07-04/1843-07-18",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "John Charles Frémont"
+    ],
+    "description": "Frémont rapporte qu'un engagé français du fort Lupton a été tué d'une balle dans le dos le 4 juillet 1843. Sa veuve, une Indienne de la nation des Serpents, demande à suivre l'expédition jusqu'à la rivière aux Ours pour rejoindre les siens ; elle part avec ses deux enfants métis, cinq ou six chevaux de bât et une petite tente que Frémont lui donne, et quitte la troupe le 18 juillet près de la Ham's Fork, espérant trouver des Shoshones au nouveau fort Bridger. Grace Raymond Hebard voyait en elle Sacagawea revenant chez son peuple.",
+    "sources": "Howard, Harold P. (1971), Sacajawea, Norman, University of Oklahoma Press, p. 177.",
+    "note": "Le nom de l'engagé n'est pas donné. L'identification à Sacagawea relève de la tradition rapportée par Hebard."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.88,
+     43.0
+    ]
+   },
+   "properties": {
+    "id": "HO71-04",
+    "nom": "Réserve de Wind River (Fort Washakie) : la tradition shoshone d'une Sacagawea morte en 1884",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1884.0,
+    "fin": 1884.999,
+    "date_edtf": "1884",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Sacagawea",
+     "Toussaint Charbonneau",
+     "John Roberts",
+     "Grace Raymond Hebard",
+     "Charles A. Eastman"
+    ],
+    "description": "Selon la tradition recueillie par Grace Raymond Hebard et Charles A. Eastman, Sacagawea, battue par Charbonneau qui avait pris une jeune épouse ute, l'aurait quitté, aurait vécu chez les Comanches, puis serait revenue chez les Shoshones, retrouvant son fils Baptiste et son fils adoptif Bazil. Le révérend John Roberts présida en 1884 aux funérailles d'une vieille femme qu'il croyait être Sacagawea. Howard oppose à ce récit le journal de Luttig, qui note sa mort au fort Manuel en décembre 1812.",
+    "sources": "Howard, Harold P. (1971), Sacajawea, Norman, University of Oklahoma Press, p. 162, 175-178.",
+    "note": "Tradition orale contestée."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.21,
+     46.81
+    ]
+   },
+   "properties": {
+    "id": "BE19-01",
+    "nom": "Stadaconé : les colliers d'esurgny offerts à Cartier et à Donnacona (1535-1536)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1535.667,
+    "fin": 1536.333,
+    "date_edtf": "1535-09/1536-05",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Jacques Cartier",
+     "Donnacona"
+    ],
+    "description": "Bernand s'appuie sur Cartier pour montrer la valeur des coquillages dans les Amériques : à Stadaconé, les petits coquillages blancs que Cartier appelle esurgny sont « la plus précieuse chose qu'ils aient en ce monde » ; on en fait des colliers dont on use comme « nous faisons d'or et d'argent » et qui, disent les Français, arrêtent les saignements de nez. Au départ de Cartier pour la France avec Donnacona, en 1536, les femmes puis les sujets du chef apportent des colliers et des paquets de peaux de castor et de loup marin, avec un couteau de cuivre rouge venu du Saguenay ; Cartier reçoit aussi son collier.",
+    "sources": "Bernand, Carmen (2019), Histoire des peuples d'Amérique, Paris, Fayard, p. 77-78 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.5,
+     47.3
+    ]
+   },
+   "properties": {
+    "id": "BE19-02",
+    "nom": "Pays montagnais, au sud du Saint-Laurent : le père Le Jeune et le chaman Carigonan (hiver 1633-1634)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1633.75,
+    "fin": 1634.25,
+    "date_edtf": "1633-10/1634-04",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Paul Le Jeune",
+     "Carigonan"
+    ],
+    "description": "Bernand évoque l'hiver que le jésuite Paul Le Jeune passe dans la cabane du vieux chaman Carigonan : le jour à chasser, la nuit à débattre dans la fumée de l'immortalité de l'âme. Elle y voit l'exemple des « joutes » entre missionnaires et chamanes, les Indiens tenant les « Robes noires » pour de puissants sorciers capables de répandre les maladies.",
+    "sources": "Bernand, Carmen (2019), Histoire des peuples d'Amérique, Paris, Fayard, p. 317 (PDF).",
+    "note": "Bernand écrit « Hurons » ; Le Jeune hivernait en fait avec des Montagnais (Innus), dans les Appalaches au sud de l'estuaire. Point hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.78,
+     45.67
+    ]
+   },
+   "properties": {
+    "id": "BE19-03",
+    "nom": "Île Royale et Mi'kmaq : les hiéroglyphes de l'abbé Pierre Maillard (années 1740-1750)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1738.0,
+    "fin": 1762.999,
+    "date_edtf": "1738/1762",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Maillard"
+    ],
+    "description": "En Nouvelle-France, l'abbé Pierre Maillard transcrit en pictogrammes le catéchisme de l'abbé Fleury pour en faciliter la lecture aux Mi'kmaq ; Bernand compare ces catéchismes, « bien plus rustiques », aux catéchismes testériens du Mexique, et note que les missionnaires y encourageaient une pensée millénariste en comparant les Mi'kmaq au peuple élu d'Israël.",
+    "sources": "Bernand, Carmen (2019), Histoire des peuples d'Amérique, Paris, Fayard, p. 293, 308 (PDF).",
+    "note": "Point hypothétique à la mission de Maillard, île Sainte-Famille (Chapel Island), Cap-Breton."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -137.6,
+     58.62
+    ]
+   },
+   "properties": {
+    "id": "BE19-04",
+    "nom": "Baie Lituya (« Port des Français », Alaska) : La Pérouse chez les Tlingits (juillet 1786)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1786.5,
+    "fin": 1786.5,
+    "date_edtf": "1786-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-François de La Pérouse"
+    ],
+    "description": "Au cours de son voyage autour du monde, La Pérouse entre dans la baie Lituya qu'il baptise Port des Français. Les Tlingits prennent La Boussole et L'Astrolabe pour d'énormes oiseaux-tonnerre. Pour La Pérouse, l'étude du marché des pelleteries compte autant que la science ; il dénonce la chasse intensive des mammifères marins et l'inertie des Espagnols.",
+    "sources": "Bernand, Carmen (2019), Histoire des peuples d'Amérique, Paris, Fayard, p. 446 (PDF).",
+    "note": "Bernand le fait remonter de Monterey vers l'Alaska ; en réalité il toucha l'Alaska en juillet 1786 avant de descendre à Monterey en septembre. Date ajoutée d'après le journal de La Pérouse."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.48,
+     48.83
+    ]
+   },
+   "properties": {
+    "id": "SG32-01",
+    "nom": "Gaspé : escale du récollet Sagard en route vers les Hurons (juin 1623)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1623.417,
+    "fin": 1623.417,
+    "date_edtf": "1623-06",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Sagard",
+     "Nicolas Viel"
+    ],
+    "description": "Parti de Paris à pied le 18 mars 1623 avec le père Nicolas Viel, Sagard s'embarque à Dieppe ; la traversée dure cent trois jours. À Gaspé, où le grand vaisseau reste au port, il se promène sur les hautes montagnes pour contempler l'embouchure du Saint-Laurent, voit homards, truites, levrauts et perdrix, puis passe dans la pinasse la Magdeleine pour gagner Tadoussac en longeant les monts Notre-Dame encore enneigés.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 117, 135-137.",
+    "note": "Le texte imprimé porte 1624 ; Warwick corrige en 1623."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.71,
+     48.14
+    ]
+   },
+   "properties": {
+    "id": "SG32-02",
+    "nom": "Tadoussac, pointe aux Vaches : le village fortifié des Montagnais visité par Sagard (1623)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1623.417,
+    "fin": 1623.417,
+    "date_edtf": "1623-06",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Sagard",
+     "François Gravé du Pont",
+     "Nicolas Marsolet"
+    ],
+    "description": "À la rade de Tadoussac, sur le haut de la pointe aux Vaches, se dresse un village de « Canadiens » (Montagnais) fortifié à la manière huronne. Pendant que le navire attend la marée, Sagard descend visiter les cabanes. Il décrit le petit port, où ne tiennent que vingt ou vingt-cinq vaisseaux, d'où des barques portent les marchandises à Québec, et rapporte comment Gravé du Pont faillit s'y perdre. Un groupe de Français s'y trouve, dont Nicolas Marsolet.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 139-141.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.235,
+     46.82
+    ]
+   },
+   "properties": {
+    "id": "SG32-03",
+    "nom": "Québec, rivière Saint-Charles : le petit couvent des Récollets (1620-1623)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1620.0,
+    "fin": 1623.999,
+    "date_edtf": "1620/1623",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Sagard",
+     "Joseph Le Caron",
+     "Samuel de Champlain"
+    ],
+    "description": "Les Récollets, arrivés avec Champlain en 1615, mettent en chantier en 1619 un couvent sur la rivière Saint-Charles, dont la première pierre est posée en 1620 ; ils gardent aussi la chapelle de Québec. En 1623, Sagard et ses compagnons s'y reposent deux ou trois jours avant de remonter le fleuve avec les barques de la traite. Sagard décrit l'habitation de Champlain et la ferme où l'on élève du bétail venu de France et sème du maïs et des pois.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 85, 145-147.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0,
+     46.07
+    ]
+   },
+   "properties": {
+    "id": "SG32-04",
+    "nom": "Cap de Victoire (Onthrandéen), près de Sorel : la traite de 1623 et le départ avec les Hurons (22 juillet 1623)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1623.558,
+    "fin": 1623.558,
+    "date_edtf": "1623-07-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Sagard",
+     "Joseph Le Caron",
+     "Nicolas Viel"
+    ],
+    "description": "Les barques remontent par Sainte-Croix, les Trois-Rivières et le lac Saint-Pierre jusqu'au cap de Victoire, que les Hurons appellent Onthrandéen et où se tient la traite entre Français et nations diverses ; on y arrive le jour de la Sainte-Madeleine. Les Hurons, contre quelques présents, acceptent d'emmener chez eux les pères Joseph Le Caron et Nicolas Viel et le frère Sagard. Le nom de Victoire, ou de Massacre, rappelle peut-être la défaite d'Iroquois par des Algonquins aidés de Champlain en 1610.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 148-149.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.6,
+     45.95
+    ]
+   },
+   "properties": {
+    "id": "SG32-05",
+    "nom": "Baie Georgienne : deux jours de traite chez les Cheveux-Relevés (août 1623)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1623.583,
+    "fin": 1623.583,
+    "date_edtf": "1623-08",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Sagard"
+    ],
+    "description": "Avant d'atteindre la Huronie, le canot de Sagard s'arrête deux jours chez les Cheveux-Relevés (Outaouais), venus s'établir près de la mer douce pour commercer avec les Hurons qui reviennent de la traite de Québec. Sagard décrit leurs cheveux dressés sur le front « plus droits que les perruques des dames », tenus par un fer ou une hache chaude.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 158.",
+    "note": "Point hypothétique près de l'embouchure de la rivière des Français."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.97,
+     44.65
+    ]
+   },
+   "properties": {
+    "id": "SG32-06",
+    "nom": "Ossossané (Tequenonquiaye, « La Rochelle ») : arrivée de Sagard en Huronie et son adoption (20 août 1623)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1623.635,
+    "fin": 1623.635,
+    "date_edtf": "1623-08-20",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Sagard"
+    ],
+    "description": "Après avoir traversé la mer douce d'île en île, Sagard prend terre en Huronie le dimanche de la Saint-Bernard, vers midi, du côté de Penetanguishene, et traverse la péninsule à pied. Il est accueilli comme parent dans une famille du bourg, probablement Tequenonquiaye, ville principale des Ours, que des Français appelaient La Rochelle, les Récollets Saint-Gabriel et les Jésuites Ossossané : la mère l'appelle « mon fils », les autres « mon frère », « mon neveu » ou « mon oncle ».",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 161-162.",
+    "note": "Identification du bourg d'après Warwick."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88,
+     44.78
+    ]
+   },
+   "properties": {
+    "id": "SG32-07",
+    "nom": "Quieunonascaran : la cabane des Récollets, Le Caron, Viel et Sagard chez le grand capitaine Auoindaon (1623-1624)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1623.667,
+    "fin": 1624.333,
+    "date_edtf": "1623-09/1624-05",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Sagard",
+     "Joseph Le Caron",
+     "Nicolas Viel",
+     "Auoindaon",
+     "Onorotandi"
+    ],
+    "description": "Sagard rejoint le père Le Caron au bourg de Quieunonascaran, siège du grand capitaine de la nation des Ours, Auoindaon ; les trois religieux s'y font bâtir une cabane. Faute de vin de messe, ils en font avec le raisin sauvage, pressé dans leur mortier de bois avec une serviette de chapelle, et en tirent aussi du raisiné. L'hiver, ils vont chercher du bois en raquettes. Sagard note qu'il faut la permission d'Onorotandi, frère d'Auoindaon, pour aller au Saguenay, et celle d'Auoindaon pour descendre à Québec.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 166-167, 173-174, 187, 231.",
+    "note": "Emplacement discuté (baie de Midland ou face à l'île Christian) ; point hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.93,
+     44.79
+    ]
+   },
+   "properties": {
+    "id": "SG32-08",
+    "nom": "Toenchain (bourg de Saint-Nicolas) : la mission du père Nicolas Viel et le Français voleur de rassade (1623-1624)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1623.0,
+    "fin": 1624.999,
+    "date_edtf": "1623/1624",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Nicolas Viel",
+     "Gabriel Sagard"
+    ],
+    "description": "Le père Nicolas Viel s'installe à Toenchain, « la bourgade de Saint-Nicolas », à cinq lieues du village où Sagard a d'abord logé. Un Français qui y avait volé de la rassade s'enfuit dans la cabane des Récollets quand il voit arriver chez lui le devin (oki) chargé de découvrir le voleur. Au retour de 1624, Étienne Brûlé descend avec cinq ou six canots de Toenchain.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 165-166, 225, 319.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.15,
+     45.05
+    ]
+   },
+   "properties": {
+    "id": "SG32-09",
+    "nom": "Île de la baie Georgienne : Sagard à la pêche de l'assihendo avec Auoindaon (octobre 1623)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1623.75,
+    "fin": 1623.75,
+    "date_edtf": "1623-10",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Sagard",
+     "Auoindaon"
+    ],
+    "description": "En octobre, Sagard part de Quieunonascaran avec le capitaine Auoindaon, à cinq dans un petit canot, vers le nord de la mer douce, jusqu'à une île où plusieurs ménages pêchent l'assihendo (corégone). Il décrit les festins et les cérémonies de la pêche, les esturgeons et truites « monstrueusement grands », et sonde quarante-huit brasses d'eau. Une fausse nouvelle de la mort du père Viel le fait rentrer précipitamment.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 261-267.",
+    "note": "Île non identifiée ; point hypothétique."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.4,
+     46.3
+    ]
+   },
+   "properties": {
+    "id": "SG32-10",
+    "nom": "Lac Nipissing : retour de Sagard avec Brûlé et les canots hurons (printemps 1624)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1624.333,
+    "fin": 1624.417,
+    "date_edtf": "1624-05/1624-06",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Sagard",
+     "Étienne Brûlé",
+     "Andatayon"
+    ],
+    "description": "Rappelé en France, Sagard redescend en 1624 avec les Hurons. En chemin, il rejoint Étienne Brûlé et cinq ou six canots de Toenchain et mange l'esturgeon dans un village algonquin. Il campe à l'entrée de la rivière des Français, traverse le lac des Épicerinys (Nipissing), traite un esturgeon contre un petit couteau dans un village nipissingue et voit ses Hurons afficher sur un pin les « armoiries » de Quieunonascaran, un canot dessiné sur une écorce de bouleau. Il passe ensuite la chute des Paresseux et le confluent de la Mattawa.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 318-325.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.72,
+     45.42
+    ]
+   },
+   "properties": {
+    "id": "SG32-11",
+    "nom": "Saut de la Chaudière (Asticou, Anoô) : Sagard décrit les chutes et celles du Rideau (1624)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1624.417,
+    "fin": 1624.417,
+    "date_edtf": "1624-06",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Sagard",
+     "Étienne Brûlé",
+     "La Montagne"
+    ],
+    "description": "Le saut de la Chaudière, sur l'Outaouais, est « le plus admirable, le plus dangereux et le plus épouvantable » de tous : large de plus d'un quart de lieue, coupé d'îlots rocheux, avec deux grands bassins tourbillonnants d'où monte la poussière d'eau, et dont le bruit s'entend à deux lieues ; Montagnais et Hurons l'appellent Asticou et Anoô, « chaudière ». Un quart de lieue plus loin, les chutes du Rideau tombent en deux arcades derrière lesquelles les jeunes Indiens passent en canot. Quelques heures plus tôt, un Français nommé La Montagne a failli se perdre dans une chute avec ses Sauvages. C'est là aussi que Brûlé avait participé à la cérémonie du tabac.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 330-332.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.1,
+     45.6
+    ]
+   },
+   "properties": {
+    "id": "SG32-12",
+    "nom": "Petite Nation (Weskarinis) : les veuves de l'hiver et le chien acheté par Brûlé (1624)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1624.417,
+    "fin": 1624.417,
+    "date_edtf": "1624-06",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Gabriel Sagard",
+     "Étienne Brûlé"
+    ],
+    "description": "À la Petite Nation, les députés du village demandent aux Hurons d'« essuyer les larmes » de vingt-cinq ou trente veuves dont les maris sont morts de faim ou de maladie l'hiver passé ; Sagard les convainc de faire un présent de maïs et de farine. Brûlé, campé avec eux, achète un chien dont on fait festin. Des Algonquins répandent le bruit que les navires de France ont péri, pour décourager les Hurons de descendre à la traite.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 332-333.",
+    "note": "Point hypothétique dans la région de Montebello."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6,
+     45.42
+    ]
+   },
+   "properties": {
+    "id": "SG32-13",
+    "nom": "Saut Saint-Louis et cap de Victoire : le canot brisé et la ruse des Montagnais (juin-juillet 1624)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1624.417,
+    "fin": 1624.5,
+    "date_edtf": "1624-06/1624-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Gabriel Sagard",
+     "Étienne Brûlé"
+    ],
+    "description": "Au saut Saint-Louis, Sagard, resté seul dans le canot que ses Sauvages guident à la main, saute sur une roche juste avant que l'embarcation tombe dans un précipice ; ils la retirent à demi brisée avec une longue corde et la réparent. Au cap de Victoire, où Brûlé est arrivé deux jours plus tôt, Montagnais et Algonquins veulent retenir les Hurons et font courir le bruit qu'ils ont reçu vingt colliers des Agniers pour les faire massacrer ; les Hurons se cotisent pour les apaiser, sauf ceux de Sagard.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 334-335.",
+    "note": "Point au saut Saint-Louis (rapides de Lachine)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.66,
+     45.58
+    ]
+   },
+   "properties": {
+    "id": "SG32-14",
+    "nom": "Rivière des Prairies (Sault-au-Récollet) : la noyade du père Nicolas Viel et de son disciple Auhaitsique (1625)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1625.0,
+    "fin": 1625.999,
+    "date_edtf": "1625",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas Viel",
+     "Auhaitsique"
+    ],
+    "description": "Redescendant de la Huronie en 1625, le récollet Nicolas Viel se noie dans le dernier rapide de la rivière des Prairies avec son disciple français surnommé Auhaitsique ; le lieu prendra le nom de Sault-au-Récollet. Warwick note que la noyade n'était pas encore attribuée à un crime quand Sagard écrivit le Grand Voyage ; en 1634, pour effrayer les Jésuites, le chef algonquin Tessouat accuse les Hurons d'avoir tué Viel et Brûlé.",
+    "sources": "Sagard, Gabriel (1632), Le Grand Voyage du pays des Hurons, éd. Jack Warwick, Montréal, Presses de l'Université de Montréal, 1998, p. 25-26, 89, 323.",
+    "note": "D'après l'introduction et les notes de Warwick."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.585,
+     45.502
+    ]
+   },
+   "properties": {
+    "id": "VIA-01",
+    "nom": "Hochelaga : le bourg iroquoien visité par Jacques Cartier (octobre 1535)",
+    "corpus": "Recherches",
+    "theme": "rencontre",
+    "debut": 1535.75,
+    "fin": 1535.75,
+    "date_edtf": "1535-10",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jacques Cartier"
+    ],
+    "description": "À l'automne 1535, Cartier, après Stadaconé et Achelacy (Portneuf), aborde l'île de Montréal et le chef-lieu d'une troisième province iroquoienne, Hochelaga, entouré d'une triple palissade de perches de cèdre de plus de douze mètres. Viau discute les sens du nom (« lac aux Castors », « grand rapide », « entre deux monts » selon le soldat Bonin dit Jolicœur) et place le bourg sur la terrasse du flanc sud du mont Royal, vers les avenues du Docteur-Penfield, des Pins et Cedar. En 1642, les Algonquins venus accueillir les fondateurs de Ville-Marie rappelleront ce lieu de vie disparu.",
+    "sources": "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal, p. 79-86 (PDF).",
+    "note": "Emplacement hypothétique, objet de débats."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.75,
+     45.42
+    ]
+   },
+   "properties": {
+    "id": "VIA-02",
+    "nom": "En amont des rapides de Lachine : « jusques icy a esté monsr. de Roberval » (juin 1543)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1543.417,
+    "fin": 1543.417,
+    "date_edtf": "1543-06",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jean-François de La Rocque de Roberval"
+    ],
+    "description": "La carte de Pierre Desceliers (1550) porte, à l'ouest de l'archipel de Montréal, là où le fleuve se divise entre l'Outaouais et le haut Saint-Laurent, la mention « jusques icy a esté monsr. de roberval » : elle rappelle l'incursion de Roberval au-delà d'Hochelaga et des rapides de Lachine en juin 1543. Viau en tire un argument pour situer Hochelaga sur le flanc sud du mont Royal.",
+    "sources": "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal, p. 82 (PDF).",
+    "note": "Point hypothétique au lac Saint-Louis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.735,
+     45.43
+    ]
+   },
+   "properties": {
+    "id": "VIA-03",
+    "nom": "Mission de Gentilly (île de Dorval) : Fénelon, ses Algonquins et le sermon de Pâques contre Frontenac (1673-1674)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1673.0,
+    "fin": 1674.232,
+    "date_edtf": "1673/1674-03-25",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François de Salignac de La Mothe-Fénelon",
+     "Louis de Buade de Frontenac",
+     "François-Marie Perrot"
+    ],
+    "description": "Vers 1673, le séminaire de Montréal charge le sulpicien Fénelon de fonder au-dessus de Lachine une mission pour les Algonquiens, Gentilly (Fort La Présentation), avec chapelle et, sur l'île de Dorval, une école pour enseigner le catéchisme, le français et l'agriculture aux jeunes Algonquiens. Le 25 mars 1674, à la grand-messe de Pâques de Montréal, Fénelon critique sans le nommer les abus de Frontenac, qui avait emprisonné le gouverneur de Montréal, François-Marie Perrot ; renvoyé en France après « l'affaire Perrot », il cède les îles Gentilly au séminaire.",
+    "sources": "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal, p. 237-238 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95,
+     45.38
+    ]
+   },
+   "properties": {
+    "id": "VIA-04",
+    "nom": "Île Perrot : le comptoir du gouverneur François-Marie Perrot et de La Fresnaye de Brucy (années 1670)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1672.0,
+    "fin": 1684.999,
+    "date_edtf": "1672/1684",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "François-Marie Perrot",
+     "Antoine de La Fresnaye de Brucy"
+    ],
+    "description": "Nommé gouverneur de Montréal, François-Marie Perrot obtient en concession la grande île au confluent de l'Outaouais et du Saint-Laurent qui porte aujourd'hui son nom. Il y établit un comptoir de traite dirigé par Antoine de La Fresnaye de Brucy, qui intercepte les canots de fourrures venus de l'Ouest avant qu'ils n'atteignent Montréal.",
+    "sources": "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal, p. 240-241 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     45.42
+    ]
+   },
+   "properties": {
+    "id": "VIA-05",
+    "nom": "Île-aux-Tourtes (Aouanagassing) : la mission népissingue de Breslay et la traite affermée de Vaudreuil (1703-1727)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1703.0,
+    "fin": 1727.999,
+    "date_edtf": "1703/1727",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "René-Charles de Breslay",
+     "Philippe de Rigaud de Vaudreuil",
+     "Pierre You de La Découverte",
+     "Claude de Ramezay"
+    ],
+    "description": "En 1703, le sulpicien Breslay, curé de Saint-Louis-du-Haut-de-l'Île, fonde à l'île aux Tourtes, « la gardienne » de la route des canots entre le lac Saint-Louis et le lac des Deux-Montagnes, une mission pour les Népissingues (200 à 250 personnes, 50 guerriers vers 1710), qui chassent l'hiver et ne reviennent qu'en été. L'aveu de 1725 décrit un fort de pieux, une église de pierre, un presbytère, un corps de garde et quarante arpents défrichés. Le gouverneur Vaudreuil y afferme la traite : en 1723, Ramezay se plaint que le sieur You de La Découverte, avec un sergent et six soldats, arrête tous les canots descendant de l'Ouest pour ne leur traiter que du vin et de l'eau-de-vie, si bien que quatre canots à peine sont venus à Montréal. En 1714, un Népissingue ivre agresse Breslay.",
+    "sources": "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal, p. 239, 241, 248-256 (PDF).",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6,
+     46.3
+    ]
+   },
+   "properties": {
+    "id": "VIA-06",
+    "nom": "Lac Nipissing : Jean Nicollet et les truchements Jean Richer et Jean Manet chez les Népissingues (1620-1633)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1620.0,
+    "fin": 1633.999,
+    "date_edtf": "1620/1633",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean Nicollet de Belleborne",
+     "Jean Richer",
+     "Jean Manet"
+    ],
+    "description": "Entre 1620 et 1633, l'interprète Jean Nicollet partage huit ou neuf ans la vie des Népissingues : il y prend femme, siège à leurs conseils, pêche avec eux et traite pour son compte en les poussant à commercer chaque année avec les Français. Deux autres Français, Jean Richer dit Gros Jean de Dieppe et Jean Manet, probablement formés par lui, y travaillent aussi. Les Népissingues, grands traiteurs qui allaient jusqu'à la baie James, comptaient alors 700 à 800 personnes selon Champlain.",
+    "sources": "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal, p. 242-247 (PDF).",
+    "note": "Point sur la rive nord du lac, où se trouvait leur principal hameau d'été."
    }
   },
   {

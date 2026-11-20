@@ -1,0 +1,26 @@
+# Roland Viau, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal.
+# PDF du Drive de l'auteur (HISTOIRE_LIVRES/AUTOCHTONES), relu le 19 novembre 2026 (recherche plein texte puis lecture des
+# chapitres sur Hochelaga et sur l'ouest de l'archipel de Montréal). Préfixe VIA ; pages du PDF.
+from commun import Corpus
+S = "Viau, Roland, Amerindia. Essais d'ethnohistoire autochtone, Montréal, Presses de l'Université de Montréal"
+C = Corpus('Recherches', 'VIA', S, page_fmt='p. {} (PDF)')
+F = C.F
+F('01', "Hochelaga : le bourg iroquoien visité par Jacques Cartier (octobre 1535)", 'rencontre', '1535-10', -73.585, 45.502, 'h', ['Jacques Cartier'],
+  "À l'automne 1535, Cartier, après Stadaconé et Achelacy (Portneuf), aborde l'île de Montréal et le chef-lieu d'une troisième province iroquoienne, Hochelaga, entouré d'une triple palissade de perches de cèdre de plus de douze mètres. Viau discute les sens du nom (« lac aux Castors », « grand rapide », « entre deux monts » selon le soldat Bonin dit Jolicœur) et place le bourg sur la terrasse du flanc sud du mont Royal, vers les avenues du Docteur-Penfield, des Pins et Cedar. En 1642, les Algonquins venus accueillir les fondateurs de Ville-Marie rappelleront ce lieu de vie disparu.",
+  '79-86', "Emplacement hypothétique, objet de débats.")
+F('02', "En amont des rapides de Lachine : « jusques icy a esté monsr. de Roberval » (juin 1543)", 'exploration', '1543-06', -73.75, 45.42, 'h', ['Jean-François de La Rocque de Roberval'],
+  "La carte de Pierre Desceliers (1550) porte, à l'ouest de l'archipel de Montréal, là où le fleuve se divise entre l'Outaouais et le haut Saint-Laurent, la mention « jusques icy a esté monsr. de roberval » : elle rappelle l'incursion de Roberval au-delà d'Hochelaga et des rapides de Lachine en juin 1543. Viau en tire un argument pour situer Hochelaga sur le flanc sud du mont Royal.",
+  '82', "Point hypothétique au lac Saint-Louis.")
+F('03', "Mission de Gentilly (île de Dorval) : Fénelon, ses Algonquins et le sermon de Pâques contre Frontenac (1673-1674)", 'religion', '1673/1674-03-25', -73.735, 45.43, 'c', ['François de Salignac de La Mothe-Fénelon', 'Louis de Buade de Frontenac', 'François-Marie Perrot'],
+  "Vers 1673, le séminaire de Montréal charge le sulpicien Fénelon de fonder au-dessus de Lachine une mission pour les Algonquiens, Gentilly (Fort La Présentation), avec chapelle et, sur l'île de Dorval, une école pour enseigner le catéchisme, le français et l'agriculture aux jeunes Algonquiens. Le 25 mars 1674, à la grand-messe de Pâques de Montréal, Fénelon critique sans le nommer les abus de Frontenac, qui avait emprisonné le gouverneur de Montréal, François-Marie Perrot ; renvoyé en France après « l'affaire Perrot », il cède les îles Gentilly au séminaire.",
+  '237-238', "")
+F('04', "Île Perrot : le comptoir du gouverneur François-Marie Perrot et de La Fresnaye de Brucy (années 1670)", 'commerce', '1672/1684', -73.95, 45.38, 'c', ['François-Marie Perrot', 'Antoine de La Fresnaye de Brucy'],
+  "Nommé gouverneur de Montréal, François-Marie Perrot obtient en concession la grande île au confluent de l'Outaouais et du Saint-Laurent qui porte aujourd'hui son nom. Il y établit un comptoir de traite dirigé par Antoine de La Fresnaye de Brucy, qui intercepte les canots de fourrures venus de l'Ouest avant qu'ils n'atteignent Montréal.",
+  '240-241', "")
+F('05', "Île-aux-Tourtes (Aouanagassing) : la mission népissingue de Breslay et la traite affermée de Vaudreuil (1703-1727)", 'religion', '1703/1727', -74.0, 45.42, 'c', ['René-Charles de Breslay', 'Philippe de Rigaud de Vaudreuil', 'Pierre You de La Découverte', 'Claude de Ramezay'],
+  "En 1703, le sulpicien Breslay, curé de Saint-Louis-du-Haut-de-l'Île, fonde à l'île aux Tourtes, « la gardienne » de la route des canots entre le lac Saint-Louis et le lac des Deux-Montagnes, une mission pour les Népissingues (200 à 250 personnes, 50 guerriers vers 1710), qui chassent l'hiver et ne reviennent qu'en été. L'aveu de 1725 décrit un fort de pieux, une église de pierre, un presbytère, un corps de garde et quarante arpents défrichés. Le gouverneur Vaudreuil y afferme la traite : en 1723, Ramezay se plaint que le sieur You de La Découverte, avec un sergent et six soldats, arrête tous les canots descendant de l'Ouest pour ne leur traiter que du vin et de l'eau-de-vie, si bien que quatre canots à peine sont venus à Montréal. En 1714, un Népissingue ivre agresse Breslay.",
+  '239, 241, 248-256', "")
+F('06', "Lac Nipissing : Jean Nicollet et les truchements Jean Richer et Jean Manet chez les Népissingues (1620-1633)", 'personne', '1620/1633', -79.6, 46.3, 'c', ['Jean Nicollet de Belleborne', 'Jean Richer', 'Jean Manet'],
+  "Entre 1620 et 1633, l'interprète Jean Nicollet partage huit ou neuf ans la vie des Népissingues : il y prend femme, siège à leurs conseils, pêche avec eux et traite pour son compte en les poussant à commercer chaque année avec les Français. Deux autres Français, Jean Richer dit Gros Jean de Dieppe et Jean Manet, probablement formés par lui, y travaillent aussi. Les Népissingues, grands traiteurs qui allaient jusqu'à la baie James, comptaient alors 700 à 800 personnes selon Champlain.",
+  '242-247', "Point sur la rive nord du lac, où se trouvait leur principal hameau d'été.")
+fiches = C.fiches
