@@ -25,8 +25,8 @@ F('08', 'Los Angeles : Prudent Beaudry, premier maire canadien', 'personnage', '
   "Né à Sainte-Anne-des-Plaines, Prudent Beaudry est rappelé comme maire de Los Angeles.", '', "L'allocution le dit « premier maire » de Los Angeles, ce qui est inexact.", source=WO)
 F('09', 'Oregon : Norbert Blanchet, premier évêque', 'religion', '1845', -122.606, 45.357, 'a', ['François-Norbert Blanchet'],
   "L'allocution rappelle que Norbert Blanchet, né à Montmagny (Saint-Pierre-de-la-Rivière-du-Sud), fut le premier évêque de l'Oregon.", '', '', source=WO)
-F('10', 'Aubry City (Arizona) et Aubry City (Colorado)', 'toponymie', '1854~', -113.7, 35.0, 'h', ['François-Xavier Aubry'],
-  "Les deux textes rappellent que François-Xavier Aubry, né à Maskinongé, a donné son nom à Aubry City (Arizona) et Aubry City (Colorado).", '',
-  "Localisation symbolique (Aubrey Valley, Arizona). Toponymes à vérifier ; à verser à l'Atlas Aubry.")
+F('10', 'Aubry City (Arizona) et « Aubry City (Colorado) »', 'toponymie', '1854~', -113.7, 35.0, 'h', ['François-Xavier Aubry'],
+  "Les deux textes affirment que François-Xavier Aubry, né à Maskinongé, a donné son nom à une « Aubry City » en Arizona et à une autre au Colorado.", '',
+  "Affirmation en partie inexacte : aucune localité de ce nom n'est connue au Colorado. Les lieux qui portent son nom sont, en Arizona, Aubrey Landing (le port du Colorado, voir l'Atlas Aubry) et la vallée d'Aubrey, et au Kansas le fort Aubry. Localisation symbolique (Aubrey Valley, Arizona).")
 
 fiches = C.fiches
