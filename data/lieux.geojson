@@ -84570,6 +84570,673 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -87.6235,
+     41.8862
+    ]
+   },
+   "properties": {
+    "id": "RD49-02",
+    "nom": "Fort Dearborn : la cabane de 1812, le mariage avec Josette La Framboise et la maison Dean achetée 1 000 $ (1804-1823)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1804.0,
+    "fin": 1823.999,
+    "date_edtf": "1804/1823",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Beaubien",
+     "Josette La Framboise",
+     "John Dean"
+    ],
+    "description": "Né à Détroit en 1787 dans une vieille famille de traiteurs canadiens, Jean-Baptiste Beaubien vient à Chicago dès 1804, depuis son petit poste de Milwaukee. En 1812, il achète une cabane de rondins sur la réserve du fort, qui servira de preuve de son établissement ; sa première femme, Indienne, lui a laissé deux fils, et il épouse cette année-là Josette La Framboise, fille d'un riche traiteur et d'une Odawa de Hardscrabble. Installé à demeure en 1817 comme sous-agent d'une maison de Détroit, il achète 1 000 $ la maison et le terrain de l'entrepreneur militaire John Dean, au sud du fort, puis la maison de l'agence du gouvernement ; il y fait l'école et y loge sa famille jusque vers 1823. En 1825, il est juge de paix.",
+    "sources": "Roden, Carl B. (1949), « The Beaubien Claim », Journal of the Illinois State Historical Society, vol. 42, n° 2, p. 147-166, p. 151-154.",
+    "note": "La maison Dean, au pied de la rue Randolph, servit ensuite d'école, de magasin et d'entrepôt jusqu'à ce que les vagues l'emportent."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6245,
+     41.8875
+    ]
+   },
+   "properties": {
+    "id": "RD49-03",
+    "nom": "Chicago : vente de l'« addition du fort Dearborn » (10-24 juin 1839) et la maison des Beaubien achetée par l'avocat Collins",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1839.441,
+    "fin": 1840.963,
+    "date_edtf": "1839-06-10/1840-12-18",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Beaubien",
+     "James H. Collins",
+     "Matthew Birchard",
+     "Arthur Bronson"
+    ],
+    "description": "Après l'arrêt de la Cour suprême, le solliciteur Matthew Birchard fait lotir la réserve ; malgré une campagne pour dissuader les enchérisseurs, les 253 lots de l'addition du fort Dearborn (actuelles avenues Wabash et Michigan, de la rivière à la rue Madison) sont vendus du 10 au 24 juin 1839 par soumissions cachetées, pour 106 042,16 $. L'avocat James H. Collins, qui avait plaidé pour le gouvernement, achète, malgré les menaces, cinq des six lots de la propriété Beaubien (îlot 5, au nord-est de Michigan et de South Water) ; Beaubien ne garde que le lot 11, acheté 225 $. Le 18 décembre 1840, la cour fédérale lui fait rendre ses 94,61 $ de dépôt. Le parc Dearborn est réservé comme place publique.",
+    "sources": "Roden, Carl B. (1949), « The Beaubien Claim », Journal of the Illinois State Historical Society, vol. 42, n° 2, p. 147-166, p. 158-161.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.847,
+     41.968
+    ]
+   },
+   "properties": {
+    "id": "RD49-04",
+    "nom": "Rivière Des Plaines : Beaubien quitte la réserve pour sa ferme, près de la réserve du chef Alexander Robinson (1840)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1840.0,
+    "fin": 1840.999,
+    "date_edtf": "1840",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Beaubien",
+     "Josette La Framboise",
+     "Alexander Robinson"
+    ],
+    "description": "Au début de 1840, à 53 ans, Beaubien s'installe avec sa famille (les deux fils de sa première femme et les onze enfants de Josette, tous nés sur la réserve) sur sa ferme de la rivière Des Plaines, non loin de la réserve de deux sections de son ami le chef potawatomi Alexander Robinson, dont le cimetière familial est au croisement de l'avenue Lawrence. Dès 1834, il avait donné deux lots à l'angle sud-ouest de Wabash et de Madison à l'église catholique Sainte-Marie, qui appartiennent encore à l'archidiocèse.",
+    "sources": "Roden, Carl B. (1949), « The Beaubien Claim », Journal of the Illinois State Historical Society, vol. 42, n° 2, p. 147-166, p. 162.",
+    "note": "Point approximatif près du cimetière Robinson."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.623,
+     41.8885
+    ]
+   },
+   "properties": {
+    "id": "RD49-05",
+    "nom": "Embouchure de la rivière Chicago : la loi de 1854 obtenue par Wentworth accorde à Beaubien les lots du phare et du vieux fort",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1854.0,
+    "fin": 1878.999,
+    "date_edtf": "1854/1878",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Beaubien",
+     "John Wentworth",
+     "William H. Standish"
+    ],
+    "description": "En 1854, le député John Wentworth, toujours partisan de Beaubien, fait voter une loi lui accordant la patente des terrains du pied de l'avenue Michigan jusque-là occupés par le phare, les travaux du port et les restes du fort (îlot 4, lots 1 à 6 ; une partie de l'îlot 5 ; lots 8 et 9 de l'îlot 2), geste reçu comme un acte de réparation. En 1878, l'avocat William H. Standish tente une dernière fois de faire reconnaître la préemption des héritiers Beaubien sur toute l'addition du fort Dearborn (projet de loi 773 du Sénat).",
+    "sources": "Roden, Carl B. (1949), « The Beaubien Claim », Journal of the Illinois State Historical Society, vol. 42, n° 2, p. 147-166, p. 163-164.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.465,
+     47.033
+    ]
+   },
+   "properties": {
+    "id": "BR15-04",
+    "nom": "Cap-Saint-Ignace : 205 paroissiens partent pour l'Illinois en 1848",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1848.0,
+    "fin": 1848.999,
+    "date_edtf": "1848",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "J. N. Bossé"
+    ],
+    "description": "Le procureur québécois J. N. Bossé rapporte au gouvernement que 205 personnes ont quitté la paroisse de Cap-Saint-Ignace pour l'Illinois en 1848. Elles s'établissent à Bourbonnais, où elles achètent ou louent de quinze à quarante acres, en partie à Noël LeVasseur, revenu au Canada après 1837 inciter ses compatriotes à le suivre. Le gouvernement note que les gens de Bellechasse, de L'Islet et de Kamouraska vendent leurs terres pour l'Ouest, gagnant Chicago par les canaux et les lacs.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 1.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.879,
+     41.148
+    ]
+   },
+   "properties": {
+    "id": "BR15-05",
+    "nom": "Bourbonnais : les lettres de Peter Spink, le premier curé René Courjeault (1847) et le recensement de 1850",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1845.667,
+    "fin": 1850.999,
+    "date_edtf": "1845-09/1850",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter Spink",
+     "René Courjeault",
+     "William Quarter",
+     "Noël LeVasseur"
+    ],
+    "description": "En septembre 1845, Mgr William Quarter, premier évêque de Chicago, demande à Mgr Bourget un prêtre pour les Canadiens de l'Illinois ; Peter Spink, Canadien d'origine écossaise de Bourbonnais, insiste en écrivant qu'une cinquantaine de familles y vivent sans prêtre parlant français (mars 1846 : onze familles de plus). Le premier curé résident, René Courjeault, arrive en mai 1847 : il compte 59 familles, puis 108 à l'automne. En 1850, 201 des 248 familles du canton de Bourbonnais (81 %) sont canadiennes-françaises, sur 1 720 habitants.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 1.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.714,
+     41.025
+    ]
+   },
+   "properties": {
+    "id": "BR15-06",
+    "nom": "Beaver Creek devient Sainte-Anne : les frères Allain, quarante cabanes et la chapelle bénie par Mgr Van de Velde (1850-1857)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1850.0,
+    "fin": 1857.25,
+    "date_edtf": "1850/1857-04",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Michel Allain",
+     "Ambroise Allain",
+     "Antoine Allain",
+     "Charles Chiniquy",
+     "Jacques Olivier Van de Velde",
+     "John B. Lemoine",
+     "Achille Chiniquy",
+     "Camille Betourni"
+    ],
+    "description": "En 1850, Michel Allain quitte Bourbonnais pour Beaver Creek avec ses fils Ambroise et Antoine, à qui il cède 160 acres le 21 juillet 1851. Chiniquy arrive en novembre 1851 : fin janvier 1852, quarante cabanes sont bâties, et en avril Mgr Van de Velde bénit une chapelle de quarante pieds carrés dédiée à sainte Anne. Ambroise Allain fils, né le 18 avril 1852, est le premier enfant blanc né à Sainte-Anne. En trois ans, de neuf cents à mille familles du Québec et de la Nouvelle-Angleterre s'établissent sur quarante milles carrés. La paroisse est érigée en 1853, une école de garçons ouvre en octobre 1855 ; le canton, créé en 1857, élit pour superviseur John B. Lemoine, pour percepteur Achille Chiniquy et pour constable Camille Betourni.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 1.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.716,
+     40.968
+    ]
+   },
+   "properties": {
+    "id": "BR15-07",
+    "nom": "Papineau (ancien canton de Weygandt) : choléra de 1855, scierie Delude et incorporation de 1874",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1855.0,
+    "fin": 1874.999,
+    "date_edtf": "1855/1874",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph Delude",
+     "Fabian Langdoc",
+     "C. P. Lottinville",
+     "Joseph Laveaux",
+     "Octave Laplante",
+     "Ezra Savoie"
+    ],
+    "description": "Le canton de Weygandt, peuplé de Hollandais dans les années 1840, perd la moitié de ses habitants dans le choléra de 1855 ; les Canadiens français qui l'envahissent le rebaptisent Papineau, du nom du héros patriote. Joseph Delude y bâtit une scierie ; une école ouvre en 1861, une église catholique en 1872 (démolie depuis). Le village est incorporé en 1874 : président Fabian Langdoc, greffier C. P. Lottinville, trésorier Joseph Laveaux, administrateurs Thomas Lottinville, Octave Laplante, Ezra Savoie et John Massey (Massé).",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 1.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.656,
+     40.953
+    ]
+   },
+   "properties": {
+    "id": "BR15-08",
+    "nom": "Sainte-Marie (Beaverville) : premiers colons au printemps 1853 et village loti sur la terre de Charles Arseneau (1859)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1853.0,
+    "fin": 1859.999,
+    "date_edtf": "1853/1859",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Arseneau",
+     "Joseph Caillouette",
+     "Joseph Lottinville"
+    ],
+    "description": "Dans le nord du canton de Beaver, déserté par des Norvégiens décimés par le choléra, les Canadiens français fondent Sainte-Marie, à la limite du canton de Papineau. Les premiers colons (Arseneau, Boudreau, Benoit, Dionne, Fortin, Lafond, Nourie) arrivent au printemps 1853 ; Joseph Caillouette bâtit la première maison en 1857, et le village est loti en 1859 sur la terre de Charles Arseneau. En avril 1857, l'abbé Desaulniers y compte 115 familles hostiles à Chiniquy, auxquelles s'ajoutent vingt-cinq familles belges.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 1, 2.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.905,
+     40.905
+    ]
+   },
+   "properties": {
+    "id": "BR15-09",
+    "nom": "L'Érable : mission de Bourbonnais (1853-1854), chapelle Saint-Jean-Baptiste sur la terre de Spink (1854) et église de 1875",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1853.0,
+    "fin": 1875.999,
+    "date_edtf": "1853/1875",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter Spink"
+    ],
+    "description": "L'Érable, nommé d'après les érables à sucre plantés par les premiers colons, naît en 1853-1854 comme mission de l'église de la Maternité de Bourbonnais. Peter Spink, l'adversaire de Chiniquy, y acquiert de grandes étendues qu'il revend aux arrivants ; en 1854, une chapelle dédiée à saint Jean-Baptiste est bâtie sur un terrain qu'il donne, et la Saint-Jean y est fêtée le 24 juin. Le village est loti en 1857 mais jamais incorporé ; l'église de bois encore debout est achevée en 1875. À la fin des années 1850, les Canadiens y sont dépassés en nombre par des immigrants de France.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 1.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.207,
+     40.111
+    ]
+   },
+   "properties": {
+    "id": "BR15-10",
+    "nom": "Urbana : le procès en diffamation de Peter Spink contre Chiniquy (1855-1856)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1855.089,
+    "fin": 1856.75,
+    "date_edtf": "1855-02-03/1856-10",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Peter Spink",
+     "Charles Chiniquy"
+    ],
+    "description": "Spink accuse Chiniquy de l'avoir traité de parjure en chaire vers le 10 janvier 1854 et le poursuit le 3 février 1855 devant la cour de circuit du comté de Kankakee. Le procès est déplacé à Urbana (comté de Champaign) ; à la session de mai 1856, qui occupe presque les quatre jours de la cour et attire les partisans de Chiniquy, le jury ne parvient pas à un verdict. L'affaire se règle à l'amiable avant la session d'octobre, Chiniquy publiant une rétractation.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 2.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.861,
+     41.12
+    ]
+   },
+   "properties": {
+    "id": "BR15-11",
+    "nom": "Kankakee : l'assemblée du 27 avril 1857, le banquet de deux mille personnes pour l'abbé Desaulniers et l'évêque O'Regan brûlé en effigie",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1857.321,
+    "fin": 1857.833,
+    "date_edtf": "1857-04-27/1857-11",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Isaac Desaulniers",
+     "Anthony O'Regan",
+     "Alexis Mailloux",
+     "Peter Spink",
+     "Joseph Lottinville"
+    ],
+    "description": "Le 27 avril 1857, une assemblée des Canadiens de Kankakee résout que les prêtres du Canada devraient s'occuper de leur pays plutôt que de semer la discorde aux États-Unis. En juin, un banquet tempérant de près de deux mille personnes honore l'abbé Isaac Desaulniers, « qui a réduit M. Chiniquy à l'impuissance » ; Spink, « fondateur de la colonie de L'Érable », et Joseph Lottinville, de Sainte-Marie, y prennent la parole, et un défilé aux chevaux décorés parcourt la ville. Le grand vicaire de Québec Alexis Mailloux lui succède ; l'évêque O'Regan démissionne en août et, en novembre, apprend qu'on l'a brûlé en effigie à Kankakee.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 2.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.713,
+     41.024
+    ]
+   },
+   "properties": {
+    "id": "BR15-12",
+    "nom": "Sainte-Anne : l'excommunication prononcée par Mgr Duggan (3 août 1858) et la rupture de Chiniquy (22 août)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1858.589,
+    "fin": 1858.641,
+    "date_edtf": "1858-08-03/1858-08-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Chiniquy",
+     "James Duggan"
+    ],
+    "description": "Fin juillet 1858, le nouvel évêque de Chicago, James Duggan, se rend à Sainte-Anne pour mettre fin au schisme ; menacé par les partisans de Chiniquy, il doit demander la protection du shérif. Le 3 août, il prononce deux fois l'excommunication au milieu des huées. Le 22, Chiniquy rompt formellement, disant que l'évêque lui demande « non un acte de soumission, mais d'adoration ».",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 2.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.715,
+     41.026
+    ]
+   },
+   "properties": {
+    "id": "BR15-13",
+    "nom": "Sainte-Anne et Kankakee : la « famine » de 1858-1859, l'aide presbytérienne et les deux Églises presbytériennes françaises (1859-1887)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1858.0,
+    "fin": 1887.999,
+    "date_edtf": "1858/1887",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Chiniquy",
+     "Moses Staples",
+     "Theodore Monod",
+     "Achille Chiniquy"
+    ],
+    "description": "Après les mauvaises récoltes de 1858 et 1859, Chiniquy quête dans l'Est : fin novembre 1859, 8 000 $ en argent et une centaine de caisses de vêtements et de vivres sont expédiés en Illinois ; le 3 octobre 1859, l'église protestante de Kankakee est cédée à Moses Staples, agent de l'Assemblée générale presbytérienne, comme « Christian Catholic Church ». Début 1860, Chiniquy et une délégation sont reçus dans le presbytère de Chicago. En février 1861, une seconde Église presbytérienne se forme à Sainte-Anne sous Theodore Monod (89 familles en 1881) ; en 1862, l'Église de Chiniquy (550 personnes comptées) passe à un synode canadien. Les deux Églises se réunissent en 1887.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 2.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.401,
+     39.591
+    ]
+   },
+   "properties": {
+    "id": "BR15-14",
+    "nom": "Clyde (Kansas) : les enfants des colons de Sainte-Anne partent pour le Kansas (années 1870)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1870.0,
+    "fin": 1880.999,
+    "date_edtf": "1870/1880",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Allain fils",
+     "Jacques Boucher",
+     "Alexis Blanchette"
+    ],
+    "description": "Dans les années 1870, une partie de la génération née ou élevée à Sainte-Anne gagne le Kansas : Antoine Allain fils, fils d'un des premiers colons, est l'un des premiers ; Jacques Boucher, né à Nicolet en 1827, et plusieurs enfants d'Alexis Blanchette le suivent. Le mouvement reprend en 1878 quand le chemin de fer atteint la région de Clyde ; le Kankakee Gazette s'inquiète de tous ces départs vers des homesteads abandonnés par des Américains.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 4.",
+    "note": "Brettell écrit « Clyde County » ; Clyde est dans le comté de Cloud."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.712,
+     41.023
+    ]
+   },
+   "properties": {
+    "id": "BR15-15",
+    "nom": "Sainte-Anne : « le seul endroit des États-Unis où l'on ne parle que le français » (1873) et l'école de Chiniquy",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1856.0,
+    "fin": 1905.999,
+    "date_edtf": "1856/1905",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Chiniquy",
+     "Francis Bechand",
+     "Michel Letellier"
+    ],
+    "description": "En 1860, 60 % des chefs de ménage sont inscrits comme illettrés. Une école est bâtie en 1856 à l'instigation de Chiniquy ; le premier maître, Francis Bechand, est engagé en 1857-1858. Le 11 septembre 1873, Chiniquy écrit dans le Kankakee Gazette que Sainte-Anne est sans doute le seul endroit des États-Unis où presque tout le monde ne parle que le français. L'enseignement du français cesse vers 1887 ; l'anglais entre à l'église protestante en 1885 et à l'église catholique en 1905, et l'académie catholique Sainte-Anne ouvre en 1884 avec les sœurs de la Congrégation de Notre-Dame de Montréal.",
+    "sources": "Brettell, Caroline B. (2015), Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois, Carbondale, Southern Illinois University Press, ch. 5.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.45,
+     37.2
+    ]
+   },
+   "properties": {
+    "id": "CRG-01",
+    "nom": "Rivière Las Animas, en aval de Trinidad : Ramon et Bridger Girard, élevés près de la famille Leroux à Saint-Louis",
+    "corpus": "Cragin",
+    "theme": "famille",
+    "debut": 1840.0,
+    "fin": 1908.999,
+    "date_edtf": "1840/1908",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Ramon Girard",
+     "Bridger Girard",
+     "Antoine Leroux"
+    ],
+    "description": "Selon Mme Thomas Wallace (née Ida Chene), petite-fille d'Antoine Leroux, Ramon Girard, qui a un ranch sur la rivière Las Animas en aval de Trinidad, a été élevé à Saint-Louis près de la famille Leroux et la connaissait bien ; son frère Bridger Girard vivait aussi près de Trinidad et était déjà mort en 1908. Leroux disait à ses petits-enfants que son père, Louis-Guillaume Leroux, était né en France et avait grandi à Saint-Louis.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 115.",
+    "note": "Entretien de juin 1908. Point approximatif sur la Purgatoire (Las Animas) en aval de Trinidad."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.04,
+     39.81
+    ]
+   },
+   "properties": {
+    "id": "CRG-02",
+    "nom": "Clear Creek et rivière Green : DuShay, enterré chez Jim Baker, Baptiste « Lusanne » et Louie DuFrain",
+    "corpus": "Cragin",
+    "theme": "personne",
+    "debut": 1855.0,
+    "fin": 1870.999,
+    "date_edtf": "1855/1870",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "DuShay",
+     "Baptiste Lusanne",
+     "Louie DuFrain",
+     "Jim Baker"
+    ],
+    "description": "Selon William Shortredge, pionnier du Colorado, deux Français vivaient sur le bas de la Green : Baptiste (Lusanne ? « Loosan ») et DuShay ; ce dernier mourut et fut enterré sur la terre de Jim Baker, sur Clear Creek, au nord de Denver. Cragin note aussi un Louie DuFrain, Français connaissant la famille Robidoux, à retrouver à Pueblo.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 324.",
+    "note": "Dates non données ; Baker s'établit sur Clear Creek en 1859 (C182)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     41.0
+    ]
+   },
+   "properties": {
+    "id": "CRG-03",
+    "nom": "Ouest de l'Iowa, face à l'embouchure de la Nebraska : Joe Villandrie, venu du Canada vers 1810, tué par un éboulement de berge",
+    "corpus": "Cragin",
+    "theme": "personne",
+    "debut": 1810.0,
+    "fin": 1860.999,
+    "date_edtf": "1810/1860",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joe Villandrie"
+    ],
+    "description": "Un informateur arrivé dans les montagnes à l'automne 1853 rapporte que Joe Villandrie, venu dans l'Ouest vers 1810 depuis le Canada par les Grands Lacs, perdit la vie dans l'ouest de l'Iowa, en face de la rivière Nebraska (Platte), quand une berge s'effondra sur lui.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 325.",
+    "note": "Point hypothétique sur le Missouri face à l'embouchure de la Platte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.635,
+     41.885
+    ]
+   },
+   "properties": {
+    "id": "CHF-01",
+    "nom": "Chicago : Pierre You de La Découverte épouse une Miami nommée Élisabeth (avril 1693)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1693.25,
+    "fin": 1693.25,
+    "date_edtf": "1693-04",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre You de La Découverte"
+    ],
+    "description": "Selon le dépliant, qui s'appuie sur le Dictionnaire biographique du Canada, le militaire Pierre You, sieur de La Découverte, épouse en avril 1693, sur le territoire de Chicago, une Miami surnommée Élisabeth : le premier mariage célébré à Chicago.",
+    "sources": "« Chicago, une ville où le français se parle depuis 1673 », dépliant (PDF du Drive de l'auteur, dossier CHICAGO), p. 4.",
+    "note": "Point placé à l'embouchure de la rivière Chicago ; le lieu exact n'est pas précisé."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.63,
+     41.88
+    ]
+   },
+   "properties": {
+    "id": "CHF-02",
+    "nom": "Chicago : le « French Battalion » parmi les compagnies levées par nationalité au début de la guerre de Sécession (1861)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1861.0,
+    "fin": 1861.999,
+    "date_edtf": "1861",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Au début de la guerre de Sécession, des compagnies sont levées à Chicago selon les affiliations nationales : les Lincoln Rifles (Europe centrale et orientale), les German Turner Union Cadets, la Scottish Highland Guard et un « French Battalion ».",
+    "sources": "Diamond, Andrew, et Pap Ndiaye (2013), Histoire de Chicago, Paris, Fayard.",
+    "note": "Mention brève ; le livre ne donne ni effectifs ni chefs."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.482,
+     38.784
+    ]
+   },
+   "properties": {
+    "id": "CHF-03",
+    "nom": "Saint-Charles (Missouri) : Jean-Baptiste Pointe DuSable, qui a vendu ses biens de Chicago 1 200 $ le 7 mai 1800, meurt pauvre le 28 août 1818",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1800.35,
+    "fin": 1818.657,
+    "date_edtf": "1800-05-07/1818-08-28",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Pointe DuSable"
+    ],
+    "description": "Selon cette fiche, DuSable, né en Haïti vers 1745, vend soudain ses terres et ses biens de Chicago pour 1 200 $ le 7 mai 1800 et quitte la région ; il meurt presque sans le sou le 28 août 1818 et est enterré dans un cimetière catholique de Saint-Charles (Missouri). Sa petite-fille, née en 1796, serait le premier enfant né à Chicago ; l'État de l'Illinois et la ville le reconnaissent comme fondateur le 25 octobre 1968.",
+    "sources": "« Jean Baptiste Pointe DuSable c.1745-1818 », fiche pédagogique illustrée (image du dossier CHICAGO, Drive de l'auteur).",
+    "note": "Fiche de vulgarisation sans références ; les circonstances de son départ y sont présentées comme incertaines."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.64,
+     41.889
+    ]
+   },
+   "properties": {
+    "id": "CHF-04",
+    "nom": "Chicago en 1833 : la cabane et le magasin La Framboise, Ouilmette, Billy Caldwell et la maison Portier sur la carte de la ville",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1830.0,
+    "fin": 1833.999,
+    "date_edtf": "1830/1833",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "La Framboise",
+     "Antoine Ouilmette",
+     "Billy Caldwell (Sauganash)",
+     "Joseph Porthier",
+     "Jean-Baptiste Beaubien"
+    ],
+    "description": "La carte de la « ville de Chicago, 350 habitants » (1833) situe, outre le second fort Dearborn (1816), la maison Kinzie, la taverne Sauganash et le premier pont-levis (1834), la cabane et le magasin La Framboise, la maison d'Antoine Ouilmette sur la route de Green Bay, celle de Billy Caldwell (Sauganash) et la maison Portier. La carte de l'embouchure dressée par F. Harrison Jr. et William Howard le 24 février 1830 montre le magasin de J.-B. Beaubien au sud du fort et la maison Kinzie occupée par Jonathan Bailey.",
+    "sources": "Carte « The Town of Chicago, population 350 » (1833), reproduction (images du dossier CHICAGO, Drive de l'auteur) ; carte de l'embouchure de la rivière Chicago par F. Harrison Jr. et William Howard (24 février 1830).",
+    "note": "Cartes reproduites sans indication d'éditeur ; points approximatifs."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
