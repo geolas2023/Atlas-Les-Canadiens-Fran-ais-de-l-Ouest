@@ -2,6 +2,38 @@ from commun import *
 A = "Janet Lecompte"
 def s(p, n=None): return ff(A, p, n)
 HUERF = (-104.27, 38.20); EMB = (-105.96, 36.21); DSP = "Departmental State Papers, Archivo de California, Bancroft Library"
+# Jean-Baptiste Chalifoux a son propre atlas (Atlas Chalifoux) : plus d'onglet dans la salle de lecture.
+# Ses étapes restent dans l'atlas général (corpus Hafen), avec un renvoi vers la fiche de l'Atlas Chalifoux.
+SALLE = False
+ATLAS_CHALIFOUX = "https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu="
+RENVOIS = {
+ "Charlesbourg (près de Québec) : naissance (v. 1791-1792)": "L01",
+ "Saint-Louis : contrat de mariage du frère Pierre (27 oct. 1792)": "L02",
+ "Sources chaudes du Wyoming : la légende des deux cents Français (1812)": "L03",
+ "El Paso del Norte : engagé par James Baird (oct. 1826)": "L04",
+ "Tucson (hiver 1826-1827)": "L05",
+ "Janos : en prison (janv. 1827)": "L06",
+ "Brown's Hole : était-il « Baptiste Brown » ?": "L07",
+ "Taos : départ avec François Robidoux vers le pays ute (mars 1827)": "L08",
+ "Willow Creek : « B. Chalifou » gravé sur la roche (1835)": "L09",
+ "Mission San Gabriel : « Monsier Shalifu » et ses trente Néo-Mexicains (janv. 1837)": "L10",
+ "Mission San Fernando : mercenaires sans solde (21 janv. 1837)": "L11",
+ "Agua Caliente : Janssens dans le camp des Chaguanosos (mai 1837)": "L12",
+ "San Diego et Rancho Santa Ana : l'armée des ivrognes (juin 1837)": "L13",
+ "Mission San Luis Obispo : 1 400 chevaux volés (oct.-nov. 1837)": "L14",
+ "Vallée de San Joaquin : le « fameux chef bandit Califa » capturé (1839-1840)": "L15",
+ "Cajon Pass et Agua de Tomasa : la grande razzia (avril-mai 1840)": "L16",
+ "Embudo : le petit ranchero chez qui dîne Ruxton (déc. 1846)": "L17",
+ "Taos : Ursula chez le padre Martínez et le juré endormi (1847)": "L18",
+ "Embouchure de la Huerfano : la grotte et la tombe creusée (1854-1855)": "L19",
+ "Gray's Creek et la Purgatoire : maisons pour Felipe Baca (1859-1860)": "L20",
+ "Costilla (comté de Taos) : « Batis Chalifoux » au recensement de 1860": "L21",
+ "San Luis (Culebra) : recensement de 1860": "L22",
+ "Huerfano : mort chez Autobees (12 déc. 1860)": "L23"
+}
+def RENVOI(e):
+    i = RENVOIS.get(e['nom'])
+    return [{"texte": "Fiche dans l'Atlas Chalifoux →", "url": ATLAS_CHALIFOUX + i}] if i else []
 P = dict(id="chalifoux", nom="Jean-Baptiste Chalifoux", auteur=A, pages="58-75", vie="v. 1791-1860", hafen="Jean-Baptiste Chalifoux",
  chapeau="Trappeur de Charlesbourg, chef des « Chaguanosos », bande de Canadiens, Mexicains, Shawnees et Delawares qui louent leurs fusils aux révolutions californiennes et raflent des milliers de chevaux aux missions ; il finit fermier sur la Huerfano, peut-être le « Baptiste Brown » de Brown's Hole.")
 E = [

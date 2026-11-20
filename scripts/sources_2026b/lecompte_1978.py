@@ -1,6 +1,7 @@
 # Janet Lecompte, Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856 (1978), PDF du Drive de l'auteur (dossier FAR_WEST).
 # Corpus « Recherches », préfixe LC78. Seuls les épisodes où figurent des francophones sont retenus ; Chalifoux et Robidoux
 # sont traités dans leurs atlas (renvois), Maurice LeDuc dans la page maurice-leduc.html.
+# « Tom Autobees » chez Lecompte en 1847 = Tom Tobin, demi-frère de Charles (le fils Tom Autobees naît en 1849).
 from commun import Corpus
 LC = "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press"
 C = Corpus('Recherches', 'LC78', LC)
@@ -21,11 +22,11 @@ F('04', "Petit Arkansas : les trois enfants cheyennes de Guerrier reçoivent 640
 F('05', "El Pueblo : Canadiens et métis parmi les nouveaux venus (1844-1849)", 'etablissement', '1844/1849', -104.61, 38.265, 'a', [G, 'Antoine Cournoyer', 'John B. Guerin', 'Tesson', 'Pascual Rivière'],
   "Vers 1844 s'installent au Pueblo, avec d'anciens traiteurs des Bent, William Guerrier, Antoine Cournoyer, John B. Guerin et le chasseur à demi indien Pascual Rivière (Blackhawk). Le journal de Barclay note aussi que « Tesson », demi-Cheyenne, plie sa loge mais reste toute la nuit pour donner un fandango.",
   '61 et 138')
-F('06', "Moulin de Turley (Arroyo Hondo) : William LeBlanc s'échappe par le mur (janvier 1847)", 'evenement', '1847-01-19/1847-01-20', -105.668, 36.535, 'a', ['William LeBlanc', 'Tom Autobees', 'Simeon Turley'],
-  "Pendant la révolte de Taos, les assaillants incendient la distillerie de Simeon Turley. Turley, William LeBlanc et Tom Autobees s'échappent de nuit en perçant le mur d'adobe ; Tom gagne Santa Fe et LeBlanc Greenhorn, mais Turley, boiteux, est rattrapé et tué. LeBlanc avait été l'un des fondateurs français du poste de Buzzards' Roost, sur l'Adobe Creek.",
+F('06', "Moulin de Turley (Arroyo Hondo) : William LeBlanc s'échappe par le mur (janvier 1847)", 'evenement', '1847-01-19/1847-01-20', -105.668, 36.535, 'a', ['William LeBlanc', 'Tom Tobin (« Tom Autobees »)', 'Simeon Turley'],
+  "Pendant la révolte de Taos, les assaillants incendient la distillerie de Simeon Turley. Turley, William LeBlanc et Tom Tobin (« Tom Autobees », demi-frère de Charles Autobees) s'échappent de nuit en perçant le mur d'adobe ; Tobin gagne Santa Fe et LeBlanc Greenhorn, mais Turley, boiteux, est rattrapé et tué. LeBlanc avait été l'un des fondateurs français du poste de Buzzards' Roost, sur l'Adobe Creek.",
   '106 et 194')
-F('07', "Santa Fe : les Canadiens de l'Arkansas dans la compagnie de Ceran St. Vrain (janvier 1847)", 'evenement', '1847-01', -105.938, 35.687, 'c', ['Ceran St. Vrain', 'Antoine Cournoyer', 'Jean-Baptiste Chalifoux', 'Baptiste Sabourin', 'Charles Autobees', 'Tom Autobees'],
-  "Plusieurs hommes du haut Arkansas, dont Antoine Cournoyer, Baptiste Charlefou (Chalifoux), Baptiste Sabourin (« Sabowrain »), Charles et Tom Autobees, servent comme simples soldats dans la compagnie de volontaires levée à Santa Fe par Ceran St. Vrain pour réprimer la révolte de Taos.",
+F('07', "Santa Fe : les Canadiens de l'Arkansas dans la compagnie de Ceran St. Vrain (janvier 1847)", 'evenement', '1847-01', -105.938, 35.687, 'c', ['Ceran St. Vrain', 'Antoine Cournoyer', 'Jean-Baptiste Chalifoux', 'Baptiste Sabourin', 'Charles Autobees', 'Tom Tobin (« Tom Autobees »)'],
+  "Plusieurs hommes du haut Arkansas, dont Antoine Cournoyer, Baptiste Charlefou (Chalifoux), Baptiste Sabourin (« Sabowrain »), Charles Autobees et son demi-frère Tom Tobin (« Tom Autobees »), servent comme simples soldats dans la compagnie de volontaires levée à Santa Fe par Ceran St. Vrain pour réprimer la révolte de Taos.",
   '195')
 F('08', "Hardscrabble : les étrangers dénoncés par le général García Condé (1845-1846)", 'evenement', '1845-09/1846-05', -105.06, 38.36, 'a', ['Luis Lachoné', 'Baptiste Sabourin'],
   "À l'automne 1845, l'inspecteur militaire Francisco García Condé découvre des étrangers établis sans droit à Hardscrabble (Peñasco Amarillo), sur la concession Beaubien-Miranda et à La Junta de los Ríos ; sa liste nomme notamment Luis Lachoné, fils de Santiago Lachoné et d'Elena Varon (ou Bisonette), de Saint-Louis, marié à Taos en 1841. Les colons, sommés de présenter leurs titres à Taos avant le 26 octobre, ne viennent pas. Fin janvier 1846, Baptiste Sabourin et un autre homme de Hardscrabble sont « dénoncés » à leur arrivée à Taos.",
@@ -36,8 +37,8 @@ F('09', "Embudo : baptême des enfants Lacroix, fils et fille d'un chasseur cana
 F('10', "Platte du Sud : Baptiste Charbonneau et ses bateaux de peaux échoués (1842)", 'commerce', '1842-05/1842-07-09', -104.85, 40.28, 'h', ['Jean-Baptiste Charbonneau', 'Jim Beckwourth'],
   "Au printemps 1842, Baptiste Charbonneau descend du fort St. Vrain des bull-boats chargés de fourrures, mais les eaux trop basses de la Platte du Sud les échouent. Il passe l'été sur une île de la rivière, où Jim Beckwourth et Louise Sandoval le rejoignent et où Frémont le rencontre le 9 juillet 1842. En 1844, il chasse encore les mouflons pour la ménagerie des Sublette avec Marcellin St. Vrain et Seth Ward (« Ward & Shavano »).",
   '23, 128 et 282, n. 13', "Île non localisée, en aval du fort St. Vrain.")
-F('11', "Gué de la Saint-Charles : la ferme d'Autobees et de Labonte (été 1847)", 'etablissement', '1847-05/1847-10', -104.55, 38.18, 'a', ['Charles Autobees', 'Tom Autobees', 'Labonte', 'Pascual Rivière'],
-  "À l'été 1847, au passage de la piste sur la rivière Saint-Charles, à neuf milles au sud du Pueblo, Charles et Tom Autobees, Blackhawk (Pascual Rivière), Labonte et Levin Mitchell cultivent maïs et citrouilles.",
+F('11', "Gué de la Saint-Charles : la ferme d'Autobees et de Labonte (été 1847)", 'etablissement', '1847-05/1847-10', -104.55, 38.18, 'a', ['Charles Autobees', 'Tom Tobin (« Tom Autobees »)', 'Labonte', 'Pascual Rivière'],
+  "À l'été 1847, au passage de la piste sur la rivière Saint-Charles, à neuf milles au sud du Pueblo, Charles Autobees et son demi-frère Tom Tobin (« Tom Autobees »), Blackhawk (Pascual Rivière), Labonte et Levin Mitchell cultivent maïs et citrouilles.",
   '198 et 317, n. 4')
 F('12', "Fontaine qui bouille : les noms français de la vallée de l'Arkansas", 'toponymie', '1820~/1859', -104.917, 38.859, 'c', [],
   "Fountain Creek doit son nom aux deux sources minérales bouillonnantes de l'actuelle Manitou : « Fontaine qui bouille » (ou « qui bouit »). Lecompte souligne que les trois grandes rivières au nord de Santa Fe, Río Napestle (Arkansas), Río Almagre (Fontaine qui bouille) et Río Chato (Platte du Sud), ont perdu leurs noms indiens et espagnols pour garder ceux que les Français leur avaient donnés. Luz Metcalf se souvenait d'avoir fait du pain avec l'eau gazeuse des sources.",
