@@ -1160162,6 +1160162,777 @@
      }
     ]
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-01",
+    "nom": "Vieux Mobile : les Canadiens d'Iberville défrichent le site du fort Louis (20 janvier 1702)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1702.052,
+    "fin": 1702.052,
+    "date_edtf": "1702-01-20",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Le Moyne d'Iberville",
+     "Jean-Baptiste Le Moyne de Bienville",
+     "Charles Levasseur"
+    ],
+    "description": "Le 20 janvier 1702, les Canadiens d'Iberville commencent à défricher le Twenty-seven Mile Bluff, sur la rive droite de la rivière Mobile, juste en aval des villages des Mobiliens, qui ont recommandé l'endroit. On bâtit d'abord le fort Louis, carré de 22 toises entre les pointes des bastions, aux bastions de pièce sur pièce ; le logis de Bienville, avec un balcon sur la rivière, la chapelle, le magasin et le corps de garde forment les murs intérieurs. Un plan de la ville, probablement de Charles Levasseur, trace la même année les rues et les lots. Les Français nomment la ville d'après leurs alliés mobiliens. La poudre, stockée dans un magasin souterrain, est vite gâtée par les infiltrations ; un ouragan détruit les bastions en 1708, aussitôt rebâtis plus grands.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 4-7.",
+    "note": "Point au site du Vieux Mobile (Twenty-seven Mile Bluff). Waselkov date la décision d'Iberville de janvier 1702."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-02",
+    "nom": "Vieux Mobile : le dénombrement de Nicolas de La Salle (31 août 1704) et celui de 1708",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1704.666,
+    "fin": 1708.999,
+    "date_edtf": "1704-08-31/1708",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Nicolas de La Salle",
+     "Madeleine Chartroux"
+    ],
+    "description": "Le commissaire Nicolas de La Salle, qui avait accompagné l'explorateur La Salle au Texas vingt ans plus tôt, compte le 31 août 1704 cent quatre-vingts hommes armés de fusils et vingt-sept familles françaises, qui n'ont que trois petites filles et sept garçons de un à dix ans. Les colons occupent quatre-vingts maisons de bois d'un étage, couvertes de palmes ou de paille ; onze Autochtones (six garçons de 12 à 18 ans et cinq jeunes femmes) sont tenus en esclavage en ville ; un jésuite et trois prêtres du Séminaire desservent la ville et les missions. Il note aussi seize canons de fer de 12 et de 8 livres au fort, et le bétail : neuf bœufs, quatorze vaches, quatre taureaux, cinq veaux, cent porcs, trois chevreaux, quatre cents poules. En 1708, il recense 339 personnes, dont 122 hommes de garnison, 24 habitants sans concession, 28 Françaises et 25 enfants, soixante Canadiens vivant « dans les villages sauvages le long du Mississippi sans permission d'aucun gouverneur » et quatre-vingts esclaves autochtones.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 10, 26.",
+    "note": "Madeleine Chartroux, épouse de Nicolas de La Salle, était venue avec sa famille sur les expéditions de 1701-1702 (p. 21). Le dénombrement de 1704 est aux Archives des Colonies, C13A 1, f. 469-470."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-03",
+    "nom": "Vieux Mobile : maison et jardin des prêtres du Séminaire de Québec, et le cimetière (plan de 1704-1705)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1704.0,
+    "fin": 1705.999,
+    "date_edtf": "1704/1705",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "La Vente (curé)"
+    ],
+    "description": "À l'ouest de la ville, les prêtres du Séminaire de Québec ont leur logis et un grand jardin clos ; le croquis qu'en donne le plan de 1704-1705, avec cheminée centrale, toit en croupe et double porte, est, avec celui du fort, la seule vue d'époque d'un bâtiment du Vieux Mobile. En face, de l'autre côté de la rue, un terrain de 25 toises de côté est réservé au cimetière. Le curé La Vente tonne contre les colons qui gardent des esclaves autochtones comme concubines.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 7-9, 39.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-04",
+    "nom": "Vieux Mobile : la briqueterie et les briquetiers Pierre Brossard et Charles Mire (1703)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1703.0,
+    "fin": 1711.999,
+    "date_edtf": "1703/1711",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Brossard",
+     "Charles Mire",
+     "Jacques Le Comte"
+    ],
+    "description": "Le plan de 1704-1705 indique, au bord de la rivière, le « Terrain par La Bricqterie » ; les analyses confirment que les briques de la ville sont faites de l'argile de la berge, moulées à la main et cuites au four : c'est la première industrie de type européen de la colonie. Arrivés en 1703, les briquetiers Pierre Brossard et Charles Mire suffisent à la demande, faute de briques importées ; les tuiles, elles, viennent de France et ne coiffent, semble-t-il, que les faîtes. Le charpentier Jacques Le Comte travaille au fort et à une église paroissiale dont l'emplacement est inconnu.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 16-17, 24.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "WA99-05",
+    "nom": "Port-Dauphin : le Pélican débarque une vingtaine de jeunes Françaises, et la fièvre jaune (juillet 1704)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1704.5,
+    "fin": 1704.5,
+    "date_edtf": "1704-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Fin juillet 1704, le Pélican débarque à Port-Dauphin, sur l'île Massacre, une vingtaine de jeunes femmes recrutées par l'évêque de Québec, surtout aux environs de Paris, pour épouser les Canadiens de la Louisiane ; presque toutes tiennent parole. Mais le navire apporte aussi la fièvre jaune, contractée à La Havane : plus de quarante colons de Mobile en meurent, et l'épidémie frappe les petites nations voisines. Port-Dauphin, où l'on transborde les marchandises sur des chaloupes et des canots pour remonter la baie jusqu'à Mobile, reste le port d'entrée de la colonie pendant vingt ans. Seuls cinq grands navires ravitaillent la Louisiane pendant l'occupation du Vieux Mobile (Renommée 1702, Loire 1703, Pélican 1704, Aigle 1706, Renommée 1708).",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 1-2, 22-23.",
+    "note": "Point au village de Port-Dauphin (île Dauphine)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-06",
+    "nom": "Vieux Mobile : Bienville ferme le cabaret d'Étienne Burelle (1706)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1706.0,
+    "fin": 1706.999,
+    "date_edtf": "1706",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Étienne Burelle",
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Le seul cabaretier connu du Vieux Mobile est le Français Étienne Burelle, arrivé en 1704 sur le Pélican : Bienville ferme son cabaret six mois en 1706 pour avoir acheté des marchandises volées au magasin du roi. Les fouilles ont pourtant trouvé des débris de cabaret (verres à vin, pipes de terre surtout anglaises) sur deux autres sites de la ville et sur la seule maison fouillée du village de Port-Dauphin.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 28-29.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11,
+     30.25
+    ]
+   },
+   "properties": {
+    "id": "WA99-07",
+    "nom": "Port-Dauphin : le fort de 1710 et l'attaque des pirates de la Jamaïque",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1710.0,
+    "fin": 1710.999,
+    "date_edtf": "1710",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [],
+    "description": "Pendant la guerre de Succession d'Espagne, un petit commerce de contrebande se fait avec les navires anglais et hollandais qui longent la côte, jusqu'à ce que des pirates anglais de la Jamaïque attaquent Port-Dauphin en 1710. Un fort est bâti cette année-là sur l'île, où l'on transporte peut-être une partie des canons du fort Louis. Après 1713, le commerce discret avec la Caroline du Sud reprend : la maison fouillée à Port-Dauphin (v. 1715-1725) a livré beaucoup de bouteilles anglaises et une intaille au motif d'alambic.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 26, 30-34.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.023,
+     30.922
+    ]
+   },
+   "properties": {
+    "id": "WA99-08",
+    "nom": "Vieux Mobile : la forge de la lisière nord-ouest (structure 2)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1702.0,
+    "fin": 1711.999,
+    "date_edtf": "1702/1711",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "Fouillée en 1990 au bord du marais qui borne la ville à l'ouest, la forge est un petit bâtiment de poteaux sur sole de 4,8 sur 6,2 mètres : 86 kilos de scories, un tas d'anthracite (peut-être les dix barriques de « charbon d'Angleterre » envoyées en 1701 avec deux enclumes, un étau et un soufflet), des bouts de verges à clous. Le forgeron fabrique des clous et répare chaudrons, gardes d'épée et armes, dont une platine de mousquet espagnol à la miquelet ; des pointes de flèche taillées tout près laissent penser qu'il avait un aide autochtone. Une quinzaine de clôtures entrecroisées entourent l'atelier, dont un poulailler.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 20-21.",
+    "note": "Position décalée de quelques centaines de mètres vers le nord-ouest du point du fort, pour la lisibilité."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-09",
+    "nom": "Le Vieux Mobile abandonné et brûlé (1711), puis retrouvé (1989-1993)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1711.0,
+    "fin": 1993.999,
+    "date_edtf": "1711/1993",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Donald Harris",
+     "James C. Parnell",
+     "Jay Higginbotham",
+     "Gregory A. Waselkov"
+    ],
+    "description": "En 1711, les colons transportent leur établissement à la tête de la baie et, semble-t-il, incendient la vieille ville, dont ils récupèrent briques et tuiles mais pas les milliers de clous de chaque maison. Le site reste un repère, le « Vieux Fort ». Donald Harris y fait un premier sondage en 1970 ; en 1989, l'ingénieur James C. « Buddy » Parnell, inspiré par le livre de Jay Higginbotham (1977), dégage sous de légers renflements des sols d'argile, des briques et des clous. L'équipe de l'Université de South Alabama dirigée par Waselkov fouille alors la structure 1 et creuse de 1989 à 1993 15 025 sondages à la pelle, la plus vaste prospection de ce genre en Amérique : 55 bâtiments sur 70 acres, tous orientés à 40° ouest du nord, comme les rues des plans d'époque.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 1-2, 10-12, 16.",
+    "note": "Le site porte le numéro 1MB94."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.03,
+     30.95
+    ]
+   },
+   "properties": {
+    "id": "WA99-10",
+    "nom": "Après 1711 : le « Vieux Fort », le village Sainte-Hermine et l'habitation de M. de La Tour (carte v. 1725)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1725.0,
+    "fin": 1725.999,
+    "date_edtf": "1725~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "M. de La Tour"
+    ],
+    "description": "Sur une carte du cours de la Mobile attribuée à Valentin Devin, vers 1725, l'ancien fort et la vieille ville restent des repères le long de la rivière ; quelques familles françaises vivent au village de Sainte-Hermine ou exploitent des habitations riveraines, comme M. de La Tour au Twenty-one Mile Bluff, en aval. Deux villages mobiliens occupent toujours les escarpements de Seymour et de Chastang.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 55.",
+    "note": "Point au Twenty-one Mile Bluff (même point que les autres fiches de ce lieu)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.02,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": "WA99-11",
+    "nom": "Vieux Mobile : Bienville accueille les Apalaches et les Chatos chassés de Floride (juillet 1704)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1704.5,
+    "fin": 1704.5,
+    "date_edtf": "1704-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville",
+     "Alexandre Huvé"
+    ],
+    "description": "En juillet 1704, environ 800 habitants de San Luis de Talimali, capitale de la province d'Apalache, et de trois villages alliés, chassés par les raids des Creeks et des Anglais de James Moore, marchent près de 300 milles jusqu'à Mobile en poussant leur bétail ; ils refusent de s'établir près de Pensacola, disant que les Français les armeront mieux. Bienville leur fournit du maïs de semence et confie leur soin spirituel au père Alexandre Huvé, qui commence aussitôt à baptiser. Les Apalaches fondent deux villages en amont des Mobiliens ; environ deux cents Chatos s'établissent aux Oignonets, à l'embouchure de la rivière. Leurs potières fabriquent pour les colons des imitations de vaisselle européenne (pichets, pieds de verre).",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 43-46.",
+    "note": "Point au Vieux Mobile, où Bienville les reçoit ; voir les fiches de l'Atlas des Autochtones pour les villages."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.13,
+     19.2
+    ]
+   },
+   "properties": {
+    "id": "WA99-12",
+    "nom": "De Mobile à Veracruz : la Précieuse, l'Espérance, l'Aventurier et la contrebande (1702-1711)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1702.0,
+    "fin": 1711.999,
+    "date_edtf": "1702/1711",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Jean-Baptiste Le Moyne de Bienville"
+    ],
+    "description": "Les prêts de poudre et de vivres que Bienville consent à la garnison espagnole de Pensacola servent de prétexte à des voyages à Veracruz pour en obtenir le remboursement. Les petits bâtiments de la colonie, la Précieuse, l'Espérance et l'Aventurier, font la navette jusqu'à ce que chacun coule, rongé par les vers, dans le port de l'île Massacre ; chaque voyage emporte aussi des marchandises pour un commerce illicite. En 1710, un colon accuse Bienville et ses frères de se servir des vaisseaux du roi pour vendre leurs pelleteries à Veracruz. Les fouilles du Vieux Mobile ont livré une quantité étonnante de céramique mexicaine (majolique de Puebla, poterie de Tonalá et d'El Morro), de porcelaine chinoise et de piécettes d'argent de Mexico et de Potosí.",
+    "sources": "Waselkov, Gregory A. (1999), Old Mobile Archaeology, Mobile, Center for Archaeological Studies, University of South Alabama (rééd. University of Alabama Press, 2005), p. 45-50.",
+    "note": "Point à Veracruz."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.07,
+     31.13
+    ]
+   },
+   "properties": {
+    "id": "DU18-01",
+    "nom": "Avoyelles : le curé Louis Alaux mendie de porte en porte (1835)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1835.0,
+    "fin": 1835.999,
+    "date_edtf": "1835",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Alaux",
+     "Antoine Blanc"
+    ],
+    "description": "En 1835, le père Louis Alaux, curé des Avoyelles, écrit à l'évêque Blanc qu'il doit mendier de porte en porte pour vivre, qu'il est couvert d'insultes, menacé du fouet « comme le dernier des esclaves », vilipendé et calomnié : voilà, dit-il, ce que les paroissiens des Avoyelles infligent au deuxième prêtre qu'on leur envoie. Les auteurs citent sa lettre parmi les témoignages sur la misère des curés de campagne et le peu d'empressement des fidèles dans les années 1830.",
+    "sources": "Dubois, Sylvie, Emilie Gagnet Leumas et Malcolm Richardson (2018), Speaking French in Louisiana, 1720-1955: Linguistic Practices of the Catholic Church, Baton Rouge, Louisiana State University Press, chap. 2.",
+    "note": "Point à Marksville, chef-lieu de la paroisse des Avoyelles."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.03,
+     30.0
+    ]
+   },
+   "properties": {
+    "id": "DU18-02",
+    "nom": "Paroisse de l'Assomption : au séminaire, l'anglais devient un « commandement » (1841)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1841.0,
+    "fin": 1841.999,
+    "date_edtf": "1841",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Armengol (père)",
+     "Antoine Blanc"
+    ],
+    "description": "Dès 1839, prêtres et religieuses signalent dans leurs lettres la nouvelle coutume des élèves de parler anglais entre eux. En 1841, le père Armengol écrit en français à Mgr Blanc, de la paroisse de l'Assomption, que tout le monde au séminaire s'efforce de parler anglais depuis qu'il en a fait un commandement après la visite de l'évêque. Blanc, soucieux de former un clergé bilingue, envoie aussi ses prêtres français apprendre l'anglais à Bardstown (Kentucky) ou aux Barrens (Missouri).",
+    "sources": "Dubois, Sylvie, Emilie Gagnet Leumas et Malcolm Richardson (2018), Speaking French in Louisiana, 1720-1955: Linguistic Practices of the Catholic Church, Baton Rouge, Louisiana State University Press, chap. 2.",
+    "note": "Point approximatif sur le bayou Lafourche ; les auteurs ne nomment pas le séminaire."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.075,
+     29.927
+    ]
+   },
+   "properties": {
+    "id": "DU18-03",
+    "nom": "Faubourg Lafayette (La Nouvelle-Orléans) : Notre-Dame-de-Bon-Secours, la française, entre l'allemande et l'irlandaise (1854)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1854.0,
+    "fin": 1854.999,
+    "date_edtf": "1854",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Rulland (père)"
+    ],
+    "description": "Dans l'ancien faubourg Lafayette, les rédemptoristes desservent trois églises nationales : Saint Mary's Assumption pour les Allemands et Saint Alphonsus pour les Irlandais, face à face de part et d'autre d'une rue étroite, et Notre-Dame-de-Bon-Secours pour les Français, un peu plus loin. En 1854, le père Rulland écrit à son supérieur que les catholiques allemands exigent qu'on ne loue plus de bancs aux Français, à qui ils reprochent d'occuper leur église. Les annales comptent les premières communions par nationalité : les Français y sont toujours moins nombreux que les Allemands et les anglophones.",
+    "sources": "Dubois, Sylvie, Emilie Gagnet Leumas et Malcolm Richardson (2018), Speaking French in Louisiana, 1720-1955: Linguistic Practices of the Catholic Church, Baton Rouge, Louisiana State University Press, chap. 2.",
+    "note": "Point approximatif près des églises Saint Mary's et Saint Alphonsus (rue Constance)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.125,
+     29.945
+    ]
+   },
+   "properties": {
+    "id": "DU18-04",
+    "nom": "Carrollton : « il n'y a plus d'autre sermon qu'en anglais » (1859)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1859.0,
+    "fin": 1859.999,
+    "date_edtf": "1859",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "En 1859, des paroissiens de Carrollton, aujourd'hui quartier de La Nouvelle-Orléans, se plaignent à l'archevêché que les derniers dimanches il n'y a eu d'autre sermon qu'en anglais, ce qui indispose les Français et les Allemands, alors que les autres prêtres savent les trois langues. Pour les auteurs, les Louisianais, bilingues dans les affaires, tenaient à la langue du sermon et de la confession.",
+    "sources": "Dubois, Sylvie, Emilie Gagnet Leumas et Malcolm Richardson (2018), Speaking French in Louisiana, 1720-1955: Linguistic Practices of the Catholic Church, Baton Rouge, Louisiana State University Press, chap. 2.",
+    "note": "Point au quartier de Carrollton."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.95,
+     44.354
+    ]
+   },
+   "properties": {
+    "id": "NI41-03",
+    "nom": "Traverse des Sioux (Oiyuwega) : le passage des Sioux et le poste de traite (1838)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1838.0,
+    "fin": 1838.999,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Nicolas Nicollet"
+    ],
+    "description": "À 116 milles de St. Peter's en remontant la rivière Saint-Pierre (Minnesota), la Traverse des Sioux, Oiyuwega pour les Sioux, est selon Nicollet appelée à devenir la position la plus importante de la vallée : bon débarcadère, sol excellent et boisé, force hydraulique d'un ruisseau voisin. Il s'y taille des canots de 32 pieds dans les cotonniers. Un poste de traite fait face au passage, et à un mille de là des cercles de pierres marquent un ancien camp dont les Sissetons, maîtres des lieux, n'ont gardé aucune tradition.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 12-13.",
+    "note": "Point au site historique de Traverse des Sioux (St. Peter, Minnesota)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.88,
+     45.02
+    ]
+   },
+   "properties": {
+    "id": "NI41-04",
+    "nom": "Lac qui Parle : la maison des Renville, seul refuge sur 700 milles (1838)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1838.0,
+    "fin": 1838.999,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Renville",
+     "Joseph-Nicolas Nicollet"
+    ],
+    "description": "Au Lac qui Parle réside la famille Renville, père et fils. Depuis des années, écrit Nicollet, leur maison est le seul refuge offert aux voyageurs entre St. Peter's et les postes britanniques, sur 700 milles ; il a lui-même profité de leur hospitalité, et leur grande influence sur les nations de la région maintient la paix et protège les voyageurs, ce qui mériterait la reconnaissance du gouvernement des États-Unis et de la Compagnie de la Baie d'Hudson. Il prévoit que l'endroit deviendra une étape du commerce naissant avec la colonie de la rivière Rouge. En 1838, c'est du Lac qui Parle que doit partir le renfort promis pour sa campagne de 1839.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 12-13, 41.",
+    "note": "Point approximatif au fort Renville (parc d'État de Lac qui Parle)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.75,
+     44.05
+    ]
+   },
+   "properties": {
+    "id": "NI41-05",
+    "nom": "La Grande Lisière de Bois (Great Oasis) : l'ancien poste de Joseph Laframboise (1838)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1838.0,
+    "fin": 1838.999,
+    "date_edtf": "1838",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Laframboise",
+     "Joseph-Nicolas Nicollet"
+    ],
+    "description": "Sur le plateau du Coteau des Prairies, le bosquet que les Sioux appellent Tchan-Haye-tanka et les voyageurs « la grande lisière de bois », entouré de lacs poissonneux, a longtemps été un poste de traite relevant de l'agence de St. Peter's. Joseph Laframboise, guide et interprète de Nicollet en 1838, y a vécu plusieurs années comme agent de l'American Fur Company ; le poste a été fermé depuis que les Wahpetons, les Sissetons et les Wahpekutes ont été décimés par leurs guerres avec les Sauks et les Renards et par la variole. Nicollet rapporte ailleurs que les traiteurs de la compagnie hivernent souvent aux sources de la Des Moines, et qu'une fois, faute de moyens de transport par terre, Laframboise fit construire un grand canot, y chargea ses pelleteries, s'embarqua sur la Tchanshetcha et gagna St. Peter's par la Watonwan et la Mankato.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 13-14, 24-25.",
+    "note": "Position hypothétique : la Great Oasis est d'ordinaire située dans le comté de Murray (Minnesota) ; Nicollet ne donne pas de coordonnées. Le même texte nomme aussi les lacs Shetek, nom sauteux donné par les voyageurs."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.325,
+     44.013
+    ]
+   },
+   "properties": {
+    "id": "NI41-06",
+    "nom": "La carrière de pierre à calumet : Nicollet la dégage et vaccine les Sioux (été 1838)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1838.417,
+    "fin": 1838.5,
+    "date_edtf": "1838-06/1838-07",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Nicolas Nicollet",
+     "Joseph Renville",
+     "Joseph Laframboise"
+    ],
+    "description": "À la carrière de pierre rouge, sur les terres des Sissetons, où les nations voisines viennent chaque année en pèlerinage, la caravane de Nicollet est accueillie par un violent orage qui manque de renverser le chariot de M. Renville. Le lendemain arrive un parti de Sioux qui les suivait depuis des jours ; après trois jours de purification rituelle, ils commencent à extraire la pierre. Pour l'atteindre, il faut faire sauter une couche de quartzite de quatre pieds et demi : Nicollet y met ses hommes, et en trois jours la carrière est dégagée. Il en profite pour faire ses observations astronomiques et vacciner les Autochtones qui se sont joints à son groupe.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 15-17.",
+    "note": "Point au Pipestone National Monument (Minnesota). Le rapport ne date pas la visite au jour près."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.63,
+     44.6
+    ]
+   },
+   "properties": {
+    "id": "NI41-07",
+    "nom": "Rivière aux Canots (Cannon River) : la cache des traiteurs",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1700.0,
+    "fin": 1763.999,
+    "date_edtf": "1700~/1763",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre-Charles Le Sueur"
+    ],
+    "description": "Au temps des Français, rapporte Nicollet, la rivière que l'on appelle maintenant Cannon River portait le nom de « rivière aux Canots », parce que les traiteurs avaient l'habitude d'y cacher leurs canots ; le nom anglais en est une déformation. Les Sioux l'appelaient déjà Inyan-bosndata quand Le Sueur remonta le Mississippi en 1700. Nicollet la nomme aussi rivière La Hontan.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 20-22.",
+    "note": "Point à l'embouchure, près de Red Wing (Minnesota)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.3,
+     43.7
+    ]
+   },
+   "properties": {
+    "id": "NI41-08",
+    "nom": "Les « côtes brûlées » du Missouri, entre Scalp Mountain et la Grande Courbe (1839)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1839.0,
+    "fin": 1839.999,
+    "date_edtf": "1839",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph-Nicolas Nicollet"
+    ],
+    "description": "En remontant le Missouri en 1839, Nicollet longe sur 130 milles, de Scalp Mountain jusqu'au-delà de la Grande Courbe (Karmichigah), une zone noire que les voyageurs appellent « les côtes brûlées », collines visitées par des feux souterrains dont de nombreux traiteurs ont vu l'activité ; les parties les plus noires et stériles sont les plus récemment brûlées.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 39-41.",
+    "note": "Position hypothétique, au milieu du tronçon décrit (Dakota du Sud)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.45,
+     44.95
+    ]
+   },
+   "properties": {
+    "id": "NI41-09",
+    "nom": "Talle de Chênes (Otuhu oju), rivière Jacques : le rendez-vous d'un an (10 juillet 1839)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1839.525,
+    "fin": 1839.525,
+    "date_edtf": "1839-07-10",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph-Nicolas Nicollet",
+     "Etienne Provost",
+     "John C. Frémont"
+    ],
+    "description": "Parti du fort Pierre, Nicollet atteint le 10 juillet 1839 la rivière Jacques à un lieu célèbre que les Sioux appellent Otuhu oju, « là où poussent les chênes », et les Français la Talle de Chênes ; il le porte sur sa carte comme « Oakwood Settlement ». Il y avait fixé un an plus tôt, pour le 8 au 12 juillet, le rendez-vous du renfort qui devait venir du Lac qui Parle. Le renfort ne vint pas, mais Nicollet, qui avait entretenu l'espoir de ses hommes avec cette promesse, avait déjà pris le parti de s'en passer. Il estime l'endroit à 110 milles du fort Pierre, à 1 340 pieds d'altitude.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 41, 46-47.",
+    "note": "Position hypothétique sur la rivière James (Dakota du Sud), à environ 110 milles du fort Pierre selon Nicollet."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.6,
+     46.3
+    ]
+   },
+   "properties": {
+    "id": "NI41-10",
+    "nom": "Rivière Jacques : l'hiver de Louison Frenière, agent du fort Pierre (1836-1837)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1836.0,
+    "fin": 1837.999,
+    "date_edtf": "1836/1837",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louison Frenière"
+    ],
+    "description": "Le fort Pierre envoie parfois un agent troquer avec les bandes qui suivent la rivière Jacques. C'est à ce titre que Louison Frenière y passe l'hiver 1836-1837 : les bisons ne viennent pas, la variole se répand parmi toutes les nations de la région, il ne lui reste pour vivre que des racines déterrées sous la neige ; ses engagés meurent de faim, et au printemps sa maison est entourée de cadavres. Plus haut, la caravane de 1839 quitte la rivière à l'endroit que les voyageurs nomment « Butte aux Os », d'après un grand tas d'os d'animaux amassés par les Autochtones.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 47-48.",
+    "note": "Position hypothétique sur la rivière James ; Nicollet ne situe pas la maison."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1,
+     45.7
+    ]
+   },
+   "properties": {
+    "id": "NI41-11",
+    "nom": "Coteau des Prairies : Louison Frenière peint de vermillon le cheval abandonné (1839)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1839.583,
+    "fin": 1839.583,
+    "date_edtf": "1839-08~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louison Frenière",
+     "Joseph-Nicolas Nicollet",
+     "John C. Frémont"
+    ],
+    "description": "Sur le haut Coteau des Prairies, Nicollet prête son cheval blanc, compagnon de toute la campagne de 1839, à son guide métis Louison Frenière, qui accompagne Frémont dans l'exploration d'une série de lacs. Épuisé, le cheval doit être abandonné. Le lendemain, Frenière va le revoir et, avant de le laisser, lui peint la tête et le corps de vermillon pour le recommander aux génies du lieu et à tout Autochtone qui le trouverait.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 10-11.",
+    "note": "Position hypothétique sur le haut Coteau des Prairies (nord-est du Dakota du Sud)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.4,
+     47.89
+    ]
+   },
+   "properties": {
+    "id": "NI41-12",
+    "nom": "Lac des Chicots (Wamduskamde) : un nom des Métis de la rivière Rouge (1839)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1839.583,
+    "fin": 1839.583,
+    "date_edtf": "1839-08~",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph-Nicolas Nicollet"
+    ],
+    "description": "Après le lac du Diable, la caravane atteint un lac salé en fer à cheval, de quinze à seize milles de tour, que les Sioux appellent Wamduskamde, le lac des Serpents, et que Nicollet croit être celui que les Métis de la rivière Rouge nomment « lac des Chicots ». Il se décharge dans la Cheyenne (Shayen oju) ; la troupe campe près d'un petit lac d'eau douce voisin.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 51-52.",
+    "note": "Identifié d'ordinaire au lac Stump (Dakota du Nord), Wamduska en dakota ; l'identification au lac des Chicots est une supposition de Nicollet."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.4,
+     47.17
+    ]
+   },
+   "properties": {
+    "id": "NI41-13",
+    "nom": "Lac Sangsue (Leech Lake) : Francis Brunet, le guide géant de la pointe à la Loutre (août 1836)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1836.583,
+    "fin": 1836.583,
+    "date_edtf": "1836-08",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Francis Brunet",
+     "Joseph-Nicolas Nicollet",
+     "William T. Boutwell"
+    ],
+    "description": "En 1836, Nicollet passe une semaine au lac Sangsue, la tente plantée sur la pointe à la Loutre (Otter-tail Point), où réside son principal guide, Francis Brunet : six pieds trois pouces, un géant d'une grande force, plein de bonté et excellent géographe d'instinct. Les trois premiers jours, les Sauteux du lac, mécontents de la pauvreté de ses présents, menacent sa vie, et Brunet ose à peine prendre son parti. Ils l'appellent un « Français du vieux temps ». Le missionnaire William T. Boutwell, qui tente d'établir une mission chez les Pillagers du lac, traverse le lac le quatrième jour, malgré le vent, pour lui venir en aide. Nicollet estime la population du lac à un millier d'âmes.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 54-56, 63.",
+    "note": "Point approximatif à la pointe Otter Tail du lac Leech (Minnesota)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.207,
+     47.24
+    ]
+   },
+   "properties": {
+    "id": "NI41-14",
+    "nom": "Lac Itasca : Nicollet, Francis Brunet et le Sauteux Kegwedzissag aux sources du Mississippi (29 août 1836)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1836.66,
+    "fin": 1836.66,
+    "date_edtf": "1836-08-29",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Joseph-Nicolas Nicollet",
+     "Francis Brunet"
+    ],
+    "description": "Parti du lac Sangsue dans un canot d'écorce avec trois compagnons, dont Francis Brunet et un Sauteux respecté, Kegwedzissag, qui chasse dans ce pays et le dit sien, Nicollet remonte par le lac Kabekonang jusqu'au lac Itasca. Le 29 août 1836, il explore le ruisseau principal qui s'y jette, large de 15 à 20 pieds à l'entrée, et le tient pour le véritable « Mississippi enfant », puisque ses sources sont les plus éloignées de l'embouchure.",
+    "sources": "Nicollet, Joseph-Nicolas (1841), Report Intended to Illustrate a Map of the Hydrographical Basin of the Upper Mississippi River, 26e Congrès, 2e session, Sénat, doc. 237, p. 56-59.",
+    "note": "Point au lac Itasca (Minnesota)."
+   }
   }
  ]
 }
