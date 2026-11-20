@@ -126308,6 +126308,62 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -102.5,
+     35.6
+    ]
+   },
+   "properties": {
+    "id": "DY00-01",
+    "nom": "Rivière Canadienne (enclave du Texas) : un nommé Pratte, premier tué de l'attaque contre la caravane de J. H. Carr (1er janvier 1833)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1833.0,
+    "fin": 1833.003,
+    "date_edtf": "1833-01-01/1833-01-02",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pratte",
+     "J. H. Carr",
+     "Mitchell"
+    ],
+    "description": "Le 1er janvier 1833, une douzaine de traiteurs, apparemment menés par J. H. Carr, reviennent de Santa Fe vers le Missouri avec un convoi de mules et plus de dix mille dollars en or et en argent. À environ 200 milles au nord-est de Santa Fe, près de la rivière Canadienne, des Indiens, probablement des Kiowas, les attaquent. Selon le Missouri Republican du 3 mars 1833, cité par Dary, un homme nommé Pratte est tué le premier, alors qu'il tente de rattraper une mule loin du camp ; un nommé Mitchell est tué ensuite. Retranchés, les traiteurs tiennent un jour et demi, jusqu'à ce que les assaillants les laissent partir. Toutes les mules ayant été tuées, ils abandonnent l'or et marchent vers l'est : cinq atteignent le Missouri, trois un établissement creek, et deux disparaissent. La nouvelle de l'attaque pousse le Congrès à créer en mars 1833 un régiment de « rangers » montés, qui escorte la caravane du printemps.",
+    "sources": "Dary, David (2000), The Santa Fe Trail. Its History, Legends, and Lore, New York, Alfred A. Knopf, p. 153-154 (PDF).",
+    "note": "Dary ne donne pas le prénom de Pratte ni son lien éventuel avec la famille Pratte de Saint-Louis. Point placé approximativement sur la rivière Canadienne, dans l'enclave du Texas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.07,
+     28.635
+    ]
+   },
+   "properties": {
+    "id": "DY00-02",
+    "nom": "Chihuahua : « deux respectables dames françaises » venues par la piste de Santa Fe, selon Josiah Gregg (vers 1831-1844)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1831.0,
+    "fin": 1844.999,
+    "date_edtf": "1831/1844",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Josiah Gregg"
+    ],
+    "description": "Racontant son départ de 1831 avec la caravane de Charles Bent, où voyageait une famille espagnole bannie en 1829 qui rentrait au Mexique, Josiah Gregg note dans Commerce of the Prairies (1844) que d'autres femmes ont traversé les prairies jusqu'à Santa Fe à diverses époques. Il dit avoir connu parmi elles deux respectables dames françaises, qui résident alors (en 1844) à Chihuahua. Dary cite ce passage parmi les rares mentions de voyageuses sur la piste.",
+    "sources": "Dary, David (2000), The Santa Fe Trail. Its History, Legends, and Lore, New York, Alfred A. Knopf, p. 144-145 (PDF).",
+    "note": "Gregg ne nomme pas ces deux femmes. Point placé à Chihuahua, leur lieu de résidence en 1844."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
