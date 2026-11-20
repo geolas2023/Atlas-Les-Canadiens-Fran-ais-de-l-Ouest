@@ -80326,6 +80326,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -105.37,
+     40.04
+    ]
+   },
+   "properties": {
+    "id": "DA85-01",
+    "nom": "Crisman (Colorado) : la cave à vin murée du Français Pierre Ardourel (1894)",
+    "corpus": "Recherches",
+    "theme": "personne",
+    "debut": 1880.0,
+    "fin": 1894.999,
+    "date_edtf": "1880~/1894",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Ardourel"
+    ],
+    "description": "Dans le camp minier de Crisman, à sept milles à l'ouest de Boulder, fondé au milieu des années 1880 autour des mines Yellow Pine et Great Logan, le principal citoyen est un Français, le propriétaire de mine Pierre Ardourel. Il s'y bâtit une belle maison avec une vaste cave à vin. En 1894, un tracé malencontreux de la voie ferrée à écartement étroit bloque l'accès de la cave ; la légende veut que les bouteilles y vieillissent encore.",
+    "sources": "Dallas, Sandra (1985), Colorado Ghost Towns and Mining Camps, Norman, University of Oklahoma Press, p. 153-154 (PDF).",
+    "note": "Point approximatif à Crisman, dans le canyon Four Mile, à l'ouest de Boulder."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -113.0,
      65.5
     ]
