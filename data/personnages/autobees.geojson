@@ -1,0 +1,785 @@
+{
+ "type": "FeatureCollection",
+ "name": "autobees",
+ "personnage": {
+  "id": "autobees",
+  "nom": "Charles et Tom Autobees",
+  "auteur": "Janet Lecompte",
+  "pages": "21-38",
+  "vie": "1812-1882 · Tom, né en 1849",
+  "ouvrage": "d'après les carnets de Cragin et les travaux de Janet Lecompte (Colorado Magazine 1957-1958 ; The Mountain Men, vol. IV, p. 21-38)",
+  "chapeau": "Né à Saint-Louis d'un père canadien noyé dans le Saint-Laurent, Charles Autobees (Hautbois, « Ortivis » dans les registres de Taos) remonte le Missouri à seize ans, épouse à Taos Serafina Ávila, convoie le whisky de Simeon Turley, guide les dragons contre les Utes et fonde en 1853 sur la Huerfano la plaza où meurt Chalifoux. Son fils Tom, né en 1849, raconte cette vie à Francis Cragin en 1907. À ne pas confondre avec Tom Tobin, demi-frère de Charles, appelé lui aussi « Tom Autobees » dans les années 1840.",
+  "couleur": "#2a7f62"
+ },
+ "bibliographie": [
+  "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179 ; chap. III-VIII dans les numéros suivants.",
+  "Lecompte, Janet (1958), « Charles Autobees » (chap. IX), The Colorado Magazine, vol. 35, no 4 (octobre), p. 303-308.",
+  "Lecompte, Janet, « Charles Autobees », dans Hafen, LeRoy R. (dir.), The Mountain Men and the Fur Trade of the Far West, Glendale, Arthur H. Clark, vol. IV (1966), p. 21-38.",
+  "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press.",
+  "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable »."
+ ],
+ "inedits": [],
+ "blocs": [],
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.199,
+     38.627
+    ]
+   },
+   "properties": {
+    "id": "autobees-01",
+    "ordre": 1,
+    "nom": "Saint-Louis : naissance de Charles Autobees (1812)",
+    "phase": "Saint-Louis et les montagnes",
+    "debut": 1812.0,
+    "fin": 1828.0,
+    "date_edtf": "1812",
+    "certitude": "certaine",
+    "description": "Charles Autobees naît à Saint-Louis en 1812. À seize ans (1828), il remonte le Missouri avec l'American Fur Company ; son fils Tom nomme parmi ses compagnons Jim Bridger, Kit Carson, Bordeaux, Charles Nadeau, Chat Dubray, le vieux Chalifoux, Beaubien et Joseph Barnoy dit Levanway.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11 ; 14.",
+    "note": "Tom Autobees donne aussi 1831 pour la première remontée du Missouri. Lecompte montre que plusieurs de ces compagnons sont ceux de ses années plus tardives."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.55,
+     45.5
+    ]
+   },
+   "properties": {
+    "id": "autobees-02",
+    "ordre": 2,
+    "nom": "Fleuve Saint-Laurent : le père, François Autobees (Hautbois), se noie",
+    "phase": "Saint-Louis et les montagnes",
+    "debut": 1815.0,
+    "fin": 1815.5,
+    "date_edtf": "1815~",
+    "certitude": "hypothetique",
+    "description": "Selon Tom Autobees, le père de Charles, François Autobees (Hautbois), était français, et sa mère, Sarah Issman, une Anglaise de Nouvelle-Écosse. François se noya dans le Saint-Laurent en dirigeant un train de bois, quand Charles avait trois ans.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 123.",
+    "note": "Lieu de la noyade inconnu ; point placé à Montréal. Au mariage de 1842, Charles se dit fils de Francisco Ortibi et de Serafina Feyta."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.9,
+     45.18
+    ]
+   },
+   "properties": {
+    "id": "autobees-03",
+    "ordre": 3,
+    "nom": "Rivière Salmon : combat contre les Pieds-Noirs et épouse tête-plate (1832)",
+    "phase": "Saint-Louis et les montagnes",
+    "debut": 1832.2,
+    "fin": 1832.9,
+    "date_edtf": "1832-03/1832-12",
+    "certitude": "approximative",
+    "description": "Au printemps 1832, une brigade de l'American Fur Company (35 hommes, capitaine « Weiser ») combat les Pieds-Noirs sur la rivière Salmon ; Levanway y perd un œil. La brigade hiverne sur la Salmon chez les Nez-Percés et les Têtes-Plates, où Autobees prend une épouse tête-plate. Dans les années 1830, il a aussi une épouse cheyenne, Picking Bones Woman, mère de son fils John.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 19 ; 21. ; Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 172.",
+    "note": "Position approximative sur la rivière Salmon (Idaho)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.668,
+     36.535
+    ]
+   },
+   "properties": {
+    "id": "autobees-04",
+    "ordre": 4,
+    "nom": "Arroyo Hondo : Serafina Ávila et le moulin de Simeon Turley (1834)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1834.0,
+    "fin": 1836.99,
+    "date_edtf": "1834",
+    "certitude": "certaine",
+    "description": "En 1834, Autobees et Nadeau descendent à Taos chercher des marchandises de traite. Autobees s'y unit à Serafina Ávila et entre au service de Simeon Turley, à Arroyo Hondo, dont il convoie les mules chargées de whisky et de farine par le col de Sangre de Cristo jusqu'aux postes de l'Arkansas et de la Platte.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11 ; 16 ; 21. ; The Colorado Magazine, vol. XXXIV (1957), p. 164-176.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.52,
+     38.2
+    ]
+   },
+   "properties": {
+    "id": "autobees-05",
+    "ordre": 5,
+    "nom": "Rivière Greenhorn : « arrivé dans ce pays en 1837 » (serment de 1873)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1837.0,
+    "fin": 1837.99,
+    "date_edtf": "1837",
+    "certitude": "approximative",
+    "description": "Entendu le 16 janvier 1873 au bureau foncier de Pueblo, Autobees, qui se dit âgé de soixante ans, déclare être arrivé dans « ce pays » en 1837 et connaître depuis lors la fourche Greenhorn de la Saint-Charles. Lecompte retient ce serment contre la tradition qui le fait participer à la construction du fort Bent.",
+    "sources": "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 169.",
+    "note": "Point au confluent Greenhorn-Saint-Charles."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.75,
+     40.22
+    ]
+   },
+   "properties": {
+    "id": "autobees-06",
+    "ordre": 6,
+    "nom": "Fort Jackson (South Platte) : « Charles Ottabees » payé par Sarpy et Fraeb (1er mars 1838)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1838.16,
+    "fin": 1838.17,
+    "date_edtf": "1838-03-01",
+    "certitude": "certaine",
+    "description": "Le 1er mars 1838, Peter Sarpy et Henry Fraeb, du fort Jackson, paient treize dollars à « Charles Ottabees », qui vend dans les postes de la Platte le whisky et la farine de Simeon Turley.",
+    "sources": "Schaubs, Michael, « The 1837 Fort Jackson Trading Camp Inventory », dans Proceedings of the 2015 Fur Trade Symposium: Bent's Fort and the Southern Fur Trade, La Junta (Colorado), 2016.",
+    "note": "Position au fort Jackson, près de l'actuelle Ione (Colorado)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "autobees-07",
+    "ordre": 7,
+    "nom": "Taos : mariage de Carlos Ortivis et de Serafina Ávila (28 novembre 1842)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1842.9,
+    "fin": 1842.91,
+    "date_edtf": "1842-11-28",
+    "certitude": "certaine",
+    "description": "Le padre Antonio José Martínez marie Charles Autobees à Serafina Ávila, d'Abiquiú, probablement après la naissance de leur deuxième fils. Le couple eut cinq enfants : Mariano (1837), José María (1842), Francisquita (1845), Manuelita (1846) et Tomás (1849). Serafina mourut d'hydropisie en novembre 1871.",
+    "sources": "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 164, 172-173.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.664,
+     36.535
+    ]
+   },
+   "properties": {
+    "id": "autobees-08",
+    "ordre": 8,
+    "nom": "Plaza de Dolores (Arroyo Hondo) : Tom Tobin, « Tomás Ortivi », et le baptême du fils Tomás (1844-1849)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1844.84,
+    "fin": 1849.51,
+    "date_edtf": "1844-11-03/1849-07-04",
+    "certitude": "certaine",
+    "description": "Le 3 novembre 1844, « Tomás Ortivi, fils de Francisco Ortivi et de María Serafina Abeita », épouse María Pascuala Bernal : c'est Tom Tobin, demi-frère de Charles. Le 4 juillet 1849, le padre Martínez baptise José Tomás, âgé de huit jours, fils de Carlos Ortivis et de Serafina Ábila : c'est Tom Autobees, le futur informateur de Cragin.",
+    "sources": "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 164-165, 175.",
+    "note": "Deux « Tom Autobees » : le demi-frère Tom Tobin (actif dans les années 1840) et le fils Tom (né en 1849)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "autobees-09",
+    "ordre": 9,
+    "nom": "Fort Bent : le chariot de Turley et la caravane de Webb (1845)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1845.4,
+    "fin": 1845.66,
+    "date_edtf": "1845-06/1845-08-30",
+    "certitude": "approximative",
+    "description": "Au printemps 1845, Autobees mène vers l'est un chariot de Simeon Turley et revient en août avec des marchandises déclarées à la douane de Santa Fe le 30 août. Il voyage sans doute dans la caravane de James J. Webb, qui passe par le fort Bent ; six hommes y sont détachés vers Taos, guidés par le jeune « Tom Otobus », Tom Tobin.",
+    "sources": "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 175-176.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.6,
+     38.16
+    ]
+   },
+   "properties": {
+    "id": "autobees-10",
+    "ordre": 10,
+    "nom": "Gué de la Saint-Charles : la ferme d'Autobees, de Tobin et de Labonte (1846-1847)",
+    "phase": "Guerre de 1847",
+    "debut": 1846.0,
+    "fin": 1847.8,
+    "date_edtf": "1846/1847-10",
+    "certitude": "approximative",
+    "description": "En 1846, Tom Tobin, Charles Autobees, le vieux Pascual Rivière (« Black Hawk ») et Labonte, avec Levin Mitchell, sont les premiers à cultiver maïs et citrouilles au gué de la piste de Taos sur la Saint-Charles, à neuf milles au sud du Pueblo ; ils y sont encore à l'été 1847.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 123. ; Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 198 et 317, n. 4.",
+    "note": "Le « Tom Autobees » de Lecompte (1978) est ici Tom Tobin."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.62,
+     36.63
+    ]
+   },
+   "properties": {
+    "id": "autobees-11",
+    "ordre": 11,
+    "nom": "Concession de La Lama (Cebolla) : Carlos et Tomás Ortivis mis en possession (20 mars 1846)",
+    "phase": "Taos et Arroyo Hondo",
+    "debut": 1846.21,
+    "fin": 1846.22,
+    "date_edtf": "1846-03-20",
+    "certitude": "certaine",
+    "description": "Le 20 mars 1846, l'alcalde de Dolores installe Juan Carlos Santistevan et ses compagnons sur une terre vacante entre le Rio Colorado et le ruisseau San Cristóbal ; les noms de Carlos et Tomás Ortivis figurent dans l'acte de possession. Le même jour commence à Taos le procès « Ortubise contre Lucero », où s'affrontent Charles Bent et le padre Martínez.",
+    "sources": "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 176-179.",
+    "note": "Point au centre approximatif de la concession, d'environ 50 000 acres."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.67,
+     36.537
+    ]
+   },
+   "properties": {
+    "id": "autobees-12",
+    "ordre": 12,
+    "nom": "Moulin de Turley (Arroyo Hondo) : le massacre du 19 janvier 1847",
+    "phase": "Guerre de 1847",
+    "debut": 1847.05,
+    "fin": 1847.06,
+    "date_edtf": "1847-01-19/1847-01-20",
+    "certitude": "certaine",
+    "description": "Pendant la révolte de Taos, les insurgés incendient la distillerie de Simeon Turley. Charles est absent, parti vers Santa Fe avec une caravane de whisky. Turley, William LeBlanc et Tom Tobin percent de nuit le mur d'adobe : Tobin gagne Santa Fe et LeBlanc Greenhorn, mais Turley, boiteux, est rattrapé et tué.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11 ; 16 ; 21. ; Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 106 et 194.",
+    "note": "Lecompte écrit « Tom Autobees » : il s'agit de Tom Tobin, le fils Tom n'étant pas encore né."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "autobees-13",
+    "ordre": 13,
+    "nom": "Santa Fe : simples soldats dans la compagnie de Ceran St. Vrain (janvier 1847)",
+    "phase": "Guerre de 1847",
+    "debut": 1847.06,
+    "fin": 1847.1,
+    "date_edtf": "1847-01",
+    "certitude": "certaine",
+    "description": "Avec Antoine Cournoyer, Baptiste Chalifoux et Baptiste Sabourin, Charles Autobees et Tom Tobin servent comme simples soldats dans la compagnie de volontaires levée à Santa Fe par Ceran St. Vrain pour réprimer la révolte de Taos.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 195.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.569,
+     36.409
+    ]
+   },
+   "properties": {
+    "id": "autobees-14",
+    "ordre": 14,
+    "nom": "Taos : juré au procès d'avril 1847",
+    "phase": "Guerre de 1847",
+    "debut": 1847.25,
+    "fin": 1847.33,
+    "date_edtf": "1847-04",
+    "certitude": "certaine",
+    "description": "Au procès des insurgés, Charles Beaubien préside, St. Vrain sert d'interprète, et le jury compte d'anciens trappeurs : Baptiste Chalifoux, Antoine Leroux, Manuel Laforet, Charles Autobees, Lucien Maxwell, William LeBlanc et Charles Town.",
+    "sources": "Weber, David J. (1971), The Taos Trappers: The Fur Trade in the Far Southwest, 1540-1846, Norman, University of Oklahoma Press, ch. XIII.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.73,
+     36.73
+    ]
+   },
+   "properties": {
+    "id": "autobees-15",
+    "ordre": 15,
+    "nom": "Cerro de la Olla : guide des dragons contre les Utes (printemps 1849)",
+    "phase": "Río Colorado",
+    "debut": 1849.2,
+    "fin": 1849.3,
+    "date_edtf": "1849-03~",
+    "certitude": "approximative",
+    "description": "Au printemps 1849, le lieutenant Joseph H. Whittlesey part de Taos avec une soixantaine de dragons ; ses guides sont Antoine Leroux, Charles Autobees, le vieux Bill Williams et Asa Estes. Ils surprennent le village ute sur le Cerro de la Olla, au nord de Río Colorado.",
+    "sources": "Hocking, Doug (2019), Terror on the Santa Fe Trail: Kit Carson and the Jicarilla Apache, Guilford (Conn.), TwoDot, ch. 7.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.595,
+     36.704
+    ]
+   },
+   "properties": {
+    "id": "autobees-16",
+    "ordre": 16,
+    "nom": "Río Colorado (Questa) : le convoi de vivres pour les Arapahos (février 1853)",
+    "phase": "Río Colorado",
+    "debut": 1850.5,
+    "fin": 1853.15,
+    "date_edtf": "1850-07/1853-02",
+    "certitude": "certaine",
+    "description": "Établi à Río Colorado depuis juillet 1850, Autobees part vers le 1er février 1853 avec soixante mulets et vingt-cinq hommes, dont William LeBlanc, William Kroenig et Marcelino Baca, porter des vivres aux Arapahos affamés des Big Timbers ; la neige du col de Sangre de Cristo les retient huit jours sur dix milles.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 229 ; The Colorado Magazine, vol. XXXIV (1957), p. 164-176.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.37,
+     38.205
+    ]
+   },
+   "properties": {
+    "id": "autobees-17",
+    "ordre": 17,
+    "nom": "Embouchure de la Huerfano : la plaza d'Autobees (1853)",
+    "phase": "La Huerfano",
+    "debut": 1853.2,
+    "fin": 1853.99,
+    "date_edtf": "1853",
+    "certitude": "approximative",
+    "description": "Vers 1853, Autobees fonde une plaza sur la Huerfano, à la limite sud de la concession Vigil et St. Vrain, près du village Doyle-Wootton où le vieux Chalifoux vit dans un abri creusé dans la berge, avec « beaucoup de Mexicains et de Français ». Il cultive l'embouchure avec le fossé Doyle-Wootton.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11 ; 12 ; 14 ; 17 ; 26. ; Lecompte, Janet (1958), « Charles Autobees » (chap. IX), The Colorado Magazine, vol. 35, no 4 (octobre), p. 303-308, p. 304-306.",
+    "note": "Emplacement approximatif, à quelques milles en amont du confluent Huerfano-Arkansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.38,
+     38.25
+    ]
+   },
+   "properties": {
+    "id": "autobees-18",
+    "ordre": 18,
+    "nom": "Chico Creek : combat contre les Utes de Kaneatch (printemps 1856)",
+    "phase": "La Huerfano",
+    "debut": 1856.25,
+    "fin": 1856.35,
+    "date_edtf": "1856-04~",
+    "certitude": "approximative",
+    "description": "Parti de sa plaza vers Bijou Basin pour troquer farine et maïs avec les Arapahos et les Cheyennes, le convoi est attaqué par 27 Utes de Kaneatch et se bat jusqu'à la nuit près de la Chico Creek. Siccamo, l'épouse arapaho d'Autobees, combat avec bravoure ; Autobees est blessé au bras.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 116 ; 117.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.433,
+     37.425
+    ]
+   },
+   "properties": {
+    "id": "autobees-19",
+    "ordre": 19,
+    "nom": "Fort Garland : poignardé par Juan Pineda (vers 1858)",
+    "phase": "La Huerfano",
+    "debut": 1858.55,
+    "fin": 1858.65,
+    "date_edtf": "1858-07-20~",
+    "certitude": "approximative",
+    "description": "Mariano Autobees fait fabriquer au ranch les adobes du fort Garland. Le 20 juillet, Charles est poignardé par Juan Pineda ; au fort, le médecin lui prédit qu'il ne vivra pas une minute, et Autobees le menace de son arme. Il se rétablit en un mois.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 36.",
+    "note": "Année non précisée (vers 1858, construction du fort Garland)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.47,
+     38.13
+    ]
+   },
+   "properties": {
+    "id": "autobees-20",
+    "ordre": 20,
+    "nom": "Vallée de Wet Mountain : la grande chasse de 1859, avec le jeune Tom",
+    "phase": "La Huerfano",
+    "debut": 1859.0,
+    "fin": 1859.99,
+    "date_edtf": "1859",
+    "certitude": "approximative",
+    "description": "En 1859, Tom, dix ans, accompagne son père, le vieux Clermont, Levanway, Tim Goodall et Maurice LeDuc dans une grande partie de chasse vers la vallée de Wet Mountain, où l'on voit encore les os des bêtes volées au Pueblo en 1854.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 36.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.367,
+     38.207
+    ]
+   },
+   "properties": {
+    "id": "autobees-21",
+    "ordre": 21,
+    "nom": "Plaza d'Autobees : le fort carré, la mort de Chalifoux et le canon vendu à Gilpin (1859-1861)",
+    "phase": "La Huerfano",
+    "debut": 1859.8,
+    "fin": 1866.0,
+    "date_edtf": "1859/1866",
+    "certitude": "certaine",
+    "description": "Un témoin de l'hiver 1859-1860 décrit la plaza comme un fort carré, avec un petit moulin et un canon de fer qu'Autobees vend en 1861 au gouverneur Gilpin. Jean-Baptiste Chalifoux y meurt le 12 décembre 1860. Autobees Plaza est le premier chef-lieu du comté de Huerfano, jusqu'au transfert à Badito en 1866.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 224 ; 228 ; 229. ; Murray, Robert A. (1978), Las Animas, Huerfano and Custer, Denver, Bureau of Land Management, p. 45, 49 ; Janet Lecompte, dans Hafen, LeRoy R. (dir.), French Fur Traders and Voyageurs in the American West, Spokane, Arthur H. Clark, 1995 (notices tirées de The Mountain Men and the Fur Trade of the Far West, 1965-1972), p. 75.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.597,
+     38.264
+    ]
+   },
+   "properties": {
+    "id": "autobees-22",
+    "ordre": 22,
+    "nom": "Fountain City (East Pueblo) : la fin de la querelle avec Juan Chiquito (août 1862)",
+    "phase": "La Huerfano",
+    "debut": 1862.58,
+    "fin": 1862.67,
+    "date_edtf": "1862-08",
+    "certitude": "approximative",
+    "description": "La longue querelle entre la famille Autobees et Juan Chiquito se termine près du moulin de celui-ci, sur la Fountain Creek : Juan Chiquito est abattu par des hommes du clan Autobees. Tom en fait le récit détaillé à Cragin en 1907.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11-16 ; 30.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.51,
+     38.54
+    ]
+   },
+   "properties": {
+    "id": "autobees-23",
+    "ordre": 23,
+    "nom": "Sand Creek : Autobees guide les volontaires (29 novembre 1864)",
+    "phase": "La Huerfano",
+    "debut": 1864.6,
+    "fin": 1864.92,
+    "date_edtf": "1864-08/1864-11-29",
+    "certitude": "certaine",
+    "description": "Le 12 août 1864, des Cheyennes et des Arapahos volent dix-neuf chevaux à Autobees ; il parlemente avec eux en septembre au ranch d'Albert G. Boone. En novembre, il guide depuis son ranch les troupes du fort Lyon jusqu'au village de Sand Creek, où il aperçoit un de ses poneys et sauve une Indienne. Son fils aîné Mariano, lieutenant dans le 3e régiment, ramène ensuite sans autorisation soixante-six poneys pris aux Cheyennes vers le ranch de son père.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 243. ; Lecompte, Janet (1958), « Charles Autobees » (chap. IX), The Colorado Magazine, vol. 35, no 4 (octobre), p. 303-308, p. 303-304.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.385,
+     38.19
+    ]
+   },
+   "properties": {
+    "id": "autobees-24",
+    "ordre": 24,
+    "nom": "Basse Huerfano : l'acte de William Craig (5 décembre 1865)",
+    "phase": "La Huerfano",
+    "debut": 1865.93,
+    "fin": 1866.03,
+    "date_edtf": "1865-12-05/1866-01-10",
+    "certitude": "certaine",
+    "description": "Fondé de pouvoir de Ceran St. Vrain, William Craig cède pour cinq dollars à « Charles Autubis », pionnier de la concession de Las Animas, un mille et demi de terres irrigables de la Huerfano (sections 12 et 13), mais pas les quelque 500 acres de l'embouchure qu'il cultivait depuis 1853. Lecompte n'écarte pas une escroquerie de Craig.",
+    "sources": "Lecompte, Janet (1958), « Charles Autobees » (chap. IX), The Colorado Magazine, vol. 35, no 4 (octobre), p. 303-308, p. 304-306.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.33,
+     38.22
+    ]
+   },
+   "properties": {
+    "id": "autobees-25",
+    "ordre": 25,
+    "nom": "Fort Reynolds : terres disputées à l'armée, saloon et fandango (1867-1868)",
+    "phase": "La Huerfano",
+    "debut": 1867.3,
+    "fin": 1868.78,
+    "date_edtf": "1867-04/1868-10-12",
+    "certitude": "certaine",
+    "description": "Au printemps 1867, Marcy fixe le site du fort Reynolds à deux milles et demi de la plaza ; Craig loue à l'armée la concession, embouchure comprise. Autobees se défend jusqu'à obtenir, le 16 avril 1868, le droit de cultiver les terres de l'embouchure. Il ouvre dans sa plaza un saloon et une salle de bal ; au fandango du 10 octobre 1868 chez « French Joe », son gendre, une fusillade tue le charpentier du fort.",
+    "sources": "Lecompte, Janet (1958), « Charles Autobees » (chap. IX), The Colorado Magazine, vol. 35, no 4 (octobre), p. 303-308, p. 306-308.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.372,
+     38.205
+    ]
+   },
+   "properties": {
+    "id": "autobees-26",
+    "ordre": 26,
+    "nom": "Plaza d'Autobees : mort de Charles (17 juin 1882)",
+    "phase": "La Huerfano",
+    "debut": 1882.46,
+    "fin": 1882.47,
+    "date_edtf": "1882-06-17",
+    "certitude": "approximative",
+    "description": "Charles Autobees meurt dans sa plaza de la Huerfano le 17 juin 1882. Ses héritiers signent « Ortibis ».",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11 ; 14 ; 17 ; 26.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.67,
+     35.35
+    ]
+   },
+   "properties": {
+    "id": "autobees-27",
+    "ordre": 27,
+    "nom": "Colony (Oklahoma) : Picking Bones Woman et John Ortebee (vers 1902)",
+    "phase": "Mémoire",
+    "debut": 1902.0,
+    "fin": 1902.99,
+    "date_edtf": "1902~",
+    "certitude": "approximative",
+    "description": "Au début des années 1900, George Bird Grinnell interroge dans la réserve des Cheyennes du Sud la vieille Picking Bones Woman, épouse cheyenne d'Autobees dans les années 1830 ; leur fils John Ortebee (Otterby) y vit et travaille par intermittence pour le Service indien.",
+    "sources": "Lecompte, Janet (1957), « Charles Autobees » (chap. I-II), The Colorado Magazine, vol. 34, no 3 (juillet), p. 163-179, p. 172.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.36,
+     38.225
+    ]
+   },
+   "properties": {
+    "id": "autobees-28",
+    "ordre": 28,
+    "nom": "Embouchure de la Huerfano : Tom Autobees raconte son père à Cragin (novembre 1907)",
+    "phase": "Mémoire",
+    "debut": 1907.84,
+    "fin": 1907.92,
+    "date_edtf": "1907-11",
+    "certitude": "certaine",
+    "description": "En novembre 1907, Francis Cragin interroge Tom Autobees, qui lui montre les vestiges du village Doyle-Wootton et des huttes de sudation près de l'embouchure de la Huerfano, et lui raconte la vie de son père, la querelle avec Juan Chiquito et les vieux trappeurs français de l'Arkansas.",
+    "sources": "Cragin, Francis Whittemore, Early Far West Notebooks (1902-1923), Starsmore Center for Local History, Colorado Springs Pioneers Museum ; transcription dactylographiée (Mrs. Shaw), PDF « Cragin notebooks searchable », p. 11-17 ; 26 ; 30 ; 36.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -90.199,
+      38.627
+     ],
+     [
+      -73.55,
+      45.5
+     ],
+     [
+      -113.9,
+      45.18
+     ],
+     [
+      -105.668,
+      36.535
+     ],
+     [
+      -104.52,
+      38.2
+     ],
+     [
+      -104.75,
+      40.22
+     ],
+     [
+      -105.573,
+      36.407
+     ],
+     [
+      -105.664,
+      36.535
+     ],
+     [
+      -103.43,
+      38.04
+     ],
+     [
+      -104.6,
+      38.16
+     ],
+     [
+      -105.62,
+      36.63
+     ],
+     [
+      -105.67,
+      36.537
+     ],
+     [
+      -105.938,
+      35.687
+     ],
+     [
+      -105.569,
+      36.409
+     ],
+     [
+      -105.73,
+      36.73
+     ],
+     [
+      -105.595,
+      36.704
+     ],
+     [
+      -104.37,
+      38.205
+     ],
+     [
+      -104.38,
+      38.25
+     ],
+     [
+      -105.433,
+      37.425
+     ],
+     [
+      -105.47,
+      38.13
+     ],
+     [
+      -104.367,
+      38.207
+     ],
+     [
+      -104.597,
+      38.264
+     ],
+     [
+      -102.51,
+      38.54
+     ],
+     [
+      -104.385,
+      38.19
+     ],
+     [
+      -104.33,
+      38.22
+     ],
+     [
+      -104.372,
+      38.205
+     ]
+    ]
+   },
+   "properties": {
+    "id": "autobees-parcours",
+    "nom": "Parcours de Charles et Tom Autobees"
+   }
+  }
+ ]
+}

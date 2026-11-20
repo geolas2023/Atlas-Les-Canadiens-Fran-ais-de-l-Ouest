@@ -20,7 +20,7 @@ function nuances(hex, n) {
 const sombre = hex => { const v = parseInt(hex.slice(1), 16); return ((v >> 16) * .3 + ((v >> 8) & 255) * .59 + (v & 255) * .11) < 150; };
 
 function onglets() {
-  $('#onglets').innerHTML = INDEX.map(p => `<button type="button" role="tab" data-id="${p.id}" style="--c:${p.couleur}" title="${esc(p.nom)} — ${esc(p.auteur)}, p. ${esc(p.pages)} · ${p.etapes} étapes"><i></i>${esc(p.nom)}<small>${esc(p.vie)}</small></button>`).join('');
+  $('#onglets').innerHTML = INDEX.map(p => `<button type="button" role="tab" data-id="${p.id}" style="--c:${p.couleur}" title="${esc(p.nom)} — ${p.ouvrage ? esc(p.ouvrage) : `${esc(p.auteur)}, p. ${esc(p.pages)}`} · ${p.etapes} étapes"><i></i>${esc(p.nom)}<small>${esc(p.vie)}</small></button>`).join('');
   document.querySelectorAll('#onglets button').forEach(b => b.onclick = () => ouvrir(b.dataset.id));
 }
 
@@ -34,7 +34,8 @@ async function ouvrir(id, etapeId) {
   document.documentElement.style.setProperty('--perso', P.couleur);
   document.querySelectorAll('#onglets button').forEach(b => { const on = b.dataset.id === id; b.classList.toggle('actif', on); b.setAttribute('aria-selected', on); if (on) b.scrollIntoView({ inline: 'nearest', block: 'nearest' }); });
   $('#titre-perso').textContent = P.nom;
-  $('#sous-titre').innerHTML = `${esc(P.vie || '')} · notice de ${esc(P.auteur)}, <a href="${FFT}/page/${parseInt(P.pages)}/mode/1up" target="_blank" rel="noopener" title="French Fur Traders and Voyageurs in the American West sur archive.org (emprunt)">p. ${esc(P.pages)}</a>`;
+  $('#sous-titre').innerHTML = P.ouvrage ? `${esc(P.vie || '')} · ${esc(P.ouvrage)}`   // onglet hors du livre de Hafen
+    : `${esc(P.vie || '')} · notice de ${esc(P.auteur)}, <a href="${FFT}/page/${parseInt(P.pages)}/mode/1up" target="_blank" rel="noopener" title="French Fur Traders and Voyageurs in the American West sur archive.org (emprunt)">p. ${esc(P.pages)}</a>`;
   document.title = `Salle de lecture — ${P.nom}`;
   courant = -1;
   recit(); frise(); majCarte();
