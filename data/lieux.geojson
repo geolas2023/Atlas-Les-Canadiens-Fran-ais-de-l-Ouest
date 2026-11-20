@@ -86609,6 +86609,122 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -79.965,
+     44.815
+    ]
+   },
+   "properties": {
+    "id": "TB15-02",
+    "nom": "Otouacha, port de Toanché : Champlain touche terre en Huronie, guidé par Brûlé (1er août 1615)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1615.583,
+    "fin": 1615.583,
+    "date_edtf": "1615-08-01",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Samuel de Champlain",
+     "Étienne Brûlé"
+    ],
+    "description": "Champlain écrit qu'il arriva le premier jour d'août 1615 au pays des Attignaouantans (tribu de l'Ours), à un village nommé Otouacha, dans un pays de collines et de ruisseaux, à une lieue de Carmaron (Karenhassa). Suivant les triangulations du père Jones (Old Huronia, 1908), Tremblay place Otouacha, « le double atterrissage », au bord de l'eau, sur la falaise et la grève du lot A de la XVIe concession de Tiny : c'est le port du premier Toanché, où Brûlé conduisait Champlain.",
+    "sources": "Tremblay, Jules (1915), « La sépulture d'Étienne Brûlé », Mémoires de la Société royale du Canada, 3e série, t. IX, section I, p. 145-170, p. 146-147, 152.",
+    "note": "Localisation proposée par Jones et Tremblay."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.03,
+     44.74
+    ]
+   },
+   "properties": {
+    "id": "TB15-03",
+    "nom": "Carhagouha : le récollet Le Caron dit la première messe de l'Ontario (12 août 1615)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1615.613,
+    "fin": 1615.613,
+    "date_edtf": "1615-08-12",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Le Caron",
+     "Samuel de Champlain"
+    ],
+    "description": "Carhagouha, le fort à triple palissade décrit par Champlain, est le lieu où le père Joseph Le Caron célèbre le 12 août 1615 la première messe dite en Ontario ; dès 1626, le fort est réduit à peu de chose et absorbé par le triple bourg de Khinonascarant, où réside Le Caron au temps de Sagard. Les fouilles en situent l'emplacement sur le lot 20 de la XVIIe concession de Tiny, ferme de Philias Beaupré, dans la paroisse de Lafontaine.",
+    "sources": "Tremblay, Jules (1915), « La sépulture d'Étienne Brûlé », Mémoires de la Société royale du Canada, 3e série, t. IX, section I, p. 145-170, p. 148-149, 152.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.208,
+     46.813
+    ]
+   },
+   "properties": {
+    "id": "TB15-04",
+    "nom": "Québec : la flottille huronne craint des représailles pour la mort de Brûlé ; Amantacha la rassure (juillet 1633)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1633.574,
+    "fin": 1633.574,
+    "date_edtf": "1633-07-28",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Louis Amantacha",
+     "Samuel de Champlain",
+     "Paul Le Jeune",
+     "Aénons"
+    ],
+    "description": "Selon le père Le Jeune, les Algonquins de l'Île et de la Petite Nation cherchent à dissuader les Hurons de descendre à Québec en prétendant qu'on leur ferait payer le meurtre d'Étienne Brûlé. Envoyé au-devant d'eux par Champlain, Louis Amantacha (de la tribu de la Corde) leur assure la bienveillance des Français : Brûlé, passé au service des Anglais, n'était plus tenu pour Français. Le 28 juillet 1633, quelque cent quarante canots portant cinq cents à sept cents Hurons arrivent à Québec. Par recoupement des dates, Tremblay conclut que Brûlé fut assommé à Toanché dans la première semaine de juin 1633.",
+    "sources": "Tremblay, Jules (1915), « La sépulture d'Étienne Brûlé », Mémoires de la Société royale du Canada, 3e série, t. IX, section I, p. 145-170, p. 153-155.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99,
+     44.845
+    ]
+   },
+   "properties": {
+    "id": "TB15-05",
+    "nom": "Ihonatiria : Brébeuf revoit le lieu du meurtre de Brûlé et fonde la première mission fixe (1634-1638)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1634.594,
+    "fin": 1638.999,
+    "date_edtf": "1634-08-05/1638",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean de Brébeuf",
+     "Aénons",
+     "Étienne Brûlé",
+     "Guillaume Chaudron"
+    ],
+    "description": "Revenu en Huronie le 5 août 1634, Brébeuf débarque au port déserté de Toanché, cherche le nouveau village (Teandeouiata, à trois quarts de lieue) et voit en passant l'emplacement de l'ancienne résidence changé en champ et « l'endroit où le pauvre Estienne Bruslé avait été barbarement et traîtreusement assommé ». Le village s'était dispersé après ce meurtre ; ses habitants viennent se cabaner autour du missionnaire à Ihonatiria, fondée en octobre 1634 au bord du lac Huron, en face de l'île Giant's Tomb, et abandonnée en 1638. En 1636, les Hurons de l'Ours proposent de relever les corps de Guillaume Chaudron et de Brûlé.",
+    "sources": "Tremblay, Jules (1915), « La sépulture d'Étienne Brûlé », Mémoires de la Société royale du Canada, 3e série, t. IX, section I, p. 145-170, p. 145-146, 149-153.",
+    "note": "Lot 6, concessions XX et XXI de Tiny, selon Jones et Tremblay."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.662,
      45.626
     ]
@@ -86777,6 +86893,194 @@
     "description": "Venu du Canada en 1824, Gervais (Gervacio) Nolan épouse en 1828 Maria Dolores Lalande, fille de Jean-Baptiste Lalande et de Maria Rita Abeyta, est naturalisé mexicain en 1829, trappe en 1830-1831, tient en 1835 un magasin et une forge au Real del Oro et réside en 1846 à San Francisco del Tuerto. En 1845, avec Juan Antonio Aragón et Antonio María Lucero, il obtient du gouverneur Manuel Armijo une concession dont son beau-frère Tomás Benito Lalande lui donne possession ; de 1853 à 1857, lui et son fils Francisco y cherchent des colons. Après sa mort (1857), ses héritiers vendent en 1875 la moitié ouest à l'éleveur écossais William Pinkerton pour 40 000 $ ; l'arpentage Shaw (1881-1882) y compte plus de 575 000 acres, la Cour suprême déboute en 1888 Pinkerton contre le colon Ledoux (Pinkerton v. Ledoux), et la Cour des réclamations foncières privées rejette la demande en 1892.",
     "sources": "Chronologie de la concession Gervacio Nolan (image numérisée, dossier GERVAIS_NOLAN du Drive de l'auteur, source imprimée non identifiée).",
     "note": "Distincte de la concession Nolan du Colorado (« Cuerno Verde », C123). Emplacement approximatif près de Wagon Mound."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "LC78-15",
+    "nom": "Fort William (Bent's Fort) : le billet de Baptiste Gordier, du rendez-vous de la Green River à Taos (1835-1836)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1835.633,
+    "fin": 1836.077,
+    "date_edtf": "1835-08-19/1836-01-29",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Gordier",
+     "Andrew Drips",
+     "Bent, St. Vrain & Co.",
+     "David Waldo",
+     "James Glenday"
+    ],
+    "description": "Les billets à ordre circulaient presque comme du papier-monnaie : le Missouri Historical Society conserve un billet de 300 $ émis à Baptiste Gordier au rendez-vous de la Green River le 19 août 1835 par Andrew Drips, agent de Fontenelle, Fitzpatrick & Co. Gordier l'endosse au fort William (Bent's Fort) au profit de Bent, St. Vrain & Co. le 17 novembre 1835 ; un agent de la compagnie le porte à Taos, où il passe à D. Waldo & Co. le 29 janvier 1836, puis à James Glenday.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 80-81.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0,
+     38.39
+    ]
+   },
+   "properties": {
+    "id": "LC78-16",
+    "nom": "Hardscrabble et col de Poncha : Girteau, traiteur de Barclay chez les Utes (1846-1848)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1846.0,
+    "fin": 1848.999,
+    "date_edtf": "1846/1848",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Girteau",
+     "Alexander Barclay",
+     "Joseph Doyle",
+     "Little Beaver"
+    ],
+    "description": "Le Canadien Girteau (ou Gurteau) figure parmi les clients du magasin de Brown à El Pueblo en 1846. Au service de Barclay et Doyle à Hardscrabble, il traite en juin et juillet 1846, avec Little Beaver, avec le village ute revenu dans la vallée de San Luis et près du col de Poncha. Au printemps 1847, Doyle l'envoie de Hardscrabble avec cinq paires de bœufs dégager les chariots restés pris dans la neige sur la ligne de partage Platte-Arkansas, et il accompagne ensuite Wells et ses amis au ranch Kinkead après le meurtre de Candelaria et de La Fontaine.",
+    "sources": "Lecompte, Janet (1978), Pueblo, Hardscrabble, Greenhorn: The Upper Arkansas, 1832-1856, Norman, University of Oklahoma Press, p. 143, 158, 164, 169-170.",
+    "note": "Point placé à Hardscrabble."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.665,
+     36.537
+    ]
+   },
+   "properties": {
+    "id": "CT65-01",
+    "nom": "Arroyo Hondo : « Tom Autobees », demi-frère de Charles Autobees, épouse Pascuala Bernal sous le nom d'Ortibi (1837-1844)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1837.0,
+    "fin": 1844.839,
+    "date_edtf": "1837/1844-11-03",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Tom Tobin",
+     "Charles Autobees",
+     "François Autobees",
+     "Sarah Tishman",
+     "Pascuala Bernal",
+     "Simeon Turley"
+    ],
+    "description": "Né à Saint-Louis vers 1823 de Bartholomew Tobin, journalier irlandais, et de Sarah Tishman, qui avait eu de François Autobees (Francisco Ortibi) le trappeur Charles Autobees, Tom Tobin rejoint en 1837 son demi-frère à Taos. Il prend le nom d'Autobees, vit chez Charles, travaille pour Simeon Turley et le suit au fort Lupton en 1841 et 1842. Le 3 novembre 1844, à vingt et un ans, il épouse à Taos Pascuala Bernal, d'Arroyo Hondo, où se trouvent le moulin et la distillerie de Turley ; il se dit alors fils de « Bartolome Ortibi » et de « Serafina Tishman », adaptant le nom de son père à celui qu'il porte.",
+    "sources": "Carter, Harvey L. (1965), « Tom Tobin », The American West, vol. II, n° 4, p. 91-94, p. 91-92, 94.",
+    "note": "Registres matrimoniaux de Taos (1833-1845), p. 272, cités par Carter d'après Fray Angélico Chávez et Janet Lecompte."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "CT65-02",
+    "nom": "Santa Fe et la Taos Trail : Tom Autobees dans la compagnie de St. Vrain, puis peut-être le « Tom » de Garrard (1847)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1847.052,
+    "fin": 1847.167,
+    "date_edtf": "1847-01-20/1847-03",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Tom Tobin",
+     "Charles Autobees",
+     "Ceran St. Vrain",
+     "William LeBlanc",
+     "Lucien Maxwell",
+     "Manuel Lefèvre",
+     "Basile Lajeunesse",
+     "Lewis H. Garrard"
+    ],
+    "description": "Pendant la révolte de Taos, Tom se trouve au moulin de Turley : le 20 janvier 1847, avec William LeBlanc et Turley, il perce un mur d'adobe et s'enfuit ; LeBlanc gagne le Greenhorn, Tom descend à Santa Fe, où il s'enrôle avec Charles dans la compagnie de volontaires de Ceran St. Vrain (« Charles et Thomas Antibes » sur la liste de Prince), licenciée le 20 février. Carter l'identifie au trappeur libre « Tom » qui accompagne, avec Lucien Maxwell, Manuel Lefèvre et Basile Lajeunesse, le convoi de Bent et St. Vrain décrit par Garrard ; Tobin dira avoir porté le rapport de Kearny de Santa Fe au fort Leavenworth en moins de onze jours.",
+    "sources": "Carter, Harvey L. (1965), « Tom Tobin », The American West, vol. II, n° 4, p. 91-94, p. 92, 94.",
+    "note": "Identification proposée par Carter."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.595,
+     36.704
+    ]
+   },
+   "properties": {
+    "id": "CT65-03",
+    "nom": "Rio Colorado (Questa) : Heap engage « Thomas Otterby » sur la recommandation de Charles Autobees (6 juillet 1853)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1853.514,
+    "fin": 1853.514,
+    "date_edtf": "1853-07-06",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Tom Tobin",
+     "Charles Autobees",
+     "Gwinn Harris Heap",
+     "Edward F. Beale"
+    ],
+    "description": "Ayant perdu ses bagages au gué de la Gunnison, l'expédition Beale envoie Gwinn Harris Heap chercher des vivres à Taos. Le 6 juillet 1853, Heap loge chez Charles Autobees, installé depuis 1850 à la colonie du Rio Colorado, et engage sur sa recommandation « un jeune Américain, Thomas Otterby », réputé presque l'égal de Kit Carson, comme éclaireur et guide jusqu'en Californie. C'est à son retour qu'il abandonne le nom d'Autobees pour reprendre celui de Tobin.",
+    "sources": "Carter, Harvey L. (1965), « Tom Tobin », The American West, vol. II, n° 4, p. 91-94, p. 92.",
+    "note": "Heap, Central Route to the Pacific (éd. Hafen 1957), p. 178, cité par Carter."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.43,
+     37.425
+    ]
+   },
+   "properties": {
+    "id": "CT65-04",
+    "nom": "Fort Garland : Tom Tobin, les Espinosa et la fin d'un homme des montagnes (1863-1904)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1858.0,
+    "fin": 1904.374,
+    "date_edtf": "1858~/1904-05-16",
+    "precision": "circa",
+    "certitude": "certaine",
+    "personnages": [
+     "Tom Tobin",
+     "Pascuala Bernal",
+     "William Carson",
+     "Rosa Quintana",
+     "Samuel Tappan"
+    ],
+    "description": "Établi à la fin des années 1850 sur un quart de section à six milles à l'ouest du fort Garland, Tobin traque en septembre 1863, à la demande du colonel Tappan, les bandits Espinosa et rapporte leurs têtes au fort le 11. Sa fille Pascualita épouse William Carson, fils aîné de Kit Carson, qui le blesse un jour d'un coup de feu ; veuf de Pascuala Bernal en 1887, il se remarie avec Rosa Quintana et meurt presque aveugle et sans ressources le 16 mai 1904. Son fusil, gravé « St. Louis », a été donné en 1958 à l'Abbey School.",
+    "sources": "Carter, Harvey L. (1965), « Tom Tobin », The American West, vol. II, n° 4, p. 91-94, p. 92-94.",
+    "note": ""
    }
   },
   {
