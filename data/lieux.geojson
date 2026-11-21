@@ -1165668,6 +1165668,1375 @@
     "sources": "Webb, James Josiah, Adventures in the Santa Fe Trade, 1844-1847, éd. Ralph P. Bieber (rééd. Bison Book, intr. Mark L. Gardner), Lincoln, University of Nebraska Press (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 63-71.",
     "note": "Webb note que Beaubien est l'un des trois propriétaires de la concession du Rayado (concession Maxwell). Complète C090 et YK-le-fevre-manuel-taos sur Manuel Lefebvre, qui ne parlent pas de 1844. Point à Taos."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "JKS-201",
+    "nom": "Embouchure de la Kansas : le Corps de découverte et ses engagés français (26-29 juin 1804, 15 septembre 1806)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1804.485,
+    "fin": 1806.705,
+    "date_edtf": "1804-06-26/1806-09-15",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Pierre Cruzatte",
+     "François Labiche",
+     "George Drouillard",
+     "Jean-Baptiste Deschamps",
+     "Joseph Collin",
+     "Charles Hébert",
+     "Jean-Baptiste La Jeunesse",
+     "Étienne Malboeuf",
+     "Paul Primeau",
+     "François Rivet",
+     "Pierre Roi",
+     "Charles Caugée",
+     "Joseph Le Barte dit La Liberté"
+    ],
+    "description": "Le 6 mai 1804, Lewis écrit à Clark que les « French hands », au nombre de huit, sont tous engagés ; Lewis avait demandé à Pierre Chouteau de lui en procurer sept. Jean-Baptiste Deschamps, recruté à Kaskaskia, commande la pirogue rouge et ses sept rameurs, Collin, Hébert, La Jeunesse, Malboeuf, Primeau, Rivet et Roi, tandis que Cruzatte et Labiche se relaient à l'aviron de bâbord du bateau à quille. Le Corps arrive à l'embouchure de la Kansas au coucher du soleil le 26 juin 1804 ; on y nettoie les bateaux, on répare la pirogue blanche, on fait sécher la poudre et les lainages, on chasse et on prépare des peaux. Le 27, les hommes élèvent un retranchement d'arbres abattus de crainte d'une attaque de nuit ; le départ a lieu le 29 à 16 h 30. Au retour, le 15 septembre 1806, avec Drouillard, Cruzatte, Labiche et Jean-Baptiste Lepage, les capitaines y font halte pour cueillir des « pappaws » (asiminiers) et notent qu'une haute colline voisine conviendrait à un poste de traite ou à un fort. Pour Johnson, ces Français, plus du tiers du Corps, ont fourni la main-d'œuvre et les interprètes sans lesquels l'expédition n'aurait pu se faire.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 99-104, 111, 114-115.",
+    "note": "Complète CH03-01 (les huit engagés du canot rouge, camp de la rivière Dubois) : aucune fiche de l'atlas ne situe le Corps de découverte au Kansas. Johnson note que les listes de l'expédition diffèrent et que les noms français y sont transcrits phonétiquement. Point à l'embouchure de la Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.05,
+     39.47
+    ]
+   },
+   "properties": {
+    "id": "JKS-202",
+    "nom": "Île de la Vache et Salt Creek : le fort français ruiné et la maison de traite désertée vus par Lewis et Clark (1er-3 juillet 1804)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1804.5,
+    "fin": 1804.505,
+    "date_edtf": "1804-07-01/1804-07-03",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Meriwether Lewis",
+     "William Clark",
+     "John Ordway"
+    ],
+    "description": "Le 1er juillet 1804, près des « Isles des Parques or Field Islds », presque en face de Leavenworth, un des engagés français dit à Clark que les Français avaient voulu s'établir là et avaient mis leurs vaches sur ces îles ; Clark ajoute qu'ils y gardaient bétail et chevaux au temps où ils avaient dans ces parages un fort et un établissement de traite. Le 2, l'expédition campe en face du premier vieux village des Kansas, dans la vallée de Salt Creek (comté de Leavenworth), et voit sur une élévation, derrière le site, un petit fort bâti par les Français, reconnaissable aux restes de cheminées ; Johnson y voit les vestiges du fort de Cavagnial. Le 3, devant l'île « de (la) Vache or Cow Island », elle fait halte, sur la rive sud, à une vieille maison de traite désertée. Le sergent Ordway précise qu'elle avait été bâtie par un marchand français de Saint-Louis pour traiter avec les Kansas ; selon Barry, elle se trouvait au-dessus d'Oak Mills (comté d'Atchison).",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 111-112.",
+    "note": "Les vestiges du fort sont ceux de BF17-07 (fort Cavagnial, 1751). Point approximatif à l'île de la Vache, près d'Oak Mills ; l'île, autrefois dans le chenal, est aujourd'hui rattachée à la rive est tout en restant au Kansas (Johnson, n. 648)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.15,
+     39.88
+    ]
+   },
+   "properties": {
+    "id": "JKS-203",
+    "nom": "Comté de Doniphan : les cabanes de familles françaises qui avaient semé du maïs vers 1802 (9 juillet 1804)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1802.0,
+    "fin": 1804.522,
+    "date_edtf": "1802~/1804-07-09",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierre Cruzatte",
+     "François Labiche",
+     "Charles Floyd",
+     "John Ordway"
+    ],
+    "description": "Le 9 juillet 1804, deux milles au-dessus du Monter's Creek (aujourd'hui Charleston ou Mosquito Creek), les explorateurs voient « some cabins where our Bowman & Several Frenchmen Campd, two years [ago] » ; le « bowman » est Cruzatte ou Labiche. Selon le sergent Ordway, ces Français étaient venus pour chasser et cultiver le maïs. Le sergent Floyd écrit que plusieurs familles françaises s'y étaient établies et avaient fait du maïs quelques années plus tôt, y restant deux ans ; les Indiens venaient souvent les voir et étaient très amicaux. Le site est dans le comté de Doniphan, à quelques milles en aval d'Iowa Point ; le Corps campe ce soir-là sur la rive sud, à quatorze milles au nord de la rivière du Loup (Wolf River).",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 113-114.",
+    "note": "Johnson cite Ordway et Floyd d'après Thwaites et Moulton. Les deux témoignages diffèrent sur la nature du séjour (campement de chasseurs ou familles établies). Localisation hypothétique, quelques milles en aval d'Iowa Point."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.6,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "JKS-204",
+    "nom": "Rivière Kansas : les licences de traite et de chasse accordées à des Français par Frederick Bates (juillet-septembre 1807)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1807.566,
+    "fin": 1807.697,
+    "date_edtf": "1807-07-25/1807-09-12",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Renard",
+     "François Derouen",
+     "Pierre Montardy",
+     "B. Vallett",
+     "J. Vallett",
+     "Lebeech",
+     "Derchette",
+     "Louis Gonville",
+     "Baptiste Gonville",
+     "Raphaël Langlois"
+    ],
+    "description": "Les papiers de Frederick Bates, surintendant intérimaire des Affaires indiennes, montrent selon Johnson que les Français dominent encore la traite au Kansas. Le 25 juillet 1807, Joseph Renard reçoit une licence pour traiter avec les Panis républicains ; le 24 août, François Derouen (ou Dorion) en reçoit une pour les « Kaas (Kans), Ottoes and Panis », et Pierre Montardy une pour les Kansas. Des permis d'un an pour chasser sur la rivière Kansas sont délivrés à B. et J. Vallett le 31 août, puis à Lebeech, Derchette et Louis Gonville le 12 septembre. Baptiste Gonville, frère de Louis, et Raphaël Langlois sont autorisés à chasser sur l'Osage, sans précision de tronçon. Derouen, illettré, avait rapporté à Trudeau en 1797, à son retour de la Platte, que les Otos et les Kansas s'étaient battus durant l'hiver.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 125-126.",
+    "note": "Johnson identifie « Lebeech » comme probablement Labiche (n. 730), sans autre preuve. Pierre Montardy de Saint-Louis figure dans l'atlas (BI- et SR-montardy-pierre-saint-loui) sans cette licence. Point hypothétique sur la basse vallée de la Kansas : les licences ne donnent pas de lieu précis."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.62,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "JKS-205",
+    "nom": "Embouchure de la Kansas : François Lecompte, « habitant de la Madelainne », rejoint Manuel Lisa (30 juin 1807)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1807.496,
+    "fin": 1807.496,
+    "date_edtf": "1807-06-30",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "François Lecompte",
+     "Manuel Lisa",
+     "George Drouillard"
+    ],
+    "description": "François Lecompte, traitant métis « de quelque renom », avait signé d'une croix un contrat avec Lisa et Drouillard qui le désignait comme « habitant de la Madelainne » et l'engageait pour trois ans comme chasseur et trappeur. Le 30 juin 1807, après un long séjour chez les Kansas, il hèle Lisa, qui remonte le Missouri le long de la rive kansas, et se joint à l'expédition ; il signe encore d'une croix. Johnson le compte parmi les dix-neuf Français de l'expédition Lisa-Drouillard de 1807 et le dit engagé à l'embouchure de la Kansas. Donné pour tué par les Crows le 17 septembre 1812, il survit pourtant : il meurt à Taos en 1841, « pauvre, vieux et sourd », battu à mort en résistant à une arrestation.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 126-127, 134.",
+    "note": "Johnson se contredit : il date le premier contrat du 24 septembre 1803, avant l'association de Lisa et Drouillard, et dit à la p. 134 que Lecompte « agreed to join the 1812 expedition » à la date du 30 juin 1807. La fiche retient la rencontre de 1807 à l'embouchure de la Kansas (n. 740). Point approximatif à l'embouchure de la Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.6,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "JKS-206",
+    "nom": "Embouchure de la Kansas : le bac de Calliste Montardy, « vieux Français » (1826-1830)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1826.0,
+    "fin": 1847.463,
+    "date_edtf": "1826/1847-06-18",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Calliste Montardy"
+    ],
+    "description": "En 1826, un « Old [?] Frenchman named Calisse Montarges » achète un bac près de l'embouchure de la Kansas. Le 4 juin 1828, la surintendance des Affaires indiennes de Saint-Louis paie à « Calice Montargu » 7,25 $ pour ses services et l'usage de son bac pour faire traverser le Missouri à la nation kansa ; c'est la plus ancienne mention, dans ses registres, d'un bac à l'embouchure de la Kansas ou près de celle-ci. On dit qu'il l'exploite jusqu'en 1830. Le 31 octobre 1832, « Calice Montardy » achète une terre dans la section 5, canton 49, rang 33 ouest, aujourd'hui dans Kansas City (Missouri). Les registres catholiques de Kansas City notent la mort de « Calice Montredie » le 18 juin 1847, à 49 ans.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 127.",
+    "note": "Johnson rattache cette note (n. 738, d'après Barry) au Calliste Montardy de l'expédition Lisa-Drouillard de 1807. Or un homme mort à 49 ans en 1847 serait né vers 1798 et aurait eu neuf ans en 1807 ; le « vieux Français » de 1826 cadre mal aussi. Il peut s'agir de deux hommes. Point approximatif à l'embouchure de la Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.25,
+     37.6
+    ]
+   },
+   "properties": {
+    "id": "JKS-207",
+    "nom": "Rivière Neosho : la caravane Chouteau-De Mun au village de Paul Liguest Chouteau (octobre 1815 - mars 1816)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1815.75,
+    "fin": 1816.241,
+    "date_edtf": "1815-10/1816-03-28",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Jules de Mun",
+     "Auguste Pierre Chouteau",
+     "Joseph Philibert",
+     "Michel Carrière",
+     "Joseph Bissonnette dit Bijeau",
+     "Paul Liguest Chouteau",
+     "Sans Oreille",
+     "Noël Maugrain",
+     "Cheveux Blancs"
+    ],
+    "description": "Partie de Saint-Louis en septembre 1815, la caravane d'Auguste Pierre Chouteau et de Jules de Mun, quarante-six hommes avec des traitants indépendants et quelques Chaouanons, entre au Kansas en octobre ; De Mun note qu'elle passe les collines qui séparent les eaux de l'Osage de celles de l'Arkansas, sans doute dans le comté de Bourbon. Le 13, elle atteint la « Grande Rivière, que les chasseurs appellent le Nioncho », sur la rive ouest de laquelle se trouve le village de Liguest, c'est-à-dire la sous-agence osage où réside Paul Liguest Chouteau. Elle remonte ensuite des bras du Verdigris, passe la nuit du 17 avec des Osages et atteint l'Arkansas le 26 ; De Mun décrit le 17 novembre les dunes de sable, puis le froid de l'ouest du Kansas. Au retour, au printemps 1816, avec Philibert, il repasse au Fall River le 25 mars, trouve au Nioncho le village osage déplacé de deux milles et Sans Oreille sans viande à offrir, de la farine de maïs bouillie sans sel. Le 28 mars, il loge au village des Grands Osages (comté de Vernon, Missouri) chez le métis Noël Maugrain, ancien interprète de Pike, où Cheveux Blancs vient le voir.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 139-142.",
+    "note": "Complète F-vasquez-18 (rencontre au confluent de l'Osage, 21 sept. 1815) et F-chouteau-07 (camp du Huerfano). Johnson s'appuie sur le journal de De Mun édité par Marshall ; les identifications des cours d'eau (Willow Creek, Fall River, Little Arkansas) viennent de Marshall et de Barry. Localisation hypothétique sur la Neosho, le texte ne situant pas le village de Liguest."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.72,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "JKS-208",
+    "nom": "Rivière Kansas, en face de Muncie : Jules de Mun attend Chouteau avec White Plume et L'Éveillé (11 juillet - 10 août 1816)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1816.527,
+    "fin": 1816.608,
+    "date_edtf": "1816-07-11/1816-08-10",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jules de Mun",
+     "Auguste Pierre Chouteau",
+     "White Plume",
+     "L'Éveillé",
+     "Le Petit Maigre",
+     "Louis Gonville"
+    ],
+    "description": "Reparti de Saint-Louis le 15 juin 1816, De Mun rencontre à Fire Prairie plusieurs chefs kansas ; le brave White Plume (Plume Blanche) offre de l'accompagner jusqu'au-delà de sa tribu. Le 11 juillet, sa barge entre dans la Kansas, remonte environ trois lieues jusqu'au « big bank » et s'arrête faute d'eau ; il attend là ses hommes venus par terre avec les chevaux, au rendez-vous des « premières côtes ». Le 13, Plume Blanche, deux Kansas, deux Petits Osages et leurs femmes lui rendent visite, et le 14 le chef revient tenir conseil et demander du tabac ; le 19, les hommes bâtissent des cabanes à un nouveau camp. Le 3 août, un chef que les Français appellent Le Petit Maigre et un Kansa nommé L'Éveillé, qui a vécu à Saint-Louis enfant et parle bien français, lui racontent le combat livré par Chouteau aux Pawnees sur l'Arkansas. Le 4, le traitant Gonville confirme la nouvelle. Chouteau arrive enfin au rendez-vous de l'embouchure de la Kansas le 10 août : ils sont quarante-cinq, chargent les fourrures et repartent pour les montagnes.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 142-144.",
+    "note": "Barry place le camp sur la rive sud, à un mille environ en aval de Muncie (comté de Wyandotte) et en face. Johnson écrit « June 31st » pour le 31 juillet. Le combat lui-même est déjà dans l'atlas (F-chouteau-09, AH-sf08, CI-chouteau-auguste-pierre-ile-choute, etc.) ; la fiche porte sur le camp de la Kansas. Point approximatif."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.58,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "JKS-209",
+    "nom": "Village kansa du Big Blue : Louis Gonville, traitant chez les Kansas, fournit ses chevaux à Thomas Say (1807-1819)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1807.697,
+    "fin": 1819.66,
+    "date_edtf": "1807-09-12/1819-08-29",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Gonville",
+     "Baptiste Gonville",
+     "Thomas Say",
+     "Toussaint Charbonneau",
+     "White Plume",
+     "Hunt Jimmy",
+     "Wyhesee",
+     "Charles Curtis"
+    ],
+    "description": "Selon Johnson, Louis Gonville traite avec les Kansas depuis 1807 et tient une place en vue dans la traite indienne pendant plus de quarante ans ; le 12 septembre 1807, il reçoit un permis d'un an pour chasser sur la rivière Kansas. Il épouse successivement Hunt Jimmy et Wyhesee, toutes deux filles du chef White Plume, et sera l'ancêtre du vice-président Charles Curtis. Le 4 août 1816, il apporte à Jules de Mun, campé sur la Kansas, des nouvelles du combat de Chouteau contre les Pawnees. En août 1819, au village kansa du confluent de la Kansas et du Big Blue, Thomas Say, malade, obtient de « a Frenchman, Mr. Gunville, resident with this nation », deux chevaux de bât et une selle. Le traitant accompagne le détachement : traversée de la Vermilion à dix-sept milles, sources de la Grasshopper le 27, île de la Vache le 29 août.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 118, 126, 144.",
+    "note": "Complète OT76-08 (Charbonneau et l'expédition Long au village kansa, 1819) et TR-chaboneau-big-blue-k ; voir aussi les fiches des filles Gonville (TI-gonvil-josette-topeka, JKS-03 à 05). L'identification de « Gunville » avec Louis Gonville est celle de Johnson (« probably », n. 689). Point approximatif au village kansa près de Manhattan."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.61,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "JKS-210",
+    "nom": "Embouchure de la Kansas : la licence de traite de Lucien Fontenelle (4 juillet 1825)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1825.508,
+    "fin": 1833.305,
+    "date_edtf": "1825-07-04/1833-04-21",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Fontenelle",
+     "Me-um-ba-nee",
+     "Big Elk",
+     "Maximilien de Wied-Neuwied"
+    ],
+    "description": "Lucien Fontenelle, né le 9 octobre 1800 sur une plantation près de La Nouvelle-Orléans, de parents venus de Marseille, s'enfuit à quinze ans pour entrer dans la traite à Saint-Louis, où Pierre Chouteau Jr. l'emploie de 1816 à 1819. Selon Barry, il obtient le 4 juillet 1825 une licence pour traiter un an à l'embouchure de la rivière Kansas ; la même année, on le trouve au fort Atkinson (Nebraska). Il avait épousé en 1824 Me-um-ba-nee, fille du chef omaha Big Elk. Le 21 avril 1833, il passe de nouveau l'embouchure de la Kansas à bord du vapeur Yellowstone, avec le prince Maximilien de Wied-Neuwied, en route vers le fort Pierre.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 148-149.",
+    "note": "L'atlas suit Fontenelle à Bellevue, au fort Atkinson et dans les Rocheuses (MM-H5-081-*), sans cette licence au Kansas. Johnson dit le mariage célébré par le P. De Smet en 1824, ce qui est douteux : De Smet n'est ordonné prêtre qu'en 1827 (contexte bien établi, non tiré de Johnson). Point approximatif à l'embouchure de la Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.37,
+     39.03
+    ]
+   },
+   "properties": {
+    "id": "JKS-211",
+    "nom": "Gué de la Kansas et rivière Sauterelle : Étienne Provost mène la caravane de l'American Fur Company (printemps 1837)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1837.25,
+    "fin": 1837.333,
+    "date_edtf": "1837-04/1837-05",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Étienne Provost",
+     "Thomas Fitzpatrick",
+     "Moses « Black » Harris",
+     "William Drummond Stewart",
+     "Alfred Jacob Miller",
+     "Antoine Clément"
+    ],
+    "description": "Au printemps 1837, Étienne Provost, né à Chambly, monte de Saint-Louis à bord du vapeur St. Peters de l'American Fur Company avec les employés et le matériel, sans doute jusqu'au Chouteau's Landing. Les hommes passent deux ou trois semaines à l'ouest de l'embouchure de la Kansas à acheter chevaux, mules et provisions en attendant que l'herbe soit assez haute. Provost part comme adjoint du capitaine Thomas Fitzpatrick : la caravane compte cent vingt hommes, dont dix chasseurs, vingt-cinq Delawares ou plus, la suite de William Drummond Stewart avec le peintre Alfred Jacob Miller et le chasseur métis Antoine Clément, et trente chariots et charrettes. D'après « Black » Harris, elle passe la Wakarusa, guée la Kansas à sept ou huit milles en amont de Lawrence, longe un petit ruisseau près de l'agence kansa, puis franchit la « Sauterelle », nom que les Français donnent à la Grasshopper. Viennent ensuite le Soldier Creek, la Red et la Black Vermillion, le Big Blue, le Big Sandy et le Little Blue. Miller croque Provost appelant ses hommes : « Attrapez les chevaux ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 152-153.",
+    "note": "Absent de la série MM-H6-371-* (Provost) de l'atlas, qui ne le situe pas au Kansas. Johnson mentionne aussi Provost près du fort Leavenworth le 21 septembre 1834 et avec Audubon au fort le 3 mai et le 10 octobre 1843. Point approximatif au gué, à sept ou huit milles en amont de Lawrence."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "JKS-212",
+    "nom": "Agence kansa : Bonneville, Michel Sylvestre Cerré et White Plume dans sa maison de pierre (mai 1832)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1832.363,
+    "fin": 1832.372,
+    "date_edtf": "1832-05-12/1832-05-15",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin Louis Eulalie de Bonneville",
+     "Michel Sylvestre Cerré",
+     "White Plume",
+     "Matthieu",
+     "Le Roy",
+     "B. Bourdaloue",
+     "Alexis Godey",
+     "Antoine Janisse"
+    ],
+    "description": "Le 1er mai 1832, Benjamin de Bonneville, né près de Paris en 1796, quitte le fort Osage avec cent dix hommes et vingt chariots ; Michel Sylvestre Cerré, fils et petit-fils de traitants français de Saint-Louis, est l'un de ses deux adjoints, et parmi les engagés se trouvent Matthieu, Le Roy, B. Bourdaloue, Alexis Godey et Antoine Janisse. Le soir du 12, la caravane atteint la Kansas après des pluies qui enlisent les roues ; le lendemain, on fait passer chariots et bagages sur un radeau et l'on gagne l'agence des Kansas. Bonneville s'y lie avec le chef White Plume, qui habite une grande maison de pierre bâtie par le gouvernement américain, « un palais au dehors, un wigwam au dedans », selon Irving. Le chef raconte ses guerres contre les Pawnees et accompagne le capitaine une journée, passant la nuit dans son camp. La caravane remonte ensuite la rive gauche de la Kansas par la route des traitants, futur sentier de l'Oregon, et atteint la Platte le 2 juin.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 156-159, 163-164.",
+    "note": "Complète MM-H5-045-0493 (Bonneville au fort Osage, 1832) et CH-cerre-michel-sylvestre-fort-union. Johnson suit Irving, Adventures of Captain Bonneville. Point à l'agence des Kansas, comme TK-chouteau-fred-agence-kan."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     39.065
+    ]
+   },
+   "properties": {
+    "id": "JKS-213",
+    "nom": "Agence kansa : Charles Larpenteur et les « French boys » de Cahokia passent la Kansas (15-18 mai 1833)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1833.372,
+    "fin": 1833.38,
+    "date_edtf": "1833-05-15/1833-05-18",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Larpenteur",
+     "Robert Campbell",
+     "William Sublette",
+     "Jean-Baptiste Sarpy",
+     "Marston G. Clark"
+    ],
+    "description": "Né en 1807 près de Fontainebleau, Charles Larpenteur se fait refuser par Jean-Baptiste Sarpy, de l'American Fur Company, qui ne comprend pas qu'un « Frenchman » instruit veuille endurer pareil voyage ; il signe plutôt avec William Sublette et Robert Campbell pour dix-huit mois, à 296 $. La caravane de quarante-cinq hommes part d'Independence vers le 7 ou le 12 mai 1833, et Campbell place Larpenteur dans une popote de « nine first-rate old voyageurs - French boys from Cahokia ». Après deux ou trois jours sur la piste de Santa Fe, elle atteint la Kansas, où se trouve l'agence des Kansas tenue par le général Clark. Son journal note : passage de la Kansas le 15 mai, camp les 16 et 17, départ le 18, arrivée à la Platte le 23.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 164-166.",
+    "note": "Complète LP-larpenteur-charles-lexington- et LP-larpenteur-charles-green-rive (1833), qui ne le situent pas au Kansas. Point approximatif à l'agence des Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.675,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "JKS-214",
+    "nom": "Topeka : le convoi Robidoux-Adams chez Joseph Pappan et l'inhumation de Michel Dubray (13-21 septembre 1844)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1844.672,
+    "fin": 1844.721,
+    "date_edtf": "1844-09-03/1844-09-21",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Robidoux fils",
+     "Sellico Robidoux",
+     "David Adams",
+     "Joseph Pappan",
+     "Michel Dubray",
+     "Frederick Chouteau"
+    ],
+    "description": "Le 3 septembre 1844, deux Robidoux, Joseph, fils de Joseph, et Sellico, fils de François, partent avec le traitant David Adams et sa petite troupe de Hickory Grove, sur la réserve chaouanone (comté de Johnson), pour le fort Laramie. Ils campent sur la Wakarusa le 5 et aux sources de Big Springs le 6, où ils cherchent trois jours des chevaux égarés. Le 13, ils arrivent chez Joseph Pappan, à Topeka, mais ne peuvent traverser : la crue vient d'endommager le bac des Pappan. Deux Français et un Espagnol les rejoignent le 17 ; le 19, l'un des Français, Michel Dubray, meurt et est enterré sur place, sans doute, selon Barry, le premier enterrement d'un Blanc à Topeka. Le 21, la troupe, onze hommes ou plus, remonte la rive sud jusqu'au poste de Frederick Chouteau, dont elle emprunte la pirogue pour franchir la rivière, puis gagne Cross Creek, les deux Vermillion et le Big Blue, et la Platte le 5 octobre.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 175-176.",
+    "note": "Complète FT15-04 : Barbour date la mort de Dubray du 17 septembre, près du « poste de J. Papin » ; Johnson, d'après Barry, la place le 19 chez Joseph Pappan, à Topeka. Voir aussi OR-03 (traversier Papin). Point approximatif au bac des Pappan, à Topeka."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.65,
+     39.84
+    ]
+   },
+   "properties": {
+    "id": "JKS-215",
+    "nom": "Big Blue (comté de Marshall ?) : mort d'Isidore Robidoux, emporté par le choléra (30 mai 1852)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1849.0,
+    "fin": 1852.413,
+    "date_edtf": "1849/1852-05-30",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Isidore Robidoux",
+     "Joseph Robidoux",
+     "Michel Robidoux",
+     "Elijah P. Howell"
+    ],
+    "description": "Isidore Robidoux, troisième des frères, né le 6 novembre 1791, vit surtout à Santa Fe, associé à son frère Antoine, mais fait souvent le trajet jusqu'au poste de son frère Joseph avec des fourrures et des marchandises. En 1849, Elijah P. Howell le croise au Plum Creek, sur la route de la Platte, en route vers le poste de Joseph avec quatre chariots de fourrures des montagnes. Une licence de 1851 le désigne, avec son frère Michel, comme commis-traitant au poste de Scotts Bluff. Le 30 mai 1852, il meurt du choléra près du « Big Blue River », sans doute dans le comté de Marshall, à 60 ans. Les deux journaux de Saint-Joseph le disent frère du fondateur de la ville et traitant des montagnes depuis sa jeunesse : brave, hospitalier, honnête et généreux, nul Blanc ni Rouge n'est jamais reparti affamé de sa cabane ou de son camp.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 171-172.",
+    "note": "Absent de l'atlas Robidoux (R-L56, R-L114 et autres fiches d'Isidore). Le lieu exact sur le Big Blue n'est pas connu ; Johnson propose le comté de Marshall. Localisation hypothétique au passage du Big Blue près de Marysville."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3,
+     39.97
+    ]
+   },
+   "properties": {
+    "id": "JKS-216",
+    "nom": "Réserve des Iowas, près de White Cloud : Joseph E. Robidoux, ancien commis de Scotts Bluff, épouse une Otoe (vers 1857)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1851.0,
+    "fin": 1860.999,
+    "date_edtf": "1851/1860",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph E. Robidoux",
+     "Joseph Robidoux"
+    ],
+    "description": "En 1851, le vieux Joseph Robidoux emploie son fils aîné, Joseph E., comme commis à son poste de Scotts Bluff, dans l'ouest du Nebraska, où celui-ci vit avec une épouse sioux. Vers 1857, Joseph E. renonce à la traite avec les Indiens et s'installe sur la réserve des Iowas, près de White Cloud (comté de Doniphan), où il épouse une Otoe instruite. Johnson note que certains de ses descendants vivent dans la nation sioux et d'autres tribus. Il ajoute que la liste des métis de la Nemaha qui reçoivent des lots en 1860 compte vingt-quatre Robidoux, sous diverses graphies.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 176.",
+    "note": "Complète R-L63 (Mary Many Days Robidoux et White Cloud) et R-L77 (poste de la Grande Nemaha). Johnson, d'après le Memorial to the Robidoux Brothers, p. 226-227. Les dates dépassent 1854, borne du livre. Point approximatif à White Cloud."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.63,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "JKS-217",
+    "nom": "Rivière Kansas : le prince Paul de Wurtemberg, Louis Caillou et Grand Louis Bertholet remontent la Kansas (21-24 juin 1823)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1823.471,
+    "fin": 1823.48,
+    "date_edtf": "1823-06-21/1823-06-24",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Caillou",
+     "Paul-Guillaume de Wurtemberg",
+     "Louis Bertholet dit Grand Louis",
+     "Roudeau",
+     "Marie-Louise Chauvin Woods",
+     "Jean-Baptiste Charbonneau"
+    ],
+    "description": "Le prince Paul de Wurtemberg engage Louis Caillou comme compagnon de voyage parce qu'il connaît bien le pays, est excellent batelier, connaît les passages dangereux du Missouri et tire très bien ; Caillou prétend avoir tué plus de quarante ours en une saison. Partis de Saint-Charles en mai 1823, ils quittent le bateau près de l'embouchure de la Kansas et logent chez Grand Louis Bertholet. Le 21 juin, ils visitent un établissement de Créoles et de métis, à moins d'un mille au-dessus de l'embouchure ; le prince y rencontre Marie-Louise Chauvin, épouse du traitant Andrew Woods, et Jean-Baptiste Charbonneau, seize ans, fils de Sacagawea. Avec le prince, Caillou, un vieux Canadien nommé Roudeau et Bertholet remontent la Kansas sur huit milles dans une grande pirogue empruntée et passent la nuit, sans manger, sur un banc de sable. Le 22, sous des nuées de moustiques, Caillou abat d'un coup un ours énorme, Bertholet en tue un autre, et les œufs de tortue et l'ours leur font un repas après vingt-quatre heures de jeûne. Le 24, chassés par les moustiques, ils redescendent la Kansas sur deux canots liés.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 178-180.",
+    "note": "Complète F-charbonneau-09, qui ne retient que la rencontre de Charbonneau. Selon Barry (cité n. 1073), l'établissement était dans l'actuel comté de Wyandotte, sans doute dans Kansas City (Kansas). Point approximatif."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.58,
+     39.14
+    ]
+   },
+   "properties": {
+    "id": "JKS-218",
+    "nom": "Comté de Clay (Missouri) : la cabane de Grand Louis Bertholet et la visite d'American Chief (juin-juillet 1823)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1823.417,
+    "fin": 1823.514,
+    "date_edtf": "1823-06/1823-07-06",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Bertholet dit Grand Louis",
+     "Paul-Guillaume de Wurtemberg",
+     "Louis Caillou",
+     "American Chief",
+     "François Chouteau",
+     "Bérénice Chouteau"
+    ],
+    "description": "Grand Louis Bertholet vit sur le Missouri à environ trois milles en aval de l'embouchure de la Kansas, sans doute dans la section 18, canton 50, rang 32 du comté de Clay. Selon Hoffhaus, cette figure familière du Kansas City français serait arrivée comme trappeur vers 1798-1799 ; François Chouteau, avant de venir de Saint-Louis avec sa femme Bérénice, l'avait envoyé avec cinq engagés de l'American Fur Company lui bâtir une cabane. Le prince Paul de Wurtemberg et Louis Caillou logent chez lui en juin 1823. Le 4 juillet, ils y reviennent : le chef kansa American Chief (Wakanze-re), campé avec sa bande sur l'autre rive, les invite, et le lendemain les Kansas viennent à la cabane échanger des présents. Bertholet inscrit une terre dans Kansas City en 1832 et figure en 1840 parmi les paroissiens de Saint-François-Régis, l'ancienne Chouteau's Church.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 178-180.",
+    "note": "Johnson, d'après Hoffhaus (Chez les Canses, 163-164) et Barry. Complète ROT28-01 (Chouteau's Church). Point approximatif à trois milles en aval de l'embouchure de la Kansas, rive nord."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.407
+    ]
+   },
+   "properties": {
+    "id": "JKS-219",
+    "nom": "San Fernando de Taos : Paul Baillio, ancien facteur des Osages, s'associe à George C. Sibley (octobre 1825 - février 1826)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1825.799,
+    "fin": 1826.391,
+    "date_edtf": "1825-10-19/1826-05-22",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Paul Baillio",
+     "George C. Sibley",
+     "Lilburn W. Boggs",
+     "Charles de la Croix"
+    ],
+    "description": "Facteur de la sous-factorerie du « M. De Cigue » (Marais des Cygnes) chez les Grands et les Petits Osages, Paul Baillio en surveille la fermeture après le traité du 31 août 1822, à la signature duquel il assiste avec le missionnaire C. De la Croix. Il rachète ensuite les marchandises du poste avec George C. Sibley et Lilburn W. Boggs, puis se tourne vers le commerce du Nouveau-Mexique. Le 19 octobre 1825, Sibley, commissaire chargé de tracer la route de Santa Fe, lui écrit pour obtenir dix mules de bât, des muletiers et un guide ; Baillio arrive le 24 et se fait son interprète, et le groupe atteint San Fernando, dans la vallée de Taos, le 30. Le 26 novembre, Sibley lui vend pour 66,37 $ de marchandises afin d'acheter quatre à cinq cents boisseaux de maïs et de blé pour les chevaux. Le 16 février 1826, ils signent l'acte de la société « Sibley & Baillio » pour le commerce de la laine, et Baillio part chercher des marchandises au fort Osage. Volé en route par deux cents Pawnees, il y arrive le 22 mai.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 181-182.",
+    "note": "Johnson corrige Barry, qui place l'arrivée au fort Osage vers le 1er avril. Baillio repasse au Kansas en 1826-1827 et reçoit avec Cerré, Louis Robidoux et François Guérin le passeport du 23 juillet 1827 (p. 164, 182). Point à San Fernando de Taos."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.21,
+     37.55
+    ]
+   },
+   "properties": {
+    "id": "JKS-220",
+    "nom": "Mission Boudinot (comté de Neosho) : A. P. Chouteau, Tonish et Prévôt guident Irving, Latrobe et Pourtalès (1er-4 octobre 1832)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1832.705,
+    "fin": 1832.758,
+    "date_edtf": "1832-09-15/1832-10-04",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Pierre Chouteau",
+     "Antoine Deshêtres dit Tonish",
+     "Prévôt",
+     "Paul Liguest Chouteau",
+     "Washington Irving",
+     "Charles Joseph Latrobe",
+     "Albert de Pourtalès",
+     "Henry L. Ellsworth",
+     "Nathaniel B. Dodge"
+    ],
+    "description": "À l'automne 1832, le colonel Auguste Pierre Chouteau conduit d'Independence au fort Gibson le commissaire Ellsworth, Washington Irving, Charles Joseph Latrobe et le jeune comte suisse de Pourtalès. Il a avec lui un serviteur noir et un petit Français mélancolique, Prévôt, chargé des chariots. Antoine Deshêtres, dit Tonish, né à Florissant le 19 octobre 1791, rejoint les voyageurs à Florissant comme guide, palefrenier, cuisinier, interprète et chasseur. Il avait été avec Chouteau dans le pays de l'Arkansas en 1822 et, en 1827, au poste de Paul Liguest Chouteau chez les Osages de la Neosho. Le 1er octobre, la caravane part vers le sud-ouest, entre au Kansas par le comté de Bourbon le 2 et campe sur le Pawnee Creek. Le 3, elle gagne la mission Boudinot du révérend Nathaniel B. Dodge, sur la rive est de la Neosho, tandis que Chouteau et Pourtalès vont voir Paul Liguest Chouteau à l'agence osage, six milles plus à l'ouest. Le 4, on franchit la Neosho et l'on campe sur la Labette avant l'Oklahoma ; Prévôt reste sur la Neosho avec un terrible catarrhe.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 182-185.",
+    "note": "Johnson précise (d'après McDermott) que Tonish n'était pas métis, contrairement à Latrobe, et qu'Irving le dit « un mensonge de première grandeur » ; Ellsworth, lui, le loue. L'atlas a les Deshêtres de Saint-Louis et de Florissant (HK-deshetres-hyacinthe-saint-ferd, SR-deshetres-antoine-saint-loui) sans ce voyage. Mission Boudinot : SO 1/4, section 10, canton 29, rang 20 E, à deux milles et demi à l'ouest-nord-ouest de St. Paul (Barry). Point approximatif."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "JKS-221",
+    "nom": "Près des villages kansas : Jean Sibille arrêté par les dragons et son alcool détruit (août 1842)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1842.622,
+    "fin": 1842.655,
+    "date_edtf": "1842-08-15/1842-08-27",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean Sibille",
+     "David Adams",
+     "John W. T. Gardner",
+     "Pierre Didier Papin"
+    ],
+    "description": "Jean Sibille, métis pawnee d'ascendance française, reçoit avec David Adams, le 31 juillet 1841, une licence pour traiter sur la fourche de la Laramie, la Cheyenne et la Wind ; en 1842, les deux associés achètent le fort Platte, sur la North Platte. Vers le 15 août 1842, alors qu'il remonte vers l'ouest avec deux chariots et sept hommes, Sibille est arrêté par le sous-lieutenant John W. T. Gardner, du 1er dragons, et vingt hommes du fort Leavenworth, à cinq milles des villages kansas. Les dragons saisissent ses chariots et ses biens et détruisent onze barils d'alcool, l'équivalent de cinquante-cinq barils de whisky ; Sibille et ses hommes sont conduits au fort, puis à Platte City (Missouri), où le magistrat les relâche. Avec ses hommes, ses chariots, ses bœufs, ses marchandises et quelques barils d'alcool restants, Sibille repart et passe la Kansas près de Topeka le 27 août, avec [P. D. ?] Papin, bourgeois du fort Laramie.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 201-202.",
+    "note": "Complète HW76-06 (Sibille & Adams au fort Platte, automne 1842). Le point d'arrestation n'est pas localisé ; la fiche est placée au passage de la Kansas près de Topeka. Johnson note le point d'interrogation de la date (« August 15 (?) »)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.59,
+     39.11
+    ]
+   },
+   "properties": {
+    "id": "JKS-222",
+    "nom": "Kawsmouth (Westport) : Antoine Delorier, muletier de Parkman (1840-1846)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1840.0,
+    "fin": 1846.738,
+    "date_edtf": "1840/1846-09-27",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Delorier",
+     "Francis Parkman",
+     "Henry Chatillon",
+     "Antoine Lajeunesse",
+     "Nicolas Point",
+     "Paul M. Ponziglione"
+    ],
+    "description": "Antoine Delorier (ou Deslauriers) vit à Westport, dans l'établissement français appelé Kawsmouth, sur le lot 5 de la carte du P. Point de 1840. Parkman l'engage en 1846 comme muletier et cocher pour son voyage aux Rocheuses avec Henry Chatillon ; sa charrette est du modèle qu'on voit par vingtaines au marché de Montréal. Il parle mal anglais et Parkman rapporte ses jurons et ses phrases en français : « Sacré enfant de garce ! », « Voulez-vous du souper, tout de suite ? », « Avance donc ! ». Il est aussi le cuisinier de l'expédition et sèche la viande de bison « avec toute l'habileté d'une Indienne ». Le lendemain du retour à Westport (26 septembre 1846), il se présente rasé, en chapeau et en habit, et invite ses bourgeois au bal qu'il veut donner, où Antoine Lajeunesse doit jouer du violon. Mais avant le soir Parkman et Chatillon prennent un vapeur descendu du fort Leavenworth, et Delorier leur crie du rocher du débarcadère : « Adieu ! Mes bourgeois, adieu ! »",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 204-205, 211.",
+    "note": "Johnson ajoute (n. 1314) qu'« Antoine De Lorier », âgé d'environ 55 ans, est enterré le 7 février 1864 par le P. Paul M. Ponziglione (Burns, Osage Missions), ce qui situerait sa fin à la mission osage. Henry Chatillon est déjà dans l'atlas (H003, MM1-04, MM1-05, TFT88-03). Point approximatif à Kawsmouth."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.625,
+     39.02
+    ]
+   },
+   "properties": {
+    "id": "JKS-223",
+    "nom": "Près de la maison de Joseph Parks : Jean-Baptiste Charbonneau, Antoine Clément et Joe Poirier dans la caravane de Stewart (mai-juin 1843)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1843.358,
+    "fin": 1843.419,
+    "date_edtf": "1843-05-10/1843-06-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jean-Baptiste Charbonneau",
+     "Antoine Clément",
+     "Joe Poirier",
+     "William Drummond Stewart",
+     "William L. Sublette",
+     "Matthew C. Field",
+     "Joseph Parks"
+    ],
+    "description": "Au printemps 1843, Sir William Drummond Stewart, devenu baronnet, part de Saint-Louis pour un voyage de plaisance aux Rocheuses avec le chasseur Antoine Clément. Jean-Baptiste Charbonneau, fils de Sacagawea, y est engagé comme « driver », et Joe Poirier, de Saint-Charles, comme chasseur ; Matthew C. Field, du Picayune, juge ce dernier presque l'égal de Clément. Débarquée au Chouteau's Landing, la troupe campe deux semaines à partir du 10 mai, à un mille à l'ouest de la frontière du Missouri, près de la maison du chef chaouanon Joseph Parks (comté de Johnson). Elle remonte ensuite la Kansas par une mauvaise route coupée de ruisseaux boueux. Le 30 mai, William L. Sublette la rejoint sur les bords du Soldier Creek, l'aide à traverser et prend la tête de quelque soixante hommes, dix charrettes et un petit chariot. Le 2 juin, elle passe un bras de la Big Vermillion ; elle a passé plus de vingt jours au Kansas.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 189-196.",
+    "note": "Complète F-charbonneau-18 (situé dans les Rocheuses), SB78-03 (départ de Saint-Louis, avril 1843) et CJ-clement-a-fort-laram. Field cite aussi la prière de Poirier pour voir des bisons à la messe du P. De Vos, sans en donner le lieu. Point approximatif au camp près de la maison de Joseph Parks."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "JKS-401",
+    "nom": "Gué de la Kansas : Louis Pappan vend du café à Frémont et un Kansa parle français (14-16 juin 1842)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1842.452,
+    "fin": 1842.458,
+    "date_edtf": "1842-06-14/1842-06-16",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "John C. Frémont",
+     "Louis Pappan",
+     "Basile Lajeunesse",
+     "Charles Preuss"
+    ],
+    "description": "Le 14 juin 1842, la première expédition de Frémont, presque entièrement composée d'hommes « d'origine française », atteint le gué de la Kansas, à cent milles de l'embouchure selon Frémont. Au passage de la rivière en crue, le bateau de caoutchouc chavire avec deux charrettes ; on repêche presque tout, mais un sac de café de 150 livres est perdu, selon Preuss. Campés sur la rive nord, les voyageurs reçoivent des Kansas qui troquent légumes, citrouilles, oignons, haricots, laitue et beurre, et Frémont a la « bonne fortune » d'acheter vingt ou trente livres de café à « Louis Pepin », l'un des frères Pappan selon Johnson. Frémont trouve parmi ses hommes un Kansa assis par terre qui parle français « gravement et couramment », avec autant d'aisance que n'importe lequel de ses gens.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 357-358.",
+    "note": "Johnson identifie le « Louis Pepin » de Frémont à Louis Pappan ; l'identification est la sienne. La traversée à la nage de Basile Lajeunesse est déjà dans R008 ; le traversier Pappan (vers 1844) est dans OR-03. Point approximatif à Topeka, où les Pappan tenaient leur traversier ; Johnson ne nomme pas le lieu du gué."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.6,
+     37.75
+    ]
+   },
+   "properties": {
+    "id": "JKS-402",
+    "nom": "Rocheuses (monts San Juan ?) : Raphaël Proue, Vincent Tabeau dit Sorel et Antoine Morin meurent de froid (janvier 1849)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1849.022,
+    "fin": 1849.074,
+    "date_edtf": "1849-01-09/1849-01-28",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Raphaël Proue",
+     "Vincent Tabeau dit Sorel",
+     "Antoine Morin",
+     "Alexis Godey",
+     "John C. Frémont",
+     "Edward M. Kern",
+     "Micajah McGehee"
+    ],
+    "description": "La quatrième expédition de Frémont, partie de Boone's Creek, près de Westport, le 20 octobre 1848, emmène ses vieux compagnons Alexis Godey, Raphaël Proue et Antoine Morin, et trois nouveaux Français, dont Vincent Tabeau, dit Sorel. Le 21 octobre ou peu après, près du Mill Creek et de la mission méthodiste chaouanone, Morin, « vieux vétéran », reçoit au visage une ruade de mule. Dans les montagnes, faute de vivres, Proue, compagnon des trois expéditions précédentes, se couche dans la piste et meurt de froid le 9 janvier 1849 ; Tabeau, aveuglé par la neige, s'allonge pour mourir au bord de la rivière le 22. Le 28 janvier, Godey trouve les corps des « vieux Français » Morin et Tabeau, l'un couché près d'un petit feu, l'autre assis contre la berge comme s'il regardait son ami. Godey sauve les deux tiers de la troupe ; onze hommes de Frémont sont morts de faim ou de froid.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 370-371, 374-375.",
+    "note": "OR-23 dit trois Canadiens morts parmi dix hommes, sans les nommer ; Johnson donne onze morts et nomme ces trois Français (dates d'après Favour, cité par Johnson). Johnson ne nomme pas les montagnes : le nom de San Juan et le point hypothétique viennent des fiches voisines C079 et OR-23."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.71,
+     37.84
+    ]
+   },
+   "properties": {
+    "id": "JKS-403",
+    "nom": "Fort Scott et Sugar Creek : le botaniste Auguste Trécul, envoyé du Muséum de Paris, herborise au Kansas (1848-1849)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1848.5,
+    "fin": 1849.167,
+    "date_edtf": "1848-07/1849-03",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Auguste Adolphe Lucien Trécul"
+    ],
+    "description": "Né à Mondoubleau, près de Vendôme, le 18 janvier 1818, pharmacien et botaniste, Auguste Trécul est envoyé en Amérique du Nord en 1847 par le Muséum national d'histoire naturelle de Paris, avec une mission du ministère de l'Agriculture et du Commerce pour étudier les plantes comestibles des Indiens. Son carnet manuscrit, Plantes de l'Amérique septentrionale, compte 1 525 entrées, dont 418 notées au Kansas. Venu par le Missouri, il entre en juillet 1848 dans les prairies à l'ouest du Missouri, près de la piste de Santa Fe, et herborise sur le Marais des Cygnes et l'Osage, puis en août sur le « Sugar Creek au Neosho », au « village Osage de Neosho », à la « Mission de Sugar Creek, chez les Potowatomie » et autour de Fort Scott. En septembre et octobre, ses notes portent sur l'Arkansas et le « Petit Arkansas ». Elles reprennent en février 1849 « près du Neosho », au « Petit Pawnie » et au « Grand Pawnie », près de Fort Scott, et s'achèvent en mars 1849 aux « Prairies du Neosho à la frontière de l'état du Missouri ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 385-387.",
+    "note": "Absent de l'atlas. Johnson suit McKelvey (1955). Point approximatif à Fort Scott, cité dans plusieurs séries d'entrées ; les comtés de Miami, Linn et Bourbon concentrent ses récoltes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.98,
+     39.37
+    ]
+   },
+   "properties": {
+    "id": "JKS-404",
+    "nom": "Kickapoo : la mission Saint-François-Xavier, des premiers baptêmes à la fermeture par Nicolas Point (1834-1841)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1834.167,
+    "fin": 1841.333,
+    "date_edtf": "1834-03/1841-05-01",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Laurent Pensineau",
+     "Benoît Roux",
+     "Charles F. Van Quickenborne",
+     "Pierre Caillou",
+     "Claude Laframboise",
+     "Toussaint Chevalier",
+     "François Bourbonnais",
+     "Nicolas Point",
+     "Kennekuk",
+     "Pashishi"
+    ],
+    "description": "Après la visite de l'abbé Benoît Roux en novembre 1833, Laurent Pensineau fait baptiser par lui à Kansas City, vers le 3 mars 1834, son fils Louis, huit ans, et l'assure que les Kickapous attendent un prêtre pour baptiser leurs enfants. Le 2 juillet 1834, le jésuite Van Quickenborne baptise à « Kickapoo Town » la fille de dix mois de Pierre Caillou et de Marguerite, une Potawatomie, premier baptême connu dans la région ; le registre en compte quatorze autres, dont celui de Susanna, fille de Claude Laframboise et d'une Potawatomie, avec pour parrains Toussaint Chevalier, François Bourbonnais et Michel Arcoite. Van Quickenborne marie aussi un « Français nommé Poncenaux [Pensineau] » à une catholique, mariage que Towle tient pour le premier mariage religieux connu au Kansas. Van Quickenborne dit la messe chez Pensineau le 4 juillet 1835, puis revient le 1er juin 1836 ; Verhaegen décrit l'agent Pensineau comme « un Créole français ». La mission Saint-François-Xavier, bâtie entre les villages de Kennekuk et de Pashishi, végète devant l'opposition du prophète kickapoo ; le Français Nicolas Point, venu en décembre 1840, la ferme le 1er mai 1841. Le bâtiment de noyer devient un hôtel en 1854 et abrite un bureau foncier en 1857 ; il est démoli en 1920.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 388-392.",
+    "note": "Complète JKS-13 (poste de Pensineau, visite de Roux, séjour de Van Quickenborne en 1836). Johnson date l'ouverture de la mission d'octobre 1837, mais cite un certificat de l'école du 5 janvier 1837 : chronologie à vérifier. Point approximatif près de l'actuel Kickapoo (comté de Leavenworth)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.594,
+     39.054
+    ]
+   },
+   "properties": {
+    "id": "JKS-405",
+    "nom": "Westport : Nicolas Point, curé de Saint-François-Régis, dresse le plan des vingt-six familles françaises (1840-1847)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1840.833,
+    "fin": 1847.5,
+    "date_edtf": "1840-11/1847-07",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Nicolas Point",
+     "Pierre-Jean De Smet"
+    ],
+    "description": "Né à Rocroi, dans les Ardennes, le 10 avril 1799, le jésuite Nicolas Point arrive à New York le 15 décembre 1835, enseigne au Kentucky et en Louisiane, puis quitte Saint-Louis le 24 octobre 1840 pour devenir, en novembre, curé de l'église Saint-François-Régis de Westport. Avant de partir, il dresse un « Plan de Westport (Missouri) » où il situe les maisons et les fermes des vingt-six familles françaises du lieu. Chargé de fermer la mission kickapoo, il y loge chez un Indien nommé Wolf, « grand ami des Français », qui se dit capable de parler français. Le 10 mai 1841, il quitte Westport avec De Smet pour les Rocheuses ; les cinq charrettes à deux roues sont menées par deux Canadiens, « excellents charretiers », et trois frères novices. De retour des Rocheuses, il débarque le 7 juillet 1847 à l'embouchure de la Kansas et passe environ trois semaines dans son ancienne paroisse. Muté au Canada, il meurt à Québec le 4 juillet 1868 et repose dans la crypte de la cathédrale.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 392-395.",
+    "note": "La visite de Point au village kansa (mai 1841) est déjà dans TL-point-father-village-du ; l'atlas a Point dans les Rocheuses, mais pas à Westport ni son plan. Point à Westport."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.36,
+     41.3
+    ]
+   },
+   "properties": {
+    "id": "JKS-406",
+    "nom": "Village de Menominee, près de Plymouth (Indiana) : la dernière messe de Benjamin-Marie Petit et le départ forcé des Potawatomis (septembre 1838)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1837.905,
+    "fin": 1838.708,
+    "date_edtf": "1837-11-27/1838-09-16",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin-Marie Petit",
+     "Menominee",
+     "Simon Bruté de Rémur",
+     "Abel C. Pepper",
+     "John Tipton",
+     "Louis Deseille"
+    ],
+    "description": "Né à Rennes le 8 avril 1811, avocat pendant trois ans puis séminariste à Saint-Sulpice, Benjamin-Marie Petit suit Mgr Bruté à Vincennes en 1836 et remplace en 1837, chez les Potawatomis de la Yellow River, l'abbé Deseille, chassé pour avoir encouragé leur résistance. Jugeant « aussi illégal que possible » le traité du 5 août 1836 pour ses Potawatomis, « qui n'ont rien vendu », il rédige pour le chef Menominee un mémoire démontrant qu'ils ne l'ont pas signé ou l'ont signé sans savoir, et répond en juin 1838 à l'agent qui le soupçonne : « Je suis Français. » Le 4 septembre 1838, il dit pour eux la dernière messe en Indiana dans sa chapelle dépouillée, au milieu des sanglots ; Menominee, qui résiste un poignard à la main, est pris au lasso et jeté dans un chariot. Le général Tipton rassemble 859 Potawatomis, et les soldats brûlent huttes et cabanes. Autorisé le 8 septembre à les suivre, Petit les rejoint le 16 septembre près de Perrysville, à la sortie de l'Indiana, et fait libérer les trois chefs du chariot qui leur servait de prison.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 395-401.",
+    "note": "Absent de l'atlas. Johnson ne situe pas précisément le village de Menominee ; il place le rassemblement « près de Plymouth ». Point approximatif près de Plymouth (comté de Marshall, Indiana)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.03,
+     38.46
+    ]
+   },
+   "properties": {
+    "id": "JKS-407",
+    "nom": "Pottawatomie Creek : arrivée de la « piste de la mort » et maladie de Benjamin-Marie Petit chez Joseph-Napoléon Bourassa (1838-1839)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1838.842,
+    "fin": 1839.108,
+    "date_edtf": "1838-11-04/1839-02-10",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Benjamin-Marie Petit",
+     "Joseph-Napoléon Bourassa",
+     "Christian Hoecken",
+     "John Tipton",
+     "Edward Sorin"
+    ],
+    "description": "Après 61 jours de marche, les Potawatomis de l'Indiana entrent au Kansas le 2 novembre 1838, au sud de Kansas City, campent le 3 sur le Bull Creek, près de Paola, et atteignent le 4 novembre, à 15 h 30, leur destination, à cinq milles de l'embouchure du Pottawatomie Creek, au sud-ouest d'Osawatomie ; quarante-trois sont morts en route selon les rapports officiels. Le jeune prêtre français Benjamin-Marie Petit, qui les a accompagnés sur 618 milles, arrive épuisé, les yeux enflammés et le corps couvert de furoncles ; il confie ses chrétiens au jésuite Christian Hoecken. Une nouvelle fièvre le retient deux mois de plus ; il passe dix-neuf jours dans la maison du métis Joseph-Napoléon Bourassa. Reparti à cheval, puis en chariot ouvert depuis Jefferson City, il arrive à Saint-Louis le 15 janvier 1839 et y meurt le 10 février, à vingt-sept ans. En 1856, le père Edward Sorin ramène ses restes à Notre-Dame (Indiana), sous la chapelle de rondins.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 402-404.",
+    "note": "Absent de l'atlas ; Joseph-Napoléon Bourassa n'y figure que comme interprète à St. Marys (1865-1871, TN-bourassa-joseph-n-mission-sa). Point approximatif à cinq milles de l'embouchure du Pottawatomie Creek."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.96,
+     38.29
+    ]
+   },
+   "properties": {
+    "id": "JKS-408",
+    "nom": "Sugar Creek (comté de Linn) : fondation de la mission potawatomie et école de garçons en partie en français (1838-1840)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1838.0,
+    "fin": 1840.516,
+    "date_edtf": "1838-01/1840-07-07",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Christian Hoecken",
+     "Joseph-Napoléon Bourassa",
+     "Nesfwawke",
+     "Pierre-Jean Verhaegen",
+     "Herman Aelen",
+     "Pierish Le Claire"
+    ],
+    "description": "Dès janvier 1838, le chef chrétien Nesfwawke invite le jésuite Christian Hoecken au Pottawatomie Creek, où il célèbre la messe et marie deux filles du chef, les premiers mariages connus du comté de Linn. Le 12 septembre 1837, une pétition potawatomie signée notamment par Pierish Le Claire avait demandé une école tenue par le clergé catholique, qui parle « l'anglais et le français ». En mai 1839, Hoecken et Verhaegen sont accueillis par Nesfwawke et Joseph-Napoléon Bourassa, catholique fervent qui parle anglais et français. Hoecken s'installe parmi les Potawatomis le 2 octobre 1838 ; les Indiens catholiques gagnent le Sugar Creek, quinze milles au sud, à environ vingt-cinq milles au nord-ouest de Fort Scott. L'école de garçons ouvre le 7 juillet 1840 ; sans prêtre français, on y enseigne en partie en français, langue apprise par beaucoup de Potawatomis en Illinois, au Michigan et en Indiana, et certains pères, Wallons de Belgique, instruisent les garçons dans cette langue.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 405-407.",
+    "note": "La chronologie de Johnson est confuse : il date du 10 mars 1838 le départ vers le Sugar Creek et du 6 septembre 1838 la décision d'ouvrir la mission, après une visite qu'il place en mai 1839. L'atlas n'a que RJ-mathevon-lucille-sugar-cree et TI-bertrand-joseph-sugar-cree. Point au parc St. Philippine Duchesne, site de la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.965,
+     38.285
+    ]
+   },
+   "properties": {
+    "id": "JKS-409",
+    "nom": "Sugar Creek : les métis français du registre des sépultures de la mission potawatomie (1838-1848)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1838.0,
+    "fin": 1848.999,
+    "date_edtf": "1838~/1848",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Eloy Bourassa",
+     "Daniel Bourassa",
+     "Gabriel Bourassa",
+     "Lazarus Bourassa",
+     "Étienne Bourassa",
+     "Laurent Bertrand",
+     "Louis Bertrand",
+     "Angélique Bertrand",
+     "Michel Nadeau",
+     "Pierre Nadeau",
+     "Antoine Leport",
+     "J. B. Tatis",
+     "Francis Clermont",
+     "Louis Penesau",
+     "Catherine Lajoux",
+     "Pierre Chaumi",
+     "Pierre Droyand"
+    ],
+    "description": "Sept grandes croix de bois, au parc St. Philippine Duchesne, portent les noms de plus de six cents Potawatomis baptisés morts à la mission de Sugar Creek. Le registre des sépultures, conservé chez les jésuites de Saint-Louis, nomme de nombreux métis : onze Bourassa, dont Josephus, fils d'Eloy, John, fils de Daniel, Daniel et sa femme, Joseph, fils de Gabriel, Lazarus et son fils Abraham, Étienne, Gabriel et la femme d'Eloy ; des Bertrand, dont Ignatius, fils de Louis, Samuel, fils de Laurent, et deux Laurent de quarante et trente-six ans ; Angélique et Pierre Nadau. On y lit aussi Antoine Leport, Marie Tatis, fille de J. B. Tatis, Josephus Morlin, Francis Clermont, Louis Penesau, Catherine Lajoux, Angélique Lisette, Marie Chaumi, fille de Pierre Chaumi, Angélique, femme de L. Louison, et Thérèse Rose, femme de Pierre Droyand. Angélique Bertrand, première femme de Michel Nadeau, meurt à la réserve le 6 février 1844.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 407, 425.",
+    "note": "Johnson annonce cinq Bertrand et en nomme six. Il rattache Louis Penesau, avec un point d'interrogation, à « Aloysius Penesau/Pinsoneau ». Point voisin de JKS-408."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.955,
+     38.295
+    ]
+   },
+   "properties": {
+    "id": "JKS-410",
+    "nom": "Sugar Creek : l'arrivée des religieuses du Sacré-Cœur et l'ouverture de l'école des filles (juillet-octobre 1841)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1841.493,
+    "fin": 1841.827,
+    "date_edtf": "1841-06-29/1841-10-29",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucille Mathevon",
+     "Philippine Duchesne",
+     "Louise Amyot",
+     "Mary Ann O'Connor",
+     "Edmond",
+     "Pierre-Jean Verhaegen",
+     "Herman Aelen",
+     "Joseph-Napoléon Bourassa",
+     "Joseph Bertrand",
+     "Elizabeth Ann Jackson Bertrand",
+     "Michel Giraud"
+    ],
+    "description": "Le 29 juin 1841, quatre religieuses du Sacré-Cœur quittent Saint-Charles sur l'Emilie : Lucille Mathevon, née près de Lyon le 6 juin 1793, supérieure, Philippine Duchesne, Mary Ann O'Connor et la sœur converse Louise Amyot, d'ascendance canadienne-française, avec le Noir Edmond. Débarquées chez Madame Chouteau, elles passent par Westport et logent au poste de Michel Giraud, sur l'Osage. Le 10 juillet, des cavaliers potawatomis postés tous les deux milles les guident ; cent cinquante cavaliers et environ trois cents hommes armés de mousquets les escortent, et Joseph-Napoléon Bourassa traduit le discours du chef. Elles dînent chez Joseph Bertrand, dont la femme, une Américaine, parle anglais et français ; Mère Mathevon la trouve « la plus aimable femme » qu'elle ait connue. L'école des filles ouvre le 18 juillet 1841 sous une tonnelle : douze élèves le premier jour, quarante-deux le second, cinquante le troisième ; en deux semaines, les religieuses chantent des cantiques en potawatomi. Leur maison de rondins, dirigée par Edmond, est achevée le 29 octobre.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 408-413.",
+    "note": "Le journal et les lettres de Mère Mathevon, en français, sont à la Linn County Historical Society (Centerville) ; Johnson les traduit. Garraghan date l'ouverture de l'école du 15 juillet. RJ-mathevon-lucille-sugar-cree se borne à l'ouverture de l'école ; le séjour chez Giraud est dans JKS-10. Point voisin du site de la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.958,
+     38.292
+    ]
+   },
+   "properties": {
+    "id": "JKS-411",
+    "nom": "Sugar Creek : Philippine Duchesne, « la femme qui prie toujours » (juillet 1841-mars 1842)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1841.525,
+    "fin": 1842.216,
+    "date_edtf": "1841-07-10/1842-03-19",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Philippine Duchesne",
+     "Lucille Mathevon",
+     "Pierre-Jean Verhaegen"
+    ],
+    "description": "Née à Grenoble le 29 août 1769, arrivée à La Nouvelle-Orléans le 29 mai 1818, Philippine Duchesne a soixante-douze ans quand elle obtient enfin d'aller chez les Indiens ; Verhaegen la présente aux Potawatomis comme une dame qui depuis trente-cinq ans demande à Dieu de venir à eux. Incapable d'apprendre leur langue, « barbare » et sans grammaire, elle soigne les malades, apprend le tricot aux filles et prie des heures à genoux : les Potawatomis répandent des grains de maïs sur les plis de sa robe pour voir combien de temps elle reste immobile, et la nomment « Kwa-Kah-Kum-A », la femme qui prie toujours. Le 4 février 1842, elle écrit à sa sœur que sa santé s'est améliorée, alors que Mère Mathevon la juge trop vieille pour cette vie. Elle repart pour Saint-Charles le 19 mars 1842, y meurt le 18 novembre 1852 et est canonisée le 3 juillet 1988. Des pierres de l'église de Sugar Creek sont dans les fondations du sanctuaire du Sacré-Cœur de Mound City.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 417-422.",
+    "note": "L'atlas n'a Duchesne qu'à Saint-Charles et à Florissant (HK-duchesne-philippine-mere-saint-char, ROT28-14). Point voisin du site de la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.952,
+     38.288
+    ]
+   },
+   "properties": {
+    "id": "JKS-412",
+    "nom": "Sugar Creek : l'école des filles de Mère Mathevon, où l'on chante en potawatomi, en anglais, en français et en latin (1842-1848)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1842.833,
+    "fin": 1848.624,
+    "date_edtf": "1842-11-01/1848-08-16",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucille Mathevon",
+     "Louise Amyot",
+     "Mother Thiefry",
+     "David D. Mitchell",
+     "Thomas H. Harvey",
+     "Félix Verreydt"
+    ],
+    "description": "Le 1er novembre 1842, le surintendant David D. Mitchell reçoit d'une élève une paire de bas qu'elle a filés et tricotés ; à sa seconde visite, le 1er juin 1843, quarante élèves lisent et chantent en anglais et en latin, et il trouve l'école aussi bonne qu'une école de filles blanches. L'école compte jusqu'à quatre-vingts élèves, dont des métisses qui parlent français. Le 13 juillet 1843 arrive une religieuse française, Mère Thiefry. En 1844, le major Thomas H. Harvey note que les filles chantent en quatre langues, « la langue indigène, l'anglais, le français et le latin ». À sa demande, une subvention annuelle de 500 dollars est accordée à partir du 1er juillet 1845, payée pour la première fois le 11 janvier 1846, quatre ans et demi après l'ouverture. Pendant l'hiver 1845-1846, quarante adultes meurent de pleurésie et plus de cent enfants de la coqueluche. Les religieuses quittent Sugar Creek avec la tribu le 16 août 1848.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 414-418.",
+    "note": "Mère Mathevon appelle « piastre » le dollar. Point voisin du site de la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.962,
+     38.297
+    ]
+   },
+   "properties": {
+    "id": "JKS-413",
+    "nom": "Sugar Creek : Joseph Bertrand fils, métis du Michigan, interprète et guide des missionnaires (1840-1848)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1840.833,
+    "fin": 1848.853,
+    "date_edtf": "1840-11/1848-11-08",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Laurent Bertrand",
+     "Joseph Bertrand père",
+     "Madeline Bertrand",
+     "Mary Doan",
+     "Elizabeth Ann Jackson Bertrand",
+     "Félix Verreydt",
+     "Maurice Gailland",
+     "Alexis Coquillard"
+    ],
+    "description": "Selon les registres de Sainte-Anne de Détroit, Joseph Laurent Bertrand naît le 19 avril 1806 à Bertrand (Michigan), bourg nommé d'après son père, Joseph Bertrand, traitant français de l'American Fur Company, et d'une Potawatomie baptisée Madeline. Baptisé à Détroit le 3 juillet 1822, il épouse vers 1827 Mary Doan, morte en 1835 ou 1836, puis le 26 mai 1836, à Fort Wayne, Elizabeth Ann Jackson, née à Annapolis. En novembre 1840, il est l'interprète de la délégation potawatomie partie de Westport pour Council Bluffs avec le commissaire Alexis Coquillard. Le 16 février 1843, il est témoin d'un mariage à Sugar Creek, et le 17 juin 1846 il assiste à la signature du traité qui cède les terres du Marais des Cygnes. En juin 1848, il accompagne le père Verreydt pour choisir le site de la nouvelle mission sur la Kansas, puis guide les missionnaires et les religieuses jusqu'à St. Marys. Selon le registre des sépultures de Sugar Creek, il meurt le 8 novembre 1848. Sa veuve meurt à Wamego le 10 septembre 1888 ; l'avenue Bertrand de St. Marys porte son nom.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 411-412, 425-426.",
+    "note": "Johnson écrit aussi qu'il revint le 6 novembre 1848 accompagner Gailland et les religieuses « après la fermeture » de Sugar Creek, alors que le départ eut lieu le 16 août et l'arrivée à St. Marys le 9 septembre : à vérifier. TI-bertrand-joseph-sugar-cree le dit seulement frère de Benjamin, établi d'abord sur le Sugar Creek. Point voisin du site de la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "JKS-414",
+    "nom": "St. Marys : fondation de la mission Sainte-Marie, « French Catholic Mission » des Potawatomis (1848-1849)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.41,
+    "fin": 1849.678,
+    "date_edtf": "1848-05-29/1849-09-05",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Félix Verreydt",
+     "Maurice Gailland",
+     "Lucille Mathevon",
+     "Mary Ann O'Connor",
+     "Louise Amyot",
+     "Michel Nadeau",
+     "Joseph Bertrand",
+     "Christian Hoecken",
+     "William Kelly"
+    ],
+    "description": "Après les traités de juin 1846, le père Hoecken brûle les bâtiments de Sugar Creek après son dernier office du 11 novembre 1847 ; un Français prévient les dames du Sacré-Cœur : « Mes Dames, ce pays est l'enfer même. » Du 2 au 6 juin 1848, le père Verreydt parcourt la nouvelle réserve avec Michel Nadeau. Le 16 août, missionnaires et religieuses quittent Sugar Creek avec Joseph Bertrand pour guide ; le père Maurice Gailland, né en 1815 dans le Valais, tient le journal. Partis du campement de la Wakarusa le 7 septembre, ils passent la Kansas à gué à Uniontown et arrivent le 9 septembre 1848 à deux cabanes de rondins inachevées. Selon une des dames, Mère Mathevon passe la rivière et se met à couper l'herbe haute de six pieds, entraînant les Indiens au travail. Au printemps 1849, une église de rondins est bâtie avec 1 700 dollars des annuités indiennes et 600 dollars de l'Œuvre de la Propagation de la foi. Le 5 septembre 1849, l'école compte 57 pensionnaires et dix externes. La même année, l'Anglais William Kelly visite cette « mission catholique française » ; Gailland prêche en français aux offices du soir du dimanche.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 423-428, 432-433.",
+    "note": "L'atlas a Gailland à St. Marys (TQ-gailland-father-maurice-mission-sa, 1848), sans ces détails ; Hoecken n'y paraît que dans cette fiche. Johnson écrit « au printemps de 1848 » pour la maison des religieuses, sans doute pour 1849. Point aux coordonnées de la mission dans l'atlas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "JKS-415",
+    "nom": "Silver Lake : les haltes françaises de la réserve potawatomie et le vieux chef Le Framboise (1855-1859)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1855.917,
+    "fin": 1859.999,
+    "date_edtf": "1855-12/1859",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Le Framboise",
+     "William H. Mackey",
+     "Grantley F. Berkeley",
+     "John Schultz"
+    ],
+    "description": "Les voyageurs qui entendent parler français à la mission Sainte-Marie l'appellent une « colonie française ». En décembre 1855, William H. Mackey et sa femme, allant en chariot à bœufs de Fort Riley au comté de Leavenworth, traversent la réserve potawatomie et s'arrêtent dans « ces vieilles haltes françaises » ; ils restent plusieurs jours chez « le vieux chef Le Framboise, à Silver Lake », qui a deux femmes et une grande famille et nourrit bien ses hôtes. À l'été 1859, l'Anglais Grantley F. Berkeley passe une nuit dans « l'établissement franco-indien de la prairie, Pottawattami », sur la recommandation des dames de Fort Riley, et rend visite au père Schultz. Selon Johnson, l'usage du français était répandu dans toute la réserve.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 432-433.",
+    "note": "TI-la-frame-joseph-silver-lak signale un colon Joseph la Frame à Silver Lake en 1850 ; rien ne dit qu'il s'agit du même homme. Point à Silver Lake."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.072,
+     39.192
+    ]
+   },
+   "properties": {
+    "id": "JKS-416",
+    "nom": "St. Marys : Pierre Karleskind, de Nancy, préfet des garçons potawatomis pendant quatorze ans (mort en 1862)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1848.0,
+    "fin": 1862.672,
+    "date_edtf": "1848~/1862-09-03",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Karleskind",
+     "Maurice Gailland",
+     "John Schultz"
+    ],
+    "description": "Né à Nancy le 10 juillet 1803, Pierre Karleskind commence à la paroisse Saint-Joseph de Saint-Louis, puis est pendant quatorze ans préfet et maître des garçons indiens de la mission Sainte-Marie. Selon Gailland, il les suit de la classe à la cour, au réfectoire et en promenade, et dort dans un réduit entre les deux dortoirs. Il doit leur apprendre l'anglais, sans pouvoir leur donner, écrit le père Schultz en 1858, une prononciation qu'il n'a pas lui-même. Jardinier, boulanger, réfectorier, sacristain ou maître, il fait tout bien, selon son supérieur. Il meurt à St. Marys le 3 septembre 1862 et repose au cimetière Mount Calvary.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 433.",
+    "note": "Johnson l'appelle « Father », mais les citations de Gailland et de Schultz disent « Brother » : sans doute un frère coadjuteur. Les quatorze ans ne sont pas datés ; le début est placé vers 1848. Point à la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.068,
+     39.188
+    ]
+   },
+   "properties": {
+    "id": "JKS-417",
+    "nom": "St. Marys : le père John Schultz, d'Alsace, supérieur de la mission et grammairien du potawatomi (1851~-1861)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1851.0,
+    "fin": 1861.541,
+    "date_edtf": "1851~/1861-07-16",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "John Schultz",
+     "Jean-Baptiste Miège",
+     "John B. Duerinck",
+     "W. E. Murphy"
+    ],
+    "description": "Né à Niedermorschwiller, dans le Haut-Rhin, le 2 février 1816, John Schultz entre chez les jésuites le 17 octobre 1837 ; il figure avec Mgr Miège sur la liste des passagers du Providence du 1er juin 1848, puis sert à Cahokia avant la mission Sainte-Marie. Encouragé par Miège, il finit par maîtriser le potawatomi et en compose une grammaire ; il visite tous les quinze jours les Potawatomis établis au sud de la Kansas. À la noyade du père Duerinck, il devient supérieur en décembre 1858, après avoir écrit qu'il se jugeait trop étranger, l'accent « trop français ou allemand » pour plaire aux oreilles américaines. En 1859, l'agent W. E. Murphy loue son énergie et note qu'il est à la mission depuis huit ans. Nommé recteur du collège Saint-Xavier de Cincinnati le 16 juillet 1861, il meurt à Saint-Louis le 25 août 1887.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 432-435.",
+    "note": "Le début (vers 1851) est déduit des « huit ans » du rapport de Murphy de 1859. Johnson date ailleurs de juin 1847 la noyade de Duerinck, ce qui contredit la succession de décembre 1858. Point à la mission."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.205
+    ]
+   },
+   "properties": {
+    "id": "JKS-418",
+    "nom": "St. Marys, cimetière Mount Calvary : la pierre commune de Lucille Mathevon, Louise Amyot et Mary O'Connor (1857-1876)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1857.152,
+    "fin": 1876.999,
+    "date_edtf": "1857-02-26/1876",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucille Mathevon",
+     "Louise Amyot",
+     "Mary Ann O'Connor",
+     "Pierre Karleskind",
+     "Elizabeth Ann Jackson Bertrand"
+    ],
+    "description": "Sœur Louise Amyot, d'ascendance canadienne-française, sert vingt ans chez les Potawatomis et apprend leur langue ; elle meurt le 26 février 1857 et repose au cimetière Mount Calvary, au nord de St. Marys. En 1857, l'agent Murphy compte neuf religieuses du Sacré-Cœur sous « Madame Lucille », et cent dix élèves à l'école des filles. Rappelée à Saint-Charles en 1868, Mère Lucille Mathevon revient en 1871 devant les protestations des Indiens et des Blancs ; elle est alors la seule religieuse française, et meurt en 1876. Le seul souvenir de ses trente-cinq ans auprès des filles potawatomies est une inscription sur une pierre tombale de Mount Calvary qu'elle partage avec Mary O'Connor et Louise Amyot, dont le nom y est écrit « Amiotte ». Le frère Pierre Karleskind (1862) et Elizabeth Ann Bertrand (1888) reposent aussi à Mount Calvary.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 408, 411, 431, 433, 435-436.",
+    "note": "Point approximatif au nord de St. Marys."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.0,
+     39.15
+    ]
+   },
+   "properties": {
+    "id": "JKS-419",
+    "nom": "Réserve potawatomie de la Kansas : mort de Pierish Le Claire, métis interprète et délégué à Washington (28 mars 1849)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1812.0,
+    "fin": 1849.241,
+    "date_edtf": "1812/1849-03-28",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Pierish Le Claire"
+    ],
+    "description": "Pierish Le Claire (ou Pierre LeClair, Le Clerc), métis d'ascendance française, est au massacre de Fort Dearborn, à Chicago, en 1812, où il sert d'interprète pour les termes de la reddition. Les traités de Chicago (1821), de la rivière Saint-Joseph (1825 et 1828) et de Prairie du Chien (1829) lui accordent chacun une section, la dernière à Paw-paw Grove. Il parle couramment l'anglais et le français. En 1845, délégué à Washington pour la cession des terres de l'Iowa, il devient le principal porte-parole des Indiens, rappelant les promesses non tenues et regrettant le pays de Chicago, où, disait-il, les grenouilles des marais chantaient plus doucement que les oiseaux ailleurs. Il persuade pourtant les Indiens de quitter Council Bluffs pour le Kansas, et meurt sur la réserve de la rivière Kansas le 28 mars 1849.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 405-406.",
+    "note": "Absent de l'atlas. Johnson date sa pétition pour une mission catholique tantôt du 12 septembre 1837 (texte), tantôt du 12 septembre 1839, à Fountain Blue près de Council Bluffs (note). Lieu de mort non précisé : point hypothétique au centre de la réserve, près de St. Marys."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.56,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "JKS-420",
+    "nom": "Kawsmouth : la maison de Bérénice Ménard Chouteau, « l'âme de la colonie française » (1838-1847)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1838.297,
+    "fin": 1847.333,
+    "date_edtf": "1838-04-18/1847-05-01",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Bérénice Ménard Chouteau",
+     "François Gesseau Chouteau",
+     "John James Audubon",
+     "Lucille Mathevon",
+     "Augustin-Magloire Blanchet"
+    ],
+    "description": "Veuve depuis le 18 avril 1838 de François Gesseau Chouteau, mort à quarante et un ans, Bérénice Ménard Chouteau habite sur la rive droite du Missouri, deux ou trois milles sous l'embouchure de la Kansas. Le 2 mai 1843, le vapeur Omega, qui porte Audubon, s'y arrête et trouve tout abandonné, l'eau ayant monté de deux pieds dans la maison ; Audubon y fait encore halte au retour, le 11 octobre. En juillet 1841, elle accueille les religieuses du Sacré-Cœur en route pour Sugar Creek, leur fait entendre la messe et les charge de provisions. Elle élève chez elle des filles métisses, devient la patronne de l'église Saint-Régis, dite Chouteau Church, et baptise elle-même soixante-quinze enfants indiens pendant une épidémie. Elle ouvre sa maison pour les fêtes françaises ; le 1er mai 1847, l'abbé Blanchet la dit « l'âme de la colonie française ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 381, 384, 409-410.",
+    "note": "Absente de l'atlas sous son nom ; la Chouteau Church est dans ROT28-01. Johnson cite Barry et Hoffhaus. Il nomme « Rev. August M.A. Blanchet » : sans doute Augustin-Magloire Blanchet. Point approximatif sous l'embouchure de la Kansas."
+   }
   }
  ]
 }
