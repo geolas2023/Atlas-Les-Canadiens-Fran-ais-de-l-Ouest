@@ -1167567,6 +1167567,94 @@
     "sources": "Isaacs, Marion (s. d.), The Kankakee River of History, Indiana (PDF archive.org kankakeeriverofh00isaa, Drive de l'auteur, dossier ILLINOIS_MISSISSIPPI_KANKAKEE_JOLIET_MARQUETTE/KANKAKEE), p. 52-53.",
     "note": "Souvenir tardif et de seconde main ; aucune date pour LaBonta, sinon après 1821 et avant 1847. Isaacs (ISK-01) reconnaît la part de conjecture de son livre. Point hypothétique sur le Kankakee au sud du comté de Porter."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98,
+     35.79
+    ]
+   },
+   "properties": {
+    "id": "FXA-01",
+    "nom": "Fort Barclay (La Junta du Mora) : le capitaine Alexander Papin et ses volontaires néo-mexicains contre les Jicarillas (1849)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1849.417,
+    "fin": 1849.667,
+    "date_edtf": "1849-06/1849-09",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexander Papin",
+     "Henry Judd",
+     "William Miller",
+     "Alexander Barclay"
+    ],
+    "description": "En 1849, Alexander Papin commande une compagnie d'infanterie de volontaires du Nouveau-Mexique cantonnée au fort de Barclay, au confluent du Mora et du Sapello, là où les colons sont le plus exposés aux raids. Le 12 juin, le capitaine Henry Judd, commandant du poste de Las Vegas, l'envoie avec une partie de ses hommes fouiller les montagnes et les autres repaires des Indiens après plusieurs vols de bétail. À la fin de l'été, craignant des représailles après la charge des dragons de Burnside contre des Jicarillas, Judd envoie quarante des volontaires de Papin à Los Valles. Le 8 septembre, des Apaches pillent le rancho de Chaparito, à une dizaine de milles au sud ; Papin se lance à leur poursuite, divise sa troupe et laisse au sergent William Miller l'autre moitié, qui surprend le camp à minuit. Selon Myers, Papin (1817-1849), de la grande famille marchande des Chouteau, est le fils d'Alexandre Laforce Papin et de Julie Brazeau.",
+    "sources": "Myers, Harry C., « Massacre on the Santa Fe Trail: Mr. White's Company of Unfortunates », Wagon Tracks, vol. 6, no 2, février 1992 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY), p. 20-21, 24.",
+    "note": "Myers résume les rapports militaires (Judd à Dickerson, juin-septembre 1849) et le rôle de la compagnie de Papin (Territorial Archives of New Mexico, bobine 85). Le père, Alexandre Laforce Papin, figure parmi les fils de Joseph-Marie Papin et de Marie-Louise Chouteau (fiche BL88-10) ; le capitaine Alexander lui-même est absent du réseau. Point au fort de Barclay (près de l'actuelle Watrous), même position que HK19-03 ; Los Valles et Chaparito, plus au sud, ne sont pas localisés avec précision."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "FXA-02",
+    "nom": "Santa Fe : Alexander Papin, capitaine des volontaires, tué par un nommé Wheeler (fin novembre 1849)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1849.833,
+    "fin": 1849.833,
+    "date_edtf": "1849-11",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexander Papin"
+    ],
+    "description": "Alexander Papin, né en 1817, petit-fils de Marie-Louise Chouteau et capitaine d'une compagnie de volontaires du Nouveau-Mexique pendant la guerre de 1849 contre les Jicarillas, est abattu à Santa Fe, à la fin de novembre 1849, par un certain Wheeler. Parmi les sources de sa note, Myers cite le Santa Fe New Mexican du 24 novembre 1849, le recensement de 1850 des comtés de San Miguel et de Taos et la généalogie de la famille Chouteau de Cunningham et Blythe (1977).",
+    "sources": "Myers, Harry C., « Massacre on the Santa Fe Trail: Mr. White's Company of Unfortunates », Wagon Tracks, vol. 6, no 2, février 1992 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY), p. 24.",
+    "note": "Fait tiré d'une note de Myers (note 22) : aucune précision sur le lieu exact ni sur les circonstances. Point au centre de Santa Fe."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.218,
+     35.594
+    ]
+   },
+   "properties": {
+    "id": "FXA-03",
+    "nom": "Las Vegas – Independence : P. H. LeBlanc, Canadien de Santa Fe, sur le premier convoi du raccourci d'Aubry (sept.-oct. 1851)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1851.716,
+    "fin": 1851.777,
+    "date_edtf": "1851-09-19/1851-10-11",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "P. H. LeBlanc",
+     "François-Xavier Aubry",
+     "William Messervy",
+     "Charles Spencer",
+     "B. F. Mosely"
+    ],
+    "description": "En septembre 1851, Aubry réunit à Las Vegas, à l'est de Santa Fe, soixante-deux hommes, trente chariots et trois cents mules ; le convoi part le 19 septembre. Dans la Panhandle de l'Oklahoma, il quitte la piste et file de dix à quarante degrés à l'est du nord jusqu'à l'Arkansas, ouvrant une route de chariots bien pourvue d'eau et d'herbe qui évite la Jornada et la piste de la Cimarron. Parmi les passagers figurent William Messervy, Charles Spencer, B. F. Mosely et « P. H. LeBlanc, a French Canadian from Santa Fe ». Aubry quitte le convoi deux jours avant Independence et y arrive le 11 octobre sur sa jument Dolly.",
+    "sources": "Chaput, Donald, François X. Aubry: Trader, Trailmaker and Voyageur in the Southwest, 1846-1854, Glendale (Calif.), Arthur H. Clark, 1975 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 103-104.",
+    "note": "Seule mention de LeBlanc chez Chaput (index : « LeBlanc, P.H: 104 »), qui cite Barry, Beginning of the West, p. 1015, 1042. Rien sur sa vie à Santa Fe. Point à Las Vegas (Nouveau-Mexique), lieu du départ ; le trajet suit le raccourci d'Aubry (fiches de l'Atlas Aubry L19, L81)."
+   }
   }
  ]
 }
