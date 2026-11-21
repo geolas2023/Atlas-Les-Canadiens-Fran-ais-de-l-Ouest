@@ -1164978,6 +1164978,696 @@
     "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 454.",
     "note": "Passage hors des chap. 9-13 (chap. sur la toponymie), signalé comme piste dans la mission. Johnson écrit « Atkinson » pour Atchison. L'agence kansa (JKS-309) était à quatre milles en aval de son embouchure (n. 1409). Point approximatif à Valley Falls."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.518,
+     45.537
+    ]
+   },
+   "properties": {
+    "id": "LGU-01",
+    "nom": "Longueuil : la seigneurie, réservoir d'engagés pour le Détroit et Michillimakinac (1723-1760)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1723.0,
+    "fin": 1760.999,
+    "date_edtf": "1723/1760",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Lemoine",
+     "Danré de Blanzy"
+    ],
+    "description": "Dans les greffes des notaires du gouvernement de Montréal, Louis Lemoine relève 309 contrats d'engagement passés par des habitants de la seigneurie de Longueuil, dont 288 concernent le commerce des fourrures. L'engagement se signe surtout au printemps (247 contrats) et, pour plus de 88 % des pièces, pendant la troisième génération d'habitants, entre 1730 et 1760 ; trois notaires, dont Danré de Blanzy, spécialiste de ces contrats, en rédigent les deux tiers. Sur les cent vingt contrats qui indiquent la destination, cinquante-neuf visent le Détroit et trente-neuf Michillimakinac ; sur les soixante-neuf qui donnent le salaire, la plupart vont de 100 à 399 livres. Quarante-neuf congés et permis de traite, de 1723 à 1752, avec des pointes en 1743, 1745, 1746 et 1749, livrent en outre soixante-douze noms d'habitants de Longueuil engagés à des marchands équipeurs. Lemoine décrit le voyageur comme une catégorie sociale de la seigneurie : le père, plus souvent un fils, part pour les Pays d'en haut, tandis que des fils ou des frères restent aux travaux de la terre. Les censitaires négocient ces engagements à Montréal, où ils passent la plupart de leurs actes.",
+    "sources": "Lemoine, Louis, Longueuil en Nouvelle-France, Longueuil, Société d'histoire de Longueuil, 1975 (PDF, Drive de l'auteur, dossier LONGUEUIL_HISTOIRE), p. 40-41, 54-55, 110, 115.",
+    "note": "Point au vieux Longueuil (site du fort, comme L47 de l'Atlas Iberville). Lemoine ne publie pas la liste nominative des engagés ni des 72 noms des permis ; il renvoie au répertoire de Massicotte (RAPQ 1929-1930) et aux congés publiés dans le RAPQ de 1921-1923. Il note, après Louise Dechêne, que ces départs ne se font pas au détriment de l'agriculture."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.736,
+     45.787
+    ]
+   },
+   "properties": {
+    "id": "LGU-02",
+    "nom": "Michillimakinac : Louis Edeline, habitant de Longueuil, engagé pour le poste (1727)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1727.452,
+    "fin": 1727.452,
+    "date_edtf": "1727-06-14",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Edeline",
+     "Clignancourt",
+     "Maugras",
+     "Joseph-Charles Raimbault"
+    ],
+    "description": "Le 14 juin 1727, devant le notaire Joseph-Charles Raimbault, à Montréal, Louis Edeline, habitant de Longueuil, s'engage aux sieurs de Clignancourt et Maugras « pour faire le voyage de cette ville au poste de Missilimakinac ». Son salaire est de 215 livres, payable au retour en castors au prix du bureau et en pelleteries au prix des marchands équipeurs. Louis Lemoine cite ce contrat comme exemple type des engagements pour l'Ouest passés par les habitants de la seigneurie. C'est l'un des trente-neuf contrats de Longueuil à destination de Michillimakinac qu'il a repérés.",
+    "sources": "Lemoine, Louis, Longueuil en Nouvelle-France, Longueuil, Société d'histoire de Longueuil, 1975 (PDF, Drive de l'auteur, dossier LONGUEUIL_HISTOIRE), p. 40.",
+    "note": "Greffe J.-C. Raimbault, 14 juin 1727 (numéro de minute lu « 93g » dans l'OCR, à vérifier). Point au poste de Michillimakinac (rive sud du détroit), destination du voyage ; le contrat est passé à Montréal. Ne pas confondre avec le Louis Edeline de Vincennes (JO-edeline-louis-vincennes, 1783), dont le lien avec celui-ci n'est pas établi."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.0465,
+     42.3293
+    ]
+   },
+   "properties": {
+    "id": "LGU-03",
+    "nom": "Détroit : Barbe Loisel, veuve de deux colons de la région de Longueuil, épouse François Fafard (1713)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1713.829,
+    "fin": 1713.829,
+    "date_edtf": "1713-10-30",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Barbe Loisel",
+     "Pierre Rouxel",
+     "François Le Gantier de la Vallée-Ranée",
+     "François Fafard",
+     "Catherine Primot"
+    ],
+    "description": "Fille du serrurier Louis Loisel et de Marguerite Chariot (graphie de l'OCR), Barbe Loisel est baptisée le 30 août 1663. Le 26 octobre 1676, elle épouse Pierre Rouxel, maître-taillandier, originaire d'Ouville-la-Rivière près de Dieppe, compté parmi les pionniers de Longueuil ; le mariage est célébré en présence de Catherine Primot, épouse de Charles Le Moyne. Veuve en 1687, elle se remarie le 28 novembre 1689 avec François Le Gantier, sieur de la Vallée-Ranée, officier commandant le fort de Lachine. Le 30 octobre 1713, au Détroit, elle épouse en troisièmes noces François Fafard, veuf de Madeleine Jobin.",
+    "sources": "Falardeau, Émile, Les pionniers de Longueuil et leurs origines, 1666-1681, Montréal, 1937 (PDF, Drive de l'auteur, dossier LONGUEUIL_HISTOIRE), p. 79, 87.",
+    "note": "Complète HM-loisel-barbe-fort-pontc et HM-fafard-dit-delorme-francois-fort-pontc-2 (Hamlin), qui font déjà de Barbe Loisel l'épouse de Fafard « vers 1710 » ; Falardeau date le mariage du Détroit du 30 octobre 1713 d'après Tanguay (sa source IV). Les deux dates ne s'accordent pas ; celle de Falardeau repose sur un acte. Falardeau, entrées 137 et 167. Point au fort Pontchartrain, comme les fiches existantes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.0465,
+     42.3293
+    ]
+   },
+   "properties": {
+    "id": "LGU-04",
+    "nom": "Détroit : René Deniau, fils d'un pionnier de Longueuil, y est inhumé (1730)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1730.533,
+    "fin": 1730.533,
+    "date_edtf": "1730-07-13",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "René Deniau",
+     "Jean Deniau",
+     "Hélène Daudin",
+     "Madeleine Matou"
+    ],
+    "description": "René Deniau est le fils de Jean Deniau, scieur de long nantais arrivé à Ville-Marie en 1653 avec la grande recrue de Maisonneuve, compté parmi les pionniers de Longueuil et tué par les Iroquois en 1695, et d'Hélène Daudin. Baptisé le 18 janvier 1665, il épouse à Boucherville, le 29 octobre 1692, Madeleine Matou, veuve de Jean Haudecoeur, de Boucherville. Il est inhumé au Détroit le 13 juillet 1730. Falardeau ne dit rien de sa vie dans l'Ouest au-delà de cette sépulture.",
+    "sources": "Falardeau, Émile, Les pionniers de Longueuil et leurs origines, 1666-1681, Montréal, 1937 (PDF, Drive de l'auteur, dossier LONGUEUIL_HISTOIRE), p. 99-100.",
+    "note": "Falardeau, entrées 208 et 213 ; dates tirées des registres de Montréal et de Boucherville et de Tanguay (sources I, II et IV de Falardeau). Le reseau n'a pour ce nom que le récollet Chérubin Deniau (CP-deniau-cherubin-fort-pontc), sans lien établi. Point au fort Pontchartrain du Détroit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.518,
+     45.537
+    ]
+   },
+   "properties": {
+    "id": "LGU-05",
+    "nom": "Longueuil : le récollet Constantin Delhalle, futur aumônier du Détroit, y exerce en 1698",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1698.0,
+    "fin": 1698.999,
+    "date_edtf": "1698",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Constantin Delhalle",
+     "Pierre Millet",
+     "Cyprien Tanguay"
+    ],
+    "description": "Arrivé de France le 1er juin 1696, le récollet Nicolas-Bernardin-Constantin de L'Halle (Constantin Delhalle) signe quelques actes à Longueuil en 1698, comme missionnaire, l'année où le jésuite Pierre Millet devient le premier curé à résidence de la paroisse Saint-Antoine. Jodoin et Vincent citent le Répertoire du clergé de Tanguay : il dessert ensuite la paroisse de Saint-François de Sales, devient en 1703 le premier aumônier du fort Pontchartrain du Détroit et y est tué par les Outaouais le 1er juin 1706. Ils citent aussi, d'après Tanguay, une note des registres du Détroit datée du 4 au 13 mai 1723 : son corps est exhumé et transporté dans la nouvelle église. Jodoin et Vincent contestent sa mort de 1706, parce qu'un « père Bernardin-Constantin » est curé de Longueuil de 1713 à 1715 ; Gauthier explique cette confusion par l'existence de deux récollets : Nicolas Bernardin, dit père Constantin, curé de 1713 à 1715, et Constantin de Halle, venu en 1698.",
+    "sources": "Jodoin, Alex., et J.-L. Vincent, Histoire de Longueuil et de la famille de Longueuil, Montréal, Granger frères, 1889 ; Gauthier, Robert, La paroisse de Saint-Antoine de Longueuil (1698-1998), Longueuil, Éditions du Marigot, [1998] (PDF, Drive de l'auteur, dossier LONGUEUIL_HISTOIRE), Jodoin et Vincent, p. 194-195 ; Gauthier, p. 36.",
+    "note": "Le séjour au Détroit et la mort de 1706 sont déjà dans CP-delhalle-constantin-fort-pontc, RC-delhalle-constantin-fort-pontc et RH-delhalle-constantin-fort-pontc (qui datent l'attaque du 2 juin 1706 ; Tanguay, cité par Jodoin, dit le 1er juin). Apport : son passage à Longueuil en 1698 et l'exhumation de 1723. Point au vieux Longueuil, où le fort servait alors d'église."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5165,
+     45.5375
+    ]
+   },
+   "properties": {
+    "id": "LGU-06",
+    "nom": "Longueuil : trois Sœurs des Saints Noms de Jésus et de Marie partent rejoindre la mission d'Oregon (1864)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1864.086,
+    "fin": 1864.086,
+    "date_edtf": "1864-02-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Martine Tessier",
+     "Françoise Dubreuil",
+     "Adeline Chouinard",
+     "Edwige Davignon"
+    ],
+    "description": "Le 2 février 1864, trois religieuses quittent le couvent de Longueuil, maison des Sœurs des Saints Noms de Jésus et de Marie, pour rejoindre en Oregon leurs douze consœurs du contingent précédent. Ce sont Martine Tessier, Françoise Dubreuil et Adeline Chouinard ; elles sont accompagnées par Edwige Davignon. Selon la même chronologie, la congrégation avait été fondée à Longueuil le 28 octobre 1843.",
+    "sources": "Doucet, Édouard, Longueuil, 1657-2000. 343 ans d'histoire à travers photos, cartes postales et illustrations, 2e éd., Longueuil, Société d'histoire de Longueuil, 1999 (PDF, Drive de l'auteur, dossier LONGUEUIL_HISTOIRE), p. 14 et 23 du PDF (éphémérides de 1843 et de 1864).",
+    "note": "Doucet donne les noms civils, sans noms de religion. Le contingent de 1859 arrivé à Portland est déjà dans le reseau (BB-renauld-adelaide-portland, BB-lachappelle-martine-portland, etc.) ; ce renfort de 1864 n'y figure pas. La fondation de 1843 est dans la même chronologie de Doucet. Point approximatif au couvent de la rue Saint-Charles, dans le vieux Longueuil."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.07,
+     39.19
+    ]
+   },
+   "properties": {
+    "id": "FXB-01",
+    "nom": "St. Marys (Kansas) : fondation de la mission Sainte-Marie des Potawatomis (9 septembre 1848)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.624,
+    "fin": 1848.944,
+    "date_edtf": "1848-08-16/1848-12-11",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Félix L. Verreydt",
+     "Maurice Gailland",
+     "Lucille Mathevon",
+     "Joseph Bertrand",
+     "Charlot",
+     "Christian Hoecken"
+    ],
+    "description": "Le 16 août 1848, le père Félix L. Verreydt quitte la vieille mission de Sugar Creek (comté de Linn) avec le père Maurice Gailland, quatre Dames du Sacré-Cœur menées par la mère Lucille Mathevon, un frère convers, un jeune Indien nommé Charlot et Joseph Bertrand, qui sert de guide. Après un séjour, du 19 août au 7 septembre, à la station du père Christian Hoecken au sud de la Kansas, la troupe est retenue un jour entier au poste de traite d'Union Town par une crue. Le 9 septembre, elle passe la rivière à gué, « les uns en chariot, les autres à cheval », et arrive l'après-midi au site choisi en juin, où se trouve aujourd'hui le St. Mary's College. Deux maisons de rondins à demi achevées l'attendent ; celle de l'ouest, à deux étages et cinq pièces, est donnée aux religieuses. Le père Hoecken rejoint la mission le 12 octobre, une petite chapelle sert pour la première fois le 12 novembre et, du 25 novembre au 11 décembre, l'école reçoit ses premiers pensionnaires, cinq garçons et à peu près autant de filles.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 180.",
+    "note": "Complète TI-gailland-father-mission-sa, TO-gailland-father-morris-mission-sa et TQ-gailland-father-maurice-mission-sa (Andreas et Cutler, Blackmar), qui ne nomment que Gailland ; Mathevon n'a dans l'atlas qu'une fiche de Sugar Creek (RJ-mathevon-lucille-sugar-cree). Barry ne dit pas l'origine de Joseph Bertrand. Point aux coordonnées de la mission dans l'atlas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.98,
+     38.47
+    ]
+   },
+   "properties": {
+    "id": "FXB-02",
+    "nom": "Ruisseau Pottawatomie : mort du révérend Mackinaw Beauchemie, prédicateur métis chez les Potawatomis (12 mai 1848)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1837.0,
+    "fin": 1848.363,
+    "date_edtf": "1837/1848-05-12",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mackinaw Beauchemie",
+     "Thomas Johnson",
+     "James O. Andrew"
+    ],
+    "description": "Le 12 mai 1848, le révérend Mackinaw Beauchemie meurt d'une pneumonie à l'ancienne mission méthodiste des Potawatomis, sur le ruisseau Pottawatomie. Demi-Chippewa, il avait été converti au début des années 1830 par le révérend Thomas Johnson, qui l'employa à partir de 1837 comme prédicateur indigène chez les Potawatomis. Il avait été ordonné diacre de l'Église méthodiste épiscopale du Sud en 1847. L'évêque James O. Andrew voyait en lui « probablement le plus grand et le meilleur des Potawatomis », un homme aux dons rares et d'une piété ardente et constante.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 156-157.",
+    "note": "Barry place la mission « dans le comté de Miami (?) actuel, sur le ruisseau Pottawatomie » ; le point, près d'Osawatomie, est donc hypothétique. Barry note que cette date de mort corrige celle qu'il avait donnée dans KHQ, vol. 29. Le nom de famille est français, mais Barry ne dit rien du père : le mot « métis » vient seulement de « half-Chippewa »."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.9,
+     39.7
+    ]
+   },
+   "properties": {
+    "id": "FXB-03",
+    "nom": "Missouri en aval de Saint-Joseph : Baptiste Picotte se noie dans le naufrage d'un bateau de l'American Fur Company (18 juin 1848)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1848.463,
+    "fin": 1848.463,
+    "date_edtf": "1848-06-18",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Baptiste Picotte"
+    ],
+    "description": "Le 18 juin 1848, à quelques milles en aval de Saint-Joseph (Missouri), un bateau mackinaw de l'American Fur Company heurte un chicot et coule. Baptiste Picotte se noie, et la lourde cargaison de fourrures est perdue. Barry tire la nouvelle de la Gazette de Saint-Joseph du 23 juin 1848.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 168.",
+    "note": "Barry ne dit rien de la parenté de Baptiste Picotte avec Joseph ou Honoré Picotte, nommés ailleurs dans l'atlas. Point approximatif sur le Missouri, quelques milles en aval de Saint-Joseph."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.9,
+     39.41
+    ]
+   },
+   "properties": {
+    "id": "FXB-04",
+    "nom": "Weston (Missouri) : les mackinaws de Joseph Picotte et les robes de Harvey, Primeau & Co. (mai-juillet 1848)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1848.333,
+    "fin": 1848.563,
+    "date_edtf": "1848-05/1848-07-24",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Picotte",
+     "Alexander M. Harvey",
+     "Alexander K. McLean"
+    ],
+    "description": "À la mi-mai 1848, deux des trois bateaux mackinaws descendus du haut Missouri sous la conduite de Joseph Picotte arrivent à Weston (Missouri). Leur cargaison, « plus de » 800 balles de robes de bison consignées à Harvey, Primeau & Co., est chargée sur l'Amelia, qui atteint Saint-Louis le 20 mai. Le troisième bateau, qui portait 100 paquets de fourrures, a sombré plus haut, en amont de Council Bluffs, après avoir touché un chicot. En mai, Harvey, Primeau & Co., c'est-à-dire la St. Louis Fur Company, achète aussi pour 8 000 $ le vapeur Bertrand, qui monte à 50 milles au-dessus de l'embouchure de la Yellowstone et revient à Saint-Louis le 24 juillet, après un aller-retour de 53 jours.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 158, 175.",
+    "note": "Complète LP-picotte-joseph-fort-pierr et DB-picotte-joseph-fort-prime (Fort Pierre, Fort Primeaux). Barry ne développe pas le nom de Primeau. Point à Weston (Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.96,
+     40.64
+    ]
+   },
+   "properties": {
+    "id": "FXB-05",
+    "nom": "Fort Childs (Fort Kearny, Nebraska) : le lieutenant Antoine Lefevre et les derniers volontaires du bataillon de l'Oregon (1848)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1848.824,
+    "fin": 1848.874,
+    "date_edtf": "1848-10-28/1848-11-16",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine Lefevre",
+     "Charles F. Ruff",
+     "Ludwell E. Powell"
+    ],
+    "description": "Vers le 28 octobre 1848, le capitaine Charles F. Ruff et deux compagnies de fusiliers montés arrivent au nouveau fort de la Platte, le futur Fort Kearny, alors appelé Fort Childs, et relèvent le lieutenant Antoine Lefevre et les quelques volontaires du Missouri qui y restaient. Le 16 novembre, Lefevre et un petit détachement du « bataillon de l'Oregon », de 18 à 20 hommes peut-être, arrivent à Fort Leavenworth, où ils sont licenciés et payés : ce sont les derniers hommes du bataillon de volontaires du lieutenant-colonel Ludwell E. Powell à quitter le service. Robarts, dans Mexican War Veterans (1887), écrit « Antoine Lefevre » ; un journal donne « Ant. Lefaivre ».",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 163, 192.",
+    "note": "Barry ne dit pas l'origine de Lefevre ; on ne retient ici que son nom. Point au Fort Kearny de la Platte (Nebraska)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.48,
+     36.99
+    ]
+   },
+   "properties": {
+    "id": "FXB-06",
+    "nom": "Monts Raton : un Français tué dans l'attaque des Apaches contre Maxwell et Lee (19 juin 1848)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1848.466,
+    "fin": 1848.466,
+    "date_edtf": "1848-06-19",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Lucien Maxwell",
+     "Elliott Lee",
+     "Charles Towne"
+    ],
+    "description": "En juin 1848, Lucien Maxwell, Elliott Lee et Charles Towne voyagent vers l'ouest dans un convoi marchand de la piste de Santa Fe ; à la traversée de l'Arkansas, ils quittent la route du Cimarron et remontent la rivière jusqu'au fort Bent. Le 19 juin, près des monts Raton, en route vers Taos, une troupe de quatorze hommes dont ils font partie est attaquée par des Apaches. Towne, un Mexicain et un Français sont tués ; Lee, d'abord porté mort puis retrouvé vivant par une équipe de recherche, et Maxwell sont blessés. Lee raconte l'attaque dans une lettre écrite le 19 juillet 1848 à « Lodo Moro » (Nouveau-Mexique), publiée par la Saint Louis Daily Union du 16 octobre.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 163-164.",
+    "note": "Précise MM-H6-299-1044 (Hafen, « Raton Pass : Lucien Maxwell », 1848~, combat), qui ne donne ni la date ni les victimes. Le Français tué n'est pas nommé. Point approximatif au col de Raton."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.594,
+     39.054
+    ]
+   },
+   "properties": {
+    "id": "FXB-07",
+    "nom": "Westport : naissance de la société Ward & Guerrier, traiteurs du haut Arkansas (juillet 1848-mai 1849)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1848.533,
+    "fin": 1849.333,
+    "date_edtf": "1848-07-13/1849-05",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "William LeGuerrier",
+     "Seth E. Ward",
+     "Thomas Fitzpatrick",
+     "Thomas H. Harvey"
+    ],
+    "description": "Le 13 juillet 1848, le surintendant Thomas H. Harvey, de Saint-Louis, transmet à Washington les permis accordés par l'agent Thomas Fitzpatrick pour l'agence du haut Arkansas et de la Platte : l'un à William W. Bent, l'autre à « Messrs. Ward & Guerrier ». Selon une notice de 1878 sur Seth Edmund Ward, celui-ci s'associe en 1848 avec « William Le Guerrier », chacun apportant environ 1 500 $ comptant. Cinq grands chariots de marchandises, achetées à Westport chez Boone & Hamilton à dix mois de crédit, partent pour le haut Arkansas. L'expédition rapporte 6 000 robes de bison, avec lesquelles les associés reviennent à Westport en mai 1849 ; les robes sont expédiées à New York. Ward & Guerrier obtiennent aussi des permis pour la même agence de 1849 à 1854.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 172.",
+    "note": "Complète LC78-03 (Lecompte : les 6 000 robes croisées au fort Mann le 29 mai 1849), qui ne dit rien de la formation de la société ni des achats à Westport. Point à Westport (Kansas City, Missouri)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.938,
+     35.687
+    ]
+   },
+   "properties": {
+    "id": "FXB-08",
+    "nom": "Santa Fe : B. F. Chouteau, courrier de Californie, apporte la nouvelle de l'or (1848)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1848.178,
+    "fin": 1848.783,
+    "date_edtf": "1848-03-05/1848-10-13",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "B. F. Chouteau"
+    ],
+    "description": "B. F. Chouteau obtient le 5 mars 1848 un contrat postal du gouvernement pour porter le courrier de Santa Fe en Californie et retour. Le Liberty Tribune du 13 octobre 1848 annonce son arrivée à Santa Fe, de Californie, qu'il avait quittée le 4 juillet. Il rapporte qu'un homme a trouvé près de San Francisco deux pépites d'or vierge valant 2 000 $. C'est l'une des premières nouvelles de l'or de Californie à paraître dans les journaux de l'ouest du Missouri.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 186.",
+    "note": "Barry date le contrat du « March 5, 1948 », coquille évidente pour 1848. Il ne donne pas le prénom développé ni la parenté de B. F. Chouteau. Point sur la place de Santa Fe ; la date d'arrivée exacte n'est pas donnée (avant le 13 octobre)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     38.66
+    ]
+   },
+   "properties": {
+    "id": "FXB-09",
+    "nom": "Council Grove : Charles Chouteau, traitant des Kansas, et le magasin des frères Chouteau (juin 1848)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1848.466,
+    "fin": 1848.466,
+    "date_edtf": "1848-06-19",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles Chouteau",
+     "Seth Hays",
+     "William H. Mitchell",
+     "Orville C. Pratt"
+    ],
+    "description": "Le 19 juin 1848, le voyageur Orville C. Pratt dresse dans son journal la liste des habitants blancs de Council Grove : le forgeron des Kansas William H. Mitchell, sa femme, son fils, aide-forgeron, un « Mr. Brown », charron, et deux traitants, Charles Chouteau et Seth Hays. Mme Mitchell, première femme blanche à y résider, avait vécu plusieurs années chez les Potawatomis et parlait « assez bien » la langue des Kansas. Selon les Kansas Historical Collections (vol. 16), le magasin des « frères Choteau », une petite maison de rondins, se trouvait à l'emplacement du futur Pioneer Store. En septembre 1848, [Frederick] Chouteau figure parmi les titulaires d'un permis de traite chez les Kansas.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 168, 176.",
+    "note": "Complète TI-choteau-freres-council-gr (Andreas et Cutler : « Choteau (Frères) », 1848), qui ne donne pas les prénoms. Point à Council Grove."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.77,
+     38.5
+    ]
+   },
+   "properties": {
+    "id": "FXB-10",
+    "nom": "Miamitown (comté de Miami) : la mission catholique des Miamis et ses fournisseurs Robideau et Giraud (1848)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.083,
+    "fin": 1849.999,
+    "date_edtf": "1848-02/1849",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "J. Robideau",
+     "M. Giraud",
+     "Charles Truyens",
+     "Henry Van Mierlo",
+     "Thomas H. Harvey",
+     "Joseph Clymer Jr."
+    ],
+    "description": "Au début de février 1848, le surintendant Thomas H. Harvey choisit l'emplacement d'une école catholique et d'un nouveau village miami, près du Marais des Cygnes, à quelque sept milles au sud-est de l'actuelle Paola ; en septembre, plus de la moitié des Miamis s'y sont installés, avec les traitants et la forge. Parmi les dépenses de la « Miami Manual Labor School » réglées le 30 septembre 1848 par le jésuite J. Van de Velde figurent 30 $ à J. Robideau pour une construction et 70 $ à M. Giraud pour deux chevaux. L'école de garçons ouvre en novembre ou décembre sous le père Charles Truyens, aidé du père Henry Van Mierlo et de deux frères convers, dans deux bâtiments de rondins équarris à deux étages. Elle ne compte jamais plus de huit élèves, n'en a plus qu'un en juillet 1849 et ferme avant la fin de cette année-là.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 143, 195-196.",
+    "note": "Barry ne développe pas les prénoms de J. Robideau et de M. Giraud ; rien ne permet d'affirmer que ce dernier soit Michel Giraud, du poste de Trading Post (JKS-10). Barry situe Miamitown dans la section 18, T. 18 S., R. 24 E. (canton de Miami) ; point approximatif."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": "FXB-11",
+    "nom": "Union Town (comté de Shawnee) : le poste potawatomi et ses employés Laframboise et Ogee (1848)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1848.183,
+    "fin": 1848.697,
+    "date_edtf": "1848-03-07/1848-09-12",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph Laframboise",
+     "John Laframboise",
+     "John L. Ogee",
+     "A. J. Vaughan",
+     "R. W. Cummins"
+    ],
+    "description": "Au début de mars 1848, les agents R. W. Cummins et A. J. Vaughan choisissent l'emplacement de la forge et des traitants des Potawatomis, sur la rive sud de la Kansas, près du centre de leur pays ; le 7 mars, Vaughan écrit avoir « planté son piquet » et baptisé le lieu Union Town. Ce sera le seul lieu de traite officiel de la nation de 1848 à 1853 environ. Le 19 juin 1848, l'agence de Fort Leavenworth nomme Joseph Laframboise interprète pour les Potawatomis, et John Laframboise et John L. Ogee aides-forgerons pour cette nation, avec Henry Scruggs. John Laframboise est suspendu le 12 septembre.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 145, 198.",
+    "note": "Barry ne dit pas que les Laframboise et Ogee travaillent à Union Town même : il dit seulement que le lieu fut choisi pour la forge et les traitants des Potawatomis. Les fiches TI-ogee-john-uniontown- et TI-ogee-joseph-uniontown- datent de 1853. Point aux coordonnées d'Uniontown dans l'atlas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.62,
+     39.03
+    ]
+   },
+   "properties": {
+    "id": "FXB-12",
+    "nom": "Westport : Alexis Godey et Raphael Proue partent avec la quatrième expédition de Frémont (20 octobre 1848)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1848.769,
+    "fin": 1848.813,
+    "date_edtf": "1848-10-08/1848-10-24",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Alexis Godey",
+     "Raphael Proue",
+     "John C. Frémont",
+     "Edward M. Kern",
+     "Jim Secondine"
+    ],
+    "description": "Le 8 octobre 1848, John C. Frémont et « 35 jeunes hommes athlétiques » débarquent à Kansas (Missouri) du vapeur Martha. Parmi les membres de sa quatrième expédition, financée par des fonds privés, figurent Alexis Godey et Raphael Proue, qui avaient déjà servi sous ses ordres. Le 20 octobre, la troupe quitte le camp de « Boone Creek », à environ trois milles de Westport, pour le Mission Creek, puis le Mill Creek le 21. Le 22, près de la Wakarusa, le Delaware Jim Secundi (Secondine) et quelques autres se joignent à elle comme guides jusqu'à la Smoky Hill. Le 24, elle campe à l'ancienne mission où loge le forgeron des Potawatomis, à quelques milles d'Union Town.",
+    "sources": "Barry, Louise, « Kansas Before 1854: A Revised Annals, Part Seventeen, 1848 », Kansas Historical Quarterly, vol. 31, été 1965, p. 138-199 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/02_ARTICLES_REVUES), p. 189-190.",
+    "note": "Complète OR-21 (Bergeron, Canadiens des expéditions Frémont, 1842-1848) et les fiches R008 et R011 sur Proue. Point approximatif au camp de Boone Creek, à environ trois milles de Westport."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1,
+     38.97
+    ]
+   },
+   "properties": {
+    "id": "FXB-13",
+    "nom": "Rivière Kansas : le bac de Paschal Fish, métis français et chaouanon, sur la route de l'Armée de l'Ouest (juin-juillet 1846)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1846.417,
+    "fin": 1846.5,
+    "date_edtf": "1846-06/1846-07",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Paschal Fish",
+     "Stephen W. Kearny"
+    ],
+    "description": "En 1846, la route que suivent la plupart des troupes de l'Armée de l'Ouest, de Fort Leavenworth vers la piste de Santa Fe, avait été ouverte par Kearny et quelque 280 dragons au retour de la South Pass, en août 1845, puis jalonnée tant bien que mal par une corvée à la mi-juin 1846. Elle descend la route militaire de Fort Scott jusqu'au Nine Mile Creek, oblique vers le Stranger Creek, puis atteint huit à dix milles plus loin un bac à fond plat tenu par un métis français et chaouanon nommé Paschal Fish. Après avoir passé la Kansas sur le bac de Fish et sur un autre, tenu par un Delaware, les troupes longent la rive droite de la Wakarusa jusqu'au Blue Mound. Elles rejoignent la piste de Santa Fe à l'ouest des « Narrows », près de Willow Springs.",
+    "sources": "Chalfant, William Y., Dangerous Passage: The Santa Fe Trail and the Mexican War, Norman, University of Oklahoma Press, 1994 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 12.",
+    "note": "Chalfant ne situe pas le bac plus précisément ; le point reprend celui de JKS-19, où Johnson place en 1846 le bac d'un « Charles Fish », Blanc élevé chez les Chaouanons et gendre de Louis Gonville, à l'embouchure de la Wakarusa. Les deux auteurs diffèrent sur le prénom et sur l'ascendance de Fish ; il s'agit sans doute du même bac, ce que la localisation hypothétique traduit."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.62,
+     38.76
+    ]
+   },
+   "properties": {
+    "id": "FXB-14",
+    "nom": "Près du 110-Mile Creek : Parkman, Henry Chatillon et Antoine De Laurier croisent la caravane de St. Vrain et ses charretiers canadiens (23 septembre 1846)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1846.705,
+    "fin": 1846.832,
+    "date_edtf": "1846-09-15/1846-10-31",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Antoine De Laurier",
+     "Henry Chatillon",
+     "Francis Parkman",
+     "Céran St. Vrain",
+     "Frank DeLisle",
+     "Charles Beaubien",
+     "Lewis H. Garrard"
+    ],
+    "description": "Le 15 septembre 1846, la caravane de Céran St. Vrain quitte les environs de Westport pour le fort Bent : 23 chariots à mules sous les ordres du chef de convoi Frank DeLisle, un commis, un traitant, 23 charretiers, « surtout des Canadiens français », et trois bouviers mexicains. Avec St. Vrain voyagent notamment Charles Beaubien, Elliott Lee, Lancaster P. Lupton et le jeune Lewis H. Garrard. Le 23 au matin, un peu à l'est du 110-Mile Creek, elle croise Francis Parkman, son cousin Quincy Shaw, leur guide Henry Chatillon et leur muletier Antoine De Laurier, qui reviennent vers Westport : partis de la piste de l'Oregon à Fort Laramie, ils ont gagné Pueblo par la piste des trappeurs, puis le fort Bent et l'Arkansas. La caravane de St. Vrain campe à Council Grove le 30 septembre, atteint l'île Chouteau le 26 octobre et le fort Bent à la fin du mois.",
+    "sources": "Chalfant, William Y., Dangerous Passage: The Santa Fe Trail and the Mexican War, Norman, University of Oklahoma Press, 1994 (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 41-42.",
+    "note": "Complète AH-sf14 (charretiers canadiens de Garrard) et YK-de-lisle-frank-chouteau-s ; Antoine De Laurier (le « Deslauriers » de Parkman) n'a pas de fiche dans l'atlas. Point approximatif au 110-Mile Creek (comté d'Osage, Kansas)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.49,
+     38.66
+    ]
+   },
+   "properties": {
+    "id": "FXB-15",
+    "nom": "Council Grove : Sénécal, Leblanc et Langelier dans la caravane du colonel Owens (août 1844)",
+    "corpus": "Recherches",
+    "theme": "migration",
+    "debut": 1844.583,
+    "fin": 1844.583,
+    "date_edtf": "1844-08",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Sénécal",
+     "Leblanc",
+     "Langelier",
+     "Samuel C. Owens",
+     "Eugene Leitensdorfer",
+     "James J. Webb"
+    ],
+    "description": "Parti d'Independence au début d'août 1844 avec Eugene Leitensdorfer, James J. Webb arrive dix ou douze jours plus tard à Council Grove, encore inhabité par les Blancs, et s'installe dans des huttes d'écorce laissées par les Kansas. Une semaine plus tard, le colonel Samuel C. Owens les rejoint, et la caravane se forme : 23 chariots, 140 mules, 80 paires de bœufs et 40 hommes. Webb nomme parmi ceux qui l'accompagnent John Tulles, Sénécal, Leblanc, B. Pruett et « un autre monsieur nommé Langelier », venu chercher la santé. Owens est élu capitaine, et l'on passe une journée à couper du bois dur pour réparer les chariots, Council Grove étant le dernier endroit où l'on en trouve.",
+    "sources": "Webb, James Josiah, Adventures in the Santa Fe Trade, 1844-1847, éd. Ralph P. Bieber (rééd. Bison Book, intr. Mark L. Gardner), Lincoln, University of Nebraska Press (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 46-47.",
+    "note": "Webb ne donne pas les prénoms ; rien ne permet d'identifier sûrement ce Sénécal avec Pierre-Avila Sénécal, de San Miguel del Vado (MO-senecal-p-a-san-miguel ; Atlas Aubry, L17 et L75), ni ce Leblanc avec William LeBlanc (MM-H5-171). Point à Council Grove."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.43,
+     38.04
+    ]
+   },
+   "properties": {
+    "id": "FXB-16",
+    "nom": "Fort Bent : Sénécal dans l'avant-garde de Leitensdorfer, et la mule de Marcellin St. Vrain (septembre 1844)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1844.7,
+    "fin": 1844.713,
+    "date_edtf": "1844-09-13/1844-09-18",
+    "precision": "jour",
+    "certitude": "certaine",
+    "personnages": [
+     "Sénécal",
+     "Marcellin St. Vrain",
+     "Eugene Leitensdorfer",
+     "Thomas Leitensdorfer",
+     "Thomas Caldwell",
+     "James J. Webb"
+    ],
+    "description": "Quand la caravane d'Owens prend la route du Cimarron, en septembre 1844, une petite avant-garde chargée de négocier avec les autorités de Santa Fe repasse l'Arkansas pour gagner Santa Fe par le fort Bent et Taos : Eugene et Thomas Leitensdorfer, Thomas Caldwell, Sénécal et James J. Webb. Partis de la traversée du Cimarron le 13 septembre, ils arrivent au fort le 17, selon la note de l'éditeur. La mule de Webb étant épuisée, Marcellin St. Vrain consent à lui céder une mule amblante si rétive qu'il avait renoncé à la monter et l'avait laissée à sa femme indienne, qui en faisait tout ce qu'elle voulait. Webb la nomme « Dolly Spanker » et la monte plusieurs années ; disparue en 1848 du pâturage d'Agua Fria, près de Santa Fe, il la retrouve en février 1850 devant le magasin de St. Vrain et McCarty.",
+    "sources": "Webb, James Josiah, Adventures in the Santa Fe Trade, 1844-1847, éd. Ralph P. Bieber (rééd. Bison Book, intr. Mark L. Gardner), Lincoln, University of Nebraska Press (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 57-61.",
+    "note": "Le Sénécal de Webb n'est pas autrement identifié (voir FXB-15). Point au fort Bent (Bent's Old Fort)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.573,
+     36.4072
+    ]
+   },
+   "properties": {
+    "id": "FXB-17",
+    "nom": "Taos : chez Charles Beaubien, puis avec le guide Manuel Lefevre vers la Red River (automne 1844)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1844.667,
+    "fin": 1844.75,
+    "date_edtf": "1844-09/1844-10",
+    "precision": "mois",
+    "certitude": "certaine",
+    "personnages": [
+     "Charles Beaubien",
+     "Manuel Lefevre",
+     "Lucien Maxwell",
+     "Eugene Leitensdorfer",
+     "James J. Webb"
+    ],
+    "description": "À l'automne 1844, l'avant-garde de James J. Webb gagne Taos par le Huérfano, puis par la vallée à l'ouest des montagnes jusqu'au Rio Colorado, en portant sur une litière Eugene Leitensdorfer, malade ; sur le Rio Culebra, elle croise Kit Carson, Lucien Maxwell et Timothy Goodale. À Taos, les voyageurs logent chez Charles Beaubien, « un Français canadien » établi là depuis longtemps, marié à une Mexicaine et père de plusieurs filles, dont l'une épousera Lucien Maxwell. Après deux ou trois jours, ils engagent Manuel Lefevre comme guide et partent à travers les montagnes, sans route ni piste, vers la traversée de la Red River. Lefevre abat une antilope au premier coup sous leurs yeux, et la troupe rejoint la route des chariots à mi-chemin entre la Red River et le Point of Rocks.",
+    "sources": "Webb, James Josiah, Adventures in the Santa Fe Trade, 1844-1847, éd. Ralph P. Bieber (rééd. Bison Book, intr. Mark L. Gardner), Lincoln, University of Nebraska Press (PDF, Drive de l'auteur, dossier FRANCOIS_XAVIER_AUBRY/01_LIVRES), p. 63-71.",
+    "note": "Webb note que Beaubien est l'un des trois propriétaires de la concession du Rayado (concession Maxwell). Complète C090 et YK-le-fevre-manuel-taos sur Manuel Lefebvre, qui ne parlent pas de 1844. Point à Taos."
+   }
   }
  ]
 }
