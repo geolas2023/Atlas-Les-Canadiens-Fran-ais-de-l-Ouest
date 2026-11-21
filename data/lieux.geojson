@@ -1163985,6 +1163985,999 @@
     "sources": "Chaloult, Michel, Les « Canadiens » de l'expédition Lewis et Clark : 1804-1806. La traversée du continent, Sillery, Septentrion, 2003 (PDF, Drive de l'auteur, dossier LEWIS_AND_CLARK), p. 37.",
     "note": "Encadré de Chaloult d'après Moulton (vol. 2, app. A). Chaloult place Fort Colville « en Colombie britannique » : erreur, le poste était sur le Columbia, dans l'actuel État de Washington. L'atlas a Rivet aux Arrow Lakes (1815), à Spokane House et à Kettle Falls (1825-1826, CA-rivet-…) et en Oregon (MM-H7-237-1506), mais pas son établissement chez les Têtes-Plates. Point hypothétique dans le pays salish (vallée de la Bitterroot et environs de Missoula)."
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.25,
+     37.56
+    ]
+   },
+   "properties": {
+    "id": "JKS-301",
+    "nom": "Réserve osage du Neosho : Noël Mongrain, interprète et guide d'Isaac McCoy (1825-1828)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1825.419,
+    "fin": 1828.917,
+    "date_edtf": "1825-06-02/1828-12",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Noël Mongrain",
+     "Baptiste Mongrain",
+     "Joseph Mongrain",
+     "Charles Mongrain",
+     "Isaac McCoy",
+     "William Clark",
+     "Victor Tixier"
+    ],
+    "description": "Par le traité osage du 2 juin 1825, qui relègue la nation sur le Neosho, le métis Noël Mongrain reçoit une section de terre, comme ses dix enfants et quatre petits-enfants ; d'autres sections vont aux métis Antaya, Chardon, Chouteau, Perra, St. Mitchelle, Reneau et Tayon. Nommé interprète en Haute-Louisiane, interprète du gouvernement en 1808 et affecté aux Osages en 1815, il est recommandé le 20 août 1828 par William Clark à Isaac McCoy, qui part explorer le Territoire indien, parce qu'il parle l'osage et le kansa. Le 3 septembre, McCoy note dans son journal : « un vieil homme de 65 ans, à demi osage, parle français, mais l'anglais imparfaitement » ; montrant ses jambes, Mongrain dit que c'est là son cheval. Le missionnaire le juge bavard et inutile ; Mongrain rentre chez lui le 25 septembre et reçoit 42 $ pour vingt-huit jours comme interprète des Osages et des Kansas. Il est pourtant réengagé pour la seconde expédition de McCoy, du 8 novembre au début de décembre 1828. Victor Tixier note plus tard que ses fils Baptiste et Joseph parlent français « avec une parfaite aisance ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 215-216.",
+    "note": "Johnson signale que les noms des enfants dans le traité ne concordent pas tous avec les baptêmes de la cathédrale de Saint-Louis. Lieu de résidence de Mongrain non précisé : point hypothétique dans la réserve osage du Neosho. L'atlas a Noël Mongrain à Saint-Charles et à l'embouchure de l'Osage (HK-, H3-mongrain-noel), pas en Kansas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.22,
+     37.53
+    ]
+   },
+   "properties": {
+    "id": "JKS-302",
+    "nom": "Neosho : la première messe et les baptêmes de Van Quickenborne chez Paul Liguest Chouteau (août-septembre 1827)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1827.649,
+    "fin": 1827.669,
+    "date_edtf": "1827-08-25/1827-09-02",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Charles-Félix Van Quickenborne",
+     "Paul Liguest Chouteau",
+     "Baptiste Mongrain",
+     "François Mongrain",
+     "Noël Mongrain",
+     "François Quenville",
+     "Basile Vasseur",
+     "Pierre Mélicourt Papin",
+     "Louis Peltier",
+     "Christophe Sanguinet",
+     "Tonish de Hêtre",
+     "Alexis Pantoche"
+    ],
+    "description": "Parti de la mission Harmony, le jésuite Charles-Félix Van Quickenborne gagne en 1827 le grand village osage du Neosho, à deux jours de marche, et loge chez le sous-agent Paul Liguest Chouteau, dont la maison se trouve entre les ruisseaux Canville et Flat Rock (comté de Neosho). Il y dit, le 25 août, jour de la Saint-Louis, « la première messe jamais dite dans ce pays » et baptise dix-sept personnes en deux semaines. Les baptêmes du 27 août et du 2 septembre, faits « à Niosho chez Mr. Ligueste Chouteau », sont inscrits au registre de Saint-Ferdinand de Florissant. On y trouve les enfants de Paul Liguest Chouteau, ceux de Baptiste, François et Noël Mongrain, Angélique Quenville, fille de François, et les enfants de Basile Vasseur. Les parrains sont Paul Liguest Chouteau, Tonish de Hêtre, P. L. Mongrain, Pierre Mélicourt Papin, Louis Peltier, Alexis Pantoche et Christophe Sanguinet.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 217, 251.",
+    "note": "Point approximatif entre les ruisseaux Canville et Flat Rock. TK-daybeau-francis-mission-os mentionne Van Quickenborne à la mission osage, sans ce détail."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.85,
+     37.83
+    ]
+   },
+   "properties": {
+    "id": "JKS-303",
+    "nom": "Rivière Marmiton (comté de Bourbon) : les trois mariages de la maison de François d'Aybeau (30 juin 1830)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1830.496,
+    "fin": 1830.496,
+    "date_edtf": "1830-06-30",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François d'Aybeau dit Brugière",
+     "Josette d'Aybeau",
+     "Acile Giguière",
+     "John Brown dit Equesne",
+     "Basile Vasseur",
+     "Christophe Sanguinet",
+     "Louis Peltier"
+    ],
+    "description": "Des baptêmes et des mariages sont aussi célébrés chez les Osages du comté de Bourbon. Le 30 juin 1830, dans la maison de François d'Aybeau, près de la rivière Marmiton (aujourd'hui Marmaton), trois couples sont unis : François d'Aybeau, dit Brugière, Français, avec Mary, Osage ; John Brown, dit Equesne, Français, fils de Stephen Brown et d'Acile Giguière, avec Josette d'Aybeau, fille de François d'Aybeau et d'une métisse de la nation osage ; enfin Basile Vasseur, fils d'un métis osage du même nom, avec Mary, Osage. Les témoins sont Christophe Sanguinet et Louis Peltier. Selon une note citée par Johnson, le nom de la rivière vient des voyageurs français, qui prirent les chiens de prairie pour des marmottes.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 218-219.",
+    "note": "La phrase est coupée par les notes au bas de la p. 218 ; Acile Giguière, en tête de la p. 219, paraît être la mère de John Brown. TI-/TK-daybeau-francis-mission-os datent de 1828 le mariage de Francis Daybeau et de l'Osage Mary, à la mission osage ; Johnson donne le 30 juin 1830, sur le Marmiton. Lieu non précisé : point hypothétique sur le Marmaton, dans le comté de Bourbon."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.8,
+     37.84
+    ]
+   },
+   "properties": {
+    "id": "JKS-304",
+    "nom": "Rivière Marmaton : baptêmes et mariages des familles franco-osages en 1841",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1841.511,
+    "fin": 1841.905,
+    "date_edtf": "1841-07-05/1841-11-27",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Mongrain",
+     "Henri Duval",
+     "Étienne Brun",
+     "Marie Brusieu",
+     "Louison Brusier",
+     "Joseph Swiss",
+     "Julie Mongrain",
+     "Édouard Chouteau",
+     "Rosalie Capitaine",
+     "Auguste Capitaine",
+     "François Barnabé",
+     "Louis Peltier",
+     "Angélique Osinga",
+     "François Mitchell",
+     "Mary Jane Prior",
+     "Pierre Mélicourt Papin"
+    ],
+    "description": "Le 5 juillet 1841, dix baptêmes sont célébrés « près de la rivière Marmiton » : Louis, fils de Joseph Mongrain et d'une Indienne ; Michel, fils d'Henri Duval et d'une Indienne ; trois enfants d'Étienne Brun et de Marie Brusieu ; Louis, fils de Louison Brusier et de Catherine Swiss ; deux enfants de Joseph Swiss et de Julie Mongrain ; deux enfants d'Édouard Chouteau et de Rosalie Capitaine. Parmi les parrains figurent Louis Mongrain, Édouard Chouteau, Joseph Swiss, Auguste Capitaine, François Barnabé, Alexander et Pélagie Chouteau. En novembre, plusieurs mariages suivent au même endroit : le 17, François Mitchell, ancien St. Mitchelle et futur aide-forgeron de l'agence osage, épouse Mary Jane Prior ; le 23, Louis Peltier épouse Angélique Osinga ; le 27, Pierre Mélicourt Papin est témoin d'un mariage.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 219, 230, 251.",
+    "note": "Les mariages de novembre sont donnés en note (n. 1435, 1440, 1607). Point hypothétique sur le Marmaton (comté de Bourbon)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.17,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "JKS-305",
+    "nom": "Mission osage (St. Paul) : l'école du 10 mai 1847 et les familles du registre des baptêmes (1841-1854)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1841.0,
+    "fin": 1854.999,
+    "date_edtf": "1841/1854",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Brugière",
+     "Joseph Baptiste Mongrain",
+     "Michel Giraud",
+     "Pierre Mélicourt Papin",
+     "Rosalie Lambert",
+     "Auguste-Pierre Chouteau",
+     "Louisa Terrien",
+     "Ursuline Revard"
+    ],
+    "description": "Le registre de l'école de travail manuel de la mission osage, ouverte le 10 mai 1847 sur le Neosho, inscrit le premier jour William Biet, Peter et Stephen Blond, Louis Brugière, Louis et Peter Chouteau ; Joseph Baptiste Mongrain s'y ajoute plus tard. De 1841 à 1854, le registre des baptêmes de la mission livre comme parents et parrains une longue suite de noms français : Antoya, Reneau, Barnabé, Belio, Bertrand, Biet, Bienvenu, Braconnière, Brugière, Canville, Capitaine, Carrier, Cardinal, Chorette, Chouteau, Giraud, Jaco, Lambert, St. Michel, Mongrain, Mouillard, LaForce, Papin, Peltier, Pecotte, Poissant, Revard, Roi, Suisse et Terrien. Johnson précise que Rosalie Lambert, Osage née en 1819 d'un Franco-Osage, était la femme « de fait » d'Auguste-Pierre Chouteau et la mère de ses fils Auguste James et Henry.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 218.",
+    "note": "Johnson se fonde sur Garraghan et Burns, Osage Missions. L'atlas a des fiches d'index pour quelques noms à la mission osage (TI-/TK-daybeau, TI-/TK-choteau-james, TN-mongrain-charles), sans ce registre. Point à St. Paul."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.13,
+     37.55
+    ]
+   },
+   "properties": {
+    "id": "JKS-306",
+    "nom": "Agence osage : forgerons, meuniers et interprètes français et métis (1827-1856)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1827.0,
+    "fin": 1856.999,
+    "date_edtf": "1827/1856",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Paul Liguest Chouteau",
+     "Baptiste Mongrain",
+     "Charles Mongrain",
+     "Joseph Trumbee",
+     "Gabriel Philibert",
+     "Louis Peltier",
+     "Étienne Brant",
+     "Louison Bréquier",
+     "François L. Vallier",
+     "François Mitchell",
+     "Joseph Captain",
+     "Joseph Swiss",
+     "Augustus Captain",
+     "Peter Chouteau",
+     "William Biet",
+     "John St. Michel"
+    ],
+    "description": "Sous-agent puis agent des Osages à l'agence du Neosho (canton de Mission, site de St. Paul) de 1827 à sa démission en 1838, Paul Liguest Chouteau emploie à l'agence plusieurs Français et métis. Baptiste Mongrain, fils de Noël, est interprète de 1827 à 1838 et Joseph Trumbee forgeron d'octobre 1831 à octobre 1833 ; Gabriel Philibert, venu de l'agence kansa, est armurier et forgeron en 1835 et 1836 ; Louis Peltier, Étienne Brant et Louison Bréquier sont frappeurs ou aides-forgerons. François L. Vallier, payé 8 $ comme interprète lors du transfert de plusieurs centaines de Potawatomis de l'Iowa au Kansas en 1835, est nommé interprète chez les Osages en 1837. Charles Mongrain, petit-fils de Noël, est interprète de 1841 à 1856 ; en 1845, il vend 500 $ au gouvernement sa maison et sa ferme du Flat Rock Creek, au centre de la nation, qui deviennent la sous-agence : deux pièces de cinquante pieds sur seize reliées par un passage couvert, avec planchers et fenêtres vitrées. Suivent Joseph Captain, Joseph Swiss, Augustus Captain, Peter Chouteau et William Biet ; en 1852, John St. Michel est engagé comme interprète par les traitants Blackston et Warfield.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 229-231.",
+    "note": "En 1837, la sous-agence est transférée à l'ancienne mission wea, près de Paola ; Johnson ne dit pas où Vallier exerça. TN-mongrain-charles-mission-os (index) donne Charles Mongrain interprète en 1855-1856. Point hypothétique sur le Flat Rock Creek, près de St. Paul."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.23,
+     37.52
+    ]
+   },
+   "properties": {
+    "id": "JKS-307",
+    "nom": "Ogeese Creek (comté de Neosho) : le ruisseau d'Augustus Captain, franco-osage",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1848.0,
+    "fin": 1850.999,
+    "date_edtf": "1848/1850",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Augustus Captain"
+    ],
+    "description": "Augustus Captain, ou Capitaine, né d'un père français et d'une mère osage, est aide-meunier de l'agence osage en 1848, puis meunier en 1849 et jusqu'au 11 juillet 1850. Il vit à trois milles à l'ouest de la mission osage, sur un ruisseau qui reçut son nom. Le ruisseau s'appelle aujourd'hui Ogeese Creek : selon Johnson, qui suit Graves, c'est une graphie et une prononciation déformées de son prénom.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 231.",
+    "note": "Source : n. 1445 (Graves, Annals of the Osage Mission). Point hypothétique à trois milles à l'ouest de St. Paul."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     39.06
+    ]
+   },
+   "properties": {
+    "id": "JKS-308",
+    "nom": "Agence kansa : Louis Gonville, traitant français chez les Kansas depuis 1807 (1807-1852)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1807.697,
+    "fin": 1852.999,
+    "date_edtf": "1807-09-12/1852",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Gonville",
+     "François G. Chouteau",
+     "Frederick Chouteau",
+     "Thomas Say",
+     "Isaac McCoy",
+     "William Marshall Anderson",
+     "Baptiste Gonville"
+    ],
+    "description": "Johnson voit en Louis Gonville, ou Gunville, peut-être le premier colon français du Kansas : le 12 septembre 1807, avec l'aide de François G. Chouteau, il obtient un permis de chasse d'un an sur la Kansas. Pilote réputé du Missouri, il chasse ensuite pour les Chouteau, équipé à l'automne par François et revenant au printemps. Après la guerre de 1812, il est emprisonné pour dettes à Saint-Charles ; de retour chez les Kansas, il fournit en 1819 deux chevaux de bât et une selle au zoologiste Thomas Say, de l'expédition Long, et le guide jusqu'au cantonnement Martin. Le 19 septembre 1829, McCoy prend « le gendre de Plume, Gunville, un Français », comme seul interprète, bien qu'il parle très peu l'anglais. Il épouse successivement deux filles du chef White Plume, Hunt Jimmy puis Wyhesee, et finit ses jours au service de Frederick Chouteau, qui dit l'avoir employé jusqu'à sa mort en 1852. Son frère Baptiste, traitant chez les Kansas lui aussi, a deux enfants dotés par le traité de 1825.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 226-227.",
+    "note": "Johnson rapporte, d'après Unrau, que son mariage avec une fille de White Plume fut légitimé par l'abbé Lutz en 1828. Il pense aussi que le vieillard nommé « Vieil » rencontré par W. M. Anderson en 1834 était Gonville. Complète JKS-01 à JKS-05. Point hypothétique près de l'agence kansa ; Johnson le dit voisin de son beau-père en 1827."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.33,
+     39.065
+    ]
+   },
+   "properties": {
+    "id": "JKS-309",
+    "nom": "Agence kansa : Clément Lessert, interprète des Kansas pendant plus de vingt-deux ans (1827-1854)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1828.333,
+    "fin": 1854.552,
+    "date_edtf": "1828-05/1854-07-20",
+    "precision": "mois",
+    "certitude": "approximative",
+    "personnages": [
+     "Clément Lessert",
+     "Julia Roy",
+     "Louis Roy",
+     "Pierre Chouteau Jr.",
+     "Benoît Roux",
+     "Charles-Félix Van Quickenborne",
+     "Richard W. Cummins"
+    ],
+    "description": "Né vers 1796 au Canada, Clément Lessert arrive sans doute au début des années 1820 dans la région de Kansas City, au service des Chouteau. En mai 1828, de la « Rivière des Kanzas », il demande à Pierre Chouteau de payer 20 piastres sur son compte ; le 7 juillet, il commande 25 livres de café, 50 livres de sucre et un sac de plomb par le premier bateau. Interprète à l'agence kansa de 1827 à 1835, il y vit en 1830 avec sa famille métisse ; le 13 juin 1829, il épouse civilement à l'agence Julia Roy, quatorze ans, fille de Louis Roy, et le couple renouvelle ses vœux le 18 juillet 1836 à la Chouteau's Church. Le 23 février 1834, l'abbé Roux baptise ses filles Mary et Martha « à l'embouchure de la Kansas ». Interprète de 1837 à 1847, il traduit le traité du 14 janvier 1846 et accompagne l'agent Cummins en 1847 pour choisir la nouvelle réserve ; il sert ensuite à l'agence de la rivière Osage (1848) puis à l'agence potawatomie (1852-1853). Johnson note que ses lettres, d'une bonne écriture et d'un bon français, révèlent un homme instruit ; il meurt le 20 juillet 1854 à « Kansas Town ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 235-237.",
+    "note": "L'atlas a des fiches d'index : TK-, TN-lessert-clement-agence-kan et TI-lessent-clemenent-agence-kan (interprète en 1830), TN-lessert-clement-fort-leave. L'agence est sur la rive nord de la Kansas, à quatre milles en aval de l'embouchure de la Delaware (n. 1487-1488) ; point voisin de celui de l'atlas."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.335,
+     39.06
+    ]
+   },
+   "properties": {
+    "id": "JKS-310",
+    "nom": "Agence kansa : Gabriel Philibert, forgeron, et le mariage de sa sœur avec Daniel Boone (1826-1853)",
+    "corpus": "Recherches",
+    "theme": "famille",
+    "debut": 1826.527,
+    "fin": 1853.333,
+    "date_edtf": "1826-07-11/1853-05-01",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Gabriel Philibert",
+     "Marie Constance Philibert",
+     "Daniel Boone",
+     "Isaac McCoy"
+    ],
+    "description": "Gabriel Philibert est sans doute engagé dès le milieu de 1826 comme forgeron de l'agence kansa : le 11 juillet 1826, des outils sont achetés pour lui. Le croquis de John McCoy de 1827 situe sa maison près de celles de Louis Gonville et de l'interprète Lessert, et Isaac McCoy voit en 1830 les « confortables bâtiments de rondins équarris » du forgeron et de sa famille, « blancs ». Le 19 janvier 1832, à l'agence, sa sœur Marie Constance Philibert épouse Daniel Boone, fils de l'agriculteur de l'agence et petit-fils du célèbre Daniel Boone. Philibert passe la même année à l'agence osage, où il est armurier et forgeron en 1835 et 1836. Il achète un lot à Kawsmouth le 30 avril 1846 et y meurt le 1er mai 1853, à 52 ans.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 230, 235-237.",
+    "note": "L'atlas a TI-/TK-phillibert-gabriel-agence-kan (index, forgeron en 1830). Point à l'agence kansa."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.76,
+     38.47
+    ]
+   },
+   "properties": {
+    "id": "JKS-311",
+    "nom": "Mission des Miamis (comté de Miami) : les registres des Gibeau, Bourdon et Prayon (1848-1854)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1848.0,
+    "fin": 1854.999,
+    "date_edtf": "1848/1854",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Charles Gibeau",
+     "Adeline Prayon",
+     "Joseph Gibeau",
+     "Mathilde Prayon",
+     "Joseph Bourdon",
+     "Sophie Gibeau",
+     "Louis Gibeau",
+     "Marie-Louise Robidoux",
+     "Étienne Prayon",
+     "Pierre David Gibeau",
+     "Michael Richardville",
+     "Stephen Cott"
+    ],
+    "description": "Après la cession de leurs terres de l'Indiana et de l'Illinois en 1846, Miamis, Peorias, Weas et Piankashaws s'installent dans l'actuel comté de Miami, suivis de traitants français qui furent, selon l'abbé Kinsella, les premiers résidents blancs du comté ; le village miami est à dix milles au sud-est de Paola. Les Miamis obtiennent en 1847 une école de travail manuel confiée aux jésuites. De 1848 à 1854, les registres de la mission notent les baptêmes des enfants de Charles Gibeau et d'Adeline Prayon, de Joseph Bourdon et de Sophie Gibeau, de James (Jaco) Robidoux et de Marguerite Robidoux, entre autres. Les mariages unissent Joseph Bourdon, fils de François Bourdon et de Lisette Péret, à Sophie Gibeau, et deux fils de Louis Gibeau et de Marie-Louise Robidoux, Charles et Joseph, aux sœurs Adeline et Mathilde Prayon, filles d'Étienne Prayon et d'Aloïse Prébert. Le Canadien Stephen Cott y épouse Mary Vajeret. Parmi les parrains figurent Lucier Dagenette, Louis et Mary LaFountain et Michael Richardville, titulaire d'une licence de traite chez les Miamis de 1849 à 1854.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 227-228.",
+    "note": "Fiches d'index voisines : TN-gebeau-joseph-paola-kans, TN-gebeau-david-paola-kans, TN-rubidoux-john-paola-kans, TN-richardville-thomas-paola-kans. Point hypothétique au village miami, à dix milles au sud-est de Paola."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1,
+     38.55
+    ]
+   },
+   "properties": {
+    "id": "JKS-312",
+    "nom": "Pottawatomie Creek : Mackinaw Beauchemie, exhorteur et pasteur méthodiste des Potawatomis (1837-1848)",
+    "corpus": "Recherches",
+    "theme": "religion",
+    "debut": 1837.0,
+    "fin": 1848.363,
+    "date_edtf": "1837/1848-05-12",
+    "precision": "annee",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Mackinaw Beauchemie",
+     "Mary Rogers",
+     "Thomas Johnson",
+     "James O. Andrew"
+    ],
+    "description": "Fils d'un Français et d'une Ojibwée, né à Mackinac, d'où son prénom, Mackinaw Beauchemie (Boachman, Bushman) est élevé chez les Potawatomis. Marié à Mary Rogers, petite-fille du chef chaouanon Blackfish, il vit chez les Chaouanons et chasse le castor et la loutre dans les Rocheuses pour l'American Fur Company. Converti à la mission méthodiste des Chaouanons, il est envoyé à l'hiver 1837-1838 par le révérend Thomas Johnson comme « exhorteur indigène » et interprète à la mission méthodiste potawatomie du Pottawatomie Creek, près de la limite des comtés de Miami et de Franklin ; il en a la charge en mai 1843. Admis prédicateur à l'essai en 1845 et licencié en 1846, il signe comme « Bossman » le traité potawatomi du 17 juin 1846 et est ordonné diacre en 1847. Il meurt le 12 mai 1848 à l'ancienne mission du Pottawatomie Creek ; l'évêque James O. Andrew le dit « probablement le plus grand et le meilleur des Potawatomis ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 228-229.",
+    "note": "Johnson rapporte une tradition invérifiable sur son père, colonel de l'armée française après la défaite de Wolfe. Leur premier enfant naît en 1834 à l'ancienne mission méthodiste des Chaouanons. Point hypothétique sur le Pottawatomie Creek, près de la limite Miami-Franklin."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.95,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "JKS-313",
+    "nom": "Wathena (comté de Doniphan) : Pierre Cadue, interprète des Kickapous, sur le Cadue's Creek (1832-1885)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1832.813,
+    "fin": 1885.999,
+    "date_edtf": "1832-10-24/1885",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Cadue",
+     "Paul Cadue",
+     "Wathena",
+     "Keesh-pe"
+    ],
+    "description": "Le Français Pierre Cadue, ou Cadjoe, est, selon Johnson, le premier Blanc à résider dans l'actuel comté de Doniphan. Interprète au traité de Castor Hill (comté de Saint-Louis) du 24 octobre 1832, qui donne aux Kickapous une réserve au nord-est du Kansas, il les suit et reste leur interprète à la sous-agence de la Grande Nemaha. Il est témoin au conseil de paix de Fort Leavenworth le 12 novembre 1833 et interprète au traité des Iowas, Sauks et Renards du 17 septembre 1836. Le traité kickapou signé à Washington le 18 mai 1854 lui réserve, à la demande de la nation, une section de terre englobant sa maison sur le Cadue's Creek. Il vit sur ce ruisseau, aujourd'hui Peter's Creek, à l'emplacement de Wathena, avant de passer en 1847 sur une section entre Palermo et Geary City, où il tente en 1885 de fonder une ville, Petersburgh. Il épouse successivement trois filles du chef kickapou Wathena, dont Keesh-pe ; son fils Paul devient influent dans la nation.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 231-232.",
+    "note": "Johnson le dit délégué à la « Nebraska Convention » de Saint-Joseph (9 janvier 1854). La chronologie de Johnson est flottante : il le fait passer entre Palermo et Geary City en 1847, mais le traité de 1854 mentionne encore sa résidence du Cadue's Creek. Absent de l'atlas. Point approximatif à Wathena."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.24,
+     39.46
+    ]
+   },
+   "properties": {
+    "id": "JKS-314",
+    "nom": "Mount Pleasant (comté d'Atchison) : Pascal Pensineau, de Cahokia, interprète et premier fermier du comté (1833-1856)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1833.0,
+    "fin": 1856.999,
+    "date_edtf": "1833/1856",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Pascal Pensineau",
+     "Laurent Pensineau",
+     "Brigitte Aimable Pensineau",
+     "Maria Pensineau",
+     "Katakeukve",
+     "Benoît Roux",
+     "Charles-Félix Van Quickenborne",
+     "Joseph Utt"
+    ],
+    "description": "Né à Cahokia le 17 avril 1796, Pascal Pensineau livre dès treize ans des marchandises de Mackinac aux Kickapous, Potawatomis et Miamis ; il ne sait pas écrire, mais parle leurs langues et l'anglais. Il suit les Kickapous à Kaskaskia, sur la Pomme de Terre, puis au Kansas après le traité du 24 octobre 1832 ; l'abbé Roux le rencontre le 22 novembre 1833 au village kickapou, au-dessus du fort Leavenworth ; il seconde sans doute son frère Laurent au poste de traite. Ses filles Brigitte Aimable, née le 23 juillet 1836 de Catharinette, et Maria, née en 1838, y sont baptisées en 1837 et 1838. En 1844, il devient le premier Blanc à cultiver la terre dans le comté d'Atchison, sur le quart sud-est de la section 14 (T. 7, R. 20), près du Stranger Creek, entre Potter et Mount Pleasant ; sa maison, sur la route de Fort Leavenworth à l'Oregon, est bureau de vote du 15e district en novembre 1854. Seul volontaire du comté pour la guerre du Mexique, il épouse le 28 juin 1847, à Sugar Creek, une Potawatomie, Katakeukve, et est interprète des Sauks et Renards à la Grande Nemaha en 1851 et 1852. Il suit les Kickapous sur leur réserve réduite, puis part en 1856 pour le Territoire indien.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 232-235, 264-265.",
+    "note": "Joseph Utt, de White Cloud, le dit « poli et obligeant, comme le sont toujours les Français ». Le juge H. Miles Moore l'appelle « un paisible traitant canadien-français ». L'atlas a des fiches d'index : TQ-pensineau-paschal-mount-plea (1844) et TN-pensineau-pascal-muscotah-k (interprète en 1861-1863). Point approximatif près du Stranger Creek, entre Potter et Mount Pleasant."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.98,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "JKS-315",
+    "nom": "Pottawatomie Creek, Sugar Creek et Kansas : Joseph Napoléon Bourassa, instituteur, interprète et lettré potawatomi (1838-1854)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1838.941,
+    "fin": 1854.91,
+    "date_edtf": "1838-12-10/1854-11-29",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Napoléon Bourassa",
+     "Daniel Bourassa",
+     "Memetokosikwe",
+     "Christian Hoecken",
+     "Mrs. Nadeau",
+     "Rosanna Nadeau",
+     "Catharine Nadeau",
+     "William H. Hutter"
+    ],
+    "description": "Fils du Français Daniel Bourassa et d'une Indienne, Joseph Napoléon Bourassa étudie à la mission baptiste Carey du Michigan, au Hamilton College de l'État de New York, puis le droit au Kentucky. Établi sur le Pottawatomie Creek (comté de Franklin), il y épouse le 10 décembre 1838, devant le jésuite Hoecken, Memetokosikwe, et parraine sept des dix enfants baptisés « près de la rivière communément appelée Putawatomie Creek ». Commis de la sous-agence osage en 1838, il passe en mars 1839 à Sugar Creek, où il enseigne l'anglais aux garçons de la mission, et sert d'interprète en 1844-1845. Il signe le traité du 17 juin 1846, qui donne aux Potawatomis une réserve sur la Kansas, et distribue les vivres aux quelque 640 Potawatomis venus du Wisconsin en 1851. Le 29 novembre 1854, William H. Hutter, qui loge chez lui, décrit une double maison indienne propre et bien garnie, tenue par une cousine, Mrs. Nadeau, métisse « plus française qu'indienne » ; ses filles Rosanna et Catharine, élevées aux missions, jouent aux cartes et aux échecs, et « leur langue domestique est le français ». Bourassa écrit alors une histoire des mœurs des Indiens.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 237-238.",
+    "note": "Johnson qualifie Memetokosikwe de « Kansa woman », ce qui étonne chez les Potawatomis. Hutter situe la maison près de celle de son frère Jude, vers Uniontown. Fiches d'index de l'atlas : TL-bourassa-joseph-mission-cr, TN-bourassa-joseph-n-mission-sa. Point hypothétique près d'Uniontown."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.04,
+     39.07
+    ]
+   },
+   "properties": {
+    "id": "JKS-316",
+    "nom": "Bursaw's Mills (comté de Wabaunsee) : le moulin et la maison de Jude W. Bourassa, meunier des Potawatomis (1845-1869)",
+    "corpus": "Recherches",
+    "theme": "etablissement",
+    "debut": 1845.25,
+    "fin": 1869.999,
+    "date_edtf": "1845-04-01/1869",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Jude W. Bourassa",
+     "Isabella Bourassa",
+     "Joseph Napoléon Bourassa",
+     "Pierre Perillard",
+     "William H. Hutter",
+     "Charles B. Lines",
+     "John W. Geary",
+     "Joseph Saville"
+    ],
+    "description": "Né le 18 avril 1814, frère de Joseph Napoléon, Jude W. Bourassa est nommé le 1er avril 1845 meunier des Potawatomis du Pottawatomie Creek, où Pierre Perillard avait été meunier de 1833 à 1844 ; il est interprète au traité de 1846. Passé sur la réserve de la Kansas, il est « meunier à grain » en 1853 ; la carte Whitman et Searl de 1856 montre les « Bursaw's Mills » à quatre milles à l'ouest d'Uniontown, sur la rive sud, à trois milles du bac potawatomi et à quelques milles de l'embouchure du Mill Creek (canton de Maple Hill, comté de Wabaunsee). En 1854, Hutter loge plusieurs jours dans sa double maison de rondins, au tapis importé et au piano, où sa fille Isabella joue la Marche de Washington. Le 26 avril 1856, Charles B. Lines y trouve la meilleure étape du Territoire : sa femme, Canadienne française, est bonne ménagère, ses huit enfants sont instruits, mais il ne sert jamais de whisky. Le 5 novembre 1856, le gouverneur Geary s'y arrête et loue son bon moulin et sa riche ferme. En 1869, il s'associe à Joseph Saville pour exploiter un bac.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 239-240.",
+    "note": "Hutter dit les deux frères instruits à Hamilton et parlant l'anglais avec un accent français. TN-bourassa-jude-w-rossville- (index) le donne meunier au Cross Creek en 1855-1856. Point approximatif à quatre milles à l'ouest d'Uniontown, rive sud (Maple Hill)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.86,
+     39.1
+    ]
+   },
+   "properties": {
+    "id": "JKS-317",
+    "nom": "Silver Lake : Joseph LaFromboise, chef métis des Potawatomis de la Prairie (1847-1861)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1847.858,
+    "fin": 1861.872,
+    "date_edtf": "1847-11-10/1861-11-15",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Joseph LaFromboise",
+     "John LaFromboise",
+     "Henry LaFromboise",
+     "Thérèse LaFromboise",
+     "Thomas H. Harvey",
+     "William H. Mackey"
+    ],
+    "description": "Potawatomi « avec un peu de sang français », descendant des LaFromboise qui votèrent à la première élection de Chicago le 7 août 1826, Joseph LaFromboise est indemnisé de 441 $ au traité de Camp Tippecanoe en 1832. Signataire du traité du 17 juin 1846, il est, selon le surintendant Harvey, l'un des trois chefs les plus zélés à pousser les siens à quitter Council Bluffs. Arrivé au Kansas vers le 10 novembre 1847, il hiverne avec sa famille dans deux pièces de l'ancienne mission méthodiste kansa. Interprète du 19 juin 1848 à 1850, il reçoit le 21 octobre 1854 une rente viagère de 200 $ et signe, comme principal chef des Potawatomis de la Prairie, le traité du 15 novembre 1861. William H. Mackey raconte avoir festoyé plusieurs jours chez lui, à Silver Lake, où il vivait avec deux femmes et une grande famille ; il eut dix-huit enfants et repose au cimetière de Silver Lake.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 240-241.",
+    "note": "Sa fille Thérèse épouse Madore Beaubien (JKS-21). John LaFromboise est aide-forgeron en 1848, Henry en 1855-1856. Point à Silver Lake."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88,
+     38.57
+    ]
+   },
+   "properties": {
+    "id": "JKS-318",
+    "nom": "Paola : Baptiste Peoria, interprète des Miamis, Weas et Piankashaws, donateur de la première église catholique (1832-1867)",
+    "corpus": "Recherches",
+    "theme": "personnage",
+    "debut": 1832.0,
+    "fin": 1867.999,
+    "date_edtf": "1832/1867",
+    "precision": "annee",
+    "certitude": "certaine",
+    "personnages": [
+     "Baptiste Peoria",
+     "Mary Ann Isaacs",
+     "Christian Dagnett",
+     "Henry Ellsworth"
+    ],
+    "description": "Né en 1800 près de Kaskaskia, fils d'un traitant français et d'une fille de chef peoria, Baptiste Peoria parle l'anglais, le français et plusieurs langues indiennes. Il épouse Mary Ann Isaacs, Brothertown d'ascendance française, veuve de l'agent Christian Dagnett, lui-même franco-indien. Interprète des Miamis, Weas et Piankashaws à l'agence des Delawares et Chaouanons en 1832 et 1833, il traduit au conseil de paix de Fort Leavenworth le 20 novembre 1833, puis accompagne le commissaire Ellsworth jusqu'à Fort Gibson. De 1848 à 1854, il est interprète des tribus unies à l'agence de l'Osage ; le traité du 30 mai 1854 lui laisse 1 280 acres. Avant le départ des Miamis pour le Territoire indien en 1867-1868, lui et sa femme cèdent 403 acres et demi à la Paola Town Company pour 5 000 $, et la première église catholique de Paola est bâtie en 1859 sur un terrain qu'ils ont donné. Il meurt en Territoire indien en 1874.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 241.",
+    "note": "Complète TI-peoria-baptiste-paola-kans (index). Point à Paola."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.565,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "JKS-319",
+    "nom": "Kawsmouth : l'entrepôt de François G. Chouteau et les envois de pelleteries des Kansas (1824-1837)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1824.0,
+    "fin": 1837.23,
+    "date_edtf": "1824/1837-03-24",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François G. Chouteau",
+     "Bérénice Ménard Chouteau",
+     "Pierre Ménard",
+     "Pierre Chouteau Jr.",
+     "Frederick Chouteau",
+     "Laurent Pensineau",
+     "Nicolas Lutz"
+    ],
+    "description": "Venu dans les années 1810, François G. Chouteau a son premier entrepôt sur la rive nord du Missouri, aux Randolph Bluffs (comté de Clay), détruit par la crue de 1826, puis un dépôt sur la rive sud, au pied d'Olive Street ; sa femme Bérénice Ménard, qui le rejoint vers 1822, passe pour la première femme blanche du site de Kansas City. En 1824, ses envois comptent 29 666 peaux, surtout de chevreuil, estimées 11 735,71 $. Ses lettres à son beau-père Pierre Ménard et à ses frères chiffrent la traite : le 31 mars 1829, le bateau à quille Beaver coule en trois minutes avec 15 000 peaux de chevreuil, 400 livres de castor et 400 loutres ; le 12 février 1833, il note que les Kansas ont fait plus de peaux que les Loups, les Chaouanons, les Piankashaws, les Peorias et les Weas réunis. Il visite souvent les villages kansas et ravitaille les postes de Frederick, de Meyers et de Pensineau ; le 24 mars 1837, il attend le vapeur Boonville pour les 200 paquets « de Pinsonneau et les nôtres ». Il meurt à Kansas City en avril 1838.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 243-248.",
+    "note": "Johnson donne la mort de François G. Chouteau le 8 avril 1838 (n. 1548) puis le 18 avril 1838 (p. 248). Frederick Chouteau dit en 1880 avoir sauvé la plupart des peaux du Beaver, avec une liste différente. Point approximatif sur la rive sud du Missouri, quartier des quais de Kansas City."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.93,
+     38.98
+    ]
+   },
+   "properties": {
+    "id": "JKS-320",
+    "nom": "Four Houses (comté de Johnson ?) : le poste fortifié des Chouteau sur la basse Kansas (1816-1830)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1816.627,
+    "fin": 1830.75,
+    "date_edtf": "1816-08-17/1830-10",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "François G. Chouteau",
+     "Gabriel Sylvestre Cerré Chouteau",
+     "Cyprien Chouteau",
+     "Frederick Chouteau",
+     "Pierre Chouteau Jr.",
+     "George C. Sibley",
+     "Thomas Biddle",
+     "John C. McCoy"
+    ],
+    "description": "Le 17 août 1816, François G. Chouteau et son cousin Gabriel Sylvestre, dit Cerré ou « Sara » Chouteau, reçoivent une licence de traite chez les Osages, les Kansas et les Pawnees ; le 5 novembre 1818, le facteur Sibley voit passer à Fort Osage les chevaux de bât de « Sara Chotou », chargés de marchandises pour les Petits Osages. En octobre 1819, le major Biddle écrit que « Séres et Francis Chouteau » ont une maison de traite non loin de l'embouchure de la Kansas, avec un capital d'environ 4 000 $. Le poste, dit Four Houses, réunit quatre maisons de rondins disposées autour d'une cour carrée, chacune présentant à l'extérieur un front défendable. Le 19 juillet 1822, Pierre Chouteau Jr. écarte Gabriel de l'affaire, que François garde pour lui et pour son frère Cyprien, dix-huit ans, puis pour Frederick, quinze ans, en 1825. Une licence du 17 août 1826 couvre la traite à l'embouchure de la Kansas et au « Dirt Village » des Kansas ; la carte de John McCoy d'octobre 1830 porte encore « 4 houses ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 248-250.",
+    "note": "Date et lieu discutés. Construction datée entre 1812 et 1822 selon les auteurs (Barry : 1819). John C. McCoy écrit en 1879 que le poste était sur la rive nord, à un mille en amont du Cedar Creek, près de Lenape. Sa carte de 1830 le place au contraire sur la rive sud, à l'embouchure du Cedar Creek, à deux milles et demi à l'est de De Soto. La plupart des études le mettent vers Bonner Springs. L'atlas (TI-, TJ-, TQ-…-four-house) le met sur la rive nord, à -94.88. Point hypothétique à l'embouchure du Cedar Creek, rive sud, selon la carte de 1830."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.31,
+     37.49
+    ]
+   },
+   "properties": {
+    "id": "JKS-321",
+    "nom": "Village de Marinhabotso, près de Shaw : le poste de Pierre Mélicourt Papin chez les Osages (v. 1825-1849)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1825.0,
+    "fin": 1849.552,
+    "date_edtf": "1825~/1849-07-20",
+    "precision": "circa",
+    "certitude": "approximative",
+    "personnages": [
+     "Pierre Mélicourt Papin",
+     "Sophie Mongrain",
+     "Baptiste Mongrain",
+     "Ouichingheb",
+     "Edward Papin",
+     "Michel Giraud",
+     "Victor Tixier",
+     "Louis Cortambert",
+     "Robert A. Calloway"
+    ],
+    "description": "Né à Saint-Louis le 28 avril 1793, Pierre Mélicourt Papin, petit-fils par sa mère de Laclède et de Marie-Thérèse Chouteau, traite d'abord pour l'American Fur Company au futur Papinville (Missouri). Après le traité du 2 juin 1825, il suit les Osages et ouvre un poste au milieu du village de Marinhabotso (« Celui qui atteint le ciel »), dit aussi Nantze ou Papin's Town, près de Shaw, sur le Canville Creek. Il a épousé Sophie Mongrain, métisse, sœur de Baptiste Mongrain, chef du village ; sa belle-mère Ouichingheb, revenue chez les Osages à la mort de son mari canadien, vit chez eux en 1840. En 1831, il annonce sa meilleure année en seize ans chez les Osages : vingt-trois chevaux et trois chariots de peaux descendent à l'embouchure du Marais des Cygnes, où l'on bâtit des pirogues pour Jefferson City. Tixier décrit sa maison, mêlant lits, chaises et tables aux nattes, sacs de cuir et cuillers « mikouens », avec une lithographie des Osages à Paris. Le sous-agent Calloway le dit en 1838 « excellent homme ». Il meurt à Saint-Louis le 20 juillet 1849, probablement du choléra ; ses obsèques partent de la maison de Michel Giraud.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 250-252, 261.",
+    "note": "Johnson se contredit sur son fils Edward : né le 12 juillet 1838 et baptisé près du Marais des Cygnes (p. 252), ou baptisé le 22 mai 1840 au poste de Giraud (p. 219, cf. JKS-11). L'atlas n'a que TQ-papin-gerald-oswego-kan (index). Point approximatif près de Shaw."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7,
+     39.08
+    ]
+   },
+   "properties": {
+    "id": "JKS-322",
+    "nom": "Poste de Cyprien Chouteau, en face de Muncie : l'hivernage de l'abbé Roux et le bac des Chouteau (1828-1857)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1828.0,
+    "fin": 1857.999,
+    "date_edtf": "1828/1857",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Cyprien Chouteau",
+     "François G. Chouteau",
+     "Bérénice Ménard Chouteau",
+     "Frederick Chouteau",
+     "Nancy Francis",
+     "Benoît Roux",
+     "Nicolas Lutz",
+     "John C. McCoy",
+     "Isaac McCoy",
+     "John C. Frémont"
+    ],
+    "description": "Le 2 décembre 1828, François G. Chouteau écrit avoir bâti trois bonnes maisons « exactement en face du village chaouanon », sur un point élevé près de la Kansas, où l'eau devrait monter de plus de quarante pieds pour les menacer ; l'abbé Lutz signale le 12 novembre 1828 le grand bâtiment que François, Cyprien et Frederick élèvent pour la traite avec les Chaouanons et les Kansas. Le poste, tenu par Cyprien, est sur la rive sud, à sept milles de l'embouchure (section 13, T. 11, R. 24 E., comté de Wyandotte), en face du village de Secondine (Muncie), à un mille au nord de Turner. L'abbé Benoît Roux y loge à l'automne 1833 et loue l'accueil de « Mr. Gesseau Chouteau, de sa femme et de son frère » ; le 20 janvier 1834, il écrit que l'hiver le tient « impitoyablement enfermé dans la maison de traite de Mr. Chouteau, à environ dix milles de la plupart des familles françaises ». Les Chouteau y exploitent aussi un bac sur la Kansas, que McCoy emprunte en 1830 pour gagner Fort Leavenworth ; en 1857, le bateau des parents de Charles Carpenter s'échoue au « Chouteau's ferry ». Cyprien a épousé en 1830 Nancy Francis, fille du chef chaouanon John Francis ; le poste fonctionne jusqu'au milieu des années 1850.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 252-255, 270.",
+    "note": "Daniel Morgan Boone date le poste de l'automne 1827 ; d'autres sources donnent 1825. Johnson rattache à tort, semble-t-il, le bac aux Four Houses (p. 270), alors qu'il le situe en face de Muncie. Complète F-sarpy-04 et R008 (Frémont, 1842). Point approximatif au nord de Turner."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88,
+     39.76
+    ]
+   },
+   "properties": {
+    "id": "JKS-323",
+    "nom": "Rive kansas en face des Blacksnake Hills : la maison de traite de Joseph Robidoux chez les Iowas, Sauks et Kickapous (1839-1853)",
+    "corpus": "Recherches",
+    "theme": "poste",
+    "debut": 1839.355,
+    "fin": 1853.25,
+    "date_edtf": "1839-05-09/1853-04",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph Robidoux",
+     "Julius C. Robidoux",
+     "Joshua Pilcher",
+     "D. D. Mitchell",
+     "Isaac McCoy"
+    ],
+    "description": "Après son poste des Blacksnake Hills, que McCoy voit en décembre 1833, Joseph Robidoux négocie pour William Clark le traité des Iowas et des Sauks et Renards du Missouri, signé à Fort Leavenworth le 17 septembre 1836, qui les installe au Kansas. Le 17 juillet 1839, Joshua Pilcher lui accorde une licence pour traiter avec les Iowas, Kickapous, Sauks et Renards à sa maison de traite, sur la rive sud, côté Kansas, du Missouri. Le 9 mai 1839, son fils Julius C. est autorisé à tenir un bac sur le Missouri, des Blacksnake Hills à la route menant au nouveau poste, avec des tarifs fixés par le comté : 1,50 $ la voiture à quatre roues, 25 cents l'homme à cheval, 12 cents et demi le piéton. Les licences de décembre 1841, du 15 juillet 1842 et du 17 juillet 1843 visent son établissement de la sous-agence de la Grande Nemaha (comté de Doniphan), avec dix puis neuf employés, et un point du pays kickapou en face des Blacksnake Hills. La licence est renouvelée en avril 1853 pour les mêmes nations.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 265-267.",
+    "note": "Le texte de la licence de 1839 est confus : il place le poste « à cinq milles à l'ouest des Blacksnake Hills, Mo. », puis « sur la rive sud [Kansas] ». Johnson date aussi de 1826 un premier bac à plat de Robidoux. Les fiches Robidoux de l'atlas ne portent pas ce poste du côté kansas. Point hypothétique sur la rive kansas, en face de Saint-Joseph."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.35,
+     39.7
+    ]
+   },
+   "properties": {
+    "id": "JKS-324",
+    "nom": "Rivière Vermillion (comté de Marshall) : le pont à péage de Louis Tremble et la ferme de Changreau (v. 1855)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1855.0,
+    "fin": 1855.999,
+    "date_edtf": "1855~",
+    "precision": "circa",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Tremble",
+     "Changreau"
+    ],
+    "description": "Le Français Louis Tremble, chassé des terrains de chasse des Rocheuses par un ordre du général Harney interdisant aux étrangers d'y opérer, vient avec sa femme sioux au nord-est du Kansas. Il y tient un pont à péage sur la Vermillion, à l'Independence Crossing de la piste de l'Oregon, dit aussi « Old Mormon », « Hollenberg » ou « California Crossing ». Non loin, un autre Français, Changreau, lui aussi marié à une Sioux, cultive une ferme de quinze acres et vend ses légumes aux voyageurs de la piste. Selon le récit que reprend Johnson, sa sœur est enlevée par des Kansas à cheval ; il les poursuit jusqu'à Council Grove, où il la voit fouettée à mort, et quitte ensuite sa ferme pour un lieu plus sûr.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 289.",
+    "note": "Johnson suit Andreas et Cutler (1883) et ne donne pas de date. TI-changreau-vermillion (même source) situe Changreau près de Tremble, sur la Vermillion (Barrett), vers 1855. HW76-16 (Hanson et Walters) les met à Big Springs en novembre 1855. Récit de l'enlèvement non vérifié. Point hypothétique, celui de l'atlas à Barrett."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.57,
+     39.115
+    ]
+   },
+   "properties": {
+    "id": "JKS-325",
+    "nom": "Chouteau's Landing (Kansas City) : escale des vapeurs de la compagnie Chouteau (1832-1843)",
+    "corpus": "Recherches",
+    "theme": "commerce",
+    "debut": 1832.0,
+    "fin": 1843.417,
+    "date_edtf": "1832/1843-06",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "François G. Chouteau",
+     "Bérénice Ménard Chouteau",
+     "Pierre Chouteau Jr.",
+     "Bernard Pratte Jr.",
+     "Étienne Provost",
+     "Antoine Clément",
+     "Joseph A. Sire",
+     "Edmond François Chouteau"
+    ],
+    "description": "En 1832, le Yellowstone, premier vapeur à remonter jusqu'à l'embouchure de la Yellowstone, s'arrête au débarcadère des Chouteau pour prendre dix cordes de bois que François G. Chouteau a préparées. En août 1835, Chouteau compte expédier par la Diana les annuités des Kansas et soixante paquets de fourrures ; le 3 avril 1836, le vapeur dépose à la « Rivière des Kansas » sucre, sel, café et plomb. En mai 1837, le St. Peters, commandé par Bernard Pratte Jr., y débarque le courrier, une « petite mulâtresse », l'esclave Nancy, destinée à la fille des Chouteau, et les hommes du rendez-vous des Rocheuses, dont Étienne Provost et Antoine Clément, chasseur de Stewart ; le 6 octobre, il y amène 170 Outaouais de Roche de Bœuf et de Wolf Rapids, en route pour leur réserve du comté de Franklin. Le 2 mai 1843, le capitaine Joseph A. Sire, de l'Omega, note dans son journal, tenu en français, qu'il trouve « tout abandonné » chez Madame Chouteau : la crue a chassé la veuve, et Audubon écrit que l'eau est montée à deux pieds dans sa maison. L'Omega y repasse en juin et y reprend en octobre des membres de l'expédition Stewart.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 293, 295-298, 301-302.",
+    "note": "Johnson note qu'on parlait souvent français entre capitaines, pilotes et équipages, et que de nombreux journaux de bord étaient tenus en français. L'atlas (AJ43-01) a le départ de l'Omega à Saint-Louis, pas cette escale. Point approximatif au débarcadère de Kansas City."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.62,
+     39.12
+    ]
+   },
+   "properties": {
+    "id": "JKS-326",
+    "nom": "Embouchure de la Kansas (comté de Wyandotte) : Joseph La Barge et le choléra du Yellowstone (été 1833)",
+    "corpus": "Recherches",
+    "theme": "evenement",
+    "debut": 1833.5,
+    "fin": 1833.5,
+    "date_edtf": "1833-07",
+    "precision": "mois",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Joseph La Barge",
+     "Édouard Liguest Chouteau",
+     "Cyprien Chouteau",
+     "Isaac McCoy"
+    ],
+    "description": "Lors d'un voyage de 1833, le choléra éclate à bord du Yellowstone à l'approche de Kansas City : Joseph La Barge, commis de dix-sept ans, enterre dans une même fosse huit victimes mortes en vingt-quatre heures, dont le pilote, le mécanicien et tous les chauffeurs. Le capitaine repart chercher un équipage à Saint-Louis et lui laisse le vapeur. Les habitants du comté de Jackson menaçant de brûler le bateau, La Barge rallume lui-même les chaudières et va mouiller hors du Missouri, sur la rive droite en amont de l'embouchure de la Kansas ; l'Assiniboine, de la même compagnie, refuse de s'arrêter à ses signaux. Il marche jusqu'au débarcadère des Chouteau pour demander des ordres au sujet des marchandises destinées au poste de Cyprien Chouteau ; un garde posté à un mille du poste, à cause de l'épidémie, transmet sa demande, et son ancien camarade d'école Édouard Liguest Chouteau lui apporte des vivres et une robe de bison. Le 13 juillet 1833, Isaac McCoy note qu'un bateau arrêté par le choléra est mouillé à cinq milles de sa maison de Westport.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 294-295.",
+    "note": "Fils d'un Québécois, La Barge parla d'abord le français et en usa couramment jusque vers 1850, selon Chittenden cité par Johnson. Le Yellowstone repart ensuite pour Council Bluffs. L'atlas a La Barge sur le haut Missouri (LP-la-barge-…), pas cet épisode. Point hypothétique sur la rive kansas, en amont du confluent."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3,
+     37.51
+    ]
+   },
+   "properties": {
+    "id": "JKS-327",
+    "nom": "Villages osages du Neosho : Louis Cortambert, auteur du Voyage au pays des Osages (1835-1836)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1835.0,
+    "fin": 1836.68,
+    "date_edtf": "1835/1836-09-06",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [
+     "Louis Richard Cortambert",
+     "Laurent",
+     "Michel Giraud",
+     "Suzanne Chouteau",
+     "Auguste-Pierre Chouteau"
+    ],
+    "description": "Fils d'un médecin français, Louis Richard Cortambert arrive en 1835 avec un jeune Parisien, Laurent. Il passe la « Rivière des Kans » à « Ferrytown, petit village d'Indiens », peut-être au passage des Delawares, et regrette de ne trouver au village delaware que des femmes, alors que « les hommes parlent généralement français ». Il campe trois semaines sur le Marmaton, puis se soigne de la fièvre à Harmony (Missouri), à la Frenchman's Inn, avant de gagner en décembre 1835 les villages osages du Neosho ; le 6 septembre 1836, Giraud note que Cortambert lui a remboursé 170 $. Il distingue les cinq villages, dont Marinhabatso (Touche-au-ciel), Cheveux-Blancs, Cœur-Tranquille et les Petits Osages, et décrit la danse des plumes, le rôle du « marmiton », crieur du village, et les mœurs osages. Il note que les Osages appellent les Français Ichitarin et que les femmes mariées à des Blancs sont plus industrieuses, mais moins soumises. Publié à Paris en 1837, son livre est loué par l'historien osage John J. Mathews ; revenu en Amérique, Cortambert épouse Suzanne Chouteau, fille d'Auguste-Pierre, et devient vice-consul de France à Saint-Louis.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 314-318.",
+    "note": "Johnson date l'arrivée chez les Osages de décembre 1835 ; Barry et Mathews sont ses sources. Absent de l'atlas. Point approximatif au village de Marinhabatso (près de Shaw)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.315,
+     37.485
+    ]
+   },
+   "properties": {
+    "id": "JKS-328",
+    "nom": "Niou-Chou (village de Papin) : Victor Tixier, médecin de Clermont-Ferrand, hôte des Osages (25 mai-8 août 1840)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1840.399,
+    "fin": 1840.603,
+    "date_edtf": "1840-05-25/1840-08-08",
+    "precision": "jour",
+    "certitude": "approximative",
+    "personnages": [
+     "Victor Tixier",
+     "James de Berty Trudeau",
+     "Alexandre Guérin",
+     "Pierre Mélicourt Papin",
+     "Sophie Mongrain",
+     "Baptiste Mongrain",
+     "Ouichingheb",
+     "Edward Papin",
+     "Paul Liguest Chouteau",
+     "Édouard Chouteau"
+    ],
+    "description": "Né à Clermont-Ferrand le 24 mars 1815, l'étudiant en médecine Victor Tixier débarque à La Nouvelle-Orléans le 27 janvier 1840 avec le Louisianais James de Berty Trudeau, petit-fils de Zénon Trudeau ; Paul Liguest Chouteau les engage à visiter les Osages, et le Bordelais Alexandre Guérin se joint à eux. Arrivés au Kansas le 25 mai, ils restent chez les Osages jusqu'au 8 août 1840. Tixier loge chez Pierre Mélicourt Papin, au village de Niou-Chou ou Manrinhabotso, siège du poste et résidence du chef Baptiste Mongrain : Papin, sa femme Sophie et le frère de celle-ci, Baptiste Mongrain, servent d'interprètes. Le 4 juin, ils partent avec les Osages pour la chasse d'été, avec 1 500 hommes et 3 000 chevaux ; ils dorment à treize, avec Papin, Sophie, leur fils Edward, la belle-mère Ouichingheb et cinq Osages, dans une loge de quinze pieds. Avant le départ, les Osages déposent leurs fusils, sans platine, dans la maison de Papin. Tixier rencontre en chemin le chef kansa White Feather et note que les Osages aiment les « Iskta-je », Français et Créoles, et savent distinguer les Créoles des Français « de l'autre côté de la grande eau ».",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 318-320, 330, 342-344.",
+    "note": "Son Voyage aux prairies osages paraît en France ; il exerce ensuite la médecine à Saint-Pont et meurt le 6 juillet 1885. Absent de l'atlas. Point approximatif au village de Papin, près de Shaw."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.63,
+     39.03
+    ]
+   },
+   "properties": {
+    "id": "JKS-329",
+    "nom": "Camp William (comté de Johnson) : Cyprien Ménard et Edmond F. « Gesso » Chouteau dans l'expédition de plaisance de Stewart (1843)",
+    "corpus": "Recherches",
+    "theme": "exploration",
+    "debut": 1843.347,
+    "fin": 1843.81,
+    "date_edtf": "1843-05-06/1843-10-23",
+    "precision": "jour",
+    "certitude": "hypothetique",
+    "personnages": [
+     "Louis Cyprien Ménard",
+     "Edmond François Chouteau",
+     "William Drummond Stewart",
+     "Matthew C. Field",
+     "William Clark Kennerly",
+     "Joseph Pappan",
+     "Louis Pappan"
+    ],
+    "description": "Au début de mai 1843, Sir William Drummond Stewart emmène une vingtaine d'invités aux Rocheuses, dont Louis Cyprien Ménard, de Kaskaskia, fils de Pierre Ménard et demi-frère de Bérénice Chouteau, et Edmond François « Gesso » Chouteau, fils aîné de François G. et de Bérénice, né le 6 janvier 1821 et élevé au débarcadère des Chouteau. Débarqués du vapeur Weston les 6 ou 7 mai, les voyageurs sont « traités en chasseurs » par Edmond Chouteau, qui leur sert le gibier de sa chasse. Le 10 mai, ils dressent le « Camp William » à un mille à l'ouest de la frontière du Missouri, près de la maison du chef chaouanon Joseph Parks, et y jouent La Mégère apprivoisée en attendant de partir, le 22. Le 27 mai, ils passent la Kansas sur la pirogue des frères Papin (Pappan), les mules manquant de se noyer. Au retour, Ménard et Chouteau, lassés de Stewart, se séparent du groupe, repassent au bac Pappan de Topeka, puis la Wakarusa le 18 octobre, et prennent l'Omega à Kansas City. En 1846, lieutenant des volontaires du Missouri, Gesso Chouteau passe la Kansas au bac de Fish, à l'embouchure de la Wakarusa, le 3 juillet ; il meurt à Kansas City le 6 février 1853.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 344-348.",
+    "note": "L'atlas a Guesso Chouteau et Cyprian Menard au fort Laramie (CJ-chouteau-guesso-fort-laram, CJ-menard-cyprian-fort-laram), pas au départ du Kansas. Le passage de la Kansas est aussi dans JKS-16 (bac Pappan, mai 1843). Point hypothétique à un mille à l'ouest de la frontière, comté de Johnson."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.46,
+     39.34
+    ]
+   },
+   "properties": {
+    "id": "JKS-330",
+    "nom": "Rivière Delaware (comté de Jefferson) : la Sauterelle des Français, devenue Soutrelle puis Grasshopper (jusqu'en 1875)",
+    "corpus": "Recherches",
+    "theme": "toponymie",
+    "debut": 1875.0,
+    "fin": 1875.999,
+    "date_edtf": "1875",
+    "precision": "annee",
+    "certitude": "approximative",
+    "personnages": [],
+    "description": "La rivière qui traverse le comté de Jefferson et se jette dans la Kansas fut appelée Sauterelle par les Français. Les anglophones en firent « Soutrelle » et « Sotroel », avant de traduire le nom en « Grasshopper River ». Après l'invasion des criquets de 1874, les villes riveraines demandèrent à la législature du Kansas de la rebaptiser Delaware, et Grasshopper Falls devint Valley Falls en 1875. Les comtés voisins d'Atchison et de Brown ont gardé le nom de Grasshopper pour le cours supérieur.",
+    "sources": "Johnson, Simone Amardeil, The French Presence in Kansas 1673-1854, éd. David A. Dinneen, s. l. n. d. (PDF, Drive de l'auteur, dossier KANSAS), p. 454.",
+    "note": "Passage hors des chap. 9-13 (chap. sur la toponymie), signalé comme piste dans la mission. Johnson écrit « Atkinson » pour Atchison. L'agence kansa (JKS-309) était à quatre milles en aval de son embouchure (n. 1409). Point approximatif à Valley Falls."
+   }
   }
  ]
 }
